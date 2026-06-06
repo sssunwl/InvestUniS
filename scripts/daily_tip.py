@@ -11,7 +11,7 @@ import json
 import os
 import sys
 import requests
-from datetime import datetime
+from datetime import datetime, timedelta
 import pytz
 
 BOT_TOKEN = os.environ.get('TG_BOT_TOKEN', '')
@@ -19,6 +19,63 @@ CHAT_ID = os.environ.get('TG_CHAT_ID', '')
 ACADEMY_URL = 'https://sssunwl.github.io/InvestUni'
 
 HK_TZ = pytz.timezone('Asia/Hong_Kong')
+
+# ── 2026 市場休市日曆 ──────────────────────────────────────────
+# 標注 (暫定) 的日期依農曆推算，可能有1-2日誤差
+MARKET_HOLIDAYS = {
+    'us': {
+        '2026-06-19': 'Juneteenth',
+        '2026-07-03': '獨立日（7/4週六提前）',
+        '2026-09-07': '勞工節 Labor Day',
+        '2026-11-26': '感恩節 Thanksgiving',
+        '2026-12-25': '聖誕節 Christmas',
+    },
+    'hk': {
+        '2026-06-19': '端午節（暫定）',
+        '2026-07-01': '香港回歸紀念日',
+        '2026-10-01': '中秋節翌日（暫定）',
+        '2026-10-02': '國慶日',
+        '2026-10-19': '重陽節（暫定）',
+        '2026-12-25': '聖誕節',
+        '2026-12-26': '聖誕節翌日',
+    },
+    'tw': {
+        '2026-06-19': '端午節（暫定）',
+        '2026-10-09': '國慶補假（暫定）',
+        '2026-10-10': '國慶日（雙十節）',
+    },
+    'jp': {
+        '2026-07-20': '海の日',
+        '2026-08-11': '山の日',
+        '2026-09-21': '敬老の日（暫定）',
+        '2026-09-23': '秋分の日（暫定）',
+        '2026-10-12': 'スポーツの日',
+        '2026-11-03': '文化の日',
+        '2026-11-23': '勤労感謝の日',
+        '2026-12-30': '年末最終取引日',
+    },
+}
+
+MARKET_LABELS = {
+    'us': '🇺🇸 美股',
+    'hk': '🇭🇰 港股',
+    'tw': '🇹🇼 台股',
+    'jp': '🇯🇵 日股',
+}
+
+
+def get_upcoming_holidays(now_hk, days=7):
+    """Return list of formatted strings for holidays in the next `days` days."""
+    alerts = []
+    for i in range(days):
+        date_str = (now_hk + timedelta(days=i)).strftime('%Y-%m-%d')
+        weekday_str = (now_hk + timedelta(days=i)).strftime('%a')
+        for market, holidays in MARKET_HOLIDAYS.items():
+            if date_str in holidays:
+                name = holidays[date_str]
+                label = MARKET_LABELS[market]
+                alerts.append(f"  {date_str}（{weekday_str}）{label} — {name}")
+    return alerts
 
 TIPS = [
     ("📊 成交量 — 放量上漲",
@@ -108,6 +165,15 @@ def news_block(items, limit=3):
     return '\n'.join(lines) + '\n'
 
 
+def holiday_block(now_hk):
+    """Return formatted holiday reminder block if any holidays in next 7 days."""
+    alerts = get_upcoming_holidays(now_hk, days=7)
+    if not alerts:
+        return ''
+    lines = '\n'.join(alerts)
+    return f"\n⛔ <b>7日內休市提醒</b>\n{lines}\n"
+
+
 def build_us_post(data, now_hk):
     """08:00 HKT — 美股夜盤後總結 + 加密市場"""
     tip = get_tip(now_hk, offset=0)
@@ -119,7 +185,8 @@ def build_us_post(data, now_hk):
         f"🇺🇸 <b>美股夜盤精選</b>\n"
         f"{news_block(us_post)}\n"
         f"🌐 <b>加密貨幣最新走勢</b>\n"
-        f"{news_block(crypto, limit=2)}\n"
+        f"{news_block(crypto, limit=2)}"
+        f"{holiday_block(now_hk)}\n"
         f"━━━━━━━━━━━━━━━\n"
         f"💡 {tip}\n\n"
         f"📚 <a href=\"{ACADEMY_URL}\">Suniverse 投資學堂</a>"
@@ -140,7 +207,8 @@ def build_asia_pre(data, now_hk):
         f"🇹🇼 <b>台股盤前</b>\n"
         f"{news_block(tw_pre, limit=2)}\n"
         f"🇯🇵 <b>日股盤前</b>\n"
-        f"{news_block(jp_pre, limit=2)}\n"
+        f"{news_block(jp_pre, limit=2)}"
+        f"{holiday_block(now_hk)}\n"
         f"━━━━━━━━━━━━━━━\n"
         f"💡 {tip}\n\n"
         f"📚 <a href=\"{ACADEMY_URL}\">Suniverse 投資學堂</a>"
@@ -161,7 +229,8 @@ def build_asia_post(data, now_hk):
         f"🇹🇼 <b>台股收市總結</b>\n"
         f"{news_block(tw_post, limit=2)}\n"
         f"🇯🇵 <b>日股收市總結</b>\n"
-        f"{news_block(jp_post, limit=2)}\n"
+        f"{news_block(jp_post, limit=2)}"
+        f"{holiday_block(now_hk)}\n"
         f"━━━━━━━━━━━━━━━\n"
         f"💡 {tip}\n\n"
         f"📚 <a href=\"{ACADEMY_URL}\">Suniverse 投資學堂</a>"
@@ -179,7 +248,8 @@ def build_us_pre(data, now_hk):
         f"🇺🇸 <b>美股盤前精選</b>\n"
         f"{news_block(us_pre)}\n"
         f"🌐 <b>加密貨幣最新走勢</b>\n"
-        f"{news_block(crypto, limit=2)}\n"
+        f"{news_block(crypto, limit=2)}"
+        f"{holiday_block(now_hk)}\n"
         f"━━━━━━━━━━━━━━━\n"
         f"💡 {tip}\n\n"
         f"📚 <a href=\"{ACADEMY_URL}\">Suniverse 投資學堂</a>"

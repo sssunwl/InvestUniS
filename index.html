@@ -136,11 +136,24 @@
       border-radius: 20px;
       white-space: nowrap;
     }
-    .badge-open   { background: var(--green-bg); color: var(--green); }
-    .badge-pre    { background: var(--yellow-bg); color: var(--yellow); }
-    .badge-post   { background: var(--blue-bg); color: var(--blue); }
-    .badge-closed { background: #F0F0F0; color: #999; }
-    .badge-always { background: var(--green-bg); color: var(--green); }
+    .badge-open    { background: var(--green-bg); color: var(--green); }
+    .badge-pre     { background: var(--yellow-bg); color: var(--yellow); }
+    .badge-post    { background: var(--blue-bg); color: var(--blue); }
+    .badge-closed  { background: #F0F0F0; color: #999; }
+    .badge-always  { background: var(--green-bg); color: var(--green); }
+    .badge-holiday { background: var(--red-bg); color: var(--red); }
+
+    /* ── Holiday Alert ── */
+    .holiday-alert {
+      background: #FFF4F4;
+      border: 1.5px solid #E08080;
+      border-radius: 9px;
+      padding: 12px 16px;
+      margin-top: 10px;
+      font-size: 12px;
+    }
+    .holiday-alert-title { font-weight: 700; color: var(--red); margin-bottom: 6px; }
+    .holiday-alert-item { color: #6B3030; padding: 2px 0; }
 
     /* ── Home Tab: Hours Table ── */
     .hours-wrap { margin-bottom: 26px; }
@@ -496,6 +509,12 @@
           * 美股夏令時間（EDT）每年3月第二個週日啟動，11月第一個週日結束。冬令時間（EST）其餘時間適用。
         </p>
       </div>
+    </div>
+
+    <!-- Upcoming Holidays -->
+    <div id="holiday-alert" class="holiday-alert" style="display:none;">
+      <div class="holiday-alert-title">⛔ 近期休市提醒（7日內）</div>
+      <div id="holiday-list"></div>
     </div>
 
     <!-- News: 美股 -->
@@ -855,6 +874,76 @@
 </footer>
 
 <script>
+  // ── 2026 Market Holidays ──
+  // (暫定) = dates based on lunar calendar estimation, ±1-2 days possible
+  const MARKET_HOLIDAYS = {
+    us: {
+      '2026-06-19': 'Juneteenth',
+      '2026-07-03': '獨立日（7/4週六提前）',
+      '2026-09-07': '勞工節 Labor Day',
+      '2026-11-26': '感恩節 Thanksgiving',
+      '2026-12-25': '聖誕節 Christmas',
+    },
+    hk: {
+      '2026-06-19': '端午節（暫定）',
+      '2026-07-01': '香港回歸紀念日',
+      '2026-10-01': '中秋節翌日（暫定）',
+      '2026-10-02': '國慶日',
+      '2026-10-19': '重陽節（暫定）',
+      '2026-12-25': '聖誕節',
+      '2026-12-26': '聖誕節翌日',
+    },
+    tw: {
+      '2026-06-19': '端午節（暫定）',
+      '2026-10-09': '國慶補假（暫定）',
+      '2026-10-10': '國慶日（雙十節）',
+    },
+    jp: {
+      '2026-07-20': '海の日',
+      '2026-08-11': '山の日',
+      '2026-09-21': '敬老の日（暫定）',
+      '2026-09-23': '秋分の日（暫定）',
+      '2026-10-12': 'スポーツの日',
+      '2026-11-03': '文化の日',
+      '2026-11-23': '勤労感謝の日',
+      '2026-12-30': '年末最終取引日',
+    },
+  };
+
+  const MKT_NAMES = { us:'🇺🇸美股', hk:'🇭🇰港股', tw:'🇹🇼台股', jp:'🇯🇵日股' };
+
+  function getHKDateStr(offsetDays = 0) {
+    const d = new Date(Date.now() + offsetDays * 86400000);
+    // 'sv' locale gives YYYY-MM-DD in Asia/Hong_Kong timezone
+    return new Intl.DateTimeFormat('sv', { timeZone: 'Asia/Hong_Kong' }).format(d);
+  }
+
+  function isHoliday(market) {
+    const today = getHKDateStr();
+    return !!(MARKET_HOLIDAYS[market] && MARKET_HOLIDAYS[market][today]);
+  }
+
+  function renderUpcomingHolidays() {
+    const alerts = [];
+    for (let i = 0; i <= 7; i++) {
+      const dateStr = getHKDateStr(i);
+      // Get weekday name in Chinese
+      const d = new Date(Date.now() + i * 86400000);
+      const wd = new Intl.DateTimeFormat('zh-TW', { timeZone: 'Asia/Hong_Kong', weekday: 'short' }).format(d);
+      for (const [mkt, holidays] of Object.entries(MARKET_HOLIDAYS)) {
+        if (holidays[dateStr]) {
+          alerts.push(`${dateStr}（${wd}）${MKT_NAMES[mkt]} — ${holidays[dateStr]}`);
+        }
+      }
+    }
+    const container = document.getElementById('holiday-alert');
+    const list = document.getElementById('holiday-list');
+    if (alerts.length > 0 && container && list) {
+      container.style.display = 'block';
+      list.innerHTML = alerts.map(a => `<div class="holiday-alert-item">• ${a}</div>`).join('');
+    }
+  }
+
   // ── Tab switching ──
   function switchTab(tab, btn) {
     document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
@@ -918,13 +1007,15 @@
       jp: ['Asia/Tokyo',       9,0,  15,30, 8,0,  16,30],
     };
     const labels = {
-      open:   ['已開市', 'badge-open'],
-      pre:    ['盤前交易', 'badge-pre'],
-      post:   ['盤後交易', 'badge-post'],
-      closed: ['已休市', 'badge-closed'],
+      holiday: ['今日休市', 'badge-holiday'],
+      open:    ['已開市',   'badge-open'],
+      pre:     ['盤前交易', 'badge-pre'],
+      post:    ['盤後交易', 'badge-post'],
+      closed:  ['已休市',   'badge-closed'],
     };
     for (const [mkt, c] of Object.entries(cfgs)) {
-      const status = calcStatus(c[0], c[1],c[2], c[3],c[4], c[5],c[6], c[7],c[8]);
+      const status = isHoliday(mkt) ? 'holiday'
+                   : calcStatus(c[0], c[1],c[2], c[3],c[4], c[5],c[6], c[7],c[8]);
       const el = document.getElementById('badge-' + mkt);
       if (el) {
         const [lbl, cls] = labels[status];
@@ -960,9 +1051,10 @@
     listEl.innerHTML = section.news.map(item => {
       const tickers = (item.related || []).map(t => `<span class="news-ticker">${esc(t)}</span>`).join('');
       const src = item.source ? `<span class="news-source">${esc(item.source)}</span>` : '';
+      const pub = item.published_hkt ? `<span class="news-source">${esc(item.published_hkt)} HKT</span>` : '';
       return `<div class="news-item">
         <a class="news-title" href="${esc(item.url)}" target="_blank" rel="noopener noreferrer">${esc(item.title)}</a>
-        <div class="news-meta">${src}${tickers}</div>
+        <div class="news-meta">${pub}${src}${tickers}</div>
       </div>`;
     }).join('');
   }
@@ -1014,6 +1106,7 @@
   updateClock();
   setInterval(updateClock, 1000);
   loadNews();
+  renderUpcomingHolidays();
 </script>
 
 </body>

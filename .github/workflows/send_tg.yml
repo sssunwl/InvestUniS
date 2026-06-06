@@ -1,9 +1,18 @@
-name: Send Daily TG Investment Digest
+name: Send Daily TG Digest (4x)
+
+# 每天 4 次播報（所有時間以 HKT +8 標示，cron 使用 UTC）
+#
+#  00:00 UTC = 08:00 HKT  →  🇺🇸 美股夜盤後總結 + 🌐 加密市場
+#  01:00 UTC = 09:00 HKT  →  🇭🇰🇹🇼🇯🇵 亞洲盤前合集
+#  09:00 UTC = 17:00 HKT  →  🇭🇰🇹🇼🇯🇵 亞洲盤後合集
+#  13:30 UTC = 21:30 HKT  →  🇺🇸 美股盤前預覽 + 🌐 加密市場
 
 on:
   schedule:
-    - cron: '0 1 * * 1-5'   # 09:00 HKT — 盤後總結 (美股收市後)
-    - cron: '30 8 * * 1-5'  # 16:30 HKT — 盤前預覽 (美股開市前)
+    - cron: '0 0 * * 2-6'   # 08:00 HKT Tue-Sat（涵蓋 Mon-Fri 美股夜盤）
+    - cron: '0 1 * * 1-5'   # 09:00 HKT Mon-Fri（亞洲開市前）
+    - cron: '0 9 * * 1-5'   # 17:00 HKT Mon-Fri（亞洲收市後）
+    - cron: '30 13 * * 1-5' # 21:30 HKT Mon-Fri（美股開市前）
   workflow_dispatch:
 
 jobs:
@@ -28,8 +37,11 @@ jobs:
           git config user.email "actions@github.com"
           git config user.name "InvestUni Bot"
           git add data/news.json
-          git diff --staged --quiet || git commit -m "chore: news update before TG digest [$(date -u '+%H:%M UTC')]"
-          git push
+          if ! git diff --staged --quiet; then
+            git pull --rebase origin main
+            git commit -m "chore: news update [$(TZ=Asia/Hong_Kong date '+%H:%M HKT')]"
+            git push
+          fi
 
       - name: Send TG digest
         env:

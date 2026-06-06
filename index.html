@@ -1,0 +1,864 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Suniverse 投資學堂</title>
+  <style>
+    :root {
+      --gold: #C9A84C;
+      --gold-light: #E8C96A;
+      --orange: #D4783A;
+      --cream: #F5EDD6;
+      --warm-white: #FDFAF4;
+      --dark: #2C2416;
+      --mid: #6B5B3E;
+      --border: #E0CEA8;
+      --tag-green: #2D7A4F;
+      --tag-green-bg: #E8F5ED;
+      --tag-yellow: #8A6A00;
+      --tag-yellow-bg: #FFF8DC;
+      --tag-red: #B83232;
+      --tag-red-bg: #FDEAEA;
+      --tag-orange: #B85A00;
+      --tag-orange-bg: #FFF0E0;
+      --tag-blue: #1A5FA8;
+      --tag-blue-bg: #EAF2FF;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans TC', sans-serif;
+      background: var(--warm-white);
+      color: var(--dark);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* ── Header ── */
+    header {
+      background: linear-gradient(135deg, var(--dark) 0%, #4A3828 100%);
+      padding: 28px 24px 20px;
+      text-align: center;
+    }
+    header .brand {
+      font-size: 11px;
+      letter-spacing: 4px;
+      color: var(--gold);
+      text-transform: uppercase;
+      margin-bottom: 6px;
+      opacity: 0.9;
+    }
+    header h1 {
+      font-size: 26px;
+      font-weight: 700;
+      color: var(--cream);
+      letter-spacing: 1px;
+    }
+    header p {
+      font-size: 13px;
+      color: #A09070;
+      margin-top: 6px;
+    }
+
+    /* ── Tabs ── */
+    .tab-nav {
+      display: flex;
+      background: var(--dark);
+      border-bottom: 2px solid var(--gold);
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    .tab-nav::-webkit-scrollbar { display: none; }
+
+    .tab-btn {
+      flex: 1;
+      min-width: 100px;
+      padding: 14px 8px;
+      border: none;
+      background: transparent;
+      color: #A09070;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s;
+      white-space: nowrap;
+      position: relative;
+    }
+    .tab-btn:hover { color: var(--gold-light); }
+    .tab-btn.active {
+      color: var(--gold);
+      font-weight: 700;
+    }
+    .tab-btn.active::after {
+      content: '';
+      position: absolute;
+      bottom: -2px;
+      left: 0; right: 0;
+      height: 2px;
+      background: var(--gold);
+    }
+
+    /* ── Main ── */
+    main { flex: 1; max-width: 860px; margin: 0 auto; width: 100%; padding: 28px 16px; }
+
+    .tab-panel { display: none; animation: fadeIn 0.2s ease; }
+    .tab-panel.active { display: block; }
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+
+    .section-intro {
+      background: var(--cream);
+      border-left: 3px solid var(--gold);
+      padding: 14px 18px;
+      border-radius: 0 8px 8px 0;
+      font-size: 14px;
+      color: var(--mid);
+      margin-bottom: 24px;
+      line-height: 1.7;
+    }
+
+    /* ── Signal Cards ── */
+    .cards-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 16px;
+    }
+
+    .card {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px;
+      transition: box-shadow 0.2s, transform 0.2s;
+    }
+    .card:hover { box-shadow: 0 4px 20px rgba(201,168,76,0.15); transform: translateY(-2px); }
+
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+    .card-icon { font-size: 22px; }
+    .card-title { font-size: 16px; font-weight: 700; color: var(--dark); }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 11px;
+      font-weight: 600;
+      padding: 3px 10px;
+      border-radius: 20px;
+      margin-left: auto;
+    }
+    .tag-bullish { background: var(--tag-green-bg); color: var(--tag-green); }
+    .tag-caution { background: var(--tag-yellow-bg); color: var(--tag-yellow); }
+    .tag-bearish { background: var(--tag-red-bg); color: var(--tag-red); }
+    .tag-alert   { background: var(--tag-orange-bg); color: var(--tag-orange); }
+    .tag-info    { background: var(--tag-blue-bg); color: var(--tag-blue); }
+
+    .card-desc { font-size: 13px; color: var(--mid); line-height: 1.7; margin-bottom: 12px; }
+
+    .card-action {
+      font-size: 12px;
+      color: var(--dark);
+      background: var(--cream);
+      border-radius: 6px;
+      padding: 8px 12px;
+      line-height: 1.6;
+    }
+    .card-action strong { color: var(--orange); }
+
+    /* ── Glossary ── */
+    .glossary-list { display: flex; flex-direction: column; gap: 0; }
+    .glossary-category {
+      font-size: 11px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: var(--gold);
+      font-weight: 700;
+      margin: 24px 0 10px;
+    }
+    .glossary-item {
+      border-bottom: 1px solid var(--border);
+      padding: 16px 4px;
+    }
+    .glossary-term {
+      font-size: 15px;
+      font-weight: 700;
+      color: var(--dark);
+      margin-bottom: 4px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .glossary-en {
+      font-size: 12px;
+      color: #A09070;
+      font-weight: 400;
+    }
+    .glossary-def {
+      font-size: 13px;
+      color: var(--mid);
+      line-height: 1.7;
+    }
+
+    /* ── Options Page ── */
+    .options-section { margin-bottom: 32px; }
+    .options-section-title {
+      font-size: 13px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: var(--gold);
+      font-weight: 700;
+      margin-bottom: 16px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .options-section-title::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--border);
+    }
+
+    .concept-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 12px;
+    }
+    .concept-card {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 16px;
+      text-align: center;
+    }
+    .concept-card .emoji { font-size: 28px; margin-bottom: 8px; }
+    .concept-card .name { font-size: 14px; font-weight: 700; color: var(--dark); margin-bottom: 6px; }
+    .concept-card .desc { font-size: 12px; color: var(--mid); line-height: 1.6; }
+
+    .weapon-card {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 22px;
+      margin-bottom: 16px;
+    }
+    .weapon-title {
+      font-size: 16px;
+      font-weight: 700;
+      color: var(--dark);
+      margin-bottom: 6px;
+    }
+    .weapon-subtitle {
+      font-size: 12px;
+      color: var(--mid);
+      margin-bottom: 16px;
+    }
+    .weapon-stats {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 10px;
+      margin-bottom: 16px;
+    }
+    .stat-box {
+      background: var(--cream);
+      border-radius: 8px;
+      padding: 10px;
+      text-align: center;
+    }
+    .stat-label { font-size: 10px; color: var(--mid); margin-bottom: 4px; }
+    .stat-value { font-size: 15px; font-weight: 700; color: var(--dark); }
+
+    .weapon-desc { font-size: 13px; color: var(--mid); line-height: 1.7; }
+
+    .warning-box {
+      background: #FFF4F4;
+      border: 1.5px solid #E08080;
+      border-radius: 10px;
+      padding: 16px 18px;
+      margin-top: 8px;
+    }
+    .warning-box .warning-title {
+      font-size: 13px;
+      font-weight: 700;
+      color: #B83232;
+      margin-bottom: 6px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .warning-box p { font-size: 12px; color: #6B3030; line-height: 1.7; }
+
+    .window-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      gap: 14px;
+    }
+    .window-card {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 18px;
+    }
+    .window-card .time { font-size: 13px; font-weight: 700; color: var(--gold); margin-bottom: 4px; }
+    .window-card .label { font-size: 15px; font-weight: 700; color: var(--dark); margin-bottom: 8px; }
+    .window-card .explain { font-size: 12px; color: var(--mid); line-height: 1.6; }
+
+    .sop-list { counter-reset: sop; display: flex; flex-direction: column; gap: 12px; }
+    .sop-step {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 16px 18px;
+      display: flex;
+      align-items: flex-start;
+      gap: 14px;
+    }
+    .sop-num {
+      background: var(--gold);
+      color: var(--dark);
+      font-size: 13px;
+      font-weight: 800;
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .sop-text { font-size: 13px; color: var(--mid); line-height: 1.7; }
+    .sop-text strong { color: var(--dark); }
+
+    /* ── K-Line ── */
+    .kline-vis {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 60px;
+      margin-bottom: 10px;
+    }
+    .kline-body {
+      width: 14px;
+      border-radius: 2px;
+    }
+    .kline-wick {
+      width: 2px;
+      background: currentColor;
+    }
+    .kline-wrap {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .kline-green { background: #2D7A4F; color: #2D7A4F; }
+    .kline-red   { background: #B83232; color: #B83232; }
+    .kline-gray  { background: #888; color: #888; }
+
+    /* ── Footer ── */
+    footer {
+      background: var(--dark);
+      color: #A09070;
+      text-align: center;
+      font-size: 11px;
+      padding: 18px 16px;
+      line-height: 1.8;
+    }
+    footer strong { color: var(--gold); }
+    .risk-warning {
+      font-size: 11px;
+      color: #C08060;
+      margin-top: 4px;
+    }
+
+    @media (max-width: 600px) {
+      header h1 { font-size: 20px; }
+      .cards-grid { grid-template-columns: 1fr; }
+      .concept-grid { grid-template-columns: repeat(2, 1fr); }
+      .weapon-stats { grid-template-columns: repeat(3, 1fr); }
+      .window-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="brand">Suniverse</div>
+  <h1>投資學堂</h1>
+  <p>投資初學者的知識基地，從信號到策略一次學懂</p>
+</header>
+
+<nav class="tab-nav">
+  <button class="tab-btn active" onclick="switchTab('volume')">📊 成交量信號</button>
+  <button class="tab-btn" onclick="switchTab('kline')">🕯 K線信號</button>
+  <button class="tab-btn" onclick="switchTab('glossary')">📖 投資名詞</button>
+  <button class="tab-btn" onclick="switchTab('options')">⚡ 期權入門</button>
+</nav>
+
+<main>
+
+  <!-- ─────── TAB 1: 成交量信號 ─────── -->
+  <div id="tab-volume" class="tab-panel active">
+    <div class="section-intro">
+      成交量是市場的「溫度計」。價格是現象，成交量才是背後的力量。學會讀懂這 8 個信號，你就能比大多數散戶早一步看清市場意圖。
+    </div>
+
+    <div class="cards-grid">
+
+      <div class="card">
+        <div class="card-header">
+          <span class="card-icon">✅</span>
+          <span class="card-title">放量上漲</span>
+          <span class="tag tag-bullish">看漲</span>
+        </div>
+        <p class="card-desc">成交量大幅增加，同時價格持續上漲。代表多方主力積極入場，買盤力量強勁，市場認同這波漲勢。</p>
+        <div class="card-action"><strong>操作建議：</strong>健康的上漲信號，趨勢追隨者可考慮跟進，但注意不要追高。</div>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <span class="card-icon">⚠️</span>
+          <span class="card-title">縮量上漲</span>
+          <span class="tag tag-caution">留意</span>
+        </div>
+        <p class="card-desc">價格繼續攀升，但成交量卻在萎縮。漲勢缺乏新的買盤支撐，靠慣性維持，動能正在悄悄流失。</p>
+        <div class="card-action"><strong>操作建議：</strong>不宜追入，持倉者考慮部分止盈，警惕隨時可能的回調。</div>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <span class="card-icon">❌</span>
+          <span class="card-title">放量下跌</span>
+          <span class="tag tag-bearish">看跌</span>
+        </div>
+        <p class="card-desc">成交量爆量同時價格急跌。空方主力大量出貨，市場出現恐慌性拋售。是空方力量最明確的表現。</p>
+        <div class="card-action"><strong>操作建議：</strong>明確看跌信號，多方應考慮減倉或止損，切勿抄底。</div>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <span class="card-icon">🚨</span>
+          <span class="card-title">高位縮量</span>
+          <span class="tag tag-alert">危險</span>
+        </div>
+        <p class="card-desc">股票已在高位運行一段時間，成交量卻明顯萎縮。主力悄悄退場，散戶接盤能力不足，反轉風險急劇上升。</p>
+        <div class="card-action"><strong>操作建議：</strong>高位危險信號，應考慮逐步減倉，設置止盈保護利潤。</div>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <span class="card-icon">📈</span>
+          <span class="card-title">溫和放量</span>
+          <span class="tag tag-bullish">健康</span>
+        </div>
+        <p class="card-desc">成交量平穩、有節奏地小幅增加，伴隨價格穩步上升。是最健康的上漲型態，代表市場充分消化籌碼。</p>
+        <div class="card-action"><strong>操作建議：</strong>最理想的買入型態，趨勢可持續性強，可考慮建倉持有。</div>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <span class="card-icon">🔥</span>
+          <span class="card-title">異常成交量</span>
+          <span class="tag tag-alert">異常</span>
+        </div>
+        <p class="card-desc">成交量突然爆增至平日數倍，遠超正常水平。通常與重大消息、財報、併購等事件掛鉤，方向待確認。</p>
+        <div class="card-action"><strong>操作建議：</strong>先觀察方向確認，再決定操作。不要在方向未明前盲目追入。</div>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <span class="card-icon">⚡</span>
+          <span class="card-title">量價背離</span>
+          <span class="tag tag-alert">反轉信號</span>
+        </div>
+        <p class="card-desc">價格創出新高，但成交量反而下降；或價格創新低，成交量卻減少。量與價走向相反，是趨勢可能反轉的預警。</p>
+        <div class="card-action"><strong>操作建議：</strong>重要反轉前兆，多方背離時減倉，空方背離時留意反彈機會。</div>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <span class="card-icon">💥</span>
+          <span class="card-title">成交量極端</span>
+          <span class="tag tag-info">轉折點</span>
+        </div>
+        <p class="card-desc">成交量達到歷史極端水平（極高或極低）。極高量可能代表主力出貨完成；極低量代表市場進入觀望，大行情蓄勢待發。</p>
+        <div class="card-action"><strong>操作建議：</strong>注意成交量極端後的方向突破，往往是新一輪趨勢的起點。</div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ─────── TAB 2: K線信號 ─────── -->
+  <div id="tab-kline" class="tab-panel">
+    <div class="section-intro">
+      K線（蠟燭圖）是每根蠟燭記錄了一段時間內的開盤、收盤、最高、最低四個價格。學會解讀 K線形態，就能讀懂多空雙方的博弈結果。
+    </div>
+
+    <div class="cards-grid">
+
+      <div class="card">
+        <div class="card-header">
+          <span class="card-icon">🔨</span>
+          <span class="card-title">錘子線</span>
+          <span class="tag tag-bullish">看漲反轉</span>
+        </div>
+        <p class="card-desc">下影線很長（至少是實體的 2 倍），上影線極短或沒有，實體在頂部。出現在下跌趨勢末端，代表空方打壓後被多方強力反攻回來。</p>
+        <div class="card-action"><strong>操作建議：</strong>出現在支撐位附近時信號最強，可考慮次日確認後買入。</div>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <span class="card-icon">🌠</span>
+          <span class="card-title">射擊之星</span>
+          <span class="tag tag-bearish">看跌反轉</span>
+        </div>
+        <p class="card-desc">上影線很長（至少是實體的 2 倍），下影線極短或沒有，實體在底部。出現在上漲趨勢高位，代表多方衝高後遭空方強力壓制。</p>
+        <div class="card-action"><strong>操作建議：</strong>出現在阻力位附近時信號最強，持倉者考慮止盈減倉。</div>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <span class="card-icon">➕</span>
+          <span class="card-title">十字星</span>
+          <span class="tag tag-caution">多空均衡</span>
+        </div>
+        <p class="card-desc">開盤價與收盤價幾乎相同，形成十字形。代表多空雙方勢力相當，市場陷入猶豫不決。出現在趨勢頂部或底部時尤其值得關注。</p>
+        <div class="card-action"><strong>操作建議：</strong>本身不構成操作信號，需等待下一根 K 線確認方向後再行動。</div>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <span class="card-icon">🌅</span>
+          <span class="card-title">晨星形態</span>
+          <span class="tag tag-bullish">看漲反轉</span>
+        </div>
+        <p class="card-desc">三根 K 線組合：①大陰線 ②跳空小實體（多空猶豫）③大陽線收復。出現在下跌趨勢底部，是強力的底部反轉信號。</p>
+        <div class="card-action"><strong>操作建議：</strong>等第三根陽線收盤確認後可考慮買入，止損設在組合低點。</div>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <span class="card-icon">🌇</span>
+          <span class="card-title">暮星形態</span>
+          <span class="tag tag-bearish">看跌反轉</span>
+        </div>
+        <p class="card-desc">三根 K 線組合：①大陽線 ②跳空小實體（多空猶豫）③大陰線吞回。出現在上漲趨勢頂部，是強力的頂部反轉信號。</p>
+        <div class="card-action"><strong>操作建議：</strong>等第三根陰線收盤確認後可考慮減倉或做空，止損設在組合高點。</div>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <span class="card-icon">🔛</span>
+          <span class="card-title">吞噬形態</span>
+          <span class="tag tag-bullish">看漲反轉</span>
+        </div>
+        <p class="card-desc">大陽線完全吞噬前一根陰線的實體（看漲吞噬）。代表多方力量壓倒性勝出，空方失去控制，是趨勢反轉的強力信號。</p>
+        <div class="card-action"><strong>操作建議：</strong>吞噬當天或次日可考慮建倉，吞噬的實體越大信號越強。</div>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <span class="card-icon">🤰</span>
+          <span class="card-title">孕線形態</span>
+          <span class="tag tag-caution">趨勢猶豫</span>
+        </div>
+        <p class="card-desc">小 K 線的實體完全被前一根大 K 線包住，像母親懷孕。代表市場失去方向感，動能衰竭，趨勢可能發生轉變。</p>
+        <div class="card-action"><strong>操作建議：</strong>本身是觀望信號，等待突破方向確認後再操作，切忌提前押注。</div>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <span class="card-icon">📶</span>
+          <span class="card-title">三連陽 / 三連陰</span>
+          <span class="tag tag-info">趨勢延續</span>
+        </div>
+        <p class="card-desc">連續三根同向 K 線，每根收盤都高於（或低於）前一根。代表趨勢強勁、單邊走勢清晰，動能充足。</p>
+        <div class="card-action"><strong>操作建議：</strong>三連陽後避免追高；三連陰後避免抄底。等待回調或反彈再介入更安全。</div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ─────── TAB 3: 投資名詞 ─────── -->
+  <div id="tab-glossary" class="tab-panel">
+    <div class="section-intro">
+      投資世界有一套自己的語言。讀懂這些名詞，你就不會在市場裡聽不懂別人在說什麼——也不會被似懂非懂的術語誤導決策。
+    </div>
+
+    <div class="glossary-list">
+
+      <div class="glossary-category">基礎概念</div>
+
+      <div class="glossary-item">
+        <div class="glossary-term">看漲期權 <span class="glossary-en">Call Option</span></div>
+        <div class="glossary-def">賦予持有者在到期日前，以特定價格（履約價）<strong>買入</strong>股票的權利。正股大漲時增值，像一張賭正股會漲的彩券。最大虧損僅限於買入期權時支付的保費。</div>
+      </div>
+
+      <div class="glossary-item">
+        <div class="glossary-term">看跌期權 <span class="glossary-en">Put Option</span></div>
+        <div class="glossary-def">賦予持有者在到期日前，以特定價格（履約價）<strong>賣出</strong>股票的權利。正股大跌時增值，像一份保護資產的保險單。大盤崩盤時，Put 是最有效的對沖工具。</div>
+      </div>
+
+      <div class="glossary-item">
+        <div class="glossary-term">期權保費 <span class="glossary-en">Premium</span></div>
+        <div class="glossary-def">買入期權時支付的價格，由兩部分組成：<br>
+        ① <strong>內在價值</strong>——期權當前能立即兌現的實打實價差<br>
+        ② <strong>外在價值（時間溢價）</strong>——對未來的預期與剩餘時間的泡沫</div>
+      </div>
+
+      <div class="glossary-item">
+        <div class="glossary-term">時間損耗 <span class="glossary-en">Theta（θ）</span></div>
+        <div class="glossary-def">期權的「時間小偷」。每過一天，期權的時間溢價就會自動融化一部分。對期權買方不利（時間是敵人），對期權賣方有利（時間是朋友）。越接近到期日，Theta 流失越快。</div>
+      </div>
+
+      <div class="glossary-item">
+        <div class="glossary-term">隱含波動率 <span class="glossary-en">Implied Volatility (IV)</span></div>
+        <div class="glossary-def">市場預期未來波動程度的指標，是期權定價的核心變量。IV 高 = 市場恐慌或期待大行情，期權保費貴；IV 低 = 市場平靜，期權保費便宜。財報前後 IV 波動最劇烈。</div>
+      </div>
+
+      <div class="glossary-item">
+        <div class="glossary-term">波動率崩塌 <span class="glossary-en">IV Crush</span></div>
+        <div class="glossary-def">財報或重大事件後，IV 從高位瞬間暴跌的現象。即使股價如預期大幅移動，期權持有者仍可能因 IV 崩塌而虧損——這是期權初學者最常踩的陷阱。</div>
+      </div>
+
+      <div class="glossary-item">
+        <div class="glossary-term">履約價 <span class="glossary-en">Strike Price</span></div>
+        <div class="glossary-def">期權合約中預先約定的股票買賣價格。Call 的履約價越低越有利（等於擁有更便宜買入的權利）；Put 的履約價越高越有利（等於擁有更貴賣出的權利）。</div>
+      </div>
+
+      <div class="glossary-category">訂單類型</div>
+
+      <div class="glossary-item">
+        <div class="glossary-term">中間價 <span class="glossary-en">Mid Price</span></div>
+        <div class="glossary-def">買價（Bid）與賣價（Ask）的正中間價格。建倉與結算的鋼鐵標準——永遠用限價單以中間價掛單，拒絕用市價單，避免被做市商「吃豆腐」（即被買賣價差吃掉利潤）。</div>
+      </div>
+
+      <div class="glossary-item">
+        <div class="glossary-term">撤單前有效 <span class="glossary-en">GTC（Good 'Til Cancelled）</span></div>
+        <div class="glossary-def">條件單的一種有效期設置。掛單後在雲端伺服器保持有效長達 90 天，無需人工守盤。條件達成自動成交，是實現「不看盤、自動提款」的核心工具。</div>
+      </div>
+
+      <div class="glossary-item">
+        <div class="glossary-term">買賣價差 <span class="glossary-en">Bid-Ask Spread</span></div>
+        <div class="glossary-def">市場最高買價（Bid）與最低賣價（Ask）之間的差距。這個差距是隱性成本，高頻交易者的最大敵人。流動性越低的股票，Bid-Ask Spread 越大。</div>
+      </div>
+
+      <div class="glossary-category">技術指標</div>
+
+      <div class="glossary-item">
+        <div class="glossary-term">成交量加權平均價 <span class="glossary-en">VWAP（Volume Weighted Average Price）</span></div>
+        <div class="glossary-def">將當日每筆成交量與成交價相乘後加總，再除以總成交量。是機構投資者評估交易成本的基準線。股價在 VWAP 上方通常被視為短線強勢；跌破 VWAP 則偏弱。</div>
+      </div>
+
+      <div class="glossary-item">
+        <div class="glossary-term">開盤區間 <span class="glossary-en">Opening Range</span></div>
+        <div class="glossary-def">開盤後特定時間（通常是前 15-30 分鐘）所形成的最高價與最低價區間。是當日重要的支撐阻力參考線。突破 Opening Range 高點視為看漲；跌破低點視為看跌。</div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ─────── TAB 4: 期權入門 ─────── -->
+  <div id="tab-options" class="tab-panel">
+    <div class="section-intro">
+      期權不是賭博，是一種精密的風險管理工具。用極小的固定成本鎖死下檔風險，同時保留上漲空間——這才是 Smart Money 的玩法。
+    </div>
+
+    <!-- Section 1: 期權是什麼 -->
+    <div class="options-section">
+      <div class="options-section-title">① 期權基礎</div>
+      <div class="concept-grid">
+        <div class="concept-card">
+          <div class="emoji">🎫</div>
+          <div class="name">Call 看漲期權</div>
+          <div class="desc">賭正股上漲的彩券。正股大漲時急速增值，最大損失僅限保費。</div>
+        </div>
+        <div class="concept-card">
+          <div class="emoji">🛡️</div>
+          <div class="name">Put 看跌期權</div>
+          <div class="desc">保護資產的保險單。正股大跌時急速增值，是最有效的對沖工具。</div>
+        </div>
+        <div class="concept-card">
+          <div class="emoji">⏳</div>
+          <div class="name">Theta 時間小偷</div>
+          <div class="desc">每過一天，期權的時間溢價自動融化。買方的敵人，賣方的朋友。</div>
+        </div>
+        <div class="concept-card">
+          <div class="emoji">🌡️</div>
+          <div class="name">IV 隱含波動率</div>
+          <div class="desc">市場恐慌與興奮指數。IV 暴漲 = 期權保費暴漲；IV 崩塌 = 保費蒸發。</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Section 2: 交易前必知 -->
+    <div class="options-section">
+      <div class="options-section-title">② 交易前必知</div>
+      <div class="cards-grid">
+        <div class="card">
+          <div class="card-header">
+            <span class="card-icon">⚖️</span>
+            <span class="card-title">永遠用中間價</span>
+          </div>
+          <p class="card-desc">建倉與結算的鋼鐵紀律。取 Bid 與 Ask 的中間價掛限價單，永遠拒絕市價單。市價單會讓做市商在買賣價差上吃掉你的利潤。</p>
+        </div>
+        <div class="card">
+          <div class="card-header">
+            <span class="card-icon">☁️</span>
+            <span class="card-title">GTC 條件單 = 自動提款機</span>
+          </div>
+          <p class="card-desc">建倉後立刻掛上 GTC 止盈限價單，交給券商雲端伺服器 24 小時監控。條件達成自動成交，你可以完全不看盤、安心生活。</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Section 3: 策略武器庫 -->
+    <div class="options-section">
+      <div class="options-section-title">③ 策略武器庫</div>
+
+      <div class="weapon-card">
+        <div class="weapon-title">🛡️ 垂直看漲價差組合</div>
+        <div class="weapon-subtitle">Bull Call Spread｜中高勝率・風險鎖死</div>
+        <div class="weapon-stats">
+          <div class="stat-box">
+            <div class="stat-label">最大虧損</div>
+            <div class="stat-value" style="color: var(--tag-red);">固定</div>
+          </div>
+          <div class="stat-box">
+            <div class="stat-label">最大利潤</div>
+            <div class="stat-value" style="color: var(--tag-green);">有限</div>
+          </div>
+          <div class="stat-box">
+            <div class="stat-label">勝率</div>
+            <div class="stat-value" style="color: var(--gold);">中高</div>
+          </div>
+        </div>
+        <p class="weapon-desc">
+          <strong>做法：</strong>同時買入低履約價 Call + 賣出高履約價 Call（一買一賣，鎖死防線）<br><br>
+          <strong>實例：</strong>MU 950C / 955C 組合，建倉成本 $1.50，目標賣出 $2.00<br>
+          最大風險：$150（入場成本，天塌下來也不會多賠）<br>
+          最大利潤：$350（5點寬度 - 1.5成本 = 3.5點）<br><br>
+          <strong>優點：</strong>賣出的 Call 補貼了保費成本，抗跌與抗 Theta 流逝的能力遠高於單腿買 Call。適合對正股方向有判斷但不確定幅度的情況。
+        </p>
+      </div>
+
+      <div class="weapon-card">
+        <div class="weapon-title">⚡ 跨式套利</div>
+        <div class="weapon-subtitle">Long Straddle｜低勝率・高爆發・賭大地震</div>
+        <div class="weapon-stats">
+          <div class="stat-box">
+            <div class="stat-label">最大虧損</div>
+            <div class="stat-value" style="color: var(--tag-red);">全部保費</div>
+          </div>
+          <div class="stat-box">
+            <div class="stat-label">最大利潤</div>
+            <div class="stat-value" style="color: var(--tag-green);">無上限</div>
+          </div>
+          <div class="stat-box">
+            <div class="stat-label">勝率</div>
+            <div class="stat-value" style="color: var(--tag-orange);">低</div>
+          </div>
+        </div>
+        <p class="weapon-desc">
+          <strong>做法：</strong>同時買入相同履約價、相同到期日的 Call + Put 各一手<br><br>
+          <strong>優點：</strong>不需要判斷漲跌方向，只需賭「會有大行情」。贏的那邊獲利速度遠超輸的那邊歸零速度。大盤走出單邊行情或 IV 暴漲時，回報可達 100-160%+<br><br>
+          <strong>風險：</strong>大盤若原地不動，Call 和 Put 同時被 Theta 侵蝕，雙殺歸零。
+        </p>
+        <div class="warning-box">
+          <div class="warning-title">⚠️ 財報前買 Straddle 的致命陷阱：IV Crush</div>
+          <p>財報公佈前 IV 被市場炒到極高，保費極貴。財報一出，不確定性消除，IV 瞬間暴跌。即使股票如你所料大漲，IV 崩塌蒸發的損失可能超過正股上漲帶來的收益——你賭對了方向，卻還是虧錢。<br><br>
+          <strong>解法：</strong>財報後 IV 回落時再建倉，或選用 Bull Call Spread 代替。</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Section 4: 黃金交易窗口 -->
+    <div class="options-section">
+      <div class="options-section-title">④ 黃金交易窗口</div>
+      <div class="window-grid">
+        <div class="window-card">
+          <div class="time">開盤後 5-15 分鐘</div>
+          <div class="label">📈 開盤衝動窗口</div>
+          <div class="explain">散戶盲目跟風、情緒主導的混亂期。等市場冷靜 5-10 分鐘後以中間價建倉，最容易觸發 GTC 止盈單自動成交。</div>
+        </div>
+        <div class="window-card">
+          <div class="time">收盤前 30 分鐘</div>
+          <div class="label">🏛️ 機構調倉窗口</div>
+          <div class="explain">大型基金、機構投資者在收盤前執行尾盤調倉。往往形成單邊大趨勢，是搭順風車的好時機。</div>
+        </div>
+        <div class="window-card">
+          <div class="time">財報公佈日</div>
+          <div class="label">💥 財報催化劑</div>
+          <div class="explain">MU、NVDA 等科技巨頭財報當晚，正股可能大幅跳空。注意 IV Crush 風險，財報後 IV 回落再建倉更安全。</div>
+        </div>
+        <div class="window-card">
+          <div class="time">FOMC 議息日</div>
+          <div class="label">🏦 聯準會窗口</div>
+          <div class="explain">鮑威爾講話引發市場上下劇烈震盪（插針洗盤）。波動率暴漲，Straddle 策略的最佳場景之一。</div>
+        </div>
+        <div class="window-card">
+          <div class="time">每月第一個周五</div>
+          <div class="label">📊 非農就業日（NFP）</div>
+          <div class="explain">非農就業數據公佈，開盤前後常出現火山噴發式能量釋放，方向判斷正確時利潤豐厚。</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Section 5: 操盤 SOP -->
+    <div class="options-section">
+      <div class="options-section-title">⑤ 操盤 SOP（不看盤流派）</div>
+      <div class="sop-list">
+        <div class="sop-step">
+          <div class="sop-num">1</div>
+          <div class="sop-text"><strong>等開盤 5-10 分鐘後</strong>，市場情緒趨於理智，以<strong>中間價</strong>掛限價單建倉垂直組合。</div>
+        </div>
+        <div class="sop-step">
+          <div class="sop-num">2</div>
+          <div class="sop-text"><strong>成功成交後立刻退出畫面</strong>，杜絕肉眼盯盤。盯盤是情緒化操作的根源。</div>
+        </div>
+        <div class="sop-step">
+          <div class="sop-num">3</div>
+          <div class="sop-text">重新點選持倉，<strong>以目標價掛上 GTC 止盈限價單</strong>，有效期設為「撤單前有效」，交給雲端 24 小時自動執行。</div>
+        </div>
+        <div class="sop-step">
+          <div class="sop-num">4</div>
+          <div class="sop-text"><strong>關閉軟體，安心去享受生活。</strong>條件達成時券商自動成交，你只需事後查看收益。</div>
+        </div>
+      </div>
+
+      <div class="warning-box" style="margin-top: 20px;">
+        <div class="warning-title">⚠️ 風險紀律——這條線不能碰</div>
+        <p>
+          實驗期間嚴格限制每次最多 <strong>1-2 手</strong>。手數乘以 10 = 最大虧損同步乘以 10，心理壓力也會乘以 10，最終導致決策崩潰。<br><br>
+          <strong>拒絕高頻操作</strong>：每次交易都有 Bid-Ask Spread 與手續費摩擦損耗，頻繁進出是利潤的慢性殺手。
+        </p>
+      </div>
+    </div>
+
+  </div>
+
+</main>
+
+<footer>
+  <strong>Suniverse 投資學堂</strong> © 2026 Suniverse<br>
+  <span class="risk-warning">⚠️ 投資有風險，所有內容僅供教育參考，不構成投資建議。請謹慎決策，量力而為。</span>
+</footer>
+
+<script>
+  function switchTab(tab) {
+    document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.getElementById('tab-' + tab).classList.add('active');
+    event.currentTarget.classList.add('active');
+  }
+</script>
+
+</body>
+</html>

@@ -7,12 +7,18 @@ Send 4 daily TG investment digests:
   13:30 UTC (21:30 HKT) — 美股盤前預覽 + 加密市場
 """
 
+import html as _html
 import json
 import os
 import sys
 import requests
 from datetime import datetime, timedelta
 import pytz
+
+
+def esc(text):
+    """Escape HTML special chars for Telegram HTML mode."""
+    return _html.escape(str(text or ''), quote=False)
 
 BOT_TOKEN = os.environ.get('TG_BOT_TOKEN', '')
 CHAT_ID = os.environ.get('TG_CHAT_ID', '')
@@ -152,15 +158,17 @@ def news_block(items, limit=3):
         return '  暫無資料\n'
     lines = []
     for item in items[:limit]:
-        title = (item.get('title') or '')[:70]
-        url = item.get('url') or ''
-        tickers = ' '.join(f"#{t}" for t in (item.get('related') or [])[:2])
-        src = item.get('source') or ''
+        title = esc((item.get('title') or '')[:70])
+        url   = esc(item.get('url') or '')
+        tickers = ' '.join(f"#{esc(t)}" for t in (item.get('related') or [])[:2])
+        src   = esc(item.get('source') or '')
+        pub   = esc(item.get('published_hkt') or '')
         line = f'  • <a href="{url}">{title}</a>'
         if tickers:
             line += f'  {tickers}'
-        if src:
-            line += f'\n    <i>{src}</i>'
+        meta = ' | '.join(filter(None, [pub, src]))
+        if meta:
+            line += f'\n    <i>{meta}</i>'
         lines.append(line)
     return '\n'.join(lines) + '\n'
 
@@ -257,13 +265,15 @@ def build_us_pre(data, now_hk):
 
 
 def send_tg(text):
-    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
-    r = requests.post(url, json={
+    api_url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
+    r = requests.post(api_url, json={
         'chat_id': CHAT_ID,
         'text': text,
         'parse_mode': 'HTML',
         'disable_web_page_preview': False,
     }, timeout=20)
+    if not r.ok:
+        print(f"TG {r.status_code}: {r.text}", file=sys.stderr)
     r.raise_for_status()
     return r.json()
 

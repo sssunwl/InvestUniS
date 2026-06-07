@@ -72,13 +72,22 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-07 21:44 HKT",
+      "updated_at": "2026-06-07 21:51 HKT",
       "news": [
         {
           "title": "港股 | 蕭猷華：美國科技股急挫，恒指24200點支持力強 - etnet 經濟通",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVBHUEhmX0EzOGliV20yajVkUGNUWkVFd0ZUT1h1OTBiaUZzVkVJdzBKQ3kzYVoxby1FdlRRWF9Nc0tSRXdNc2k2Wl82YVJMdlF2QVlCRkVRY0lBX00yNTk5UHNHSF8xNG5keW8wa2ZzRmF3OFFhbzB4U0ljdkJyLWVwSGJwMXdleDlNdDdnaGdWdWdXYTk4aFJB?oc=5",
           "source": "etnet 經濟通",
           "published_hkt": "06/07 15:03",
+          "related": [
+            "^HSI"
+          ]
+        },
+        {
+          "title": "港股走勢丨恒指低開67點 周大福高開9% - 信報網站",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VWFphYnM5ZFJSZ1Z1SWd0ZmVRWHNrYVpaVTRiNjYtVFFqNUxOQ3JqZUVjSGJib3pyTWpJc1BDa2lxaS1fN1FuN1k4aUxHVXNHTFZrZzBMUGJ0R3ZHOURTaA?oc=5",
+          "source": "信報網站",
+          "published_hkt": "06/06 22:56",
           "related": [
             "^HSI"
           ]
@@ -91,13 +100,6 @@
           "related": [
             "^HSI"
           ]
-        },
-        {
-          "title": "麥嘉嘉：港股四重考驗 投資者須打好防守戰 - on.cc東網",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNmt0ZkdPRDhja2hpOFhNYWxZa1pNcmNSY2ZlUmt5Y2pVRUxNOG1YNDQwUExNQTZFUzJXMmFkZGZJeXBsbi1RUlZTcHRFZTQ1VGFEYVBwVkhDRy1SM0JoVXBaamp3Nm5vRk9JYWhBdmZoT3lmY2ZDdENDajRQRXF5WklRWFEtN0czWTZaWlhtZw?oc=5",
-          "source": "on.cc東網",
-          "published_hkt": "06/06 12:20",
-          "related": []
         }
       ]
     }
@@ -127,7 +129,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-07 21:44 HKT",
+      "updated_at": "2026-06-07 21:51 HKT",
       "news": [
         {
           "title": "TWA00 加權指數- 當眾生恐懼時，你願意當老和尚嗎？ - 股市爆料同學會 - CMoney",
@@ -178,7 +180,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-07 21:44 HKT",
+      "updated_at": "2026-06-07 21:51 HKT",
       "news": [
         {
           "title": "AI晶片需求推升愛德萬測試股價 日經指數攀上68000點 - 蕃新聞",
@@ -209,8 +211,15 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-07 21:44 HKT",
+    "updated_at": "2026-06-07 21:51 HKT",
     "news": [
+      {
+        "title": "一週預告 | SpaceX將於6月12日登陸納斯達克；美國5月CPI資料出爐 - PANews",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRFpUTmJWU0tNUHoyVG9hVHl4NmUwMHpFOFFJNmZaVG0wMlUyRDN5eTdHQ29uSkNLU1BaMlhsNm9TODBNR2dzOHFlUms3ZHQ2Zmo5bHItNHhEbGxwdlBlbklOWnJFS0Q1TmVWbklFcDJUckxVZzZIdkZVSTRWcFJfRUhSVnExUQ?oc=5",
+        "source": "PANews",
+        "published_hkt": "06/07 20:04",
+        "related": []
+      },
       {
         "title": "270億美元空頭壁壘籠罩Bitcoin市場結構| MEXC 新聞 - MEXC",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qM2dSUnEzX3dmYnAwWFY5SFVCdVM4cWVfVXU1bjhQVjdIMy1zVUNPc2JmZEM0T19EUk05WEdhTXJ1NWpvYUhFcHExLVk1bjZW?oc=5",
@@ -221,21 +230,12 @@
         ]
       },
       {
-        "title": "加密貨幣億萬富翁James Wo加碼比特幣，拒絕ETH 25萬美元預測| MEXC 新聞 - MEXC",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02YTNTUktEQ0MtaVhBYk5nSFR4dExvM3EzQm9kcGdhbjVFVFJGNUozTjd1a0Z5NjFDYVJYSGtwNTd6S2lCXzBLS2dKZTQ3Rnoz?oc=5",
-        "source": "MEXC",
-        "published_hkt": "06/07 17:11",
+        "title": "強勁就業數據推高利率預期，比特幣跌破62,000美元 - timetocoin.com",
+        "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOaEFJWXZfQ21RNVlrVFBzYWFaOFU4VWtnbDN0ZjhmcFZEYWNHNEk2cFNnX3VXelRMQjVxdmJac2hxRDlraGRRMWFlMFRfNjFqV0g5TzkzRWp1MkxnM2sxbGxoMUV3WnlFQU5hOE5pYmh6TGE5a0JBVWZXUmcyMnF4bWM0OHhaQTN0cnZjdURBTTNqUjhYSnZiTXZXOU0xSVBkZFFOeHVOZUp4Q2ZLVmRBRUNqYXZzUXRhcHRXTVZLaWlJMFhJY2xTWUhPVXU4ZW1iVHZEUzlFM3d1dG1GanVJQ0U0ZWpGYWRRRWVocXFDZlhlaTlKRmFGcWc5TVBGSElCcUlCR0p0cFJCX1hVNUc0WlpqV19yd2JTOWZ0MjVKYllTZXFqS3JCTi1MZG1CZUZfdXcxVDk0WkZ0N0hWYUpfUm5vem9VZFJNeHBtTWxn?oc=5",
+        "source": "timetocoin.com",
+        "published_hkt": "06/07 17:50",
         "related": [
           "BTC"
-        ]
-      },
-      {
-        "title": "Tom Lee預測以太坊終將漲至25萬美元，還能相信嗎？ - PANews",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLXgxRXdWcU5nSTJGVFlQV2pVUm1GWEdXMjY5ckhNcjhHWE5oUnBrb3M3RDJkdTNNSUFkdW4xMzVibHZyYkNKUmxfM2t0dFVTR29xRTdtdzJVZDRfWlpVa2FKUmgzaDJhaFdwbk1PS3FUQ2FaYzBlSUtOSWdMZGhCdm41MEpvZw?oc=5",
-        "source": "PANews",
-        "published_hkt": "06/07 15:53",
-        "related": [
-          "ETH"
         ]
       }
     ]

@@ -27,24 +27,28 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-07 09:00 HKT",
+      "updated_at": "2026-06-08 09:37 HKT",
       "news": [
         {
-          "title": "標普500指數連續第三日上漲，科技股帶動指數創近期新高",
-          "url": "https://news.google.com/search?q=%E6%A8%99%E6%99%AE500+%E6%BC%B2%E6%B6%ˆ&hl=zh-TW",
-          "source": "MarketWatch",
-          "related": [
-            "SPY",
-            "QQQ"
-          ]
+          "title": "美股崩跌、台指夜盤狂瀉3006點！ 投顧這樣說",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BWFRLc2lHb1pwTUExUjQ1cGdpQWhrYWdIVWlhZ3VFUEZNaXpBd0xldWJVNVN6R3JReTFuNkxUZEh4RFZGOTlCa081c3g3TWdhVDM5WFF3?oc=5",
+          "source": "東森電視",
+          "published_hkt": "06/08 08:57",
+          "related": []
         },
         {
-          "title": "特斯拉宣布新款電動皮卡量產時間表，盤後股價上揚3%",
-          "url": "https://news.google.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89+%E9%9B%BB%E5%8B%95%E8%BB%8A&hl=zh-TW",
-          "source": "Reuters",
-          "related": [
-            "TSLA"
-          ]
+          "title": "SpaceX等巨額AI融資潮來襲 新股洪流考驗美股承接能力",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13UlJyRk5fTlNSWXBaUnJQVmZOMkZuTGVxVTZabWJLT0NiUTZQQUwzaW5oLVRrQzZZTXpyZUpmVWF1bC1KcWp0alp5QWdlelFmRVlvUXYxQzJ4Zw?oc=5",
+          "source": "Moomoo",
+          "published_hkt": "06/08 08:52",
+          "related": []
+        },
+        {
+          "title": "美股科技股慘跌拖累亞股！中東局勢升溫推升油價與美元走強 | 民視新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IVlVKN2czTWVLX2FQa1o4M3lEbkFwT21ETG15ZF9SR196V0hXOHd1NG9YWGlVQVE4MHFIY0xUYlJ3bUE2cU14TGlEUlZJQzB4OXBGZEhn?oc=5",
+          "source": "LINE TODAY",
+          "published_hkt": "06/08 08:45",
+          "related": []
         }
       ]
     }
@@ -211,32 +215,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-07 21:51 HKT",
+    "updated_at": "2026-06-08 09:37 HKT",
     "news": [
       {
-        "title": "一週預告 | SpaceX將於6月12日登陸納斯達克；美國5月CPI資料出爐 - PANews",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRFpUTmJWU0tNUHoyVG9hVHl4NmUwMHpFOFFJNmZaVG0wMlUyRDN5eTdHQ29uSkNLU1BaMlhsNm9TODBNR2dzOHFlUms3ZHQ2Zmo5bHItNHhEbGxwdlBlbklOWnJFS0Q1TmVWbklFcDJUckxVZzZIdkZVSTRWcFJfRUhSVnExUQ?oc=5",
-        "source": "PANews",
-        "published_hkt": "06/07 20:04",
+        "title": "香港貿發局率領24家香港初創企業參加巴黎VivaTech 2026，展示創新成果並連結全球投資者| MEXC 新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YdWt6OG53WV9yNmdqRFJ6NGxFenYzZ0pxbUhRcjNob1g2ZTFPSDlOSlJ4UlpFNWF3RUNTZ0h2ak1ER09uQ2J3MV95bkxNbW1y?oc=5",
+        "source": "MEXC",
+        "published_hkt": "06/08 09:24",
         "related": []
       },
       {
-        "title": "270億美元空頭壁壘籠罩Bitcoin市場結構| MEXC 新聞 - MEXC",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qM2dSUnEzX3dmYnAwWFY5SFVCdVM4cWVfVXU1bjhQVjdIMy1zVUNPc2JmZEM0T19EUk05WEdhTXJ1NWpvYUhFcHExLVk1bjZW?oc=5",
-        "source": "MEXC",
-        "published_hkt": "06/07 18:30",
+        "title": "比特幣反攻殺回6.42萬鎂血洗空軍，10.5 萬人爆倉 $6.75 億美元",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR0stSzJmdkJUTFZIaDY5N1czY0hVeDg5RzV3NUJYQTBjTzA3TnAtU3B2UlhKeXhNdzNVSDRLNnZFSDVBbFJNV0NBZGRIaUJWSG9pUHQ5U2ZGOUFGZHhCQzVEajA2ZzNsenFzSGJYUHZKc3pqOGxQV3VVV2xDSEJMTTFkeEQ0cF9WRHNzTW1fYnZvREZuTVZOTlJfS01VR3cweXhlVA?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "06/08 09:21",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "強勁就業數據推高利率預期，比特幣跌破62,000美元 - timetocoin.com",
-        "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOaEFJWXZfQ21RNVlrVFBzYWFaOFU4VWtnbDN0ZjhmcFZEYWNHNEk2cFNnX3VXelRMQjVxdmJac2hxRDlraGRRMWFlMFRfNjFqV0g5TzkzRWp1MkxnM2sxbGxoMUV3WnlFQU5hOE5pYmh6TGE5a0JBVWZXUmcyMnF4bWM0OHhaQTN0cnZjdURBTTNqUjhYSnZiTXZXOU0xSVBkZFFOeHVOZUp4Q2ZLVmRBRUNqYXZzUXRhcHRXTVZLaWlJMFhJY2xTWUhPVXU4ZW1iVHZEUzlFM3d1dG1GanVJQ0U0ZWpGYWRRRWVocXFDZlhlaTlKRmFGcWc5TVBGSElCcUlCR0p0cFJCX1hVNUc0WlpqV19yd2JTOWZ0MjVKYllTZXFqS3JCTi1MZG1CZUZfdXcxVDk0WkZ0N0hWYUpfUm5vem9VZFJNeHBtTWxn?oc=5",
-        "source": "timetocoin.com",
-        "published_hkt": "06/07 17:50",
-        "related": [
-          "BTC"
-        ]
+        "title": "對話VanEck CEO：加密寒冬中僅BTC與穩定幣能留下，記憶體晶片的飆升更像泡沫",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbFFpNFhRZlhNcUVUSmJPTUJfeWJkcFJTUDNTMU5DTjN6SXcyYU9nRzlZYTYzVHc2Z0Z6dmE0d1c4aHJIWlZHcjFyMmwxcWdyNFZubHpnbG5mYTBIM3BWN0M3YWFXMWZVb0VlaWtfSHViS29NUjdnNGdHelF1TkJ4ZTNaQ0ZzZw?oc=5",
+        "source": "PANews",
+        "published_hkt": "06/08 09:11",
+        "related": []
       }
     ]
   }

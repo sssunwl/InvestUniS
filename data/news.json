@@ -215,30 +215,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-08 09:37 HKT",
+    "updated_at": "2026-06-08 13:14 HKT",
     "news": [
       {
-        "title": "香港貿發局率領24家香港初創企業參加巴黎VivaTech 2026，展示創新成果並連結全球投資者| MEXC 新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YdWt6OG53WV9yNmdqRFJ6NGxFenYzZ0pxbUhRcjNob1g2ZTFPSDlOSlJ4UlpFNWF3RUNTZ0h2ak1ER09uQ2J3MV95bkxNbW1y?oc=5",
-        "source": "MEXC",
-        "published_hkt": "06/08 09:24",
-        "related": []
-      },
-      {
-        "title": "比特幣反攻殺回6.42萬鎂血洗空軍，10.5 萬人爆倉 $6.75 億美元",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR0stSzJmdkJUTFZIaDY5N1czY0hVeDg5RzV3NUJYQTBjTzA3TnAtU3B2UlhKeXhNdzNVSDRLNnZFSDVBbFJNV0NBZGRIaUJWSG9pUHQ5U2ZGOUFGZHhCQzVEajA2ZzNsenFzSGJYUHZKc3pqOGxQV3VVV2xDSEJMTTFkeEQ0cF9WRHNzTW1fYnZvREZuTVZOTlJfS01VR3cweXhlVA?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "06/08 09:21",
+        "title": "Saylor高呼「加倉好時機」！比特幣跌破6萬後急彈 市場緊盯Strategy(MSTR.US)關鍵文件",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVWI0aWlsY0V0d3pZWnkzbW40VTZHSVhVblhoUk5taWROcGRHODdMUDM2UmVzODJwUV9kT28yX2VEbHFfSkhxWW8tRjFueEliMXJ0RUFJT0JQU0FFRXIwVHdxbWgtYm1PYWtXU3hZM0VFMGQ5TVRKUVhsM2UxWm5hM3RtNm1ZRzZLWGFXQ2NGd1lzYmIzM3lQcUVwRXdyM1ZPLU10cFBadw?oc=5",
+        "source": "Moomoo",
+        "published_hkt": "06/08 12:30",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "對話VanEck CEO：加密寒冬中僅BTC與穩定幣能留下，記憶體晶片的飆升更像泡沫",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbFFpNFhRZlhNcUVUSmJPTUJfeWJkcFJTUDNTMU5DTjN6SXcyYU9nRzlZYTYzVHc2Z0Z6dmE0d1c4aHJIWlZHcjFyMmwxcWdyNFZubHpnbG5mYTBIM3BWN0M3YWFXMWZVb0VlaWtfSHViS29NUjdnNGdHelF1TkJ4ZTNaQ0ZzZw?oc=5",
-        "source": "PANews",
-        "published_hkt": "06/08 09:11",
+        "title": "陳亞樵與加密貨幣市場退出辯論",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZGcxZlBVdi1RaTRvTTlRT2dUSDllZ0xPV0owRFVhVW5MME9WUC1TUjBFQzZqLTVaUGZ2WTg4N3I1SkkzNWg0OTEzV0xfZWdDcDBvcUVlODJRQVpUR1FsNEdRU1NSX1M5enFYZDRVUUdpU0lpT1JZUDV4UnduRXk1NWZhbHNRbVBkNDd1VlJ3YXRXOW8?oc=5",
+        "source": "KuCoin",
+        "published_hkt": "06/08 12:20",
         "related": []
+      },
+      {
+        "title": "比特幣回升至 6.3 萬美元！多名巨鯨精準抄底，市場進入多空分歧階段",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhLVJ5Y1JKeWd1VXFWTXJ3X1A3MEk0d2g0Q09HMTdpdzJaS2NXUnhvU0xmTzZXQVRHUmxvN2dWMDNCdi1YcHpmeWNWZEFlUUVhZ3dRY0VybG5qUQ?oc=5",
+        "source": "桑幣區識 Zombit",
+        "published_hkt": "06/08 11:56",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

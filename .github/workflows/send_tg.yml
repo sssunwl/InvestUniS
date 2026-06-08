@@ -39,6 +39,17 @@ jobs:
       - name: Fetch latest news
         run: python scripts/fetch_news.py
 
+      - name: Determine message type from triggering schedule
+        id: msgtype
+        run: |
+          case "${{ github.event.schedule }}" in
+            '0 0 * * 2-6')   echo "type=us_post" >> "$GITHUB_OUTPUT" ;;
+            '0 1 * * 1-5')   echo "type=asia_pre" >> "$GITHUB_OUTPUT" ;;
+            '0 9 * * 1-5')   echo "type=asia_post" >> "$GITHUB_OUTPUT" ;;
+            '30 13 * * 1-5') echo "type=us_pre" >> "$GITHUB_OUTPUT" ;;
+            *)               echo "type=" >> "$GITHUB_OUTPUT" ;;
+          esac
+
       - name: Commit updated news
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -57,4 +68,5 @@ jobs:
         env:
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          MSG_TYPE: ${{ steps.msgtype.outputs.type }}
         run: python scripts/daily_tip.py

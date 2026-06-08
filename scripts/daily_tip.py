@@ -290,23 +290,29 @@ def main():
 
     data = load_news()
 
-    # Determine message type from UTC hour (matches cron schedule)
-    if utc_h == 0:            # 08:00 HKT — US 夜盤後 + Crypto
-        msg = build_us_post(data, now_hk)
-        label = '美股夜盤後總結'
-    elif utc_h == 1:          # 09:00 HKT — Asia 盤前
-        msg = build_asia_pre(data, now_hk)
-        label = '亞洲盤前'
-    elif utc_h == 9:          # 17:00 HKT — Asia 盤後
-        msg = build_asia_post(data, now_hk)
-        label = '亞洲盤後'
-    elif utc_h in (13, 14):   # 21:30 HKT — US 盤前 + Crypto
-        msg = build_us_pre(data, now_hk)
-        label = '美股盤前預覽'
+    # 優先依 workflow 傳入的 MSG_TYPE 派發（由觸發的 cron 表達式決定，
+    # 不受 GitHub Actions 排程延遲影響；UTC 小時僅作手動觸發時的備援猜測）
+    type_map = {
+        'us_post':   (build_us_post,   '美股夜盤後總結'),
+        'asia_pre':  (build_asia_pre,  '亞洲盤前'),
+        'asia_post': (build_asia_post, '亞洲盤後'),
+        'us_pre':    (build_us_pre,    '美股盤前預覽'),
+    }
+    msg_type = os.environ.get('MSG_TYPE', '')
+
+    if msg_type in type_map:
+        builder, label = type_map[msg_type]
+        msg = builder(data, now_hk)
+    elif utc_h == 0:
+        msg, label = build_us_post(data, now_hk), '美股夜盤後總結（備援）'
+    elif utc_h == 1:
+        msg, label = build_asia_pre(data, now_hk), '亞洲盤前（備援）'
+    elif utc_h == 9:
+        msg, label = build_asia_post(data, now_hk), '亞洲盤後（備援）'
+    elif utc_h in (13, 14):
+        msg, label = build_us_pre(data, now_hk), '美股盤前預覽（備援）'
     else:
-        # Manual trigger — default to US pre
-        msg = build_us_pre(data, now_hk)
-        label = '美股盤前預覽（手動）'
+        msg, label = build_us_pre(data, now_hk), '美股盤前預覽（手動）'
 
     print(f"Sending: {label}...")
     result = send_tg(msg)

@@ -189,7 +189,7 @@ def build_us_post(data, now_hk):
     crypto  = data.get('crypto', {}).get('news', [])
     return (
         f"🌅 <b>美股夜盤後總結 + 加密市場</b>\n"
-        f"📅 {now_hk.strftime('%Y年%m月%d日')}　08:00 HKT\n\n"
+        f"📅 {now_hk.strftime('%Y年%m月%d日 %H:%M')} HKT\n\n"
         f"🇺🇸 <b>美股夜盤精選</b>\n"
         f"{news_block(us_post)}\n"
         f"🌐 <b>加密貨幣最新走勢</b>\n"
@@ -209,7 +209,7 @@ def build_asia_pre(data, now_hk):
     jp_pre = data.get('jp', {}).get('pre_market', {}).get('news', [])
     return (
         f"🌏 <b>亞洲股市盤前精選</b>\n"
-        f"📅 {now_hk.strftime('%Y年%m月%d日')}　09:00 HKT\n\n"
+        f"📅 {now_hk.strftime('%Y年%m月%d日 %H:%M')} HKT\n\n"
         f"🇭🇰 <b>港股盤前</b>\n"
         f"{news_block(hk_pre, limit=2)}\n"
         f"🇹🇼 <b>台股盤前</b>\n"
@@ -231,7 +231,7 @@ def build_asia_post(data, now_hk):
     jp_post = data.get('jp', {}).get('post_market', {}).get('news', [])
     return (
         f"🌇 <b>亞洲股市收市總結</b>\n"
-        f"📅 {now_hk.strftime('%Y年%m月%d日')}　17:00 HKT\n\n"
+        f"📅 {now_hk.strftime('%Y年%m月%d日 %H:%M')} HKT\n\n"
         f"🇭🇰 <b>港股收市總結</b>\n"
         f"{news_block(hk_post, limit=2)}\n"
         f"🇹🇼 <b>台股收市總結</b>\n"
@@ -252,7 +252,7 @@ def build_us_pre(data, now_hk):
     crypto  = data.get('crypto', {}).get('news', [])
     return (
         f"🌃 <b>美股即將開市 + 加密市場</b>\n"
-        f"📅 {now_hk.strftime('%Y年%m月%d日')}　21:30 HKT\n\n"
+        f"📅 {now_hk.strftime('%Y年%m月%d日 %H:%M')} HKT\n\n"
         f"🇺🇸 <b>美股盤前精選</b>\n"
         f"{news_block(us_pre)}\n"
         f"🌐 <b>加密貨幣最新走勢</b>\n"

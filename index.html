@@ -361,6 +361,45 @@
     .sop-text { font-size: 13px; color: var(--mid); line-height: 1.7; }
     .sop-text strong { color: var(--dark); }
 
+    /* ── Anatomy guides ── */
+    .anatomy-box { background:#fff; border:1px solid var(--border); border-radius:12px; padding:18px; margin-bottom:22px; display:grid; grid-template-columns:auto 1fr; gap:20px; align-items:center; }
+    .kcandle-demo { display:flex; gap:20px; justify-content:center; }
+    .kc { display:flex; flex-direction:column; align-items:center; gap:0; font-size:10px; color:var(--mid); }
+    .kc-label-top, .kc-label-bot { font-size:9px; color:var(--mid); white-space:nowrap; }
+    .kc-wick { width:2px; height:14px; background:#999; }
+    .kc-wick-long { height:26px; }
+    .kc-body { width:22px; display:flex; flex-direction:column; justify-content:space-between; padding:3px; border-radius:3px; }
+    .kc-body span { font-size:8px; color:#fff; line-height:1; white-space:nowrap; }
+    .kc-bull { background:var(--green); height:36px; }
+    .kc-bear { background:var(--red); height:36px; }
+    .kc-name { font-size:11px; font-weight:700; margin-top:6px; }
+    .vol-demo { display:flex; gap:8px; align-items:flex-end; justify-content:center; padding:4px 0; }
+    .vol-bar-group { display:flex; flex-direction:column; align-items:center; gap:2px; }
+    .vol-price { width:16px; border-radius:2px 2px 0 0; }
+    .vol-volume { width:16px; border-radius:2px 2px 0 0; }
+    .anatomy-title { font-size:13px; font-weight:700; color:var(--dark); margin-bottom:8px; }
+    .anatomy-notes { font-size:12px; color:var(--mid); line-height:1.9; list-style:none; padding:0; }
+    .anatomy-notes li { margin-bottom:1px; }
+    @media (max-width:640px) { .anatomy-box { grid-template-columns:1fr; } }
+
+    /* ── Advanced Options Strategies ── */
+    .adv-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(270px,1fr)); gap:12px; }
+    .adv-card { background:#fff; border:1px solid var(--border); border-radius:10px; padding:15px; transition:box-shadow 0.2s; }
+    .adv-card:hover { box-shadow:0 4px 14px rgba(201,168,76,0.12); }
+    .adv-card-head { display:flex; align-items:flex-start; gap:8px; margin-bottom:8px; }
+    .adv-card-emoji { font-size:18px; flex-shrink:0; margin-top:1px; }
+    .adv-card-titles { flex:1; min-width:0; }
+    .adv-card-title { font-size:13px; font-weight:700; color:var(--dark); }
+    .adv-card-en { font-size:10px; color:#A09070; display:block; margin-top:1px; }
+    .adv-card-stats { display:flex; gap:5px; flex-wrap:wrap; margin-bottom:8px; }
+    .adv-stat { font-size:10px; background:var(--cream); border-radius:10px; padding:2px 8px; color:var(--mid); font-weight:600; }
+    .adv-stat.s-risk { background:var(--red-bg); color:var(--red); }
+    .adv-stat.s-reward { background:var(--green-bg); color:var(--green); }
+    .adv-stat.s-info { background:var(--blue-bg); color:var(--blue); }
+    .adv-card-desc { font-size:12px; color:var(--mid); line-height:1.65; margin-bottom:8px; }
+    .adv-card-tip { font-size:11px; background:var(--cream); border-radius:6px; padding:6px 10px; color:var(--dark); line-height:1.6; }
+    .adv-category { font-size:10px; letter-spacing:2px; text-transform:uppercase; color:var(--gold); font-weight:700; margin:18px 0 10px; }
+
     /* ── Footer ── */
     footer { background: var(--dark); color: #A09070; text-align: center; font-size: 11px; padding: 16px; line-height: 1.8; }
     footer strong { color: var(--gold); }
@@ -611,6 +650,45 @@
     <div class="section-intro">
       成交量是市場的「溫度計」。價格是現象，成交量才是背後的力量。學會讀懂這 8 個信號，你就能比大多數散戶早一步看清市場意圖。
     </div>
+    <div class="anatomy-box">
+      <div>
+        <div class="vol-demo">
+          <div class="vol-bar-group">
+            <div class="vol-price" style="height:18px;background:var(--green);"></div>
+            <div class="vol-volume" style="height:10px;background:#CCC;"></div>
+            <div style="font-size:9px;color:var(--mid);margin-top:2px;">縮量</div>
+          </div>
+          <div class="vol-bar-group">
+            <div class="vol-price" style="height:26px;background:var(--green);"></div>
+            <div class="vol-volume" style="height:18px;background:#999;"></div>
+            <div style="font-size:9px;color:var(--mid);margin-top:2px;">溫和</div>
+          </div>
+          <div class="vol-bar-group">
+            <div class="vol-price" style="height:38px;background:var(--green);"></div>
+            <div class="vol-volume" style="height:34px;background:var(--green);"></div>
+            <div style="font-size:9px;color:var(--mid);margin-top:2px;">放量</div>
+          </div>
+          <div style="width:1px;background:var(--border);height:60px;margin:0 4px;align-self:flex-end;"></div>
+          <div class="vol-bar-group">
+            <div class="vol-price" style="height:38px;background:var(--green);"></div>
+            <div class="vol-volume" style="height:14px;background:#CCC;"></div>
+            <div style="font-size:9px;color:var(--orange-tag);margin-top:2px;">背離⚠️</div>
+          </div>
+        </div>
+        <div style="text-align:center;font-size:10px;color:var(--mid);margin-top:4px;">價格柱（上）+ 成交量柱（下）</div>
+      </div>
+      <div>
+        <div class="anatomy-title">📖 如何讀懂成交量圖</div>
+        <ul class="anatomy-notes">
+          <li>📊 成交量柱顯示在價格圖<strong>下方</strong>，柱子越高 = 成交越多</li>
+          <li>🟩 量柱顏色通常跟當天漲跌一致（陽線配綠，陰線配紅）</li>
+          <li>✅ <strong>量增價升</strong>= 健康多頭，最強買入信號</li>
+          <li>⚠️ <strong>量縮價升</strong>= 漲勢虛弱，靠慣性維持，需留意</li>
+          <li>❌ <strong>量增價跌</strong>= 空方主力出貨，危險信號</li>
+          <li>🔍 <strong>量價背離</strong>= 量與價走向相反，趨勢反轉前兆</li>
+        </ul>
+      </div>
+    </div>
     <div class="cards-grid">
       <div class="card">
         <div class="card-header"><span class="card-icon">✅</span><span class="card-title">放量上漲</span><span class="tag tag-bullish">看漲</span></div>
@@ -662,6 +740,37 @@
   <div id="tab-kline" class="tab-panel">
     <div class="section-intro">
       K線（蠟燭圖）每根記錄了一段時間內的開盤、收盤、最高、最低四個價格。學會解讀 K線形態，就能讀懂多空雙方的博弈結果。
+    </div>
+    <div class="anatomy-box">
+      <div class="kcandle-demo">
+        <div class="kc">
+          <div class="kc-label-top">最高價</div>
+          <div class="kc-wick"></div>
+          <div class="kc-body kc-bull"><span>收盤</span><span>開盤</span></div>
+          <div class="kc-wick kc-wick-long"></div>
+          <div class="kc-label-bot">最低價</div>
+          <div class="kc-name" style="color:var(--green);">陽線 ↑</div>
+        </div>
+        <div class="kc">
+          <div class="kc-label-top">最高價</div>
+          <div class="kc-wick kc-wick-long"></div>
+          <div class="kc-body kc-bear"><span>開盤</span><span>收盤</span></div>
+          <div class="kc-wick"></div>
+          <div class="kc-label-bot">最低價</div>
+          <div class="kc-name" style="color:var(--red);">陰線 ↓</div>
+        </div>
+      </div>
+      <div>
+        <div class="anatomy-title">📖 K線解讀基礎</div>
+        <ul class="anatomy-notes">
+          <li>🟩 <strong>陽線</strong>（收盤 &gt; 開盤）= 當天上漲，實體越長漲幅越確定</li>
+          <li>🟥 <strong>陰線</strong>（收盤 &lt; 開盤）= 當天下跌，實體越長跌勢越強</li>
+          <li>🧵 <strong>上影線</strong>= 當天最高觸及的價位，但最終未守住（空方壓制）</li>
+          <li>🧵 <strong>下影線</strong>= 當天最低觸及的價位，但最終反彈回來（多方支撐）</li>
+          <li>📊 <strong>排列組合</strong>= 多根 K 線連續出現的型態（如晨星、吞噬），信號比單根更可靠</li>
+          <li>⏳ <strong>確認原則</strong>= 看到信號後，等下一根 K 線收盤確認，再決定操作</li>
+        </ul>
+      </div>
     </div>
     <div class="cards-grid">
       <div class="card">
@@ -756,6 +865,22 @@
     <div class="glossary-item">
       <div class="glossary-term">買賣價差 <span class="glossary-en">Bid-Ask Spread</span></div>
       <div class="glossary-def">市場最高買價（Bid）與最低賣價（Ask）之間的差距。這個差距是隱性成本，高頻交易者的最大敵人。流動性越低的股票，Bid-Ask Spread 越大。</div>
+    </div>
+    <div class="glossary-item">
+      <div class="glossary-term">市價單 <span class="glossary-en">Market Order</span></div>
+      <div class="glossary-def">以當前市場最佳價格<strong>立即成交</strong>的指令，不指定任何價格。優點是保證成交；缺點是成交價完全不可控，在流動性低的股票或期權上極易被做市商以極差價格吃掉。<strong>期權交易絕對不應使用市價單。</strong></div>
+    </div>
+    <div class="glossary-item">
+      <div class="glossary-term">限價單 <span class="glossary-en">Limit Order</span></div>
+      <div class="glossary-def">指定<strong>買入上限或賣出下限</strong>的掛單指令，只有市場達到或優於指定價格時才成交。期權交易的黃金標準：永遠以 Mid Price 掛限價單，保護自己不被以差價成交。</div>
+    </div>
+    <div class="glossary-item">
+      <div class="glossary-term">止損單 <span class="glossary-en">Stop Order / Stop Loss</span></div>
+      <div class="glossary-def">當價格<strong>觸及指定止損價位</strong>時自動觸發賣出的保護指令，用於控制最大損失。觸發後轉為市價單執行，實際成交價可能略差於止損價（稱為滑點 Slippage）。提前設好止損是紀律的核心。</div>
+    </div>
+    <div class="glossary-item">
+      <div class="glossary-term">追蹤止損 <span class="glossary-en">Trailing Stop</span></div>
+      <div class="glossary-def">止損價隨正股上漲<strong>自動向上移動</strong>，但不會向下調整。讓利潤持續奔跑的同時鎖定已有收益。例：設定 10% 追蹤止損，股票從 $100 漲至 $130，止損自動升至 $117；若回落觸發即自動賣出。</div>
     </div>
     <div class="glossary-category">技術指標</div>
     <div class="glossary-item">
@@ -862,6 +987,245 @@
         <div class="warning-title">⚠️ 風險紀律——這條線不能碰</div>
         <p>實驗期間嚴格限制每次最多 <strong>1-2 手</strong>。手數乘以 10 = 最大虧損同步乘以 10，心理壓力也會乘以 10，最終導致決策崩潰。<br><br>
         <strong>拒絕高頻操作</strong>：每次交易都有 Bid-Ask Spread 與手續費摩擦損耗，頻繁進出是利潤的慢性殺手。</p>
+      </div>
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">⑥ 高級期權策略</div>
+
+      <div class="adv-category">方向性策略</div>
+      <div class="adv-grid">
+        <div class="adv-card">
+          <div class="adv-card-head">
+            <div class="adv-card-emoji">🐻</div>
+            <div class="adv-card-titles">
+              <div class="adv-card-title">熊市看跌價差 <span class="tag tag-bearish" style="font-size:9px;padding:1px 7px;margin-left:6px;">看跌</span></div>
+              <span class="adv-card-en">Bear Put Spread</span>
+            </div>
+          </div>
+          <div class="adv-card-stats">
+            <span class="adv-stat s-risk">風險：固定</span>
+            <span class="adv-stat s-reward">利潤：有限</span>
+            <span class="adv-stat">勝率：中</span>
+          </div>
+          <div class="adv-card-desc"><strong>做法：</strong>買入高履約價 Put + 賣出低履約價 Put。正股下跌時獲利，賣出的 Put 補貼保費成本。</div>
+          <div class="adv-card-tip">💡 適合預期股價溫和下跌，不確定跌幅的情況。Bull Call Spread 的鏡像版本。</div>
+        </div>
+        <div class="adv-card">
+          <div class="adv-card-head">
+            <div class="adv-card-emoji">📉</div>
+            <div class="adv-card-titles">
+              <div class="adv-card-title">信用認購價差 <span class="tag tag-bearish" style="font-size:9px;padding:1px 7px;margin-left:6px;">看跌</span></div>
+              <span class="adv-card-en">Bear Call Spread</span>
+            </div>
+          </div>
+          <div class="adv-card-stats">
+            <span class="adv-stat s-risk">風險：固定</span>
+            <span class="adv-stat s-reward">先收：保費</span>
+            <span class="adv-stat">勝率：中高</span>
+          </div>
+          <div class="adv-card-desc"><strong>做法：</strong>賣出低履約價 Call + 買入高履約價 Call，建倉即先收保費。正股不漲或下跌，保費全數入袋。</div>
+          <div class="adv-card-tip">💡 高 IV 環境下的常見信用策略，用時間換空間——只要股票不大漲就贏。</div>
+        </div>
+      </div>
+
+      <div class="adv-category">中性策略（從橫盤與時間損耗獲利）</div>
+      <div class="adv-grid">
+        <div class="adv-card">
+          <div class="adv-card-head">
+            <div class="adv-card-emoji">🦅</div>
+            <div class="adv-card-titles">
+              <div class="adv-card-title">鐵禿鷹 <span class="tag tag-info" style="font-size:9px;padding:1px 7px;margin-left:6px;">中性</span></div>
+              <span class="adv-card-en">Iron Condor</span>
+            </div>
+          </div>
+          <div class="adv-card-stats">
+            <span class="adv-stat s-risk">風險：固定</span>
+            <span class="adv-stat s-reward">先收：保費</span>
+            <span class="adv-stat">勝率：高</span>
+          </div>
+          <div class="adv-card-desc"><strong>做法：</strong>同時賣出 OTM Call Spread + OTM Put Spread（4 腿）。只要正股在到期前維持在兩個價差之間的區間，全數保費入袋。</div>
+          <div class="adv-card-tip">💡 最受歡迎的中性策略，特別適合指數（SPY / QQQ）低波動期間定期執行。</div>
+        </div>
+        <div class="adv-card">
+          <div class="adv-card-head">
+            <div class="adv-card-emoji">🦋</div>
+            <div class="adv-card-titles">
+              <div class="adv-card-title">鐵蝶式 <span class="tag tag-info" style="font-size:9px;padding:1px 7px;margin-left:6px;">中性</span></div>
+              <span class="adv-card-en">Iron Butterfly</span>
+            </div>
+          </div>
+          <div class="adv-card-stats">
+            <span class="adv-stat s-risk">風險：固定</span>
+            <span class="adv-stat s-reward">保費：最高</span>
+            <span class="adv-stat">勝率：中</span>
+          </div>
+          <div class="adv-card-desc"><strong>做法：</strong>Iron Condor 的變體，Call Spread 與 Put Spread 共用同一個 ATM 中間履約價。保費收入更高，但獲利區間更窄。</div>
+          <div class="adv-card-tip">💡 適合極度平靜的市場，賺取最大時間溢價，但需要價格精確停在 ATM 附近。</div>
+        </div>
+        <div class="adv-card">
+          <div class="adv-card-head">
+            <div class="adv-card-emoji">🎯</div>
+            <div class="adv-card-titles">
+              <div class="adv-card-title">蝶式價差 <span class="tag tag-info" style="font-size:9px;padding:1px 7px;margin-left:6px;">精準中性</span></div>
+              <span class="adv-card-en">Butterfly Spread</span>
+            </div>
+          </div>
+          <div class="adv-card-stats">
+            <span class="adv-stat s-risk">風險：淨保費</span>
+            <span class="adv-stat s-reward">利潤：中</span>
+            <span class="adv-stat">勝率：低中</span>
+          </div>
+          <div class="adv-card-desc"><strong>做法：</strong>買入 1 低履約 Call + 賣出 2 中間履約 Call + 買入 1 高履約 Call。預測正股在到期日精確停在中間履約價，達到最大獲利。</div>
+          <div class="adv-card-tip">💡 成本低、風險鎖死，適合有明確目標價位時使用，是精準佈局的工具。</div>
+        </div>
+        <div class="adv-card">
+          <div class="adv-card-head">
+            <div class="adv-card-emoji">📅</div>
+            <div class="adv-card-titles">
+              <div class="adv-card-title">日曆價差 <span class="tag tag-info" style="font-size:9px;padding:1px 7px;margin-left:6px;">時間套利</span></div>
+              <span class="adv-card-en">Calendar Spread</span>
+            </div>
+          </div>
+          <div class="adv-card-stats">
+            <span class="adv-stat s-risk">風險：有限</span>
+            <span class="adv-stat s-info">利用：Theta 差異</span>
+            <span class="adv-stat">勝率：中</span>
+          </div>
+          <div class="adv-card-desc"><strong>做法：</strong>賣出近月期權 + 買入<strong>同履約價</strong>遠月期權。近月 Theta 流失快、遠月慢，兩者時間損耗速率差創造利潤。</div>
+          <div class="adv-card-tip">💡 適合預期正股短期橫盤，用時間差套利；遠月期權同時提供方向性持有成本。</div>
+        </div>
+      </div>
+
+      <div class="adv-category">被動收入策略</div>
+      <div class="adv-grid">
+        <div class="adv-card">
+          <div class="adv-card-head">
+            <div class="adv-card-emoji">🏦</div>
+            <div class="adv-card-titles">
+              <div class="adv-card-title">備兌認購 <span class="tag tag-bullish" style="font-size:9px;padding:1px 7px;margin-left:6px;">持股增收</span></div>
+              <span class="adv-card-en">Covered Call</span>
+            </div>
+          </div>
+          <div class="adv-card-stats">
+            <span class="adv-stat">需持：100 股</span>
+            <span class="adv-stat s-reward">收入：保費</span>
+            <span class="adv-stat">勝率：高</span>
+          </div>
+          <div class="adv-card-desc"><strong>做法：</strong>持有 100 股正股 + 賣出 1 手 OTM Call。定期收取保費增加被動收入；若股票漲超履約價被執行，以履約價賣出股票。</div>
+          <div class="adv-card-tip">💡 長線持股者最佳增收工具，每月可產生約 1-3% 額外回報，讓持倉「生息」。</div>
+        </div>
+        <div class="adv-card">
+          <div class="adv-card-head">
+            <div class="adv-card-emoji">💵</div>
+            <div class="adv-card-titles">
+              <div class="adv-card-title">現金擔保認沽 <span class="tag tag-bullish" style="font-size:9px;padding:1px 7px;margin-left:6px;">等待買入</span></div>
+              <span class="adv-card-en">Cash-Secured Put</span>
+            </div>
+          </div>
+          <div class="adv-card-stats">
+            <span class="adv-stat">需持：足額現金</span>
+            <span class="adv-stat s-reward">收入：保費</span>
+            <span class="adv-stat">勝率：高</span>
+          </div>
+          <div class="adv-card-desc"><strong>做法：</strong>帳戶持有足夠現金 + 賣出 OTM Put。股價未跌破履約價 = 保費直接入袋；跌破則以理想低價買入股票，一舉兩得。</div>
+          <div class="adv-card-tip">💡「邊等買入邊收錢」的最聰明策略，把空置現金變成有回報的工具。</div>
+        </div>
+        <div class="adv-card">
+          <div class="adv-card-head">
+            <div class="adv-card-emoji">🎡</div>
+            <div class="adv-card-titles">
+              <div class="adv-card-title">滾輪策略 <span class="tag tag-bullish" style="font-size:9px;padding:1px 7px;margin-left:6px;">被動現金流</span></div>
+              <span class="adv-card-en">The Wheel Strategy</span>
+            </div>
+          </div>
+          <div class="adv-card-stats">
+            <span class="adv-stat s-reward">月回報：1-3%</span>
+            <span class="adv-stat">資金需求：較大</span>
+            <span class="adv-stat s-info">適合：穩定股票</span>
+          </div>
+          <div class="adv-card-desc">
+            <strong>循環：</strong><br>
+            ① 賣出 Cash-Secured Put → 收保費<br>
+            ② 若被執行 → 以低價買入 100 股<br>
+            ③ 持股後賣出 Covered Call → 繼續收保費<br>
+            ④ 若被執行 → 賣出股票，回到步驟①
+          </div>
+          <div class="adv-card-tip">💡 最受歡迎的期權被動收入策略，讓資金不斷「滾動」產生穩定現金流。</div>
+        </div>
+      </div>
+
+      <div class="adv-category">進階組合策略</div>
+      <div class="adv-grid">
+        <div class="adv-card">
+          <div class="adv-card-head">
+            <div class="adv-card-emoji">💡</div>
+            <div class="adv-card-titles">
+              <div class="adv-card-title">窮人備兌認購 <span class="tag tag-info" style="font-size:9px;padding:1px 7px;margin-left:6px;">槓桿版備兌</span></div>
+              <span class="adv-card-en">PMCC — Poor Man's Covered Call</span>
+            </div>
+          </div>
+          <div class="adv-card-stats">
+            <span class="adv-stat s-reward">成本：低</span>
+            <span class="adv-stat s-info">效果：類備兌認購</span>
+            <span class="adv-stat">槓桿：高</span>
+          </div>
+          <div class="adv-card-desc"><strong>做法：</strong>買入深度 ITM 長期 Call（LEAPS，1-2 年到期）替代持有 100 股 + 賣出近月 OTM Call。以更少資金達到備兌認購相似效果。</div>
+          <div class="adv-card-tip">💡 資金不夠買 100 股時的替代方案，但 LEAPS 也有 Theta 成本，需確保近月保費 &gt; LEAPS 每日損耗。</div>
+        </div>
+        <div class="adv-card">
+          <div class="adv-card-head">
+            <div class="adv-card-emoji">🛡️</div>
+            <div class="adv-card-titles">
+              <div class="adv-card-title">護領策略 <span class="tag tag-info" style="font-size:9px;padding:1px 7px;margin-left:6px;">持股保護</span></div>
+              <span class="adv-card-en">Collar</span>
+            </div>
+          </div>
+          <div class="adv-card-stats">
+            <span class="adv-stat s-risk">風險：有限</span>
+            <span class="adv-stat s-reward">成本：接近零</span>
+            <span class="adv-stat">需要：100 股</span>
+          </div>
+          <div class="adv-card-desc"><strong>做法：</strong>持有 100 股 + 買入 OTM Put（下跌保護）+ 賣出 OTM Call（收保費支付 Put 成本）。用放棄部分上漲空間換取下跌保障。</div>
+          <div class="adv-card-tip">💡 長線持股者的防護盔甲，在市場不確定時期以幾乎零成本鎖定下跌風險。</div>
+        </div>
+        <div class="adv-card">
+          <div class="adv-card-head">
+            <div class="adv-card-emoji">↗️</div>
+            <div class="adv-card-titles">
+              <div class="adv-card-title">斜式價差 <span class="tag tag-caution" style="font-size:9px;padding:1px 7px;margin-left:6px;">靈活進階</span></div>
+              <span class="adv-card-en">Diagonal Spread</span>
+            </div>
+          </div>
+          <div class="adv-card-stats">
+            <span class="adv-stat s-risk">風險：有限</span>
+            <span class="adv-stat">靈活：最高</span>
+            <span class="adv-stat s-info">難度：高</span>
+          </div>
+          <div class="adv-card-desc"><strong>做法：</strong>買入遠月某履約價期權 + 賣出近月<strong>不同履約價</strong>期權（同時橫跨不同履約價與到期日）。結合垂直價差與日曆價差的優點。</div>
+          <div class="adv-card-tip">💡 PMCC 本身就是斜式價差的一種。適合對方向有偏見、同時想利用時間溢價的情況。</div>
+        </div>
+        <div class="adv-card">
+          <div class="adv-card-head">
+            <div class="adv-card-emoji">🦎</div>
+            <div class="adv-card-titles">
+              <div class="adv-card-title">翡翠蜥蜴 <span class="tag tag-info" style="font-size:9px;padding:1px 7px;margin-left:6px;">中性偏多</span></div>
+              <span class="adv-card-en">Jade Lizard</span>
+            </div>
+          </div>
+          <div class="adv-card-stats">
+            <span class="adv-stat s-reward">上方：無風險</span>
+            <span class="adv-stat s-risk">下方：持股風險</span>
+            <span class="adv-stat">保費：最大化</span>
+          </div>
+          <div class="adv-card-desc"><strong>做法：</strong>賣出 OTM Put + 賣出 OTM Call Spread。總保費收入 &gt; Call Spread 寬度，確保無論正股怎麼漲，上方都不虧損。</div>
+          <div class="adv-card-tip">💡 中性偏多市場的高效收入策略；唯一風險是正股大幅下跌（Put 被執行後持股下跌）。</div>
+        </div>
+      </div>
+
+      <div class="warning-box" style="margin-top:18px;">
+        <div class="warning-title">⚠️ 高級策略注意事項</div>
+        <p>以上策略多為 2-4 腿組合，執行難度高於單腿期權。建議先熟練 Bull Call Spread 與 Long Straddle 後再嘗試。每增加一腿，手續費與執行誤差也相應增加，寬度設計需精確計算。</p>
       </div>
     </div>
   </div>

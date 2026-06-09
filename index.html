@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Suniverse 投資學堂</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><defs><radialGradient id='g' cx='40%25' cy='35%25'><stop offset='0' stop-color='%23FFE066'/><stop offset='0.5' stop-color='%23C9A84C'/><stop offset='1' stop-color='%237A5C1E'/></radialGradient></defs><circle cx='16' cy='16' r='14' fill='url(%23g)'/><text x='16' y='22' text-anchor='middle' font-size='18' font-weight='bold' font-family='Georgia,serif' fill='%232C1800' opacity='0.9'>$</text><ellipse cx='12' cy='10' rx='4' ry='2.5' fill='white' opacity='0.25' transform='rotate(-30 12 10)'/></svg>" type="image/svg+xml">
   <style>
     :root {
       --gold: #C9A84C;
@@ -321,7 +322,7 @@
 
     /* ── Glossary ── */
     .glossary-category { font-size: 10px; letter-spacing: 3px; text-transform: uppercase; color: var(--gold); font-weight: 700; margin: 22px 0 8px; }
-    .glossary-item { border-bottom: 1px solid var(--border); padding: 14px 4px; }
+    .glossary-item { background:#fff; border-radius:10px; padding:12px 14px; border-left:3px solid var(--gold); box-shadow:0 1px 6px rgba(0,0,0,.06); margin-bottom:8px; }
     .glossary-term { font-size: 14px; font-weight: 700; color: var(--dark); margin-bottom: 4px; display: flex; align-items: center; gap: 7px; }
     .glossary-en { font-size: 11px; color: #A09070; font-weight: 400; }
     .glossary-def { font-size: 13px; color: var(--mid); line-height: 1.7; }
@@ -434,6 +435,103 @@
     #payoffCanvas { width:100%; height:auto; display:block; border-radius:4px; }
 
 
+
+    /* ── Four Actions Grid (① 期權基礎) ── */
+    .four-actions-title { font-size:12px; font-weight:700; color:var(--gold); letter-spacing:1px; margin:18px 0 10px; text-align:center; }
+    .four-actions-grid { display:grid; grid-template-columns:repeat(2,1fr); gap:10px; }
+    .action-card { background:#fff; border-radius:12px; padding:12px; border:1px solid var(--border); }
+    .action-sell-card { border-color:#F5D5CC; background:#FFFAF9; }
+    .action-badge { display:inline-block; font-size:10px; font-weight:700; padding:2px 8px; border-radius:10px; margin-bottom:6px; }
+    .action-buy { background:#E8F5E9; color:#2E7D32; }
+    .action-sell { background:#FFEBEE; color:#C62828; }
+    .action-name { font-size:13px; font-weight:700; color:var(--dark); margin-bottom:8px; }
+    .action-analogy { font-size:11px; color:#5A5040; line-height:1.6; background:var(--cream); border-radius:8px; padding:8px; margin-bottom:8px; }
+    .action-divider { height:1px; background:var(--border); margin:8px 0; }
+    .action-row { display:flex; align-items:baseline; gap:6px; font-size:11px; color:var(--dark); margin-bottom:4px; line-height:1.5; }
+    .action-lbl { flex-shrink:0; font-size:10px; font-weight:700; color:var(--gold); letter-spacing:.5px; background:var(--cream); padding:1px 5px; border-radius:4px; }
+    .result-bull { color:#2E7D32; font-weight:600; }
+    .result-bear { color:#C62828; font-weight:600; }
+    .result-income { color:#F57F17; font-weight:600; }
+
+    /* ── Strategy Choose Guide (③) ── */
+    .strat-choose-wrap { background:var(--cream); border-radius:12px; padding:14px; margin-bottom:14px; }
+    .strat-choose-title { font-size:13px; font-weight:700; color:var(--dark); margin-bottom:10px; }
+    .strat-choose-grid { display:grid; grid-template-columns:1fr; gap:8px; }
+    .strat-choose-card { background:#fff; border-radius:10px; padding:10px 12px; }
+    .scq { font-size:12px; font-weight:700; color:var(--dark); margin-bottom:6px; }
+    .sca { font-size:11px; color:var(--mid); line-height:1.7; padding:2px 0; }
+    .sca-bull { color:#2E7D32; }
+    .sca-bear { color:#C62828; }
+    .sca-neutral { color:#1565C0; }
+    .sca-vol { color:#F57F17; }
+    .options-section-subtitle { font-size:12px; font-weight:700; color:var(--gold); letter-spacing:1px; margin:20px 0 10px; text-align:center; }
+
+    /* ── Mini K-line candle chart ── */
+    .mc-wrap { display:flex; gap:8px; align-items:flex-end; height:64px; padding:6px 8px 4px; background:#F5F3EE; border-radius:8px; margin:6px 0 10px; justify-content:center; }
+    .mc-c { display:flex; flex-direction:column; align-items:center; }
+    .mc-wt,.mc-wb { width:1.5px; background:#9A9080; border-radius:1px; }
+    .mc-body { width:10px; border-radius:2px; }
+    .mc-bull { background:var(--green); }
+    .mc-bear { background:var(--red); }
+    .mc-doji { width:12px; height:1.5px; background:#9A9080; }
+
+    /* ── Mini volume chart ── */
+    .mvc-wrap { display:flex; gap:6px; align-items:flex-end; height:64px; padding:6px 8px 4px; background:#F5F3EE; border-radius:8px; margin:6px 0 10px; justify-content:center; }
+    .mvc-grp { display:flex; flex-direction:column; align-items:center; gap:2px; }
+    .mvc-price { width:10px; border-radius:2px 2px 0 0; }
+    .mvc-vol { width:8px; border-radius:1px; }
+
+    /* ── Greek letters (名詞 Tab) ── */
+    .greek-grid { display:grid; grid-template-columns:repeat(2,1fr); gap:10px; margin-top:8px; }
+    .greek-card { background:#fff; border-radius:12px; padding:14px; border:1px solid var(--border); text-align:center; }
+    .greek-sym { font-size:26px; font-weight:300; color:var(--dark); margin-bottom:3px; font-style:italic; }
+    .greek-name { font-size:11px; font-weight:700; color:var(--gold); margin-bottom:6px; letter-spacing:.5px; }
+    .greek-desc { font-size:11px; color:var(--mid); line-height:1.6; text-align:left; }
+    .greek-badge { display:inline-block; font-size:10px; padding:2px 6px; border-radius:8px; margin-top:5px; font-weight:600; }
+    .gb-buy { background:#E8F5E9; color:#2E7D32; }
+    .gb-sell { background:#FFEBEE; color:#C62828; }
+    .gb-neutral { background:#E3F2FD; color:#1565C0; }
+
+    /* ── Bond Tab ── */
+    .bond-intro-box { background:var(--cream); border-radius:12px; padding:14px 16px; margin-bottom:14px; border:1px solid var(--border); }
+    .bond-intro-box p { font-size:13px; color:var(--dark); line-height:1.7; margin:0; }
+    .bond-grid { display:grid; grid-template-columns:repeat(2,1fr); gap:10px; margin-top:10px; }
+    .bond-card { background:#fff; border-radius:12px; padding:14px; border:1px solid var(--border); }
+    .bond-card-icon { font-size:22px; margin-bottom:6px; }
+    .bond-card-title { font-size:13px; font-weight:700; color:var(--dark); margin-bottom:4px; }
+    .bond-card-en { font-size:10px; color:var(--gold); font-weight:600; margin-bottom:5px; }
+    .bond-card-desc { font-size:11px; color:var(--mid); line-height:1.6; }
+    .yield-box { background:var(--cream); border-radius:12px; padding:14px; border:1px solid var(--border); margin-top:10px; }
+    .yield-title { font-size:13px; font-weight:700; color:var(--dark); margin-bottom:10px; }
+    .yield-row { display:flex; align-items:center; gap:10px; padding:8px 0; border-bottom:1px solid var(--border); font-size:12px; }
+    .yield-row:last-child { border-bottom:none; }
+    .yield-dir { font-size:18px; flex-shrink:0; }
+    .yield-txt { flex:1; color:var(--dark); }
+    .yield-res { font-weight:700; }
+    .yield-up { color:#2E7D32; }
+    .yield-dn { color:#C62828; }
+    .bond-type-list { display:grid; grid-template-columns:1fr; gap:8px; margin-top:10px; }
+    .bond-type-item { background:#fff; border-radius:10px; padding:11px 13px; border-left:3px solid var(--gold); }
+    .bond-type-name { font-size:13px; font-weight:700; color:var(--dark); margin-bottom:3px; }
+    .bond-type-rating { font-size:10px; font-weight:700; padding:2px 6px; border-radius:6px; float:right; margin-left:6px; }
+    .rating-safe { background:#E8F5E9; color:#2E7D32; }
+    .rating-mid { background:#FFF8E1; color:#F57F17; }
+    .rating-risk { background:#FFEBEE; color:#C62828; }
+    .bond-type-desc { font-size:11px; color:var(--mid); line-height:1.6; }
+
+    /* ── Contract Tab ── */
+    .contract-card { background:#fff; border-radius:12px; padding:16px; border:1px solid var(--border); margin-bottom:12px; }
+    .contract-badge { font-size:10px; font-weight:700; padding:2px 8px; border-radius:8px; margin-bottom:8px; display:inline-block; }
+    .cb-retail { background:#E3F2FD; color:#1565C0; }
+    .cb-pro { background:#F3E5F5; color:#6A1B9A; }
+    .cb-common { background:#E8F5E9; color:#2E7D32; }
+    .contract-title { font-size:15px; font-weight:700; color:var(--dark); margin-bottom:2px; }
+    .contract-en { font-size:11px; color:var(--gold); margin-bottom:8px; }
+    .contract-desc { font-size:12px; color:#5A5040; line-height:1.7; margin-bottom:8px; }
+    .contract-tags { display:flex; gap:6px; flex-wrap:wrap; }
+    .ctag { font-size:11px; background:var(--cream); padding:3px 8px; border-radius:6px; color:var(--dark); }
+
+
     /* ── Footer ── */
     footer { background: var(--dark); color: #A09070; text-align: center; font-size: 11px; padding: 16px; line-height: 1.8; }
     footer strong { color: var(--gold); }
@@ -467,6 +565,8 @@
   <button class="tab-btn" onclick="switchTab('kline', this)">🕯 K線</button>
   <button class="tab-btn" onclick="switchTab('glossary', this)">📖 名詞</button>
   <button class="tab-btn" onclick="switchTab('options', this)">⚡ 期權</button>
+  <button class="tab-btn" onclick="switchTab('bonds', this)">🏛 債券</button>
+  <button class="tab-btn" onclick="switchTab('contracts', this)">📋 合約</button>
 </nav>
 
 <main>
@@ -726,41 +826,49 @@
     <div class="cards-grid">
       <div class="card">
         <div class="card-header"><span class="card-icon">✅</span><span class="card-title">放量上漲</span><span class="tag tag-bullish">看漲</span></div>
+        <div class="mvc-wrap"><div class="mvc-grp"><div class="mvc-price" style="height:12px;background:var(--green)"></div><div class="mvc-vol" style="height:10px;background:var(--green)"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:18px;background:var(--green)"></div><div class="mvc-vol" style="height:16px;background:var(--green)"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:26px;background:var(--green)"></div><div class="mvc-vol" style="height:24px;background:var(--green)"></div></div></div>
         <p class="card-desc">成交量大幅增加，同時價格持續上漲。代表多方主力積極入場，買盤力量強勁，市場認同這波漲勢。</p>
         <div class="card-action"><strong>操作建議：</strong>健康的上漲信號，趨勢追隨者可考慮跟進，但注意不要追高。</div>
       </div>
       <div class="card">
         <div class="card-header"><span class="card-icon">⚠️</span><span class="card-title">縮量上漲</span><span class="tag tag-caution">留意</span></div>
+        <div class="mvc-wrap"><div class="mvc-grp"><div class="mvc-price" style="height:14px;background:var(--green)"></div><div class="mvc-vol" style="height:14px;background:#AAA"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:20px;background:var(--green)"></div><div class="mvc-vol" style="height:10px;background:#AAA"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:28px;background:var(--green)"></div><div class="mvc-vol" style="height:6px;background:#AAA"></div></div></div>
         <p class="card-desc">價格繼續攀升，但成交量卻在萎縮。漲勢缺乏新的買盤支撐，靠慣性維持，動能正在悄悄流失。</p>
         <div class="card-action"><strong>操作建議：</strong>不宜追入，持倉者考慮部分止盈，警惕隨時可能的回調。</div>
       </div>
       <div class="card">
         <div class="card-header"><span class="card-icon">❌</span><span class="card-title">放量下跌</span><span class="tag tag-bearish">看跌</span></div>
+        <div class="mvc-wrap"><div class="mvc-grp"><div class="mvc-price" style="height:26px;background:var(--red)"></div><div class="mvc-vol" style="height:24px;background:var(--red)"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:18px;background:var(--red)"></div><div class="mvc-vol" style="height:18px;background:var(--red)"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:10px;background:var(--red)"></div><div class="mvc-vol" style="height:10px;background:var(--red)"></div></div></div>
         <p class="card-desc">成交量爆量同時價格急跌。空方主力大量出貨，市場出現恐慌性拋售。是空方力量最明確的表現。</p>
         <div class="card-action"><strong>操作建議：</strong>明確看跌信號，多方應考慮減倉或止損，切勿抄底。</div>
       </div>
       <div class="card">
         <div class="card-header"><span class="card-icon">🚨</span><span class="card-title">高位縮量</span><span class="tag tag-alert">危險</span></div>
+        <div class="mvc-wrap"><div class="mvc-grp"><div class="mvc-price" style="height:28px;background:var(--green)"></div><div class="mvc-vol" style="height:20px;background:#AAA"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:26px;background:var(--green)"></div><div class="mvc-vol" style="height:12px;background:#AAA"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:24px;background:var(--green)"></div><div class="mvc-vol" style="height:6px;background:#CCC"></div></div></div>
         <p class="card-desc">股票已在高位運行一段時間，成交量卻明顯萎縮。主力悄悄退場，散戶接盤能力不足，反轉風險急劇上升。</p>
         <div class="card-action"><strong>操作建議：</strong>高位危險信號，應考慮逐步減倉，設置止盈保護利潤。</div>
       </div>
       <div class="card">
         <div class="card-header"><span class="card-icon">📈</span><span class="card-title">溫和放量</span><span class="tag tag-bullish">健康</span></div>
+        <div class="mvc-wrap"><div class="mvc-grp"><div class="mvc-price" style="height:14px;background:var(--green)"></div><div class="mvc-vol" style="height:12px;background:var(--green)"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:18px;background:var(--green)"></div><div class="mvc-vol" style="height:15px;background:var(--green)"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:22px;background:var(--green)"></div><div class="mvc-vol" style="height:18px;background:var(--green)"></div></div></div>
         <p class="card-desc">成交量平穩、有節奏地小幅增加，伴隨價格穩步上升。是最健康的上漲型態，代表市場充分消化籌碼。</p>
         <div class="card-action"><strong>操作建議：</strong>最理想的買入型態，趨勢可持續性強，可考慮建倉持有。</div>
       </div>
       <div class="card">
         <div class="card-header"><span class="card-icon">🔥</span><span class="card-title">異常成交量</span><span class="tag tag-alert">異常</span></div>
+        <div class="mvc-wrap"><div class="mvc-grp"><div class="mvc-price" style="height:18px;background:var(--green)"></div><div class="mvc-vol" style="height:8px;background:#AAA"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:22px;background:var(--green)"></div><div class="mvc-vol" style="height:38px;background:var(--orange-tag)"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:14px;background:var(--red)"></div><div class="mvc-vol" style="height:12px;background:#AAA"></div></div></div>
         <p class="card-desc">成交量突然爆增至平日數倍，遠超正常水平。通常與重大消息、財報、併購等事件掛鉤，方向待確認。</p>
         <div class="card-action"><strong>操作建議：</strong>先觀察方向確認，再決定操作。不要在方向未明前盲目追入。</div>
       </div>
       <div class="card">
         <div class="card-header"><span class="card-icon">⚡</span><span class="card-title">量價背離</span><span class="tag tag-alert">反轉信號</span></div>
+        <div class="mvc-wrap"><div class="mvc-grp"><div class="mvc-price" style="height:28px;background:var(--green)"></div><div class="mvc-vol" style="height:22px;background:var(--green)"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:30px;background:var(--green)"></div><div class="mvc-vol" style="height:10px;background:#BBB"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:22px;background:var(--green)"></div><div class="mvc-vol" style="height:6px;background:#DDD"></div></div></div>
         <p class="card-desc">價格創出新高，但成交量反而下降；或價格創新低，成交量卻減少。量與價走向相反，是趨勢可能反轉的預警。</p>
         <div class="card-action"><strong>操作建議：</strong>重要反轉前兆，多方背離時減倉，空方背離時留意反彈機會。</div>
       </div>
       <div class="card">
         <div class="card-header"><span class="card-icon">💥</span><span class="card-title">成交量極端</span><span class="tag tag-info">轉折點</span></div>
+        <div class="mvc-wrap"><div class="mvc-grp"><div class="mvc-price" style="height:20px;background:var(--green)"></div><div class="mvc-vol" style="height:8px;background:#CCC"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:18px;background:var(--green)"></div><div class="mvc-vol" style="height:38px;background:var(--red)"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:16px;background:var(--red)"></div><div class="mvc-vol" style="height:14px;background:#CCC"></div></div></div>
         <p class="card-desc">成交量達到歷史極端水平（極高或極低）。極高量可能代表主力出貨完成；極低量代表市場進入觀望，大行情蓄勢待發。</p>
         <div class="card-action"><strong>操作建議：</strong>注意成交量極端後的方向突破，往往是新一輪趨勢的起點。</div>
       </div>
@@ -809,41 +917,49 @@
     <div class="cards-grid">
       <div class="card">
         <div class="card-header"><span class="card-icon">🔨</span><span class="card-title">錘子線</span><span class="tag tag-bullish">看漲反轉</span></div>
+        <div class="mc-wrap"><div class="mc-c"><div class="mc-wt" style="height:2px"></div><div class="mc-body mc-bull" style="height:10px"></div><div class="mc-wb" style="height:40px"></div></div></div>
         <p class="card-desc">下影線很長（至少是實體的 2 倍），上影線極短或沒有，實體在頂部。出現在下跌趨勢末端，代表空方打壓後被多方強力反攻回來。</p>
         <div class="card-action"><strong>操作建議：</strong>出現在支撐位附近時信號最強，可考慮次日確認後買入。</div>
       </div>
       <div class="card">
         <div class="card-header"><span class="card-icon">🌠</span><span class="card-title">射擊之星</span><span class="tag tag-bearish">看跌反轉</span></div>
+        <div class="mc-wrap"><div class="mc-c"><div class="mc-wt" style="height:40px"></div><div class="mc-body mc-bear" style="height:10px"></div><div class="mc-wb" style="height:2px"></div></div></div>
         <p class="card-desc">上影線很長（至少是實體的 2 倍），下影線極短或沒有，實體在底部。出現在上漲趨勢高位，代表多方衝高後遭空方強力壓制。</p>
         <div class="card-action"><strong>操作建議：</strong>出現在阻力位附近時信號最強，持倉者考慮止盈減倉。</div>
       </div>
       <div class="card">
         <div class="card-header"><span class="card-icon">➕</span><span class="card-title">十字星</span><span class="tag tag-caution">多空均衡</span></div>
+        <div class="mc-wrap"><div class="mc-c"><div class="mc-wt" style="height:22px"></div><div class="mc-doji"></div><div class="mc-wb" style="height:22px"></div></div></div>
         <p class="card-desc">開盤價與收盤價幾乎相同，形成十字形。代表多空雙方勢力相當，市場陷入猶豫不決。出現在趨勢頂部或底部時尤其值得關注。</p>
         <div class="card-action"><strong>操作建議：</strong>本身不構成操作信號，需等待下一根 K 線確認方向後再行動。</div>
       </div>
       <div class="card">
         <div class="card-header"><span class="card-icon">🌅</span><span class="card-title">晨星形態</span><span class="tag tag-bullish">看漲反轉</span></div>
+        <div class="mc-wrap"><div class="mc-c"><div class="mc-wt" style="height:3px"></div><div class="mc-body mc-bear" style="height:28px"></div><div class="mc-wb" style="height:3px"></div></div><div class="mc-c" style="margin-bottom:3px"><div class="mc-wt" style="height:6px"></div><div class="mc-body mc-bull" style="height:6px"></div><div class="mc-wb" style="height:6px"></div></div><div class="mc-c"><div class="mc-wt" style="height:3px"></div><div class="mc-body mc-bull" style="height:28px"></div><div class="mc-wb" style="height:3px"></div></div></div>
         <p class="card-desc">三根 K 線組合：①大陰線 ②跳空小實體（多空猶豫）③大陽線收復。出現在下跌趨勢底部，是強力的底部反轉信號。</p>
         <div class="card-action"><strong>操作建議：</strong>等第三根陽線收盤確認後可考慮買入，止損設在組合低點。</div>
       </div>
       <div class="card">
         <div class="card-header"><span class="card-icon">🌇</span><span class="card-title">暮星形態</span><span class="tag tag-bearish">看跌反轉</span></div>
+        <div class="mc-wrap"><div class="mc-c"><div class="mc-wt" style="height:3px"></div><div class="mc-body mc-bull" style="height:28px"></div><div class="mc-wb" style="height:3px"></div></div><div class="mc-c" style="margin-bottom:3px"><div class="mc-wt" style="height:6px"></div><div class="mc-body mc-bear" style="height:6px"></div><div class="mc-wb" style="height:6px"></div></div><div class="mc-c"><div class="mc-wt" style="height:3px"></div><div class="mc-body mc-bear" style="height:28px"></div><div class="mc-wb" style="height:3px"></div></div></div>
         <p class="card-desc">三根 K 線組合：①大陽線 ②跳空小實體（多空猶豫）③大陰線吞回。出現在上漲趨勢頂部，是強力的頂部反轉信號。</p>
         <div class="card-action"><strong>操作建議：</strong>等第三根陰線收盤確認後可考慮減倉或做空，止損設在組合高點。</div>
       </div>
       <div class="card">
         <div class="card-header"><span class="card-icon">🔛</span><span class="card-title">吞噬形態</span><span class="tag tag-bullish">看漲反轉</span></div>
+        <div class="mc-wrap"><div class="mc-c"><div class="mc-wt" style="height:3px"></div><div class="mc-body mc-bear" style="height:15px"></div><div class="mc-wb" style="height:3px"></div></div><div class="mc-c"><div class="mc-wt" style="height:3px"></div><div class="mc-body mc-bull" style="height:30px"></div><div class="mc-wb" style="height:3px"></div></div></div>
         <p class="card-desc">大陽線完全吞噬前一根陰線的實體（看漲吞噬）。代表多方力量壓倒性勝出，空方失去控制，是趨勢反轉的強力信號。</p>
         <div class="card-action"><strong>操作建議：</strong>吞噬當天或次日可考慮建倉，吞噬的實體越大信號越強。</div>
       </div>
       <div class="card">
         <div class="card-header"><span class="card-icon">🤰</span><span class="card-title">孕線形態</span><span class="tag tag-caution">趨勢猶豫</span></div>
+        <div class="mc-wrap"><div class="mc-c"><div class="mc-wt" style="height:3px"></div><div class="mc-body mc-bull" style="height:30px"></div><div class="mc-wb" style="height:3px"></div></div><div class="mc-c" style="margin-bottom:5px"><div class="mc-wt" style="height:6px"></div><div class="mc-body mc-bear" style="height:12px"></div><div class="mc-wb" style="height:6px"></div></div></div>
         <p class="card-desc">小 K 線的實體完全被前一根大 K 線包住，像母親懷孕。代表市場失去方向感，動能衰竭，趨勢可能發生轉變。</p>
         <div class="card-action"><strong>操作建議：</strong>本身是觀望信號，等待突破方向確認後再操作，切忌提前押注。</div>
       </div>
       <div class="card">
         <div class="card-header"><span class="card-icon">📶</span><span class="card-title">三連陽 / 三連陰</span><span class="tag tag-info">趨勢延續</span></div>
+        <div class="mc-wrap"><div class="mc-c" style="margin-bottom:0px"><div class="mc-wt" style="height:2px"></div><div class="mc-body mc-bull" style="height:14px"></div><div class="mc-wb" style="height:2px"></div></div><div class="mc-c" style="margin-bottom:5px"><div class="mc-wt" style="height:2px"></div><div class="mc-body mc-bull" style="height:20px"></div><div class="mc-wb" style="height:2px"></div></div><div class="mc-c" style="margin-bottom:10px"><div class="mc-wt" style="height:2px"></div><div class="mc-body mc-bull" style="height:26px"></div><div class="mc-wb" style="height:2px"></div></div></div>
         <p class="card-desc">連續三根同向 K 線，每根收盤都高於（或低於）前一根。代表趨勢強勁、單邊走勢清晰，動能充足。</p>
         <div class="card-action"><strong>操作建議：</strong>三連陽後避免追高；三連陰後避免抄底。等待回調或反彈再介入更安全。</div>
       </div>
@@ -925,6 +1041,47 @@
       <div class="glossary-term">開盤區間 <span class="glossary-en">Opening Range</span></div>
       <div class="glossary-def">開盤後特定時間（通常是前 15-30 分鐘）所形成的最高價與最低價區間。是當日重要的支撐阻力參考線。突破 Opening Range 高點視為看漲；跌破低點視為看跌。</div>
     </div>
+
+    <div class="glossary-category">期權希臘字母 Greeks</div>
+    <div class="greek-grid">
+      <div class="greek-card">
+        <div class="greek-sym">Δ</div>
+        <div class="greek-name">Delta</div>
+        <div class="greek-desc">期權價格對正股每 $1 變動的敏感度。Call 的 Delta 為 0～1；Put 為 -1～0。<br><br>Delta 0.5 ≈ 平價期權（ATM）；Delta 0.8 = 深度價內期權，像股票一樣動。<br><br>Delta 的絕對值近似於期權到期「價內」的機率。</div>
+        <span class="greek-badge gb-neutral">方向指標</span>
+      </div>
+      <div class="greek-card">
+        <div class="greek-sym">Θ</div>
+        <div class="greek-name">Theta（時間損耗）</div>
+        <div class="greek-desc">期權每天因時間流逝而損失的價值。Theta = -0.05 代表每過一天，期權減值 $5（每手）。<br><br>越接近到期日，Theta 流逝越快（最後一週是殺手）。<br><br>買方的敵人，賣方的朋友。</div>
+        <span class="greek-badge gb-sell">賣方有利</span>
+      </div>
+      <div class="greek-card">
+        <div class="greek-sym">Γ</div>
+        <div class="greek-name">Gamma</div>
+        <div class="greek-desc">Delta 的變化速率。Gamma 高 = Delta 對正股走勢反應更劇烈（雙面刃）。<br><br>平值期權（ATM）Gamma 最高；臨近到期日 Gamma 急速放大。<br><br>Long Gamma = 對波動有利；Short Gamma = 對波動有害。</div>
+        <span class="greek-badge gb-buy">波動放大器</span>
+      </div>
+      <div class="greek-card">
+        <div class="greek-sym">ν</div>
+        <div class="greek-name">Vega</div>
+        <div class="greek-desc">期權對隱含波動率（IV）每 1% 變動的敏感度。Vega = 0.10，IV 升 1% → 期權增值 $10。<br><br>財報前 IV 飆升 → Vega 讓期權變貴；財報後 IV 崩塌 = Vega 大跌（IV Crush）。<br><br>Long 期權者要提防 IV Crush。</div>
+        <span class="greek-badge gb-neutral">IV 敏感度</span>
+      </div>
+      <div class="greek-card">
+        <div class="greek-sym">ITM%</div>
+        <div class="greek-name">價內機率</div>
+        <div class="greek-desc">期權到期時處於「價內」（有利可圖）的概率估計。<br><br>通常用 Delta 絕對值作為近似：Call Delta 0.30 ≈ 30% 機率 ITM。<br><br>OTM（虛值）期權成本低但勝率低；ITM（實值）成本高但勝率高。選擇在風險與回報的平衡點。</div>
+        <span class="greek-badge gb-neutral">勝率估算</span>
+      </div>
+      <div class="greek-card">
+        <div class="greek-sym">ρ</div>
+        <div class="greek-name">Rho</div>
+        <div class="greek-desc">期權對利率每 1% 變動的敏感度。對短期（30-60日）期權影響甚微，對長期 LEAPS 期權影響較大。<br><br>利率升 → Call 略漲、Put 略跌。<br><br>散戶日常交易通常無需特別關注 Rho。</div>
+        <span class="greek-badge gb-neutral">利率敏感度</span>
+      </div>
+    </div>
+
   </div>
 
 
@@ -944,24 +1101,73 @@
         <div class="concept-card"><div class="emoji">⏳</div><div class="name">Theta 時間小偷</div><div class="desc">每過一天，期權的時間溢價自動融化。買方的敵人，賣方的朋友。</div></div>
         <div class="concept-card"><div class="emoji">🌡️</div><div class="name">IV 隱含波動率</div><div class="desc">市場恐慌與興奮指數。IV 暴漲 = 期權保費暴漲；IV 崩塌 = 保費蒸發。</div></div>
       </div>
-    </div>
-
-    <div class="options-section">
-      <div class="options-section-title">② 交易前必知</div>
-      <div class="cards-grid">
-        <div class="card">
-          <div class="card-header"><span class="card-icon">⚖️</span><span class="card-title">永遠用中間價</span></div>
-          <p class="card-desc">建倉與結算的鋼鐵紀律。取 Bid 與 Ask 的中間價掛限價單，永遠拒絕市價單。市價單 = 讓做市商在買賣價差上吃掉你的利潤。</p>
+      <div class="four-actions-title">🔑 四種核心玩法——買入 vs 賣出一次搞清楚</div>
+      <div class="four-actions-grid">
+        <div class="action-card">
+          <div class="action-badge action-buy">買入 Long</div>
+          <div class="action-name">CALL 認購期權</div>
+          <div class="action-analogy">🎫 <strong>比喻：預購優惠券</strong><br>你付 $50 買了張「以 $500 買 iPhone」的券。iPhone 漲到 $700，券值 $200；沒漲，券作廢，最多損 $50 保費。</div>
+          <div class="action-divider"></div>
+          <div class="action-row"><span class="action-lbl">動作</span><span>花保費 → 取得以行使價<strong>買入</strong>正股的權利</span></div>
+          <div class="action-row"><span class="action-lbl">效果</span><span class="result-bull">正股漲 → 大賺；不漲 → 最多損保費</span></div>
+          <div class="action-row"><span class="action-lbl">風險</span><span>有限（僅保費）</span></div>
         </div>
-        <div class="card">
-          <div class="card-header"><span class="card-icon">☁️</span><span class="card-title">GTC 條件單 = 自動提款機</span></div>
-          <p class="card-desc">建倉後立刻掛上 GTC 止盈限價單，交給券商雲端伺服器 24 小時監控。條件達成自動成交，你可以完全不看盤、安心生活。</p>
+        <div class="action-card">
+          <div class="action-badge action-buy">買入 Long</div>
+          <div class="action-name">PUT 認沽期權</div>
+          <div class="action-analogy">🛡️ <strong>比喻：買保險</strong><br>你付 $50 買了「以 $500 賣出 iPhone」的保險。iPhone 跌到 $300，以 $500 賣出賺 $200；沒跌，保費損失但資產安全。</div>
+          <div class="action-divider"></div>
+          <div class="action-row"><span class="action-lbl">動作</span><span>花保費 → 鎖定以行使價<strong>賣出</strong>正股的權利</span></div>
+          <div class="action-row"><span class="action-lbl">效果</span><span class="result-bear">正股跌 → 大賺；不跌 → 最多損保費</span></div>
+          <div class="action-row"><span class="action-lbl">風險</span><span>有限（僅保費）</span></div>
+        </div>
+        <div class="action-card action-sell-card">
+          <div class="action-badge action-sell">賣出 Short</div>
+          <div class="action-name">CALL 認購期權</div>
+          <div class="action-analogy">🏪 <strong>比喻：開優惠券店</strong><br>你收 $50，承諾「他要 $500 買 iPhone，你必須賣」。iPhone 漲到 $700，被迫以 $500 賣，虧 $150；沒漲，$50 袋袋平安。</div>
+          <div class="action-divider"></div>
+          <div class="action-row"><span class="action-lbl">動作</span><span>收保費 → 承擔對方行使時必須<strong>賣出</strong>的義務</span></div>
+          <div class="action-row"><span class="action-lbl">效果</span><span class="result-income">正股不漲 → 袋保費；大漲 → 理論上無限虧損</span></div>
+          <div class="action-row"><span class="action-lbl">風險</span><span class="result-bear">無限（正股可無限上漲）⚠️</span></div>
+        </div>
+        <div class="action-card action-sell-card">
+          <div class="action-badge action-sell">賣出 Short</div>
+          <div class="action-name">PUT 認沽期權</div>
+          <div class="action-analogy">💼 <strong>比喻：承諾接盤</strong><br>你收 $50，承諾「他要 $500 賣 iPhone，你必須買」。iPhone 跌到 $300，被迫以 $500 買入，帳面虧 $150；沒跌，$50 袋袋平安。</div>
+          <div class="action-divider"></div>
+          <div class="action-row"><span class="action-lbl">動作</span><span>收保費 → 承擔對方行使時必須<strong>買入</strong>的義務</span></div>
+          <div class="action-row"><span class="action-lbl">效果</span><span class="result-income">正股不跌 → 袋保費；大跌 → 大額虧損</span></div>
+          <div class="action-row"><span class="action-lbl">風險</span><span class="result-bear">有限但大（最多損失行使價全額）</span></div>
         </div>
       </div>
     </div>
 
     <div class="options-section">
       <div class="options-section-title">③ 策略武器庫</div>
+      <div class="strat-choose-wrap">
+        <div class="strat-choose-title">🧭 如何選擇合適的期權策略？先問這 3 個問題</div>
+        <div class="strat-choose-grid">
+          <div class="strat-choose-card">
+            <div class="scq">① 你對方向的判斷？</div>
+            <div class="sca sca-bull">📈 看漲 → Long Call · Bull Call Spread · Covered Call</div>
+            <div class="sca sca-bear">📉 看跌 → Long Put · Bear Put Spread · Protective Put</div>
+            <div class="sca sca-neutral">➡️ 看平橫行 → Iron Condor · Short Put · Calendar Spread</div>
+            <div class="sca sca-vol">⚡ 方向不明但賭大波動 → Straddle · Strangle</div>
+          </div>
+          <div class="strat-choose-card">
+            <div class="scq">② 你的風險偏好？</div>
+            <div class="sca">🛡️ 有限風險優先 → 優先選買入策略（Long Call/Put）或價差（Spread）</div>
+            <div class="sca">💰 願意收息、接受義務 → 賣出策略（Short Put · Covered Call）</div>
+            <div class="sca">⚠️ 新手忌單腿賣出 Call —— 虧損無上限，風險最高</div>
+          </div>
+          <div class="strat-choose-card">
+            <div class="scq">③ 你現在持有正股嗎？</div>
+            <div class="sca">📦 持股 + 想保護下跌風險 → Protective Put（直接對沖）</div>
+            <div class="sca">📦 持股 + 想每月收息 → Covered Call（賣出 Call 收保費）</div>
+            <div class="sca">🚫 不持股 → 純期權策略，Long Call/Put 最適合入門</div>
+          </div>
+        </div>
+      </div>
       <div class="weapon-card">
         <div class="weapon-title">🛡️ 垂直看漲價差組合</div>
         <div class="weapon-subtitle">Bull Call Spread｜中高勝率 · 風險鎖死</div>
@@ -996,36 +1202,7 @@
           <strong>解法：</strong>財報後 IV 回落時再建倉，或選用 Bull Call Spread 代替。</p>
         </div>
       </div>
-    </div>
-
-    <div class="options-section">
-      <div class="options-section-title">④ 黃金交易窗口</div>
-      <div class="window-grid">
-        <div class="window-card"><div class="time">開盤後 5-15 分鐘</div><div class="label">📈 開盤衝動窗口</div><div class="explain">散戶盲目跟風、情緒主導的混亂期。等市場冷靜 5-10 分鐘後以中間價建倉，最容易觸發 GTC 止盈單自動成交。</div></div>
-        <div class="window-card"><div class="time">收盤前 30 分鐘</div><div class="label">🏛️ 機構調倉窗口</div><div class="explain">大型基金、機構投資者在收盤前執行尾盤調倉。往往形成單邊大趨勢，是搭順風車的好時機。</div></div>
-        <div class="window-card"><div class="time">財報公佈日</div><div class="label">💥 財報催化劑</div><div class="explain">MU、NVDA 等科技巨頭財報當晚，正股可能大幅跳空。注意 IV Crush 風險，財報後 IV 回落再建倉更安全。</div></div>
-        <div class="window-card"><div class="time">FOMC 議息日</div><div class="label">🏦 聯準會窗口</div><div class="explain">鮑威爾講話引發市場上下劇烈震盪。波動率暴漲，Straddle 策略的最佳場景之一。</div></div>
-        <div class="window-card"><div class="time">每月第一個周五</div><div class="label">📊 非農就業日（NFP）</div><div class="explain">非農就業數據公佈，開盤前後常出現火山噴發式能量釋放，方向判斷正確時利潤豐厚。</div></div>
-      </div>
-    </div>
-
-    <div class="options-section">
-      <div class="options-section-title">⑤ 操盤 SOP（不看盤流派）</div>
-      <div class="sop-list">
-        <div class="sop-step"><div class="sop-num">1</div><div class="sop-text"><strong>等開盤 5-10 分鐘後</strong>，市場情緒趨於理智，以<strong>中間價</strong>掛限價單建倉垂直組合。</div></div>
-        <div class="sop-step"><div class="sop-num">2</div><div class="sop-text"><strong>成功成交後立刻退出畫面</strong>，杜絕肉眼盯盤。盯盤是情緒化操作的根源。</div></div>
-        <div class="sop-step"><div class="sop-num">3</div><div class="sop-text">重新點選持倉，<strong>以目標價掛上 GTC 止盈限價單</strong>，有效期設為「撤單前有效」，交給雲端 24 小時自動執行。</div></div>
-        <div class="sop-step"><div class="sop-num">4</div><div class="sop-text"><strong>關閉軟體，安心去享受生活。</strong>條件達成時券商自動成交，你只需事後查看收益。</div></div>
-      </div>
-      <div class="warning-box" style="margin-top:18px;">
-        <div class="warning-title">⚠️ 風險紀律——這條線不能碰</div>
-        <p>實驗期間嚴格限制每次最多 <strong>1-2 手</strong>。手數乘以 10 = 最大虧損同步乘以 10，心理壓力也會乘以 10，最終導致決策崩潰。<br><br>
-        <strong>拒絕高頻操作</strong>：每次交易都有 Bid-Ask Spread 與手續費摩擦損耗，頻繁進出是利潤的慢性殺手。</p>
-      </div>
-    </div>
-
-    <div class="options-section">
-      <div class="options-section-title">⑥ 高級期權策略</div>
+      <div class="options-section-subtitle">🎛️ 13 種進階策略選擇器</div>
       <div class="strat-selector">
         <div class="strat-handle"></div>
         <div class="strat-header">
@@ -1048,10 +1225,266 @@
           </div>
         </div>
       </div>
+    </div>
 
+    <div class="options-section">
+      <div class="options-section-title">④ 黃金交易窗口</div>
+      <div class="window-grid">
+        <div class="window-card"><div class="time">開盤後 5-15 分鐘</div><div class="label">📈 開盤衝動窗口</div><div class="explain">散戶盲目跟風、情緒主導的混亂期。等市場冷靜 5-10 分鐘後以中間價建倉，最容易觸發 GTC 止盈單自動成交。</div></div>
+        <div class="window-card"><div class="time">收盤前 30 分鐘</div><div class="label">🏛️ 機構調倉窗口</div><div class="explain">大型基金、機構投資者在收盤前執行尾盤調倉。往往形成單邊大趨勢，是搭順風車的好時機。</div></div>
+        <div class="window-card"><div class="time">財報公佈日</div><div class="label">💥 財報催化劑</div><div class="explain">MU、NVDA 等科技巨頭財報當晚，正股可能大幅跳空。注意 IV Crush 風險，財報後 IV 回落再建倉更安全。</div></div>
+        <div class="window-card"><div class="time">FOMC 議息日</div><div class="label">🏦 聯準會窗口</div><div class="explain">鮑威爾講話引發市場上下劇烈震盪。波動率暴漲，Straddle 策略的最佳場景之一。</div></div>
+        <div class="window-card"><div class="time">每月第一個周五</div><div class="label">📊 非農就業日（NFP）</div><div class="explain">非農就業數據公佈，開盤前後常出現火山噴發式能量釋放，方向判斷正確時利潤豐厚。</div></div>
+      </div>
+    </div>
 
+    <div class="options-section">
+      <div class="options-section-title">⑤ 操盤 SOP（不看盤流派）</div>
+      <div class="cards-grid" style="margin-bottom:16px;">
+        <div class="card">
+          <div class="card-header"><span class="card-icon">⚖️</span><span class="card-title">永遠用中間價</span></div>
+          <p class="card-desc">建倉與結算的鋼鐵紀律。取 Bid 與 Ask 的中間價掛限價單，永遠拒絕市價單。市價單 = 讓做市商在買賣價差上吃掉你的利潤。</p>
+        </div>
+        <div class="card">
+          <div class="card-header"><span class="card-icon">☁️</span><span class="card-title">GTC 條件單 = 自動提款機</span></div>
+          <p class="card-desc">建倉後立刻掛上 GTC 止盈限價單，交給券商雲端伺服器 24 小時監控。條件達成自動成交，你可以完全不看盤、安心生活。</p>
+        </div>
+      </div>
+      <div class="sop-list">
+        <div class="sop-step"><div class="sop-num">1</div><div class="sop-text"><strong>等開盤 5-10 分鐘後</strong>，市場情緒趨於理智，以<strong>中間價</strong>掛限價單建倉垂直組合。</div></div>
+        <div class="sop-step"><div class="sop-num">2</div><div class="sop-text"><strong>成功成交後立刻退出畫面</strong>，杜絕肉眼盯盤。盯盤是情緒化操作的根源。</div></div>
+        <div class="sop-step"><div class="sop-num">3</div><div class="sop-text">重新點選持倉，<strong>以目標價掛上 GTC 止盈限價單</strong>，有效期設為「撤單前有效」，交給雲端 24 小時自動執行。</div></div>
+        <div class="sop-step"><div class="sop-num">4</div><div class="sop-text"><strong>關閉軟體，安心去享受生活。</strong>條件達成時券商自動成交，你只需事後查看收益。</div></div>
+      </div>
+      <div class="warning-box" style="margin-top:18px;">
+        <div class="warning-title">⚠️ 風險紀律——這條線不能碰</div>
+        <p>實驗期間嚴格限制每次最多 <strong>1-2 手</strong>。手數乘以 10 = 最大虧損同步乘以 10，心理壓力也會乘以 10，最終導致決策崩潰。<br><br>
+        <strong>拒絕高頻操作</strong>：每次交易都有 Bid-Ask Spread 與手續費摩擦損耗，頻繁進出是利潤的慢性殺手。</p>
+      </div>
     </div>
   </div>
+
+
+  <!-- TAB 6: 債券 -->
+  <div id="tab-bonds" class="tab-panel">
+    <div class="section-intro">
+      債券是一張「借條」。你把錢借給公司或政府，他們定期付你利息（票息），到期日還你本金。相對股票，債券風險較低、收益穩定，是資產配置不可缺少的一塊拼圖。
+    </div>
+
+    <div class="bond-intro-box">
+      <p>🏫 <strong>小學生比喻：</strong>你把 $1,000 借給學校，學校承諾每年付你 $40 利息（4% 票息），3 年後還你 $1,000。這就是一張債券——你是債主，學校是借款人。</p>
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">① 關鍵術語</div>
+      <div class="bond-grid">
+        <div class="bond-card">
+          <div class="bond-card-icon">💰</div>
+          <div class="bond-card-title">面值</div>
+          <div class="bond-card-en">Face Value / Par Value</div>
+          <div class="bond-card-desc">債券的本金金額，通常為 $1,000 /手。到期日時借款人按面值還款。市場價格可能高於或低於面值，但最終還款始終是面值。</div>
+        </div>
+        <div class="bond-card">
+          <div class="bond-card-icon">📅</div>
+          <div class="bond-card-title">票息率</div>
+          <div class="bond-card-en">Coupon Rate</div>
+          <div class="bond-card-desc">每年支付利息的固定百分比。票息率 4% + 面值 $1,000 = 每年收 $40 利息（通常半年派一次 $20）。購買後票息率不變。</div>
+        </div>
+        <div class="bond-card">
+          <div class="bond-card-icon">⏳</div>
+          <div class="bond-card-title">到期收益率</div>
+          <div class="bond-card-en">Yield to Maturity (YTM)</div>
+          <div class="bond-card-desc">持有至到期的<strong>年化回報率</strong>，是評估債券價值最重要的指標。包含票息收入 + 買入價格與面值的差價。投資者通常比較 YTM 來選債券。</div>
+        </div>
+        <div class="bond-card">
+          <div class="bond-card-icon">🏅</div>
+          <div class="bond-card-title">信用評級</div>
+          <div class="bond-card-en">Credit Rating</div>
+          <div class="bond-card-desc">S&P / Moody's 對發行人還款能力的評分。<strong>AAA</strong>（最安全）→ <strong>BBB-</strong>（投資級最低）→ <strong>BB+</strong>（高收益債起點）。評級越低，利率越高，違約風險越大。</div>
+        </div>
+        <div class="bond-card">
+          <div class="bond-card-icon">📏</div>
+          <div class="bond-card-title">存續期</div>
+          <div class="bond-card-en">Duration</div>
+          <div class="bond-card-desc">債券對利率變動的敏感程度。存續期 10 年的債券，利率每升 1%，價格跌約 10%。期限越長 = 存續期越高 = 利率風險越大。</div>
+        </div>
+        <div class="bond-card">
+          <div class="bond-card-icon">📆</div>
+          <div class="bond-card-title">到期日</div>
+          <div class="bond-card-en">Maturity Date</div>
+          <div class="bond-card-desc">借款人承諾還本金的日期。短期債（1-3年）、中期債（3-10年）、長期債（10年+）。到期日愈遠，價格對利率愈敏感，風險也愈高。</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">② 收益率 vs 價格的反向關係</div>
+      <div class="yield-box">
+        <div class="yield-title">🔄 為什麼利率升，債券價格就跌？</div>
+        <div class="yield-row">
+          <div class="yield-dir">📈</div>
+          <div class="yield-txt">市場利率 <strong>上升</strong>（如從 3% 升至 5%）</div>
+          <div class="yield-res yield-dn">債券價格 ↓ 下跌</div>
+        </div>
+        <div class="yield-row">
+          <div class="yield-dir">📉</div>
+          <div class="yield-txt">市場利率 <strong>下降</strong>（如從 5% 降至 3%）</div>
+          <div class="yield-res yield-up">債券價格 ↑ 上漲</div>
+        </div>
+      </div>
+      <div class="bond-intro-box" style="margin-top:10px;">
+        <p>🍎 <strong>比喻理解：</strong>你持有一張 4% 票息的債券，市場利率突然升到 6%。新債券每年給 6%，你的舊債券只給 4%——沒人願意買你的 4%，除非你把價格降低到讓對方實際收益達到 6%。<br><br>反過來：利率下降時，你的高息債券變得搶手，價格自然上漲。</p>
+      </div>
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">③ 五種主要債券類型</div>
+      <div class="bond-type-list">
+        <div class="bond-type-item">
+          <span class="bond-type-rating rating-safe">AAA 最安全</span>
+          <div class="bond-type-name">🏛 政府公債 Government Bonds</div>
+          <div class="bond-type-desc">由主權國家發行，以稅收為擔保。美國國債（Treasury）是全球最安全的資產基準，被視為「無風險利率」。收益率低，但信用最高，是避險天堂。</div>
+        </div>
+        <div class="bond-type-item">
+          <span class="bond-type-rating rating-safe">BBB- 以上</span>
+          <div class="bond-type-name">🏢 投資級企業債 Investment Grade Corp Bonds</div>
+          <div class="bond-type-desc">大型優質企業發行，評級 BBB- 以上（S&P 標準）。收益率高於政府債，違約率極低。蘋果、微軟等大型企業的債券屬於此類。</div>
+        </div>
+        <div class="bond-type-item">
+          <span class="bond-type-rating rating-risk">BB+ 以下</span>
+          <div class="bond-type-name">🎰 高收益債 / 垃圾債 High Yield / Junk Bonds</div>
+          <div class="bond-type-desc">信用評級低於投資級（BB+ 及以下），必須提供更高利率吸引投資者。高回報背後伴隨高違約風險。適合高風險承受能力的投資者。</div>
+        </div>
+        <div class="bond-type-item">
+          <span class="bond-type-rating rating-mid">稅務優惠</span>
+          <div class="bond-type-name">🏙 市政債券 Municipal Bonds（美國）</div>
+          <div class="bond-type-desc">美國州政府或城市發行，所得利息通常免繳聯邦所得稅，部分免州稅。對高稅率美國投資者尤其吸引，但流動性較低。</div>
+        </div>
+        <div class="bond-type-item">
+          <span class="bond-type-rating rating-safe">抗通脹</span>
+          <div class="bond-type-name">🌡️ 通脹掛鉤債券 TIPS（美國）</div>
+          <div class="bond-type-desc">本金隨美國 CPI 通脹率自動調整，保護購買力不被通脹侵蝕。通脹高企時表現佳，是資產組合中的保護層。</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">④ 債券 vs 股票</div>
+      <div class="cards-grid">
+        <div class="card">
+          <div class="card-header"><span class="card-icon">🏛</span><span class="card-title">為什麼持有債券？</span></div>
+          <p class="card-desc">· 穩定現金流（定期票息收入）<br>· 股市崩盤時通常逆向上漲（避險需求）<br>· 到期時本金保障（政府債幾乎零違約風險）<br>· 資產組合「穩定器」，降低整體波動</p>
+        </div>
+        <div class="card">
+          <div class="card-header"><span class="card-icon">⚠️</span><span class="card-title">債券的主要風險</span></div>
+          <p class="card-desc">· <strong>利率風險</strong>：利率升 → 債券價格跌<br>· <strong>信用風險</strong>：發行人違約，無法還款<br>· <strong>通脹風險</strong>：固定票息被通脹侵蝕<br>· <strong>流動性風險</strong>：部分債券不易快速變現</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- TAB 7: 合約 -->
+  <div id="tab-contracts" class="tab-panel">
+    <div class="section-intro">
+      金融合約是「約定未來交易」的法律文件，雙方約定在特定條件下完成買賣。從企業鎖匯到散戶炒差價，各種合約工具目的不同、風險各異。
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">① 期貨合約 Futures</div>
+      <div class="contract-card">
+        <span class="contract-badge cb-common">最常見 · 散戶可參與</span>
+        <div class="contract-title">期貨 Futures Contract</div>
+        <div class="contract-en">Futures Contract</div>
+        <div class="contract-desc">雙方約定在<strong>未來特定日期</strong>，以<strong>今天議定的價格</strong>買賣某資產（股指、原油、黃金、農產品等）。買賣雙方都有<strong>強制義務</strong>履行，不像期權可以選擇放棄。<br><br>🏫 <strong>比喻：</strong>農夫現在與麵包廠約定「3個月後，我以 $5/公斤賣你小麥 100噸」。農夫鎖定了賣價（不怕跌），麵包廠鎖定了買價（不怕漲）。雙方都消除了價格不確定性。</div>
+        <div class="contract-tags">
+          <span class="ctag">交易所交易（標準化）</span>
+          <span class="ctag">每日結算盈虧</span>
+          <span class="ctag">保證金制度</span>
+          <span class="ctag">高槓桿</span>
+          <span class="ctag">可做多做空</span>
+        </div>
+      </div>
+      <div class="cards-grid">
+        <div class="card">
+          <div class="card-header"><span class="card-icon">🛡️</span><span class="card-title">套期保值 Hedging</span></div>
+          <p class="card-desc">企業用期貨鎖定成本。航空公司買入航油期貨對沖油價上漲風險；農民賣出農產品期貨鎖定售價。目的是消除不確定性，非追求利潤。</p>
+        </div>
+        <div class="card">
+          <div class="card-header"><span class="card-icon">🎰</span><span class="card-title">投機 Speculation</span></div>
+          <p class="card-desc">散戶或基金透過期貨賭方向，放大利潤（也放大虧損）。保證金槓桿通常 10-20倍，方向正確獲利豐厚，方向錯誤可能超額虧損（爆倉）。</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">② 差價合約 CFD</div>
+      <div class="contract-card">
+        <span class="contract-badge cb-retail">散戶常見</span>
+        <div class="contract-title">差價合約</div>
+        <div class="contract-en">Contract for Difference (CFD)</div>
+        <div class="contract-desc">你與券商約定：只交換資產<strong>買入價與賣出價之間的差值</strong>，你<strong>不實際持有</strong>底層資產。可交易股票、指數、外匯、加密貨幣等幾乎所有市場。<br><br>🏫 <strong>比喻：</strong>你認為黃金會漲，但不想真的買金磚。你與券商說「以 $2,000 做多黃金」，黃金漲到 $2,100，你收 $100 差價；黃金跌到 $1,900，你付 $100 差價。始終是交差價，不碰實物。</div>
+        <div class="contract-tags">
+          <span class="ctag">不持有實際資產</span>
+          <span class="ctag">高槓桿</span>
+          <span class="ctag">雙向交易</span>
+          <span class="ctag">隔夜利息</span>
+        </div>
+      </div>
+      <div class="warning-box">
+        <div class="warning-title">⚠️ CFD 的核心風險</div>
+        <p>CFD 槓桿極高（可達 20-100倍），小幅逆向波動即可觸發保證金追繳（Margin Call）甚至爆倉。歐盟、英國、香港等地已對零售投資者限制 CFD 槓桿比例。<strong>適合有期權/期貨基礎的投資者，初學者高度謹慎。</strong></p>
+      </div>
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">③ 遠期合約 Forward</div>
+      <div class="contract-card">
+        <span class="contract-badge cb-pro">企業/機構為主</span>
+        <div class="contract-title">遠期合約</div>
+        <div class="contract-en">Forward Contract</div>
+        <div class="contract-desc">與期貨類似，雙方約定未來以固定價格交易。不同點：遠期合約在<strong>場外（OTC）</strong>直接與對手方議定，<strong>非標準化</strong>，無每日結算機制。<br><br>🏫 <strong>比喻：</strong>香港公司從日本進口商品，需要 3 個月後支付日圓貨款。為避免日圓大漲，公司直接與銀行簽訂遠期外匯合約，鎖定 3 個月後的 HKD/JPY 匯率。</div>
+        <div class="contract-tags">
+          <span class="ctag">場外交易（OTC）</span>
+          <span class="ctag">非標準化、靈活</span>
+          <span class="ctag">交易對手風險</span>
+          <span class="ctag">鎖匯常用工具</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">④ 互換合約 Swap</div>
+      <div class="contract-card">
+        <span class="contract-badge cb-pro">機構/大企業</span>
+        <div class="contract-title">互換合約</div>
+        <div class="contract-en">Swap Contract</div>
+        <div class="contract-desc">雙方約定在未來一段時間內，按期交換現金流。最常見是<strong>利率互換</strong>：一方付固定利率，另一方付浮動利率（SOFR）。<br><br>🏫 <strong>比喻：</strong>A 公司有浮動利率貸款，擔心利率上升。B 公司有固定利率貸款，希望在利率下降時受益。兩者互換現金流——A 改付固定（預算可控），B 改付浮動（賭利率降）。</div>
+        <div class="contract-tags">
+          <span class="ctag">利率互換（最常見）</span>
+          <span class="ctag">貨幣互換</span>
+          <span class="ctag">信用違約互換（CDS）</span>
+          <span class="ctag">散戶幾乎不直接接觸</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">⑤ 快速對比</div>
+      <div class="cards-grid">
+        <div class="card">
+          <div class="card-header"><span class="card-icon">📊</span><span class="card-title">期貨 vs CFD</span></div>
+          <p class="card-desc"><strong>期貨：</strong>交易所標準化，有到期日，每日結算，需要大型帳戶<br><strong>CFD：</strong>OTC 靈活，無到期日（持倉有隔夜利息），進入門檻低，散戶最常用</p>
+        </div>
+        <div class="card">
+          <div class="card-header"><span class="card-icon">🧭</span><span class="card-title">適合誰用？</span></div>
+          <p class="card-desc"><strong>個人投資者：</strong>CFD（小額靈活，但風險極高）<br><strong>企業風控：</strong>遠期合約（鎖匯/鎖定原材料成本）<br><strong>機構：</strong>期貨（大量標準化對沖）+ 互換（利率管理）</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
 </main>
 
 <footer>

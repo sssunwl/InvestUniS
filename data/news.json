@@ -87,7 +87,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-09 18:26 HKT",
+      "updated_at": "2026-06-09 19:35 HKT",
       "news": [
         {
           "title": "【港股收市】好淡爭持恒指全日跌91點中芯聯想各升逾3% - 投資 - 香港文匯網",
@@ -108,10 +108,10 @@
           ]
         },
         {
-          "title": "恒指走勢丨全日跌91點五連跌 北水走資86億",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WMEtPUWI4UTFfZ3BtRFJ1MUJzeV9KcDBFTExDTXdEOVBNeFFERnFwRTlXNTBtTkZQSlVfYVlMQTRKMnN6OE1yNmlland0cnkwRTJBVGttQ0pHWmdId3dHQXZFN3Y3Y3RKVU5PdFZkTQ?oc=5",
-          "source": "信報網站",
-          "published_hkt": "06/09 16:46",
+          "title": "【港股收市】恒指跌91點 跌足5日 建滔孖寶買盤勁",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44aThyNHFfeGJodmpDQWIxMUdnanBxejRab0tTY19Welc5UjRzR2NxTmNQc3RsMmVReFBEVnNtZ1Z2OTlqc2w1MmlITEwxTzFRVjJKbGxPX2N3b0s4dkdyY1RnNks?oc=5",
+          "source": "Now 新聞",
+          "published_hkt": "06/09 16:57",
           "related": [
             "^HSI"
           ]
@@ -144,28 +144,33 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-09 18:26 HKT",
+      "updated_at": "2026-06-09 19:35 HKT",
       "news": [
         {
-          "title": "AI股帶動台股9日反彈走高 華邦電帶量上攻漲幅一度達4.5%",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KblRWaWJ2eldabmhNQlJueGJmMmp6QV9ITG1sTEMwTV8yOVNWNUVCN25EMFRSZkkyNnh4bGZNNHd1NGZ4UElZdjFzRHpjUzZNZ2c?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "06/09 17:59",
+          "title": "凱基國際:台灣加權指數今年目標上望5萬點",
+          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQSlNYN0dXVXdxZ3U4Mm1DeEotWmgwRGNFOVhjZXV5SmtzeTR2d0FJTER4NzRCeUFVM1RQcUlQZjRTT1Njd1JtV2pOakRSdVEwUW8zdThDNFpHcTcyRmhzSTRPbG50SGV6T1JmTGlLcWxRMnVLNW4zWnhQbVlCR3BrMnoxWVJ5UkNGa19La2pVdXA3NjBBTUZ2YzlNblJQNnJ5WUlOZWhrVEVFSWJGWlk3bmdhRGcxQVF2ZUJpS2FOZENBUXFXOVBHLXdPQWRUNmgtQ3kzM0JMOGt5N015SmJ1SjVaSjgyYjI3bDFlN09QUlFUVmhiWlViN3Y0NHlRMWRSRU9XR0FaTkc3X1ZBd0ZDcHRRTG04OFlZVU5KYUZnZktPenlPcmF2T0dwQ0xoS011RF9GSkxkMWt5Zw?oc=5",
+          "source": "信報網站",
+          "published_hkt": "06/09 19:18",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
+          "title": "台股擂台／「佛系產業教練」白易弘：指數創新高後高檔震盪劇烈 沿月均線操作",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qYTh0YWx6YmNyVmtmc1pjcDlMQ2R0dUZLay12QUd5ZE5PYl82ZnFTVnlrbV83SDFWOENGY3Q3WFNVZjFFbWdtaDBhX2l4QXIxZzJuTzRQSlBYUUd5?oc=5",
+          "source": "經濟日報",
+          "published_hkt": "06/09 18:33",
           "related": []
         },
         {
-          "title": "台股一天就回血！專家曝「神秘力量」開外掛 這群人是功臣",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iNFVCWkVDSzhReEh5SDZZVkpwejF1d1lKZ2VuOEJOakRlWHFoZTBkTXB6NkZjREdSYm5fbnNiMHZWOGZwNGo4UXhOWQ?oc=5",
-          "source": "三立新聞網SETN.com",
-          "published_hkt": "06/09 17:49",
-          "related": []
-        },
-        {
-          "title": "台股狂飆站上4萬4！賣壓急降、籌碼暗藏洗盤危機？",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LcVp1NzRoc0QtbkE5RVFITXRiWW9PZ0d5eFZPRkNtNkxPNTAyOFdVNmptd2RGWU42c3pTeTFzNno3T2RTT2RIRGZrWW9ZNzg?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "06/09 17:42",
-          "related": []
+          "title": "台積電跌幅收斂， 加權指數跌幅縮小",
+          "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxOcGZyeDEtUkVDc1lyNkRkNHlRZmZPemxCZFp1Si0yOTlwRmZfV2NyRHhVbExacUtHb0xIb204MWtnSFpwbGNPSTc2TnBjT2VNNGFTSktjSHhzTDJMZTNTRFhGa2R2dE5PZC1KbC1pT3ZlREhDVUx1OUlRTHVVdW1PRHFLVEc3OHUwSDNFd2ItOUVEcjFVdFJ4UlEzRW91dS1NcERMNXR5SFRadW5sdjB0aV9iQ3k4dGNqa09GLVotZFVzRnh4ZG8zOUg3Wk9xVkZxdEs4NjFpS2ZQUExKdU1razRfYkkyNGh4amNWLWJEQXc5Uy1mdk9JcW9hZXI1dm8tTTZQUGRSbnJDcFgtZ3FIQ0hJSXJRSDA2WWtrZ0xhTVFoX1U0OGlCUlRjTEVsVTF4bmdud0MyeEVXdGNod1ZWSjZtSW1SeDhMMzgza3d5OGFNNDA4bzZ1MTcySnBPeE5zUXM1NWxBSWdRelUwSEFUdmc3UU44LVFOWGlibnpacXZvMS1YVVdISUlzTndnWjVIdS1oaGs0SUJ4SFpYU0FWekxwT0Q2TzIwQ290RUUyUDU?oc=5",
+          "source": "MSN",
+          "published_hkt": "06/09 18:04",
+          "related": [
+            "TSM",
+            "^TWII"
+          ]
         }
       ]
     }
@@ -193,7 +198,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-09 18:26 HKT",
+      "updated_at": "2026-06-09 19:35 HKT",
       "news": [
         {
           "title": "《日股》半導體權值股領軍，日經收漲2.17%",
@@ -224,7 +229,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-09 18:26 HKT",
+    "updated_at": "2026-06-09 19:35 HKT",
     "news": [
       {
         "title": "Circle在以太坊上推出CirBTC，挑戰Coinbase在封裝比特幣市場的地位",

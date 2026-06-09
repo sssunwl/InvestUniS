@@ -400,6 +400,40 @@
     .adv-card-tip { font-size:11px; background:var(--cream); border-radius:6px; padding:6px 10px; color:var(--dark); line-height:1.6; }
     .adv-category { font-size:10px; letter-spacing:2px; text-transform:uppercase; color:var(--gold); font-weight:700; margin:18px 0 10px; }
 
+
+    /* ── Strategy Selector ── */
+    .strat-selector { background:var(--cream); border-radius:16px; padding:0 0 16px; box-shadow:0 4px 20px rgba(0,0,0,.15); overflow:hidden; margin-top:12px; }
+    .strat-handle { width:40px; height:4px; background:#C0B090; border-radius:2px; margin:10px auto 0; }
+    .strat-header { display:flex; align-items:center; justify-content:space-between; padding:10px 16px 8px; }
+    .strat-title { font-size:14px; font-weight:700; color:var(--dark); letter-spacing:.5px; }
+    .strat-toggle-wrap { display:flex; align-items:center; gap:6px; }
+    .strat-toggle-label { font-size:12px; color:var(--mid); }
+    .strat-toggle { width:40px; height:22px; background:#C8C8D0; border:none; border-radius:11px; cursor:pointer; position:relative; transition:background .2s; padding:0; }
+    .strat-toggle.active { background:#007AFF; }
+    .toggle-knob { position:absolute; top:2px; left:2px; width:18px; height:18px; background:#fff; border-radius:50%; box-shadow:0 1px 4px rgba(0,0,0,.25); transition:left .2s; display:block; }
+    .strat-toggle.active .toggle-knob { left:20px; }
+    .strat-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:6px; padding:4px 12px 10px; }
+    .strat-btn { background:#fff; border:1.5px solid #E0D8C8; border-radius:10px; padding:8px 4px; font-size:11px; font-weight:600; color:var(--dark); cursor:pointer; text-align:center; line-height:1.4; transition:border-color .15s,background .15s,color .15s; }
+    .strat-btn span { display:block; font-size:10px; font-weight:400; color:var(--mid); margin-top:2px; }
+    .strat-btn:hover { border-color:var(--gold); }
+    .strat-btn.active { background:#007AFF; border-color:#007AFF; color:#fff; }
+    .strat-btn.active span { color:rgba(255,255,255,.8); }
+    .strat-detail { background:#fff; border-radius:12px; margin:0 12px; padding:12px 14px; display:none; }
+    .strat-detail.visible { display:block; }
+    .strat-detail-q { font-size:15px; font-weight:700; color:var(--dark); margin-bottom:6px; }
+    .strat-detail-desc { font-size:13px; color:#5A5040; line-height:1.7; margin-bottom:8px; display:none; }
+    .strat-detail-desc.visible { display:block; }
+    .strat-detail-tags { display:flex; flex-wrap:wrap; gap:5px; margin-bottom:10px; }
+    .strat-tag { font-size:11px; padding:3px 8px; border-radius:20px; font-weight:600; background:var(--cream); color:var(--dark); }
+    .strat-tag.bull { background:#E8F5E9; color:#2E7D32; }
+    .strat-tag.bear { background:#FFEBEE; color:#C62828; }
+    .strat-tag.neutral { background:#E3F2FD; color:#1565C0; }
+    .strat-tag.income { background:#FFF8E1; color:#F57F17; }
+    .strat-payoff-box { background:#FAFAF8; border-radius:8px; padding:8px 8px 4px; border:1px solid #ECDFC8; }
+    .strat-payoff-label { font-size:10px; color:var(--mid); letter-spacing:1px; text-transform:uppercase; margin-bottom:4px; text-align:center; }
+    #payoffCanvas { width:100%; height:auto; display:block; border-radius:4px; }
+
+
     /* ── Footer ── */
     footer { background: var(--dark); color: #A09070; text-align: center; font-size: 11px; padding: 16px; line-height: 1.8; }
     footer strong { color: var(--gold); }
@@ -992,244 +1026,32 @@
 
     <div class="options-section">
       <div class="options-section-title">⑥ 高級期權策略</div>
-
-      <div class="adv-category">方向性策略</div>
-      <div class="adv-grid">
-        <div class="adv-card">
-          <div class="adv-card-head">
-            <div class="adv-card-emoji">🐻</div>
-            <div class="adv-card-titles">
-              <div class="adv-card-title">熊市看跌價差 <span class="tag tag-bearish" style="font-size:9px;padding:1px 7px;margin-left:6px;">看跌</span></div>
-              <span class="adv-card-en">Bear Put Spread</span>
-            </div>
+      <div class="strat-selector">
+        <div class="strat-handle"></div>
+        <div class="strat-header">
+          <span class="strat-title">選擇策略</span>
+          <div class="strat-toggle-wrap">
+            <span class="strat-toggle-label">釋義</span>
+            <button class="strat-toggle" id="stratToggle" onclick="toggleStratGlossary()">
+              <span class="toggle-knob"></span>
+            </button>
           </div>
-          <div class="adv-card-stats">
-            <span class="adv-stat s-risk">風險：固定</span>
-            <span class="adv-stat s-reward">利潤：有限</span>
-            <span class="adv-stat">勝率：中</span>
-          </div>
-          <div class="adv-card-desc"><strong>做法：</strong>買入高履約價 Put + 賣出低履約價 Put。正股下跌時獲利，賣出的 Put 補貼保費成本。</div>
-          <div class="adv-card-tip">💡 適合預期股價溫和下跌，不確定跌幅的情況。Bull Call Spread 的鏡像版本。</div>
         </div>
-        <div class="adv-card">
-          <div class="adv-card-head">
-            <div class="adv-card-emoji">📉</div>
-            <div class="adv-card-titles">
-              <div class="adv-card-title">信用認購價差 <span class="tag tag-bearish" style="font-size:9px;padding:1px 7px;margin-left:6px;">看跌</span></div>
-              <span class="adv-card-en">Bear Call Spread</span>
-            </div>
+        <div class="strat-grid" id="stratGrid"></div>
+        <div class="strat-detail" id="stratDetail">
+          <div class="strat-detail-q" id="stratDetailQ"></div>
+          <div class="strat-detail-desc" id="stratDetailDesc"></div>
+          <div class="strat-detail-tags" id="stratDetailTags"></div>
+          <div class="strat-payoff-box">
+            <div class="strat-payoff-label">損益圖 Payoff Diagram</div>
+            <canvas id="payoffCanvas" width="560" height="230"></canvas>
           </div>
-          <div class="adv-card-stats">
-            <span class="adv-stat s-risk">風險：固定</span>
-            <span class="adv-stat s-reward">先收：保費</span>
-            <span class="adv-stat">勝率：中高</span>
-          </div>
-          <div class="adv-card-desc"><strong>做法：</strong>賣出低履約價 Call + 買入高履約價 Call，建倉即先收保費。正股不漲或下跌，保費全數入袋。</div>
-          <div class="adv-card-tip">💡 高 IV 環境下的常見信用策略，用時間換空間——只要股票不大漲就贏。</div>
         </div>
       </div>
 
-      <div class="adv-category">中性策略（從橫盤與時間損耗獲利）</div>
-      <div class="adv-grid">
-        <div class="adv-card">
-          <div class="adv-card-head">
-            <div class="adv-card-emoji">🦅</div>
-            <div class="adv-card-titles">
-              <div class="adv-card-title">鐵禿鷹 <span class="tag tag-info" style="font-size:9px;padding:1px 7px;margin-left:6px;">中性</span></div>
-              <span class="adv-card-en">Iron Condor</span>
-            </div>
-          </div>
-          <div class="adv-card-stats">
-            <span class="adv-stat s-risk">風險：固定</span>
-            <span class="adv-stat s-reward">先收：保費</span>
-            <span class="adv-stat">勝率：高</span>
-          </div>
-          <div class="adv-card-desc"><strong>做法：</strong>同時賣出 OTM Call Spread + OTM Put Spread（4 腿）。只要正股在到期前維持在兩個價差之間的區間，全數保費入袋。</div>
-          <div class="adv-card-tip">💡 最受歡迎的中性策略，特別適合指數（SPY / QQQ）低波動期間定期執行。</div>
-        </div>
-        <div class="adv-card">
-          <div class="adv-card-head">
-            <div class="adv-card-emoji">🦋</div>
-            <div class="adv-card-titles">
-              <div class="adv-card-title">鐵蝶式 <span class="tag tag-info" style="font-size:9px;padding:1px 7px;margin-left:6px;">中性</span></div>
-              <span class="adv-card-en">Iron Butterfly</span>
-            </div>
-          </div>
-          <div class="adv-card-stats">
-            <span class="adv-stat s-risk">風險：固定</span>
-            <span class="adv-stat s-reward">保費：最高</span>
-            <span class="adv-stat">勝率：中</span>
-          </div>
-          <div class="adv-card-desc"><strong>做法：</strong>Iron Condor 的變體，Call Spread 與 Put Spread 共用同一個 ATM 中間履約價。保費收入更高，但獲利區間更窄。</div>
-          <div class="adv-card-tip">💡 適合極度平靜的市場，賺取最大時間溢價，但需要價格精確停在 ATM 附近。</div>
-        </div>
-        <div class="adv-card">
-          <div class="adv-card-head">
-            <div class="adv-card-emoji">🎯</div>
-            <div class="adv-card-titles">
-              <div class="adv-card-title">蝶式價差 <span class="tag tag-info" style="font-size:9px;padding:1px 7px;margin-left:6px;">精準中性</span></div>
-              <span class="adv-card-en">Butterfly Spread</span>
-            </div>
-          </div>
-          <div class="adv-card-stats">
-            <span class="adv-stat s-risk">風險：淨保費</span>
-            <span class="adv-stat s-reward">利潤：中</span>
-            <span class="adv-stat">勝率：低中</span>
-          </div>
-          <div class="adv-card-desc"><strong>做法：</strong>買入 1 低履約 Call + 賣出 2 中間履約 Call + 買入 1 高履約 Call。預測正股在到期日精確停在中間履約價，達到最大獲利。</div>
-          <div class="adv-card-tip">💡 成本低、風險鎖死，適合有明確目標價位時使用，是精準佈局的工具。</div>
-        </div>
-        <div class="adv-card">
-          <div class="adv-card-head">
-            <div class="adv-card-emoji">📅</div>
-            <div class="adv-card-titles">
-              <div class="adv-card-title">日曆價差 <span class="tag tag-info" style="font-size:9px;padding:1px 7px;margin-left:6px;">時間套利</span></div>
-              <span class="adv-card-en">Calendar Spread</span>
-            </div>
-          </div>
-          <div class="adv-card-stats">
-            <span class="adv-stat s-risk">風險：有限</span>
-            <span class="adv-stat s-info">利用：Theta 差異</span>
-            <span class="adv-stat">勝率：中</span>
-          </div>
-          <div class="adv-card-desc"><strong>做法：</strong>賣出近月期權 + 買入<strong>同履約價</strong>遠月期權。近月 Theta 流失快、遠月慢，兩者時間損耗速率差創造利潤。</div>
-          <div class="adv-card-tip">💡 適合預期正股短期橫盤，用時間差套利；遠月期權同時提供方向性持有成本。</div>
-        </div>
-      </div>
 
-      <div class="adv-category">被動收入策略</div>
-      <div class="adv-grid">
-        <div class="adv-card">
-          <div class="adv-card-head">
-            <div class="adv-card-emoji">🏦</div>
-            <div class="adv-card-titles">
-              <div class="adv-card-title">備兌認購 <span class="tag tag-bullish" style="font-size:9px;padding:1px 7px;margin-left:6px;">持股增收</span></div>
-              <span class="adv-card-en">Covered Call</span>
-            </div>
-          </div>
-          <div class="adv-card-stats">
-            <span class="adv-stat">需持：100 股</span>
-            <span class="adv-stat s-reward">收入：保費</span>
-            <span class="adv-stat">勝率：高</span>
-          </div>
-          <div class="adv-card-desc"><strong>做法：</strong>持有 100 股正股 + 賣出 1 手 OTM Call。定期收取保費增加被動收入；若股票漲超履約價被執行，以履約價賣出股票。</div>
-          <div class="adv-card-tip">💡 長線持股者最佳增收工具，每月可產生約 1-3% 額外回報，讓持倉「生息」。</div>
-        </div>
-        <div class="adv-card">
-          <div class="adv-card-head">
-            <div class="adv-card-emoji">💵</div>
-            <div class="adv-card-titles">
-              <div class="adv-card-title">現金擔保認沽 <span class="tag tag-bullish" style="font-size:9px;padding:1px 7px;margin-left:6px;">等待買入</span></div>
-              <span class="adv-card-en">Cash-Secured Put</span>
-            </div>
-          </div>
-          <div class="adv-card-stats">
-            <span class="adv-stat">需持：足額現金</span>
-            <span class="adv-stat s-reward">收入：保費</span>
-            <span class="adv-stat">勝率：高</span>
-          </div>
-          <div class="adv-card-desc"><strong>做法：</strong>帳戶持有足夠現金 + 賣出 OTM Put。股價未跌破履約價 = 保費直接入袋；跌破則以理想低價買入股票，一舉兩得。</div>
-          <div class="adv-card-tip">💡「邊等買入邊收錢」的最聰明策略，把空置現金變成有回報的工具。</div>
-        </div>
-        <div class="adv-card">
-          <div class="adv-card-head">
-            <div class="adv-card-emoji">🎡</div>
-            <div class="adv-card-titles">
-              <div class="adv-card-title">滾輪策略 <span class="tag tag-bullish" style="font-size:9px;padding:1px 7px;margin-left:6px;">被動現金流</span></div>
-              <span class="adv-card-en">The Wheel Strategy</span>
-            </div>
-          </div>
-          <div class="adv-card-stats">
-            <span class="adv-stat s-reward">月回報：1-3%</span>
-            <span class="adv-stat">資金需求：較大</span>
-            <span class="adv-stat s-info">適合：穩定股票</span>
-          </div>
-          <div class="adv-card-desc">
-            <strong>循環：</strong><br>
-            ① 賣出 Cash-Secured Put → 收保費<br>
-            ② 若被執行 → 以低價買入 100 股<br>
-            ③ 持股後賣出 Covered Call → 繼續收保費<br>
-            ④ 若被執行 → 賣出股票，回到步驟①
-          </div>
-          <div class="adv-card-tip">💡 最受歡迎的期權被動收入策略，讓資金不斷「滾動」產生穩定現金流。</div>
-        </div>
-      </div>
-
-      <div class="adv-category">進階組合策略</div>
-      <div class="adv-grid">
-        <div class="adv-card">
-          <div class="adv-card-head">
-            <div class="adv-card-emoji">💡</div>
-            <div class="adv-card-titles">
-              <div class="adv-card-title">窮人備兌認購 <span class="tag tag-info" style="font-size:9px;padding:1px 7px;margin-left:6px;">槓桿版備兌</span></div>
-              <span class="adv-card-en">PMCC — Poor Man's Covered Call</span>
-            </div>
-          </div>
-          <div class="adv-card-stats">
-            <span class="adv-stat s-reward">成本：低</span>
-            <span class="adv-stat s-info">效果：類備兌認購</span>
-            <span class="adv-stat">槓桿：高</span>
-          </div>
-          <div class="adv-card-desc"><strong>做法：</strong>買入深度 ITM 長期 Call（LEAPS，1-2 年到期）替代持有 100 股 + 賣出近月 OTM Call。以更少資金達到備兌認購相似效果。</div>
-          <div class="adv-card-tip">💡 資金不夠買 100 股時的替代方案，但 LEAPS 也有 Theta 成本，需確保近月保費 &gt; LEAPS 每日損耗。</div>
-        </div>
-        <div class="adv-card">
-          <div class="adv-card-head">
-            <div class="adv-card-emoji">🛡️</div>
-            <div class="adv-card-titles">
-              <div class="adv-card-title">護領策略 <span class="tag tag-info" style="font-size:9px;padding:1px 7px;margin-left:6px;">持股保護</span></div>
-              <span class="adv-card-en">Collar</span>
-            </div>
-          </div>
-          <div class="adv-card-stats">
-            <span class="adv-stat s-risk">風險：有限</span>
-            <span class="adv-stat s-reward">成本：接近零</span>
-            <span class="adv-stat">需要：100 股</span>
-          </div>
-          <div class="adv-card-desc"><strong>做法：</strong>持有 100 股 + 買入 OTM Put（下跌保護）+ 賣出 OTM Call（收保費支付 Put 成本）。用放棄部分上漲空間換取下跌保障。</div>
-          <div class="adv-card-tip">💡 長線持股者的防護盔甲，在市場不確定時期以幾乎零成本鎖定下跌風險。</div>
-        </div>
-        <div class="adv-card">
-          <div class="adv-card-head">
-            <div class="adv-card-emoji">↗️</div>
-            <div class="adv-card-titles">
-              <div class="adv-card-title">斜式價差 <span class="tag tag-caution" style="font-size:9px;padding:1px 7px;margin-left:6px;">靈活進階</span></div>
-              <span class="adv-card-en">Diagonal Spread</span>
-            </div>
-          </div>
-          <div class="adv-card-stats">
-            <span class="adv-stat s-risk">風險：有限</span>
-            <span class="adv-stat">靈活：最高</span>
-            <span class="adv-stat s-info">難度：高</span>
-          </div>
-          <div class="adv-card-desc"><strong>做法：</strong>買入遠月某履約價期權 + 賣出近月<strong>不同履約價</strong>期權（同時橫跨不同履約價與到期日）。結合垂直價差與日曆價差的優點。</div>
-          <div class="adv-card-tip">💡 PMCC 本身就是斜式價差的一種。適合對方向有偏見、同時想利用時間溢價的情況。</div>
-        </div>
-        <div class="adv-card">
-          <div class="adv-card-head">
-            <div class="adv-card-emoji">🦎</div>
-            <div class="adv-card-titles">
-              <div class="adv-card-title">翡翠蜥蜴 <span class="tag tag-info" style="font-size:9px;padding:1px 7px;margin-left:6px;">中性偏多</span></div>
-              <span class="adv-card-en">Jade Lizard</span>
-            </div>
-          </div>
-          <div class="adv-card-stats">
-            <span class="adv-stat s-reward">上方：無風險</span>
-            <span class="adv-stat s-risk">下方：持股風險</span>
-            <span class="adv-stat">保費：最大化</span>
-          </div>
-          <div class="adv-card-desc"><strong>做法：</strong>賣出 OTM Put + 賣出 OTM Call Spread。總保費收入 &gt; Call Spread 寬度，確保無論正股怎麼漲，上方都不虧損。</div>
-          <div class="adv-card-tip">💡 中性偏多市場的高效收入策略；唯一風險是正股大幅下跌（Put 被執行後持股下跌）。</div>
-        </div>
-      </div>
-
-      <div class="warning-box" style="margin-top:18px;">
-        <div class="warning-title">⚠️ 高級策略注意事項</div>
-        <p>以上策略多為 2-4 腿組合，執行難度高於單腿期權。建議先熟練 Bull Call Spread 與 Long Straddle 後再嘗試。每增加一腿，手續費與執行誤差也相應增加，寬度設計需精確計算。</p>
-      </div>
     </div>
   </div>
-
 </main>
 
 <footer>
@@ -1466,10 +1288,143 @@
     }
   }
 
+
+  // ── Strategy Data ──
+  const STRAT_DATA = [
+    { name:'買入認購期權', en:'Long Call', desc:'支付權利金，取得在到期日前以行使價買入正股的權利。看漲時使用，最大虧損為所付權利金，潛在盈利理論上無限。', tags:[{t:'看漲',c:'bull'},{t:'有限風險',c:'neutral'},{t:'無限盈利',c:'bull'}], payoff:[[-3,-1],[0,-1],[1,0],[3,2]] },
+    { name:'買入認沽期權', en:'Long Put', desc:'支付權利金，取得在到期日前以行使價賣出正股的權利。看跌時使用，最大虧損為所付權利金，股價歸零時盈利最大。', tags:[{t:'看跌',c:'bear'},{t:'有限風險',c:'neutral'},{t:'大幅盈利',c:'bear'}], payoff:[[-3,2],[-1,0],[0,-1],[3,-1]] },
+    { name:'賣出認購期權', en:'Short Call', desc:'收取權利金，承擔買家行使認購期權的義務。看平或看跌時使用，最大盈利為所收權利金，虧損風險理論上無限。', tags:[{t:'看平/跌',c:'neutral'},{t:'有限盈利',c:'income'},{t:'無限風險',c:'bear'}], payoff:[[-3,1],[0,1],[1,0],[3,-2]] },
+    { name:'賣出認沽期權', en:'Short Put', desc:'收取權利金，承擔買家行使認沽期權的義務。看平或看漲時使用，最大盈利為所收權利金，股價歸零時虧損最大。', tags:[{t:'看平/漲',c:'neutral'},{t:'有限盈利',c:'income'},{t:'有限風險',c:'bull'}], payoff:[[-3,-2],[-1,0],[0,1],[3,1]] },
+    { name:'牛市認購價差', en:'Bull Call Spread', desc:'買入低行使價認購，同時賣出高行使價認購。以較低成本建立看漲倉位，盈虧兩邊均有上限，適合溫和看漲市況。', tags:[{t:'溫和看漲',c:'bull'},{t:'有限盈利',c:'income'},{t:'有限風險',c:'neutral'}], payoff:[[-3,-1],[-0.5,-1],[0.5,0],[1.5,1],[3,1]] },
+    { name:'熊市認沽價差', en:'Bear Put Spread', desc:'買入高行使價認沽，同時賣出低行使價認沽。以較低成本建立看跌倉位，盈虧兩邊均有上限，適合溫和看跌市況。', tags:[{t:'溫和看跌',c:'bear'},{t:'有限盈利',c:'income'},{t:'有限風險',c:'neutral'}], payoff:[[-3,1],[-1.5,1],[-0.5,0],[0.5,-1],[3,-1]] },
+    { name:'保護性認沽', en:'Protective Put', desc:'持有正股的同時買入認沽期權，為持倉提供保險。股價下跌時損失有限，上漲時扣除期權成本後仍可盈利。', tags:[{t:'持股保護',c:'bull'},{t:'對沖策略',c:'neutral'},{t:'有限下跌',c:'bear'}], payoff:[[-3,-0.8],[-1,-0.8],[0,0.2],[3,3.2]] },
+    { name:'備兌認購', en:'Covered Call', desc:'持有正股的同時賣出認購期權，以收取額外收入。股價小幅上漲時效果最佳，但放棄了大幅上漲的潛在盈利。', tags:[{t:'增加收益',c:'income'},{t:'持股策略',c:'bull'},{t:'上漲受限',c:'neutral'}], payoff:[[-3,-3],[-1,-1],[0,0.5],[1,1],[3,1]] },
+    { name:'跨式策略', en:'Long Straddle', desc:'同時買入相同行使價的認購和認沽期權。預期股價大幅波動但不確定方向時使用，無論大漲大跌均可獲利。', tags:[{t:'波動策略',c:'neutral'},{t:'方向中性',c:'neutral'},{t:'高成本',c:'bear'}], payoff:[[-3,2],[-1,0],[0,-1.5],[1,0],[3,2]] },
+    { name:'寬跨式策略', en:'Long Strangle', desc:'同時買入不同行使價的虛值認購和認沽期權，成本較跨式低，但需要更大的波動才能盈利，適合波幅極大時使用。', tags:[{t:'波動策略',c:'neutral'},{t:'低成本',c:'income'},{t:'需大波動',c:'neutral'}], payoff:[[-3,1.5],[-1.5,0],[0,-1],[1.5,0],[3,1.5]] },
+    { name:'鐵禿鷹', en:'Iron Condor', desc:'同時賣出認購價差和認沽價差的組合策略。股價在中間區間橫行時賺取全部權利金，兩端均有有限虧損上限。', tags:[{t:'看平',c:'neutral'},{t:'高勝率',c:'income'},{t:'有限風險',c:'neutral'}], payoff:[[-3,-1.5],[-1.5,0],[-0.5,1],[0.5,1],[1.5,0],[3,-1.5]] },
+    { name:'蝶式價差', en:'Butterfly Spread', desc:'買入低行使價和高行使價期權，並賣出兩份中間行使價期權。預期股價到期時接近中間行使價，盈虧均有限。', tags:[{t:'精確預判',c:'neutral'},{t:'低成本',c:'income'},{t:'有限盈虧',c:'neutral'}], payoff:[[-3,-0.5],[-1.5,-0.5],[0,1.5],[1.5,-0.5],[3,-0.5]] },
+    { name:'日曆價差', en:'Calendar Spread', desc:'賣出近月期權，同時買入遠月相同行使價期權。利用時間值衰減速度差異獲利，股價在行使價附近橫行時效果最佳。', tags:[{t:'時間價值',c:'income'},{t:'低成本',c:'income'},{t:'方向中性',c:'neutral'}], payoff:[[-3,-0.5],[-1,0],[0,1],[1,0],[3,-0.5]] }
+  ];
+
+  let currentStrat = -1;
+  let showGlossary = false;
+
+  function initStratGrid() {
+    const grid = document.getElementById('stratGrid');
+    if (!grid) return;
+    grid.innerHTML = STRAT_DATA.map((s, i) =>
+      `<button class="strat-btn" onclick="selectStrat(${i})">${s.name}<span>${s.en}</span></button>`
+    ).join('');
+  }
+
+  function selectStrat(i) {
+    currentStrat = i;
+    document.querySelectorAll('.strat-btn').forEach((b, idx) => b.classList.toggle('active', idx === i));
+    renderStratDetail(i);
+  }
+
+  function toggleStratGlossary() {
+    showGlossary = !showGlossary;
+    const btn = document.getElementById('stratToggle');
+    if (btn) btn.classList.toggle('active', showGlossary);
+    const desc = document.getElementById('stratDetailDesc');
+    if (desc) desc.classList.toggle('visible', showGlossary);
+  }
+
+  function renderStratDetail(i) {
+    const s = STRAT_DATA[i];
+    const detail = document.getElementById('stratDetail');
+    const q = document.getElementById('stratDetailQ');
+    const desc = document.getElementById('stratDetailDesc');
+    const tags = document.getElementById('stratDetailTags');
+    detail.classList.add('visible');
+    q.textContent = s.name + '（' + s.en + '）';
+    desc.innerHTML = s.desc;
+    desc.classList.toggle('visible', showGlossary);
+    tags.innerHTML = s.tags.map(t => `<span class="strat-tag ${t.c}">${t.t}</span>`).join('');
+    requestAnimationFrame(() => drawPayoffChart(s.payoff));
+  }
+
+  function drawPayoffChart(pts) {
+    const canvas = document.getElementById('payoffCanvas');
+    if (!canvas) return;
+    const dpr = window.devicePixelRatio || 1;
+    const W = canvas.offsetWidth || 560;
+    const H = 230;
+    canvas.width = W * dpr;
+    canvas.height = H * dpr;
+    canvas.style.height = H + 'px';
+    const ctx = canvas.getContext('2d');
+    ctx.scale(dpr, dpr);
+    const pad = { t:16, r:16, b:28, l:36 };
+    const cw = W - pad.l - pad.r;
+    const ch = H - pad.t - pad.b;
+    const ys = pts.map(p => p[1]);
+    const rawMin = Math.min(...ys), rawMax = Math.max(...ys);
+    const ypad = Math.max((rawMax - rawMin) * 0.3, 0.5);
+    const ymin = rawMin - ypad, ymax = rawMax + ypad;
+    const yrng = ymax - ymin;
+    const xmin = -3, xrng = 6;
+    const toX = v => pad.l + (v - xmin) / xrng * cw;
+    const toY = v => pad.t + (ymax - v) / yrng * ch;
+    const zy = toY(0);
+
+    ctx.fillStyle = '#FAFAF8';
+    ctx.fillRect(0, 0, W, H);
+
+    // dashed zero line
+    ctx.strokeStyle = '#D0C8B8'; ctx.lineWidth = 1;
+    ctx.setLineDash([4,3]);
+    ctx.beginPath(); ctx.moveTo(pad.l, zy); ctx.lineTo(pad.l + cw, zy); ctx.stroke();
+    ctx.setLineDash([]);
+
+    // axes
+    ctx.strokeStyle = '#B0A890'; ctx.lineWidth = 1;
+    ctx.beginPath();
+    ctx.moveTo(pad.l, pad.t); ctx.lineTo(pad.l, pad.t + ch);
+    ctx.lineTo(pad.l + cw, pad.t + ch); ctx.stroke();
+
+    // payoff path
+    const path = new Path2D();
+    pts.forEach((p, idx) => {
+      const x = toX(p[0]), y = toY(p[1]);
+      idx === 0 ? path.moveTo(x, y) : path.lineTo(x, y);
+    });
+
+    // profit fill
+    ctx.save();
+    ctx.beginPath(); ctx.rect(pad.l, pad.t, cw, Math.max(0, zy - pad.t)); ctx.clip();
+    const gUp = ctx.createLinearGradient(0, pad.t, 0, zy);
+    gUp.addColorStop(0, 'rgba(46,125,50,.28)'); gUp.addColorStop(1, 'rgba(46,125,50,.04)');
+    ctx.fillStyle = gUp; ctx.fill(path); ctx.restore();
+
+    // loss fill
+    ctx.save();
+    ctx.beginPath(); ctx.rect(pad.l, zy, cw, pad.t + ch - zy); ctx.clip();
+    const gDn = ctx.createLinearGradient(0, zy, 0, pad.t + ch);
+    gDn.addColorStop(0, 'rgba(198,40,40,.04)'); gDn.addColorStop(1, 'rgba(198,40,40,.28)');
+    ctx.fillStyle = gDn; ctx.fill(path); ctx.restore();
+
+    // line
+    ctx.strokeStyle = '#007AFF'; ctx.lineWidth = 2.5; ctx.lineJoin = 'round';
+    ctx.stroke(path);
+
+    // labels
+    ctx.fillStyle = '#9A9080'; ctx.font = '10px system-ui';
+    ctx.textAlign = 'center'; ctx.fillText('行使價', toX(0), H - 6);
+    ctx.textAlign = 'right'; ctx.fillText('0', pad.l - 4, zy + 4);
+    ctx.fillStyle = '#5A8A5A'; ctx.font = 'bold 10px system-ui'; ctx.textAlign = 'left';
+    ctx.fillText('盈', pad.l - 32, pad.t + 12);
+    ctx.fillStyle = '#C06060';
+    ctx.fillText('虧', pad.l - 32, pad.t + ch - 4);
+  }
+
+
   // ── Init ──
   updateClock();
   setInterval(updateClock, 1000);
   loadNews();
+  initStratGrid();
   renderUpcomingHolidays();
 </script>
 

@@ -226,35 +226,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-09 19:58 HKT",
+    "updated_at": "2026-06-10 00:06 HKT",
     "news": [
       {
-        "title": "Arthur Hayes緊急清倉：當AI泡沫撞上高油價，比特幣能否死裡逃生？",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOXpNb2t4U3RVZ0dRRzlJOVlLVnUtU3A0WnNUQ2RhRl9aU1JDWkVkODdmMm9XeUR1TG1DX2dyTk8tRWw3d1cxakFxbVhVWVQzS1ZHelc3cXhIV1locW0tZGdXWVJwbzEyOFd5bFBaWFQ5U3k2NTQ1ejRUTFhOZV9rTVEycjQ2QQ?oc=5",
-        "source": "PANews",
-        "published_hkt": "06/09 19:41",
+        "title": "日本銀行考慮歷史性加息| MEXC 新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EM21jWnRRbWVJUzZaaEZZNFVRcG9kbGNuQktfZkk4SGcwa2xYdUJOWTdVdFBac0JzQWlpSWtYSmpOalVFLXN0b0hVVVZBQVQ5?oc=5",
+        "source": "MEXC",
+        "published_hkt": "06/09 23:35",
+        "related": []
+      },
+      {
+        "title": "降息無望！比特幣跌破 6.3 萬美元，分析師警告：市場已進入派發階段",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTzFHa3hwam9PblVySkhVN2JLUGlhUUMweHZnOWhLbV9FNjdCZ2RNTDl3NTFkMWtXN3NBcXhrZDBKcXBROVQxMDY0RWV6LUVsQy15UC1Nc0l2bGotbGF2dHB2VF82QVJDSDB4Um1YTWRHZGpodnZuc25Ta2VGNXVieWdodnVGWkRsMllPdw?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "06/09 23:29",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "主要加密貨幣行情，比特幣跌0.74%",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSFdDT2ZSUzZiSzRMT2VqUEJaVHFRUDNVUXM4ZlFrMFctanZjbzJWWFJKYWNkSzZ1WmVJX2s2UzhmRndCak95b3puX2lzNThMMWtSNHg3cTI4ZUVUVlNZcm5IWkVwWG9SenZSX2Z5blUtQnlEZEJUbkMtUDQ2cVpLUUI0S0hERWpJR2xPOUdaMlAzaEJvTlJnM0V6Z0p6ajBmbms0?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "06/09 19:40",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "Circle在以太坊上推出CirBTC，挑戰Coinbase在封裝比特幣市場的地位",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUTRhVWl4RWJ5b29vOUNJZkpDM24zd1VrbzlJYmhZTHRISEN5U0tzaVMxMWNxcXhYdGJnWHAtOXY0UEVHNm5SNmF2U1B5M1JCV2x4TG5jbDM4MEpTeDR5d0JVdnJhYThKNVlSQlBhNkJnTWRZbHZud2tVZmpRUkx1cEFlUHVPZDRGamNrUlZocDdxRC1sVzJiYzBrZW5WYThHVVNON08xd0NfVUJw?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "06/09 18:20",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
+        "title": "eNaira作為錢包表現不佳。現在央行希望它推動支付。",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56Qmx0UGdDM0VnRnB0dk1fOV9ROW1FYkNlbzItWThISy1DWndQVURFTUI1N3A5T253SEhkLWZJeEFrRFpOcjhOWVdmSEdrTG9p?oc=5",
+        "source": "MEXC",
+        "published_hkt": "06/09 23:24",
+        "related": []
       }
     ]
   }

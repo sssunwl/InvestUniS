@@ -226,8 +226,17 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-10 00:06 HKT",
+    "updated_at": "2026-06-10 00:18 HKT",
     "news": [
+      {
+        "title": "Arthur Hayes緊急清倉：當AI泡沫撞上高油價，比特幣能否死裡逃生？",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOXpNb2t4U3RVZ0dRRzlJOVlLVnUtU3A0WnNUQ2RhRl9aU1JDWkVkODdmMm9XeUR1TG1DX2dyTk8tRWw3d1cxakFxbVhVWVQzS1ZHelc3cXhIV1locW0tZGdXWVJwbzEyOFd5bFBaWFQ5U3k2NTQ1ejRUTFhOZV9rTVEycjQ2QQ?oc=5",
+        "source": "PANews",
+        "published_hkt": "06/10 00:05",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "日本銀行考慮歷史性加息| MEXC 新聞",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EM21jWnRRbWVJUzZaaEZZNFVRcG9kbGNuQktfZkk4SGcwa2xYdUJOWTdVdFBac0JzQWlpSWtYSmpOalVFLXN0b0hVVVZBQVQ5?oc=5",
@@ -243,13 +252,6 @@
         "related": [
           "BTC"
         ]
-      },
-      {
-        "title": "eNaira作為錢包表現不佳。現在央行希望它推動支付。",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56Qmx0UGdDM0VnRnB0dk1fOV9ROW1FYkNlbzItWThISy1DWndQVURFTUI1N3A5T253SEhkLWZJeEFrRFpOcjhOWVdmSEdrTG9p?oc=5",
-        "source": "MEXC",
-        "published_hkt": "06/09 23:24",
-        "related": []
       }
     ]
   }

@@ -27,30 +27,28 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-09 09:25 HKT",
+      "updated_at": "2026-06-09 10:48 HKT",
       "news": [
         {
-          "title": "美銀示警美股熊市訊號亮紅燈 建議投資人獲利了結",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaUxMMVZiaGstalliU3NVQ2U0QU1ST3pZazNGd3NBNnhxOENrSUxsV2E5YkxRNjBicktsUlZWWjBSRldpZTdmQ0czRjF5a2JtcnlpbWJ6UWJrbkNoQlR0U25HNUhuQ3pHaU1adUV2aW12MU1sbENRcjI0SDNtTTZ5NNIBX0FVX3lxTE1fZkUyZERHeVl0NFVzUWd3cnhpQVVOd21ENi05eUROa1EtNThjMjRtQUhXUURTQTkweGhFV1Z2blVLVUFPS05zLU9aaVUzWlByRGZFVE9OSl9qNkx3S1lv?oc=5",
-          "source": "經濟日報",
-          "published_hkt": "06/09 09:10",
+          "title": "科技股投機跡象升溫！美銀警告美股觸發多項「熊市訊號」，建議投資人獲利了結",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSGNMZXk3QmF4QWtYZTkzcVZhV0JNWDNlRzBMMERiR2Q4T3lOSjFfRkNJOWVuX3kwM0UtekhpMmVwOWpfTVdhR2Z1a2ZJdjZVNjktS0d2bkdwb0tJaUxrT0ZucG5zNlpqa0ZMNUJ5al9tZ0RYcUd6aEJWWFRFN1RJVUJiWjRqU1FjRUd1WU5qVlQtbWRMcUVsNlpPRVVkMVMyQUZv?oc=5",
+          "source": "桑幣區識 Zombit",
+          "published_hkt": "06/09 10:30",
           "related": []
         },
         {
-          "title": "📊 2026-06-09 台股盤前早報｜理柴知道:法說最速報! - 方格子",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yd2dFRTVOa2Itc2FZRXNuTDAwNWdzanlOa0VEVW9RRGF5RTlXSFVBamN3S3FhNkREVVA2czlxS3dnSUdjTFdnYlhUalhXTWRPaDhCcFlJY0JNQ1Z1SUHSAWNBVV95cUxPUENZMTJHU2FwTWFqNVZpYm51U3dyOUNFS3ZOVER3R2wyN291Y0JZa1pKOG5xNW9fYzZ5QzlySFZkZVZuX2dJZkoxalFFSG42eGJRVHpER1BrYUlPazI5STZjODQ?oc=5",
-          "source": "Vocus",
-          "published_hkt": "06/09 09:05",
-          "related": []
-        },
-        {
-          "title": "特斯拉漲近5% 市場聚焦SpaceX本周五IPO 預測市場押注合併",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XOTNKdDFPd0MtWWljY1p0cVFtRFU4cmt4bjY3RHBMQk9DeDRLMFlabENja1pWNUZudWx2V0F2RklyRlpjeGZCQjhCYVpFWnc?oc=5",
+          "title": "美股熊市訊號觸發70%！美銀建議獲利了結、大摩堅定看漲「回調有利於牛市持續到年底」",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ya2pCeEdvZFRHdFIwd3lHbV83NHFKX2QxWHVjQ2U4MktDcDlNdXFJYWNlWTE0R2d2NDcxY05KWnQtU2Qza1pLRmdGU3JfT0E?oc=5",
           "source": "news.cnyes.com",
-          "published_hkt": "06/09 09:00",
-          "related": [
-            "TSLA"
-          ]
+          "published_hkt": "06/09 10:13",
+          "related": []
+        },
+        {
+          "title": "昨崩盤今反彈！台股跟著美股走強力修復 ETF教父：市場修正雖劇烈回檔反是長線布局契機",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iOWtLd3poOUVkTkJFNk0xQW1CbzhwQ05lZ0pnNVJDUjF0c2VhX1JGVTZ5SUZKUnk3dHlrWTg1TDNIQjQ5VDFsdHloLVpLcC1NZ3c?oc=5",
+          "source": "鏡報",
+          "published_hkt": "06/09 09:56",
+          "related": []
         }
       ]
     }
@@ -229,31 +227,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-09 09:25 HKT",
+    "updated_at": "2026-06-09 10:48 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣升0.33%",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2NyS3Nld1hPZWltOEoyMWhKcGE0clgzbnpMeWllbkx3U3ZXWDd4aDUtUUpxWFpaSDdhMjFNV2pZd3FtWlNydHQ1NF9zRVNnYldFY2I1S09HNjQ1d0xwclk2cE83YjNCU08zZ2VNUUlENjdjclVSRG9vZ0J6aVdBWGpnTW5SVkhpMWJxczNWeFRRNUJrMDBuVmxSMHVjT3dwQlJr?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "06/09 05:58",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "策略恢復BTC積累，購買1,550枚比特幣，調整STRC分紅時間表",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcUhXTjFQeWlEUTlmWnN5M2xZQzhROHlCb18wZUp1a0tnQ2lHc29ISU5jR0RaSnRjS3J2Y0ZNZ1JHZUM4Q3NNN1Y4XzlnMW8tbGcxQlhUZTVRNVpPQ01oSXVqcm1XRlI5UUYzSEJYRndIQTUtNElrakJvRms3N3dEOHZWRnRKQWFIMWFXTF90LVp0VVliRWpXRE43MW5vYi1DQVlNYlpRNGgwVDJUaUswQm5Ba0gtVEN6YldtS0lWMTZqR3NjTTdXUDFOWVJvUHhhT3R0Sk9vZnVlbmhNZUxmUzlKRGXSAeQBQVVfeXFMUHFIV04xUHlpRFE5ZlpzeTNsWUM4UTh5Qm9fMGVKdWtLZ0NpR3NvSElOY0dEWkp0Y0tydmNGTWdSR2VDOENzTTdWOF85ZzFvLWxnMUJYVGU1UTVaT0NNaEl1anJtV0ZSOVFGM0hCWEZ3SEE1LTRJa2pCb0ZrNzd3RDh2VkZ0SkFhSDFhV0xfdC1adFVZYkVqV0RONzFub2ItQ0FZTWJaUTRoMFQyVGlLMEJuQWtILVRDemJXbUtJVjE2akdzY003V1AxTllSb1B4YU90dEpPb2Z1ZW5oTWVMZlM5SkRl?oc=5",
+        "title": "儘管加密市場在五月回調，代幣化真實資產（RWAs）仍激增589% — 幣安研究",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOOXFEUVBRbHFIWVdyb3k0WGxtZ2FPc2FSR1BCZDlwMjBKcS1XVjNoNTliQjFUdjZTSjNMeXFfTFVxNFdid0lpN0dPeTBmazVUQUtmVjlyMUdtMmV1MEphRlZuZUFiMXlwNlBBNlNJUkM0Nmw4UGkzU0Z3VDRSWXE5R3ZMZEVmSjFkOHdXQXR0M0w3MUZsYmhiTnNMeXlLZ3NuWFdELWY4YlM5SnI3a1FoOG1KcEI2bW1VRmhaSndFVk9DWVJucnRaMFpaNU1FdzhfUkhPNElFeVA4ZVJWRnNfeFYwV2cteC1SSktqdWZkbnVBNkhBdDUwdVJ3eEPSAYICQVVfeXFMTlNmNXlRazBnZ3lINHNKNXlUUWVBdV9WdmQyTlJuOEhKMHo2WXVoSnVhNy00dy14bDRURVhvb3lCWWJFcWxKNmstRTBhT2tzYWFTdTQ5Nmk4Q3M5TThUZ3BnZmxJcV80N3R6Nm9Sb3oyQVV2U0xDN2RnRm8wbTNzWmQ1NzROZUYycE50eG9MbkdtSGNiM3hzQ3EtQ0hDX1MxV3JUUENtWHNsdjctRmNJckVJQXROMkEzU3FoNzdCdldud1lXbmVsLTA0MkMzb1hDdkkxSmRZLWZTWGp4bVF0V1hDT2ZXNVJ2SXR2LTE3YlplVzhXcUYxU1NLNTRwM3UzZnJR?oc=5",
         "source": "FXStreet",
-        "published_hkt": "06/09 04:20",
+        "published_hkt": "06/09 10:14",
+        "related": [
+          "BNB"
+        ]
+      },
+      {
+        "title": "主要加密貨幣行情，比特幣跌0.73%",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYVFoUUtycXBha0VMeVVHVHlTSDlPNmVfTFRtSkZHeElqUkpLbzJ0RWszb05hQ00xSVNVN0tKQ1BLbXdaYWd5Tjczc3U2N05RckN6QUNIR3J0M1Q0X2NBS2FjckdvbnpMV0tBRkJfQVJTSFJZQ2J6c1NJWEtYZDZLTmVJR2xSeVNoQXVBVVQxMHF2OUtVWmpCV205ZU1BN1ByaElZ?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "06/09 09:54",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "今日比特幣價格 Katana | KAT 兌 USD 即時價格，市值及圖表",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10Vi0wemREdkNnVGFOc0txWExuUzhPSnJpemNSNFBLek5RTGRRaTVlVzQ4Z25LT3BOWGtCWEd4VGhadnZweWhjcEFLRk5kQVVOS2ZiTVZhTTBoNmpfdW80?oc=5",
-        "source": "Binance",
-        "published_hkt": "06/09 02:57",
+        "title": "比特幣跌回62400美元！ETF史上最大單週流出$34億，多軍爆倉2.83億遭血洗",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYzRIeld5LXY3STJQYzZvc255YVVwdmlWOHVHT2FCU25pTURTX1k3Y0tyWXNoWnlhampvVkVWakprVDV2NkRWQW05c2owVU5NUTBQOGlLbnktdVkwdHhMVW9nNWJkYlFZU2NfSzg5V1B4YlJ5SU1fSGgtdVE0ZFItbmgwV01TZUVSN3UzRUxYLW44RWF6dVVlSWJkeGhRTDF2ZDA4dQ?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "06/09 09:21",
         "related": [
           "BTC"
         ]

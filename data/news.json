@@ -230,30 +230,34 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-10 20:19 HKT",
+    "updated_at": "2026-06-11 00:38 HKT",
     "news": [
       {
-        "title": "比特幣價格預測：通脹擔憂持續，威脅比特幣更深度拋售",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNLVdTMUVkYWNPT2t6eF9PS05ONUlQTVpQVy0wN2ltTGZ3UUJGSzJuS19qUFFaMjZSS2g1RGtEQS1kUHBXZjNxZGhXVVJoZW5nc2Z3cVFXV2VIVm1wRTNJREdaaFNJZDRtN3pXb3VyeFc2aEVBMVZOSzZKa1R6TFhPRGNpY1RkWHpEYjU0dFRzSmsxaHZJNzVOQUg2ZlNzQXZOWElqeWh5WnNwVER3SEkzTHg3NGlvNnNPUGQ0T0sydDctdHBqcFlVU0JtOXZnZzJNWHZfNjNxendMT1NFWUhTM19OVdIB4wFBVV95cUxNLVdTMUVkYWNPT2t6eF9PS05ONUlQTVpQVy0wN2ltTGZ3UUJGSzJuS19qUFFaMjZSS2g1RGtEQS1kUHBXZjNxZGhXVVJoZW5nc2Z3cVFXV2VIVm1wRTNJREdaaFNJZDRtN3pXb3VyeFc2aEVBMVZOSzZKa1R6TFhPRGNpY1RkWHpEYjU0dFRzSmsxaHZJNzVOQUg2ZlNzQXZOWElqeWh5WnNwVER3SEkzTHg3NGlvNnNPUGQ0T0sydDctdHBqcFlVU0JtOXZnZzJNWHZfNjNxendMT1NFWUhTM19OVQ?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "06/10 17:58",
+        "title": "比特幣高位腰斬後分析師稱本輪調整或是“最健康熊市之一”關鍵指標釋放築底信號作者智通財經",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QNG5LQkdHeXRsZU1MRDQ3c1NXZ0ZLNk1ubFhCX084cUFrUU5xQUNzNmlZLV8tX1JDNFEzNGpwX0ZRcURXY1NobFBhVzV6c2htQVlHT2xxeTJQZlhFdzlJSF8zR2JyYVVKalpsOUlkVUw?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "06/11 00:18",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "Pi Network繼續下跌，中心化交易所資金流出未能抵消看跌壓力",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPSFdXXzZ6c3cwYTBDR0lvYVd4LWUyVDZKSGl3UkxkazU3X1FOcDZ1NmtWcXBOLXVmZzRkeHh0NEJhT05Cc0tsQWxMN2NERDVZWHhXT3JtSnlEbTZIWmxwVkZYUG90Ylo1cFp0c3c5ZEZDS19Gb2ZJT2ZNYmVwYWVHNTh4ODhiZERjbkU4RFpmR1p6Ri10SGFycG9pd3BwY2xncnJfTnBtdHVXS2NqLURodHhtU3dmcDVHSS16VE43S3RpM2hseHlmak5Cd0QyNWVPa3R2Q29pM3BacXR3Mi04MVpuMERnTGpjeUJldXFVVm02YWVzdnktaEFTTmV2dDFib1ZsY0VoYkZydVQydENOMEUxR2dkMDhM0gGYAkFVX3lxTE9IV1dfNnpzdzBhMENHSW9hV3gtZTJUNkpIaXdSTGRrNTdfUU5wNnU2a1ZxcE4tdWZnNGR4eHQ0QmFPTkJzS2xBbEw3Y0RENVlYeFdPcm1KeURtNkhabHBWRlhQb3RiWjVwWnRzdzlkRkNLX0ZvZklPZk1iZXBhZUc1OHg4OGJkRGNuRThEWmZHWnpGLXRIYXJwb2l3cHBjbGdycl9OcG10dVdLY2otRGh0eG1Td2ZwNUdJLXpUTjdLdGkzaGx4eWZqTkJ3RDI1ZU9rdHZDb2kzcFpxdHcyLTgxWm4wRGdMamN5QmV1cVVWbTZhZXN2eS1oQVNOZXZ0MWJvVmxjRWhiRnJ1VDJ0Q04wRTFHZ2QwOEw?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "06/10 17:55",
-        "related": []
+        "title": "ConsenSys 創辦人 Joe Lubin：3 至 5 年內以太坊將完全實現零知識證明，真正成為「世界計算機」",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTWhCWkxfX2NuSzc0S01wNjdabjF1N1hyZzZMaWs0SU9pY2xUc0hiM2QxeGNKZE9nZ0lLWU55SnhQSzV0R29BN0Y5c05vak8tNXVlNGhVMXFzcDVteHREQWY4MnlpX1dIMThIOVhxbU1UdG9kdWUyam9rRGVuVzExbDlNUnlob0NCZHN3bUc4SzVsb1dNbHNZ?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "06/11 00:04",
+        "related": [
+          "ETH"
+        ]
       },
       {
-        "title": "卡爾達諾下跌趨勢加深，儘管鏈上出現築底信號",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQN2JKcm5OcXVlejV1QTZVUlQ2UzZJam1UYk5PZnlucWwzeTBGb2VIRXE0Z3BFdFY1T1JlMVJQWGhyandfTkQyREpkN3R6RktPRWpMNEV2a2JHU0c1NDRWY29oZjVfODMxdnhCbjQ2d3c3TEYzVjBsVFF3Z0Zhb0w2OVJocm00MnMtaEZYa1hMNUxnaUZINjhUSEVZYzJDSThTRDE5SXI5bjRkNnVHZkw0S3RNZ1NZQ3FDX1VwNFpnZjItSjl1OXV6Sm1Udi1pbmVWOWpaSFFEQy1EVkJOYnNYZ21lTG9TUkMxUi1B0gHrAUFVX3lxTFA3Ykpybk5xdWV6NXVBNlVSVDZTNklqbVRiTk9meW5xbDN5MEZvZUhFcTRncEV0VjVPUmUxUlBYaHJqd19ORDJESmQ3dHpGS09Fakw0RXZrYkdTRzU0NFZjb2hmNV84MzF2eEJuNDZ3dzdMRjNWMGxUUXdnRmFvTDY5UmhybTQycy1oRlhrWEw1TGdpRkg2OFRIRVljMkNJOFNEMTlJcjluNGQ2dUdmTDRLdE1nU1lDcUNfVXA0WmdmMi1KOXU5dXpKbVR2LWluZVY5alpIUURDLURWQk5ic1hnbWVMb1NSQzFSLUE?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "06/10 15:20",
-        "related": []
+        "title": "丙午馬年「三駕馬車」投資法：美股、台股、比特幣三市場配置策略",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRHVBMXFWUUgwSVBtYU9fMi1YQWJzMzZLX0FhZE9ocWZYU1ZDRTEtQTRmRVpoZWR6SGZoR1ZVQzJZc19YTnMxZFdxTzVZbWlWN3BtSWlHRDRaX2ZUN2Zhc1gtZm16VXFmLUxXTHVja0hJNHJtWFBhd2MzSC05eVdadEROUkh1Zw?oc=5",
+        "source": "PANews",
+        "published_hkt": "06/10 23:01",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

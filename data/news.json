@@ -87,7 +87,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-10 18:13 HKT",
+      "updated_at": "2026-06-10 18:47 HKT",
       "news": [
         {
           "title": "新时空丨港股收盘：三大指数继续下探、恒指收跌0.64%，造纸与包装、耐用消费品等题材逆势走强",
@@ -142,8 +142,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-10 18:13 HKT",
+      "updated_at": "2026-06-10 18:47 HKT",
       "news": [
+        {
+          "title": "台股10日指數進行回檔 光寶科5月營收雙增股價開高後震盪走低",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MWGZNZWc4a3dPZE1IVXBIeVNySm1XZjNhV1JUMDFpaTc5TmdSZHNqd1JPWko4QmpsVkcySGx2d2Fxc09IazVDVDBnN2QzVmVyaUE?oc=5",
+          "source": "蕃新聞",
+          "published_hkt": "06/10 18:29",
+          "related": []
+        },
         {
           "title": "什麼都不必說!做就對了!!大立光⊕⊕、雷科⊕",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aRGdJc2RpTm12VklFOWlFU1JObEhMZGx3S1ZKRnJjT1hBRXVkUHVDVjd0THNuWTlnYmFmcE5HSUswMVRqZzZqckFZUHdZeVE?oc=5",
@@ -157,15 +164,6 @@
           "source": "news.cnyes.com",
           "published_hkt": "06/10 18:04",
           "related": []
-        },
-        {
-          "title": "快訊／台積電帶頭！明未開盤先砍掉52點 背後原因曝光",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2dklFTXBkOEV6WThGVHVoWHNwamdDQkpWOHVCTzJhZEpnNGpDUVljbllWUnBVVE9OdGVFLXFRS1BhcGh2YmhBMUNoaw?oc=5",
-          "source": "三立新聞網SETN.com",
-          "published_hkt": "06/10 17:46",
-          "related": [
-            "TSM"
-          ]
         }
       ]
     }
@@ -193,8 +191,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-10 18:13 HKT",
+      "updated_at": "2026-06-10 18:47 HKT",
       "news": [
+        {
+          "title": "《日股》權值股走弱 日經重挫逾1200點",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVE82TTF1N1lyV1ZDQnBoeDRSZkg1ZVk5R1NWQVlSY2hmc25zek96RlN3WnJBNGJ4Z0xRZEtpZjktYmtMZXVoelRHYTVSazh6dEh1TU5DUThTd1JOZWZuOUJBQ1BvTGY1bE00OXA5T194LVNKYUttWWJDZlMwWTZDZVg1cS1mNGQ3QjNlUkxmZnFNZw?oc=5",
+          "source": "台視全球資訊網",
+          "published_hkt": "06/10 18:19",
+          "related": [
+            "^N225"
+          ]
+        },
         {
           "title": "《日股》日經下挫 6萬4有撐",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcW00cy1fV1g1bWRyZ2Q3MTNBdjZOeS1mZ2FpSDdqOWk5TkFMMjV1bDJnUHlrRF9xVjFZeGtQUEg2Q0Fya3g0RmNFUWowODFLbVlkT2NTMVhJY2RTelgwNWk1VFRyYjlVVUMxZHphVnhobXIxWWNSMFlOZHBDczVrU3RTY2pRdllq?oc=5",
@@ -210,19 +217,12 @@
           "source": "MSN",
           "published_hkt": "06/10 15:41",
           "related": []
-        },
-        {
-          "title": "AI概念股領跌　日股收黑",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdUhIXzBfbnF6U2FJT0FwRmRqZlhlZGJlNUdRckVWUy04b2ctd2M1SEQxOUd0ZTlBMHRjczJfRjNvZ1l1cVFpZ0lQYTFOcEZBdlhqZkdHVlFlUGpFR1J0RjR4NUs1VnppNG1WajQtOTB6dHozcWlqX0JBMEVubjgzRVRR0gFfQVVfeXFMUC1oejBRQmtQYVFIcmRyTllSUlpHVGYzZGhhMm5iVjFEcjJiTHlMdTFRYmRPY1JldlBpSnJQZXZBNUlURUlUMWdnT0h6Y3Z3Qk1VZ3M1SUg0ai1OSjFPa0k?oc=5",
-          "source": "經濟日報",
-          "published_hkt": "06/10 15:30",
-          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-06-10 18:13 HKT",
+    "updated_at": "2026-06-10 18:47 HKT",
     "news": [
       {
         "title": "卡爾達諾下跌趨勢加深，儘管鏈上出現築底信號",

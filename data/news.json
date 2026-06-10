@@ -226,29 +226,33 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-10 11:24 HKT",
+    "updated_at": "2026-06-10 13:01 HKT",
     "news": [
+      {
+        "title": "川普關稅風暴後 以太坊漲幅超越比特幣成最大贏家",
+        "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQcFRNUFlwd0pmWkRXczNrdG8wTFVNN3VsaXNmUnNTc2hBRW5NYzd1TTFOZ1Z4aGJDanh6Z01wQ3FsclhXWVUtVlBpSWxVSk01dERKNHlwZ2hHZWQ5ZFUyVUFqX1BWZTNjazVRSEluSkppdzBpOTdIaVF3X2hLWjdlQjgtRl85WWlQbkVIWFI5M3dYaG1zREhNTUd2TkVSNXFYMlhuN3F1a0FZYTRmV1MyeGJrWHNacWZTYmE4dnlZTzlMVHFCbVV1a1QxZG1jX29QYXpsVEh4aDN5NldteHFUeW00eXJvX0pqNFN5d0ZLOVRGamJpWGlLSjNob1VlazUwRExIYVdKTGE2NlIwalA4aUpTbFZmNWxKd1NIQ0xPRVA3d2FZd0h2STRlMV9nTXozd2VxWFREN3dHem9adl9yTC1TXzlHcE1GYUhIakYxMnlfNkVQTV96a1kzWm1iTURORXpwLQ?oc=5",
+        "source": "Yahoo股市",
+        "published_hkt": "06/10 12:41",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
+      {
+        "title": "川普關稅風暴後 以太坊漲幅超越比特幣成最大贏家",
+        "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPNE5waXVia1Nad2JNc2ViU1RuTFRBTHMxVXN3Nl9QX1hnazU1Y1dIY0dPcGJJM0xWeEdTUXJIRmpFRnpJckwyaDBCM0VDUTFNd19aX3lsV3h3MC1hNUtjTWFlcU5XWkROeTdWeDVPX2lTd2ZLRnBzUGFndjNMRlZxSWtGN3dxOVVRT2pIVE9ZX3lKZVptOGNFQkhMWlBQWUVJTjQzbXZoR1VkbFZjTW5yUGdIdzBGNThvRUVFZHZuelRvNlk4WnllclJnNUxhQ08zclNVclh4R3dycGVRT2J0OFVCbmdBR2tXd2lyOG9RNlRkalZnUTA2elJZckVPNEoxenVOeU5oZlJBVENqYmEzQzJwN0YyZ2g2a1lmZm82MW1GeVUxNnJDOXRnMURiY0Q0T05kU0NKSlZ4cXpUczdRQkZabU9xd3NhVVNXNmJMdWgzcDlMLWVNNTZua1RQSmlnNmdN?oc=5",
+        "source": "商傳媒",
+        "published_hkt": "06/10 12:32",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
       {
         "title": "aZen 今日價格：台灣的 AZEN 兌 TWD 實時價格圖表和市場數據",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4WXVMb1h0WV9YSlNSSHhkMm51ZlBKMy1BaGg0WFlqbVBYREhZMl9VWjlQVVBqTTNLNWlzZDBZUkxKcWpMRkRMdHBTZmxNUQ?oc=5",
         "source": "MEXC",
         "published_hkt": "06/10 10:45",
-        "related": []
-      },
-      {
-        "title": "比特幣回檔6.22萬鎂！24h 爆倉 $4.26 億美元，今晚 CPI 定方向",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWlc2WXRmbzBkcVFmRHl0MzhWV1p2czZ6T1FRbHh3Ri1tUG5VSnlpSnkzQnZ2UGFhRE55ZjkzZlpQRVQ1cjF6X21ndWhfZUhEUV9adXdEaDdxWjg0NW9td1J2NnEtSkNrQ0g5b0RiZUNRVGFEeTNNaHhjbG1vZmF2bXVGdUwxZXMzQ0puU0VFVDJRNkZGY01aNTd2X21KZw?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "06/10 09:19",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "Quant (QNT) 是如何運作的？",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ2ZWNFJpY0Z0Y2hUcWRsaWdUQkV1S3F6YmY0UTlQR0Q0c1JNQlJsSFJWMWd2WXBzOW0yNzF5enBKMFBWWUFEMk1hQWpMSHVkOG5XX25ZQmtkSndIR2xJNzdkU2VQQV9lUjNXNllqVTVwd3JsaFRISF82UkRsdTBhR2trZUREQQ?oc=5",
-        "source": "KuCoin",
-        "published_hkt": "06/10 08:07",
         "related": []
       }
     ]

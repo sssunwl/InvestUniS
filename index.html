@@ -46,38 +46,61 @@
     header h1 { font-size: 24px; font-weight: 700; color: var(--cream); letter-spacing: 1px; }
     header p { font-size: 12px; color: #A09070; margin-top: 5px; }
 
-    /* ── Tabs ── */
-    .tab-nav {
-      display: flex;
+    /* ── Nav ── */
+    .tab-nav-outer {
+      position: sticky;
+      top: 0;
+      z-index: 100;
       background: var(--dark);
       border-bottom: 2px solid var(--gold);
-      overflow-x: auto;
-      scrollbar-width: none;
     }
-    .tab-nav::-webkit-scrollbar { display: none; }
-    .tab-btn {
+    .tab-nav {
+      display: flex;
+    }
+    .tab-main-btn {
       flex: 1;
-      min-width: 80px;
       padding: 13px 6px;
       border: none;
       background: transparent;
       color: #A09070;
-      font-size: 12px;
+      font-size: 13px;
       font-weight: 500;
       cursor: pointer;
       transition: color 0.2s;
       white-space: nowrap;
       position: relative;
     }
-    .tab-btn:hover { color: var(--gold-light); }
-    .tab-btn.active { color: var(--gold); font-weight: 700; }
-    .tab-btn.active::after {
+    .tab-main-btn:hover { color: var(--gold-light); }
+    .tab-main-btn.active { color: var(--gold); font-weight: 700; }
+    .tab-main-btn.active::after {
       content: '';
       position: absolute;
       bottom: -2px; left: 0; right: 0;
       height: 2px;
       background: var(--gold);
     }
+    .tab-subnav {
+      display: none;
+      background: rgba(44,36,22,0.98);
+      border-top: 1px solid rgba(201,168,76,0.2);
+      padding: 6px 10px;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+    .tab-subnav.open { display: flex; }
+    .tab-sub-btn {
+      padding: 7px 14px;
+      border: 1px solid rgba(201,168,76,0.25);
+      border-radius: 20px;
+      background: transparent;
+      color: #C0B090;
+      font-size: 12px;
+      cursor: pointer;
+      transition: background 0.15s, color 0.15s;
+      white-space: nowrap;
+    }
+    .tab-sub-btn:hover { background: rgba(201,168,76,0.12); color: var(--gold-light); }
+    .tab-sub-btn.active { background: var(--gold); color: var(--dark); font-weight: 700; }
 
     /* ── Main ── */
     main { flex: 1; max-width: 900px; margin: 0 auto; width: 100%; padding: 24px 14px; }
@@ -117,25 +140,81 @@
     .status-row {
       display: grid;
       grid-template-columns: repeat(5, 1fr);
-      gap: 10px;
-      margin-bottom: 22px;
+      gap: 8px;
+      margin-bottom: 10px;
     }
     .status-card {
       background: #fff;
-      border: 1px solid var(--border);
+      border: 1.5px solid var(--border);
       border-radius: 10px;
-      padding: 12px 8px;
+      padding: 12px 6px 10px;
       text-align: center;
+      cursor: pointer;
+      transition: border-color 0.15s, box-shadow 0.15s, transform 0.1s;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 82px;
+      justify-content: center;
     }
-    .status-flag { font-size: 18px; margin-bottom: 3px; }
-    .status-name { font-size: 11px; color: var(--mid); margin-bottom: 7px; font-weight: 600; }
+    .status-card:hover { border-color: var(--gold); box-shadow: 0 2px 10px rgba(201,168,76,0.15); transform: translateY(-1px); }
+    .status-card.selected { border-color: var(--gold); box-shadow: 0 2px 12px rgba(201,168,76,0.25); }
+    .status-flag { font-size: 16px; margin-bottom: 3px; }
+    .status-name { font-size: 10px; color: var(--mid); margin-bottom: 6px; font-weight: 600; }
     .status-badge {
       display: inline-block;
-      font-size: 10px;
+      font-size: 9px;
       font-weight: 700;
-      padding: 2px 8px;
+      padding: 2px 6px;
       border-radius: 20px;
       white-space: nowrap;
+    }
+
+    /* ── Stock Expand Panel ── */
+    .stock-expand-panel {
+      display: none;
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 14px 16px;
+      margin-bottom: 16px;
+      animation: fadeIn 0.2s ease;
+    }
+    .stock-expand-panel.visible { display: block; }
+    .stock-expand-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+    .stock-expand-title { font-size: 13px; font-weight: 700; color: var(--dark); }
+    .stock-expand-meta { font-size: 10px; color: #B8A880; font-style: italic; }
+    .stock-rows { display: flex; flex-direction: column; }
+    .stock-row {
+      display: grid;
+      grid-template-columns: 60px 1fr auto auto;
+      align-items: center;
+      gap: 8px;
+      padding: 7px 0;
+      border-bottom: 1px solid var(--border);
+      transition: background 0.1s;
+    }
+    .stock-row:last-child { border-bottom: none; }
+    .stock-row:hover { background: #FDFAF4; border-radius: 6px; }
+    .stock-symbol { font-size: 12px; font-weight: 800; color: var(--dark); }
+    .stock-name { font-size: 11px; color: var(--mid); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .stock-price { font-size: 13px; font-weight: 700; color: var(--dark); text-align: right; font-variant-numeric: tabular-nums; }
+    .stock-chg { font-size: 11px; font-weight: 700; text-align: right; font-variant-numeric: tabular-nums; }
+    .chg-up { color: var(--green); }
+    .chg-dn { color: var(--red); }
+    .chg-flat { color: #999; }
+    @media (max-width: 640px) {
+      .status-flag { font-size: 14px; }
+      .status-name { font-size: 9px; }
+      .status-badge { font-size: 8px; padding: 1px 4px; }
+      .status-card { min-height: 72px; padding: 10px 4px 8px; }
+      .stock-row { grid-template-columns: 50px 1fr auto; }
+      .stock-chg { display: none; }
     }
     .badge-open    { background: var(--green-bg); color: var(--green); }
     .badge-pre     { background: var(--yellow-bg); color: var(--yellow); }
@@ -322,10 +401,14 @@
 
     /* ── Glossary ── */
     .glossary-category { font-size: 10px; letter-spacing: 3px; text-transform: uppercase; color: var(--gold); font-weight: 700; margin: 22px 0 8px; }
-    .glossary-item { background:#fff; border-radius:10px; padding:12px 14px; border-left:3px solid var(--gold); box-shadow:0 1px 6px rgba(0,0,0,.06); margin-bottom:8px; }
-    .glossary-term { font-size: 14px; font-weight: 700; color: var(--dark); margin-bottom: 4px; display: flex; align-items: center; gap: 7px; }
+    .glossary-item { background:#fff; border-radius:10px; padding:12px 14px; border-left:3px solid var(--gold); box-shadow:0 1px 6px rgba(0,0,0,.06); margin-bottom:8px; cursor:pointer; transition:box-shadow 0.15s, border-color 0.15s; }
+    .glossary-item:hover { box-shadow:0 3px 12px rgba(201,168,76,0.15); border-color: var(--gold-light); }
+    .glossary-term { font-size: 14px; font-weight: 700; color: var(--dark); margin-bottom: 0; display: flex; align-items: center; gap: 7px; user-select: none; }
     .glossary-en { font-size: 11px; color: #A09070; font-weight: 400; }
-    .glossary-def { font-size: 13px; color: var(--mid); line-height: 1.7; }
+    .glossary-arrow { margin-left: auto; font-size: 10px; color: #C0B090; transition: transform 0.2s; }
+    .glossary-item.open .glossary-arrow { transform: rotate(180deg); }
+    .glossary-def { font-size: 13px; color: var(--mid); line-height: 1.7; display: none; margin-top: 8px; padding-top: 8px; border-top: 1px solid var(--border); }
+    .glossary-item.open .glossary-def { display: block; }
 
     /* ── Options Page ── */
     .options-section { margin-bottom: 28px; }
@@ -476,10 +559,9 @@
     .mc-doji { width:12px; height:1.5px; background:#9A9080; }
 
     /* ── Mini volume chart ── */
-    .mvc-wrap { display:flex; gap:6px; align-items:flex-end; height:64px; padding:6px 8px 4px; background:#F5F3EE; border-radius:8px; margin:6px 0 10px; justify-content:center; }
-    .mvc-grp { display:flex; flex-direction:column; align-items:center; gap:2px; }
-    .mvc-price { width:10px; border-radius:2px 2px 0 0; }
-    .mvc-vol { width:8px; border-radius:1px; }
+    .mvc-wrap { display:flex; gap:5px; align-items:flex-end; height:56px; padding:6px 8px 4px; background:#F5F3EE; border-radius:8px; margin:6px 0 10px; justify-content:center; }
+    .mvc-grp { display:flex; flex-direction:column; align-items:center; gap:0; }
+    .mvc-vol { width:10px; border-radius:2px 2px 0 0; min-height:3px; }
 
     /* ── Greek letters (名詞 Tab) ── */
     .greek-grid { display:grid; grid-template-columns:repeat(2,1fr); gap:10px; margin-top:8px; }
@@ -532,6 +614,23 @@
     .ctag { font-size:11px; background:var(--cream); padding:3px 8px; border-radius:6px; color:var(--dark); }
 
 
+    /* ── Signal Tab ── */
+    .signal-grid { display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-bottom:20px; }
+    .signal-card { background:#fff; border-radius:12px; padding:16px; border:1px solid var(--border); transition:box-shadow 0.2s, transform 0.2s; }
+    .signal-card:hover { box-shadow:0 4px 16px rgba(0,0,0,0.08); transform:translateY(-2px); }
+    .signal-card-head { display:flex; align-items:center; gap:8px; margin-bottom:10px; }
+    .signal-icon { font-size:20px; }
+    .signal-title { font-size:14px; font-weight:700; color:var(--dark); }
+    .signal-body { font-size:12px; color:var(--mid); line-height:1.75; }
+    .signal-body li { margin-bottom:4px; list-style:none; padding-left:14px; position:relative; }
+    .signal-body li::before { content:'→'; position:absolute; left:0; color:var(--gold); }
+    .cal-row { display:flex; gap:10px; padding:10px 0; border-bottom:1px solid var(--border); align-items:flex-start; }
+    .cal-row:last-child { border-bottom:none; }
+    .cal-tag { font-size:10px; font-weight:700; padding:3px 8px; border-radius:12px; white-space:nowrap; flex-shrink:0; margin-top:1px; }
+    .cal-text { font-size:12px; color:var(--mid); line-height:1.65; }
+    .cal-text strong { color:var(--dark); }
+    @media (max-width:640px) { .signal-grid { grid-template-columns:1fr; } }
+
     /* ── Footer ── */
     footer { background: var(--dark); color: #A09070; text-align: center; font-size: 11px; padding: 16px; line-height: 1.8; }
     footer strong { color: var(--gold); }
@@ -540,14 +639,10 @@
     /* ── Responsive ── */
     @media (max-width: 640px) {
       header h1 { font-size: 20px; }
-      .status-row { grid-template-columns: repeat(3, 1fr); }
       .news-cols { grid-template-columns: 1fr; }
       .cards-grid { grid-template-columns: 1fr; }
       .concept-grid { grid-template-columns: repeat(2, 1fr); }
       .clock-time { font-size: 20px; }
-    }
-    @media (max-width: 400px) {
-      .status-row { grid-template-columns: repeat(2, 1fr); }
     }
   </style>
 </head>
@@ -559,15 +654,25 @@
   <p>投資初學者的知識基地，從信號到策略一次學懂</p>
 </header>
 
-<nav class="tab-nav">
-  <button class="tab-btn active" onclick="switchTab('home', this)">🏠 首頁</button>
-  <button class="tab-btn" onclick="switchTab('volume', this)">📊 成交量</button>
-  <button class="tab-btn" onclick="switchTab('kline', this)">🕯 K線</button>
-  <button class="tab-btn" onclick="switchTab('glossary', this)">📖 名詞</button>
-  <button class="tab-btn" onclick="switchTab('options', this)">⚡ 期權</button>
-  <button class="tab-btn" onclick="switchTab('bonds', this)">🏛 債券</button>
-  <button class="tab-btn" onclick="switchTab('contracts', this)">📋 合約</button>
-</nav>
+<div class="tab-nav-outer">
+  <nav class="tab-nav">
+    <button class="tab-main-btn active" id="main-home" onclick="goHome()">🏠 首頁</button>
+    <button class="tab-main-btn" id="main-basic" onclick="toggleGroup('basic')">📚 基本 ▾</button>
+    <button class="tab-main-btn" id="main-advanced" onclick="toggleGroup('advanced')">⚡ 高階 ▾</button>
+  </nav>
+  <div class="tab-subnav" id="sub-basic">
+    <button class="tab-sub-btn" id="sub-glossary" onclick="switchSub('glossary','basic')">📖 名詞</button>
+    <button class="tab-sub-btn" id="sub-volume"   onclick="switchSub('volume','basic')">📊 成交量</button>
+    <button class="tab-sub-btn" id="sub-kline"    onclick="switchSub('kline','basic')">🕯 K線</button>
+    <button class="tab-sub-btn" id="sub-signals"  onclick="switchSub('signals','basic')">📡 信號</button>
+  </div>
+  <div class="tab-subnav" id="sub-advanced">
+    <button class="tab-sub-btn" id="sub-options"   onclick="switchSub('options','advanced')">⚡ 期權</button>
+    <button class="tab-sub-btn" id="sub-bonds"     onclick="switchSub('bonds','advanced')">🏛 債券</button>
+    <button class="tab-sub-btn" id="sub-contracts" onclick="switchSub('contracts','advanced')">📋 合約</button>
+    <button class="tab-sub-btn" id="sub-futures"   onclick="switchSub('futures','advanced')">📈 期貨</button>
+  </div>
+</div>
 
 <main>
 
@@ -587,30 +692,41 @@
 
     <!-- Market Status -->
     <div class="status-row">
-      <div class="status-card">
+      <div class="status-card" id="card-us" onclick="toggleMarket('us')">
         <div class="status-flag">🇺🇸</div>
         <div class="status-name">美股</div>
         <span class="status-badge badge-closed" id="badge-us">--</span>
       </div>
-      <div class="status-card">
+      <div class="status-card" id="card-hk" onclick="toggleMarket('hk')">
         <div class="status-flag">🇭🇰</div>
         <div class="status-name">港股</div>
         <span class="status-badge badge-closed" id="badge-hk">--</span>
       </div>
-      <div class="status-card">
+      <div class="status-card" id="card-tw" onclick="toggleMarket('tw')">
         <div class="status-flag">🇹🇼</div>
         <div class="status-name">台股</div>
         <span class="status-badge badge-closed" id="badge-tw">--</span>
       </div>
-      <div class="status-card">
+      <div class="status-card" id="card-jp" onclick="toggleMarket('jp')">
         <div class="status-flag">🇯🇵</div>
         <div class="status-name">日股</div>
         <span class="status-badge badge-closed" id="badge-jp">--</span>
       </div>
-      <div class="status-card">
+      <div class="status-card" id="card-crypto" onclick="toggleMarket('crypto')">
         <div class="status-flag">🌐</div>
         <div class="status-name">加密貨幣</div>
         <span class="status-badge badge-always">24H</span>
+      </div>
+    </div>
+
+    <!-- Stock Expand Panel -->
+    <div class="stock-expand-panel" id="stock-expand-panel">
+      <div class="stock-expand-header">
+        <span class="stock-expand-title" id="stock-expand-title">熱議股票</span>
+        <span class="stock-expand-meta" id="stock-expand-meta"></span>
+      </div>
+      <div class="stock-rows" id="stock-rows">
+        <div class="news-loading">載入中...</div>
       </div>
     </div>
 
@@ -708,6 +824,18 @@
       </div>
     </div>
 
+    <!-- News: 加密貨幣 -->
+    <div class="market-news-block">
+      <div class="market-news-header">
+        <h2>🌐 加密貨幣市場</h2>
+        <hr>
+      </div>
+      <div>
+        <div class="news-col-label">最新動態 <span class="news-update-time" id="crypto-time"></span></div>
+        <div class="news-list news-single news-loading" id="crypto-news">載入中...</div>
+      </div>
+    </div>
+
     <!-- News: 港股 -->
     <div class="market-news-block">
       <div class="market-news-header">
@@ -759,18 +887,6 @@
           <div class="news-col-label">盤後總結｜收市後 <span class="news-update-time" id="jp-post-time"></span></div>
           <div class="news-list news-loading" id="jp-post">載入中...</div>
         </div>
-      </div>
-    </div>
-
-    <!-- News: 加密貨幣 -->
-    <div class="market-news-block">
-      <div class="market-news-header">
-        <h2>🌐 加密貨幣市場</h2>
-        <hr>
-      </div>
-      <div>
-        <div class="news-col-label">最新動態 <span class="news-update-time" id="crypto-time"></span></div>
-        <div class="news-list news-single news-loading" id="crypto-news">載入中...</div>
       </div>
     </div>
 
@@ -826,49 +942,49 @@
     <div class="cards-grid">
       <div class="card">
         <div class="card-header"><span class="card-icon">✅</span><span class="card-title">放量上漲</span><span class="tag tag-bullish">看漲</span></div>
-        <div class="mvc-wrap"><div class="mvc-grp"><div class="mvc-price" style="height:12px;background:var(--green)"></div><div class="mvc-vol" style="height:10px;background:var(--green)"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:18px;background:var(--green)"></div><div class="mvc-vol" style="height:16px;background:var(--green)"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:26px;background:var(--green)"></div><div class="mvc-vol" style="height:24px;background:var(--green)"></div></div></div>
+        <div class="mvc-wrap"><div class="mvc-grp"><div class="mvc-vol" style="height:12px;background:var(--green)"></div></div><div class="mvc-grp"><div class="mvc-vol" style="height:20px;background:var(--green)"></div></div><div class="mvc-grp"><div class="mvc-vol" style="height:34px;background:var(--green)"></div></div></div>
         <p class="card-desc">成交量大幅增加，同時價格持續上漲。代表多方主力積極入場，買盤力量強勁，市場認同這波漲勢。</p>
         <div class="card-action"><strong>操作建議：</strong>健康的上漲信號，趨勢追隨者可考慮跟進，但注意不要追高。</div>
       </div>
       <div class="card">
         <div class="card-header"><span class="card-icon">⚠️</span><span class="card-title">縮量上漲</span><span class="tag tag-caution">留意</span></div>
-        <div class="mvc-wrap"><div class="mvc-grp"><div class="mvc-price" style="height:14px;background:var(--green)"></div><div class="mvc-vol" style="height:14px;background:#AAA"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:20px;background:var(--green)"></div><div class="mvc-vol" style="height:10px;background:#AAA"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:28px;background:var(--green)"></div><div class="mvc-vol" style="height:6px;background:#AAA"></div></div></div>
+        <div class="mvc-wrap"><div class="mvc-grp"><div class="mvc-vol" style="height:26px;background:var(--green)"></div></div><div class="mvc-grp"><div class="mvc-vol" style="height:16px;background:var(--green)"></div></div><div class="mvc-grp"><div class="mvc-vol" style="height:8px;background:var(--green)"></div></div></div>
         <p class="card-desc">價格繼續攀升，但成交量卻在萎縮。漲勢缺乏新的買盤支撐，靠慣性維持，動能正在悄悄流失。</p>
         <div class="card-action"><strong>操作建議：</strong>不宜追入，持倉者考慮部分止盈，警惕隨時可能的回調。</div>
       </div>
       <div class="card">
         <div class="card-header"><span class="card-icon">❌</span><span class="card-title">放量下跌</span><span class="tag tag-bearish">看跌</span></div>
-        <div class="mvc-wrap"><div class="mvc-grp"><div class="mvc-price" style="height:26px;background:var(--red)"></div><div class="mvc-vol" style="height:24px;background:var(--red)"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:18px;background:var(--red)"></div><div class="mvc-vol" style="height:18px;background:var(--red)"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:10px;background:var(--red)"></div><div class="mvc-vol" style="height:10px;background:var(--red)"></div></div></div>
+        <div class="mvc-wrap"><div class="mvc-grp"><div class="mvc-vol" style="height:34px;background:var(--red)"></div></div><div class="mvc-grp"><div class="mvc-vol" style="height:22px;background:var(--red)"></div></div><div class="mvc-grp"><div class="mvc-vol" style="height:12px;background:var(--red)"></div></div></div>
         <p class="card-desc">成交量爆量同時價格急跌。空方主力大量出貨，市場出現恐慌性拋售。是空方力量最明確的表現。</p>
         <div class="card-action"><strong>操作建議：</strong>明確看跌信號，多方應考慮減倉或止損，切勿抄底。</div>
       </div>
       <div class="card">
         <div class="card-header"><span class="card-icon">🚨</span><span class="card-title">高位縮量</span><span class="tag tag-alert">危險</span></div>
-        <div class="mvc-wrap"><div class="mvc-grp"><div class="mvc-price" style="height:28px;background:var(--green)"></div><div class="mvc-vol" style="height:20px;background:#AAA"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:26px;background:var(--green)"></div><div class="mvc-vol" style="height:12px;background:#AAA"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:24px;background:var(--green)"></div><div class="mvc-vol" style="height:6px;background:#CCC"></div></div></div>
+        <div class="mvc-wrap"><div class="mvc-grp"><div class="mvc-vol" style="height:30px;background:var(--green)"></div></div><div class="mvc-grp"><div class="mvc-vol" style="height:18px;background:var(--green)"></div></div><div class="mvc-grp"><div class="mvc-vol" style="height:8px;background:#CCC"></div></div></div>
         <p class="card-desc">股票已在高位運行一段時間，成交量卻明顯萎縮。主力悄悄退場，散戶接盤能力不足，反轉風險急劇上升。</p>
         <div class="card-action"><strong>操作建議：</strong>高位危險信號，應考慮逐步減倉，設置止盈保護利潤。</div>
       </div>
       <div class="card">
         <div class="card-header"><span class="card-icon">📈</span><span class="card-title">溫和放量</span><span class="tag tag-bullish">健康</span></div>
-        <div class="mvc-wrap"><div class="mvc-grp"><div class="mvc-price" style="height:14px;background:var(--green)"></div><div class="mvc-vol" style="height:12px;background:var(--green)"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:18px;background:var(--green)"></div><div class="mvc-vol" style="height:15px;background:var(--green)"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:22px;background:var(--green)"></div><div class="mvc-vol" style="height:18px;background:var(--green)"></div></div></div>
+        <div class="mvc-wrap"><div class="mvc-grp"><div class="mvc-vol" style="height:14px;background:var(--green)"></div></div><div class="mvc-grp"><div class="mvc-vol" style="height:20px;background:var(--green)"></div></div><div class="mvc-grp"><div class="mvc-vol" style="height:28px;background:var(--green)"></div></div></div>
         <p class="card-desc">成交量平穩、有節奏地小幅增加，伴隨價格穩步上升。是最健康的上漲型態，代表市場充分消化籌碼。</p>
         <div class="card-action"><strong>操作建議：</strong>最理想的買入型態，趨勢可持續性強，可考慮建倉持有。</div>
       </div>
       <div class="card">
         <div class="card-header"><span class="card-icon">🔥</span><span class="card-title">異常成交量</span><span class="tag tag-alert">異常</span></div>
-        <div class="mvc-wrap"><div class="mvc-grp"><div class="mvc-price" style="height:18px;background:var(--green)"></div><div class="mvc-vol" style="height:8px;background:#AAA"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:22px;background:var(--green)"></div><div class="mvc-vol" style="height:38px;background:var(--orange-tag)"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:14px;background:var(--red)"></div><div class="mvc-vol" style="height:12px;background:#AAA"></div></div></div>
+        <div class="mvc-wrap"><div class="mvc-grp"><div class="mvc-vol" style="height:10px;background:#CCC"></div></div><div class="mvc-grp"><div class="mvc-vol" style="height:42px;background:var(--orange-tag)"></div></div><div class="mvc-grp"><div class="mvc-vol" style="height:12px;background:#CCC"></div></div></div>
         <p class="card-desc">成交量突然爆增至平日數倍，遠超正常水平。通常與重大消息、財報、併購等事件掛鉤，方向待確認。</p>
         <div class="card-action"><strong>操作建議：</strong>先觀察方向確認，再決定操作。不要在方向未明前盲目追入。</div>
       </div>
       <div class="card">
         <div class="card-header"><span class="card-icon">⚡</span><span class="card-title">量價背離</span><span class="tag tag-alert">反轉信號</span></div>
-        <div class="mvc-wrap"><div class="mvc-grp"><div class="mvc-price" style="height:28px;background:var(--green)"></div><div class="mvc-vol" style="height:22px;background:var(--green)"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:30px;background:var(--green)"></div><div class="mvc-vol" style="height:10px;background:#BBB"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:22px;background:var(--green)"></div><div class="mvc-vol" style="height:6px;background:#DDD"></div></div></div>
+        <div class="mvc-wrap"><div class="mvc-grp"><div class="mvc-vol" style="height:30px;background:var(--green)"></div></div><div class="mvc-grp"><div class="mvc-vol" style="height:14px;background:#BBB"></div></div><div class="mvc-grp"><div class="mvc-vol" style="height:8px;background:#DDD"></div></div></div>
         <p class="card-desc">價格創出新高，但成交量反而下降；或價格創新低，成交量卻減少。量與價走向相反，是趨勢可能反轉的預警。</p>
         <div class="card-action"><strong>操作建議：</strong>重要反轉前兆，多方背離時減倉，空方背離時留意反彈機會。</div>
       </div>
       <div class="card">
         <div class="card-header"><span class="card-icon">💥</span><span class="card-title">成交量極端</span><span class="tag tag-info">轉折點</span></div>
-        <div class="mvc-wrap"><div class="mvc-grp"><div class="mvc-price" style="height:20px;background:var(--green)"></div><div class="mvc-vol" style="height:8px;background:#CCC"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:18px;background:var(--green)"></div><div class="mvc-vol" style="height:38px;background:var(--red)"></div></div><div class="mvc-grp"><div class="mvc-price" style="height:16px;background:var(--red)"></div><div class="mvc-vol" style="height:14px;background:#CCC"></div></div></div>
+        <div class="mvc-wrap"><div class="mvc-grp"><div class="mvc-vol" style="height:8px;background:#CCC"></div></div><div class="mvc-grp"><div class="mvc-vol" style="height:42px;background:var(--red)"></div></div><div class="mvc-grp"><div class="mvc-vol" style="height:14px;background:#CCC"></div></div></div>
         <p class="card-desc">成交量達到歷史極端水平（極高或極低）。極高量可能代表主力出貨完成；極低量代表市場進入觀望，大行情蓄勢待發。</p>
         <div class="card-action"><strong>操作建議：</strong>注意成交量極端後的方向突破，往往是新一輪趨勢的起點。</div>
       </div>
@@ -963,6 +1079,54 @@
         <p class="card-desc">連續三根同向 K 線，每根收盤都高於（或低於）前一根。代表趨勢強勁、單邊走勢清晰，動能充足。</p>
         <div class="card-action"><strong>操作建議：</strong>三連陽後避免追高；三連陰後避免抄底。等待回調或反彈再介入更安全。</div>
       </div>
+      <div class="card">
+        <div class="card-header"><span class="card-icon">🗡️</span><span class="card-title">刺透形態</span><span class="tag tag-bullish">看漲反轉</span></div>
+        <div class="mc-wrap">
+          <div class="mc-c"><div class="mc-wt" style="height:3px"></div><div class="mc-body mc-bear" style="height:28px"></div><div class="mc-wb" style="height:3px"></div></div>
+          <div class="mc-c" style="margin-bottom:6px"><div class="mc-wt" style="height:3px"></div><div class="mc-body mc-bull" style="height:20px"></div><div class="mc-wb" style="height:3px"></div></div>
+        </div>
+        <p class="card-desc">大陰線之後，第二天開盤更低（跳空低開），但多方強力反攻，陽線收盤穿越前日陰線實體的 50% 以上。代表空頭力量耗盡，多方開始掌控市場。</p>
+        <div class="card-action"><strong>操作建議：</strong>出現在下跌趨勢末端的支撐位時最可靠，等第三天確認後考慮建倉。</div>
+      </div>
+      <div class="card">
+        <div class="card-header"><span class="card-icon">☁️</span><span class="card-title">烏雲蓋頂</span><span class="tag tag-bearish">看跌反轉</span></div>
+        <div class="mc-wrap">
+          <div class="mc-c"><div class="mc-wt" style="height:3px"></div><div class="mc-body mc-bull" style="height:28px"></div><div class="mc-wb" style="height:3px"></div></div>
+          <div class="mc-c" style="margin-bottom:8px"><div class="mc-wt" style="height:3px"></div><div class="mc-body mc-bear" style="height:20px"></div><div class="mc-wb" style="height:3px"></div></div>
+        </div>
+        <p class="card-desc">大陽線之後，第二天跳空高開，但空方大力壓制，陰線收盤跌入前日陽線實體的 50% 以下。刺透形態的反向版本，預示漲勢告終。</p>
+        <div class="card-action"><strong>操作建議：</strong>出現在上漲趨勢高位時特別危險，持倉者應考慮止盈，等第三天確認再做空。</div>
+      </div>
+      <div class="card">
+        <div class="card-header"><span class="card-icon">📈</span><span class="card-title">上升三法</span><span class="tag tag-bullish">看漲延續</span></div>
+        <div class="mc-wrap" style="gap:4px">
+          <div class="mc-c"><div class="mc-wt" style="height:2px"></div><div class="mc-body mc-bull" style="height:30px"></div><div class="mc-wb" style="height:2px"></div></div>
+          <div class="mc-c" style="margin-bottom:12px"><div class="mc-wt" style="height:2px"></div><div class="mc-body mc-bear" style="height:9px"></div><div class="mc-wb" style="height:2px"></div></div>
+          <div class="mc-c" style="margin-bottom:9px"><div class="mc-wt" style="height:2px"></div><div class="mc-body mc-bear" style="height:9px"></div><div class="mc-wb" style="height:2px"></div></div>
+          <div class="mc-c" style="margin-bottom:6px"><div class="mc-wt" style="height:2px"></div><div class="mc-body mc-bear" style="height:9px"></div><div class="mc-wb" style="height:2px"></div></div>
+          <div class="mc-c"><div class="mc-wt" style="height:2px"></div><div class="mc-body mc-bull" style="height:32px"></div><div class="mc-wb" style="height:2px"></div></div>
+        </div>
+        <p class="card-desc">大陽線後出現三根在其區間內的小陰線（牛市休整），最後一根大陽線突破前高且收盤高過第一根陽線。代表多頭主力蓄勢完畢，趨勢強勁延續。</p>
+        <div class="card-action"><strong>操作建議：</strong>第五根大陽線收盤確認後可加碼，三根小陰線是低風險買入時機。</div>
+      </div>
+      <div class="card">
+        <div class="card-header"><span class="card-icon">📉</span><span class="card-title">下降三法</span><span class="tag tag-bearish">看跌延續</span></div>
+        <div class="mc-wrap" style="gap:4px">
+          <div class="mc-c"><div class="mc-wt" style="height:2px"></div><div class="mc-body mc-bear" style="height:30px"></div><div class="mc-wb" style="height:2px"></div></div>
+          <div class="mc-c" style="margin-bottom:12px"><div class="mc-wt" style="height:2px"></div><div class="mc-body mc-bull" style="height:9px"></div><div class="mc-wb" style="height:2px"></div></div>
+          <div class="mc-c" style="margin-bottom:9px"><div class="mc-wt" style="height:2px"></div><div class="mc-body mc-bull" style="height:9px"></div><div class="mc-wb" style="height:2px"></div></div>
+          <div class="mc-c" style="margin-bottom:6px"><div class="mc-wt" style="height:2px"></div><div class="mc-body mc-bull" style="height:9px"></div><div class="mc-wb" style="height:2px"></div></div>
+          <div class="mc-c"><div class="mc-wt" style="height:2px"></div><div class="mc-body mc-bear" style="height:32px"></div><div class="mc-wb" style="height:2px"></div></div>
+        </div>
+        <p class="card-desc">大陰線後出現三根在其區間內的小陽線（熊市反彈），最後一根大陰線跌破前低。上升三法的鏡像，代表空頭主力重新掌控，下跌趨勢繼續。</p>
+        <div class="card-action"><strong>操作建議：</strong>三根小陽線反彈是做空或止損多倉的機會，等第五根確認後操作。</div>
+      </div>
+      <div class="card">
+        <div class="card-header"><span class="card-icon">🔼</span><span class="card-title">倒錘線</span><span class="tag tag-bullish">潛在看漲</span></div>
+        <div class="mc-wrap"><div class="mc-c"><div class="mc-wt" style="height:36px"></div><div class="mc-body mc-bull" style="height:10px"></div><div class="mc-wb" style="height:2px"></div></div></div>
+        <p class="card-desc">與錘子線相反——長上影線、小實體在底部、下影線極短。出現在下跌趨勢末端。多方試圖衝高但力量不足，下一天若出現陽線確認，則為看漲信號。</p>
+        <div class="card-action"><strong>操作建議：</strong>本身不足以單獨操作，必須等次日陽線確認（收盤高過倒錘線收盤）後方可買入。</div>
+      </div>
     </div>
   </div>
 
@@ -975,70 +1139,70 @@
       投資世界有一套自己的語言。讀懂這些名詞，你就不會在市場裡聽不懂別人在說什麼——也不會被似懂非懂的術語誤導決策。
     </div>
     <div class="glossary-category">基礎概念</div>
-    <div class="glossary-item">
-      <div class="glossary-term">看漲期權 <span class="glossary-en">Call Option</span></div>
+    <div class="glossary-item" onclick="toggleGlossary(this)">
+      <div class="glossary-term">看漲期權 <span class="glossary-en">Call Option</span><span class="glossary-arrow">▼</span></div>
       <div class="glossary-def">賦予持有者在到期日前，以特定價格（履約價）<strong>買入</strong>股票的權利。正股大漲時增值，像一張賭正股會漲的彩券。最大虧損僅限於買入期權時支付的保費。</div>
     </div>
-    <div class="glossary-item">
-      <div class="glossary-term">看跌期權 <span class="glossary-en">Put Option</span></div>
+    <div class="glossary-item" onclick="toggleGlossary(this)">
+      <div class="glossary-term">看跌期權 <span class="glossary-en">Put Option</span><span class="glossary-arrow">▼</span></div>
       <div class="glossary-def">賦予持有者在到期日前，以特定價格（履約價）<strong>賣出</strong>股票的權利。正股大跌時增值，像一份保護資產的保險單。大盤崩盤時，Put 是最有效的對沖工具。</div>
     </div>
-    <div class="glossary-item">
-      <div class="glossary-term">期權保費 <span class="glossary-en">Premium</span></div>
+    <div class="glossary-item" onclick="toggleGlossary(this)">
+      <div class="glossary-term">期權保費 <span class="glossary-en">Premium</span><span class="glossary-arrow">▼</span></div>
       <div class="glossary-def">買入期權時支付的價格，由兩部分組成：<br>① <strong>內在價值</strong>——期權當前能立即兌現的實打實價差<br>② <strong>外在價值（時間溢價）</strong>——對未來的預期與剩餘時間的泡沫</div>
     </div>
-    <div class="glossary-item">
-      <div class="glossary-term">時間損耗 <span class="glossary-en">Theta（θ）</span></div>
+    <div class="glossary-item" onclick="toggleGlossary(this)">
+      <div class="glossary-term">時間損耗 <span class="glossary-en">Theta（θ）</span><span class="glossary-arrow">▼</span></div>
       <div class="glossary-def">期權的「時間小偷」。每過一天，期權的時間溢價就會自動融化一部分。對期權買方不利（時間是敵人），對期權賣方有利（時間是朋友）。越接近到期日，Theta 流失越快。</div>
     </div>
-    <div class="glossary-item">
-      <div class="glossary-term">隱含波動率 <span class="glossary-en">Implied Volatility (IV)</span></div>
+    <div class="glossary-item" onclick="toggleGlossary(this)">
+      <div class="glossary-term">隱含波動率 <span class="glossary-en">Implied Volatility (IV)</span><span class="glossary-arrow">▼</span></div>
       <div class="glossary-def">市場預期未來波動程度的指標，是期權定價的核心變量。IV 高 = 市場恐慌或期待大行情，期權保費貴；IV 低 = 市場平靜，期權保費便宜。財報前後 IV 波動最劇烈。</div>
     </div>
-    <div class="glossary-item">
-      <div class="glossary-term">波動率崩塌 <span class="glossary-en">IV Crush</span></div>
+    <div class="glossary-item" onclick="toggleGlossary(this)">
+      <div class="glossary-term">波動率崩塌 <span class="glossary-en">IV Crush</span><span class="glossary-arrow">▼</span></div>
       <div class="glossary-def">財報或重大事件後，IV 從高位瞬間暴跌的現象。即使股價真的大幅移動，期權持有者仍可能因 IV 崩塌而虧損——這是期權初學者最常踩的陷阱。</div>
     </div>
-    <div class="glossary-item">
-      <div class="glossary-term">履約價 <span class="glossary-en">Strike Price</span></div>
+    <div class="glossary-item" onclick="toggleGlossary(this)">
+      <div class="glossary-term">履約價 <span class="glossary-en">Strike Price</span><span class="glossary-arrow">▼</span></div>
       <div class="glossary-def">期權合約中預先約定的股票買賣價格。Call 的履約價越低越有利；Put 的履約價越高越有利。</div>
     </div>
     <div class="glossary-category">訂單類型</div>
-    <div class="glossary-item">
-      <div class="glossary-term">中間價 <span class="glossary-en">Mid Price</span></div>
+    <div class="glossary-item" onclick="toggleGlossary(this)">
+      <div class="glossary-term">中間價 <span class="glossary-en">Mid Price</span><span class="glossary-arrow">▼</span></div>
       <div class="glossary-def">買價（Bid）與賣價（Ask）的正中間價格。建倉與結算的鋼鐵標準——永遠用限價單以中間價掛單，拒絕用市價單，避免被做市商「吃豆腐」（即被買賣價差吃掉利潤）。</div>
     </div>
-    <div class="glossary-item">
-      <div class="glossary-term">撤單前有效 <span class="glossary-en">GTC（Good 'Til Cancelled）</span></div>
+    <div class="glossary-item" onclick="toggleGlossary(this)">
+      <div class="glossary-term">撤單前有效 <span class="glossary-en">GTC（Good 'Til Cancelled）</span><span class="glossary-arrow">▼</span></div>
       <div class="glossary-def">條件單的一種有效期設置。掛單後在雲端伺服器保持有效長達 90 天，無需人工守盤。條件達成自動成交，是實現「不看盤、自動提款」的核心工具。</div>
     </div>
-    <div class="glossary-item">
-      <div class="glossary-term">買賣價差 <span class="glossary-en">Bid-Ask Spread</span></div>
+    <div class="glossary-item" onclick="toggleGlossary(this)">
+      <div class="glossary-term">買賣價差 <span class="glossary-en">Bid-Ask Spread</span><span class="glossary-arrow">▼</span></div>
       <div class="glossary-def">市場最高買價（Bid）與最低賣價（Ask）之間的差距。這個差距是隱性成本，高頻交易者的最大敵人。流動性越低的股票，Bid-Ask Spread 越大。</div>
     </div>
-    <div class="glossary-item">
-      <div class="glossary-term">市價單 <span class="glossary-en">Market Order</span></div>
+    <div class="glossary-item" onclick="toggleGlossary(this)">
+      <div class="glossary-term">市價單 <span class="glossary-en">Market Order</span><span class="glossary-arrow">▼</span></div>
       <div class="glossary-def">以當前市場最佳價格<strong>立即成交</strong>的指令，不指定任何價格。優點是保證成交；缺點是成交價完全不可控，在流動性低的股票或期權上極易被做市商以極差價格吃掉。<strong>期權交易絕對不應使用市價單。</strong></div>
     </div>
-    <div class="glossary-item">
-      <div class="glossary-term">限價單 <span class="glossary-en">Limit Order</span></div>
+    <div class="glossary-item" onclick="toggleGlossary(this)">
+      <div class="glossary-term">限價單 <span class="glossary-en">Limit Order</span><span class="glossary-arrow">▼</span></div>
       <div class="glossary-def">指定<strong>買入上限或賣出下限</strong>的掛單指令，只有市場達到或優於指定價格時才成交。期權交易的黃金標準：永遠以 Mid Price 掛限價單，保護自己不被以差價成交。</div>
     </div>
-    <div class="glossary-item">
-      <div class="glossary-term">止損單 <span class="glossary-en">Stop Order / Stop Loss</span></div>
+    <div class="glossary-item" onclick="toggleGlossary(this)">
+      <div class="glossary-term">止損單 <span class="glossary-en">Stop Order / Stop Loss</span><span class="glossary-arrow">▼</span></div>
       <div class="glossary-def">當價格<strong>觸及指定止損價位</strong>時自動觸發賣出的保護指令，用於控制最大損失。觸發後轉為市價單執行，實際成交價可能略差於止損價（稱為滑點 Slippage）。提前設好止損是紀律的核心。</div>
     </div>
-    <div class="glossary-item">
-      <div class="glossary-term">追蹤止損 <span class="glossary-en">Trailing Stop</span></div>
+    <div class="glossary-item" onclick="toggleGlossary(this)">
+      <div class="glossary-term">追蹤止損 <span class="glossary-en">Trailing Stop</span><span class="glossary-arrow">▼</span></div>
       <div class="glossary-def">止損價隨正股上漲<strong>自動向上移動</strong>，但不會向下調整。讓利潤持續奔跑的同時鎖定已有收益。例：設定 10% 追蹤止損，股票從 $100 漲至 $130，止損自動升至 $117；若回落觸發即自動賣出。</div>
     </div>
     <div class="glossary-category">技術指標</div>
-    <div class="glossary-item">
-      <div class="glossary-term">成交量加權平均價 <span class="glossary-en">VWAP</span></div>
+    <div class="glossary-item" onclick="toggleGlossary(this)">
+      <div class="glossary-term">成交量加權平均價 <span class="glossary-en">VWAP</span><span class="glossary-arrow">▼</span></div>
       <div class="glossary-def">將當日每筆成交量與成交價相乘後加總，再除以總成交量。是機構投資者評估交易成本的基準線。股價在 VWAP 上方通常被視為短線強勢；跌破 VWAP 則偏弱。</div>
     </div>
-    <div class="glossary-item">
-      <div class="glossary-term">開盤區間 <span class="glossary-en">Opening Range</span></div>
+    <div class="glossary-item" onclick="toggleGlossary(this)">
+      <div class="glossary-term">開盤區間 <span class="glossary-en">Opening Range</span><span class="glossary-arrow">▼</span></div>
       <div class="glossary-def">開盤後特定時間（通常是前 15-30 分鐘）所形成的最高價與最低價區間。是當日重要的支撐阻力參考線。突破 Opening Range 高點視為看漲；跌破低點視為看跌。</div>
     </div>
 
@@ -1265,6 +1429,56 @@
   </div>
 
 
+  <!-- TAB: 信號 -->
+  <div id="tab-signals" class="tab-panel">
+    <div class="section-intro">
+      信號不是「必漲必跌的水晶球」，而是概率的積累。看到越多信號同時出現、越接近關鍵位置，勝算才越高。從不確定中找確定，是交易的核心技藝。
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">① 看漲信號</div>
+      <div class="signal-grid">
+        <div class="signal-card"><div class="signal-card-head"><span class="signal-icon">📈</span><span class="signal-title">放量突破阻力</span><span class="tag tag-bullish" style="margin-left:auto">強烈</span></div><ul class="signal-body"><li>價格伴隨大成交量突破重要阻力位</li><li>成交量為近 20 日均量的 1.5 倍以上</li><li>突破後回測阻力位（轉支撐）不破視為確認</li><li>科技股突破時尤其有效（動能型市場）</li></ul></div>
+        <div class="signal-card"><div class="signal-card-head"><span class="signal-icon">✂️</span><span class="signal-title">黃金交叉</span><span class="tag tag-bullish" style="margin-left:auto">中長線</span></div><ul class="signal-body"><li>50 日均線由下而上穿越 200 日均線</li><li>代表中期動能轉強，長線趨勢反轉訊號</li><li>信號出現較慢（滯後），適合趨勢型操作</li><li>配合成交量放大則信號更可靠</li></ul></div>
+        <div class="signal-card"><div class="signal-card-head"><span class="signal-icon">📊</span><span class="signal-title">RSI 超賣反彈</span><span class="tag tag-bullish" style="margin-left:auto">短線</span></div><ul class="signal-body"><li>RSI 跌至 30 以下後開始回升（超賣區）</li><li>配合 K 線看漲形態（如錘子線）更有效</li><li>在整體上漲趨勢中的超賣更具操作價值</li><li>下跌趨勢中超賣可能持續更長，慎入</li></ul></div>
+        <div class="signal-card"><div class="signal-card-head"><span class="signal-icon">🌅</span><span class="signal-title">支撐位強勢反彈</span><span class="tag tag-bullish" style="margin-left:auto">高可靠</span></div><ul class="signal-body"><li>股價在關鍵支撐位（前低、整數位、均線）止跌</li><li>出現長下影線 K 線（錘子、刺透形態）</li><li>成交量大於前幾天平均量</li><li>多次測試同一支撐位不破，信號越強</li></ul></div>
+      </div>
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">② 看跌信號</div>
+      <div class="signal-grid">
+        <div class="signal-card"><div class="signal-card-head"><span class="signal-icon">📉</span><span class="signal-title">放量跌破支撐</span><span class="tag tag-bearish" style="margin-left:auto">強烈</span></div><ul class="signal-body"><li>價格伴隨大成交量跌破重要支撐位</li><li>跌破後反彈到破位點遭壓（支撐轉阻力）</li><li>成交量為普通下跌的 2 倍以上為極端信號</li><li>注意是否有消息面配合（財報差、行業利空）</li></ul></div>
+        <div class="signal-card"><div class="signal-card-head"><span class="signal-icon">⚔️</span><span class="signal-title">死亡交叉</span><span class="tag tag-bearish" style="margin-left:auto">中長線</span></div><ul class="signal-body"><li>50 日均線由上而下穿越 200 日均線</li><li>黃金交叉的反向版本，代表長線趨勢轉弱</li><li>出現後通常進入中期熊市或橫盤整理</li><li>2022 年美股熊市多次出現死亡交叉</li></ul></div>
+        <div class="signal-card"><div class="signal-card-head"><span class="signal-icon">🌇</span><span class="signal-title">RSI 超買回落</span><span class="tag tag-bearish" style="margin-left:auto">短線</span></div><ul class="signal-body"><li>RSI 升至 70 以上後開始回落（超買區）</li><li>配合 K 線看跌形態（射擊之星、暮星）</li><li>強勢股 RSI 可維持高位，不宜過早做空</li><li>牛市中超買可能長時間維持</li></ul></div>
+        <div class="signal-card"><div class="signal-card-head"><span class="signal-icon">🔝</span><span class="signal-title">高位縮量反轉</span><span class="tag tag-bearish" style="margin-left:auto">高風險</span></div><ul class="signal-body"><li>股價在高位出現量能持續萎縮</li><li>出現高位大陰線（射擊之星、烏雲蓋頂）</li><li>MACD 頂背離（價格創高但 MACD 不創高）</li><li>主力出貨時典型特徵：量縮價跌</li></ul></div>
+      </div>
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">③ 重要日期 — 這些時機最容易引發大波動</div>
+      <div class="bond-intro-box" style="margin-bottom:14px;"><p>⚠️ <strong>原則：</strong>重大事件前後 IV 飆升，期權保費極貴。事件前勿追高，事件後方向確認再操作。</p></div>
+      <div class="bond-type-list">
+        <div class="bond-type-item"><span class="bond-type-rating rating-mid">財報前 7-3 天</span><div class="bond-type-name">📋 財報前蓄勢期</div><div class="bond-type-desc">IV 持續上升，期權保費越來越貴。消息不明時不宜建大倉，適合觀望。可用 Straddle 押大波動，但成本高。</div></div>
+        <div class="bond-type-item"><span class="bond-type-rating rating-risk">財報後隔天</span><div class="bond-type-name">💥 IV Crush — 波動率崩塌</div><div class="bond-type-desc">財報公佈後 IV 瞬間暴跌 30-60%。即使方向正確，期權持有者仍可能因 IV 崩塌虧損。財報後等 IV 回落穩定才進場。</div></div>
+        <div class="bond-type-item"><span class="bond-type-rating rating-safe">FOMC 議息日</span><div class="bond-type-name">🏦 聯準會決策日（每年 8 次）</div><div class="bond-type-desc"><strong>升息：</strong>壓制估值（尤其科技成長股），美元走強，債券跌。<br><strong>減息：</strong>資金回流股市，風險資產受追捧，黃金 / 加密幣可能受益。</div></div>
+        <div class="bond-type-item"><span class="bond-type-rating rating-safe">每月第一個週五</span><div class="bond-type-name">📊 非農就業數據（NFP）</div><div class="bond-type-desc">就業超預期 → 市場擔心升息；就業不及預期 → 市場期待減息。通常 HKT 20:30 發佈，前後快速單邊行情。</div></div>
+        <div class="bond-type-item"><span class="bond-type-rating rating-mid">每月中旬</span><div class="bond-type-name">🌡️ CPI 通脹數據</div><div class="bond-type-desc">CPI 高於預期 → 通脹未降溫，市場擔心升息延長；CPI 低於預期 → 通脹降溫，市場期待減息，股市通常上漲。</div></div>
+        <div class="bond-type-item"><span class="bond-type-rating rating-mid">每季第三個週五</span><div class="bond-type-name">⚡ 期權到期日（Expiry Friday）</div><div class="bond-type-desc">大量期權同時到期，莊家對沖倉位引發波動（Gamma Squeeze）。股票往往圍繞最大持倉履約價（Max Pain）附近徘徊。</div></div>
+      </div>
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">④ 影響股市的消息類別</div>
+      <div class="cards-grid">
+        <div class="card"><div class="card-header"><span class="card-icon">🏦</span><span class="card-title">央行政策</span><span class="tag tag-alert">最高影響</span></div><p class="card-desc">升息壓制估值（尤其高本益比科技股），美元走強。減息資金回流股市，成長股大漲。縮表 / 擴表影響市場流動性，是牛熊轉換的長期驅動力。</p></div>
+        <div class="card"><div class="card-header"><span class="card-icon">📋</span><span class="card-title">企業財報</span><span class="tag tag-alert">個股影響</span></div><p class="card-desc">EPS 超預期通常跳空高開 5-15%+（但注意 IV Crush）。業績指引下調往往比當季業績更影響股價。重點看毛利率、雲服務增速、AI 資本支出、下季指引。</p></div>
+        <div class="card"><div class="card-header"><span class="card-icon">📊</span><span class="card-title">宏觀經濟數據</span><span class="tag tag-info">大盤影響</span></div><p class="card-desc">經濟強 + 通脹低 = 最佳組合（Goldilocks 時代）。經濟弱 + 通脹高 = 滯脹（最難處理）。衰退期防禦股（消費必需品、公用事業）更抗跌。</p></div>
+        <div class="card"><div class="card-header"><span class="card-icon">⚖️</span><span class="card-title">行業監管 & 政策</span><span class="tag tag-caution">結構影響</span></div><p class="card-desc">反壟斷訴訟、科技監管：Meta/Google 等平台股受壓。關稅 / 貿易政策：製造業、汽車、農業直接受衝擊。政府補貼電動車、半導體、潔淨能源板塊受益。</p></div>
+      </div>
+    </div>
+  </div>
+
   <!-- TAB 6: 債券 -->
   <div id="tab-bonds" class="tab-panel">
     <div class="section-intro">
@@ -1484,6 +1698,52 @@
     </div>
   </div>
 
+  <!-- TAB: 期貨 -->
+  <div id="tab-futures" class="tab-panel">
+    <div class="section-intro">
+      期貨是「現在約定、未來交割」的合約。買賣雙方今天鎖定未來的價格，無論到期時市場怎麼走，都必須按約定執行。高槓桿使它成為散戶最危險的工具之一，但也是對沖風險的利器。
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">① 期貨是什麼</div>
+      <div class="bond-intro-box"><p>🏫 <strong>農夫與麵包廠的比喻：</strong>農夫擔心 3 個月後小麥跌價，麵包廠擔心小麥漲價。兩者簽訂合約：「3 個月後以 $5/公斤買賣 100 噸小麥」。農夫鎖定賣價，麵包廠鎖定買價，雙方消除不確定性——這就是期貨的原始用途。</p></div>
+      <div class="cards-grid" style="margin-top:14px;">
+        <div class="card"><div class="card-header"><span class="card-icon">🔒</span><span class="card-title">強制義務</span></div><p class="card-desc">期貨買賣雙方<strong>都有義務</strong>在到期日完成交割，不能選擇放棄（這點與期權最大的不同）。若不想持有到期，需在到期前平倉了結。</p></div>
+        <div class="card"><div class="card-header"><span class="card-icon">📅</span><span class="card-title">到期日與換倉</span></div><p class="card-desc">每份期貨合約都有到期日（如 ES 每季一個）。臨近到期時需「換倉（Rollover）」——平掉近月合約，建立下一個月的合約，否則面臨實物交割。</p></div>
+        <div class="card"><div class="card-header"><span class="card-icon">📊</span><span class="card-title">每日結算</span></div><p class="card-desc">期貨帳戶<strong>每天按市價結算</strong>（Mark-to-Market）。當天盈虧直接計入帳戶。若虧損導致保證金低於維持保證金，會收到追繳通知（Margin Call）。</p></div>
+        <div class="card"><div class="card-header"><span class="card-icon">⚡</span><span class="card-title">高槓桿</span></div><p class="card-desc">只需繳納合約價值 5-10% 的保證金即可控制全額合約。E-mini S&P500（ES）合約約 $5,000 保證金控制 $230,000+ 的市值，槓桿約 46 倍。方向錯誤可快速爆倉。</p></div>
+      </div>
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">② 常見期貨品種</div>
+      <div class="bond-type-list">
+        <div class="bond-type-item"><span class="bond-type-rating rating-safe">股指期貨</span><div class="bond-type-name">📈 E-mini S&P 500（ES）/ 恆指期貨（HSI）</div><div class="bond-type-desc">追蹤股票指數的期貨合約。ES 是全球交易量最大的期貨之一，散戶最常用來對沖美股倉位或投機方向。恆指期貨是港股主要對沖工具，每手 50 港元 × 指數點。</div></div>
+        <div class="bond-type-item"><span class="bond-type-rating rating-mid">能源期貨</span><div class="bond-type-name">🛢️ 原油（WTI / Brent）/ 天然氣</div><div class="bond-type-desc">原油是商品期貨中流動性最強的品種。受地緣政治、OPEC 減產、庫存數據（每週三 EIA 報告）驅動。WTI 是美國原油基準，Brent 是國際基準，兩者有價差（Spread）。</div></div>
+        <div class="bond-type-item"><span class="bond-type-rating rating-safe">貴金屬</span><div class="bond-type-name">🥇 黃金（GC）/ 白銀（SI）</div><div class="bond-type-desc">黃金是全球最重要的避險資產，與美元負相關。升息通常壓制黃金（機會成本上升）；降息或地緣政治危機利好黃金。黃金期貨合約規模大（100 盎司），散戶可用微型合約（MGC）。</div></div>
+        <div class="bond-type-item"><span class="bond-type-rating rating-mid">農產品</span><div class="bond-type-name">🌾 大豆（ZS）/ 小麥（ZW）/ 玉米（ZC）</div><div class="bond-type-desc">受天氣、產量報告（USDA）、中美貿易關係影響。季節性強，播種期與收穫期波動較大。交易大宗商品期貨需特別注意換倉時間避免實物交割。</div></div>
+      </div>
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">③ 保證金制度詳解</div>
+      <div class="cards-grid">
+        <div class="card"><div class="card-header"><span class="card-icon">💰</span><span class="card-title">初始保證金</span></div><p class="card-desc">建立一個期貨倉位所需的最低資金。以 E-mini S&P500 為例，初始保證金約 $14,000（實際根據波動率調整）。這筆錢在持倉期間被「凍結」。</p></div>
+        <div class="card"><div class="card-header"><span class="card-icon">⚠️</span><span class="card-title">追繳保證金（Margin Call）</span></div><p class="card-desc">帳戶虧損後，若剩餘保證金跌破「維持保證金」水平，券商要求追繳資金至初始保證金水平。未能及時追繳，券商有權強制平倉（爆倉）。</p></div>
+        <div class="card"><div class="card-header"><span class="card-icon">📉</span><span class="card-title">爆倉風險</span></div><p class="card-desc">ES 若單日逆向移動 10 個點 = 損失 $500（每手）。一手 $14,000 保證金，移動 28 個點即耗盡。2020 年 3 月原油崩跌時，部分散戶不止一次爆倉。</p></div>
+        <div class="card"><div class="card-header"><span class="card-icon">🛡️</span><span class="card-title">風控原則</span></div><p class="card-desc">每次交易最多虧損帳戶 1-2%。期貨槓桿遠高於股票，新手應從微型合約（Micro）開始，如 MES（E-mini 的 1/10），每點只有 $5 損益。</p></div>
+      </div>
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">④ 期貨 vs 期權 — 新手常見困惑</div>
+      <div class="cards-grid">
+        <div class="card"><div class="card-header"><span class="card-icon">⚖️</span><span class="card-title">最大虧損</span></div><p class="card-desc"><strong>期權買方：</strong>最多損失所付保費，下行風險有限。<br><strong>期貨：</strong>理論上可虧損超過保證金（倉位規模×逆向移動），下行風險無限。<br>→ 同樣是高槓桿，期權對買方更友好。</p></div>
+        <div class="card"><div class="card-header"><span class="card-icon">🎯</span><span class="card-title">方向性</span></div><p class="card-desc"><strong>期貨：</strong>純方向性押注，必須對漲跌方向正確才能盈利。<br><strong>期權：</strong>可以透過組合策略在方向不明確時仍可獲利（如 Straddle、Iron Condor）。<br>→ 期權的策略靈活度遠高於期貨。</p></div>
+      </div>
+    </div>
+  </div>
+
 
 </main>
 
@@ -1563,12 +1823,38 @@
     }
   }
 
-  // ── Tab switching ──
-  function switchTab(tab, btn) {
+  // ── Nav logic ──
+  let activeGroup = null;
+
+  function goHome() {
+    showPanel('home');
+    document.querySelectorAll('.tab-main-btn').forEach(b => b.classList.remove('active'));
+    document.getElementById('main-home').classList.add('active');
+    document.querySelectorAll('.tab-subnav').forEach(s => s.classList.remove('open'));
+    activeGroup = null;
+  }
+
+  function toggleGroup(group) {
+    const subnav = document.getElementById('sub-' + group);
+    const mainBtn = document.getElementById('main-' + group);
+    const isOpen = subnav.classList.contains('open');
+    document.querySelectorAll('.tab-subnav').forEach(s => s.classList.remove('open'));
+    if (!isOpen) { subnav.classList.add('open'); activeGroup = group; }
+    else { activeGroup = null; }
+  }
+
+  function switchSub(tab, group) {
+    showPanel(tab);
+    document.querySelectorAll('.tab-main-btn').forEach(b => b.classList.remove('active'));
+    document.getElementById('main-' + group).classList.add('active');
+    document.querySelectorAll('.tab-sub-btn').forEach(b => b.classList.remove('active'));
+    document.getElementById('sub-' + tab).classList.add('active');
+  }
+
+  function showPanel(tab) {
     document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
-    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-    document.getElementById('tab-' + tab).classList.add('active');
-    btn.classList.add('active');
+    const panel = document.getElementById('tab-' + tab);
+    if (panel) panel.classList.add('active');
   }
 
   // ── Hours table toggle ──
@@ -1853,10 +2139,64 @@
   }
 
 
+  // ── Glossary accordion ──
+  function toggleGlossary(el) {
+    el.classList.toggle('open');
+  }
+
+  // ── Market status card stock expansion ──
+  const STOCK_CFG = {
+    us:     { title:'🇺🇸 美股熱議', stocks:[{s:'MU',n:'Micron Technology'},{s:'NVDA',n:'NVIDIA'},{s:'AAPL',n:'Apple'},{s:'TSLA',n:'Tesla'},{s:'SPY',n:'S&P 500 ETF'}] },
+    hk:     { title:'🇭🇰 港股熱議', stocks:[{s:'0700.HK',n:'騰訊控股'},{s:'1024.HK',n:'快手'},{s:'9988.HK',n:'阿里巴巴'},{s:'3690.HK',n:'美團'},{s:'1299.HK',n:'友邦保險'}] },
+    tw:     { title:'🇹🇼 台股熱議', stocks:[{s:'2330.TW',n:'台積電'},{s:'2317.TW',n:'鴻海'},{s:'2454.TW',n:'聯發科'},{s:'2382.TW',n:'廣達電腦'},{s:'2308.TW',n:'台達電'}] },
+    jp:     { title:'🇯🇵 日股熱議', stocks:[{s:'6758.T',n:'Sony Group'},{s:'7203.T',n:'Toyota'},{s:'9984.T',n:'SoftBank'},{s:'7974.T',n:'Nintendo'},{s:'6501.T',n:'日立製作所'}] },
+    crypto: { title:'🌐 加密貨幣', stocks:[{s:'BTC',n:'Bitcoin'},{s:'ETH',n:'Ethereum'},{s:'BNB',n:'BNB'},{s:'SOL',n:'Solana'},{s:'XRP',n:'XRP'}] },
+  };
+  let stocksData = {};
+  let openMarket = null;
+
+  async function loadStocks() {
+    try {
+      const r = await fetch('./data/stocks.json?v=' + Date.now());
+      if (r.ok) stocksData = await r.json();
+    } catch(e) { /* data not available yet, show placeholders */ }
+  }
+
+  function toggleMarket(mkt) {
+    const panel = document.getElementById('stock-expand-panel');
+    const cards = document.querySelectorAll('.status-card');
+    if (openMarket === mkt) {
+      panel.classList.remove('visible');
+      cards.forEach(c => c.classList.remove('selected'));
+      openMarket = null;
+      return;
+    }
+    openMarket = mkt;
+    cards.forEach(c => c.classList.remove('selected'));
+    document.getElementById('card-' + mkt).classList.add('selected');
+    const cfg = STOCK_CFG[mkt];
+    const mktData = stocksData[mkt] || {};
+    document.getElementById('stock-expand-title').textContent = cfg.title;
+    document.getElementById('stock-expand-meta').textContent = stocksData.updated_at ? '資料更新：' + stocksData.updated_at : '資料每日自動更新';
+    const rows = cfg.stocks.map(st => {
+      const d = (mktData.stocks || []).find(x => x.symbol === st.s) || {};
+      const price = d.price || '--';
+      const pct = d.pct || '--';
+      const dir = d.dir || 'flat';
+      const cls = dir === 'up' ? 'chg-up' : dir === 'dn' ? 'chg-dn' : 'chg-flat';
+      const arrow = dir === 'up' ? '▲' : dir === 'dn' ? '▼' : '';
+      return `<div class="stock-row"><span class="stock-symbol">${esc(st.s)}</span><span class="stock-name">${esc(st.n)}</span><span class="stock-price">${esc(price)}</span><span class="stock-chg ${cls}">${arrow}${esc(pct)}</span></div>`;
+    }).join('');
+    document.getElementById('stock-rows').innerHTML = rows;
+    panel.classList.add('visible');
+    panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  }
+
   // ── Init ──
   updateClock();
   setInterval(updateClock, 1000);
   loadNews();
+  loadStocks();
   initStratGrid();
   renderUpcomingHolidays();
 </script>

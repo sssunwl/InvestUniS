@@ -87,8 +87,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-11 18:48 HKT",
+      "updated_at": "2026-06-11 19:16 HKT",
       "news": [
+        {
+          "title": "恒指一度失守兩萬四關口 見近一年來低位連跌七日",
+          "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNQkxoQmZBU2l3bjBhUmV6eFNqMXZJaE45QUxLaEVRdGhfSHRVZjBGWGgzUzI5dlFENWk5UUh2R0FTM29nUFNrbUdMaGxla3BFYUFyZVRrM2UwZ3RVZjZ4VDgyekItUkMxTG95VTF3VERRd0ZQWlM2SVpENmpObWZYSlR4TGJmQUdnUERDTXE1SDd4MC1NdHkyT3A3dlltRmtJMnJ1NDM0UHBqN0xWSk91X0NXakN1X3F4dUZxMVNiaVlzV1g0RFdDekE4d05Hc1FvUjBGMTRObGN0b01vVG5scnVuSnlkNFNSa0h0Vm9WQ1hPTC1CS2hFeEE0WFN1S0NfWWdSVVJGMVYyN0FrV2RpbkE4aWNQN2pZZk1MaElFVXlkdEpzaXpXMDFJZkZIU0NuN3FWdzcwTlQ2WnBHb3o0OWQ4elpPQmpJUjJtWENwcw?oc=5",
+          "source": "TVB",
+          "published_hkt": "06/11 18:45",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "【港股收市】恒指跌158點 曾失24000關 友邦彈近5%",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4VkVlaGRuUGVrYlZibldScTZPLThsNnA4UU9peWc3bFdtYWhqblpXRGMwNEtTNnpOd0taSGlfQUEwUWM3VkZyX0pUVnFmVFJoT0dhTEh3Z3B1b1FnRWZhdWUwTzVyRnM?oc=5",
@@ -103,15 +112,6 @@
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iOFQwU1NURmY4R3pLUHlBZlBib1NPZnR1THZId1I5WUpZeHVvNmhmTWNTaW1aVTB6X2lNNER4Y2t2UHh1cXdBa3E1ZE1jbnE2eFdoTV9OMDhVTkZFTTByNjR3RkZyc2w1MEQ3VWk2aXJPek9nTnJr?oc=5",
           "source": "香港文匯網",
           "published_hkt": "06/11 17:26",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "新时空丨港股收盘：三大指数继续下跌、恒指收跌0.65%，化工、耐用消费品等题材逆势走强",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TeVM0djNxN20wdTYwQktDVDlMU3AyUXd1b0R2czBKUWlIakJKYjZVckhDQkJrOUdqZm9jX3NuN25VZ2ZtNXFab2tvbHRLWU9qcTFGZ094bjN0Rzh5WUhMbFVDMzhCdw?oc=5",
-          "source": "FX168财经",
-          "published_hkt": "06/11 17:00",
           "related": [
             "^HSI"
           ]
@@ -144,8 +144,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-11 18:48 HKT",
+      "updated_at": "2026-06-11 19:16 HKT",
       "news": [
+        {
+          "title": "槓桿ETF也買台積電現貨？00631L曝險破百，成「含積量」冠軍-觀點新聞",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUZl9sbVNuYzVtX2txS2FDUExCd2ZWOGROMDJZUFYzVmVBSU96YmdEZjl5RUp4Y0VlMXIzLXdVdlc3Q0hNR1EtLUNrUGE2a1gtd29MbDNodnZxX0FJUUlJZHJHeU02azN3MlA3ZnYxU3hvUkNmRWc?oc=5",
+          "source": "商周財富網",
+          "published_hkt": "06/11 19:14",
+          "related": [
+            "TSM"
+          ]
+        },
         {
           "title": "台股千點震盪成日常！ 經理人喊「拉回是買點」：Q4旺季可期",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTNXlrOVh6WWJZZ0taVTBVU0xMUUxZM1ZyczJXYXRmZjRJbzZGRVg3Wll4eERBNk4ta2JMNHVCNUtiN1lIY3YzUjVlbXB5cVZxVVZnYVRB?oc=5",
@@ -158,13 +167,6 @@
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xR2FkM2htc0tJVFRmekhCQzFxbnVJQ09hX3FXUzlyUE9yTlFDdEYxWjhacFRQa0JpOVdkNWtpcHdtZlhZMUg5N0RvdnBLUmNz?oc=5",
           "source": "UDN",
           "published_hkt": "06/11 16:56",
-          "related": []
-        },
-        {
-          "title": "台股大洗三溫暖免驚！ 法人：第四季旺季可期 SpaceX掛牌有望點火概念股",
-          "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxQWmthSkJJakttbm1rdXBFdFhDQU5nNU9OWmpjTDRsTjRxN0JkSlN6NE16S1ctcVpGclZSUTVtUFdRQ0wzVEU0d3NVQ2I0UHlVcTllZzloZnFxZHhiV3lTOFc1OHBRYThsVWJDS05hUTE3NlQtZ25zTWQxR2Q5UVdMSE5PLWFhRkNJb1A0OTdCMjZ5SmJfc0Npckt6a1A1UFo4MXktdTZnZklYRWtYRV8xNjZVMmtfbmZ1VUkzdEdUbldoUnBUdkJGVG9VX013dlIxdGx6V0k0eGo1Nlk2a2tuZ3lOX0p4OE5tdFg0WkptV2NFcThaWUEyLUk0eWl6TV9GVk5rQTkwejBKSjBscGd3TUR5VVdEYTJjNkhwRzNkMEdTMXRNeGc1Ui1fMERnUUlmRTlLaC1RT2lxS2pFNXVTUFltR09SRFFBYkw5YUdKY3cycWVBc0xvOEliRWNXSElFMlJFQUVNdkZLc09qbGRqd2hLRnBlM3FtaVhwVmszNEV3SEx5Qm0yLUtvRTdCaTZPYXJ3WXNiMi1mVHM2RjRoQzBJZnBpR3YzWEZsdjFQaUF2Ry1pMWV0bmpZek5ZQVNkUFE?oc=5",
-          "source": "Yahoo股市",
-          "published_hkt": "06/11 16:50",
           "related": []
         }
       ]
@@ -193,8 +195,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-11 18:48 HKT",
+      "updated_at": "2026-06-11 19:16 HKT",
       "news": [
+        {
+          "title": "AI概念股漲多引發獲利了結外資連兩週賣超日股、撤出7010億日圓| 優分析",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wSWExeERlWWN5UGI1T1RscUoxNGlONy1FZ3cybm5ySGJhb3VOZUdZNy04OWxrd2RUVkl3bF9UaDUyOHJPdnlOR203LUpnamVmOFhjVmJB?oc=5",
+          "source": "LINE TODAY",
+          "published_hkt": "06/11 18:42",
+          "related": []
+        },
         {
           "title": "《日股》日經微漲、TOPIX收跌，權值股承壓",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUElkSzN2UjU4MUlzQnlrN1h6ZmNlMmVpcUdhaDdJaGtINURNLWtBTGt4YkZ6RFE1U2k3b0FlWWppWllEVXhDMnNXOG11dHlGOWdKRUhJbGYzRFpmQWh2TnE0TlYxMUUyWUlWYlZuVl9xSl9tcWVFalY0LXVVdWpVckpoOTJMblB4OVRSS3lMNkJmUQ?oc=5",
@@ -210,22 +219,23 @@
           "source": "鉅亨號",
           "published_hkt": "06/11 16:42",
           "related": []
-        },
-        {
-          "title": "逢低買盤支撐 日經指數微幅收高",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxONkVvcTdEZTc4ZUwzT19HdlRXR0stQlVyOEVyMGJBRzVpTVFocjFsbWw0NnItZTMyWnFfc0ZmLUFGXzFwUmZPX1c4RFVldWZnYWRRMjJZQWdOeTNZdG9JX3Rid3l4RmE0Z1NCeThNdG9SMVI4VEhULWJfVl9PN3QzR3lmMkRtV3VFOVZCb285Z3I0dG5FNmF5dERXc0pCMU5MckZER3RmanFHOUUtX1FkNERsM1ZMZjlwSXc3SUp0ZWVGNFFIMEtrS2VZdjNSZDJYZk1wZXdfekl2UjRyV2hQMWcxWEdGZEpueV9VQW1MMDRNTll0SS1RUTk5WVZUV0JBbTJhWW11N3FxcHRTaGc?oc=5",
-          "source": "MSN",
-          "published_hkt": "06/11 16:13",
-          "related": [
-            "^N225"
-          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-06-11 18:48 HKT",
+    "updated_at": "2026-06-11 19:16 HKT",
     "news": [
+      {
+        "title": "比特幣上漲，守穩於以太坊和Solana無法突破的關鍵技術位之上",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMnhHWndIR3hmRXM2dzlpVXRQUjVaRjBWc2RnQ2tYNkxrUTRzREZKZVZ0cVF6WHFURGFjd1lHYndWNXNKTndpemVEbkttMzhscW5hUTR4ZlVURDBOR0FURkJza2VQTkJ1M2h3aTNOc1BNcmFib1hzaVRUQnJ4Qmk2LTJGaEgtNU5YTnpzT25iU0M0RXA3cTZWQ2s4S3VMQzRGYjFXb3N5eVlSb28?oc=5",
+        "source": "富途牛牛",
+        "published_hkt": "06/11 18:45",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
       {
         "title": "比特幣大跌後迎支撐？日本監管新規爲ETF發行掃清障礙，引資流入有望“築底” 作者 智通財經",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5YlU1bk51UktSX0o0Y0gyRDRfLUlFQnhGNTNVVUVCZkpEaDJjRTlVRW04czhHZS16akRFTkJuTG1EblRkNG5rOHFtN1I1a0FtMjc0YnVNd2MwQVZ2OTBWNnl2MHZBcXZlUGlkLXVBZGw?oc=5",
@@ -243,13 +253,6 @@
         "related": [
           "BTC"
         ]
-      },
-      {
-        "title": "Bitwise ：穩定幣與代幣化為當前關注焦點 BTC不再受青睞",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrQklRMmVpSG1POW9NRG9MS2J3R01iVm9oTDMxZm9BMmppeXFTVWoyY09qYl9nZ0J5WlBBN0NCRzhEVk9IUC1tYjlrVGV3MW8?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "06/11 10:30",
-        "related": []
       }
     ]
   }

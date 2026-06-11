@@ -228,32 +228,29 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-11 20:44 HKT",
+    "updated_at": "2026-06-12 00:57 HKT",
     "news": [
       {
-        "title": "比特幣上漲，守穩於以太坊和Solana無法突破的關鍵技術位之上",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMnhHWndIR3hmRXM2dzlpVXRQUjVaRjBWc2RnQ2tYNkxrUTRzREZKZVZ0cVF6WHFURGFjd1lHYndWNXNKTndpemVEbkttMzhscW5hUTR4ZlVURDBOR0FURkJza2VQTkJ1M2h3aTNOc1BNcmFib1hzaVRUQnJ4Qmk2LTJGaEgtNU5YTnpzT25iU0M0RXA3cTZWQ2s4S3VMQzRGYjFXb3N5eVlSb28?oc=5",
-        "source": "富途牛牛",
-        "published_hkt": "06/11 18:45",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
-      },
-      {
-        "title": "比特幣大跌後迎支撐？日本監管新規爲ETF發行掃清障礙，引資流入有望“築底” 作者 智通財經",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5YlU1bk51UktSX0o0Y0gyRDRfLUlFQnhGNTNVVUVCZkpEaDJjRTlVRW04czhHZS16akRFTkJuTG1EblRkNG5rOHFtN1I1a0FtMjc0YnVNd2MwQVZ2OTBWNnl2MHZBcXZlUGlkLXVBZGw?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "06/11 16:48",
+        "title": "傳統資金大撤退！Glassnode：比特幣現貨 ETF 交易量暴跌 78%、數位資產財庫概念股成交量腰斬",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa2RsaFZDbVlxalNUc2Y4dk4tMmRXa0xjcmxIQXhyeUVQVzdYa0hkX2JlcHI2bGNaaWZxdVVpNkVNRzZPYWdtbTVEZEZyMW9ERnpLUTIxY3FsTTk1anRFTEgtTjlpMHJZRi1STTk1ZDlOU2RfQ1M0YjROWlE5R1dGNjFRTzZPV29PYUxzcnlLQXZBX1cyOFoyXzVR?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "06/11 22:58",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "比特幣跌進熊市深估值區，恐懼指數僅剩 9，6 月 FOMC 前最艱難時刻或將到來",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSDdHSExsQkthdV9mck1CVGczX3FqM2Zlc2lWWFdQM0JtR21Wek1nRUU4UVN0bDlCUUpONnN5blJoN2YtQWhxUUkzRERDMllheVRBN0ozSE1ZcjFvZGZVU0FHekprQ2hjcnpjS3h6SkNWUjQ4WF95UV9KX1FPakpJMFNrc1BRd3VTcFBPcTMxOVQ0c3V5S2xoUkFoV3o5Qk0?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "06/11 13:02",
+        "title": "美國加密貨幣監管將定調？CLARITY法案進入最後攻防",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iQ0lKX2JiS3pNT0NGRUt4elljN2hUNTNoSEZLNjQ2Z1BVM2djWGVaMUhJSExzUFRCaF9pbWM0TmotVWdSa1RRMXY1WTlHcEswcnc?oc=5",
+        "source": "蕃新聞",
+        "published_hkt": "06/11 22:54",
+        "related": []
+      },
+      {
+        "title": "對話摩根士丹利高層：華爾街並未排斥比特幣，只是在等待時機",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa1RTSVppaFVmaVpJM3psdW9BblYyQ1R6NGlyeldCZElzeGhvaFVxSmJTYWh1RFRodGhTcjRPU21tdWFWbTVFVFlQUU0yS3J1SURwMnlXTU93OG5KME1ETFlBS0hHSGp4M3RYZEltbDJfdFFUMDlkODN0THVuS0RWZ0xWdjE2dw?oc=5",
+        "source": "PANews",
+        "published_hkt": "06/11 22:31",
         "related": [
           "BTC"
         ]

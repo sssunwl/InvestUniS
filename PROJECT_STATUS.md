@@ -1,6 +1,6 @@
 # InvestUni 投資學堂 — 專案進度
 
-> 最後更新：2026-06-10
+> 最後更新：2026-06-12
 
 ---
 
@@ -18,7 +18,7 @@ Suniverse 旗下投資教育平台，由 Sterling 主導，Steve 技術協助。
 
 ## 完成
 
-### 網站 index.html（7 個 Tab）
+### 網站 index.html（9 個 Tab）
 
 | Tab | 內容 | 狀態 |
 |-----|------|------|
@@ -29,10 +29,13 @@ Suniverse 旗下投資教育平台，由 Sterling 主導，Steve 技術協助。
 | ⚡ 期權 | ① 四種核心玩法 + 小學生比喻、③ 策略選擇指引 + 13種進階策略互動選擇器 + Canvas 損益圖、④ 黃金窗口、⑤ 操盤 SOP | ✅ |
 | 🏛 債券 | 6大術語、利率反向關係比喻、5種類型（政府債/企業債/垃圾債/市政債/TIPS）、風險說明 | ✅ |
 | 📋 合約 | 期貨/CFD/遠期合約/互換，各附小學生比喻，散戶/機構適用說明 | ✅ |
+| 📊 高息ETF | 原理說明（Covered Call/NAV侵蝕/ROC稅務）、4項風險提示、16支 ETF 即時參考表（每日 GH Actions 更新） | ✅ |
+| 🧮 股息計算器 | 選 ETF 自動填入現價，輸入入場/金額/月數/離場，輸出股數/股息/資本損益/總回報/年化回報 | ✅ |
 
 ### 自動化系統
 
-- **GitHub Actions**：每日定時抓取新聞並 commit（`chore: news update`）
+- **GitHub Actions（新聞）**：每日定時抓取新聞並 commit（`chore: news update`）
+- **GitHub Actions（ETF）**：每日 13:00 HKT 抓取 16 支高息 ETF 資料 → `data/etf_data.json`（`chore: etf data update`）
 - **Telegram Bot**：4次/天推送
   - 08:00 HKT — 美股夜盤後
   - 09:00 HKT — 亞洲盤前
@@ -51,7 +54,7 @@ Suniverse 旗下投資教育平台，由 Sterling 主導，Steve 技術協助。
 
 ## 目前狀態
 
-- 網站正常運行，內容已更新至最新版（7 Tab）
+- 網站正常運行，內容已更新至最新版（9 Tab，新增 🔧 工具群組）
 - TG Bot 正在運行，08:00 / 09:00 HKT 基本準時
 - 17:00 / 21:30 HKT 通知有系統性延遲（詳見問題/風險）
 

@@ -631,6 +631,48 @@
     .cal-text strong { color:var(--dark); }
     @media (max-width:640px) { .signal-grid { grid-template-columns:1fr; } }
 
+    /* ── Tools Tab: ETF Table ── */
+    .etf-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; margin-top: 10px; }
+    .etf-table { width: 100%; border-collapse: collapse; font-size: 12px; min-width: 700px; }
+    .etf-table th { background: var(--dark); color: var(--gold); padding: 9px 10px; text-align: left; font-size: 11px; font-weight: 700; white-space: nowrap; }
+    .etf-table td { padding: 9px 10px; border-bottom: 1px solid var(--border); vertical-align: middle; white-space: nowrap; }
+    .etf-table tr:last-child td { border-bottom: none; }
+    .etf-table tr:hover td { background: var(--cream); }
+    .etf-ticker { font-weight: 800; color: var(--dark); font-size: 13px; }
+    .etf-name { font-size: 11px; color: var(--mid); white-space: normal; max-width: 160px; line-height: 1.4; }
+    .etf-freq-badge { display: inline-block; font-size: 10px; font-weight: 700; padding: 2px 7px; border-radius: 10px; }
+    .freq-weekly  { background: #E3F2FD; color: #1565C0; }
+    .freq-monthly { background: var(--green-bg); color: var(--green); }
+    .freq-quarterly { background: var(--yellow-bg); color: var(--yellow); }
+    .health-badge { display: inline-block; font-size: 13px; line-height: 1; }
+    .etf-yield { font-weight: 700; color: var(--green); }
+    .etf-price-up { color: var(--green); font-size: 11px; }
+    .etf-price-dn { color: var(--red); font-size: 11px; }
+    .etf-tax { font-size: 10px; color: var(--mid); white-space: normal; max-width: 130px; line-height: 1.4; }
+    .etf-updated { font-size: 10px; color: #B8A880; font-style: italic; margin-top: 8px; text-align: right; }
+    .nav-erosion { font-size: 10px; color: var(--red); font-weight: 700; }
+
+    /* ── Tools Tab: Calculator ── */
+    .calc-wrap { background: #fff; border: 1px solid var(--border); border-radius: 12px; padding: 20px; max-width: 520px; }
+    .calc-row { display: flex; flex-direction: column; gap: 4px; margin-bottom: 14px; }
+    .calc-label { font-size: 12px; font-weight: 700; color: var(--dark); }
+    .calc-hint { font-size: 10px; color: #B8A880; margin-top: 1px; }
+    .calc-input { padding: 9px 12px; border: 1.5px solid var(--border); border-radius: 8px; font-size: 14px; color: var(--dark); background: var(--warm-white); width: 100%; transition: border-color 0.15s; }
+    .calc-input:focus { outline: none; border-color: var(--gold); }
+    .calc-btn { width: 100%; padding: 12px; background: var(--gold); border: none; border-radius: 8px; font-size: 14px; font-weight: 700; color: var(--dark); cursor: pointer; transition: background 0.15s; margin-top: 4px; }
+    .calc-btn:hover { background: var(--gold-light); }
+    .calc-result-wrap { margin-top: 18px; background: var(--cream); border: 1px solid var(--border); border-radius: 10px; padding: 16px; display: none; }
+    .calc-result-wrap.show { display: block; animation: fadeIn 0.2s ease; }
+    .calc-result-title { font-size: 12px; font-weight: 700; color: var(--mid); margin-bottom: 10px; letter-spacing: 1px; text-transform: uppercase; }
+    .calc-result-row { display: flex; justify-content: space-between; align-items: center; padding: 7px 0; border-bottom: 1px solid var(--border); }
+    .calc-result-row:last-child { border-bottom: none; }
+    .calc-result-label { font-size: 12px; color: var(--mid); }
+    .calc-result-val { font-size: 14px; font-weight: 700; color: var(--dark); }
+    .calc-result-val.positive { color: var(--green); }
+    .calc-result-val.negative { color: var(--red); }
+    .calc-total { font-size: 16px !important; }
+    .calc-disclaimer { font-size: 10px; color: #B8A880; margin-top: 10px; line-height: 1.6; }
+
     /* ── Footer ── */
     footer { background: var(--dark); color: #A09070; text-align: center; font-size: 11px; padding: 16px; line-height: 1.8; }
     footer strong { color: var(--gold); }
@@ -659,7 +701,12 @@
     <button class="tab-main-btn active" id="main-home" onclick="goHome()">🏠 首頁</button>
     <button class="tab-main-btn" id="main-basic" onclick="toggleGroup('basic')">📚 基本 ▾</button>
     <button class="tab-main-btn" id="main-advanced" onclick="toggleGroup('advanced')">⚡ 高階 ▾</button>
+    <button class="tab-main-btn" id="main-tools" onclick="toggleGroup('tools')">🔧 工具 ▾</button>
   </nav>
+  <div class="tab-subnav" id="sub-tools">
+    <button class="tab-sub-btn" id="sub-etf"  onclick="switchSub('etf','tools')">📊 高息ETF</button>
+    <button class="tab-sub-btn" id="sub-calc" onclick="switchSub('calc','tools')">🧮 股息計算器</button>
+  </div>
   <div class="tab-subnav" id="sub-basic">
     <button class="tab-sub-btn" id="sub-glossary" onclick="switchSub('glossary','basic')">📖 名詞</button>
     <button class="tab-sub-btn" id="sub-volume"   onclick="switchSub('volume','basic')">📊 成交量</button>
@@ -1745,6 +1792,115 @@
   </div>
 
 
+  <!-- ═══════════════════════════════════════
+       TAB: 高息ETF
+  ═══════════════════════════════════════ -->
+  <div id="tab-etf" class="tab-panel">
+    <div class="section-intro">
+      高息ETF（High Dividend Yield ETF）透過賣出持股的<strong>掩護性認購期權（Covered Call）</strong>，將期權溢價轉換為定期派息。派息高達年化 10-200%+，但代價是放棄股價大幅上漲的空間，且部分 ETF 面臨<strong>淨值侵蝕（NAV Erosion）</strong>風險。適合追求穩定現金流、接受以股價換取派息的投資者。
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">① 運作原理</div>
+      <div class="cards-grid">
+        <div class="card"><div class="card-header"><span class="card-icon">📋</span><span class="card-title">掩護性認購期權</span></div><p class="card-desc">ETF 持有標的資產（如 NVDA 股票），同時賣出<strong>認購期權（Call）</strong>給市場。期權買方支付溢價，ETF 收取這筆溢價並分配給持有人——這就是「派息」的來源。</p></div>
+        <div class="card"><div class="card-header"><span class="card-icon">⚖️</span><span class="card-title">利潤上限換收益</span></div><p class="card-desc">賣出 Call 的代價是：當股價大漲時，ETF 的獲利被期權行使所限制。比喻：你持有 NVDA，同意「若漲到 $200 就以 $200 賣出」，換取現在的期權費。你拿了現金，但放棄了 $200+ 的漲幅。</p></div>
+        <div class="card"><div class="card-header"><span class="card-icon">📉</span><span class="card-title">NAV 侵蝕風險</span></div><p class="card-desc">若標的股票長期下跌，ETF 淨值隨之下滑，而高派息只是「以本金換現金」。派息率 200% 聽起來驚人，但若股價每年跌 60%，實際上是在虧損中兌現。<strong>需計算淨回報（派息 - 淨值跌幅）。</strong></p></div>
+        <div class="card"><div class="card-header"><span class="card-icon">🧾</span><span class="card-title">ROC 稅務優勢</span></div><p class="card-desc">YieldMax 系列大多以<strong>資本返還（Return of Capital / ROC）</strong>方式分類派息，在美國稅務上不計入當年應稅收入（遞延至賣出時計稅）。非美國居民可能因此豁免 30% 預扣稅，但建議諮詢稅務顧問。</p></div>
+      </div>
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">⚠️ 重要風險提示</div>
+      <div class="cards-grid">
+        <div class="card" style="border-left:3px solid var(--red)"><div class="card-header"><span class="card-icon">🔥</span><span class="card-title">高波動標的風險倍增</span></div><p class="card-desc">MSTY（掛鉤 MSTR）、CONY（掛鉤 COIN）等以加密貨幣相關股票為標的，波動性極高。雖然期權溢價高（派息率 200%+），但淨值可在一年內跌去 60-70%。<strong>絕不適合保守投資者。</strong></p></div>
+        <div class="card" style="border-left:3px solid var(--orange)"><div class="card-header"><span class="card-icon">💸</span><span class="card-title">派息不代表盈利</span></div><p class="card-desc">每次派息後，ETF 股價通常下調相應金額（除息效應）。若每月收到 $2 派息，但股價同時跌了 $3，你其實是在虧錢。<strong>請同時追蹤股價變動，用「淨回報」評估真實表現。</strong></p></div>
+        <div class="card" style="border-left:3px solid var(--yellow)"><div class="card-header"><span class="card-icon">📆</span><span class="card-title">派息金額不固定</span></div><p class="card-desc">高息 ETF 的派息金額每次不同，取決於市場波動率（IV）。市場平靜時（低 VIX），期權溢價低，派息金額可能大幅縮水。<strong>不要按最高派息規劃現金流。</strong></p></div>
+        <div class="card" style="border-left:3px solid var(--blue)"><div class="card-header"><span class="card-icon">🔁</span><span class="card-title">再投資還是提現？</span></div><p class="card-desc">若長期持有，考慮將派息再投資（買回更多份額）以對抗 NAV 侵蝕。若市場轉差，可改為提現作緩衝。部分平台支援<strong>自動股息再投資計劃（DRIP）</strong>。</p></div>
+      </div>
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">📊 高息ETF 參考表 <span style="font-size:11px;font-weight:400;color:var(--mid)">（資料每日自動更新）</span></div>
+      <div class="etf-table-wrap">
+        <table class="etf-table" id="etf-ref-table">
+          <thead>
+            <tr>
+              <th>代號</th>
+              <th>名稱</th>
+              <th>市場</th>
+              <th>派息</th>
+              <th>近期派息/股</th>
+              <th>現價</th>
+              <th>年化殖利率</th>
+              <th>1年價格</th>
+              <th>健康度</th>
+              <th>稅務備注</th>
+            </tr>
+          </thead>
+          <tbody id="etf-table-body">
+            <tr><td colspan="10" style="text-align:center;color:var(--mid);padding:20px">載入中…</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="etf-updated" id="etf-updated"></div>
+      <div style="font-size:10px;color:var(--mid);margin-top:8px;line-height:1.7">
+        健康度說明：🟢 = 年化殖利率足以覆蓋淨值跌幅（整體正回報）｜🟡 = 接近盈虧平衡（±5%）｜🔴 = 淨值跌幅大於派息（整體負回報）<br>
+        ⚠️ 標記 = 1年價格跌幅超過 30%，雖目前收益可覆蓋，仍屬高風險。所有數據僅供參考，不構成投資建議。
+      </div>
+    </div>
+  </div>
+
+
+  <!-- ═══════════════════════════════════════
+       TAB: 股息計算器
+  ═══════════════════════════════════════ -->
+  <div id="tab-calc" class="tab-panel">
+    <div class="section-intro">
+      輸入你的入場條件，計算器會根據 ETF 最新資料估算持有期間的股息收入、資本損益及整體回報。<strong>所有結果均為估算，實際派息金額會因市況波動而改變。</strong>
+    </div>
+
+    <div class="calc-wrap">
+      <div class="calc-row">
+        <label class="calc-label" for="calc-ticker">選擇 ETF</label>
+        <select class="calc-input" id="calc-ticker" onchange="onCalcTickerChange()">
+          <option value="">載入中…</option>
+        </select>
+      </div>
+      <div class="calc-row">
+        <label class="calc-label" for="calc-price">入場價格 <span id="calc-currency-label" style="color:var(--gold);font-size:11px"></span></label>
+        <input class="calc-input" type="number" id="calc-price" placeholder="輸入你的入場價格" min="0.01" step="0.01">
+        <div class="calc-hint" id="calc-price-hint"></div>
+      </div>
+      <div class="calc-row">
+        <label class="calc-label" for="calc-amount">投入金額 <span id="calc-currency-label2" style="color:var(--gold);font-size:11px"></span></label>
+        <input class="calc-input" type="number" id="calc-amount" placeholder="例如 10000" min="1" step="1">
+      </div>
+      <div class="calc-row">
+        <label class="calc-label" for="calc-months">持有期間（月）</label>
+        <input class="calc-input" type="number" id="calc-months" placeholder="例如 12" min="1" max="120" step="1">
+      </div>
+      <div class="calc-row">
+        <label class="calc-label" for="calc-exit">預計離場價格 <span id="calc-currency-label3" style="color:var(--gold);font-size:11px"></span></label>
+        <input class="calc-input" type="number" id="calc-exit" placeholder="輸入預計離場價格" min="0.01" step="0.01">
+        <div class="calc-hint">若不確定，可參考現價或輸入保守估計</div>
+      </div>
+      <button class="calc-btn" onclick="runCalc()">📊 計算回報</button>
+
+      <div class="calc-result-wrap" id="calc-result-wrap">
+        <div class="calc-result-title">計算結果</div>
+        <div class="calc-result-row"><span class="calc-result-label">可購入股數</span><span class="calc-result-val" id="res-shares"></span></div>
+        <div class="calc-result-row"><span class="calc-result-label">預計收到股息</span><span class="calc-result-val positive" id="res-div"></span></div>
+        <div class="calc-result-row"><span class="calc-result-label">資本損益</span><span class="calc-result-val" id="res-cap"></span></div>
+        <div class="calc-result-row"><span class="calc-result-label">總回報（$）</span><span class="calc-result-val calc-total" id="res-total"></span></div>
+        <div class="calc-result-row"><span class="calc-result-label">總回報（%）</span><span class="calc-result-val calc-total" id="res-pct"></span></div>
+        <div class="calc-result-row"><span class="calc-result-label">年化回報（%）</span><span class="calc-result-val calc-total" id="res-ann"></span></div>
+        <div class="calc-disclaimer" id="res-note"></div>
+      </div>
+    </div>
+  </div>
+
+
 </main>
 
 <footer>
@@ -2192,11 +2348,144 @@
     panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
   }
 
+  // ── ETF Data ──
+  let etfData = {};
+
+  async function loadETFData() {
+    try {
+      const r = await fetch('./data/etf_data.json?v=' + Date.now());
+      if (!r.ok) return;
+      const json = await r.json();
+      etfData = json.tickers || {};
+      renderETFTable(json);
+      populateCalcDropdown();
+    } catch(e) { /* data not yet available */ }
+  }
+
+  function renderETFTable(json) {
+    const tbody = document.getElementById('etf-table-body');
+    const updated = document.getElementById('etf-updated');
+    if (!tbody) return;
+    if (updated && json.updated) updated.textContent = '資料更新：' + json.updated;
+
+    const rows = Object.entries(json.tickers || {}).map(([ticker, d]) => {
+      const freqCls = d.freq === 'weekly' ? 'freq-weekly' : d.freq === 'monthly' ? 'freq-monthly' : 'freq-quarterly';
+      const yieldStr = d.annual_yield ? (d.annual_yield * 100).toFixed(1) + '%' : '--';
+      const priceChgStr = d.price_chg_1y != null
+        ? `<span class="${d.price_chg_1y >= 0 ? 'etf-price-up' : 'etf-price-dn'}">${d.price_chg_1y >= 0 ? '▲' : '▼'}${Math.abs(d.price_chg_1y * 100).toFixed(1)}%</span>`
+        : '--';
+      const healthIcon = d.health === 'green' ? '🟢' : d.health === 'yellow' ? '🟡' : '🔴';
+      const erosionWarn = (d.price_chg_1y != null && d.price_chg_1y < -0.30) ? '<br><span class="nav-erosion">⚠️ 高NAV耗損</span>' : '';
+      const currency = d.currency || 'USD';
+      const priceStr = d.price ? `${currency === 'HKD' ? 'HK$' : '$'}${d.price.toFixed(3)}` : '--';
+      const recentDivStr = d.recent_div ? `${currency === 'HKD' ? 'HK$' : '$'}${d.recent_div.toFixed(4)}` : '--';
+
+      return `<tr>
+        <td><span class="etf-ticker">${esc(ticker)}</span></td>
+        <td><span class="etf-name">${esc(d.name || '')}</span></td>
+        <td>${esc(d.market || '')}</td>
+        <td><span class="etf-freq-badge ${freqCls}">${esc(d.freq_cn || d.freq || '--')}</span></td>
+        <td>${recentDivStr}</td>
+        <td>${priceStr}</td>
+        <td><span class="etf-yield">${yieldStr}</span></td>
+        <td>${priceChgStr}</td>
+        <td><span class="health-badge">${healthIcon}</span>${erosionWarn}</td>
+        <td><span class="etf-tax">${esc(d.tax_note || '')}</span></td>
+      </tr>`;
+    }).join('');
+
+    tbody.innerHTML = rows || '<tr><td colspan="10" style="text-align:center;color:var(--mid);padding:20px">暫無資料</td></tr>';
+  }
+
+  function populateCalcDropdown() {
+    const sel = document.getElementById('calc-ticker');
+    if (!sel || !Object.keys(etfData).length) return;
+    sel.innerHTML = '<option value="">— 選擇 ETF —</option>' +
+      Object.entries(etfData).map(([ticker, d]) =>
+        `<option value="${esc(ticker)}">${esc(ticker)} — ${esc(d.name || '')}</option>`
+      ).join('');
+  }
+
+  function onCalcTickerChange() {
+    const ticker = document.getElementById('calc-ticker').value;
+    const d = etfData[ticker];
+    const priceInput = document.getElementById('calc-price');
+    const exitInput  = document.getElementById('calc-exit');
+    const hint       = document.getElementById('calc-price-hint');
+    const currency   = d ? (d.currency === 'HKD' ? 'HKD' : 'USD') : '';
+    const sym        = currency === 'HKD' ? 'HK$' : '$';
+    ['calc-currency-label','calc-currency-label2','calc-currency-label3'].forEach(id => {
+      const el = document.getElementById(id);
+      if (el) el.textContent = currency ? `(${currency})` : '';
+    });
+    if (d && d.price) {
+      priceInput.value = d.price;
+      exitInput.value  = d.price;
+      hint.textContent = `現價：${sym}${d.price.toFixed(3)}`;
+    } else {
+      hint.textContent = '';
+    }
+    document.getElementById('calc-result-wrap').classList.remove('show');
+  }
+
+  function runCalc() {
+    const ticker  = document.getElementById('calc-ticker').value;
+    const entry   = parseFloat(document.getElementById('calc-price').value);
+    const amount  = parseFloat(document.getElementById('calc-amount').value);
+    const months  = parseFloat(document.getElementById('calc-months').value);
+    const exit    = parseFloat(document.getElementById('calc-exit').value);
+
+    if (!ticker || isNaN(entry) || entry <= 0 || isNaN(amount) || amount <= 0 ||
+        isNaN(months) || months <= 0 || isNaN(exit) || exit <= 0) {
+      alert('請填寫所有欄位，數值必須大於 0');
+      return;
+    }
+
+    const d = etfData[ticker] || {};
+    const currency = d.currency === 'HKD' ? 'HKD' : 'USD';
+    const sym = currency === 'HKD' ? 'HK$' : '$';
+    const shares = Math.floor(amount / entry);
+    const annualDiv = (d.recent_div || 0) * (d.divs_per_year || 12);
+    const divPerMonth = annualDiv / 12;
+    const totalDiv  = Math.round(shares * divPerMonth * months * 100) / 100;
+    const capitalPnL = Math.round((exit - entry) * shares * 100) / 100;
+    const totalReturn = Math.round((totalDiv + capitalPnL) * 100) / 100;
+    const totalPct = amount > 0 ? (totalReturn / amount) : 0;
+    const annualized = months > 0 ? (Math.pow(1 + totalPct, 12 / months) - 1) : 0;
+
+    const fmt = (v, s) => `${s}${Math.abs(v).toLocaleString('en-US', {minimumFractionDigits:2,maximumFractionDigits:2})}`;
+    const fmtPct = v => `${v >= 0 ? '+' : '−'}${Math.abs(v * 100).toFixed(2)}%`;
+    const cls = v => v >= 0 ? 'positive' : 'negative';
+    const sign = v => v >= 0 ? '+' : '−';
+
+    document.getElementById('res-shares').textContent = `${shares.toLocaleString()} 股`;
+    document.getElementById('res-div').textContent    = `+${fmt(totalDiv, sym)}`;
+    const capEl = document.getElementById('res-cap');
+    capEl.textContent  = `${sign(capitalPnL)}${fmt(capitalPnL, sym)}`;
+    capEl.className    = `calc-result-val ${cls(capitalPnL)}`;
+    const totEl = document.getElementById('res-total');
+    totEl.textContent  = `${sign(totalReturn)}${fmt(totalReturn, sym)}`;
+    totEl.className    = `calc-result-val calc-total ${cls(totalReturn)}`;
+    const pctEl = document.getElementById('res-pct');
+    pctEl.textContent  = fmtPct(totalPct);
+    pctEl.className    = `calc-result-val calc-total ${cls(totalPct)}`;
+    const annEl = document.getElementById('res-ann');
+    annEl.textContent  = fmtPct(annualized);
+    annEl.className    = `calc-result-val calc-total ${cls(annualized)}`;
+
+    document.getElementById('res-note').textContent =
+      `以 ${d.freq_cn || '月息'} ETF ${ticker} 計算，採用近期每股派息 ${sym}${(d.recent_div||0).toFixed(4)} × ${d.divs_per_year||12} 次/年估算，` +
+      `實際派息金額隨市場波動而改變。此計算不考慮稅務、手續費及再投資效應。`;
+
+    document.getElementById('calc-result-wrap').classList.add('show');
+  }
+
   // ── Init ──
   updateClock();
   setInterval(updateClock, 1000);
   loadNews();
   loadStocks();
+  loadETFData();
   initStratGrid();
   renderUpcomingHolidays();
 </script>

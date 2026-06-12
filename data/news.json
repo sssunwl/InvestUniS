@@ -230,11 +230,11 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-12 13:16 HKT",
+    "updated_at": "2026-06-12 13:27 HKT",
     "news": [
       {
         "title": "日本眾議院通過法案！加密貨幣擬列「金融商品」，稅率從 55% 降至",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SYW9oZXM2TWFJdGJKM05oc0lrNk92d01EYkdQcnJ2VlBTSDNnVEdGTDRfUHlheGNrTVNFV2ZSUjNwZlZaSEVnSTJVOA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PNjU2SzVLblJXVTJlRGxDckRIMW5kVHZSUFBXNVdFcWdqMW1mNGpEelllaHU4VEVid1cwdkJreTNEMGJSOU85aEMtTVRqWGM?oc=5",
         "source": "news.cnyes.com",
         "published_hkt": "06/12 12:00",
         "related": []
@@ -247,13 +247,11 @@
         "related": []
       },
       {
-        "title": "Deribit：约25.1亿美元的比特币和以太坊期权将于今日到期",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xSWxYWm5wRXphZGZzbEtOelZqYVNQa0JCWGNLbGdUc01yb3NTQWlTMUVDbmdwVVZ2UzZPd0FKS01HZEhhckt6VlVPX1ZUaTdFYkFLZXpoY3FBdWlCc3lId0Z5c0pSdw?oc=5",
-        "source": "TradingView",
-        "published_hkt": "06/12 11:11",
-        "related": [
-          "ETH"
-        ]
+        "title": "Korea Republic vs Czechia",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55VHFjTkM2dnpRLXpHNEkwclNzY25nZ0FsVE1MTTIwaGFvQW1KTk5xN2pFUGVYZ0JQUFEza0pwaXZBN2ROQmpHQXBmZ2lVcFdSal9ZN0xodG1fUWVtck5OR1VOTHdQbzUtVC1HazNreUdXQVVRbWEzZE85QQ?oc=5",
+        "source": "Coinbase",
+        "published_hkt": "06/12 11:25",
+        "related": []
       }
     ]
   }

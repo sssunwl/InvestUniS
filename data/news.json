@@ -224,8 +224,22 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-13 00:23 HKT",
+    "updated_at": "2026-06-13 00:32 HKT",
     "news": [
+      {
+        "title": "SHIB 合約成交額在價格反彈期間突破 1.4 億美元",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV1RBbkpxa183U1JWSUNXOGRRcGlBQlNCTVEtMllrTHI4TUdMTGhsSC1vWUN5VGlkUVBhN0VSYU9PZHAtaG1PRG9BWlJ2QXJDX1dDcEFWbU5CUV9LcmRGb2laOTlDNU5RU1ZKUS02anVFSHNRWkY4YlNNdEJRV2VTMTc5RnV0UDhJUEpsQTQ1dFBKa2Y0R1p3cVNkMHc?oc=5",
+        "source": "KuCoin",
+        "published_hkt": "06/13 00:27",
+        "related": []
+      },
+      {
+        "title": "ETH 交易所餘額創歷史新低，外媒預測第三季度將反彈",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMTlYX3NiTmZsWlROQ0t4Qk90NDV3eW5uXzY0Rjg3VWl3Y0I2YTNFWE5JcWJtaFRfcHZ5cDNCNWVYRWNpSmpfaTNkdXZzTHZReVhMeE5uQUZRVHVNMjlKSjIyM2c1elpZMGMxeUs5V054SjZ1NW8zMmlsWmxRU0pxa09TWk5RRHNSeVY2c2dYQkpBdHFDRm5nd1BtNkVSSF9LeklUWXM3bkdnVVpuYUdpSnl3?oc=5",
+        "source": "KuCoin",
+        "published_hkt": "06/13 00:27",
+        "related": []
+      },
       {
         "title": "Bloomberg分析師：儘管出現資金流出，大多數比特幣ETF投資者仍選擇持有",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSWFlWTZSTk4zWVV3M1VlQkhYdHFSN19zcDZaenFDR1l0Q09falB2R3VsQkZEUzZBOWVOVTV3N3VfdHNmMmRRakJ1NDZTbmNoaFByV1Z2S1dKdm9SSUJDUDdxSXg0SkpqVXRMdEtDa0ZETXdybHk3TWlLeEs4dHhFSVlUbnljYjZhcjcyS3NlRklFMzNyT2JMZjctUTdERmEyeUo2aTdJVkNlZmM3ZXc?oc=5",
@@ -234,22 +248,6 @@
         "related": [
           "BTC"
         ]
-      },
-      {
-        "title": "Michael Saylor 在 BTC Prague 上澄清了策略中出售比特幣的可能性",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa241Z3RTX041bUZrZVFVaUtPM3c1bnJOTnAybzV1c3B2cEcwWGplblVOUEQ2X0hzRm5fT3dacmkxcWtuUTAwNjNLbzhvaFF5Q3ZRaVVyWURSUDFRQmZoMWF6YlBKTXhSaXd1OWIwc1FCTDVSYUlHQkZvV0JmV0dDUUtQTVdYMTNNSGRLZzhsYUhKZkcxWDk5TEt4dTROS2RfZmhqb0pxajFpN3dwejR5R0cyaGNDUFRsMkhv?oc=5",
-        "source": "KuCoin",
-        "published_hkt": "06/12 23:35",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "Securitize 將 STAC 擴展至 Solana，Ethena 計劃投入 2.5 億美元於 RWA",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeTQwNGV5bDRFMHA1a2hoTUVWcFVNcnNJYWw4bm93S3lTbUhtSnp4aUF6STVIUUVwMWVJaWoydW1GMmFIT3FQak15a05scDVsQmN6TGRXRXBaQUVlU0FoNndlNnh2ekZHMHZYc0hETklGa0tjMXFibTE0QVNxNW9vNlZkQUtfS0ZWdjhkRWJKTERPS0RCT1pzVG9KSVgyVlRHd3VubTlOY3lKbkhv?oc=5",
-        "source": "KuCoin",
-        "published_hkt": "06/12 23:29",
-        "related": []
       }
     ]
   }

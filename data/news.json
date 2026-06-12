@@ -224,33 +224,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-12 20:17 HKT",
+    "updated_at": "2026-06-13 00:23 HKT",
     "news": [
       {
-        "title": "f2pool 創辦人王純從幣安再次提領 1.5 萬枚 ETH，看好以太坊反彈？",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWDdkeTJFV3NFVmlid0h6LXp1S2ptN2xFWGdsS2psMWRIUUNTWmdJT3pvRFBJXzZISi1iWTdQVHZrdUNTUE0tUHo4Q2VjNG5UcG1sVWlLUk1aai1ucGZzU2d0OUtVQU1CeUI4OWdUVXBvUlV1c3IzSWVzcDlNWVUyQzh6NnE4QQ?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "06/12 20:01",
-        "related": [
-          "ETH",
-          "BNB"
-        ]
-      },
-      {
-        "title": "全球加密貨幣詐騙行動凍結1200萬美元，2萬名受害者曝光",
-        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOblAxUGxzWFhBaUFEOGRCdHF1QUtsbG9QMkw3eW16UjVDcjB6QU0zV0lycU1YSXRBZXlGSkxmUk5sUDhNZlFreE93RGJQT0VTdjZkemZtZHZqbmxFd01BNjBBNjBBS0hoczQxQ1QwcXhuMGR1S1RvT2M0SXRhUldhMjF2clVSS1k2bHBGbUVyc0pBWUpNNXpYTXlQck9JRzJQM3VzR3dhUFBtc1dtTmZlNmRsc1J2VHUyeUlvLWJBUmQ1emxkUXpDMDBaMFRRYnZURG9rSTdUR3pwSzNVVkY3MzA1TGFIT2dlelJpQW9ibUcxczRRa1dTYWVCQzZ0M1hsdmZiRmdINDNIcTY2al9PTFl3Y2d1WUNYQ19nMjNHakRYZkw1UWs0OEt5X0V6Y1ZZQ0RqaU9sZVY5dzM3MmxTREs5WHJ0UWtrcE5fUzlYNzNWNnJNVmhaTG1qeF8?oc=5",
-        "source": "timetocoin.com",
-        "published_hkt": "06/12 17:50",
-        "related": []
-      },
-      {
-        "title": "比特幣價格下跌使礦工壓力接近 2022 年水平",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaG9FQktybEZnM0pXeWRQRkdFeTlLUEE2RzRyQ0lySW5vc1U2ODZhRnlnQU9QSVRWUEdtdmJpUzZkV3Q5T3kyd3B5Q0VJQk0yaTVzaG0yVmdHOEY0UHR5NjBLdjg5R2RSek51MmZiQXJBVksyMHJuQ01SalR4dmJJWnVIeTlHdHZCelhfUlBtR0NMWVo2eWJIRHgwcExfWDJrWnB0OA?oc=5",
-        "source": "KuCoin",
-        "published_hkt": "06/12 17:43",
+        "title": "Bloomberg分析師：儘管出現資金流出，大多數比特幣ETF投資者仍選擇持有",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSWFlWTZSTk4zWVV3M1VlQkhYdHFSN19zcDZaenFDR1l0Q09falB2R3VsQkZEUzZBOWVOVTV3N3VfdHNmMmRRakJ1NDZTbmNoaFByV1Z2S1dKdm9SSUJDUDdxSXg0SkpqVXRMdEtDa0ZETXdybHk3TWlLeEs4dHhFSVlUbnljYjZhcjcyS3NlRklFMzNyT2JMZjctUTdERmEyeUo2aTdJVkNlZmM3ZXc?oc=5",
+        "source": "富途牛牛",
+        "published_hkt": "06/12 23:49",
         "related": [
           "BTC"
         ]
+      },
+      {
+        "title": "Michael Saylor 在 BTC Prague 上澄清了策略中出售比特幣的可能性",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa241Z3RTX041bUZrZVFVaUtPM3c1bnJOTnAybzV1c3B2cEcwWGplblVOUEQ2X0hzRm5fT3dacmkxcWtuUTAwNjNLbzhvaFF5Q3ZRaVVyWURSUDFRQmZoMWF6YlBKTXhSaXd1OWIwc1FCTDVSYUlHQkZvV0JmV0dDUUtQTVdYMTNNSGRLZzhsYUhKZkcxWDk5TEt4dTROS2RfZmhqb0pxajFpN3dwejR5R0cyaGNDUFRsMkhv?oc=5",
+        "source": "KuCoin",
+        "published_hkt": "06/12 23:35",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "Securitize 將 STAC 擴展至 Solana，Ethena 計劃投入 2.5 億美元於 RWA",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeTQwNGV5bDRFMHA1a2hoTUVWcFVNcnNJYWw4bm93S3lTbUhtSnp4aUF6STVIUUVwMWVJaWoydW1GMmFIT3FQak15a05scDVsQmN6TGRXRXBaQUVlU0FoNndlNnh2ekZHMHZYc0hETklGa0tjMXFibTE0QVNxNW9vNlZkQUtfS0ZWdjhkRWJKTERPS0RCT1pzVG9KSVgyVlRHd3VubTlOY3lKbkhv?oc=5",
+        "source": "KuCoin",
+        "published_hkt": "06/12 23:29",
+        "related": []
       }
     ]
   }

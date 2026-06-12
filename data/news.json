@@ -230,13 +230,20 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-12 11:36 HKT",
+    "updated_at": "2026-06-12 13:16 HKT",
     "news": [
       {
-        "title": "6月12日筆記: 停火係想比時間一億桶石油暗渡陳倉? 升因為AI策略又勝一籌?",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdEhXRFZlQ3ByZnd2czFIY1EzMGt2QzN5NDV4MzJzWl9TZmdzdDV4UnlZTHVYUmNiVDJjeTJQd1U2RDNNQjkyeVpJWTZxSkFZYXcyRHU1SXRveUtUT3U1a0dJV1RnRnJaazI3ekZ5Qzc2ZDF3cWRFRzdHNTZSV2tncFYtT3BEV09idEdPZTRNVlE1bTZMWkJvejFfOUlOYTBBZkJsekd3?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "06/12 11:24",
+        "title": "日本眾議院通過法案！加密貨幣擬列「金融商品」，稅率從 55% 降至",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SYW9oZXM2TWFJdGJKM05oc0lrNk92d01EYkdQcnJ2VlBTSDNnVEdGTDRfUHlheGNrTVNFV2ZSUjNwZlZaSEVnSTJVOA?oc=5",
+        "source": "news.cnyes.com",
+        "published_hkt": "06/12 12:00",
+        "related": []
+      },
+      {
+        "title": "去中心化 AI 2026 年前景：為何區塊鏈是 AI 未來的關鍵",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbm9STXRFOF80V2laTjY0RFp0ejA2VFdCR1BjcWpVYjlPTlhVSnBLdWtLem9uYWZ2ZC1zOTRzUmgyUktUTTNjV3hmV2NyTnJkdHVpVXZjclM5RmJRaXNYSXJoS2dWX1BycXVhb2Z3NXlnclRXelNGcFpKS05VZEtoMkRpV05Sa1h5bnFZeUNlZFpCN29xbEdrd25pNFJLcGZUeXUxUnBJeTFCRDJhVTd6QjN3?oc=5",
+        "source": "KuCoin",
+        "published_hkt": "06/12 11:43",
         "related": []
       },
       {
@@ -247,13 +254,6 @@
         "related": [
           "ETH"
         ]
-      },
-      {
-        "title": "區塊鏈重點動態2026年6月12日晨間參考",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iUHVPUE5QZDZ2NHZTUzBoUmJjMWtqRTVkdjlaUW5Vc3drR3VKNWxpR09lR2dqRzNCUHZFY05yMm91bTB0ek8wVzVaRQ?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "06/12 10:30",
-        "related": []
       }
     ]
   }

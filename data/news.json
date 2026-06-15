@@ -218,15 +218,8 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-16 01:58 HKT",
+    "updated_at": "2026-06-16 02:10 HKT",
     "news": [
-      {
-        "title": "XRP為何暴漲？",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ08zYno5TDhkWU9QMlY0RXJyWFJ2c0ozMTlOXzg0VDBXdmZtYmdVYkdjYzZWeHBJbjJmMllNNlpwZHlGTkZodlI3U1U3S1UySkVLdlowbE1yaXFBYmJiYjZZeGkzbXVyZjRCMlFvdy0tM054M1BDNkRzdmg0Tms2TmpJanF0UEp5M2pycm1CNTZmanptRmJ0QUZzaGZCVlkzNzZFZm9LNnhvb0xwdjFlSHBQcG10dzF0aUxoLXd5aHQtTzIwX0I4ZHNpN0s3dDE2VnR3YXBvOFB5cHJO0gHcAUFVX3lxTFBDTzNiejlMOGRZT1AyVjRFcnJYUnZzSjMxOU5fODRUMFd2Zm1iZ1ViR2NjNlZ4cEluMmYyWU02WnBkeUZORmh2UjdTVTdLVTJKRUt2WjBsTXJpcUFiYmJiNll4aTNtdXJmNEIyUW93LS0zTngzUEM2RHN2aDROazZOaklqcXRQSnkzanJybUI1NmZqem1GYnRBRnNoZkJWWTM3NkVmb0s2eG9vTHB2MWVIcFBwbXR3MXRpTGgtd3lodC1PMjBfQjhkc2k3Szd0MTZWdHdhcG84UHlwck4?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "06/16 00:17",
-        "related": []
-      },
       {
         "title": "比特幣強勢衝破 6.7 萬美元、以太坊站上 $1800！全網 24 小時爆倉近 6 億美元、11 萬人遭清算",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uVW1JQTJsS1NJTEhIYXlSRmJTdEN3ZzNscnJkYlAtdFFHTnR5NmpWY1JmcWc5bFVLTUtGWTNLU0JSX3VDY1BqQXhqazh0LThSVHlDZVpWNlRzQzJmd0lpdGlqUVNTekk?oc=5",
@@ -240,6 +233,15 @@
       {
         "title": "麻吉大哥黃立成加倉以太坊多單，持倉 1.01 萬枚 ETH 浮盈 97.4 萬美元",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aWjdjVlhkYk9obnFlcmpvVllNYVlmRkc2dVphYUNKV3d3cGw3NDVZMGhkc1BzZGtpMW1UX3Z0czNqaUw3MFFNM3BkQW9VeHl2eU5ZckNSU01oV2VSckFTX3k0V0lJVlluNVQ40gFrQVVfeXFMT1paN2NWWGRiT2hucWVyam9WWU1hWWZGRzZ1WmFhQ0pXd3dwbDc0NVkwaGRzUHNka2kxbVRfdnRzM2ppTDcwUU0zcGRBb1V4eXZ5TllyQ1JTTWhXZVJyQVNfeTRXSUlWWW41VDg?oc=5",
+        "source": "Bitget",
+        "published_hkt": "06/15 23:57",
+        "related": [
+          "ETH"
+        ]
+      },
+      {
+        "title": "以太坊驗證者進場排隊時間約為50天，退出等待時間約為1.5天",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uaEtRc24xdnczTjN3Y1RBMkpJNnBRLVVuS2NScU02c0x1Sm5LNi1IRzgxYUNySm9TNnM0UHdvSVA1NkV0dGYtc2VBdnVKcHE3Q3ByTGtvVzh4OG5YSGQwY1J0ZnFXcTVvNHhF0gFrQVVfeXFMTW5oS1FzbjF2dzNOM3djVEEySkk2cFEtVW5LY1JxTTZzTHVKbks2LUhHODFhQ3JKb1M2czRQd29JUDU2RXR0Zi1zZUF2dUpwcTdDcHJMa29XOHg4blhIZDBjUnRmcVdxNW80eEU?oc=5",
         "source": "Bitget",
         "published_hkt": "06/15 23:57",
         "related": [

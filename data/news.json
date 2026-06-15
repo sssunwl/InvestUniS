@@ -87,16 +87,14 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-15 22:41 HKT",
+      "updated_at": "2026-06-15 23:13 HKT",
       "news": [
         {
-          "title": "【港股收市】恒指升124點未企穩二萬五 智譜飈升三成、MINIMAX升7% 聯想升逾9%（不斷更新）",
-          "url": "https://news.google.com/rss/articles/CBMikwRBVV95cUxNdmV4bEZFcW1nQjM3cm1Ua0dwRUo4YVdId2hFN1FRQU5Oc0F0S1JoVVY5MXM1SXBjMU5VNFZJTHFsRlVxcjNkNUtvdkFUdDJhcjl3U1ctcGhKLTJkTmVpRXRDd2w3WGRVSzJBbkljRW1hbzNtTDY4UGZPU3NfMVc4Mlk5dDlVYlBkNlM0eEFlM05ET2ZEWVd2MG9EWGNzZ3Y3MXNiNTJGSlB3bGxWd21xU25NczRkLUhvcXdWOW9FVDBkVDI2ek9NRHZRcDBYVEhDbko1anlGSk1nMV9XN1pxY2tyVVg0d3lOSE5uYl8tXy1SUXFxTGswNnBmbWlUT3hNLXdKTGtWTDJWbXFhRlFnbzlicmFwNnkydlZIaWhTNkFMdllqY0RZMUNzYmVGZUZMTmFyWTlwcjVKcm1UX21CbmI3bEZ6X29hWGpQaGJGdExqdVdLS0lvTHl4M09mc3g0bnhFYVRITVJKZ0xWT0tRTGZoYVVmcG85aFZsODNjd2JQdGllQ3JuLWhxSzRvdXJsSkxEeHdPSmhxNzR1WFdOMGxrb3lfSU9jRkNEU0lWZl9TNnlTTHljMlJqa3kwQzFhemZhMGtlUmpSNmpZVFFpbWtzZTBycDBCbVlIUzFXQ1FOZ09aOXZaRzZodkt0aDkyM21VNko5YUNkc3hjOUg0eVVnVG5waWFabU01SkpzR0ZySXM?oc=5",
+          "title": "【港股夜期+ADR+北水】阿里美股高港1% 夜期升46點（不斷更新）",
+          "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPdzRsWk4ydjlONHpKQ0dRQTM5eF8tMVNtRkU0SnlKamNWN0NLRm5RMVNla0tpRDN4U2pCenVaZjdGTW9ibi0tRUVJOFF3VGtXb0dPVERZdHdvRExYblY4SnVhTEloVFJzS2VfU2t5RjJTbXZ1Ym1Nc1hZZXRpTVU5Z21zckxXLVFLMlBtQW9sd2dJQnVlbmxIQVpUNGN1QldFbV9kYlY2QnQ5dE45cmsyZ01CaWVfNEl0OWNxSEtuQ09pM0lNSW81c0h3Y3JZaS1pS2RET2xmQ0pXbWlXQjB0UXo2RzEzR1JxbkwxZFJSSWtYWm1Lb0ZXMWFFTGlzZjE1bkV3ZHVTTVVWcFl4M19yb3kwVlRSeEZOZVF1ajlRZy1wQ1h5UHpTRjRwblljSjI5VW9YS0pqMnFmVFp2eGRBN1VUZlB0U29wRElvVTFUSmRmRU9EUkwxREZJeWdyS09WUEI3UXJKR2lnZl9wWFhJdnhEbWdIQjVCZGc0dVFWX2tnYkdDRVpyVEVkbjMtNExjVDBOT3Rn?oc=5",
           "source": "香港經濟日報HKET",
-          "published_hkt": "06/15 18:08",
-          "related": [
-            "^HSI"
-          ]
+          "published_hkt": "06/15 23:02",
+          "related": []
         },
         {
           "title": "【港股收市】恒指升124點 智譜飆近33% 大家樂績後漲近16%",
@@ -108,7 +106,7 @@
           ]
         },
         {
-          "title": "周度港股ETF規模變化排行榜（2026年6月第二周）",
+          "title": "周度港股ETF规模变化排行榜（2026年6月第二周）",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ncG1hS1V6T3pDOFhiY1dPRjZfYzZCZUVic2tOM0NKb1BqLUo0ZUhFc052V0x2V216ZThjT3RablU5YnQxb1VEdThLSzZFLWRCWXdfU2NtaVVnckRYQkJhcldxYkJXQQ?oc=5",
           "source": "FX168财经",
           "published_hkt": "06/15 17:02",
@@ -142,8 +140,22 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-15 22:41 HKT",
+      "updated_at": "2026-06-15 23:13 HKT",
       "news": [
+        {
+          "title": "美伊達成協議亞股勁揚 台股漲1269點攀至45438點",
+          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNQk53VjJleVYwSklEeDBUejJTeG51eEo0T2tRM3I0OUZTUWQtMEJUSmdUMkJwYWw3WGJ5UFB3RjhJazFvbEVtQ3RZb2NDM3hPYmR3WjVNQ3B4SnJKWDEyR1d5bDVCek52ZHBjc3h0YktyenpEbkhVeHh5SmpPa0lPTVVFUWs4SGx6WG9lLVV1eHdyNnQtZ3hQSXNGVmVpOHAwQ1Bidm1Fa1BXSExxWDhHUXhhc0F3MnhFV3NRdDZoeTd2RTJiRkJ5M05RejdNWEVydkl4Ry1WTjFHTFhzMWNfNFVWWU52N1lkR21iOVdNZGt0X3NHb01xWENFSS1URWVTTVlmWU0xOE5peE80UkhDVkJ1UkdiYk1JUzVHT241a2g5QmM2UzZXTEY1X0gtYTJiV2NFWFExcXU1M05OU0E?oc=5",
+          "source": "MSN",
+          "published_hkt": "06/15 20:26",
+          "related": []
+        },
+        {
+          "title": "「今日台股——開盤前分析、推測」國際指標及各項重要數據連動",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NWVlvQ3FGM1BoWlhJTVhKaHcxSHd6Qk14UEVZNXZOLVNPSFpRMFhoRW5taktTdl9aRFdLb1hZSG9zVWpJTE91WWpKcC1BbldCbUtCUF9pdkU?oc=5",
+          "source": "CMoney",
+          "published_hkt": "06/15 19:46",
+          "related": []
+        },
         {
           "title": "DDR5放量發威！「這檔記憶體」目標價上看360元受矚 台積電領軍台股狂吸603億穩坐成交王",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtTjF3SS1PN1RuanBScW9aS0E5a1dzT0ZLYnN4ZHI0UXBvMzM5NFk1Y3VIVVVWNXQtQkhLQzlpNlQyQXJCNXpGcExGMA?oc=5",
@@ -152,22 +164,6 @@
           "related": [
             "TSM"
           ]
-        },
-        {
-          "title": "TWA00 加權指數 - 《台北股市》終結連6殺！外資回神轉買 投信11天敲進千億 ... - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81QVhqbWxWUm02NFphMGVaUnEyNFRmUloxS3FhZW92MXEwXzZBaGgxWFJBS3FuNVR2M1hhUHdBOVcxZE1taG1fSEdUaG5LUmRyWGwweFRPME0?oc=5",
-          "source": "CMoney",
-          "published_hkt": "06/15 18:18",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "台股飆史上第8大漲點！三大法人資金大回流齊砸639億 網友驚問：端午要變盤？",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XWUN5REVUdktqVVFmSl8xdXpDak53a250RS1YQ1dHV2oxZWdTSFdmM3doT1RuSWpDWTNhejM2djJCLWNzS3IzbEVMMA?oc=5",
-          "source": "FTNN 新聞網",
-          "published_hkt": "06/15 16:35",
-          "related": []
         }
       ]
     }
@@ -195,11 +191,18 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-15 22:41 HKT",
+      "updated_at": "2026-06-15 23:13 HKT",
       "news": [
         {
+          "title": "川普嗆聲後取消空襲伊朗 日股隨美股漲勢收高",
+          "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxNMHZtbUNTVHpaVEhxSGpFZ3U3RkxBZjIzUkNJTWloc0lEREFSb3plRU94Z1JDR0g5M0wxR0ZKTGp0LTZmSS1HZTFaN2p3Mmo3aC1LWnpGX1NsT3ZKU21zczhaaWlONXM3dHRDNlFkX3BYeWZwaUtYTHdvNFdHREZIM3pwZ2JxWE1SVnhRYnVUSkdMNUQ5eXR0azlrYzBTQmJQN1R2TmJLOTdGb3BnNEoydnczUFRVcVNWUk5feHh2SmVoSVdDdGtVMGs3SFNHZDdUcHlZejBZVG5FNjNRemhMMEp3ejRuNG5jaEJTRkRHNEVTVDAtQWdUdGpKcWh6ZG1qTENVMzVaS0tWU0s4YTBZSm4wVGV4bUEzR0RTLU5KQUc2OFg0S0dfWFFFdEFkRHQxVG5sTVFBZUp5R3dlakw0cF9NZm5xcXdkaWk3N1ROaE9JUXZobGw4Q3hralNkWDhQNGdjNlNPVGd1WmlhcDhualVLUlItbERiT2s3dHdYUUlNd1FHTUlvbXdQZVVoaENPNHNueHBYV05Ja2JPdTl4OEZKWUhrUVY1Qm1WejFIajA3YU5tM2tLNDJjalhVcTBNODU4WGNuc05qOUh2UGgzUHJqTGxFM0V0SEJ5NDlycnhtT1pCYkJWektYbTVGc0UwZTlkYnI2aHRlUUtISlNQWGYzY0ZUOGEyWjRCUFM3STc?oc=5",
+          "source": "MSN",
+          "published_hkt": "06/15 18:52",
+          "related": []
+        },
+        {
           "title": "日股創高後還能追？法人點名AI、太空經濟與能源轉型三大題材",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTWFMcWlic2FucnpWU3hKcW1pZDZ0Nk5Da1BrWFpBRTJJV2xXVkJiOTdKbTB3TWxCdjJPQWhtZk84VENDcWJOTFk5N1dXZW1rbjZacFA0bzZIUU5sUE12b0Rmc25OLURkYmNCelZlNUR0MXpNYUc1OGJnYUM5STJnTA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Mc1F0OXZ1ZElPVW40VmNSZ3FfNW1zUlctSkFUNElqcjhiTjJCTnRYUjMyVmFnOXBCRnBhcmxVWmVEa1VQX3hVR0V1TWNwc2xyZUZocEdZWFdWY0xvVVJlcVVjcG04MGpIVjBXYVc5bnQxdlVEeTAwX25POUVtZw?oc=5",
           "source": "壹蘋新聞網",
           "published_hkt": "06/15 18:06",
           "related": []
@@ -210,29 +213,19 @@
           "source": "香港01",
           "published_hkt": "06/15 17:38",
           "related": []
-        },
-        {
-          "title": "亞股大井噴！日股狂飆3297點登69317點新高 韓股漲逾5",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FSWQ0NFJUcFVDdTMyQWhsY3dERkt5dmlJU055SjZKMTNDaGl1Ry1xT2hFRFh5SzItU2JvMV9mYnZzd0xOR254TzVZUjlLQy1KS1prLTNzWXE?oc=5",
-          "source": "自由時報",
-          "published_hkt": "06/15 16:55",
-          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-06-15 22:41 HKT",
+    "updated_at": "2026-06-15 23:13 HKT",
     "news": [
       {
-        "title": "Hash Global深度研報：BNB市值何時反超以太坊？",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDVHWFBVX3VoWng5N1c1VzcyUWc2ODBjRWtUMVQ1VGRRejVITDFqejFNT00wV2s2NWM0SWdqcmFMMlZwdkpKVEs0NEpQQVU3Z1ROal9zV0YxdW1kbXNiTDlnYXhuUFFaYVFhWGRWZzZrN2dCNnZ6UDVodjlBZjQ4Q0VSXzRqUQ?oc=5",
-        "source": "PANews",
-        "published_hkt": "06/15 21:59",
-        "related": [
-          "ETH",
-          "BNB"
-        ]
+        "title": "BitMine 上週增持 76,881 枚 ETH，持倉總量增至約 562.1 萬枚",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oVkFWZ1NNa1hOaGYxUTNjcmNZZm0tam51TExOS2hkS0lsQXF4YWpmQTR2aXJvWWJTeVBwQ1BqNWRXSTBGOXlpTlpoWGo3MC1zcnN4ZUF6aHFWcG5PRFpMR3BfQlpsY2R5Wndj0gFrQVVfeXFMTmhWQVZnU01rWE5oZjFRM2NyY1lmbS1qbnVMTE5LaGRLSWxBcXhhamZBNHZpcm9ZYlN5UHBDUGo1ZFdJMEY5eWlOWmhYajcwLXNyc3hlQXpocVZwbk9EWkxHcF9CWmxjZHlad2M?oc=5",
+        "source": "Bitget",
+        "published_hkt": "06/15 21:31",
+        "related": []
       },
       {
         "title": "渣打銀行：「加密寒冬已結束」！三大砸盤阻力正全面消散，重申比特幣年底衝 10 萬鎂",
@@ -244,13 +237,11 @@
         ]
       },
       {
-        "title": "Bitmine 再掃貨7.6 萬枚ETH！Tom Lee：以太坊基本面極強| 動區動趨-最具影響力的區塊鏈新聞媒體",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMWJyZUd5b3FzeE51ZmJZVnhVVFBUWV90dkxoOVhMMnNVNGZtN255aFFUbnpwSGNibzhOSndZeFpZWF9qdmRIQ0Q3bG1NbFhvblYwSTNhdWI0MGsyNUpydXVtcUJpYzgwcm00YmJnb09ZMGhwcmlsNUJfZ0FlbGdkNXIwWXNZbGhBUGQ4bA?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "06/15 21:18",
-        "related": [
-          "ETH"
-        ]
+        "title": "Bitmine Immersion Technologies（BMNR）宣佈其持有的ETH代幣數量已達562萬枚",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEFJb0VjWm8tTXFjeDNWU05lZ1R2VzFoWF9TOWxYWjFzQm5wTzkxcF9iekoxR2pwU29ldHhPUEtRYkNxdkVUZXN1WkdDN2c1RHFvV0YwTXNQQWRyc2p6QXBvbTQ5TU5WR0pFd1VSNmhIVER5MHJnWVZ3dm9GSFlJYkNrQWNwWkJGS0w0MmZ5LTJtWEIxLUtMZXNOZ24ybE1KWXpwa29QNDVVVTdQeHc?oc=5",
+        "source": "富途牛牛",
+        "published_hkt": "06/15 21:15",
+        "related": []
       }
     ]
   }

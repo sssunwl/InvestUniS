@@ -87,7 +87,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-15 20:56 HKT",
+      "updated_at": "2026-06-15 22:41 HKT",
       "news": [
         {
           "title": "【港股收市】恒指升124點未企穩二萬五 智譜飈升三成、MINIMAX升7% 聯想升逾9%（不斷更新）",
@@ -142,7 +142,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-15 20:56 HKT",
+      "updated_at": "2026-06-15 22:41 HKT",
       "news": [
         {
           "title": "DDR5放量發威！「這檔記憶體」目標價上看360元受矚 台積電領軍台股狂吸603億穩坐成交王",
@@ -195,11 +195,11 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-15 20:56 HKT",
+      "updated_at": "2026-06-15 22:41 HKT",
       "news": [
         {
           "title": "日股創高後還能追？法人點名AI、太空經濟與能源轉型三大題材",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Mc1F0OXZ1ZElPVW40VmNSZ3FfNW1zUlctSkFUNElqcjhiTjJCTnRYUjMyVmFnOXBCRnBhcmxVWmVEa1VQX3hVR0V1TWNwc2xyZUZocEdZWFdWY0xvVVJlcVVjcG04MGpIVjBXYVc5bnQxdlVEeTAwX25POUVtZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTWFMcWlic2FucnpWU3hKcW1pZDZ0Nk5Da1BrWFpBRTJJV2xXVkJiOTdKbTB3TWxCdjJPQWhtZk84VENDcWJOTFk5N1dXZW1rbjZacFA0bzZIUU5sUE12b0Rmc25OLURkYmNCelZlNUR0MXpNYUc1OGJnYUM5STJnTA?oc=5",
           "source": "壹蘋新聞網",
           "published_hkt": "06/15 18:06",
           "related": []
@@ -222,30 +222,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-15 20:56 HKT",
+    "updated_at": "2026-06-15 22:41 HKT",
     "news": [
       {
         "title": "Hash Global深度研報：BNB市值何時反超以太坊？",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDVHWFBVX3VoWng5N1c1VzcyUWc2ODBjRWtUMVQ1VGRRejVITDFqejFNT00wV2s2NWM0SWdqcmFMMlZwdkpKVEs0NEpQQVU3Z1ROal9zV0YxdW1kbXNiTDlnYXhuUFFaYVFhWGRWZzZrN2dCNnZ6UDVodjlBZjQ4Q0VSXzRqUQ?oc=5",
         "source": "PANews",
-        "published_hkt": "06/15 18:26",
+        "published_hkt": "06/15 21:59",
         "related": [
           "ETH",
           "BNB"
         ]
       },
       {
-        "title": "MEXC發佈2026年6月儲備金證明，主要資產的平均儲備比率約爲156.5%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOenBqb21RRldnMmpydzNGTzdReVRrYTRLMGl0eGxnQ3huZmZrMlBWbGFDd1hTWkhWdWFMM1dGMU52UlBOY1BHZ0R3LVVkZEJIUFp0cjRPYWhvUmQyV3VOZ3dlU0N4aldOak15ckZBeW43QzJrbG9EZkhqUnpXcGVEMXktLWxKbmY2QWdTbzU3S2FLM2NrWXVnSU1sTDJOMnNG?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "06/15 18:00",
-        "related": []
+        "title": "渣打銀行：「加密寒冬已結束」！三大砸盤阻力正全面消散，重申比特幣年底衝 10 萬鎂",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ0FTUmJ1Y0g0alhwMU1OWXdrZ2Z1QTVfX1FqY2h6a1haVW95MHl2Mm9HWk5wQlRDQmlDWkFUR2EzVW1CcHMxWW5aTkNZOENydV9FWnZ4OS1heHRpUDA0eXByVXd6YXVvaWYyRjkzOFh6Mkp3MUhfWG5yY1hDQnJ0ODBfUGowNmstTUctTFV4eXZ6NlFLSWt3UDBkRnBITGoz?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "06/15 21:28",
+        "related": [
+          "BTC"
+        ]
       },
       {
-        "title": "某以太坊波段大戶再次加碼，累計投入3060萬美元建倉ETH",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlX2loSm1kcDJNbzBGbERwYjJmemNTRlc2X1E0aG9uX2FFUjdlZUNSTjBCS0xKTDVxcXV5UlFJalR0ZmdzTkowR2ZwRGZRX3RiVkVVSThzVFRFcDVIY01UOHR2b2JWZFFTbHZj0gFrQVVfeXFMUGVfaWhKbWRwMk1vMEZsRHBiMmZ6Y1NGVzZfUTRob25fYUVSN2VlQ1JOMEJLTEpMNXFxdXlSUUlqVHRmZ3NOSjBHZnBEZlFfdGJWRVVJOHNUVEVwNUhjTVQ4dHZvYlZkUVNsdmM?oc=5",
-        "source": "Bitget",
-        "published_hkt": "06/15 17:40",
+        "title": "Bitmine 再掃貨7.6 萬枚ETH！Tom Lee：以太坊基本面極強| 動區動趨-最具影響力的區塊鏈新聞媒體",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMWJyZUd5b3FzeE51ZmJZVnhVVFBUWV90dkxoOVhMMnNVNGZtN255aFFUbnpwSGNibzhOSndZeFpZWF9qdmRIQ0Q3bG1NbFhvblYwSTNhdWI0MGsyNUpydXVtcUJpYzgwcm00YmJnb09ZMGhwcmlsNUJfZ0FlbGdkNXIwWXNZbGhBUGQ4bA?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "06/15 21:18",
         "related": [
           "ETH"
         ]

@@ -87,7 +87,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-16 19:23 HKT",
+      "updated_at": "2026-06-16 20:01 HKT",
       "news": [
         {
           "title": "【恒指夜期+北水】北水周二再吸近35億大手買盈富基金及建滔系股份、急沽騰訊阿里恒指夜期升12點（不斷更新）",
@@ -145,15 +145,8 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-16 19:23 HKT",
+      "updated_at": "2026-06-16 20:01 HKT",
       "news": [
-        {
-          "title": "台股再洗！台積拉尾盤漲412點 台指期結算...外資空單近7萬口有亂流？",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSOWFsWnktTTRxX0daX2V5b0xULWo0ZlhDVEZLZ1RqUVBGSzZTekFXeWs4TzRzOXFrSTZmWVoyOFpCUWlaUm9PV2x6bkMyV0E?oc=5",
-          "source": "TVBS新聞網",
-          "published_hkt": "06/16 18:23",
-          "related": []
-        },
         {
           "title": "台股擂台／「佛系產業教練」白易弘：預期聯準會維持利率不變 台股加權指數本周上看46K",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLWnVCVGppSDVLcTJRTlM3c1B5MTN1R3JrMHBEbUdvY1dzM2JiaENNQjZ6SUpiUWlrUVBvMEJOaWFKaGhrdE4yN0dkWS1Kakk0TTlkRW52ckNkTUxG?oc=5",
@@ -168,6 +161,15 @@
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3UVlnVzRzXzE2dmwyaXkyTkNPU045d2xGam9zQmFsUFk5cEZZZXlTT1ZhU1BKR0ZtV2RkN3pCY1ZnRHlWYmliOVQ2dU5CbF9RZVkyaEFjdWI?oc=5",
           "source": "CMoney",
           "published_hkt": "06/16 17:32",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
+          "title": "《台股重要指標（3-2）》加權指數 9日Ｋ值為64.24，9日Ｄ值為55.34",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUkllQWZMMnp4NjlPRTF3ZUlfSDhOcjRWS0JweEdOdFo0d2RDcjhoZ2tUQzlGSEtVX1lTN1kwSGg5TmN1RmVEb1U1XzZzOEZSMXg2cjVranpsV3d2XzRmRzRFemh3MWVEVXJidGVWNDFoSUx1VGlJT2RWOGJiQTlBYXlBXzJtd1Bs?oc=5",
+          "source": "富聯網",
+          "published_hkt": "06/16 16:42",
           "related": [
             "^TWII"
           ]
@@ -198,7 +200,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-16 19:23 HKT",
+      "updated_at": "2026-06-16 20:01 HKT",
       "news": [
         {
           "title": "《日股》日經漲0.13%、續創收盤新高",
@@ -231,7 +233,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-16 19:23 HKT",
+    "updated_at": "2026-06-16 20:01 HKT",
     "news": [
       {
         "title": "Bitmine 增持 7.6 萬枚以太幣！Tom Lee 看好「加密之春」初綻",

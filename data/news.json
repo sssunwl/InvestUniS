@@ -233,27 +233,29 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-16 21:27 HKT",
+    "updated_at": "2026-06-17 02:06 HKT",
     "news": [
       {
-        "title": "Bitmine 增持 7.6 萬枚以太幣！Tom Lee 看好「加密之春」初綻",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUV8xNGpYUm5QVUdUekNuaUtzWGpPaklNSy1rZHA4ak9pSjJGZTdiemNWR0lubHRKc1NxSVk4RXFCdjQwN2hFd2xwc2xIUDFHaFJPLXRFOTRqTEo4cm94c2xuSGx6ZFJ6WlRXWU1WQzR6Mm5Fb21Jbjk5Rm90TWpDTVFDcVRqMU1HV3RBNmoybTQ1UWZ6aHQtZFdmaUQ4czh3YUtR?oc=5",
-        "source": "區塊客",
-        "published_hkt": "06/16 17:33",
+        "title": "美伊協議提振市場信心 比特幣飆破 6.6 萬美元 機構押注聯準會動向",
+        "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9IOURNZU9VcThoc192bjdYWURwTVBhaWNEckJzS3FKNldQLWxqS3hGbjQyUzZyeUp1eGc?oc=5",
+        "source": "ENN台灣電報",
+        "published_hkt": "06/17 01:14",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "美國監管加密永續期貨添新局 Kraken、Kalshi 搶先佈局",
+        "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFA5bDNvWEEycE12b2xiSHFmWGpZRk9UR1ZFYnJvR2lISVdSazNpYjdERGdjRXlMX19scmc?oc=5",
+        "source": "ENN台灣電報",
+        "published_hkt": "06/17 01:14",
         "related": []
       },
       {
-        "title": "為什麼SPX6900迷因幣今天上揚？",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUUc3YVhYeEpneUtvdXVCMmhoeEY5ZjM0aVhNNWd5eHEtUk1sMWVRM3BZV2pDQnk5QWhSbUpKcUhVV2pLVnFsVERRQmswdkFxWUZPeFh4UEJXb2w2SmhHaGZaVmJhU2hvTlc1RUNKVkhYaFVTMXB1dWZXTUV0Z3FKT1A5MlBZbS0wdlI0S3hPRWJYR1EySGNsVWtTYVV2ZW54UGFSSDBUb1daM2VqTDRNQWpSUHJXaW9sYmY3Q0NhWmZuc1V5bUdKdkt6OWt3S19RamdRSlpsUk5FaEpqUEdJbEV0R3Rqd9IB5gFBVV95cUxQUUc3YVhYeEpneUtvdXVCMmhoeEY5ZjM0aVhNNWd5eHEtUk1sMWVRM3BZV2pDQnk5QWhSbUpKcUhVV2pLVnFsVERRQmswdkFxWUZPeFh4UEJXb2w2SmhHaGZaVmJhU2hvTlc1RUNKVkhYaFVTMXB1dWZXTUV0Z3FKT1A5MlBZbS0wdlI0S3hPRWJYR1EySGNsVWtTYVV2ZW54UGFSSDBUb1daM2VqTDRNQWpSUHJXaW9sYmY3Q0NhWmZuc1V5bUdKdkt6OWt3S19RamdRSlpsUk5FaEpqUEdJbEV0R3Rqdw?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "06/16 15:56",
-        "related": []
-      },
-      {
-        "title": "ETF異動 | 加密貨幣ETF上揚華夏SOL(03460)漲超4% 嘉實以太幣(03179)漲超3% 作者智通財經",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05SlNaWWxoazBPQ3BQNnRTV0FmamszZnFTTU55NVZsTWJIdFctZ1J0b1ZJVWRGSXBOZXk4ZXJWcXhscTJEUUFjWEt1VEJJcVljeWZFd0c1c2NBU2lmcGpXOVNHUlhZSHNCQWtseUJMNzU?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "06/16 15:50",
+        "title": "Humanity 公布復甦計劃：已部署全新 H 代幣合約",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80U3U1NHRMTTlfSVhiYThPYkRfcVhFM1JRVGJtVVRPVnliV1dnSmtOZGhoc2FudjM2OGxQZ0NrZEUyU2loYjVCY2pQUnphTFBxQlc0dHRPYTFHOGMxMjY4clR0LWVYNm4zd21N0gFrQVVfeXFMTzRTdTU0dExNOV9JWGJhOE9iRF9xWEUzUlFUYm1VVE9WeWJXV2dKa05kaGhzYW52MzY4bFBnQ2tkRTJTaWhiNUJjalBSemFMUHFCVzR0dE9hMUc4YzEyNjhyVHQtZVg2bjN3bU0?oc=5",
+        "source": "Bitget",
+        "published_hkt": "06/16 23:55",
         "related": []
       }
     ]

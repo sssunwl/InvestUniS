@@ -140,30 +140,32 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-15 23:13 HKT",
+      "updated_at": "2026-06-16 14:09 HKT",
       "news": [
         {
-          "title": "美伊達成協議亞股勁揚 台股漲1269點攀至45438點",
-          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNQk53VjJleVYwSklEeDBUejJTeG51eEo0T2tRM3I0OUZTUWQtMEJUSmdUMkJwYWw3WGJ5UFB3RjhJazFvbEVtQ3RZb2NDM3hPYmR3WjVNQ3B4SnJKWDEyR1d5bDVCek52ZHBjc3h0YktyenpEbkhVeHh5SmpPa0lPTVVFUWs4SGx6WG9lLVV1eHdyNnQtZ3hQSXNGVmVpOHAwQ1Bidm1Fa1BXSExxWDhHUXhhc0F3MnhFV3NRdDZoeTd2RTJiRkJ5M05RejdNWEVydkl4Ry1WTjFHTFhzMWNfNFVWWU52N1lkR21iOVdNZGt0X3NHb01xWENFSS1URWVTTVlmWU0xOE5peE80UkhDVkJ1UkdiYk1JUzVHT241a2g5QmM2UzZXTEY1X0gtYTJiV2NFWFExcXU1M05OU0E?oc=5",
-          "source": "MSN",
-          "published_hkt": "06/15 20:26",
-          "related": []
-        },
-        {
-          "title": "「今日台股——開盤前分析、推測」國際指標及各項重要數據連動",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NWVlvQ3FGM1BoWlhJTVhKaHcxSHd6Qk14UEVZNXZOLVNPSFpRMFhoRW5taktTdl9aRFdLb1hZSG9zVWpJTE91WWpKcC1BbldCbUtCUF9pdkU?oc=5",
-          "source": "CMoney",
-          "published_hkt": "06/15 19:46",
-          "related": []
-        },
-        {
-          "title": "DDR5放量發威！「這檔記憶體」目標價上看360元受矚 台積電領軍台股狂吸603億穩坐成交王",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtTjF3SS1PN1RuanBScW9aS0E5a1dzT0ZLYnN4ZHI0UXBvMzM5NFk1Y3VIVVVWNXQtQkhLQzlpNlQyQXJCNXpGcExGMA?oc=5",
-          "source": "FTNN 新聞網",
-          "published_hkt": "06/15 19:45",
+          "title": "收盤／記憶體、光學股點火！台股飆漲412點 台積電漲25元領軍攻高",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kMDNnZHZzb3d2Q1MyV1lvOTFPZ2dfUHR5M2hlaFVLa2hBeVFaeHF1WThwRlQ3MkVva3RhZ3VabXZEYUZFLTlFd2xnSQ?oc=5",
+          "source": "三立新聞網SETN.com",
+          "published_hkt": "06/16 13:46",
           "related": [
             "TSM"
           ]
+        },
+        {
+          "title": "台積電最後一筆6960單暴拉！漲25元收最高2400　台股收漲412點",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Kb2JJWXpYc1lPY2FaT1k0UzFDREwtNjdaYnVaV1pEcGw5U1p0M0JTZHhCNFVRUzJnMHBhczdwZk5oUlJhQWx0aHdfZHQxeTVuYUHSAW5BVV95cUxPZnlieGptUC1CY25ndWNuek51alFZRE9jRWxOYzhOR1Fna2U0eTJLOVZ0cHA4VWFtV2M1QnJUdmxlSDlUTXNzNEFiRk9FbWl2YXFSajBfcjJrX2FXU3VtSno3V2Mwc05nS3ZtR0xrdw?oc=5",
+          "source": "ETtoday財經雲",
+          "published_hkt": "06/16 13:37",
+          "related": [
+            "TSM"
+          ]
+        },
+        {
+          "title": "千金股閃現！這檔飆漲6％、市值叩關2兆噴「612億成交額」奪冠南亞科搭DRAM漲價潮獲法人升評搶鏡",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aU0g5ZGk2NEY4Rmc2a1Z2SlhoQWdzWk04SVFubzZDQnRHRVBCcW5BcnRjUFpDS2hieGd0elNYZHp5allvNERSRGZoaw?oc=5",
+          "source": "FTNN 新聞網",
+          "published_hkt": "06/16 12:10",
+          "related": []
         }
       ]
     }
@@ -218,8 +220,15 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-16 11:42 HKT",
+    "updated_at": "2026-06-16 14:09 HKT",
     "news": [
+      {
+        "title": "區塊鏈重點動態2026年6月16日晨間參考",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsaTNsbWhYcjNVbG5nTnNvR0JtcW1uc18zWEZHWVJVRlhNWE42NHdNQ3Bwdm03d1F4WlFockZJQkQtTDhWbzZUU1d0WlF2d28?oc=5",
+        "source": "news.cnyes.com",
+        "published_hkt": "06/16 12:30",
+        "related": []
+      },
       {
         "title": "美伊敲定協議 比特幣應聲上漲 但沃什聯準會首秀會扼殺漲勢嗎？",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FNWFpaGRZQnJTUmM5UzlnOC1iemxOUVNtSFdsRmp1eWdEQmJiYl9RZDJ1U1g2Nk1jU00xZjFSUWpGUDlsZjZCeUhWbw?oc=5",
@@ -235,16 +244,6 @@
         "source": "鏈新聞 ABMedia",
         "published_hkt": "06/16 09:40",
         "related": [
-          "ETH"
-        ]
-      },
-      {
-        "title": "比特幣衝67300鎂、以太坊漲 4.6%！血洗空軍「10.7 萬人爆倉 $4.89 億」",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa2JrWUtEU1dBLVBFZUxpZWIxMWhocERhb2ZnNWJXZWx6UnRGXzRERGVqMENFYzFKa3lkMU15alZmLVJXV2R2dnhXWVVBdUF0MC1vdno5YzI0VWZhRER2QzRmLV9WRXVUUWdlSk5ZN2tuU3NwdmhLS3lXTnZ0NTBlTlZJRFN4WmVQdGp4aG5CSU9tM0dwLW1WeA?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "06/16 09:16",
-        "related": [
-          "BTC",
           "ETH"
         ]
       }

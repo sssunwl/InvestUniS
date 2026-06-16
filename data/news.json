@@ -140,7 +140,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-16 14:09 HKT",
+      "updated_at": "2026-06-16 14:29 HKT",
       "news": [
         {
           "title": "收盤／記憶體、光學股點火！台股飆漲412點 台積電漲25元領軍攻高",
@@ -161,11 +161,13 @@
           ]
         },
         {
-          "title": "千金股閃現！這檔飆漲6％、市值叩關2兆噴「612億成交額」奪冠南亞科搭DRAM漲價潮獲法人升評搶鏡",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aU0g5ZGk2NEY4Rmc2a1Z2SlhoQWdzWk04SVFubzZDQnRHRVBCcW5BcnRjUFpDS2hieGd0elNYZHp5allvNERSRGZoaw?oc=5",
-          "source": "FTNN 新聞網",
-          "published_hkt": "06/16 12:10",
-          "related": []
+          "title": "美伊協議激勵美光創高，台股記憶體爆量齊漲-財經焦點情報站",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWHZQTmROcG1hbExfUnJfSmRad0VwUDBsUGFWQXhKLWRheUdEbXJyQmE5Vlh2Qm5XOFFHZE1CZnpCQm94SHJXT2Rqa0ltUWx3OGNoRnREUkZZLUNocHlXR21JcE9BTi1xeGpHQUxHRVo4LWI5ZXNERDc4MkdoaVN3YUFDaEM5c3o2c3hPYW81aVdQU2hDWnpoT2V4UWNvUmU2cUM4Y3FfVDJuZWViaFJ2NVhKT0JnVnp3OGktYnN6bzc0bkk?oc=5",
+          "source": "CMoney投資網誌",
+          "published_hkt": "06/16 12:47",
+          "related": [
+            "MU"
+          ]
         }
       ]
     }
@@ -220,7 +222,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-16 14:09 HKT",
+    "updated_at": "2026-06-16 14:29 HKT",
     "news": [
       {
         "title": "區塊鏈重點動態2026年6月16日晨間參考",

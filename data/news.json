@@ -140,7 +140,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-16 14:29 HKT",
+      "updated_at": "2026-06-16 14:35 HKT",
       "news": [
         {
           "title": "收盤／記憶體、光學股點火！台股飆漲412點 台積電漲25元領軍攻高",
@@ -222,8 +222,15 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-16 14:29 HKT",
+    "updated_at": "2026-06-16 14:35 HKT",
     "news": [
+      {
+        "title": "Coingecko：2014年至2026年十大市值代幣概覽 誰是年內新星",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94bUZjVV9tMTZTcVExdmtBYlhpSzRnNDVncHdoUUZCQXhWWXp1bjU2SWhIVnRWS0ZRT2VpVnQxMkg2LWFMakFiSzA2Yw?oc=5",
+        "source": "news.cnyes.com",
+        "published_hkt": "06/16 14:30",
+        "related": []
+      },
       {
         "title": "區塊鏈重點動態2026年6月16日晨間參考",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsaTNsbWhYcjNVbG5nTnNvR0JtcW1uc18zWEZHWVJVRlhNWE42NHdNQ3Bwdm03d1F4WlFockZJQkQtTDhWbzZUU1d0WlF2d28?oc=5",
@@ -234,19 +241,10 @@
       {
         "title": "美伊敲定協議 比特幣應聲上漲 但沃什聯準會首秀會扼殺漲勢嗎？",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FNWFpaGRZQnJTUmM5UzlnOC1iemxOUVNtSFdsRmp1eWdEQmJiYl9RZDJ1U1g2Nk1jU00xZjFSUWpGUDlsZjZCeUhWbw?oc=5",
-        "source": "cnyes.com",
+        "source": "news.cnyes.com",
         "published_hkt": "06/16 11:00",
         "related": [
           "BTC"
-        ]
-      },
-      {
-        "title": "BitMine逼近5%以太坊儲備目標，折價發行優先股BMNP會成賣幣壓力嗎？",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41S0pVRXpzOTVDRGFlOEZnUHZzMFkxUi1ia0R1M3VSZFF2ZEpqMU4wRDd0Rzk4SEZSSy05Ynd4dEw4d0ZRNjZTU2JMYzgzMXdKcGNn?oc=5",
-        "source": "鏈新聞 ABMedia",
-        "published_hkt": "06/16 09:40",
-        "related": [
-          "ETH"
         ]
       }
     ]

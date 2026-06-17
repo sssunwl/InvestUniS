@@ -27,8 +27,22 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-17 09:45 HKT",
+      "updated_at": "2026-06-17 11:43 HKT",
       "news": [
+        {
+          "title": "AI狂潮推高估值 美股站上155年來最昂貴區間？",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWbjJlNEtUN0NqbERBTnlTVkhqR2hUWDJCZk9KeHZLWEhaaC1ISlNCYzFEWEVic1FocTJMSTZOdnNtYjF3RDFqR2hKOFNJWFVhVHc?oc=5",
+          "source": "蕃新聞",
+          "published_hkt": "06/17 10:27",
+          "related": []
+        },
+        {
+          "title": "（中通論壇）SpaceX上市為何難圓馬斯克的航天夢？",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBV2hqY05VTE9BOV84WERPNnc0QndRaUd1TUZ4Yml4WDFqZHFlSTB5Wms3eU9JbWh3UnFOY3k0WWlMU1RUdjFEeFY2VmJwYzJ3cUlOeFNMbjJrUGZvRHVBanhVQlQycDk2QWdJ?oc=5",
+          "source": "hkcna.hk",
+          "published_hkt": "06/17 09:14",
+          "related": []
+        },
         {
           "title": "TradingKey 每日市場簡報：道瓊收高，那斯達克下跌逾1%，晶片股重挫近6%，市場靜待華爾希\"首秀\"",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU0ZYeHpBYkFaaEcwTkc4Vk5qNFlJLURzNGxLNUEwUmF5MVUzNTBpbzRzMlBlMU8zeDFET05CY0c0bnZDUEpzOVhCQmotazdGM1N6clYyLTRMYjFqUHhQeUU3Zk9mOHZvY3UtTVhRQWJTUFY0OC1XUWd1TmROa3ZMVTFKeXdHSXluMlZUNmRGbnFwMnFNS0x3V2ZFdFRkUFd0UTRxY2lBb01janBf?oc=5",
@@ -37,20 +51,6 @@
           "related": [
             "QQQ"
           ]
-        },
-        {
-          "title": "市場關注Fed利率決議、美股週二多數走低　台股開盤下跌123點",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1saHZjMlJYN2N6R3V2OV85Yk13czhxcmh2dzNiQks3Z0U5a1hNV21VMnctY25UZ3VFVXJMZVlTeDJtNV91WXlBSVlUWHXSAVJBVV95cUxPb0ZXclhwbXFhbk1fOUNDUi1LWXpMd1NzOWFUc2ZLVDZiZlVlZ1drcTRzMTZWQnh1U05DTTA1MXZtM3E5bXlTVnkyTlRjVlBmMHVB?oc=5",
-          "source": "NOWnews今日新聞",
-          "published_hkt": "06/17 09:00",
-          "related": []
-        },
-        {
-          "title": "2026-06-17 台股盤前早報｜理柴知道:法說最速報! - 方格子",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1id285Sm5fY2xPZGVlVEd6TVBjaEx6dk9ZQ2lRUG5xTWdRUUhXalAtQ2JaQmMyMGVPdU1VN2IwWnM1cGYtNXpHX0t6aE9Zcm5iZ3Qwa21xLXJvS3k4X0HSAWNBVV95cUxOVks1RDhqbzVQMUtYaE93LWpqVUF2YW1PYy1mbl9OdTJtd1o1QndNSVUxclU4Y2Z3OVVVNTFPWmdqeEMyVVpQOTF0S1R5Y3JUdFRETzdtNnBlS2dTbzA1ZnFRWjA?oc=5",
-          "source": "Vocus",
-          "published_hkt": "06/17 08:46",
-          "related": []
         }
       ]
     }
@@ -235,30 +235,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-17 09:45 HKT",
+    "updated_at": "2026-06-17 11:43 HKT",
     "news": [
       {
-        "title": "Hyperliquid：永續合約、事件預測市場與USDC收益",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ybHhtX05LUzNjSVpGaWFsVWFPQTV6YWVfNDg5aTRTQU84bUNjRVB2amRJd3hPakcwVzR0alphQVo4TkVMR1ZRSV9QeHhLVkU?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "06/17 09:30",
+        "title": "CryptoQuant：山寨幣並未消失，靠敘事炒作的才該退場",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZVVnWldja216cnlBMEJMV1NETFhRRkFXWUNRNEFISUlmZVR4RFVYRlBLcWFnMW9LTGpYcVVxdmNESUs4dFVVMGlCVlhwSm1FaUdoTlBsd2VXOHVJX1JwN1k4dlF1VnE2dHRLR19QWURVcEZVYTMzT1NCY3k3MTd3Qk5wY2JfTWl4YlFxVFRMYw?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "06/17 10:15",
         "related": []
       },
       {
-        "title": "比特幣漲太多回吐「跌破 6.56 萬鎂」！FOMC 華許首秀前夕，單日3.38 億爆倉觀望",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWmhyZmNpR0J6SFRIajBPNDNYQ2VfWUs2VXd0UGUyMHJvQ3ZlaVZhVHRMNHVsV3Q2Q25oNDdCVC1fYWhQSXdpVVRkZjhLZEF5eE9Ubms4TktnZHltUVNsVUVWeVBOdGRCdEJmTFFxZXJwekNacWhGdUR2ZDZOZEs2NlE2bzlMenJYcFBkWElaZ0luTmpwekMxdl9XUGZhT3l3dlI1TjFidHBtUQ?oc=5",
+        "title": "比特幣衰退、Strategy 優先股折價 8%！三大理由揭密 STRC 為何逼近歷史低點",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMmRVa245ZnBJanhSTUN2NE42bFdGLVVXTzMxTXdkUVd4UWFGSUJGTGUxYkl1azNLQl9XZjdUMHQ2SzZwbGk4T0tlQU91SS1xeDNlM00zbnBNbl9QS0xrOTB4NHg0VzlSaUV4bFR0M2dkMDVKV0JDMTJGTnhBWTBYQUhSVE03SXY0ZTE4dlJSU2dmbi1aUzZESFBCYTB4Ti01UHpiSDhDcm40aFlx?oc=5",
         "source": "動區動趨",
-        "published_hkt": "06/17 09:19",
+        "published_hkt": "06/17 09:47",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "Bitmine Immersion Technologies（BMNR）宣佈其持有的ETH已達到562萬枚代幣，其加密貨幣和現金等價物總持有量達104億美元。",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUUZ3R0w0X015UzF2SWpzbTQ4V3g1N1dKR3RkWXVMVkJFQzFOandxbUZ5OEhoOWR4d3puUWRGcUFIbklGaWpGTVd0cXpDdlJqTERlQnlfRTFBSkFUOGhtVmt5RGJWZXZVc1gyNXlRdTBwYURxQ2d1M0p5TzVqWkJmMl9URjVBaWJpc1pfX1UtVTdvaXAxYmZZdU50XzBrOElqRTFVN3V1RlNZQQ?oc=5",
-        "source": "富途牛牛",
-        "published_hkt": "06/17 09:15",
-        "related": []
+        "title": "VanEck報告點出比特幣礦企轉型 AI 痛點：500 億鎂資金缺口，執行力才夠打",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcTAtdGQ2Vzl4VVhEcVhyMEI2M2djMkxLLXV2S3VsWVl2djRhSkMzMUV6SnBuT3dZVkJkZGJObDl3X3AxM1N4OVloZTdMU2FFRndpd3l0VDAta2FqQ09nZHo3dzRZeTdQNVpqeVd2aEpTenNjLV9CcThObHNLOVUyRVZ2YkJjUHRJSHlvVE1sRjhWWGhRdkE?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "06/17 09:44",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

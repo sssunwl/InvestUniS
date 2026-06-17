@@ -1,28 +1,30 @@
 {
   "us": {
     "pre_market": {
-      "updated_at": "2026-06-16 21:27 HKT",
+      "updated_at": "2026-06-17 20:51 HKT",
       "news": [
         {
-          "title": "降息夢碎？市場預測華許掌Fed後利率恐一路凍到2027年",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qVjlhcFV3UnFsWG5tVGdZd01vZ3BNN2JqV25EYkpVcjhXcWRmeVZYanlIdU54ejJEaERJd3hpRks5UUY1Z0djNDdYYV9FSUU?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "06/16 21:00",
-          "related": []
-        },
-        {
-          "title": "【美股盤前】美股期指狹幅上漲，焦點轉向聯準會！SpaceX漲逾10%，威騰電子漲逾9%",
-          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNM1NJTkFDZ0lLSkRZb1VCSFBtUFhyRVk5WlM0d0NrX0dzd0ZwMnFmcE9aWkROd0VDS2dzcjVHMGQ5ZUNQVW4xaTdGa29IS2dRSGNTRWhsaVhMVmtZVEVNQy1ja2FrTE9QR0tNSm1sOFo4TWVmYkFwVUxmcXZJa0NObUZEQWUzUVFMaVJVaENoU2NyZXRlVmVzZENfbG1oVG5BaDZSbHQ4ZkJWcHhDRVM2cmJiUGJxZEo2LXNRTDF6SURmdFNWTmdIeXZaR3pHc01LWmF2aEpqMkZZcVRzN29JajQtSDZsMXFxLTdsazFjYWpjX0l4WkQ5WkxNSEhfRmRFSUYwczF0eFBGLVdScTJBOUUwZEpTbTdWT2NEVFVPWjJfZW8?oc=5",
+          "title": "【美股盤前】聯準會決議來襲！那指期貨領漲，AI晶片股反彈，SpaceX漲超4%",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNbXZOSHB3ZzBpY2VXNVE1Y1YtRnBUUHpWRWRnTnctdTBPRVFSSk1ydFBkUUJVUGxyVlEySl9PeGUydmk1S1REUVFoTkc4RVpRa1Q3Nm5qQXV5RWVXa0IwY2hQYXNwMnpWdzVRUWlPMGJ4LU85RVlFLW5OQWdpVnVSOHV1RDJPWmVfY0dmLWMyZmhWUjNtTktpbThUSXhKeHE4X1VzU1AwTHFSM2dhUmJwRnpleHVoQm9Kc2wwRkRiZlZTUE85cXhPWk5KdnVtUnAzZFVfWlo1MWZ6RDhVZTI3NVVXM2hqcDVVaUFNTV90ckR3OG5tSDBMUnc2b29vb3hNRmdnV25HekE0R1J4VnN3RmF2SnVwRkNROGxoOTRFMzM?oc=5",
           "source": "TradingKey",
-          "published_hkt": "06/16 20:22",
+          "published_hkt": "06/17 20:34",
           "related": []
         },
         {
-          "title": "新興市場股市連3天走揚 已逼近歷史高點",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05WjF6ZFFORG9hSXlva2lfNjlOY3JJSEhvcXhWNVlQbHl4RmZ3OWk2dUJ5ZVBUOEoxLXdFelpGak9UWW5NdTNkdXVDX2RSQ2s?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "06/16 20:20",
+          "title": "巴倫周刊—美股科技牛市的命門，攥在華許手裡",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ1ZWanVvTFFnb29zRklGOXg0M29Rd0RZam9jLWF3V1FUVGNzMXdHTnBzcmNaNUV5VnEwVUFjVHVPZVRPYkd2TnNWZ0xxZ3JIX1VFdVhPZnltWW1VTTV5TFBiWVJMVGRMUmFmNE95SlJPTTlra1lReFFrVDhMbGJtVk1Cckw4RkZoOTlXd181Zw?oc=5",
+          "source": "鉅亨號",
+          "published_hkt": "06/17 19:39",
           "related": []
+        },
+        {
+          "title": "【即時新聞】SpaceX(SPCX)狂飆35%超車特斯拉，美股七巨頭恐面臨大洗牌！",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMUNSaU1TVDEtOGJlNVZlVXZMS05CQTVDTHhla0g4aXNBVkZpdmxhZmxwT0hnZzlRdnhGLWZxYjUtck5QR2oxYzJiSkxfdUp6WDI2eXFaTVkxa21yZDEyS2VNMXpRc0VOeklPMEItckstNnRNOUtjY09YdS12U2p3blh2cERkUFBUSFI5ZkZMZ3g?oc=5",
+          "source": "CMoney投資網誌",
+          "published_hkt": "06/17 19:25",
+          "related": [
+            "TSLA"
+          ]
         }
       ]
     },
@@ -89,31 +91,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-17 19:26 HKT",
+      "updated_at": "2026-06-17 20:51 HKT",
       "news": [
+        {
+          "title": "【恒指夜期+北水】北水周三走資32億近57億南下資金大手掃建滔系股份、沽阿里中海油恒指夜期跌34點（不斷更新）",
+          "url": "https://news.google.com/rss/articles/CBMivwVBVV95cUxNR2gtNmFlX1hGT3ZsM0NSN285QjBHWW9iZGtacm5tRGF3Z2FvaWw5RlJoZkJ2MGl5ZEZLbXY4R2JaNGVVVjBMZEdtZDhUOEI0bHhkcW1KRVVtZ3hVa2xkdVhiQld3dWNlMzBWbnphWS0wX3BZTU12RW5LMWhhNWZWbnp5MjBkdXByNnlBcFhXYVc0ckxoSktKcnUwTnRZMlVTSFUxRUVHWmZfTHJGNVVTTExIVVdaZGtCVkViZjRIOFBJYmdTb3R6UlYwV0F2Q0NGZzNEbTFYa1kxYmF6MTZaTW4wYjJDYktSbkNWM3R5MFBfeUR0aVc5ZnR3UDh5ZjNkZlozSGxmOTBiU2tHRXRjTUpQNEh3dXBOcUZFLXZYV1E2YmMyR2xTQnR4Ul8yU3ladHZxcGFMUS1vQUh2ek5FNlhLMmdwS04wMTBrRWdWaEdUUGxaUjVNRnpKcFd3T3RYbzB3T1hsWVZlTXEzUi1HZlBKVHpzSF9MQUNwTmNxVm5BWkQtcENUeVZpNkxvU2tiS0JVVG1admgtMUF0c0J2YlhoTkdXYmthS2JGWEtZeno5cF8zN21xN0RzUVoyeUVmbXRTZFNBekxJdWk1Z0dHMWhzUnRFUWhPVGQzMXl6X3JFN2lqWUYwVW9vUXROSjhmWVlOT0FpV0JyN3VRT01NT1VTaVRfOERTS0lZblZsZGpnQ0piRy1iQlhmUWx1Njd0NWxCNTF0WFYyZy1mcjRVY3FNYTN5Um1VWEhyeDQ0Q3BlUHdUTUJnQXhsMUhIV0lncHJrb0FRT2NaY2NhVk5ZUkhZSFAxbEtmS3F3bHJRR01mTXowXzJGYzRwNkRhLWhfTmgtTllpN0NnLWpselk5MzRUMF84cnZCd2Q3RWlGVElMZ1dxN3V4dWFpNkdVZW5hMVQ4UXQtZDVOUTF6eUY4?oc=5",
+          "source": "香港經濟日報HKET",
+          "published_hkt": "06/17 19:43",
+          "related": [
+            "^HSI"
+          ]
+        },
+        {
+          "title": "恒指跌過百點連跌兩日 中資金融股受壓拖低大市",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNNTAzMWxOODZlQkEyM1VpdzNBWjY1YWYtRWNYaWVsRnZJYUxBOGYxZndVUzVIQms0RkplX1lsQTBlRGtzV292aHdsM1dVYzVPRjMxYXZMM0cwWVRoeU5uTlVQRnNSbmRRM3ZlS00xMnktSDF1QmU4SDcxZF9qYjU4OXVSZVFBUHhhelJGNUxQT0F6bHBUNlhTME5YYWMyUW9XbE81VGlLZ1hzaGVUX2pmeEkwcGhxSmNSbWJIaS1rejNsdlh6OFBralhxZjB2NG04R3M3eDlGbGVpTHpzaG1NRVNnWXR5UjNRYWNoc1JlRzRJZGwwUll0VWNpMEJjcUdrQmo3ZXM3TTRKWTEwbHQ5Qml0aVRVV3hDeU1yWTNGMUJCc3AtUlpua2J2R0tmSmw5U3I5bm1IQWtuYUh1VU9PWVFkbw?oc=5",
+          "source": "TVB",
+          "published_hkt": "06/17 19:42",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "恒指走勢丨兩連跌再跌181點 北水走資 快手飆逾7%",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuNmdxeWRWUTlGa2I4cHJaY09PaE0xNm9fZ0NDcDFQcHBBTV9QSHlGUG04SGpmWXR1RmZCOHBzSUhtQ3JnRGhZVFN2a3Q0eTU1azBFM3RQTnYzMGpHWUpxVDlieFJyV3NYV0h5czBUYw?oc=5",
           "source": "信報網站",
           "published_hkt": "06/17 18:13",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "FSMOne:恒指目標價29000點",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYnRHR1lVaHVYeDE4bkZ4QnJnR2p5YXdYNjNmNnBRX2hER0ZEc19iUjZjaGE0cGVha3B1dmlTbkRMUU9TMEpEdkVqanZfVEl5Qkl6MkZ1dnlBWXVvR09md0JnYVJ3SS1kMlRiVUxWWHlNVTZiQ0FKV2t4QjdfdDZ2MXBucnh4YWpJUndzTWVnNWJfNDNnNkZ4bUIyeWo1WHBXX2kzSmpYNFNKc2xmMWtpdl80YV9aVGF6cVFReE13cC0?oc=5",
-          "source": "信報網站",
-          "published_hkt": "06/17 17:52",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "有圖有勢｜HSI港股黑手原來是美元高息定存？（持續更新）",
-          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNX1VQbUR4TlBpYmpZUVNTOEFFdzQ1QWVWNGkzQlVzY3Mtc3BPUXExNlNWSHZReE9idWpqUTE3Yk53S0tWd3JDMm15Slp2WUdmNUxiNnlkamtFelJRanFjTjMtcjZKeW1mYS1tcGtYaWJSY21sMjRTUmVCeUdUM1U1UmRpZlhJVVNtUG4zaFVwUExFLThsM0NWWDZIWUZDUVkzNWo5NGg1aDRYSXhROTgyRzZ5WXpjSkVnU3VQWXVQUy1CWGl1d0NvUDd2YlRFTEFVczBoV0d5MG9wU0hVS3p5eE54NXhSY0FITnVhem9FRFI5b25UUXNobHN0Y0Z6V2M2SlI4X0x2a0hTNmFQVUxXUVZQcW9PLUhCeXFYbFk4WEw1MGIyR3RkVklsNlFxamsxeFp4TlJOT1pfWEFiMnFUM1BRZ0xnb2FOZjlKMTRSZ1pxN3FNNGlST0g5Tjg3cXNDWUxSWm9EMW9XNnJ5WF9Wczk5Vk9EWllGbVlqeXBRT1JOdw?oc=5",
-          "source": "香港經濟日報HKET",
-          "published_hkt": "06/17 17:45",
           "related": [
             "^HSI"
           ]
@@ -146,7 +148,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-17 20:33 HKT",
+      "updated_at": "2026-06-17 20:51 HKT",
       "news": [
         {
           "title": "TWA00 加權指數- 烏克蘭重創莫斯科最大煉油廠；烏軍精準打擊，俄多地現搶購潮；歐... - 股市爆料同學會",
@@ -199,7 +201,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-17 20:33 HKT",
+      "updated_at": "2026-06-17 20:51 HKT",
       "news": [
         {
           "title": "日本央行升息25基點並宣布暫停QT！日圓日股巨震，未來走勢如何？",
@@ -228,7 +230,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-17 20:33 HKT",
+    "updated_at": "2026-06-17 20:51 HKT",
     "news": [
       {
         "title": "2026年如何購買LightPath Technologies Tokenized Stock (Ondo) (LPTHon)？初學者分步指南",

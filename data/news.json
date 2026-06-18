@@ -230,8 +230,17 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-19 00:37 HKT",
+    "updated_at": "2026-06-19 00:45 HKT",
     "news": [
+      {
+        "title": "Ethereum Foundation首位華裔美籍執行董事任職僅一年便辭職，Vitalik對她的貢獻表示讚賞。",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wakw5V0dXRWU1VkhrYUVaRUZnVkJFaGJzd0UtYnFqNzlaaUJkZEpPd2FDT1V0Yk5iMzAxMWs1S1RpYklUeUtrVVNTRFpKM2NqSy1Wbl8wR3FYT2owY0pGdGFtRUdsRjN3RU9Z0gFrQVVfeXFMTTBqTDlXR1dFZTVWSGthRVpFRmdWQkVoYnN3RS1icWo3OVppQmRkSk93YUNPVXRiTmIzMDExazVLVGliSVR5S2tVU1NEWkozY2pLLVZuXzBHcVhPajBjSkZ0YW1FR2xGM3dFT1k?oc=5",
+        "source": "Bitget",
+        "published_hkt": "06/18 23:52",
+        "related": [
+          "ETH"
+        ]
+      },
       {
         "title": "2026年如何購買LightPath Technologies Tokenized Stock (Ondo) (LPTHon)？初學者分步指南",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTkdxUEF1NExJNmh5UzBwVl9SWGMwa3BydW5KaXFiLXNsbWVEY1hmYnZRTmZKQ2w2Zmg4NFl6QjJVQWRpMTdWS2JWcEM3MXRnX3F6bEwzbkdpd1BmMnFWeXh4SFNOZkhzcGRaVnc2bUZOMEVNWnFVd29OZ2ltVXFPRlhLNW96ay12?oc=5",
@@ -247,13 +256,6 @@
         "related": [
           "BTC"
         ]
-      },
-      {
-        "title": "XRP能跌破1.20美元到多低？",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSHdpa3haY2pYb3QtUHd1dXJkSS1PVVJXM2hfWVd4X241cnRjN21CS2syRWtTYXJmbHlpR3NvNVRIQm1hZWtsWVhIUGdKaS1qS2ZZcGgwcExubFpEdmNtVERNNDF2ZWZKR3VmNVloNU5pM0R6bzZQV1pKN0diWUY1Q28wOGtGZkVVSklJdmNOVngzZGNMTC1qZ2tMNWU2NkJWdWxKMy1CM1hoQW5KWDN1RXFvd0pQUFJIdzJqNGtMSXV2d3dTTklQa1hfNl9hNEJNYWJXUVNjcDZCd3JwUHpBZkJkOW1vd9IB5gFBVV95cUxPSHdpa3haY2pYb3QtUHd1dXJkSS1PVVJXM2hfWVd4X241cnRjN21CS2syRWtTYXJmbHlpR3NvNVRIQm1hZWtsWVhIUGdKaS1qS2ZZcGgwcExubFpEdmNtVERNNDF2ZWZKR3VmNVloNU5pM0R6bzZQV1pKN0diWUY1Q28wOGtGZkVVSklJdmNOVngzZGNMTC1qZ2tMNWU2NkJWdWxKMy1CM1hoQW5KWDN1RXFvd0pQUFJIdzJqNGtMSXV2d3dTTklQa1hfNl9hNEJNYWJXUVNjcDZCd3JwUHpBZkJkOW1vdw?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "06/18 21:01",
-        "related": []
       }
     ]
   }

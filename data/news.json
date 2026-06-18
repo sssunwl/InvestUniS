@@ -29,30 +29,28 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-17 11:43 HKT",
+      "updated_at": "2026-06-18 09:46 HKT",
       "news": [
         {
-          "title": "AI狂潮推高估值 美股站上155年來最昂貴區間？",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWbjJlNEtUN0NqbERBTnlTVkhqR2hUWDJCZk9KeHZLWEhaaC1ISlNCYzFEWEVic1FocTJMSTZOdnNtYjF3RDFqR2hKOFNJWFVhVHc?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "06/17 10:27",
+          "title": "史上最大IPO，為何沒有抽乾市場？",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1odnRfMS1oN2ZqZE5fWjBtcUpJQ2xQLXZrYkJ2RkVUOGtZSTZmUU5iZDdWQjlYTmhnQVlrS01EeERuVkt1SE51bQ?oc=5",
+          "source": "鉅亨號",
+          "published_hkt": "06/18 09:40",
           "related": []
         },
         {
-          "title": "（中通論壇）SpaceX上市為何難圓馬斯克的航天夢？",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBV2hqY05VTE9BOV84WERPNnc0QndRaUd1TUZ4Yml4WDFqZHFlSTB5Wms3eU9JbWh3UnFOY3k0WWlMU1RUdjFEeFY2VmJwYzJ3cUlOeFNMbjJrUGZvRHVBanhVQlQycDk2QWdJ?oc=5",
-          "source": "hkcna.hk",
-          "published_hkt": "06/17 09:14",
+          "title": "《美股》華許誓抗通膨 那指軟 Arm/博通/費半嗨",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbFRxcTYwTDBoOXRYTGJyMW1zLUp5QmJaZE1ENTVTal95N2d2OWtEQ1l6YnNJYzhKaVZDTjh0dnE5cElmUEpUSlk5dGFBWmlDY01jc0dHcnpOSjhOdzJuYVg1akJqMjFIaWtGOV9ibGxyTXo1b1pkbG9rWGFqQ3BvaEZkXzFGc0NDQ3lHa3NtdFdpUC1PTGVuY1ptNW44LWM1SXlEb0JncTBaVUE?oc=5",
+          "source": "台視全球資訊網",
+          "published_hkt": "06/18 09:16",
           "related": []
         },
         {
-          "title": "TradingKey 每日市場簡報：道瓊收高，那斯達克下跌逾1%，晶片股重挫近6%，市場靜待華爾希\"首秀\"",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU0ZYeHpBYkFaaEcwTkc4Vk5qNFlJLURzNGxLNUEwUmF5MVUzNTBpbzRzMlBlMU8zeDFET05CY0c0bnZDUEpzOVhCQmotazdGM1N6clYyLTRMYjFqUHhQeUU3Zk9mOHZvY3UtTVhRQWJTUFY0OC1XUWd1TmROa3ZMVTFKeXdHSXluMlZUNmRGbnFwMnFNS0x3V2ZFdFRkUFd0UTRxY2lBb01janBf?oc=5",
-          "source": "TradingKey",
-          "published_hkt": "06/17 09:08",
-          "related": [
-            "QQQ"
-          ]
+          "title": "市場對聯準會解讀偏鷹 法人看年底前維持利率不變機率仍高",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QdTdYeGhUZWkzeEM2WnBlc3k4S1J0UEgyc1VZa0ljRDZST1JkWjBLbFRoaFNDMm5qMzRYa1ZzdGY2aHM5UXNHRGI5Z2U3cF9la1hnbGU0Z3ItZ1U3RnRV0gFkQVVfeXFMT1U4eWktSGR5eVViZU5BbnJjb1lrcXN2d3pTdGhVUDZQSU1Lb0p3SFpZUzl1VHRMTWRDTjVPcU1ILUhCZk5uYi1LUk00eE9rVFViclZabUdfWl9qajVlQTVaa1ZzVg?oc=5",
+          "source": "自由財經",
+          "published_hkt": "06/18 09:11",
+          "related": []
         }
       ]
     }
@@ -230,27 +228,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-18 00:47 HKT",
+    "updated_at": "2026-06-18 09:46 HKT",
     "news": [
       {
-        "title": "加密貨幣價格預測：XRP、Ondo 及加密貨幣——美國市場綜述 6月17日",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbWF2bk1STFkxWHdGU2M1azdWcG8xRHZOZUxpMlU0WmdDRzRlWjVqcXZmZDNyU3ZrMTRlRUQwVWpoUmNzeUtPOEpuQnlFRUUzWjVsSmNXbE1lbHZjTURRQVdzQV9oemU1T2NoaFB1TVdQQTB2eFJOVm95cUdnNFNVZkhLZHZzQlY3S1EzcTliZDAtYUU4T0N1R1U4Tk40TWY2Tmt4OThKODY4cmlscDVTaC1welFBcVVGa1JXejg2Um00SGJFQ0hNZzhua1IwbG14c1BvN1BNTjhpY2xFSUltVnZn0gHnAUFVX3lxTE0yMTlBMjV4alBkdDJOajNlaUhISURWZVlXanVDNEl5RGE5RVJSOENCNS04M3otUFpPQXB4MF8xZ2N6bl9HRUYyZUI4eDM1eGV3V0xTdE1WREwzUzdqU3FuSlh2ZFFFSWlodkdoSFRYTXZnemswclZ5RHByUmQ2N0h0SlhkQnBHTmJ4anV0bXpFcDlDMjFuOXVhZGI1dFdXR25FeGJuSmhDNjFRVEVfOWxsY1dqanFTQm1HUHlIZGV1Ui03VXY2eEMwYzVEN0Y4YmtxcEwyU2tSNzNJSWpyTFZMLUlDREJFWQ?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "06/17 23:59",
-        "related": []
+        "title": "聯準會華許鷹派首秀！比特幣急殺跌破「6.39萬鎂」全線翻黑，4.42億爆倉、恐懼指數剩15",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd3IzRF9WTmdHcHlHZWxTeXJSbW1pNmRvS2UtYUZGcEM3RUd6dHJVVzVNOTk1RGZTTWk2QUVnWXB2dWU1UHk4V3MycDVsMm5wcW8wS240cno4N0RIeGx0T190ZWlHTFAtMnlQMm5DZVgyZUJlMWQtSTJCbHVDb1VoRG95clFiMHlTcWVaX3FIaC11SUE4bHlCYXVicVBueHVoSTd4cmh4VHo2M243?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "06/18 09:23",
+        "related": [
+          "BTC"
+        ]
       },
       {
-        "title": "交易時刻：沃什首秀倒計時，利率決議前市場開啟「屏息模式」，BTC維持盤整階段",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMWVSUV8yOWNnTm1yN2FpMFN4YVhBdjZlZ2Y3TnJiVFltb00yYld0bVBQdFVIbE1vSm03aXVibDRoZGthdXAtX0FZcVNNaFBZZTI1SEdFTEFsNWtvSmU2cGhkcGp5UWMtX0dEUW1seGF2eTlnX0dIcUZZLS1VVEhQR1p5MFFodw?oc=5",
-        "source": "PANews",
-        "published_hkt": "06/17 22:43",
-        "related": []
+        "title": "聯準會鷹派訊號重創市場 比特幣跌逾2%加密幣普跌",
+        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQVWVzSGRPcVZOTkxIMHBpbWRyLVNuZF9naHIxTjUteVJ2NXF2RWhOMUtIUlU5WTRfNlZaX21mcXRIVjlUMjBpakQ0VkdVV3VLc1lHRXJrUUluNm9hMkhHWjJaQTNTWFpVMWNvNFBja3dCeTRDUC1OSUtJYnRxSVY2Y0sxcXQybHVPOHhxSU01ai16OElxRHNRWEZXbUF2R3JPU1B6ZjZUQjRhMk1LNEtnR0hOaFhpd2w2X21VSkpveTdwQVg1SlV5bnVRUzY4dThhbElrcFlSVVVjZk9TWUxvMUgydXI5SHB4RFhWN0lmU3k0NTAwcXFNODQ2WTBoSXJjNl81TFpHRjdmSG9qdkJaY1ZxRU5tRkRLeldiZEZFbmNCZmFNSXQ3M3hTaTd2UE53UVZVaGxKbFJ1N195dnpFcXBVRjNETGJMMlNQSVJBTnduQ1RBWXpaNTZYZlM?oc=5",
+        "source": "商傳媒",
+        "published_hkt": "06/18 07:42",
+        "related": [
+          "BTC"
+        ]
       },
       {
-        "title": "Bitmine Immersion Technologies (BMNR) 宣佈其以太幣 (ETH) 持有量達 562 萬枚，加密資產及現金總持有額達 104 億美元",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3dBUFpPdTJCNWdhNFVQMmE2LU1rSWozNGgwYnhORnpjbTItMENHRzdYZnBmWE9zemVBTHJxTWtWWklGeGtQTkZJTXRXcUNxTmtDaEx4ZVVSb2lpSUc1OHJDaGpwSDlCZmlqOEV6U2ZycVpwQk1Jc29Za2Vnbmk4eFZTdHNRY1EwdUxr?oc=5",
-        "source": "PChome Online 新聞",
-        "published_hkt": "06/17 21:59",
+        "title": "華許首秀引發升息預期，美股全面走黑，SpaceX上市後首度收黑",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDNm5pUEtieUFfU2ZhUzlVcFZZVWZmUEc1NWFMenAwSGlNZmJzMTYwUW9VblItVTNCdzV2elRZUkg5UDlIMnBvMzlHT21pbnEzYW9Hck1KRDRTTGpGam5YSTNPbw?oc=5",
+        "source": "鏈新聞 ABMedia",
+        "published_hkt": "06/18 05:51",
         "related": []
       }
     ]

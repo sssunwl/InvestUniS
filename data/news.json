@@ -93,32 +93,30 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-18 20:24 HKT",
+      "updated_at": "2026-06-19 18:47 HKT",
       "news": [
         {
-          "title": "【港股後市】恒指或考驗23500點支持",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5odjBObFZ3eXFXZTBzVDdzT2g3cjB5NUgyWmFZLW90V1NtNXlLUWVTa0hNQ3AzWEgyaE5mZmI4UEpPQ3BISDBRTVRnSjlwZFpieHRXX3NBTFdyRG4xQnk1eWJaZGliQWs?oc=5",
-          "source": "Now 新聞",
-          "published_hkt": "06/18 19:22",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "港股618八五折速銷 吸引了嗎？",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNlZhSElxTE04eUFodVh6X0ZkNTNJSnlhUmREUXc5Rm1YMXRZUDYybXdlak12Y09UTUJIdzdSMFp3Z1Q4QlNEWEVDOFJfcE56MzduRzR1ZzVJcTZqRmduc0ZhS0kwQkZaeE1CbXRHRHpnRTFNZVgwMzZVYkkySzdIZlVpSk1wWURINGlQeVp6MHNsNDFEZGNJRHNnM2NJc1NfT0NjdnZVV3pkWWZxNmxSaEZxM2laM0ZZOWdVRFBGSUJxY3QwamRsR3NVcnhJOGlXQTFNcUJ2dVBSMndnWDZ1UmtqMmJ6eExULXc?oc=5",
-          "source": "香港經濟日報HKET",
-          "published_hkt": "06/18 19:10",
+          "title": "港股走勢丨半日跌412點北水走資 中資金融股向下",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XNzBaZWd5ZnkwVWNuQ203VkZheWlxRVhVU2RhRDcwUElYcVRPeVR0U2M1NHNwUG5FVklxemF6eWJwQm5zVnZQQXRpZmpaLW5rQV9XN0lHbjlfVXhCZm9QdA?oc=5",
+          "source": "信報網站",
+          "published_hkt": "06/19 14:00",
           "related": []
         },
         {
-          "title": "有圖有勢｜HSI近3600億大成交 尾市夾高百點港股真見底？（持續更新）",
-          "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQVHNlQnRvOEluMTdzYVR0RC1rZ1RWcVAzU015NFl1aFlFS0s2UFpEZ0Z0dmVxcDQ4TDJaRUZIZTZLNm5hdnFOV3JtSS01dXBReGNHREExb0FHekY1SERkU2ZBc054UmltaXgxSHJ0ZmNxbW5yZ0tJOTNXU210ZlJiUzVJMFl2ZER3Tm1DQngyMHJzWllFYUdIX203Nm45MW5TM1JsUFViRWZmWEpLams3MHJsNFBpYmd4TEhIUzJ2YUpxUlQ2bkJCUzQtaURvcHRtQndEWFBJX1dMeV82Z3AwNU9hbTZkZFFCNDF6RmJLc01pXzJjeTlfVEpyanF0OExzVFI2MGs0d0NDR3ppd0NKQ0JXMW9RbjJ2U0xwZ2Z2aGxPLXJ6ekxCNXpBOVlvZUx2T21vQXo1YlV6dVcxRTBFVmk5WTNCdVBEWENDLWFCd2pMMWhPV3FWRDRjNUlkcTROY0x1dDRTcTlBenFwVlFybUZiSVZWQjBYdXFkZTd1X0E4N0REclJ2ZGdhNWpLUlpnbzMxbUhVc2d6M051UjdfaVB6TmRQQ1RpaHEwWVJQOA?oc=5",
+          "title": "HSI港股為何老在打折？",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdVJPejRjbGgwREMyT1htOFRVNG1VT2k2M3JIT3FuNFpmNTNYZVZzRHdoUnh0bGhSZkY3Vm9LeWx2TmVBZm5aczNjSmlCZEJNdXFiTWlCQ0ItYWNIbF8yQmJfS3RWbk1WRDN2TVhWYjVxajJmNzAtalNVT0ZKRUtTRUlMRlVxWlpfNjFHelRXbWllZVFQUEJuNndRcWd4Q1Z6VzJfM0pBUEYyQ21tbTg4Z2Fia1dFaVFiOUpVQWFpZldndw?oc=5",
           "source": "香港經濟日報HKET",
-          "published_hkt": "06/18 18:25",
+          "published_hkt": "06/19 12:40",
           "related": [
             "^HSI"
           ]
+        },
+        {
+          "title": "北水走向｜北水68億買6股 VS 72億沽5股",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOM1pZRV9rTm5LenkxWEwyVjBVZHRDYjNmajZIVVJQaDNfWVJhMEt0aTFaVkNoRGlwdWhuZ01mWjlkdkt0OHp2V2hUUGx1aDI1VHJnRTd6OTh3c2pWVEJ3UHhwTHo4RkFWUldSTEZLWVhNXzBlMUpnQjZZcHg4aUdSYkxJWklOUU1tN1FtX1VqRmlrRTRTdmpGWjIyZXduZHBNQkwtR0NZZDJqdTFad1RocDJyMVhnTFE2MklaOXpnaE1ZdGUtQnczc3lSc1Y0RFlqNUxieTVjYllJN1Nic3phOHY1MnFFSDFBNVJBMWExN2FBWXAxcGdqTmMxOUFmaFE3?oc=5",
+          "source": "香港經濟日報HKET",
+          "published_hkt": "06/19 11:44",
+          "related": []
         }
       ]
     }
@@ -148,31 +146,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-19 14:23 HKT",
+      "updated_at": "2026-06-19 18:47 HKT",
       "news": [
+        {
+          "title": "台股尾盤翻黑收跌84.56 點失守月線",
+          "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQZnNzaGg2dm1ONzZFZWFtM05RVnM4TVkyRVhWeDhDaEhlaHZuTW9aRVVfcGJ1WnpMOERncU5BYXhpcUk1bkEyc3lXcmR2RFZpN3BoMG96MmxqcGhlU0lOU3owNkxOZmxfelNSQ005OTBFd1lhbHJrZXNSZjU5QUxWN0lBaDQwMS03UmVFUGFXWjdlWFRhWU1wR3pqSlRPR2Y3OWpwTW9pakZHWGFiOXFkUV9IazdRTk9lb25rLVBoREwyT0Z1aXlucWQwYmNsaWNIYXdhX01YYmZ0T2xNTTd1Mkhua0tsWm1EX3VBN3doX1l3aWs2OU1ZZkxDYlVkVUNmNkhiQzhHN2x6YmRpZTVURS1DVjdSSGVkQ1hnellpRUliazJPUHlPV25jcDhfalMzNWYtRVBuaTdMd3oxWGk0ODA0dFpXS3BpeTB1RDg4cmdCN2tFSzJoNktmV0h6ZExiaEJvMlZ4aWVIUUtOMExjZU5RSnFMOHhrWEt6NzlIb1Fib1M3blE2akpOdHZ3ajF1Y3huN1JiXzVYa0N2MkE?oc=5",
+          "source": "MSN",
+          "published_hkt": "06/19 14:54",
+          "related": []
+        },
+        {
+          "title": "TWA00 加權指數- 台股飆漲一七七八點創史高，權值雙雄領軍半導體齊揚- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTdVFJWEU4WVFuQnV4SnZkeXBEZXNRazB4aEtPUnVlenRSd0phWVN3ZFBkNmNiMEM1SXJtR3puZDIzNXBOd2RackFSQjVYY0c4MjdWV0J2SWU?oc=5",
+          "source": "CMoney",
+          "published_hkt": "06/19 14:17",
+          "related": [
+            "^TWII"
+          ]
+        },
         {
           "title": "TWA00 加權指數- 台股大漲市值破151兆，央行示警四貸同堂- 股市爆料同學會",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KWVZuOHlTT29KclNYUHFSdFlZN0Q5WmlEY0ZXX2dCRC1TNkhZMllnM0Nta2llaXlMUXlEaW9KTGdOUEs2a3htdDJheUVxZTVBOC10eUg2RXA?oc=5",
           "source": "CMoney",
           "published_hkt": "06/19 13:07",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數- 端午節後台股5萬點行情，你做好準備了嗎？ - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CSmFnbW1VbUhBc1FIaV9UZHRuVWRUZ2NHcWtkbk9kLWZhNUJmM3h0ZlFNQVViRTBfWTAxNThkVVZFc0NEQ0cyeGhUNU9LT3JzUHpaNG5yal8?oc=5",
-          "source": "CMoney",
-          "published_hkt": "06/19 10:02",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數- 經部預估：未來十年用電年均成長2.5% - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05Nl9IZ3pXOXNaQkVJbEZXZXZVd3A4QW5DRUNFUTRIWVpRLVZlWWxEUzloR3hlN3JnanZsZnhkOG93VFJrcy1VM21BU2Zoem5MZ29FMWlhRXc?oc=5",
-          "source": "CMoney",
-          "published_hkt": "06/19 07:05",
           "related": [
             "^TWII"
           ]
@@ -203,63 +199,61 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-18 20:24 HKT",
+      "updated_at": "2026-06-19 18:47 HKT",
       "news": [
         {
-          "title": "美半導體助攻日韓股市，日經首破七萬點-財經焦點情報站",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUUk4Q3ZiLUctclItcHRoQ0JmZHpFSzh1TTQ2MzBwRGFjX3ZJYUNURV9mYTVNWWpDZWFmLXlpalplNE9kNk9tM2I5bHhlUUhWLTJILWRocTlzdUVJOWQxSGE3dzdfX2N1Y0xGbXZNWE5udEZoRkpCSm81NmpBbmdUM1V3?oc=5",
-          "source": "CMoney投資網誌",
-          "published_hkt": "06/18 17:17",
-          "related": [
-            "^N225"
-          ]
+          "title": "韓股衝破9300點創高三星.SK海力士登新天價| 國際",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0taUpSVjdfRlRiR0FmSzRDZG1jRHRCdng3emp6MmRYd0hXZU9rTklRQXU5NGwyd0JxdG1wSVA4UkFic011U2tBQlpVU0dQRU5jdWd5ZDdhekxPdlQ4?oc=5",
+          "source": "非凡新聞台",
+          "published_hkt": "06/19 17:40",
+          "related": []
         },
         {
           "title": "美半導體股助攻日韓股市齊揚 日經首站71000點",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94THdfcUFndTVHU1o3LUhNMl9nRGpJWWptWVRLQUZwX201MnFVM2FfQ0JFV1FMUzdIM2M4WnFKa0dIMjd0UGlERWMwblVkT1JBSTRycW4xQmxnenFDeXJ3aDZkMDBRQUJmc3RrU2NSYjZQdm9wNFgtMkExSHF2X1E?oc=5",
-          "source": "UDN",
-          "published_hkt": "06/18 15:43",
-          "related": [
-            "^N225"
-          ]
-        },
-        {
-          "title": "美半導體股助攻日韓股市齊揚 日經首站71000點",
-          "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQZlh5Qlo1bm9HNF9lZ3ZxZVhTWnJVNC1PLTNocVBJRXkwMGJxbngwM3ljWTFpT3phNkhjb3JsNkRLeDZlUmNBdzJKcF80UnB0NWlGdGY5WTlCNnhLNHVvYWVkaFZCQXZRRV9WY3BNMkh3TXo3ZTZhM3RERkx2X05BTk5vVnlGNWlnRXpTTHRkVlQ5VklCaGIzTVY1Ty02TmYwMW55ODFPYlhwS3NpMThybmxSdjhfT1d6OUJ2Q3kyaUE0OWRoeVYxek0xdlJRaGplRDFBc3VTR0pJMHpwNzltX1JKNjBBaXVROUg4aDVVM2d4R2ZVMWZ6blo1Um9pRU1xY3dwRHJ3dHRTN05VbXQ2eEhRbUc3eDFUTkhvR3YtTnZqcTBPNWNycnZwbmFJR3VnajNUQjlCZVI5WXRlMllLNXM5U0dxdnZXVFJic2dDTmxhcTRBSU9TN3c4OTh0c1hsQW1UaHJ6UkY?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPNXRULXFvcm1jaDhTNzdVYUZiQ0t6cGdjNjdSTHpUYmhsMm5pR0hHTFBabm9Ma0ItSnd6ZVRfVDhGYmRsRmw2UDhIdDE1Nk1aMjI3YlRSUk9rSFlYcjJtSXlkSkxwUllySkJUVkc1Y0hIS1lJbXNaT3cxSHRJcWxYV3ZEUS1GZXdVV29udUxIWlFqMUVlRkk5eFB5X0hDVkVFY1RNN3E1Nnh0V2xGM2NpRDlzR1FvcWFrM0F2NjhrcUR4RXBfUXNwV2ZlYi1nNVhkOWRYSGRaaUNiaXZndC1mOVNkemVDdS14ODhWb1VpWURRZm95Ym5nSmVOa1pZQnpHWU91UE5KMXd2VlU3RXlnVmlTSkhMaVFLd1ZrZDJuc0dOanBmemlieGx5by05UjFySFV0aFpGSk4wanZXZFhQS00tdW8?oc=5",
           "source": "MSN",
-          "published_hkt": "06/18 15:40",
+          "published_hkt": "06/19 17:17",
           "related": [
             "^N225"
           ]
+        },
+        {
+          "title": "美伊會談喊卡亞股收盤互有漲跌| 全球財經| 全球",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLamZxMGhTNkpBMFVRcm9rbHZWbDhYVEp3U0doYVF1Mm5MazhpdzhYMl9heXlIcEFBclgxZnVwdUxiNTYxc0ROcWpQTzBOeWJL?oc=5",
+          "source": "UDN",
+          "published_hkt": "06/19 17:14",
+          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-06-19 14:23 HKT",
+    "updated_at": "2026-06-19 18:47 HKT",
     "news": [
       {
-        "title": "2026年如何購買Hubbell Tokenized Stock (Ondo) (HUBBon)？初學者分步指南",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WZVhETmp3c0ZjaHBiX0toaEt5NEx5ejQwdlVJZTZMa2xoaVlsb1AyUUIxUDNDekwwT0tEVkdjMXdseElEV3FWclJHYUhYYlhQRG1VVWJYa05aSXFuaW5jVy1DOFdwNHVON3ZJMTN1SXAxMDNl?oc=5",
-        "source": "WEEX",
-        "published_hkt": "06/19 13:28",
+        "title": "Algorand 公布「抗量子路線圖」，力拚 2027 年全面大升級",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4ybWtXUjRzeWRzY3Q4UDU2bU50blNfUUlwTHM3S3hJTFpSRlp0al92LWFRVjlfbHBTNmV0NXFXdGMySXBPajQyQlB4bw?oc=5",
+        "source": "news.cnyes.com",
+        "published_hkt": "06/19 18:00",
         "related": []
       },
       {
-        "title": "麻吉大哥喊話Michael Saylor：把你所持有的bitcoin全部存入Ethereum借貸還債",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0UWIta3o0dDRiUEdZNEhwQ2w4VldDNmMyUzVmVlhyRlJMLXhjN0lBTlNCNnhHR21UcGNKcmczNU5kbGc1dG5FaG1WR2RzaWJLa0x2S0pjQzk2eThOc00tclRYQ21maEdwdGxZ0gFrQVVfeXFMUDRRYi1rejR0NGJQR1k0SHBDbDhWV0M2YzJTNWZWWHJGUkwteGM3SUFOU0I2eEdHbVRwY0pyZzM1TmRsZzV0bkVobVZHZHNpYktrTHZLSmNDOTZ5OE5zTS1yVFhDbWZoR3B0bFk?oc=5",
-        "source": "Bitget",
-        "published_hkt": "06/19 11:13",
+        "title": "今日 BTC、ETH 期權到期逾 21 億鎂！比特幣最大痛點高掛 6.5 萬美元",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU3BfUzBobXktb3RxQ1N2dVl5ajEwaEVzamxFTy00OFQwLTFPaVNIWW1BT1ZMc3lfRlh2NXpuT0lFOHlubHdMSWZoaW8zNjVpdmk4UEdoMXdteTFUbEZ5YW5ZRGtJT0NOZjFQMUZ1TVc4UllzUmhLTThjLXl1NGxlRjM4ZDFyOWo4Z01BX1U3YmlsSWhwa1E?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "06/19 17:27",
         "related": [
-          "ETH"
+          "BTC"
         ]
       },
       {
-        "title": "AiCoin丨6.19快訊：巨鯨減持、關稅豁免提案、多頭爆倉",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DQmRLdEE0c1Zwb3JNajE1TjZvbkhqd2VRLUpURnlQS0k5V0RGOU9XYjQzWVA5TVpLQ1ZjalMxVFBXelItTWcyaEt1ZU94YWp5emRrNWF1empmeFhFMUFLT1l1SzBPUnpoT0Yw0gFrQVVfeXFMT0NCZEt0QTRzVnBvck1qMTVONm9uSGp3ZVEtSlRGeVBLSTlXREY5T1diNDNZUDlNWktDVmNqUzFUUFd6Ui1NZzJoS3VlT3hhanl6ZGs1YXV6amZ4WEUxQUtPWXVLME9SemhPRjA?oc=5",
-        "source": "Bitget",
-        "published_hkt": "06/19 09:31",
-        "related": []
+        "title": "比特幣重挫跌破6.2萬美元 中東衝突與微策略利空夾擊",
+        "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOUXJnMlZQY1NjM3JfNkcycHpzSFl1Q21seDk4RktIN0RWUWVjRFZfZTNyNDAtcnkwUkxUb2UyVlF0cFZKU2NjSExmcFZBNHhVempEX01WSmpPTlV5NGRUajJEc2JocVhQZS1QZmY1cUpVZ2FXbk1Sc21ENjJuS1ZpNFFlb3ZTaWhiQzVUeWU4RGFDTnRJRjdscDRtSW42UHBTcThjbHBkcFFqSFFKNzUtZWZnVlptdVVlS3NzZ25RYVpJM0RXYVNOdFVTbEcxMXJPczNKcTFDZy0tUDFWLVVlbWplajVwY1N4ODJ6bHVVQWlhaFF0VlU0UjdvUnBhMmFIZmRJS01pLTBleEhKdGpVYVlPc3h5OWNhQ2hZNGFOQk9BUWhJd0t5U2lGVUhzNl83SlhNLWxuX1RTaUNuN01NTGJSR01JbHM1YV9YRnFOMXpjQmpqNXhqLVdZM0J1d3FEd1Y5VEVHcw?oc=5",
+        "source": "商傳媒",
+        "published_hkt": "06/19 15:54",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

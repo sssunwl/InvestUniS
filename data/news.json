@@ -93,7 +93,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-19 18:47 HKT",
+      "updated_at": "2026-06-19 19:11 HKT",
       "news": [
         {
           "title": "港股走勢丨半日跌412點北水走資 中資金融股向下",
@@ -146,7 +146,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-19 18:47 HKT",
+      "updated_at": "2026-06-19 19:11 HKT",
       "news": [
         {
           "title": "台股尾盤翻黑收跌84.56 點失守月線",
@@ -199,7 +199,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-19 18:47 HKT",
+      "updated_at": "2026-06-19 19:11 HKT",
       "news": [
         {
           "title": "韓股衝破9300點創高三星.SK海力士登新天價| 國際",
@@ -228,11 +228,11 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-19 18:47 HKT",
+    "updated_at": "2026-06-19 19:11 HKT",
     "news": [
       {
         "title": "Algorand 公布「抗量子路線圖」，力拚 2027 年全面大升級",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4ybWtXUjRzeWRzY3Q4UDU2bU50blNfUUlwTHM3S3hJTFpSRlp0al92LWFRVjlfbHBTNmV0NXFXdGMySXBPajQyQlB4bw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZVFp0TmVFbHRyemQ0VGIwZkp0UW5sS1BIMlgyVHBXUEZFSjY4LXl5LTdvV3RpS0VIaTN2LUJoZTdoSzJFZWd2VWxheU0zNEU?oc=5",
         "source": "news.cnyes.com",
         "published_hkt": "06/19 18:00",
         "related": []
@@ -247,13 +247,11 @@
         ]
       },
       {
-        "title": "比特幣重挫跌破6.2萬美元 中東衝突與微策略利空夾擊",
-        "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOUXJnMlZQY1NjM3JfNkcycHpzSFl1Q21seDk4RktIN0RWUWVjRFZfZTNyNDAtcnkwUkxUb2UyVlF0cFZKU2NjSExmcFZBNHhVempEX01WSmpPTlV5NGRUajJEc2JocVhQZS1QZmY1cUpVZ2FXbk1Sc21ENjJuS1ZpNFFlb3ZTaWhiQzVUeWU4RGFDTnRJRjdscDRtSW42UHBTcThjbHBkcFFqSFFKNzUtZWZnVlptdVVlS3NzZ25RYVpJM0RXYVNOdFVTbEcxMXJPczNKcTFDZy0tUDFWLVVlbWplajVwY1N4ODJ6bHVVQWlhaFF0VlU0UjdvUnBhMmFIZmRJS01pLTBleEhKdGpVYVlPc3h5OWNhQ2hZNGFOQk9BUWhJd0t5U2lGVUhzNl83SlhNLWxuX1RTaUNuN01NTGJSR01JbHM1YV9YRnFOMXpjQmpqNXhqLVdZM0J1d3FEd1Y5VEVHcw?oc=5",
-        "source": "商傳媒",
-        "published_hkt": "06/19 15:54",
-        "related": [
-          "BTC"
-        ]
+        "title": "儘管鏈上表現堅韌，Sui仍面臨更深的下跌風險",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRkxDeE9saGhhLTZudlVscVRpLU9FYzJUZ2UwWkkyWG9CbU1hc1A0MVJjTlFPRlRaODBsR3pEN2M1WUd2OEtOZGRGNHVNVk1LVW9IZHg3eDFZUU0xYWNpUHZYc3lMVDQ0Wkp4RjlFRlpNdWRMUXhRdlBRR3lxVE1sWk1WdXZwamc2WHFfUTN3UFVZUi1Jd2wybl9sVEY4MEhFN2V3QldqMTZHTzJEWEVxZ1VvRGZ5Q1M1Q0ZidUxoaXBVSVVQLUJWX25raDR3WmVxUGdGaWdkbFBoSUM5aXRqdjZEQ3A4aGp4QVZIUkZHV3VodUZ4c005YdIB-AFBVV95cUxQRkxDeE9saGhhLTZudlVscVRpLU9FYzJUZ2UwWkkyWG9CbU1hc1A0MVJjTlFPRlRaODBsR3pEN2M1WUd2OEtOZGRGNHVNVk1LVW9IZHg3eDFZUU0xYWNpUHZYc3lMVDQ0Wkp4RjlFRlpNdWRMUXhRdlBRR3lxVE1sWk1WdXZwamc2WHFfUTN3UFVZUi1Jd2wybl9sVEY4MEhFN2V3QldqMTZHTzJEWEVxZ1VvRGZ5Q1M1Q0ZidUxoaXBVSVVQLUJWX25raDR3WmVxUGdGaWdkbFBoSUM5aXRqdjZEQ3A4aGp4QVZIUkZHV3VodUZ4c005YQ?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "06/19 16:57",
+        "related": []
       }
     ]
   }

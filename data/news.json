@@ -29,30 +29,32 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-19 10:10 HKT",
+      "updated_at": "2026-06-19 11:57 HKT",
       "news": [
+        {
+          "title": "估值超越所有標普成分股！SpaceX躍美股最貴股票 引發網景級網路泡沫化大辯論",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pSlFnSjNFS1g4cGdSdDNORXlEVmdqOU1zaDJSeW9MdkpFR1FEZlItRXFUWE16eklydWZ6bUJ6ZHFOZ0pzSHNhVU9vYzJ3d00?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "06/19 10:40",
+          "related": [
+            "SPY"
+          ]
+        },
+        {
+          "title": "美伊停火激勵美股，晶片股領台積電大漲-財經焦點情報站",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdzlzMkdLTEY2UF9PUTVuOFFaMFU4bHNsenppelhjaF9hRll3NXZVVDlKLVF2cUJGNU9hZFR6eEs1MWRUSWNrSkpXeEc3WHpVWnBUdjQ0UXRxVjRlUkRocnlhUHlaalJuR0FtRzluOVRvQ1B5Y21rZEE0WTRwY2dWeHFR?oc=5",
+          "source": "CMoney投資網誌",
+          "published_hkt": "06/19 10:18",
+          "related": [
+            "TSM"
+          ]
+        },
         {
           "title": "AI狂潮推升美股 巴菲特指標突破229%引發憂慮",
           "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBabVZrNW9MZDVKT1hkbXNjVzVacjRqU2VFbW91TFdKZWhSOWNqWTg5OHNZSWZCWXBvdVQ2R0lobEczZw?oc=5",
           "source": "墨新聞-MORE News",
           "published_hkt": "06/19 09:54",
           "related": []
-        },
-        {
-          "title": "華爾街預期三巫日提前到來，美股未來兩週將迎來技術面關鍵期",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTS16Tl95UDFLbFJVUEZjVkx5MmVnaDNqS3hnRHlvUW9wOUNZRGtpOWFQLU5WUlZ3aENndXRXR2JuT0JKa0hSSVRZR3JjWTIxWHF5RVR4cER4dGo2bEtUV29uZW00ZVl4UUFnSV9QbmRiQ21PaXp5dWlIaG1BczRqREhwMU11Sl9LcS1kRWNB?oc=5",
-          "source": "鏈新聞 ABMedia",
-          "published_hkt": "06/19 09:47",
-          "related": []
-        },
-        {
-          "title": "美股今休市！六月節登場紐約證交所、那斯達克暫停交易債市也關閉| 全球財經| 全球",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGaUdZY25WanZNVzYyYXFzVFBOWkhFbjE2NjVTUjYzZWZIclZDdVpRYjY0bU16eVV1a0RFRG16aGV3T3dackIxazJ0RXlHb2Zt?oc=5",
-          "source": "UDN",
-          "published_hkt": "06/19 09:43",
-          "related": [
-            "QQQ"
-          ]
         }
       ]
     }
@@ -232,8 +234,15 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-19 10:10 HKT",
+    "updated_at": "2026-06-19 11:57 HKT",
     "news": [
+      {
+        "title": "AiCoin丨6.19快訊：巨鯨減持、關稅豁免提案、多頭爆倉",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DQmRLdEE0c1Zwb3JNajE1TjZvbkhqd2VRLUpURnlQS0k5V0RGOU9XYjQzWVA5TVpLQ1ZjalMxVFBXelItTWcyaEt1ZU94YWp5emRrNWF1empmeFhFMUFLT1l1SzBPUnpoT0Yw0gFrQVVfeXFMT0NCZEt0QTRzVnBvck1qMTVONm9uSGp3ZVEtSlRGeVBLSTlXREY5T1diNDNZUDlNWktDVmNqUzFUUFd6Ui1NZzJoS3VlT3hhanl6ZGs1YXV6amZ4WEUxQUtPWXVLME9SemhPRjA?oc=5",
+        "source": "Bitget",
+        "published_hkt": "06/19 09:31",
+        "related": []
+      },
       {
         "title": "美聯儲尋求加強對穩定幣發行商的監管，提議採用類似銀行的身份識別要求",
         "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOTjZzSVV6RmYtdmhOeEY3RkswRDR6MDFYc3hYWWtCakhlSURlWDRPOTd0VnhFcWZUMHVjWU9veXBFVDhseEhlUmNvMWV1Z2tZTGF2NVVYYWh2T1hJSDc2RlUyeng0ejFjVmxVTEJ1eGhVRDEwNl9XZzFqWEdQRWFKT2dWRU9QYXZNSUtrb0VLOGQydkJ2dUFhOEY4MnRwRk9aWXNwTzZ0blB1RmpDSFFWM0lMVHVzVzNKRnZzOGFuNGF5RDBkZEI1ZndZSHROQ29BQW5tZGNlaVM3NEtYbTBQZjJqcXJWaUNtR0UxX002dUNzeEpia2lsWEZ1NDhrcEIxYzdPRkJpU0UwMjNTYXlIbWdBWlk2S1BJNlNPTmFTSkTSAaACQVVfeXFMTk42c0lVekZmLXZoTnhGN0ZLMEQ0ejAxWHN4WFlrQmpIZUlEZVg0Tzk3dFZ4RXFmVDB1Y1lPb3lwRVQ4bHhIZVJjbzFldWdrWUxhdjVVWGFodk9YSUg3NkZVMnp4NHoxY1ZsVUxCdXhoVUQxMDZfV2cxalhHUEVhSk9nVkVPUGF2TUlLa29FSzhkMnZCdnVBYThGODJ0cEZPWllzcE82dG5QdUZqQ0hRVjNJTFR1c1czSkZ2czhhbjRheUQwZGRCNWZ3WUh0TkNvQUFubWRjZWlTNzRLWG0wUGYyanFyVmlDbUdFMV9NNnVDc3hKYmtpbFhGdTQ4a3BCMWM3T0ZCaVNFMDIzU2F5SG1nQVpZNktQSTZTT05hU0pE?oc=5",
@@ -249,13 +258,6 @@
         "related": [
           "BTC"
         ]
-      },
-      {
-        "title": "2026年如何購買Photronics Tokenized Stock (Ondo) (PLABon)？初學者分步指南",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Yd2ZhM1JlcTVYd2hNV012VmRwODRuUWMxa1p2ajd0bFlwM0RRME1wZVNFWjVNS2FUYVlGUXlwOG1MR0JQNHZJd3VxYnl2MXF4WjYwSjdGUXhOeEM3cjRmWE00SlJuOWZDWTVxeEs4SUFCb2I1QXkwNw?oc=5",
-        "source": "WEEX",
-        "published_hkt": "06/19 02:51",
-        "related": []
       }
     ]
   }

@@ -233,32 +233,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-22 22:37 HKT",
+    "updated_at": "2026-06-23 01:41 HKT",
     "news": [
       {
-        "title": "2026年6月21日-6月22日區塊鏈24小時最新資訊鏈共識（鏈新聞）",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xMk9rVVFaOUxXXy1CTVFVdExKNVpHc0FuOG0wcHYtUGo2S3lTd0FYZW9aWXc0MFEzcU44QjRCNVNXS3lFZjVlRzR4UQ?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "06/22 20:30",
+        "title": "Bitget推出Stock+功能，讓加密貨幣投資者能夠投資真正的美國股票| MEXC 新闻",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HSnhfYmxWbk5GQTRnbGRndzhDLXF3TXEyRVl1dEYzMi1kRk8wemVTZjVqMWVOWXZIVFh2dkxHd2otOW9xN2FxXzVQVm9FbVhM?oc=5",
+        "source": "MEXC",
+        "published_hkt": "06/23 01:01",
         "related": []
       },
       {
-        "title": "隨着比特幣和山寨幣價格上漲，衍生品市場對漲勢能否持續表示懷疑",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZTc3S0s1VlRtWFhLa3B3WDQ2S0Vaa1dUOHFteVdSMzJ4UVVPUEpoSmowam1YM2VCVnNEOTgwUFRPX1lPUzNSZHFWRENIc1dZVGdyTHQ5ZXJmelNtbkpwRnF1cmlJRU5mZG50di1TcGpVWUVYbFczaW91YWJqcEhkRUdZX2xhWVNUdFZuVkF3ZF84NWpwUDgtQUNUa2x3RVJDcTU3REJITGlvZkhNZkhQQ2VQTlU?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "06/22 19:12",
+        "title": "Joseph Lubin回應以太坊治理辯論，倡議在基金會框架之外建立更廣泛的支持網絡",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBVRGtfLXhVMjlXSTVvSW8tVXhMQkMxaXpta2ZSRWNKMG0xR21UdldYRUpyLUtaQ3N2Vjl4TDZFdjlLNDR0YVh0dWdB?oc=5",
+        "source": "区块周刊BlockWeeks",
+        "published_hkt": "06/23 00:50",
         "related": [
-          "BTC"
+          "ETH"
         ]
       },
       {
-        "title": "加密貨幣週報 | 比特幣跌破$6.5萬；FOMC會議前ETF資金流出$2.27億；礦企拋售全部產量",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcl80YnVTalpxaXpzR0NSUkx2Q0lxYm1ETzB2RVVjNlpJaXEweGpRaFcyNVhJSXh6TW9KVVVaaHpaOUxKZldFQWtCSkQ3bWlaWFdxcTBrSlhyTEl4SjFmcFBXaTBaUDFnRnBYX04tU0ozZjJsM0U5VEg4MFc4MnFqX1JlakUtNjdsMnFVTkVhUTA4WjRqX192Y3MxRW04R3JaMVVLVEtUWFVMUWFGbUU5aGxoNDZrWUlUSVE?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "06/22 14:56",
-        "related": [
-          "BTC"
-        ]
+        "title": "日本逮捕一名高級皇室成員，全球當局加大力度打擊加密貨幣詐騙網絡| MEXC 新闻",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KT0hYWjltNkFHYzZ1Um5ucGkzTUhHd2s0d3FDcGtfVGpFR1dNWEplYXc1ekdPUTc0aEZYUk5DQnVGUFdROGQ4emJGNjVPT3lZ?oc=5",
+        "source": "MEXC",
+        "published_hkt": "06/23 00:45",
+        "related": []
       }
     ]
   }

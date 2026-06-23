@@ -444,6 +444,8 @@
     .sop-num { background: var(--gold); color: var(--dark); font-size: 12px; font-weight: 800; width: 26px; height: 26px; border-radius: 50%; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
     .sop-text { font-size: 13px; color: var(--mid); line-height: 1.7; }
     .sop-text strong { color: var(--dark); }
+    .card-title a, .bond-type-name a, .sop-text a, .tag a { color: inherit; text-decoration: none; border-bottom: 1px solid currentColor; opacity: 0.85; }
+    .card-title a:hover, .bond-type-name a:hover, .sop-text a:hover, .tag a:hover { opacity: 1; }
 
     /* ── Anatomy guides ── */
     .anatomy-box { background:#fff; border:1px solid var(--border); border-radius:12px; padding:18px; margin-bottom:22px; display:grid; grid-template-columns:auto 1fr; gap:20px; align-items:center; }
@@ -1964,10 +1966,10 @@
     <div class="options-section">
       <div class="options-section-title">⑦ Tier-1 免費資訊來源</div>
       <div class="cards-grid">
-        <div class="card"><div class="card-header"><span class="card-icon">⚡</span><span class="card-title">Walter Bloomberg</span><span class="tag tag-alert">最快</span></div><p class="card-desc">X（Twitter）上最快的華爾街快訊帳號。重大消息第一時間出現在這裡，比 Bloomberg Terminal 只慢幾秒。</p></div>
-        <div class="card"><div class="card-header"><span class="card-icon">📡</span><span class="card-title">FinancialJuice</span><span class="tag tag-alert">即時</span></div><p class="card-desc">即時市場消息快訊，覆蓋央行、地緣政治、財報。格式簡潔，適合盤中快速掃描。</p></div>
-        <div class="card"><div class="card-header"><span class="card-icon">🌐</span><span class="card-title">Reuters Business</span><span class="tag tag-info">可靠</span></div><p class="card-desc">最可靠的官方金融新聞來源之一。適合核實重要消息，避免假新聞引起過度反應。</p></div>
-        <div class="card"><div class="card-header"><span class="card-icon">📰</span><span class="card-title">First Squawk</span><span class="tag tag-info">快訊</span></div><p class="card-desc">專注美股盤前盤後快訊，特別是財報後的即時數字解讀（EPS、Revenue vs 預期）。</p></div>
+        <div class="card"><div class="card-header"><span class="card-icon">⚡</span><span class="card-title"><a href="https://x.com/Walter_Bloomberg" target="_blank" rel="noopener">Walter Bloomberg</a></span><span class="tag tag-alert">最快</span></div><p class="card-desc">X（Twitter）上最快的華爾街快訊帳號。重大消息第一時間出現在這裡，比 Bloomberg Terminal 只慢幾秒。</p></div>
+        <div class="card"><div class="card-header"><span class="card-icon">📡</span><span class="card-title"><a href="https://www.financialjuice.com" target="_blank" rel="noopener">FinancialJuice</a></span><span class="tag tag-alert">即時</span></div><p class="card-desc">即時市場消息快訊，覆蓋央行、地緣政治、財報。格式簡潔，適合盤中快速掃描。</p></div>
+        <div class="card"><div class="card-header"><span class="card-icon">🌐</span><span class="card-title"><a href="https://www.reuters.com/business/" target="_blank" rel="noopener">Reuters Business</a></span><span class="tag tag-info">可靠</span></div><p class="card-desc">最可靠的官方金融新聞來源之一。適合核實重要消息，避免假新聞引起過度反應。</p></div>
+        <div class="card"><div class="card-header"><span class="card-icon">📰</span><span class="card-title"><a href="https://x.com/FirstSquawk" target="_blank" rel="noopener">First Squawk</a></span><span class="tag tag-info">快訊</span></div><p class="card-desc">專注美股盤前盤後快訊，特別是財報後的即時數字解讀（EPS、Revenue vs 預期）。</p></div>
       </div>
     </div>
 
@@ -1976,12 +1978,12 @@
       <div class="bond-type-list">
         <div class="bond-type-item">
           <span class="bond-type-rating rating-safe">圖表</span>
-          <div class="bond-type-name">📈 TradingView（tradingview.com）</div>
+          <div class="bond-type-name">📈 <a href="https://www.tradingview.com" target="_blank" rel="noopener">TradingView（tradingview.com）</a></div>
           <div class="bond-type-desc">免費版已足夠。建議 Watchlist：SPY、QQQ、NVDA、TSLA、USOIL（WTI）、VIX、US10Y、DXY。可設價格 Alert，VIX 突破 20 自動通知。</div>
         </div>
         <div class="bond-type-item">
           <span class="bond-type-rating rating-mid">數據</span>
-          <div class="bond-type-name">📊 Investing.com</div>
+          <div class="bond-type-name">📊 <a href="https://www.investing.com/economic-calendar/" target="_blank" rel="noopener">Investing.com</a></div>
           <div class="bond-type-desc">經濟數據日曆（查今日有哪些數據）、市場報價、財經新聞。盤前必看「今日日曆」功能。</div>
         </div>
       </div>
@@ -2245,10 +2247,10 @@
     <div class="options-section">
       <div class="options-section-title">⑨ 進階概念</div>
       <div class="cards-grid">
-        <div class="card"><div class="card-header"><span class="card-icon">🌊</span><span class="card-title">Options Flow</span><span class="tag tag-info">機構動向</span></div><p class="card-desc">追蹤異常的期權大額訂單。機構在買入大量 Call 時，往往早於正股突破——是領先指標。工具：Unusual Whales、Fintel。</p></div>
-        <div class="card"><div class="card-header"><span class="card-icon">🌑</span><span class="card-title">Dark Pool</span><span class="tag tag-info">隱性積累</span></div><p class="card-desc">機構透過場外「暗池」進行的大額交易，不在公開交易所顯示。暗池買盤出現後，往往數天內反映到正股。工具：BullFlow、Unusual Whales。</p></div>
+        <div class="card"><div class="card-header"><span class="card-icon">🌊</span><span class="card-title">Options Flow</span><span class="tag tag-info">機構動向</span></div><p class="card-desc">追蹤異常的期權大額訂單。機構在買入大量 Call 時，往往早於正股突破——是領先指標。工具：<a href="https://unusualwhales.com" target="_blank" rel="noopener">Unusual Whales</a>、<a href="https://fintel.io" target="_blank" rel="noopener">Fintel</a>。</p></div>
+        <div class="card"><div class="card-header"><span class="card-icon">🌑</span><span class="card-title">Dark Pool</span><span class="tag tag-info">隱性積累</span></div><p class="card-desc">機構透過場外「暗池」進行的大額交易，不在公開交易所顯示。暗池買盤出現後，往往數天內反映到正股。工具：<a href="https://bullflow.io" target="_blank" rel="noopener">BullFlow</a>、<a href="https://unusualwhales.com" target="_blank" rel="noopener">Unusual Whales</a>。</p></div>
         <div class="card"><div class="card-header"><span class="card-icon">⚡</span><span class="card-title">GEX（Gamma Exposure）</span><span class="tag tag-caution">技術向</span></div><p class="card-desc">做市商對沖期權倉位時對股價形成的磁鐵效應。GEX 正值時股價傾向被「吸引」在特定價位，GEX 翻負時波動放大。</p></div>
-        <div class="card"><div class="card-header"><span class="card-icon">👔</span><span class="card-title">Insider Buying</span><span class="tag tag-bullish">管理層信心</span></div><p class="card-desc">公司內部人（CEO/CFO）公開買入自家股票。管理層用真錢買進時，通常是他們認為股票被低估的信號。查詢：SEC EDGAR 或 Fintel。</p></div>
+        <div class="card"><div class="card-header"><span class="card-icon">👔</span><span class="card-title">Insider Buying</span><span class="tag tag-bullish">管理層信心</span></div><p class="card-desc">公司內部人（CEO/CFO）公開買入自家股票。管理層用真錢買進時，通常是他們認為股票被低估的信號。查詢：<a href="https://efts.sec.gov/LATEST/search-index?q=%22&forms=4" target="_blank" rel="noopener">SEC EDGAR</a> 或 <a href="https://fintel.io" target="_blank" rel="noopener">Fintel</a>。</p></div>
         <div class="card"><div class="card-header"><span class="card-icon">🔄</span><span class="card-title">Sector Rotation</span><span class="tag tag-info">資金流向</span></div><p class="card-desc">大資金在不同板塊間轉移的現象。識別哪個板塊正在「被資金追」，在強勢板塊中找個股，比逆勢做多容易得多。</p></div>
       </div>
     </div>
@@ -2256,13 +2258,13 @@
     <div class="options-section">
       <div class="options-section-title">⑩ 實用網站</div>
       <div class="bond-type-list">
-        <div class="bond-type-item"><span class="bond-type-rating rating-risk">必備</span><div class="bond-type-name">🔍 Finviz（finviz.com）</div><div class="bond-type-desc">主要選股掃描器，Scanner A + B 的執行平台。免費版已足夠基本篩選。</div></div>
-        <div class="bond-type-item"><span class="bond-type-rating rating-risk">必備</span><div class="bond-type-name">📈 TradingView（tradingview.com）</div><div class="bond-type-desc">圖表平台。看宏觀四寶（VIX/WTI/US10Y/DXY）＋個股技術分析。</div></div>
-        <div class="bond-type-item"><span class="bond-type-rating rating-mid">進階</span><div class="bond-type-name">🌊 Unusual Whales（unusualwhales.com）</div><div class="bond-type-desc">期權異常流量、暗池交易、內部人買賣。追蹤「大錢」動向的核心工具。</div></div>
-        <div class="bond-type-item"><span class="bond-type-rating rating-mid">進階</span><div class="bond-type-name">📊 Fintel（fintel.io）</div><div class="bond-type-desc">機構持股變化（13F 申報）、期權流量。查某股票是否有機構大幅增倉。</div></div>
-        <div class="bond-type-item"><span class="bond-type-rating rating-safe">輔助</span><div class="bond-type-name">🌑 BullFlow（bullflow.io）</div><div class="bond-type-desc">專注暗池交易監控，查隱性機構積累。</div></div>
-        <div class="bond-type-item"><span class="bond-type-rating rating-safe">輔助</span><div class="bond-type-name">🐳 WhaleWisdom（whalewisdom.com）</div><div class="bond-type-desc">13F 機構申報數據，查大型對沖基金最新持倉。季度更新，可識別長線趨勢。</div></div>
-        <div class="bond-type-item"><span class="bond-type-rating rating-safe">官方</span><div class="bond-type-name">📜 SEC EDGAR（sec.gov/edgar）</div><div class="bond-type-desc">美國 SEC 官方申報系統。查內部人交易（Form 4）、機構申報（13F）、財報原文（10-K、10-Q）。</div></div>
+        <div class="bond-type-item"><span class="bond-type-rating rating-risk">必備</span><div class="bond-type-name">🔍 <a href="https://finviz.com/screener.ashx" target="_blank" rel="noopener">Finviz（finviz.com）</a></div><div class="bond-type-desc">主要選股掃描器，Scanner A + B 的執行平台。免費版已足夠基本篩選。</div></div>
+        <div class="bond-type-item"><span class="bond-type-rating rating-risk">必備</span><div class="bond-type-name">📈 <a href="https://www.tradingview.com" target="_blank" rel="noopener">TradingView（tradingview.com）</a></div><div class="bond-type-desc">圖表平台。看宏觀四寶（VIX/WTI/US10Y/DXY）＋個股技術分析。</div></div>
+        <div class="bond-type-item"><span class="bond-type-rating rating-mid">進階</span><div class="bond-type-name">🌊 <a href="https://unusualwhales.com" target="_blank" rel="noopener">Unusual Whales（unusualwhales.com）</a></div><div class="bond-type-desc">期權異常流量、暗池交易、內部人買賣。追蹤「大錢」動向的核心工具。</div></div>
+        <div class="bond-type-item"><span class="bond-type-rating rating-mid">進階</span><div class="bond-type-name">📊 <a href="https://fintel.io" target="_blank" rel="noopener">Fintel（fintel.io）</a></div><div class="bond-type-desc">機構持股變化（13F 申報）、期權流量。查某股票是否有機構大幅增倉。</div></div>
+        <div class="bond-type-item"><span class="bond-type-rating rating-safe">輔助</span><div class="bond-type-name">🌑 <a href="https://bullflow.io" target="_blank" rel="noopener">BullFlow（bullflow.io）</a></div><div class="bond-type-desc">專注暗池交易監控，查隱性機構積累。</div></div>
+        <div class="bond-type-item"><span class="bond-type-rating rating-safe">輔助</span><div class="bond-type-name">🐳 <a href="https://whalewisdom.com" target="_blank" rel="noopener">WhaleWisdom（whalewisdom.com）</a></div><div class="bond-type-desc">13F 機構申報數據，查大型對沖基金最新持倉。季度更新，可識別長線趨勢。</div></div>
+        <div class="bond-type-item"><span class="bond-type-rating rating-safe">官方</span><div class="bond-type-name">📜 <a href="https://efts.sec.gov/LATEST/search-index?q=%22&forms=4" target="_blank" rel="noopener">SEC EDGAR（sec.gov/edgar）</a></div><div class="bond-type-desc">美國 SEC 官方申報系統。查內部人交易（Form 4）、機構申報（13F）、財報原文（10-K、10-Q）。</div></div>
       </div>
     </div>
   </div>
@@ -2537,15 +2539,15 @@
       <div class="bond-intro-box"><p>🎯 <strong>目標：</strong>建立今日 Watchlist（5–10 隻）。找有新聞 + 有量 + Gap Up 的股票。</p></div>
       <div class="cards-grid" style="margin-top:12px;">
         <div class="card">
-          <div class="card-header"><span class="card-icon">📰</span><span class="card-title">Benzinga</span><span class="tag tag-alert">找催化劑</span></div>
+          <div class="card-header"><span class="card-icon">📰</span><span class="card-title"><a href="https://www.benzinga.com/premarket/" target="_blank" rel="noopener">Benzinga</a></span><span class="tag tag-alert">找催化劑</span></div>
           <p class="card-desc">看財報超預期、升評、收購、FDA 批准。<strong>有新聞才有理由漲。</strong>沒有新聞的 Gap Up 通常第一個小時後回落。</p>
         </div>
         <div class="card">
-          <div class="card-header"><span class="card-icon">🔭</span><span class="card-title">Market Chameleon</span><span class="tag tag-info">找 Gap Up</span></div>
+          <div class="card-header"><span class="card-icon">🔭</span><span class="card-title"><a href="https://marketchameleon.com/Reports/PreMarketGainers" target="_blank" rel="noopener">Market Chameleon</a></span><span class="tag tag-info">找 Gap Up</span></div>
           <p class="card-desc">看 Pre-Market Gainers 和 Gap Up Stocks。篩出盤前已漲幅 >5%、成交量>平均 2 倍的候選股。</p>
         </div>
         <div class="card">
-          <div class="card-header"><span class="card-icon">📈</span><span class="card-title">TradingView</span><span class="tag tag-info">技術確認</span></div>
+          <div class="card-header"><span class="card-icon">📈</span><span class="card-title"><a href="https://www.tradingview.com" target="_blank" rel="noopener">TradingView</a></span><span class="tag tag-info">技術確認</span></div>
           <p class="card-desc">確認：Gap Up > 5% · 盤前量 > 平均 2 倍。<strong>同時符合三個條件（Gap + 新聞 + 量）才加 Watchlist。</strong></p>
         </div>
       </div>
@@ -2592,7 +2594,7 @@
       <div class="bond-intro-box"><p>📌 <strong>目標：</strong>確認早上進場的股票是否繼續有資金支撐，同時篩出新的候選股。</p></div>
       <div class="cards-grid" style="margin-top:12px;">
         <div class="card">
-          <div class="card-header"><span class="card-icon">🔍</span><span class="card-title">Finviz 盤中 Scanner</span><span class="tag tag-info">篩選條件</span></div>
+          <div class="card-header"><span class="card-icon">🔍</span><span class="card-title"><a href="https://finviz.com/screener.ashx" target="_blank" rel="noopener">Finviz 盤中 Scanner</a></span><span class="tag tag-info">篩選條件</span></div>
           <p class="card-desc">
             Price &gt; $20 · Volume &gt; 2M<br>
             Relative Volume &gt; 2 · Performance Today &gt; 5%<br>
@@ -2695,7 +2697,7 @@
       <div class="options-section-title">⑥ 盤後（After Hours）— 確認明天方向</div>
       <div class="cards-grid">
         <div class="card">
-          <div class="card-header"><span class="card-icon">🌙</span><span class="card-title">看什麼</span><span class="tag tag-info">Yahoo Finance</span></div>
+          <div class="card-header"><span class="card-icon">🌙</span><span class="card-title">看什麼</span><span class="tag tag-info"><a href="https://finance.yahoo.com/markets/stocks/after-hours/" target="_blank" rel="noopener">Yahoo Finance</a></span></div>
           <p class="card-desc">
             After Hours 價格變動 + 財報發布 + CEO 發言 + 指引修正<br><br>
             收盤 36 → 盤後 37：<strong>偏強</strong>，明天開盤往上的概率高<br>
@@ -2712,11 +2714,11 @@
     <div class="options-section">
       <div class="options-section-title">⑦ 15 分鐘最佳流程（盤尾買進版）</div>
       <div class="sop-list">
-        <div class="sop-step"><div class="sop-num">1</div><div class="sop-text">收盤前 30 分鐘，打開 Finviz Overnight Scanner（Market Cap &gt; $20億 · Price &gt; $20 · Volume &gt; 3M · RVOL &gt; 2 · Today &gt; +5%），剩 10–20 隻候選</div></div>
+        <div class="sop-step"><div class="sop-num">1</div><div class="sop-text">收盤前 30 分鐘，打開 <a href="https://finviz.com/screener.ashx" target="_blank" rel="noopener">Finviz</a> Overnight Scanner（Market Cap &gt; $20億 · Price &gt; $20 · Volume &gt; 3M · RVOL &gt; 2 · Today &gt; +5%），剩 10–20 隻候選</div></div>
         <div class="sop-step"><div class="sop-num">2</div><div class="sop-text">計算每隻的<strong>收盤位置</strong>：（收盤 − 日低）÷（日高 − 日低）。移除低於 60% 的股票</div></div>
-        <div class="sop-step"><div class="sop-num">3</div><div class="sop-text">打開 Benzinga 查新聞：移除沒有具體催化劑（財報/升評/FDA/收購）的股票</div></div>
-        <div class="sop-step"><div class="sop-num">4</div><div class="sop-text">打開 TradingView 看圖：保留「接近日高 · 收在 VWAP 上方 · 最後 30 分鐘上升或橫盤」的股票</div></div>
-        <div class="sop-step"><div class="sop-num">5</div><div class="sop-text">（選擇性）打開 Unusual Whales 確認 Call Flow 是否異常增加，機構期權買盤是強力加分項</div></div>
+        <div class="sop-step"><div class="sop-num">3</div><div class="sop-text">打開 <a href="https://www.benzinga.com/premarket/" target="_blank" rel="noopener">Benzinga</a> 查新聞：移除沒有具體催化劑（財報/升評/FDA/收購）的股票</div></div>
+        <div class="sop-step"><div class="sop-num">4</div><div class="sop-text">打開 <a href="https://www.tradingview.com" target="_blank" rel="noopener">TradingView</a> 看圖：保留「接近日高 · 收在 VWAP 上方 · 最後 30 分鐘上升或橫盤」的股票</div></div>
+        <div class="sop-step"><div class="sop-num">5</div><div class="sop-text">（選擇性）打開 <a href="https://unusualwhales.com" target="_blank" rel="noopener">Unusual Whales</a> 確認 Call Flow 是否異常增加，機構期權買盤是強力加分項</div></div>
         <div class="sop-step"><div class="sop-num">6</div><div class="sop-text">最終剩 2–3 隻，按「催化劑強度 → 市值 → 成交量 → 收盤位置」排序，選第一名盤尾進場</div></div>
       </div>
       <div class="bond-intro-box" style="margin-top:14px;"><p>⏰ <strong>最佳進場時間：</strong>15:30–15:50（收盤前 10–30 分鐘）。這時籌碼已相對穩定，最後 10 分鐘機構往往有尾盤護盤需求。</p></div>

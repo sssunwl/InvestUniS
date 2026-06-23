@@ -740,6 +740,42 @@
     .stock-watch-label { font-weight:800; color:#7A5C00; font-size:11px; margin-bottom:3px; }
     .stock-category { margin-bottom:28px; }
     .stock-cat-title { font-size:14px; font-weight:800; color:var(--dark); padding:8px 14px; background:var(--bg); border-left:4px solid var(--gold); border-radius:0 8px 8px 0; margin-bottom:12px; }
+    /* ── Stock Events ── */
+    .stock-events { border-top:1px solid var(--border); padding-top:8px; margin-top:8px; }
+    .stock-events-label { font-size:10px; font-weight:800; color:var(--mid); margin-bottom:6px; letter-spacing:.06em; text-transform:uppercase; }
+    .stock-event { display:flex; align-items:flex-start; gap:5px; margin-bottom:5px; flex-wrap:wrap; }
+    .ev-date { font-size:10px; font-family:monospace; background:var(--bg); border:1px solid var(--border); border-radius:4px; padding:2px 5px; white-space:nowrap; color:var(--dark); flex-shrink:0; }
+    .ev-tag { font-size:10px; font-weight:800; padding:2px 6px; border-radius:4px; white-space:nowrap; flex-shrink:0; }
+    .ev-earnings { background:#EFF6FF; color:#1D4ED8; }
+    .ev-product  { background:#F0FDF4; color:#166534; }
+    .ev-monitor  { background:#F5F3FF; color:#6D28D9; }
+    .ev-lockup   { background:#FDF4FF; color:#7E22CE; }
+    .ev-btc      { background:#FEF9C3; color:#713F12; }
+    .ev-desc { font-size:11px; color:var(--mid); line-height:1.5; flex:1; min-width:0; }
+    /* ── Macro Tab ── */
+    .macro-tier { margin-bottom:22px; }
+    .macro-tier-title { font-size:13px; font-weight:800; padding:8px 14px; border-radius:8px; margin-bottom:12px; }
+    .macro-daily-hd  { background:#FEE2E2; color:#991B1B; }
+    .macro-weekly-hd { background:#FEF3C7; color:#92400E; }
+    .macro-monthly-hd{ background:#DCFCE7; color:#166534; }
+    .macro-table { width:100%; border-collapse:collapse; font-size:12px; margin-bottom:4px; }
+    .macro-table th { background:var(--bg); font-size:11px; font-weight:700; color:var(--mid); text-align:left; padding:7px 10px; border-bottom:2px solid var(--border); }
+    .macro-table td { padding:9px 10px; border-bottom:1px solid var(--border); vertical-align:top; line-height:1.5; }
+    .macro-table tr:last-child td { border-bottom:none; }
+    .macro-table td:first-child { font-weight:700; color:var(--dark); white-space:nowrap; width:110px; }
+    .sig-bull { display:inline-block; font-size:10px; font-weight:800; padding:1px 5px; border-radius:3px; background:#DCFCE7; color:#166534; }
+    .sig-bear { display:inline-block; font-size:10px; font-weight:800; padding:1px 5px; border-radius:3px; background:#FEE2E2; color:#991B1B; }
+    .sig-mid  { display:inline-block; font-size:10px; font-weight:800; padding:1px 5px; border-radius:3px; background:#FEF3C7; color:#92400E; }
+    .macro-src a { font-size:11px; color:var(--gold-dark,#7A5C00); text-decoration:none; border-bottom:1px dotted; }
+    .macro-events-grid { display:grid; grid-template-columns:repeat(2,1fr); gap:8px; margin-top:12px; }
+    .macro-ev-card { background:#fff; border:1px solid var(--border); border-radius:10px; padding:10px 12px; }
+    .macro-ev-date { font-size:11px; font-family:monospace; font-weight:700; color:var(--mid); }
+    .macro-ev-name { font-size:13px; font-weight:700; color:var(--dark); margin:2px 0; }
+    .macro-ev-desc { font-size:11px; color:var(--mid); }
+    .macro-ev-impact { font-size:10px; font-weight:800; margin-top:4px; }
+    .impact-high { color:#991B1B; }
+    .impact-mid  { color:#92400E; }
+    @media(max-width:640px){ .macro-events-grid{ grid-template-columns:1fr; } }
     @media (max-width: 640px) {
       header h1 { font-size: 20px; }
       .news-cols { grid-template-columns: 1fr; }
@@ -794,6 +830,7 @@
   <div class="tab-subnav" id="sub-research">
     <button class="tab-sub-btn" id="sub-chain"  onclick="switchSub('chain','research')">⛓ 產業鏈</button>
     <button class="tab-sub-btn" id="sub-stocks" onclick="switchSub('stocks','research')">📊 標的</button>
+    <button class="tab-sub-btn" id="sub-macro"  onclick="switchSub('macro','research')">🌍 大環境</button>
   </div>
 </div>
 
@@ -2996,6 +3033,11 @@
             <div class="bear-box"><div class="bear-box-title">⚠️ 看空</div><ul><li>$3.5T 估值已充分定價</li><li>中國出口限制影響收入</li><li>Broadcom / Marvell ASIC 長期威脅</li><li>YTD 跑輸 MU / SNDK</li></ul></div>
           </div>
           <div class="stock-watch"><div class="stock-watch-label">👁 Sterling 觀察</div>強勢龍頭但估值高。等財報後回調再入，留意 CoWoS 封裝產能是否拖累交付。</div>
+          <div class="stock-events">
+            <div class="stock-events-label">📅 近期大事</div>
+            <div class="stock-event"><span class="ev-date">2026-08-26</span><span class="ev-tag ev-earnings">財報</span><div class="ev-desc">Q2 FY27 — Blackwell 出貨量、CoWoS 封裝狀況、數據中心收入指引。預期 EPS ~$0.90</div></div>
+            <div class="stock-event"><span class="ev-date">持續</span><span class="ev-tag ev-monitor">監控</span><div class="ev-desc">中國出口限制動態 → 任何新限制令當日股價大幅波動</div></div>
+          </div>
         </div>
 
         <div class="stock-card">
@@ -3015,6 +3057,11 @@
             <div class="bear-box"><div class="bear-box-title">⚠️ 看空</div><ul><li>半導體本質週期性</li><li>SK Hynix 市佔 ~50% 競爭壓力</li><li>HBM4 供應預測被下調</li><li>+232% 後估值不便宜</li></ul></div>
           </div>
           <div class="stock-watch"><div class="stock-watch-label">👁 Sterling 觀察</div>基本面最強 AI 記憶體標的。已 +232% YTD，追入留意週期轉向風險，等技術面回調測支撐位。</div>
+          <div class="stock-events">
+            <div class="stock-events-label">📅 近期大事</div>
+            <div class="stock-event"><span class="ev-date">~2026-09-25</span><span class="ev-tag ev-earnings">財報</span><div class="ev-desc">Q4 FY26（估計）— HBM 2027 年需求展望、毛利率能否維持 80%+</div></div>
+            <div class="stock-event"><span class="ev-date">持續</span><span class="ev-tag ev-monitor">監控</span><div class="ev-desc">Samsung / SK Hynix HBM 定價或供應新聞 → 直接影響 MU 競爭地位</div></div>
+          </div>
         </div>
 
         <div class="stock-card">
@@ -3032,6 +3079,11 @@
             <div class="bear-box"><div class="bear-box-title">⚠️ 看空</div><ul><li>4,000% 升幅後估值極端</li><li>NAND 比 HBM 更商品化</li><li>Samsung / Kioxia 競爭激烈</li><li>情緒驅動成分大</li></ul></div>
           </div>
           <div class="stock-watch"><div class="stock-watch-label">👁 Sterling 觀察</div>已暴漲 4,000%，現價追入風險極高。等大幅技術性回調（>30–40%）再考慮建立初倉。</div>
+          <div class="stock-events">
+            <div class="stock-events-label">📅 近期大事</div>
+            <div class="stock-event"><span class="ev-date">2026-08-13</span><span class="ev-tag ev-earnings">財報</span><div class="ev-desc">Q2 FY26 — NAND 定價方向、AI 企業 SSD 出貨量</div></div>
+            <div class="stock-event"><span class="ev-date">持續</span><span class="ev-tag ev-monitor">監控</span><div class="ev-desc">Samsung / Kioxia NAND 供應決定 → 直接影響 NAND 均價與 SNDK 毛利</div></div>
+          </div>
         </div>
 
         <div class="stock-card">
@@ -3048,6 +3100,11 @@
             <div class="bear-box"><div class="bear-box-title">⚠️ 看空</div><ul><li>大型收購整合風險</li><li>Broadcom AVGO 競爭激烈</li><li>ASIC 定制週期長，收入確認慢</li></ul></div>
           </div>
           <div class="stock-watch"><div class="stock-watch-label">👁 Sterling 觀察</div>唯一同時在 AI算力鏈 + 矽光子鏈佔有核心位置的標的。想同時捕捉兩條鏈的單股選擇。</div>
+          <div class="stock-events">
+            <div class="stock-events-label">📅 近期大事</div>
+            <div class="stock-event"><span class="ev-date">~2026-09</span><span class="ev-tag ev-earnings">財報</span><div class="ev-desc">Q2 FY27（估計）— 定制 ASIC 訂單進展、Celestial AI 光子整合更新</div></div>
+            <div class="stock-event"><span class="ev-date">持續</span><span class="ev-tag ev-monitor">監控</span><div class="ev-desc">Google / Amazon / Microsoft 定制晶片消息 → MRVL 主要客戶動態</div></div>
+          </div>
         </div>
 
         <div class="stock-card">
@@ -3066,6 +3123,11 @@
             <div class="bear-box"><div class="bear-box-title">⚠️ 看空</div><ul><li>+539% 後估值已高</li><li>客戶集中風險（超大規模雲端商）</li><li>Coherent / Lumentum 等大廠競爭</li></ul></div>
           </div>
           <div class="stock-watch"><div class="stock-watch-label">👁 Sterling 觀察</div>矽光子鏈中最純粹的光收發器玩家。NVDA $40 億鎖定 Coherent/Lumentum 說明 AAOI 做的東西有多稀缺。已 +539%，等整理。</div>
+          <div class="stock-events">
+            <div class="stock-events-label">📅 近期大事</div>
+            <div class="stock-event"><span class="ev-date">2026-07-30</span><span class="ev-tag ev-earnings">財報</span><div class="ev-desc">Q2 FY26 — 全年 $1B 指引能否維持、800G / 1.6T 出貨量</div></div>
+            <div class="stock-event"><span class="ev-date">持續</span><span class="ev-tag ev-monitor">監控</span><div class="ev-desc">NVIDIA $4B 光子合約進展 → Coherent / Lumentum / AAOI 份額分配</div></div>
+          </div>
         </div>
 
       </div>
@@ -3092,6 +3154,11 @@
             <div class="bear-box"><div class="bear-box-title">⚠️ 看空</div><ul><li>機構資金近期有獲利了結</li><li>估值 P/S 5.58x 偏高</li><li>核能若加速普及，氣渦輪需求受壓</li></ul></div>
           </div>
           <div class="stock-watch"><div class="stock-watch-label">👁 Sterling 觀察</div>電力基建鏈首選。ROE 和近期表現均優於 CEG。AI 電力危機只會更嚴峻，GEV 是最直接受益者之一。</div>
+          <div class="stock-events">
+            <div class="stock-events-label">📅 近期大事</div>
+            <div class="stock-event"><span class="ev-date">2026-07-29</span><span class="ev-tag ev-earnings">財報</span><div class="ev-desc">Q2 FY26（盤前）— 訂單積壓增長、氣渦輪交付時間表、毛利率</div></div>
+            <div class="stock-event"><span class="ev-date">持續</span><span class="ev-tag ev-monitor">監控</span><div class="ev-desc">美國電網投資政策 + 數據中心電力需求公告</div></div>
+          </div>
         </div>
 
         <div class="stock-card">
@@ -3109,6 +3176,11 @@
             <div class="bear-box"><div class="bear-box-title">⚠️ 看空</div><ul><li>近 3 個月 -12.5%，短期動能弱</li><li>核電監管風險、許可延遲</li><li>SMR 商業化若加速，CEG 優勢受壓</li></ul></div>
           </div>
           <div class="stock-watch"><div class="stock-watch-label">👁 Sterling 觀察</div>長線結構性受益者，但短期跑輸 GEV。若看好核電長期故事，現在回調反而是機會，但需耐心等待催化劑。</div>
+          <div class="stock-events">
+            <div class="stock-events-label">📅 近期大事</div>
+            <div class="stock-event"><span class="ev-date">2026-07-30</span><span class="ev-tag ev-earnings">財報</span><div class="ev-desc">Q2 FY26 — 新核電長期合約簽署情況、電價展望</div></div>
+            <div class="stock-event"><span class="ev-date">持續</span><span class="ev-tag ev-monitor">監控</span><div class="ev-desc">NRC 核電許可進展 + SMR 競爭動態</div></div>
+          </div>
         </div>
 
       </div>
@@ -3135,6 +3207,12 @@
             <div class="bear-box"><div class="bear-box-title">⚠️ 看空</div><ul><li>記憶體成本上漲壓縮利潤率</li><li>中國銷售風險持續</li><li>CEO 交接（John Ternus 接任）不確定性</li><li>AI 功能整合（Google Gemini）帶來依賴風險</li></ul></div>
           </div>
           <div class="stock-watch"><div class="stock-watch-label">👁 Sterling 觀察</div>最穩定的大型科技標的，Apple Intelligence 是下一個升級週期的觸媒。$297 相對合理，長線持有邏輯清晰。</div>
+          <div class="stock-events">
+            <div class="stock-events-label">📅 近期大事</div>
+            <div class="stock-event"><span class="ev-date">2026-07-30</span><span class="ev-tag ev-earnings">財報</span><div class="ev-desc">Q3 FY26（盤後）— iPhone 銷量、Services 收入、Apple Intelligence 採用率</div></div>
+            <div class="stock-event"><span class="ev-date">~2026-09-09</span><span class="ev-tag ev-product">產品</span><div class="ev-desc">iPhone 17 系列發佈（估計 9 月第二週）— AI 功能是否帶動換機潮</div></div>
+            <div class="stock-event"><span class="ev-date">持續</span><span class="ev-tag ev-monitor">監控</span><div class="ev-desc">中國關稅 / 印度產能移轉進展</div></div>
+          </div>
         </div>
 
         <div class="stock-card">
@@ -3153,6 +3231,11 @@
             <div class="bear-box"><div class="bear-box-title">⚠️ 看空</div><ul><li>EV 銷售疲軟，傳統汽車業務承壓</li><li>CapEx 超 $2,000 億，FCF 轉負風險</li><li>估值分歧極大（5x 差距）</li><li>Elon Musk 分心風險</li></ul></div>
           </div>
           <div class="stock-watch"><div class="stock-watch-label">👁 Sterling 觀察</div>「雙面人」標的：買 AI + 能源故事，但要忍受 EV 基本面壓力。短線波動大，適合對 Robotaxi 有信念的長線投資者。</div>
+          <div class="stock-events">
+            <div class="stock-events-label">📅 近期大事</div>
+            <div class="stock-event"><span class="ev-date">2026-07-22</span><span class="ev-tag ev-earnings">財報</span><div class="ev-desc">Q2 FY26（盤後）— 首個完整 Robotaxi 季度收入、交付量、Tesla Energy 毛利</div></div>
+            <div class="stock-event"><span class="ev-date">持續</span><span class="ev-tag ev-monitor">監控</span><div class="ev-desc">Robotaxi 服務範圍擴展公告 / Elon Musk 政治動態</div></div>
+          </div>
         </div>
 
       </div>
@@ -3178,6 +3261,12 @@
             <div class="bear-box"><div class="bear-box-title">⚠️ 看空</div><ul><li>$2.1T IPO 估值已反映大量未來</li><li>CEO 關鍵人風險（Elon Musk 分心）</li><li>Starship 量產時程不確定</li><li>IPO 後情緒冷卻，短期下壓</li></ul></div>
           </div>
           <div class="stock-watch"><div class="stock-watch-label">👁 Sterling 觀察</div>垂直整合程度最高的太空企業。IPO 後情緒消化中，觀察 $140–150 支撐是否守穩，穩定後分批考慮比追高謹慎。</div>
+          <div class="stock-events">
+            <div class="stock-events-label">📅 近期大事</div>
+            <div class="stock-event"><span class="ev-date">2026-08-06</span><span class="ev-tag ev-earnings">財報</span><div class="ev-desc">首份財報（IPO 後第一次）— Starlink 訂閱人數、發射收入、Starship 商業化時間表</div></div>
+            <div class="stock-event"><span class="ev-date">~2026-09–12</span><span class="ev-tag ev-lockup">鎖定期</span><div class="ev-desc">IPO 後 90–180 天解禁（估計 9–12 月）— 大量股票可能流入市場，留意拋售壓力</div></div>
+            <div class="stock-event"><span class="ev-date">持續</span><span class="ev-tag ev-monitor">監控</span><div class="ev-desc">Starship 測試飛行結果 → 每次成功/失敗直接影響商業化預期</div></div>
+          </div>
         </div>
 
       </div>
@@ -3204,6 +3293,11 @@
             <div class="bear-box"><div class="bear-box-title">⚠️ 看空</div><ul><li>帳面 BTC 目前虧損（均價 $75,537）</li><li>高槓桿 = Bitcoin 跌 → MSTR 跌更多</li><li>非傳統企業，監管不確定性高</li><li>公司本身軟件業務幾乎無關緊要</li></ul></div>
           </div>
           <div class="stock-watch"><div class="stock-watch-label">👁 Sterling 觀察</div>純 Bitcoin 槓桿工具，不是「公司」投資。看好 Bitcoin → 可考慮 MSTR 放大回報；不看好 Bitcoin → 完全迴避。投資前先確認自己對 BTC 的立場。</div>
+          <div class="stock-events">
+            <div class="stock-events-label">📅 近期大事</div>
+            <div class="stock-event"><span class="ev-date">2026-08-04</span><span class="ev-tag ev-earnings">財報</span><div class="ev-desc">Q2 FY26 — BTC 持倉更新、新購入量披露</div></div>
+            <div class="stock-event"><span class="ev-date">持續</span><span class="ev-tag ev-btc">Bitcoin</span><div class="ev-desc">BTC 每週價格是唯一核心驅動力 — BTC 每 10% 波動約影響 MSTR 20–30%</div></div>
+          </div>
         </div>
 
       </div>
@@ -3213,6 +3307,177 @@
       <p>⚠️ <strong>免責聲明：</strong>以上所有分析僅供教育參考，不構成任何買賣建議。投資有風險，請自行評估風險承受能力。所有數據以 <strong>2026-06-23</strong> 為準，標的分析每月更新。</p>
     </div>
     <div class="chain-update">🔄 最後更新：2026-06-23 ｜ 每月第一個週一更新</div>
+  </div>
+
+  <!-- ═══════════════════════════════════════
+       TAB: 大環境分析
+  ═══════════════════════════════════════ -->
+  <div id="tab-macro" class="tab-panel">
+    <div class="section-intro">
+      判斷美股整體方向不靠預測，靠監控關鍵指標的組合信號。三個節奏：每日 5 分鐘掃、每週 15 分鐘追蹤、每月 30 分鐘核對。每個指標都有直達來源，點進去就到數據頁。
+    </div>
+
+    <!-- ── 交通燈框架 ── -->
+    <div class="options-section">
+      <div class="options-section-title">🚦 交通燈評估框架（五項看三項）</div>
+      <div class="bond-intro-box">
+        <p><strong>5 個核心信號中，3 個或以上偏多 → 整體環境偏多，可持倉；3 個或以上偏空 → 防守模式，降低曝險。</strong>不需要 5 個全對，只看整體傾向。</p>
+      </div>
+      <div class="cards-grid" style="margin-top:12px">
+        <div class="card">
+          <div class="card-header"><span class="card-icon">😰</span><span class="card-title">VIX 恐慌指數</span><span class="tag tag-danger">每日看</span></div>
+          <p class="card-desc"><span class="sig-bull">&lt;15 穩定</span> <span class="sig-mid">15–25 警戒</span> <span class="sig-bear">&gt;25 防守</span><br>VIX &gt;30 時往往是反向加倉機會，而非逃跑訊號——恐慌頂部時市場常見底。</p>
+        </div>
+        <div class="card">
+          <div class="card-header"><span class="card-icon">📊</span><span class="card-title">SPY vs 200MA</span><span class="tag tag-danger">每日看</span></div>
+          <p class="card-desc"><span class="sig-bull">200MA 之上 = 牛市結構</span> <span class="sig-bear">200MA 之下 = 熊市結構</span><br>最簡單的大趨勢判斷，99% 散戶不需要在 200MA 之上做空市場。</p>
+        </div>
+        <div class="card">
+          <div class="card-header"><span class="card-icon">🌙</span><span class="card-title">美股期貨（ES / NQ）</span><span class="tag tag-danger">盤前看</span></div>
+          <p class="card-desc"><span class="sig-bull">ES &gt;+0.3%</span> 開盤偏多 ｜ <span class="sig-bear">ES &lt;-0.5%</span> 偏空<br>盤前 1 小時查 ES（S&amp;P 500 期貨），提前判斷今天市場情緒基調。</p>
+        </div>
+        <div class="card">
+          <div class="card-header"><span class="card-icon">🏦</span><span class="card-title">US10Y 十年債息</span><span class="tag tag-danger">每日看</span></div>
+          <p class="card-desc"><span class="sig-bull">穩定 / 下行</span> = 股市友好 ｜ <span class="sig-bear">快速突破前高</span> = 科技股估值受壓<br>4.5% 是目前關鍵關卡。債息急升 → 資金從股轉債，科技股先受壓。</p>
+        </div>
+        <div class="card">
+          <div class="card-header"><span class="card-icon">💵</span><span class="card-title">DXY 美元指數</span><span class="tag tag-danger">每日看</span></div>
+          <p class="card-desc"><span class="sig-bull">美元弱 / 穩</span> = 全球風險偏好上升 ｜ <span class="sig-bear">美元急升</span> = 全球資金收縮<br>美元強 → 新興市場資金外流 → 全球股市承壓。</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── 每日掃描 ── -->
+    <div class="macro-tier">
+      <div class="macro-tier-title macro-daily-hd">🔴 每日掃描（5–10 分鐘）</div>
+      <table class="macro-table">
+        <tr><th style="width:110px">指標</th><th>看什麼</th><th>信號解讀</th><th style="width:200px">來源</th></tr>
+        <tr>
+          <td>VIX</td>
+          <td>當前數值</td>
+          <td><span class="sig-bull">&lt;15</span> 穩定｜<span class="sig-mid">15–25</span> 警戒｜<span class="sig-bear">&gt;25</span> 高風險</td>
+          <td class="macro-src"><a href="https://www.cboe.com/tradable_products/vix/" target="_blank" rel="noopener">CBOE VIX</a> · <a href="https://www.tradingview.com/symbols/CBOE-VIX/" target="_blank" rel="noopener">TradingView</a></td>
+        </tr>
+        <tr>
+          <td>SPY / QQQ</td>
+          <td>收盤價 vs 200 日均線位置</td>
+          <td><span class="sig-bull">均線上方</span> = 牛市結構｜<span class="sig-bear">均線下方</span> = 防守</td>
+          <td class="macro-src"><a href="https://www.tradingview.com/chart/?symbol=SPY" target="_blank" rel="noopener">TradingView SPY</a> · <a href="https://www.tradingview.com/chart/?symbol=QQQ" target="_blank" rel="noopener">QQQ</a></td>
+        </tr>
+        <tr>
+          <td>美股期貨</td>
+          <td>ES / NQ 盤前漲跌幅</td>
+          <td><span class="sig-bull">&gt;+0.3%</span> 開盤偏多｜<span class="sig-bear">&lt;-0.5%</span> 偏空</td>
+          <td class="macro-src"><a href="https://www.cmegroup.com/markets/equities/s-p/e-mini-s-p500.html" target="_blank" rel="noopener">CME ES 期貨</a></td>
+        </tr>
+        <tr>
+          <td>US10Y</td>
+          <td>十年債息數值與方向</td>
+          <td><span class="sig-bull">穩定 / 下行</span>｜<span class="sig-bear">快速突破前高</span> = 股市壓力</td>
+          <td class="macro-src"><a href="https://fred.stlouisfed.org/series/DGS10" target="_blank" rel="noopener">FRED DGS10</a> · <a href="https://www.tradingview.com/symbols/TVC-US10Y/" target="_blank" rel="noopener">TradingView</a></td>
+        </tr>
+        <tr>
+          <td>DXY</td>
+          <td>美元指數方向</td>
+          <td><span class="sig-bull">弱 / 穩</span> = 風險偏好升｜<span class="sig-bear">急升</span> = 全球資金收縮</td>
+          <td class="macro-src"><a href="https://www.tradingview.com/symbols/TVC-DXY/" target="_blank" rel="noopener">TradingView DXY</a></td>
+        </tr>
+      </table>
+    </div>
+
+    <!-- ── 每週追蹤 ── -->
+    <div class="macro-tier">
+      <div class="macro-tier-title macro-weekly-hd">🟡 每週追蹤（週一，15 分鐘）</div>
+      <table class="macro-table">
+        <tr><th style="width:110px">指標</th><th>看什麼</th><th>信號解讀</th><th style="width:200px">來源</th></tr>
+        <tr>
+          <td>經濟數據日曆</td>
+          <td>本週有哪些重大數據？</td>
+          <td>CPI / FOMC / NFP 週 → 高波動日，提前留意倉位風險</td>
+          <td class="macro-src"><a href="https://www.investing.com/economic-calendar/" target="_blank" rel="noopener">Investing.com 日曆</a></td>
+        </tr>
+        <tr>
+          <td>Put / Call 比率</td>
+          <td>整體期權 P/C Ratio</td>
+          <td><span class="sig-bear">&gt;1.2</span> = 過度恐慌（反向看漲）｜<span class="sig-bull">&lt;0.7</span> = 過度樂觀（警惕）</td>
+          <td class="macro-src"><a href="https://www.cboe.com/us/options/market_statistics/daily/" target="_blank" rel="noopener">CBOE 期權統計</a></td>
+        </tr>
+        <tr>
+          <td>S&amp;P 500 財報 Beat Rate</td>
+          <td>本季超預期 EPS 比率</td>
+          <td><span class="sig-bull">&gt;75%</span> = 支撐估值｜<span class="sig-bear">&lt;60%</span> = 盈利下行壓力</td>
+          <td class="macro-src"><a href="https://insight.factset.com/earnings-insight" target="_blank" rel="noopener">FactSet Earnings Insight</a></td>
+        </tr>
+        <tr>
+          <td>HY 信用利差</td>
+          <td>高息債 vs 國債利差（bp）</td>
+          <td><span class="sig-bull">&lt;350bp</span> = 信用市場穩定｜<span class="sig-bear">快速擴大</span> = 資金躲避風險</td>
+          <td class="macro-src"><a href="https://fred.stlouisfed.org/series/BAMLH0A0HYM2" target="_blank" rel="noopener">FRED HY Spread</a></td>
+        </tr>
+      </table>
+    </div>
+
+    <!-- ── 每月核對 ── -->
+    <div class="macro-tier">
+      <div class="macro-tier-title macro-monthly-hd">🟢 每月核對（月初，30 分鐘）</div>
+      <table class="macro-table">
+        <tr><th style="width:110px">指標</th><th>看什麼</th><th>為什麼重要</th><th style="width:200px">來源</th></tr>
+        <tr>
+          <td>CPI</td>
+          <td>YoY 通脹變化方向</td>
+          <td>直接影響 Fed 加 / 減息節奏；CPI 降 → 股市喜歡</td>
+          <td class="macro-src"><a href="https://www.bls.gov/cpi/" target="_blank" rel="noopener">BLS CPI</a></td>
+        </tr>
+        <tr>
+          <td>PCE（核心通脹）</td>
+          <td>核心 PCE YoY，是否靠近 2%</td>
+          <td>Fed 官方首選通脹指標，比 CPI 更能影響利率決策</td>
+          <td class="macro-src"><a href="https://www.bea.gov/data/personal-consumption-expenditures-price-index" target="_blank" rel="noopener">BEA PCE</a></td>
+        </tr>
+        <tr>
+          <td>FOMC 利率決定</td>
+          <td>利率方向 + 點陣圖 + 發布會語氣</td>
+          <td>每次 FOMC 都是全市場最重要事件；鴿派語氣 → 股市漲</td>
+          <td class="macro-src"><a href="https://www.federalreserve.gov/monetarypolicy/fomccalendar.htm" target="_blank" rel="noopener">Fed FOMC 日曆</a></td>
+        </tr>
+        <tr>
+          <td>GDP 增長率</td>
+          <td>季增長率 QoQ（Advance → Revised）</td>
+          <td>連續兩季負增長 = 技術性衰退，股市高度警惕</td>
+          <td class="macro-src"><a href="https://www.bea.gov/data/gdp/gross-domestic-product" target="_blank" rel="noopener">BEA GDP</a></td>
+        </tr>
+        <tr>
+          <td>NFP（非農就業）</td>
+          <td>每月新增就業人數 vs 預期</td>
+          <td>就業強 = 消費強 = 經濟健康；但過強 → Fed 不急降息</td>
+          <td class="macro-src"><a href="https://www.bls.gov/news.release/empsit.nr0.htm" target="_blank" rel="noopener">BLS 就業報告</a></td>
+        </tr>
+      </table>
+    </div>
+
+    <!-- ── 近期重要事件 ── -->
+    <div class="options-section">
+      <div class="options-section-title">📅 近期全市場重要事件</div>
+      <div class="macro-events-grid">
+        <div class="macro-ev-card"><div class="macro-ev-date">2026-07-22</div><div class="macro-ev-name">TSLA Q2 財報（盤後）</div><div class="macro-ev-desc">首個完整 Robotaxi 季度收入</div><div class="macro-ev-impact impact-mid">⚡ 中等影響（科技 / 自駕板塊）</div></div>
+        <div class="macro-ev-card"><div class="macro-ev-date">2026-07-28–29</div><div class="macro-ev-name">🏦 FOMC 會議</div><div class="macro-ev-desc">利率決定 + 前瞻指引，全市場最重要事件</div><div class="macro-ev-impact impact-high">🔴 高影響（全市場）</div></div>
+        <div class="macro-ev-card"><div class="macro-ev-date">2026-07-29</div><div class="macro-ev-name">GEV Q2 財報（盤前）</div><div class="macro-ev-desc">電力基建板塊領先指標</div><div class="macro-ev-impact impact-mid">⚡ 中等影響（電力板塊）</div></div>
+        <div class="macro-ev-card"><div class="macro-ev-date">2026-07-30</div><div class="macro-ev-name">AAPL + AAOI + CEG 財報</div><div class="macro-ev-desc">大型科技 + 矽光子 + 核電三管齊下</div><div class="macro-ev-impact impact-high">🔴 高影響（多板塊）</div></div>
+        <div class="macro-ev-card"><div class="macro-ev-date">2026-08-04</div><div class="macro-ev-name">MSTR Q2 財報</div><div class="macro-ev-desc">BTC 持倉披露 + 新購入量</div><div class="macro-ev-impact impact-mid">⚡ 中等影響（加密板塊）</div></div>
+        <div class="macro-ev-card"><div class="macro-ev-date">2026-08-06</div><div class="macro-ev-name">SPCX 首份財報 ⭐</div><div class="macro-ev-desc">SpaceX 上市首次業績披露，全球高度關注</div><div class="macro-ev-impact impact-high">🔴 高影響（太空板塊）</div></div>
+        <div class="macro-ev-card"><div class="macro-ev-date">2026-08-13</div><div class="macro-ev-name">SNDK Q2 財報</div><div class="macro-ev-desc">NAND 定價方向確認</div><div class="macro-ev-impact impact-mid">⚡ 中等影響（AI 存儲）</div></div>
+        <div class="macro-ev-card"><div class="macro-ev-date">2026-08-26</div><div class="macro-ev-name">NVDA Q2 FY27 財報 ⭐</div><div class="macro-ev-desc">全 AI 板塊最重要財報，影響整條算力鏈</div><div class="macro-ev-impact impact-high">🔴 高影響（全 AI 板塊）</div></div>
+        <div class="macro-ev-card"><div class="macro-ev-date">~2026-09-09</div><div class="macro-ev-name">🍎 iPhone 17 發佈（估計）</div><div class="macro-ev-desc">Apple Intelligence 是否帶動換機潮</div><div class="macro-ev-impact impact-mid">⚡ 中等影響（AAPL + 供應鏈）</div></div>
+        <div class="macro-ev-card"><div class="macro-ev-date">2026-09-15–16</div><div class="macro-ev-name">🏦 FOMC 會議</div><div class="macro-ev-desc">Q3 利率決定，下半年政策方向確認</div><div class="macro-ev-impact impact-high">🔴 高影響（全市場）</div></div>
+        <div class="macro-ev-card"><div class="macro-ev-date">~2026-09–10</div><div class="macro-ev-name">MU + MRVL 財報（估計）</div><div class="macro-ev-desc">AI 算力鏈下半年指引確認</div><div class="macro-ev-impact impact-mid">⚡ 中等影響（AI 算力）</div></div>
+        <div class="macro-ev-card"><div class="macro-ev-date">~2026-09–12</div><div class="macro-ev-name">🚀 SPCX 鎖定期解禁</div><div class="macro-ev-desc">IPO 後 90–180 天內部人持股解禁</div><div class="macro-ev-impact impact-mid">⚡ 留意（SPCX 拋售壓力）</div></div>
+      </div>
+    </div>
+
+    <div class="bond-intro-box" style="margin-top:16px">
+      <p>📌 <strong>更新說明：</strong>每日指標請自行查閱來源（點連結）。每週 / 每月指標數據：直接問 Sterling，他會搜尋最新數值並更新到此頁面。事件日曆每月更新一次。</p>
+    </div>
+    <div class="chain-update">🔄 最後更新：2026-06-23 ｜ 事件日曆每月更新 · 每週 / 每月指標由 Sterling 人工更新</div>
   </div>
 
 

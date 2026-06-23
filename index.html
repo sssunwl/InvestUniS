@@ -740,6 +740,7 @@
   <div class="tab-subnav" id="sub-trading">
     <button class="tab-sub-btn" id="sub-premkt"    onclick="switchSub('premkt','trading')">🌍 盤前</button>
     <button class="tab-sub-btn" id="sub-momentum"  onclick="switchSub('momentum','trading')">📈 動能</button>
+    <button class="tab-sub-btn" id="sub-intraday"  onclick="switchSub('intraday','trading')">⏰ 日內</button>
   </div>
 </div>
 
@@ -2471,6 +2472,289 @@
         </div>
 
       </div>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════
+       TAB: 日內流程 — Day Trade + Swing Trade
+  ═══════════════════════════════════════ -->
+  <div id="tab-intraday" class="tab-panel">
+    <div class="section-intro">
+      把一天分成五個時段，每個時段問不同的問題。盤前問「誰今天可能爆？」，開盤問「誰是真強？」，盤中問「主力還在嗎？」，盤尾問「誰明天還有人接？」，盤後確認「方向變了沒？」
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">① 雙框架系統 — Day Trade + Swing Trade</div>
+      <div class="cards-grid">
+        <div class="card">
+          <div class="card-header"><span class="card-icon">⚡</span><span class="card-title">Day Trade（日內）</span><span class="tag tag-alert">分鐘級</span></div>
+          <p class="card-desc">
+            <strong>時框：</strong>1m / 5m / 15m<br>
+            <strong>持倉：</strong>分鐘到當日收盤<br>
+            <strong>核心指標：</strong>VWAP · EMA9 · EMA21 · RVOL<br>
+            <strong>進場觸發：</strong>成交量異常 + VWAP 行為 + 盤中動能<br>
+            <strong>止損：</strong>VWAP 跌破 或 -1% 至 -3%
+          </p>
+        </div>
+        <div class="card">
+          <div class="card-header"><span class="card-icon">📅</span><span class="card-title">Swing Trade（波段）</span><span class="tag tag-info">日線級</span></div>
+          <p class="card-desc">
+            <strong>時框：</strong>1H / 4H / Daily<br>
+            <strong>持倉：</strong>2 天到 4 週<br>
+            <strong>核心指標：</strong>EMA200 · EMA50 · EMA20 · RSI14<br>
+            <strong>進場觸發：</strong>趨勢結構確認 + 回調到均線<br>
+            <strong>止損：</strong>EMA20 下方 或 結構低點
+          </p>
+        </div>
+      </div>
+      <div class="bond-intro-box" style="margin-top:12px;"><p>🔄 <strong>整合邏輯：</strong>Day Trade 發現盤中成交量異常 → 過 Swing 濾網確認趨勢潛力 → 分類為「日內單」或「隔夜/波段候選」。用量能做早期信號，用均線結構做確認層。</p></div>
+
+      <div style="margin-top:16px;">
+        <div class="bond-type-list">
+          <div class="bond-type-item">
+            <span class="bond-type-rating rating-risk">偏多</span>
+            <div class="bond-type-name">📈 EMA200 偏向判斷（Swing 最重要的一條線）</div>
+            <div class="bond-type-desc">
+              <strong>股價在 EMA200 上方：</strong>偏多，優先做多策略<br>
+              <strong>股價在 EMA200 附近：</strong>中性，等方向確認<br>
+              <strong>股價在 EMA200 下方：</strong>偏空，避免輕易做多
+            </div>
+          </div>
+          <div class="bond-type-item">
+            <span class="bond-type-rating rating-mid">分類</span>
+            <div class="bond-type-name">🗂️ 日內單 vs 波段候選 — 怎麼判斷</div>
+            <div class="bond-type-desc">
+              <strong>只做日內：</strong>波動大但無趨勢結構 · 新聞暴漲無持續性 · 反轉型走勢<br>
+              <strong>波段候選：</strong>股價在 EMA50 上方 · 整理後突破 · 量能擴張配合趨勢方向
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">② 盤前（Pre-Market）— 今天誰可能大漲？</div>
+      <div class="bond-intro-box"><p>🎯 <strong>目標：</strong>建立今日 Watchlist（5–10 隻）。找有新聞 + 有量 + Gap Up 的股票。</p></div>
+      <div class="cards-grid" style="margin-top:12px;">
+        <div class="card">
+          <div class="card-header"><span class="card-icon">📰</span><span class="card-title">Benzinga</span><span class="tag tag-alert">找催化劑</span></div>
+          <p class="card-desc">看財報超預期、升評、收購、FDA 批准。<strong>有新聞才有理由漲。</strong>沒有新聞的 Gap Up 通常第一個小時後回落。</p>
+        </div>
+        <div class="card">
+          <div class="card-header"><span class="card-icon">🔭</span><span class="card-title">Market Chameleon</span><span class="tag tag-info">找 Gap Up</span></div>
+          <p class="card-desc">看 Pre-Market Gainers 和 Gap Up Stocks。篩出盤前已漲幅 >5%、成交量>平均 2 倍的候選股。</p>
+        </div>
+        <div class="card">
+          <div class="card-header"><span class="card-icon">📈</span><span class="card-title">TradingView</span><span class="tag tag-info">技術確認</span></div>
+          <p class="card-desc">確認：Gap Up > 5% · 盤前量 > 平均 2 倍。<strong>同時符合三個條件（Gap + 新聞 + 量）才加 Watchlist。</strong></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">③ 開盤後（09:30–11:00）— 誰是真強？誰是假突破？</div>
+      <div class="bond-intro-box"><p>⚡ <strong>高波動期。</strong>這段時間最多假突破，不要衝動追入，先觀察誰守得住。</p></div>
+      <div class="cards-grid" style="margin-top:12px;">
+        <div class="card">
+          <div class="card-header"><span class="card-icon">📊</span><span class="card-title">看 VWAP 行為</span><span class="tag tag-alert">最關鍵</span></div>
+          <p class="card-desc">
+            ✅ 開盤衝高 → 回調 → <strong>守住 VWAP</strong> → 真強<br>
+            ❌ 開盤衝高 → <strong>跌破 VWAP</strong> → 很可能假突破，不追
+          </p>
+        </div>
+        <div class="card">
+          <div class="card-header"><span class="card-icon">📉</span><span class="card-title">看 RVOL + 創日高</span><span class="tag tag-info">確認強度</span></div>
+          <p class="card-desc">
+            <strong>RVOL > 3：</strong>有機構資金持續介入<br>
+            <strong>10:00 高點 → 11:00 再創高：</strong>動能持續，趨勢強<br>
+            如果越來越低，主力可能已退出
+          </p>
+        </div>
+      </div>
+      <div style="margin-top:14px;">
+        <div class="bond-type-list">
+          <div class="bond-type-item">
+            <span class="bond-type-rating rating-risk">日內進場</span>
+            <div class="bond-type-name">突破進場條件（Day Trade）</div>
+            <div class="bond-type-desc">RVOL &gt; 3 · 突破盤中高點 · 收在 VWAP 上方 · EMA9 &gt; EMA21</div>
+          </div>
+          <div class="bond-type-item">
+            <span class="bond-type-rating rating-mid">日內進場</span>
+            <div class="bond-type-name">VWAP 回測進場條件（Day Trade）</div>
+            <div class="bond-type-desc">先前有量能暴增 · 股價回調到 VWAP · VWAP 守住 · 再次放量收復 → 進場</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">④ 盤中（11:00–15:00）— 主力還在嗎？</div>
+      <div class="bond-intro-box"><p>📌 <strong>目標：</strong>確認早上進場的股票是否繼續有資金支撐，同時篩出新的候選股。</p></div>
+      <div class="cards-grid" style="margin-top:12px;">
+        <div class="card">
+          <div class="card-header"><span class="card-icon">🔍</span><span class="card-title">Finviz 盤中 Scanner</span><span class="tag tag-info">篩選條件</span></div>
+          <p class="card-desc">
+            Price &gt; $20 · Volume &gt; 2M<br>
+            Relative Volume &gt; 2 · Performance Today &gt; 5%<br>
+            <em>移除市值 &lt; $3億的票（容易被操控）</em>
+          </p>
+        </div>
+        <div class="card">
+          <div class="card-header"><span class="card-icon">👁️</span><span class="card-title">觀察持續性</span><span class="tag tag-info">判斷標準</span></div>
+          <p class="card-desc">
+            ✅ 量持續放大 + 不斷創日高 → 主力仍在<br>
+            ⚠️ 量萎縮 + 股價橫盤 → 主力觀望<br>
+            ❌ 量縮 + 股價下滑 → 主力撤退，考慮離場
+          </p>
+        </div>
+      </div>
+      <div class="bond-type-list" style="margin-top:14px;">
+        <div class="bond-type-item">
+          <span class="bond-type-rating rating-mid">Swing 確認</span>
+          <div class="bond-type-name">盤中 Swing 進場條件</div>
+          <div class="bond-type-desc">整理區間突破 · Volume &gt; SMA20 × 2 · 收在 EMA50 上方 · RSI 40–70 之間</div>
+        </div>
+        <div class="bond-type-item">
+          <span class="bond-type-rating rating-safe">Swing 回調</span>
+          <div class="bond-type-name">回調進場條件（EMA50 &gt; EMA200 趨勢已確認）</div>
+          <div class="bond-type-desc">股價回調到 EMA20 或 VWAP · 未跌破前低 · RSI 在 40–60 之間 → 最佳低風險進場點</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">⑤ 盤尾（15:00–16:00）— 找明天還有人接的股票</div>
+      <div class="bond-intro-box"><p>🎯 <strong>這是最重要的時段。</strong>做「盤尾買進、明天賣出」策略的核心判斷全在這 60 分鐘。</p></div>
+
+      <div style="margin-top:14px;">
+        <div class="options-section-title" style="font-size:13px; margin-bottom:10px;">📐 收盤位置公式（最重要的指標）</div>
+        <div class="cards-grid">
+          <div class="card">
+            <div class="card-header"><span class="card-icon">🧮</span><span class="card-title">公式</span></div>
+            <p class="card-desc">
+              <strong>（收盤價 − 日低）÷（日高 − 日低）</strong><br><br>
+              <strong>&gt; 80%：</strong>極強，收在今日高位區，明天續漲機率高<br>
+              <strong>60–80%：</strong>偏強，可接受<br>
+              <strong>&lt; 50%：</strong>偏弱，收在下半段，隔夜風險高
+            </p>
+          </div>
+          <div class="card">
+            <div class="card-header"><span class="card-icon">📊</span><span class="card-title">SMCI 實例</span><span class="tag tag-bullish">75% = 偏強</span></div>
+            <p class="card-desc">
+              日高 36.80 · 日低 32.29 · 收盤 35.67<br>
+              <strong>（35.67 − 32.29）÷（36.80 − 32.29）= 75%</strong><br><br>
+              收在今日區間上四分之三，算偏強。90% 以上最理想，75% 仍可接受。
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-top:16px;">
+        <div class="options-section-title" style="font-size:13px; margin-bottom:10px;">🔍 Overnight Scanner（盤尾專用）</div>
+        <div class="bond-type-list">
+          <div class="bond-type-item">
+            <span class="bond-type-rating rating-risk">必須</span>
+            <div class="bond-type-name">Finviz Overnight Scanner 篩選條件</div>
+            <div class="bond-type-desc">
+              Market Cap &gt; $20億 · Price &gt; $20 · Volume &gt; 3M · Relative Volume &gt; 2 · Performance Today &gt; +5%<br>
+              <strong>（進階）加入：52-Week High &lt; 20% Away</strong>——距 52 週高點不足 20%，代表真正強勢股，非新聞一日遊
+            </div>
+          </div>
+          <div class="bond-type-item">
+            <span class="bond-type-rating rating-mid">確認</span>
+            <div class="bond-type-name">盤尾觀察三要素</div>
+            <div class="bond-type-desc">
+              ① <strong>收盤位置 &gt; 80%</strong>（公式計算）<br>
+              ② <strong>接近日高</strong>（如最高 36.80，收 36.50 = 很好）<br>
+              ③ <strong>最後 30 分鐘走勢</strong>：價格上升或橫盤 ✅，一路下跌 ❌
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-top:16px;">
+        <div class="options-section-title" style="font-size:13px; margin-bottom:10px;">📉 如何解讀當天走勢</div>
+        <div class="cards-grid">
+          <div class="card">
+            <div class="card-header"><span class="card-icon">🟢</span><span class="card-title">情況 A — 正常震盪</span><span class="tag tag-bullish">不擔心</span></div>
+            <p class="card-desc">35.74 → 35.67 → 35.80 → 35.90<br>主力吸貨時的正常波動，成交量沒有放大異常賣壓。</p>
+          </div>
+          <div class="card">
+            <div class="card-header"><span class="card-icon">🟡</span><span class="card-title">情況 B — 開始轉弱</span><span class="tag tag-caution">注意</span></div>
+            <p class="card-desc">35.74 → 35.67 → 35.40 → 35.20<br>成交量同步放大，代表開始有人獲利了結。觀察是否跌破關鍵支撐。</p>
+          </div>
+          <div class="card">
+            <div class="card-header"><span class="card-icon">🔴</span><span class="card-title">情況 C — 危險</span><span class="tag tag-bearish">警戒</span></div>
+            <p class="card-desc">35.74 → 35.67 → 35.20 → 34.80，<strong>收在日低附近</strong>。今天追價的人被套，明天開盤有出貨壓力。</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">⑥ 盤後（After Hours）— 確認明天方向</div>
+      <div class="cards-grid">
+        <div class="card">
+          <div class="card-header"><span class="card-icon">🌙</span><span class="card-title">看什麼</span><span class="tag tag-info">Yahoo Finance</span></div>
+          <p class="card-desc">
+            After Hours 價格變動 + 財報發布 + CEO 發言 + 指引修正<br><br>
+            收盤 36 → 盤後 37：<strong>偏強</strong>，明天開盤往上的概率高<br>
+            收盤 36 → 盤後 33：<strong>有問題</strong>，明天開盤往下壓，需要重新評估
+          </p>
+        </div>
+        <div class="card">
+          <div class="card-header"><span class="card-icon">⚠️</span><span class="card-title">盤後注意事項</span><span class="tag tag-caution">流動性差</span></div>
+          <p class="card-desc">盤後成交量極低，容易出現大幅跳動但不代表真實市場情緒。<strong>只看方向，不在盤後追入。</strong>等隔天開盤確認再操作。</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">⑦ 15 分鐘最佳流程（盤尾買進版）</div>
+      <div class="sop-list">
+        <div class="sop-step"><div class="sop-num">1</div><div class="sop-text">收盤前 30 分鐘，打開 Finviz Overnight Scanner（Market Cap &gt; $20億 · Price &gt; $20 · Volume &gt; 3M · RVOL &gt; 2 · Today &gt; +5%），剩 10–20 隻候選</div></div>
+        <div class="sop-step"><div class="sop-num">2</div><div class="sop-text">計算每隻的<strong>收盤位置</strong>：（收盤 − 日低）÷（日高 − 日低）。移除低於 60% 的股票</div></div>
+        <div class="sop-step"><div class="sop-num">3</div><div class="sop-text">打開 Benzinga 查新聞：移除沒有具體催化劑（財報/升評/FDA/收購）的股票</div></div>
+        <div class="sop-step"><div class="sop-num">4</div><div class="sop-text">打開 TradingView 看圖：保留「接近日高 · 收在 VWAP 上方 · 最後 30 分鐘上升或橫盤」的股票</div></div>
+        <div class="sop-step"><div class="sop-num">5</div><div class="sop-text">（選擇性）打開 Unusual Whales 確認 Call Flow 是否異常增加，機構期權買盤是強力加分項</div></div>
+        <div class="sop-step"><div class="sop-num">6</div><div class="sop-text">最終剩 2–3 隻，按「催化劑強度 → 市值 → 成交量 → 收盤位置」排序，選第一名盤尾進場</div></div>
+      </div>
+      <div class="bond-intro-box" style="margin-top:14px;"><p>⏰ <strong>最佳進場時間：</strong>15:30–15:50（收盤前 10–30 分鐘）。這時籌碼已相對穩定，最後 10 分鐘機構往往有尾盤護盤需求。</p></div>
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">⑧ 兩個 Scanner 對照表</div>
+      <div class="cards-grid">
+        <div class="card">
+          <div class="card-header"><span class="card-icon">⚡</span><span class="card-title">Momentum Scanner</span><span class="tag tag-info">全天追蹤</span></div>
+          <p class="card-desc">
+            <strong>用途：</strong>盤中實時追蹤動能股<br><br>
+            RVOL &gt; 1.5 · Volume 持續增加 · Price Change &gt; 2% · 盤前 Gap 股<br><br>
+            每 30–60 分鐘跑一次，篩出有成交量異動的候選股
+          </p>
+        </div>
+        <div class="card">
+          <div class="card-header"><span class="card-icon">🌙</span><span class="card-title">Overnight Scanner</span><span class="tag tag-bullish">盤尾專用</span></div>
+          <p class="card-desc">
+            <strong>用途：</strong>找隔天續漲候選，盤尾 15:00 後跑<br><br>
+            Market Cap &gt; $20億 · Price &gt; $20 · Volume &gt; 3M · RVOL &gt; 2 · Today &gt; +5%<br>
+            <em>進階加：52W High &lt; 20% Away</em><br><br>
+            配合收盤位置公式二次篩選
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="options-section">
+      <div class="options-section-title">⑨ 實例評分 — 如何快速排優先級</div>
+      <div class="bond-intro-box"><p>📋 <strong>以下用真實盤面示範評分邏輯</strong>（非投資建議）。核心評分維度：題材強度 × 成交量 × 市值 × 漲幅合理性</p></div>
+      <div class="bond-type-list" style="margin-top:12px;">
+        <div class="bond-type-item"><span class="bond-type-rating rating-risk">S 級</span><div class="bond-type-name">SMCI +16%｜成交量 107M｜市值 $23B｜AI Server</div><div class="bond-type-desc">同時符合：大市值 + AI 核心板塊 + 超大成交量 + 非一次性事件。最容易出現「Day 1 +16% → Day 2 +5% → Day 3 +8%」的延續走勢。</div></div>
+        <div class="bond-type-item"><span class="bond-type-rating rating-mid">A 級</span><div class="bond-type-name">ORKA +19%｜成交量 3.4M｜市值 $5.2B｜生技</div><div class="bond-type-desc">市值夠大，漲幅合理（未超過 20%），第二天仍有資金追的機率高。成交量雖不如 SMCI，但質量穩定。</div></div>
+        <div class="bond-type-item"><span class="bond-type-rating rating-mid">A- 級</span><div class="bond-type-name">KYMR +10%｜成交量 2.1M｜市值 $8.2B｜生技</div><div class="bond-type-desc">漲幅溫和（+10% vs APGE 的 +47%），反而續漲機率更高。利多未過度透支，後續還有空間。</div></div>
+        <div class="bond-type-item"><span class="bond-type-rating rating-safe">B 級</span><div class="bond-type-name">APGE +47%｜成交量 54M｜市值 $10B｜生技</div><div class="bond-type-desc">新手看到 +47% 很興奮，但利多已大幅反映。隔天容易震盪整理甚至回吐。大漲當天反而是風險，不是機會。</div></div>
+      </div>
+      <div class="bond-intro-box" style="margin-top:12px;"><p>💡 <strong>核心原則：</strong>盤尾隔夜策略不是追最大漲幅的股票，而是追「漲幅合理 + 成交量大 + 市值穩定 + 有持續性題材」的股票。</p></div>
     </div>
   </div>
 

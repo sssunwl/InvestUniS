@@ -89,7 +89,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-23 19:36 HKT",
+      "updated_at": "2026-06-23 20:01 HKT",
       "news": [
         {
           "title": "有圖有勢｜HSI黑色星期二爬蟲 港股3343億成交砸落（持續更新）",
@@ -109,7 +109,7 @@
         },
         {
           "title": "【港股收市】恒指瀉432點 AI股爆小股災 MiniMax插16%最傷",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTSFY1OGt6eG1rRl93by1DOUVJSGREc2dHbWt1RFNmZV82cmxtWHJWb0hZSFFfbVdJWGlKY2dRSl95TDN2NVMyc3I1MWp6akg5VDVtdnh2M0NiMThySWRzZnRGLXdtQ0k?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vQ1UwMnFySFFHdzJlZ1RCN3lveGhtZUVMLVh2UDR1UlhxSUp2ek8yQklBTTlEMGhjWlEteG83Ry1FS3JLM2ZHOExBQmNxZ1RtYlA1aXhkRmUtN2JuTkk1Mnd0cU8?oc=5",
           "source": "Now 新聞",
           "published_hkt": "06/23 17:28",
           "related": [
@@ -144,7 +144,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-23 19:36 HKT",
+      "updated_at": "2026-06-23 20:01 HKT",
       "news": [
         {
           "title": "TWA00 加權指數- B哥今天又加碼了，儍多小心了😎 - 股市爆料同學會",
@@ -165,10 +165,10 @@
           ]
         },
         {
-          "title": "台股23日指數開高走低 群創獲利亮眼股價連8漲開出並創18年新高",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfTERVZ055emIxU2NYbHJXNXlQVmwyU2NXLVc2ZVR0YS1US3l1QmxQODZwUUxjbHRoRkVxSzhCOUw5ekF6bnlaNS04eHBMYjQ3TkE?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "06/23 18:23",
+          "title": "【量大強漲股整理】台股大怒神殺盤又怎樣？七月接棒兩大股，主力趁今天暴跌瘋狂上車!",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PaGVxTmEzQUxrNUJDZm54MkFOQndZYzZQdlhRdHNXMVNyR1NEck9aVlZqUklOblFkSkxERE53TG9wbURXcEdUNU9MWUVzdHM?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "06/23 17:20",
           "related": []
         }
       ]
@@ -197,11 +197,20 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-23 19:36 HKT",
+      "updated_at": "2026-06-23 20:01 HKT",
       "news": [
         {
           "title": "《日股》日經重挫逾2500點 獲利了結賣壓湧現",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVmpDblZJdDVZME8yM0VKUS0yN0oxdW8xc1hxQU5rQjdaUkRqVEJLR0pqU0FScnAtaExLSlM2a2taMmt2T0ZqZVcwTEtiNm0wNUtfTXI0RVQzS3VjbW51a05GVWZHbnN1Y3lTaGRqdWlyUFBBYnUtWlB5SUpsMGJZSWRveGpwbVlSSmZYak5CY3FjZw?oc=5",
+          "source": "台視全球資訊網",
+          "published_hkt": "06/23 18:01",
+          "related": [
+            "^N225"
+          ]
+        },
+        {
+          "title": "《日股》日經重挫逾2500點 獲利了結賣壓湧現",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ1lfV3g4My1NLUFaOURwUl9nS3NWUTBaS1BfRk1yaXBKNS15cUV3ZVlUUTBadVdoajlWaXVWcV9NUzlleURaWWQ0czJtVzMyd1NLZHFWMFdTVnRva21NLVdrMXBNZk9FX3VNMDFJLUlmZ1g1SGtneHFzSkFSNVlLb1RsM0x1ZGlfTlE3T2xyUW9Ed196R1dmMHpGUkI?oc=5",
           "source": "台視全球資訊網",
           "published_hkt": "06/23 18:01",
           "related": [
@@ -214,19 +223,12 @@
           "source": "CMoney投資網誌",
           "published_hkt": "06/23 17:17",
           "related": []
-        },
-        {
-          "title": "亞股大逃殺！日股摔2200點、韓股熔斷",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUnFZbEhlMGI3S1ZBM0lYUElMNVMxMkNDZ2NTUXNUaDJYUTVOR3BkUXUxUjhmbTJqUGRrQ0Jlc3p2bWlhOEJhOWdpV29SN0NoNGhpM2NfRWFaYlhoUVhSZUU4Q25XWHkxWXhOMlhPMGNtZzd3S1NFTmNrWHpqSV9ReG5WZy1ycFZsTFJlbDByVUU3NmVSamoxbUp6M0FUVHFkbHVablBVRWd4a2t4MTBLUnF4SmY2Z3A4RUY2ZnFESWRwTjRVMTNjdk12OWhrc1JJS1lzbjE2Q1JxakRnSXJYSlllVGFILXBoSGpHWWtyeUFLNnVwTXFZ?oc=5",
-          "source": "Yahoo新聞",
-          "published_hkt": "06/23 17:06",
-          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-06-23 19:36 HKT",
+    "updated_at": "2026-06-23 20:01 HKT",
     "news": [
       {
         "title": "Happy Hour（HH）代幣經濟：市場洞察、代幣供應、分配與價格數據 | MEXC",

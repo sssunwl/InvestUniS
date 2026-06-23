@@ -29,8 +29,22 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-23 10:52 HKT",
+      "updated_at": "2026-06-23 12:42 HKT",
       "news": [
+        {
+          "title": "美銀預測Fed年內升息「3次」！美股、債券恐迎新衝擊",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wd3VBYVJKNXV0YUV3UzNvcWVkSkp6enRqY1luQkYzOFoxTGFkQ2VqdnZ0V2E5VTdzVWNtYTl1eENIMFRiVWhBeHMtd04zWlE?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "06/23 11:20",
+          "related": []
+        },
+        {
+          "title": "SpaceX 掛牌點火！低軌衛星概念股有哪些？太空連網供應鏈該怎麼看？｜美股產業｜豐雲學堂2026 年 06 月",
+          "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxPbWJJd2ROTllBYzlVempXRkE4QlBKNHJmLWxwM3RtX1FDY0tEczNiNmxpNnNKSmNPLXdhdjA3VFZPeEVWaTlFbjJ2dXI1RjZUZno1X0RySHp6Z2hzaGN2WjdWaWZPRjhlbHRJN3lGd1JLSmZ3Q2tseHdIejhYMEpaUV9mR2haR2pjeXFBV2FIV3VhNEZWOGIyejJlSEp3NGpnMFVDR3FTbEpVbUY3a012Y1JOZHVwMG1CQ0dXUDE4d2dlVVZzLVhjckN6cy16QW9rRDJVRlJlczBVWW9kVmRJMWJ0elJKRE11Y2t0WWtwdnNCY0pYS1FYU3dkQ0JLTTkyMUNZeGhyOThoWnJYVG04VVJ0V2YtamY3VzROTklfTnBiWnBIYm8xS2gwdHV1NXRDVEl6aF8wZFJQaUY1VktkN2pkdHg5dFh4N1JaVW54S2tNTUVaM0I0ZFlmZVB2VWZFUlJLenpMdHNIVjNBZXVZTVJCTEdZQmpMek1jZklwUDdqYW9xRnhlaEVEU1NpQmkwVl9ybEwwQmk2OG5sNjMwbkdPdmNZR2swbm9RVkpjY1NTZ05vQ3ppOUVCYXZsdnA3REMxLUhEbHc5RFhmZF85LWJCQ1UzTGw3UVkzSWhaVTF5YkV4N0o4M193X193R3JHVUFiUWRaQXZKSG95ZUxr?oc=5",
+          "source": "sinotrade.com.tw",
+          "published_hkt": "06/23 10:11",
+          "related": []
+        },
         {
           "title": "Strategy又開始買比特幣 市場真正擔心的卻是另一件事",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RZ1otWDBNZ1VvNE83MnFOeWxPNjdRODk4ckdVR2syNGF3NEJtZHIxRXNYbmROV0tqSmJESHZNV051MWJoUGQ5UnBUUGt6WnM?oc=5",
@@ -39,20 +53,6 @@
           "related": [
             "BTC"
           ]
-        },
-        {
-          "title": "IPO狂歡結束了？SpaceX三日重挫後再拋200億美元發債計畫 市場轉盯解禁賣壓",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RU21wa2hDVG93SW80YWZ5blpLY2lSX0U5MDd4bFU4YzBSOGtvUno5VGtpWEdkXzI1MFNLWG1sZnpVSlJ5WEdjMldDdVpKSTg?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "06/23 10:00",
-          "related": []
-        },
-        {
-          "title": "美股大盤指數交易怎麼看？一文看懂核心邏輯與國際市場最新影響",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84QVJmV1NqTXBmOVJJTW1UbW1EVWx3N1Q0U2h6MTlDeXkyLXVKR3dGWF9yUmdTSWZRSUhMazJxWnc4SWo1dGFHTFg3ZTU2RTBhVnREdw?oc=5",
-          "source": "EBC Financial Group",
-          "published_hkt": "06/23 09:54",
-          "related": []
         }
       ]
     }
@@ -233,29 +233,27 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-23 10:52 HKT",
+    "updated_at": "2026-06-23 12:42 HKT",
     "news": [
+      {
+        "title": "為什麼 XRP 現在上漲？伊朗停火、荷莫茲海峽，以及這對 XRP 意味著什麼",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQT0RJSC1sQVN6b3N4ZGZ6WS1CdkhnOXNpSUJ1RkNLeUo3bDRfYVdzeHpuZmlXaXNERk04T1p0WGV3T3hjZW9jOTVUczZUcG5hV1RPNEUzanhtWjZQclBaVEMxZlR3Zjc4c1o3NExKQ3dPaEFEMWtCTW40U3hCcTRlNERtUi1rMHlzRFJWSXRiZy1EMHE3VlBUblZzYVBhRW5oU0FmcmpMZGpaOEUyOXIxd1dYZEVkLXQwdFlJUkJyVmc5RlkwaHFkR3FHMHJvQXVPdG80Rw?oc=5",
+        "source": "MEXC",
+        "published_hkt": "06/23 11:31",
+        "related": []
+      },
+      {
+        "title": "區塊鏈重點動態2026年6月23日晨間參考",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0Rl9Hb3R4UWtqaU5vYll1NTl6clE4WHJmRW52bHpGeFRSSlJMTExHQ090NGNSX0tyc2VRRU1ESE1lQ1NYTmVLRnBVUQ?oc=5",
+        "source": "cnyes.com",
+        "published_hkt": "06/23 11:30",
+        "related": []
+      },
       {
         "title": "區塊鏈重點動態2026年6月22日全天參考",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uM25OQkRzQU5TUU5tRkhkUVJieFZfdzJ4ckxmaENqUXA3R2VFdy14TU1SSEloWXVXekpxQ1A4UTFsbzl4a09odHF4MA?oc=5",
         "source": "cnyes.com",
         "published_hkt": "06/23 09:30",
-        "related": []
-      },
-      {
-        "title": "比特幣飆漲6.5萬鎂回落！多軍慘遭血洗、24h爆倉3.68億，恐懼指數僅23",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM2FUTXpfYVptOXFDYm1weDFxRUxXdEloT292eVE0NzE4eEpIbXNrYTJwU2hUakM0UFlGMFRUaGZWTHZ2THdkWEV1eFVXOWxFQldENWZQVnB1OUhsZzJ0NXg1dG1hZEFWYkNrR0lOeU55NEdpTGRtNHVaQXhWcnlGbnhRU085OUg5UkFUY3JNZmg4dk13bi13QzlsQVJKSmEyV24yXw?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "06/23 09:27",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "加密貨幣清算：$404M 空頭軋空來襲，BTC 槓桿冷卻回歸平靜",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NNU51Z0Judk96R2VSU0tuNWt0ak1iUTRVMWlzVUttRExQa00zQzJuRHk3NkVDUm9GSk1YODlIeXh1d2szelBzTWJxTm9zR2lj?oc=5",
-        "source": "MEXC",
-        "published_hkt": "06/23 08:19",
         "related": []
       }
     ]

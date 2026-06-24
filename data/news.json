@@ -29,30 +29,28 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-24 09:21 HKT",
+      "updated_at": "2026-06-24 10:53 HKT",
       "news": [
         {
-          "title": "《研究報告》美股蓄勢待發 留意三關鍵",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVG1iUnpSem1qbmdmYTRVOUZhYlZoQTBleGxhbFpEZWZacTE0MlljY21CM0NGVkN4alZpUThLR1pKR0g5eDU0ZzZaX19tZFk2NzFXMk56cUpKclQ2RW5FUUZUNTJabC1sSWdySWdMRDdXNmI5anN0WjlYZWRacWVuTnE1TURVWG1Z?oc=5",
-          "source": "富聯網",
-          "published_hkt": "06/24 08:42",
+          "title": "市場快訊｜AI行情熄火了嗎？美股重挫背後的三個關鍵訊號",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcHFkZ3dpb3V6Q3VXRUZwZ3BiUHREdHc4eEEzVjMxaG96LU1Tb0x3QUdCaV9HZDN5TW1tekpZZHJPeHlvdlFrTzVTZUk4SXY0OUJwY3RBRUpYMlNjeFNTTFg0SVFGVVhnSGlhUHkyZk1ybmI2VXpaTXdHQS0zSWVINlFXcV9wXzVkNndabmRHbHlmM0M5cTU4RFpB?oc=5",
+          "source": "鉅亨買基金",
+          "published_hkt": "06/24 10:33",
           "related": []
         },
         {
-          "title": "「科技七巨頭」股價修正 或許反而是美股健康訊號",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1XzVoamFCWDhCM05sRGRKOVFpbkd4UERPZzhpdktGVzVnVDRtaU5tWkE4X2lURXIzZnRFeHUtSkdwNElmZ2lNcGNtVl9ORzA?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "06/24 08:31",
+          "title": "深夜暴跌！美股AI崩了，高盛重大警告",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43OVFCMmlxTU14RmljVHBNeVI5VzNZVXB5UGVSUW9rZDctUDhZel9YdFMxTlZWSTNfVXNfTHdNbVotRHRVaDJVNA?oc=5",
+          "source": "鉅亨號",
+          "published_hkt": "06/24 10:17",
           "related": []
         },
         {
-          "title": "Meta推出新預測市場平臺「Arena」，瞄準未來賭博商機！",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOURsMGl4bFgzb0g4V1ZvTF9mcmNXcUZkdjVzUXdWT2Z2QmE1cEJFajZtOEc5S2VkaVAxenJjSF92LXZYWVVMX0Q0ZGhWeThBNGswaUI1WklDTHM3NUJrbzFFUGplNjUyRVZhR2FvcnotNjYwTFloTENRZXMxSlRaX3ZNcTVSQ3dhRXk2WUM1MWE1MXBf?oc=5",
+          "title": "H.B. Fuller Q2 2026 財報即將揭曉，市場期待增長動能！",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQXzNzT1FGREpXd1NPNU9RUUVSbDZnazNlYUJVQmtmYnQtM3FWeHJSX2tFLUZEYlpEU2FkSVRBV013cTBtdjl2MWFROTFmZFVGTUNRa2pKSjFySEZTbXBndGtWTFNDTG9FMDZPWjdWZWlrZkcweXhlYmFxTXZyRzVLZEtHOHZ4aFFUZy1EX21Dd2VQdm9K?oc=5",
           "source": "forecastock.tw",
-          "published_hkt": "06/24 08:24",
-          "related": [
-            "META"
-          ]
+          "published_hkt": "06/24 09:48",
+          "related": []
         }
       ]
     }
@@ -226,8 +224,17 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-24 09:21 HKT",
+    "updated_at": "2026-06-24 10:53 HKT",
     "news": [
+      {
+        "title": "比特幣小幅回檔 6.3 萬鎂！科技股拋售血洗幣市，5.58 億爆倉、恐懼指數探 17",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbVZCTDdtclV4SkMzRXZDTll4bkhveHpoeUhXU01RNnRyNXJOclpJdFNoZ1RRempHVFdrWWxHTEtxV3NETml6WlZKVXpaRVJteURUV1d4Y0dEeTNzdS1jVWpacnY4b19Jc0RkWkZmUDZoemJxM3BWSzZuSGNaWEFzZXJkX3Fxb1Zfc1Uwam5IQlhGNUJGMzlsOTZRVDliVk1o?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "06/24 09:24",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "以太坊基金會裁員二成 以太幣下跌加密市場震盪",
         "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOUUdPc0Fhd2NlZ0FHQWR3VXlzZEhNb1gtbGk2U2lZclpialAtZUpxNGRaRWJaQ0h4bC1IMDI2cXhGNVBWM0d2clJzX2FhMHJOWXE2VXUzTjBjWVVOTGk0dHMyb0g3QVZjRHJVTlIydTBiMU9VbjNndXFBeWFSM013UU1ZVjJaSEZWS1NWc3U3S1Zqci0wQkptUlZ4NEhYVEYtUGQzbXJ1dWpiazJDck16Vlp0M3hfRkZwVGVXamxIQ08yeDYxaWpFT2loM0dWZ01jaFppdWkwU042SVhuWmF5NVJWNFFLbVFPc2pjSGUxeXRrV3FsOTJjZS16bnJUamdKQnlqRFVqd0VHX0Uydm0wTjdTR1pmLU5BZzF0ZHV5eHpyWXQ2OHlFR0RjNVpjT1RLM3IxX1U4UnpEdnNoOEJQMGlseTVLX2dONzMxcUNqaTFMcE1qYWhJUA?oc=5",
@@ -246,13 +253,6 @@
           "MU",
           "BTC"
         ]
-      },
-      {
-        "title": "Port3 Network 今日價格：台灣的 PORT3 兌 TWD 實時價格圖表和市場數據",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CN2RlTEs4VXQzdTA2Qm1sdWp4SFVoV0RIdXo0MTViVnM4M3VWcU03dl8xWGxTZ2F6bEhpRXhsTFBqRUtvMjhhTTBHZFFneW1HT0FpdjNPQkZOUQ?oc=5",
-        "source": "MEXC",
-        "published_hkt": "06/24 06:46",
-        "related": []
       }
     ]
   }

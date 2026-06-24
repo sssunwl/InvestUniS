@@ -29,62 +29,62 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-23 12:56 HKT",
+      "updated_at": "2026-06-24 09:21 HKT",
       "news": [
         {
-          "title": "美銀預測Fed年內升息「3次」！美股、債券恐迎新衝擊",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wd3VBYVJKNXV0YUV3UzNvcWVkSkp6enRqY1luQkYzOFoxTGFkQ2VqdnZ0V2E5VTdzVWNtYTl1eENIMFRiVWhBeHMtd04zWlE?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "06/23 11:20",
+          "title": "《研究報告》美股蓄勢待發 留意三關鍵",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVG1iUnpSem1qbmdmYTRVOUZhYlZoQTBleGxhbFpEZWZacTE0MlljY21CM0NGVkN4alZpUThLR1pKR0g5eDU0ZzZaX19tZFk2NzFXMk56cUpKclQ2RW5FUUZUNTJabC1sSWdySWdMRDdXNmI5anN0WjlYZWRacWVuTnE1TURVWG1Z?oc=5",
+          "source": "富聯網",
+          "published_hkt": "06/24 08:42",
           "related": []
         },
         {
-          "title": "Strategy又開始買比特幣 市場真正擔心的卻是另一件事",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RZ1otWDBNZ1VvNE83MnFOeWxPNjdRODk4ckdVR2syNGF3NEJtZHIxRXNYbmROV0tqSmJESHZNV051MWJoUGQ5UnBUUGt6WnM?oc=5",
+          "title": "「科技七巨頭」股價修正 或許反而是美股健康訊號",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1XzVoamFCWDhCM05sRGRKOVFpbkd4UERPZzhpdktGVzVnVDRtaU5tWkE4X2lURXIzZnRFeHUtSkdwNElmZ2lNcGNtVl9ORzA?oc=5",
           "source": "news.cnyes.com",
-          "published_hkt": "06/23 10:10",
+          "published_hkt": "06/24 08:31",
+          "related": []
+        },
+        {
+          "title": "Meta推出新預測市場平臺「Arena」，瞄準未來賭博商機！",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOURsMGl4bFgzb0g4V1ZvTF9mcmNXcUZkdjVzUXdWT2Z2QmE1cEJFajZtOEc5S2VkaVAxenJjSF92LXZYWVVMX0Q0ZGhWeThBNGswaUI1WklDTHM3NUJrbzFFUGplNjUyRVZhR2FvcnotNjYwTFloTENRZXMxSlRaX3ZNcTVSQ3dhRXk2WUM1MWE1MXBf?oc=5",
+          "source": "forecastock.tw",
+          "published_hkt": "06/24 08:24",
           "related": [
-            "BTC"
+            "META"
           ]
-        },
-        {
-          "title": "IPO狂歡結束了？SpaceX三日重挫後再拋200億美元發債計畫 市場轉盯解禁賣壓",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RU21wa2hDVG93SW80YWZ5blpLY2lSX0U5MDd4bFU4YzBSOGtvUno5VGtpWEdkXzI1MFNLWG1sZnpVSlJ5WEdjMldDdVpKSTg?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "06/23 10:00",
-          "related": []
         }
       ]
     }
   },
   "hk": {
     "pre_market": {
-      "updated_at": "2026-06-23 09:26 HKT",
+      "updated_at": "2026-06-24 09:21 HKT",
       "news": [
         {
-          "title": "【港股市況】恒指黑期升64點 滙豐ADR高港股2%（不斷更新）",
-          "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQWDNQTW15M0dCR2JacEoxQWF1TEdUTEYxT0V6elJFM1Jfa1ZlRFVXQXhTbEw2QTRfLWlJMWlwUzhpVEdwSmZoeXdtXzc1YlV6M09NeXZJT1NsWmZfdHBJaHhBVjBNTjZkdnJKdlJOd0RodTRLMFZTUGttZmJiNGEtRmgwUkJhTmd5amdUMnFyRFU4MWNxQmotVndCYnJMNWtQR2ZEazhyMG9kQjJ1QXFZd3ZNSmw4TWNGRGtOMDNVQ3c3NXRJM1ZlVzUycGZBWnN6OUJTSEZXSGFDdjkySHE4dWxrMTFCeFlBcG42TzI1UGh1TElrYjNyTE5admQ4dkYwOFQzYWcyY2RyX2xQd1VFTmFsZU5GWkdRaXJqOC1JX2k0aUZmTjVEdTkzeEI0SjFXTFRfaER2STZZMDJKZ2VVVUlFaVB6OWRwSGZhTEE2Rld3NjFrUjNLX1BaLXNvb0EwaDVoejc3bXpxVmVZWXp3M0MtYUZwNk9Gc2dEZ3J5ZEFTUFpxMHE4?oc=5",
+          "title": "【港股市況】恒指黑期升214點 百度美股高港股3%（不斷更新）",
+          "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQaXRkQ0JkVWRQMGp4cGNUcTg1bGtNN2hTUHE4d3JCSWExVGRWaEZkX0JfNzBNUlI4UXQ2bTVZdTJCTEFHV2F4Q3cxaVc1WnVTSkNqblZRc3Rsdnc3cnJjSFNrb1N2TDhWUXVIWVlxWXFQU0lsRW9rOEE4VWlaa01taHNxNlBIdGluLTY0eHQ0cUlzeEhkRHRvN2ZKeVhmcFF1b2QwWEh6QUFLN1U0M25pYkMyVHI1emd5SG1aQVJPWUhacUR5TnZpMXNsSzhpT0ZPOE9TM3pyMEZCTzE3WmRuRUxEU3pMNENValRYdWNwczA1T0RBcFZBWndKdnM0TEZqN2pDNHRhSWRfdnhWbUNFWGw2SFprMDdGaWhOdmdNWExEem5ZUEZ4YUZyNE04aDBaamRjVGVPVHVHNlU3T3lNQmR1NHFHb0pIRDJ2UmtjUTUxOXR3R0pORXVNdFB5YlpaQ050a195WUtoVEdYaXB5M0M3RW5IUS1scnIzTE14NG0zV3RlSEp1UTIzOHdQLVBSbS0wT3BBRVlLVDNn?oc=5",
           "source": "香港經濟日報HKET",
-          "published_hkt": "06/23 09:15",
+          "published_hkt": "06/24 09:13",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "恒指走勢丨長假復市後再跌156點 4日累瀉1074點",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VdWxPeUtEM3RYX05tLWMtWVJqMU9qeDk5d1N2elRCbnJzUEpRNVdreHpHeFhVTmxfUlVfTGFGVFA3SmNtdXZob2hFUXl0ZV9wSDloNi1XVUw2bnNJcWg4cg?oc=5",
-          "source": "信報網站",
-          "published_hkt": "06/23 02:30",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "北水走向｜北水61億買4股VS65億沽7股",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMThDbnR3c1FzUHhKZ0NCMmpKM191WG1SUlQ1RFE3NkUyYkJrNVlwOVNfQkFybWNhVWJ4YVd0VlBxVkRPemI3encyX2czbU1VTkttaTA1VkcxUzdXOWtGLWhuYUtGRlNWQl9zQUdRV2EzOUY4MnVJek5pejdvUjQtYjFaX2JiZHJEVnlkZVJSMzBxWWIzaUNvYndXVm42blk2UURiN2FTTFJMOVVrVDBNbWRvWmk2WC1PWmhPVllvalZtT0J0TXlyNzlybTZlWWtqOVdTRUpfQnRLZV8yS3lTSi1WSl8yS0VtblRBTVcwQzRuOXl1aGpuMg?oc=5",
+          "title": "【港股夜期+ADR+北水】夜期收市升183點 百度美股高港3%（不斷更新）",
+          "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPdUNOY3J1MFBQTU1PZ2dCLVF2QWxhTjVZU3FHUUdIRlhRWnJFcUtQXy1HSTdydTNEUy1WanhzVGJnLWhZSUI1YnhwMG1pOXRtN05jNmQ0Y2FlRENqTkoxbVB4U0lMNFFOaHlXR3NudzFPLVdqa0ExM2pQaXhBM2dZVUwtcUJEYzZxUVhMNnRJdloyVXhKdFZLdGtncFFDQ0FKRG5Sek5oTTI2Nm9TdG1EUjhxY0lhXzVtRnZiMl9uXzVhQjNzeU40RDJpUExFdDBOZmh6aHowYXZ6NVl2TzJJMnA4V01jYzVFV2txSXh5VFVMeGM0NmVJeEM0eEljME1OeF91OWI1QVFTZ2RUbDMzcnkxR1l1VXRBdUFnMGlSVFJsbXlxd0NiaWxheVJfSGtXcnc5X1R2UFVyQ2laaWVvdHBMMHhhMFJJTTFpNXpnMUR2eHIzZk1ybjlHZHg0Y0xxSXZrT21mTHAxT05FbEc3UGpHbHFFYjRRT2ZjX0tJTXg3ZG5vaW1FUWloYk9sS3hxa0lhakI4aHRjUUt1ZnpOUTI0NjVma3JSOENhN1lhbw?oc=5",
           "source": "香港經濟日報HKET",
-          "published_hkt": "06/23 00:02",
+          "published_hkt": "06/24 06:09",
           "related": []
+        },
+        {
+          "title": "受外圍市場拖累港股連跌五日共失1500點中金看好科指值博維持恒指年底見二萬七- 財經 - 香港文匯網",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HMEROVzRLcGZ6X2JHNVlNcWNMbld4MGxPSUpOb0R0TTlVNWxaak1MUzFwWHhuTFF4Vnp1NGZNbVM4dWZnbW9BcG03V1NkdXBIMjhDQktsSXJLX19hSjd3UXUyTUt1ZldZeENZR1o3aTJ5VjA2MFNZ?oc=5",
+          "source": "香港文匯網",
+          "published_hkt": "06/24 04:14",
+          "related": [
+            "^HSI"
+          ]
         }
       ]
     },
@@ -226,32 +226,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-24 00:10 HKT",
+    "updated_at": "2026-06-24 09:21 HKT",
     "news": [
       {
-        "title": "貝萊德喊單：建議投資組合配置「1-2% 比特幣」，這是最佳分散風險工具",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZWhkZFhDNGxjVzhaS2NVQncyZ0tmR0xiTnVhTDQ0UU9VUEVudXpOLWFnQzdpaWV4YnB0dW80NkowSnVfVWZjRHQzSm5rdDBBY25qeWRpVlc1UEUyZnJSZ05uV0p6Umo2M2VmWFBFbnJPSTZxc0FZNWtReWlsWlFqSXFMOGJCN1hoY0Y2RVdsdw?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "06/23 23:57",
+        "title": "以太坊基金會裁員二成 以太幣下跌加密市場震盪",
+        "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOUUdPc0Fhd2NlZ0FHQWR3VXlzZEhNb1gtbGk2U2lZclpialAtZUpxNGRaRWJaQ0h4bC1IMDI2cXhGNVBWM0d2clJzX2FhMHJOWXE2VXUzTjBjWVVOTGk0dHMyb0g3QVZjRHJVTlIydTBiMU9VbjNndXFBeWFSM013UU1ZVjJaSEZWS1NWc3U3S1Zqci0wQkptUlZ4NEhYVEYtUGQzbXJ1dWpiazJDck16Vlp0M3hfRkZwVGVXamxIQ08yeDYxaWpFT2loM0dWZ01jaFppdWkwU042SVhuWmF5NVJWNFFLbVFPc2pjSGUxeXRrV3FsOTJjZS16bnJUamdKQnlqRFVqd0VHX0Uydm0wTjdTR1pmLU5BZzF0ZHV5eHpyWXQ2OHlFR0RjNVpjT1RLM3IxX1U4UnpEdnNoOEJQMGlseTVLX2dONzMxcUNqaTFMcE1qYWhJUA?oc=5",
+        "source": "Yahoo股市",
+        "published_hkt": "06/24 07:27",
         "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "Vitalik 證實以太坊基金會預算大砍 40%！以太坊將推「稻草地圖」第三代升級，最終效仿比特幣精簡化",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUpQVkJ3VEVmSkZBd0JsMEY0X3Q2WWp1RDNCY1pUcWo5NFZVUEl4V0lXcl8yc19WTGJaOTNQN3NSVXhHc25NMmtiX0xRRUxURVp3RndtV3FMYWIycFZfWjc0WC0tYXl3RE9mTWlWME5Fb3ktZ29mSDlKWUk2RExVS29sRl9RN01TTGlWUg?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "06/23 23:45",
-        "related": [
-          "BTC",
           "ETH"
         ]
       },
       {
-        "title": "加密黑粉倒戈？「末日博士」魯比尼推出代幣化基金「USAFi」，大讚區塊鏈超有價值",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX1c5T2RwZkU1RUVtdGtvNXItTi0ycWNqajRPWURyYjEtcHV1eE9nNXlRejhCc2tCQm1TVjY2WHV0Z3JTMW1CZ3RUd3cyS3dBRGZoUUd6UFlOSDVTVEI1V0IwM2NseFBqMkxNdTlrSnJqTEh5SVNnbTFqd0JIUnJVcmNn?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "06/23 22:28",
+        "title": "美光財報前夕暴跌13%，半導體股賣壓沈重，比特幣下滑至62K",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpWFIyRWtDNDgxS1o1WWwwYkY4TmxMQzdhSWZTeDJSV09JeUVEWTVOekJ1UEx4b3Brck50MHZTeGRQR2I4TThsamctRWFmOHdKMlBQeFFLRFUydmo3?oc=5",
+        "source": "鏈新聞 ABMedia",
+        "published_hkt": "06/24 07:27",
+        "related": [
+          "MU",
+          "BTC"
+        ]
+      },
+      {
+        "title": "Port3 Network 今日價格：台灣的 PORT3 兌 TWD 實時價格圖表和市場數據",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CN2RlTEs4VXQzdTA2Qm1sdWp4SFVoV0RIdXo0MTViVnM4M3VWcU03dl8xWGxTZ2F6bEhpRXhsTFBqRUtvMjhhTTBHZFFneW1HT0FpdjNPQkZOUQ?oc=5",
+        "source": "MEXC",
+        "published_hkt": "06/24 06:46",
         "related": []
       }
     ]

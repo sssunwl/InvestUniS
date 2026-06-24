@@ -87,13 +87,22 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-24 19:43 HKT",
+      "updated_at": "2026-06-24 23:34 HKT",
       "news": [
         {
-          "title": "【恒指夜期＋北水】北水全日吸資158億主力吸盈富及建滔系、沽阿里巴巴華虹恒指夜期升99點（不斷更新）",
-          "url": "https://news.google.com/rss/articles/CBMimAVBVV95cUxPNUk3RENJTXA2ZnpzeTcwQWJYTkl5bS0xb1YtREFwMVVzQzhuX2ZKbjF4dk1FN3dXR0hBQXN3b3hnREtYS1VVaDhSWVhLY2NkWmJtMXRHTHJRT3FnbjlFdWxsaXg3QnRaRHNMNmxrUjFQUUQ2dmhZcjBRQmxvTTc3TFE3VWRUdGF3dXBMODQtMmVoeXJ5VHRrMEZYOUFJWlV1cGtjLUswQVRIeGk3aUM1N211ZjNRekpGTlBBcmdidHJoUGtnU2VZSXhYOHFOcm1QVS02YThvMUpSNlhpbXdUcWs4OUU1b0pxWHVVTnJYNENJLXc1UUxkaDZHSWZKMEpTMkFPWkxBUXdJdGtaQVpVa2RUYXZFNEZmUmN1bVZoLTdodHA1a1VPVUplUktqMW1Td3JUUHlmOVlzYUN6LXNGTURPUFNtX0RqYl9qTjN3bjBFRU5xZm0wcm9KNi00R2VyMzNUS3RYOGhXaExRLVVURkFEOWRPYll6YUphbHNHSjBoRmNsQXdQSXJMR3oxdFJyYUtaME1RcWxjOW1mSlV2Qk5xa2dHZFlVNDF1WTgteGlGYzJUVFNVMExZMnVMY1h4Y0J2UHc1NEpDaWUtWjhpcDduQUc0dnVBemhWTFVWVTRqV3czVWJobTU3cXFvbk10cm1lZlhRZ2h4VXRiSGVMdkVDR0x3RXBqZzZFVE50eHZrY2twMDRPSUluT3ZSOC1UVEVXallxbndXaTZrY1ZQdk5iUlg1V0s2dUM1X0hGUzhBVi1kRDk4SHZIbDV2TG10YWdNT1c5ajFQT2hsVVN0MkUyODRqU2w0TnhtVEFvd29SWFB3c1BiUEpMbGRwTlJZS1BETnlvUDZNU2JwdHpXVjZZUE4zQzEz?oc=5",
+          "title": "港股HSI跌完了？",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMENhVGNlZlFKdzVVNlNHQTc0ZmxHLUFMWjVsM1dKcFpGUjdfN2hzYm4ya0ZId1FVSzZsWnFqTXFDbWM0Q3g4S2F6VXkzUllSUWRKSTNxRjlCT2dRcHVaUVhTdFZreGF3UWthNHMtaWY2NndMSl9lbFdmcUhPUTZqMDhjQ19VRlV4aFh2TUpYY1FyUW9wX1ZzdDVCUkRaUQ?oc=5",
           "source": "香港經濟日報HKET",
-          "published_hkt": "06/24 19:25",
+          "published_hkt": "06/24 21:53",
+          "related": [
+            "^HSI"
+          ]
+        },
+        {
+          "title": "【恒指夜期＋北水】北水全日吸資158億主力吸盈富及建滔系、沽阿里巴巴華虹恒指夜期跌91點（不斷更新）",
+          "url": "https://news.google.com/rss/articles/CBMiiwVBVV95cUxQajRndWQ5NTN6ckpYTUZIUjBSaTE3RlowekNEanVZUGc1b2hCR0FicEI2U1NFb2xUb3BUaFpkWkpYdlU4VnJvXzRac1h1eDM1anZLN2VCeGd3dnpqSjJYMVVGbUxMb09kU01rQ2dDYTUyOUthRldVSzJnUHZldjBRMXV5LW1iQ3RkLW1aSjRoNGR2cnFycnRGU1pOT1hJc3BlaE9HWEhIN0Fxa3ZUdFZWWmNMdDBIWXpKSnk2MFBzWGpwQm94YkYxS25YRzR3VVAyRGxGb3hJU2ZlTGd1N21wc2NuVE94c29vWU9YdnZKamtfVG0zTENrNm9zX2pVRzQxeDM0VV8yT0I3TmRDbGR5M1NDTXNqX2FYa3NfdXg1V1UweTNoNS1Bc3N4ZzRHZi1ramstcUR1OU94alhURVRKdVFld2R0cEpnMS1TVkcxM01UNV9PVkJxN0MyVlBPckttbW01Z0UzLVZITjhUd2lNYnhIeUZiTk04My1sYUk1QjV4cHZ1b0JFMXI4dDEzRU55UlM0dWMwazFDQjN4Mms3Q3RaRVBTQThIVERXcng4dFR3NmNab0pBSGo2dElvM2hMZWl1VFRuZzV4SWJIc1hTMTlwdHVhbTQ3R3B3NEZwcWF0dTE5ODlKOHpCRElrbVRuZTRDQ0pBcjJpa1ZWR2JCeUZ5c2t4TWZZVVBmUXJqXzNxaGRpZlFyU0ZJQ28zb2o4alpEcmk4NlJXc0pTVEpISXg3bEZDWjhEcmtxR0ZvUVJLLUxJc3lsaTI5clB3WWJlUXBSQUU1cVJCR3l3ZHloUGpIdjZkNFlfN3dfUEVUOThQTGUxY0NfRENTSG10dzRqaGZRclQ3N1hMeVE?oc=5",
+          "source": "香港經濟日報HKET",
+          "published_hkt": "06/24 19:19",
           "related": [
             "^HSI",
             "9988.HK"
@@ -105,16 +114,6 @@
           "source": "i-cable.com",
           "published_hkt": "06/24 18:52",
           "related": []
-        },
-        {
-          "title": "【港股收市】恒指止跌反彈75點 中芯國際升近9% 騰訊升逾3% MINIMAX逆市跌7%（不斷更新）",
-          "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxPUGplWmZLUGVlajRwTjlKeXVSLTVtZnB1VV9hSEU4Sy1ISk5IU19pUW5qSEo5TU5rOHVKbnVQcnY1YnZqTmlyWkhWaTNvNVVWOXp0dFpCVW52RW9RQ3RlQnRSeVJnSTU4ZWhXSnI3UHhtbGhuTEZYNUpzMlpZTTRGREhRX3JRejRfTkVHQXZtNzNsckdLZmt0dXJCdHNZaVQyNUctV1Mtd2t2NU5OQkdSXzBnWHhWbTFkRmwtYnNZSUNVdEVpa1ItNzYySUJlUFY2RXNyVFhzbWdUY2FGcDIwMHhqSHNJYjdXclFKQ2hkVVNtX3NsSXRGcmxER01UNUl4NWpVNVdFSkFOUjdZRjZzNTExMEY2TnJVQ2t6alI0a3AyVzB2dm94djdna0tPYmdXZU9aTmJhYVRvUF96dURwOVJEUHlHR1Ffb2p4LXpGVVM4VXZpUWZxdG9valV6ek5IRXpBNmtYZHhrWW9DbUZURU4zQWxySjI2aGVSYm9Vb3I0SGlfUFd0SllNelBPVEJPNC1mVHpHZXpSNWZETTB1bE1CaGlMYmdBQXZZSGZxdmc1cUlOc2VnTmNQMHN5aVRnZ2hBMVQ1QUViZUt1Y2Jsd1NKTm5FS3h3TFEzcUtNQ2RTOERpQVpsUUdUVkZCTjE5QkJVbjR6SnlQX3BTOFdneUt3cHl0OFlZX21CNi1UR3l6Nld3aHc?oc=5",
-          "source": "香港經濟日報HKET",
-          "published_hkt": "06/24 18:34",
-          "related": [
-            "^HSI",
-            "0700.HK"
-          ]
         }
       ]
     }
@@ -144,8 +143,24 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-24 19:43 HKT",
+      "updated_at": "2026-06-24 23:34 HKT",
       "news": [
+        {
+          "title": "台股殖利率剩2.4%！怎買？阮慕驊指這檔ETF | NOWNEWS今日新聞",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SM2htblNrOXVpZmJWb3BXcFlnTmpZNU1ZWFNHa0o2NDFpV1dnX2pmb1pPa3BNdi1GTGtfOU9kTTQ1RTE0cHlFa3luWTFOMS1pckx3azRn?oc=5",
+          "source": "LINE TODAY",
+          "published_hkt": "06/24 18:44",
+          "related": []
+        },
+        {
+          "title": "TWA00 加權指數- 台北國際食品展登場，大成與各縣市展創新實力- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KaVFVQUIwRllXN3ZGallnVFcxT1hTX3RpMUNsLThuVHNWejQ1RzdWSzlsNnVHSFk1RVdlN280QTRTLVh5UHdxOXk3VGhfZ0x1TUZpSWZSel8?oc=5",
+          "source": "CMoney",
+          "published_hkt": "06/24 18:10",
+          "related": [
+            "^TWII"
+          ]
+        },
         {
           "title": "TWA00 加權指數- 借貸炒股潮！雙貸族逾42萬人，金管會緊盯- 股市爆料同學會",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zaUZGWm1tbHVhbEpROE0tdUdEd0FQV0lTS1g2aWp6RTd4MWpNaXdwdFVzZlJ6ZzhqZHBOV0lNMjZoX2FXT3VuNWxPYjROMDdKTnQ2bkpZS1Q?oc=5",
@@ -153,24 +168,6 @@
           "published_hkt": "06/24 18:05",
           "related": [
             "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數 - 有沒有可能晚上公布融資又增加😏 - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5cmo4X1ZFNVJTeUZjZlhiUEhteTVGODdUSzJaLTA1dTB6UklCWlh3NjZJazhJVUpVRDJxdUR5OFdFdmJHallGX0xfa01FMk5iUTBURWNDU1c?oc=5",
-          "source": "CMoney",
-          "published_hkt": "06/24 17:47",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "台積電與大盤島狀反轉出現、外資單日賣超1774億破紀錄，這次會融資大減肥嗎?",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9faUZfYzh1YW1nVUdLd3NaMWlDM1dhbHNZQTc1RFAzODhpbkJKd25wQXJCM0N3blg1U2wtWUpSYUh2aHd5YU9hVk1JVV9obEFwc2dzOTVTVGo?oc=5",
-          "source": "玩股網",
-          "published_hkt": "06/24 17:15",
-          "related": [
-            "TSM"
           ]
         }
       ]
@@ -199,20 +196,11 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-24 19:43 HKT",
+      "updated_at": "2026-06-24 23:34 HKT",
       "news": [
         {
           "title": "《日股》半導體/AI相關股疲弱 日經收跌0.88%",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaURZc1gwdlZsUXIzMXRoZmxnblVXRUgzdklYaXVQUXBxVGNqU3BFWl9FOUdNR2FiTjQ4a0pXaG1mM3ZFNTVkZFFNa29LRjd2QzhveVlzYVQ0eUdBRmpndEEtQ2dwS2VjamRIdWYycEZTd2RzWVJYVEZpd2M0dG1NXzFFRkJPSFowcDNCRF94T05ndw?oc=5",
-          "source": "台視全球資訊網",
-          "published_hkt": "06/24 18:20",
-          "related": [
-            "^N225"
-          ]
-        },
-        {
-          "title": "《日股》半導體/AI相關股疲弱 日經收跌0.88%",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeVZ2UGlEN3VhekNmX3ZlaExFMHAwWUpKdllpNHBrdzNNeHZIa3lYbFhQRTJ1TU04TGpzNms0aVR1MFQyUVpTeU1CcmJzWFpqRWhmWnloOUZoSGplcFJuY1MzcGM4bGR3bGZBNXJDRG5udWpNSzJMRFA1aC12ZndXYmpQZU9hcWpHbktNUzJIRFlxUkptbmNPdjlWOXE?oc=5",
           "source": "台視全球資訊網",
           "published_hkt": "06/24 18:20",
           "related": [
@@ -227,35 +215,44 @@
           "related": [
             "^N225"
           ]
+        },
+        {
+          "title": "今日日股牛熊榜 | 夏普上升15.14%，領升日經成分股，鎧俠成交額佔據榜首。",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdktlUDI5dkdEUGtET1g3TW56X1lMMVI0a2RPd0t2UFpmU1ZicHc1bWFQbTRvMFJkVm9NRjg1YnNJeWxmM0o2bkR4dGVvTThYdjZlZUFZd0hwU2F5amg5LVZkQ2wwUkpnbWpuM1Qxc2dtcGdHb2lpRFlWQWVZTXl1MnV6OFREdkxGNnhud3dSbXpTTjVUWXZ0bDNsUWpzQQ?oc=5",
+          "source": "富途牛牛",
+          "published_hkt": "06/24 15:27",
+          "related": [
+            "^N225"
+          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-06-24 19:43 HKT",
+    "updated_at": "2026-06-24 23:34 HKT",
     "news": [
       {
-        "title": "加密市場重磅資訊更新：穩定幣引發恐慌、多起大型盜幣攻擊、以太坊遭遇歷史性連跌、比特幣展現抗跌韌性",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA0eldVNVloX1c1d2tPalJiOTF4cHhtRUNBRWY5RXpVT050R0l6cnRtcUR3dm5oX21GWHREOTlaemVsd1FrWEVkZg?oc=5",
-        "source": "鉅亨號",
-        "published_hkt": "06/24 14:12",
+        "title": "加密市場深夜跳水！比特幣跌破 6.1 萬鎂、以太坊失守 $1650，全網爆倉 3.25 億美元「多頭遭血洗」",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTzdmTlF1SGRHblBfMzdOOWduSkZvM080dFhTVkxRMWRrdjZtdS14bUticEN4R1ZIRkh1VThnS2ZyamJyX3QzZ053VnZlYTZUeHdXOGZva1lmWXZGMXhsdUJzQUZPVll1VjZ2SUw2M0x0X3p0bUFNZElUZzd2NWVsNmdB?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "06/24 22:39",
         "related": [
           "BTC",
           "ETH"
         ]
       },
       {
-        "title": "為什麼索拉納（Solana）價格下跌？",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOV3pBNmdMamlRZUlncVBISy1saE8tU3Vpb2l3MXcwYlhQMHV1TG5QSG15TVFBRDhESTJaUk41azNzYXI1c2g0dVNmdnZjZUZDeExaZ2FNMkV1cXlEdDlfcUdvSHJFM3llSFE4ZUIxREgtVVFFOVB1YURPcmI5Zy1DaWowaEQzZXQ3eHJ3dGlHelNuZHJhTEk0Y21TOTNSLXEzWU9vTF9KNS1tTmcxeE9Rd1hnOHhvb2U0RGV2R0gzX0hBamNESVY5Mi1ZLXV5VEFfdEpDdElac3Z2RlVkRG5FeDBxVzU3NmJFeU9hS2FBUDhfUkNZSHRGbEJwd0ZBUDNoNFVZcC1YTdIBhwJBVV95cUxOV3pBNmdMamlRZUlncVBISy1saE8tU3Vpb2l3MXcwYlhQMHV1TG5QSG15TVFBRDhESTJaUk41azNzYXI1c2g0dVNmdnZjZUZDeExaZ2FNMkV1cXlEdDlfcUdvSHJFM3llSFE4ZUIxREgtVVFFOVB1YURPcmI5Zy1DaWowaEQzZXQ3eHJ3dGlHelNuZHJhTEk0Y21TOTNSLXEzWU9vTF9KNS1tTmcxeE9Rd1hnOHhvb2U0RGV2R0gzX0hBamNESVY5Mi1ZLXV5VEFfdEpDdElac3Z2RlVkRG5FeDBxVzU3NmJFeU9hS2FBUDhfUkNZSHRGbEJwd0ZBUDNoNFVZcC1YTQ?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "06/24 13:11",
+        "title": "Bitmine Immersion Technologies (BMNR) 宣佈其以太幣 (ETH) 持有量達 567 萬枚，加密資產及現金總持有額達 107 億美元",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY29WNV92ZG5ZZ003MmhiNHh6SGtkcWwtZlR6NzNUQUg0Z0k5Ym0zWHZ1MjRmX1VVVjdXQlZNQmhpb1lWY3p2eEFtZ3ZwaUt0S0l5NjBfaDJzbk01MHhYSzd4V2tsaTBZc05xOXFYNVBVcFp5MlR4Rk1CMXloeUxlWVpEX1RzYUlBNVZr?oc=5",
+        "source": "PChome Online 新聞",
+        "published_hkt": "06/24 21:19",
         "related": []
       },
       {
-        "title": "狗狗幣在零售支持減弱之際測試關鍵的成敗點",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPa3pXdjhjR3pXZ0xienFBUFdGME5kdi1iSmwtWERQdVMydl9CNVg1ajFpWXZtOTMySXpJOFg2S2p2cEZLMDdhQ3A0T21QWXo4TGp5NVM2VWEyQXp1RkdLYWNleEZDUEtoQUlCYVZmZ3lwbWtqTlZ3bHU0VVZvQ3FjQ213bDVLcThTWW1TYW5ybkNCYmF0aHZHdldDUVdrNnJxQ3hsaU44aU91ZEdtb2FIcnR4bXUxU195UndYa3RiNVJBWWo5eUliUUl5cmdfenBGUS1FS1JFcGt2Nkp4RnpLZDB5MUtRSWROM3Zlclotc1RRTE5YNUNraXJ5MNIB-wFBVV95cUxPa3pXdjhjR3pXZ0xienFBUFdGME5kdi1iSmwtWERQdVMydl9CNVg1ajFpWXZtOTMySXpJOFg2S2p2cEZLMDdhQ3A0T21QWXo4TGp5NVM2VWEyQXp1RkdLYWNleEZDUEtoQUlCYVZmZ3lwbWtqTlZ3bHU0VVZvQ3FjQ213bDVLcThTWW1TYW5ybkNCYmF0aHZHdldDUVdrNnJxQ3hsaU44aU91ZEdtb2FIcnR4bXUxU195UndYa3RiNVJBWWo5eUliUUl5cmdfenBGUS1FS1JFcGt2Nkp4RnpLZDB5MUtRSWROM3Zlclotc1RRTE5YNUNraXJ5MA?oc=5",
+        "title": "隨著宏觀風險加劇，XRP的1.00美元生命線支撐能否保持？",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeW9HTmItWW9ubV9lTXRqbV9pSERpYXA4SUZKdE95d2dsYlBaYm9DczdfVmxXM0VGOWExS0FiTkt5S1pTQV9QOUFVbXpNZnJyX0Q4M2NhcnNPMEQzaVpERHZNWGFsYS1oaHNOQVdCd3E5aV85dmM0dlBNVHhCSTVSSTNQU0pmb0c2SHl6Wkx6eFd4VnRRbUZzcjkydW1jMWh4ZG45a2RuTFFKLXI2SUpOZVRqRmYzdnkyZTRndC1xNnBZX3lESGhWNktGa1pCbm1ycVY5RmtaSXBNRnh2VkVPYzZHRTNFb3FRLTlacWVB0gHuAUFVX3lxTE95b0dOYi1Zb25tX2VNdGptX2lIRGlhcDhJRkp0T3l3Z2xiUFpib0NzN19WbFczRUY5YTFLQWJOS3lLWlNBX1A5QVVtek1mcnJfRDgzY2Fyc08wRDNpWkREdk1YYWxhLWhoc05BV0J3cTlpXzl2YzR2UE1UeEJJNVJJM1BTSmZvRzZIeXpaTHp4V3hWdFFtRnNyOTJ1bWMxaHhkbjlrZG5MUUotcjZJSk5lVGpGZjN2eTJlNGd0LXE2cFlfeURIaFY2S0ZrWkJubXJxVjlGa1pJcE1GeHZWRU9jNkdFM0VvcVEtOVpxZUE?oc=5",
         "source": "FXStreet",
-        "published_hkt": "06/24 13:03",
+        "published_hkt": "06/24 20:47",
         "related": []
       }
     ]

@@ -89,7 +89,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-25 19:11 HKT",
+      "updated_at": "2026-06-25 19:39 HKT",
       "news": [
         {
           "title": "【港股收市】恒指險守23000關本地地產藍籌獲追捧- 投資 - 香港文匯網",
@@ -101,19 +101,17 @@
           ]
         },
         {
-          "title": "恒指跌335點 中行挫半成 攜程、舜宇捱沽",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONzY3OG5LMktFS0lFbmFjZkc5MzVmMlUyVHFsYmVKX285VkRKcnYzVFQ2NVVpbUJadVZ3cHBfeHkyVkNEemlsbXdybDlNakF6cURUdDBuaWY1TEhWdDZNOHptQ1pBZ2V1bWVyOGdxZWNxRVdLaUtWc1RWd2xYelkzRmViUG5say1ucVRWdjB4WQ?oc=5",
-          "source": "on.cc東網",
-          "published_hkt": "06/25 17:50",
-          "related": [
-            "^HSI"
-          ]
+          "title": "港股大模型概念股日報（2026-06-25）",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZcW5fSEh6eDRJLWlkQXZaNGRoUFlmNkw3MlpxdFNUQWZaWVNhbC13OGMzaG1oMks5OFVSNUo5ZWY4MDFmT2ZtZ2ZoRGgxeTZoMUF0ajhHTzNHWmFpTC1DN0FlSl95QQ?oc=5",
+          "source": "FX168财经",
+          "published_hkt": "06/25 17:22",
+          "related": []
         },
         {
-          "title": "渣打降恒指12個月目標至25500點至26500點",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sOVFreXFXMmdsWGRuNDhZOXJrbHFMZmpmdnhXRnR5X2JCSjk2R2drWjFYMG96TVVHV0RXbEt6OEEtTTVXUm1ZbDBhbjl0OGdZdTIxMkNvX2hVa2JLTFE?oc=5",
-          "source": "信報網站",
-          "published_hkt": "06/25 17:35",
+          "title": "港股戰報｜恒指挫335點險守兩萬三關 中行涉逃稅股價跌半成",
+          "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPREw1b0NvaVRzekRDUWhNRTRWTUZUdDFScHdWV2xuRWV6b1liMmYyaWdRMkNjTElHa0NWX0hkUFM1VWZSWXo2S3RPc1dCRzR5VkxxNHdsazBTeGxZYzVWbi1xTTNRQUVxZUl5UEQwd3R3VUIwVnRXODUyb2dtdWozUzVSRlVRTjdIdzdSN0ZZTTA5RXBMTUdMeFp0bDFMOWVsMlBrRkxJOGFYVHBkU09sU1RJX296WnpWc1pmRGhXenMwRVptSTN4VHc2RFFJVjRJSE1ieDVzOWlwOEdfek1VLWM0WGs4ZXhNTF9Mb3hDU2I4TVd1ZHQwQ3JCdHlyck1ZdVdJTE53X2huSTR5aVRsbzlOUFFwbWRBeWlOWkRvRUszejVVb2tEYlk5UmFOZHRtc244MW9aQVU1dlpnVEY3Tlg2NU8xYWpYcVZzNHdPTGxHN0dDaFpUS3dsMjY4LXNQeFV6WlEzM2xiZ3VCTnYxb3dxM0E2bmNNT3BXM2t3?oc=5",
+          "source": "橙新聞",
+          "published_hkt": "06/25 17:20",
           "related": [
             "^HSI"
           ]
@@ -146,7 +144,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-25 19:11 HKT",
+      "updated_at": "2026-06-25 19:39 HKT",
       "news": [
         {
           "title": "台股25日強反彈站穩46500點以上 華邦電再爆大量上漲6%以上",
@@ -195,7 +193,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-25 19:11 HKT",
+      "updated_at": "2026-06-25 19:39 HKT",
       "news": [
         {
           "title": "《日股》日經大漲4.61% 創收盤新高",
@@ -226,32 +224,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-25 19:11 HKT",
+    "updated_at": "2026-06-25 19:39 HKT",
     "news": [
+      {
+        "title": "比特幣可能跌破60,000美元的三個原因",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYW54VTVSUE93eHlGNGhYTVJLSzJ5Z2xIa0JsNGpiV1IwdGcwWTBEeXF0eG9XRVNSQnpONUUtbzhjYXB3UlFDekRNZ2dfMVNNejJFYkJpMVVIX0VRUE1nZkpDcERZN1pGRXFRR1l4VVhwb19sV3Bra1F4cFpCQWdKRTVQMExjZmVqR1RUazdWNEh3eEgtcDNPSmFWY2lSdHlkV3U2RkJSSzBfRTVuU2VBbkM5bnJ3ODZ0UjZ4Z9IBvAFBVV95cUxPYW54VTVSUE93eHlGNGhYTVJLSzJ5Z2xIa0JsNGpiV1IwdGcwWTBEeXF0eG9XRVNSQnpONUUtbzhjYXB3UlFDekRNZ2dfMVNNejJFYkJpMVVIX0VRUE1nZkpDcERZN1pGRXFRR1l4VVhwb19sV3Bra1F4cFpCQWdKRTVQMExjZmVqR1RUazdWNEh3eEgtcDNPSmFWY2lSdHlkV3U2RkJSSzBfRTVuU2VBbkM5bnJ3ODZ0UjZ4Zw?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "06/25 18:12",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "RE 價格、RE 價格、即時圖表和市值",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oY3NpX2NWSjFfcHdqei1WZHNMVW9vQTk5MjVuamQxMDhiWFE1WkIxV3NqQVM4NjdoWThwa2NEdHNVUTFJcFMyenZaSTB0aWQzYy16eldB?oc=5",
+        "source": "Coinbase",
+        "published_hkt": "06/25 17:39",
+        "related": []
+      },
       {
         "title": "美國將推加密貨幣聯邦法規 七月送參院審議",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40bGZYd0o3MVp2Um5TOFJreDdqSDFqWTZwMHlKLXZUZy04NjdKejMtSWZxWlpBTlhmd0xFRm5iSXdIOE16Q3FaWHNfTQ?oc=5",
         "source": "樂聯網",
         "published_hkt": "06/25 17:01",
         "related": []
-      },
-      {
-        "title": "比特幣走勢符合「減半週期」規律！21Shares：年底有望重返 10 萬美元",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeW45bFRpYnRiTHVjV1ZWcnhSS3pJQjF4TnVXR0ZNWEp4VGZZQzNFai1peVlqME1hekZnWUxSVkt6RXhrbWhKbHRDV2tvZUVuRVl5b2JwYmxLeTFnemhyWEkzQ2pLYnBvYzFTcEYxTmNITXRLSXFpRHJnOEVqbkdqOERVeER5ZllueHB0Y09Dbm1BQ00?oc=5",
-        "source": "區塊客",
-        "published_hkt": "06/25 16:10",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "比特幣價格預測：BTC在美國PCE數據公布前接近關鍵決斷水平",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOU09yZjVaaHhuZ2phZDB4RkpzblFaaUJuY1lMVzlUcWl2RkJqMzZmbFg1OFdOSDEyR2VwaHJ4RlpXOWhTelRNcTVuTktaQTVJcExSOVFNRFpkbmlua3dOY01HbExmeG1HZEpRRWVKOFNPc1NMekhib1VoSzczRTdzUGw3R3NUZVhTU0QxT2gtMUQ0bk5OSEppbThuemU4MFNhcHZQT3FFT0FkU2R1bVlaWWpRSW8xS3RQWmVBeHU3Vk5XQWc1Y3hGd3R6UVkwZ3ZHN3RqY2tWOGxuNU5LUWhhdmNHS1dxalhXeHhTb2dNRlnSAfABQVVfeXFMTlNPcmY1Wmh4bmdqYWQweEZKc25RWmlCbmNZTFc5VHFpdkZCajM2ZmxYNThXTkgxMkdlcGhyeEZaVzloU3pUTXE1bk5LWkE1SXBMUjlRTURaZG5pbmt3TmNNR2xMZnhtR2RKUUVlSjhTT3NTTHpIYm9VaEs3M0U3c1BsN0dzVGVYU1NEMU9oLTFENG5OTkhKaW04bnplODBTYXB2UE9xRU9BZFNkdW1ZWllqUUlvMUt0UFplQXh1N1ZOV0FnNWN4Rnd0elFZMGd2Rzd0amNrVjhsbjVOS1FoYXZjR0tXcWpYV3h4U29nTUZZ?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "06/25 15:11",
-        "related": [
-          "BTC"
-        ]
       }
     ]
   }

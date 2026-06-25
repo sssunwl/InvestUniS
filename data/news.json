@@ -89,29 +89,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-25 18:00 HKT",
+      "updated_at": "2026-06-25 19:11 HKT",
       "news": [
         {
           "title": "【港股收市】恒指險守23000關本地地產藍籌獲追捧- 投資 - 香港文匯網",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfbmczTTNIclpNRjc3R0kyeUUwWGtyeE9RbXpta2xISVBVUVE4WVJNY0lvRDFvaE5VS2E4Y0p2c1RadFZTNTl5N044MGViZlVodjltRGszOTZ1Z0xXcUxkczZ2Z0d1UkNKdW9rbDNOQjFmQ2VmSU84?oc=5",
           "source": "香港文匯網",
-          "published_hkt": "06/25 17:39",
+          "published_hkt": "06/25 18:41",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "港股大模型概念股日報（2026-06-25）",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZcW5fSEh6eDRJLWlkQXZaNGRoUFlmNkw3MlpxdFNUQWZaWVNhbC13OGMzaG1oMks5OFVSNUo5ZWY4MDFmT2ZtZ2ZoRGgxeTZoMUF0ajhHTzNHWmFpTC1DN0FlSl95QQ?oc=5",
-          "source": "FX168财经",
-          "published_hkt": "06/25 17:22",
-          "related": []
+          "title": "恒指跌335點 中行挫半成 攜程、舜宇捱沽",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONzY3OG5LMktFS0lFbmFjZkc5MzVmMlUyVHFsYmVKX285VkRKcnYzVFQ2NVVpbUJadVZ3cHBfeHkyVkNEemlsbXdybDlNakF6cURUdDBuaWY1TEhWdDZNOHptQ1pBZ2V1bWVyOGdxZWNxRVdLaUtWc1RWd2xYelkzRmViUG5say1ucVRWdjB4WQ?oc=5",
+          "source": "on.cc東網",
+          "published_hkt": "06/25 17:50",
+          "related": [
+            "^HSI"
+          ]
         },
         {
-          "title": "港股戰報｜恒指挫335點險守兩萬三關 中行涉逃稅股價跌半成",
-          "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPREw1b0NvaVRzekRDUWhNRTRWTUZUdDFScHdWV2xuRWV6b1liMmYyaWdRMkNjTElHa0NWX0hkUFM1VWZSWXo2S3RPc1dCRzR5VkxxNHdsazBTeGxZYzVWbi1xTTNRQUVxZUl5UEQwd3R3VUIwVnRXODUyb2dtdWozUzVSRlVRTjdIdzdSN0ZZTTA5RXBMTUdMeFp0bDFMOWVsMlBrRkxJOGFYVHBkU09sU1RJX296WnpWc1pmRGhXenMwRVptSTN4VHc2RFFJVjRJSE1ieDVzOWlwOEdfek1VLWM0WGs4ZXhNTF9Mb3hDU2I4TVd1ZHQwQ3JCdHlyck1ZdVdJTE53X2huSTR5aVRsbzlOUFFwbWRBeWlOWkRvRUszejVVb2tEYlk5UmFOZHRtc244MW9aQVU1dlpnVEY3Tlg2NU8xYWpYcVZzNHdPTGxHN0dDaFpUS3dsMjY4LXNQeFV6WlEzM2xiZ3VCTnYxb3dxM0E2bmNNT3BXM2t3?oc=5",
-          "source": "橙新聞",
-          "published_hkt": "06/25 17:20",
+          "title": "渣打降恒指12個月目標至25500點至26500點",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sOVFreXFXMmdsWGRuNDhZOXJrbHFMZmpmdnhXRnR5X2JCSjk2R2drWjFYMG96TVVHV0RXbEt6OEEtTTVXUm1ZbDBhbjl0OGdZdTIxMkNvX2hVa2JLTFE?oc=5",
+          "source": "信報網站",
+          "published_hkt": "06/25 17:35",
           "related": [
             "^HSI"
           ]
@@ -144,13 +146,20 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-25 18:00 HKT",
+      "updated_at": "2026-06-25 19:11 HKT",
       "news": [
         {
-          "title": "《台股盤後》收漲211點、續守10日線，日K連三黑| MoneyDJ理財網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tQzBQcnA0ZHFHa3ZoUG1VdXU2YVJzcnVOSHRITDgxZ09xY2s5Q3RwX3B1U2owb0NSbXlTdFZFUjREWmpQNTVIZktfSFhpTDF3aFNDYUFR?oc=5",
-          "source": "LINE TODAY",
-          "published_hkt": "06/25 17:37",
+          "title": "台股25日強反彈站穩46500點以上 華邦電再爆大量上漲6%以上",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FRTk4bVNzR0QwMXM1aTNJNFBJcmNTX3FrNGxrc0c0Z2VPODlmZ3FCU1VVODRZUDRwQUhSLWtZQXRqdmFJT19mVFQ0WnE1WXlUb0E?oc=5",
+          "source": "蕃新聞",
+          "published_hkt": "06/25 18:44",
+          "related": []
+        },
+        {
+          "title": "00403A、00981A一起跑贏大盤！最抗震3檔台股主動ETF」出爐",
+          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQUjMtUk5UbERNMk5xbm1KbEQ0WHU4ekF6OFJGTGRaaXJKRk9IZ1JvM09Ja1J2X3lUTDRFRFBtSmpNb2J5RVI3THdLSmtWc3ZqZ2tvU3hUZDVwZFpvZ3RvMUNqYkg5cVE4YS1pcThOenlxNVc4VlJLMW83Q19zaWhhMnp6MHlraEV4Rl84dml3cFBoYVhwR2NZVXl0OUgxNjRVNFM5NUFaUFlLTU1XN1daSTlLYVN1QXBJaDRVR2pZNWtDMnVhLVFiRkVIMkhVZnhsSFRjbnpzTDA2NEF4WVBCWW9nV3BQOXY1bWtSMk1LM21SMWoyV0NLUGZxTWhtaHItWWpfd2pUam1VaXl4bVVGdTR0TV9pTDJ4S29KZkk2Ynk0VGJvZllBZzM2Vjl1MVFGU29zOE5nX0Q5bTNrTVI0TkpFQmJzQWJL?oc=5",
+          "source": "Yahoo股市",
+          "published_hkt": "06/25 16:49",
           "related": []
         },
         {
@@ -158,13 +167,6 @@
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwQ2RmT3BremRZTzJiN1VtZktrM2lSNGZjYW1fZXlFMEJBQjVYdG1WWi1TM1RHR280NGFhQXZPMFFBcFBZYlhMZlNiUDhwSWFTcDZZcnFuZXh4Z2E2Vy1zanV1bmdISWtiV0lGOGZyU3VsR1E?oc=5",
           "source": "民報",
           "published_hkt": "06/25 16:29",
-          "related": []
-        },
-        {
-          "title": "台股升逾200點收市",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5dlhQVWduR0VBdi03bHlrbktqeWFySlQwRW5IaFpLWU9xMHFBNUV1Wmp4SHRFUjl3OU54ckhSeWlSNl9lV0x0VlZSN1RWSEVLcjJJbnFaeXAwdF9OSUJhR0FGZEx6OXloalJOVXMxOA?oc=5",
-          "source": "香港電台新聞網",
-          "published_hkt": "06/25 14:09",
           "related": []
         }
       ]
@@ -193,8 +195,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-25 18:00 HKT",
+      "updated_at": "2026-06-25 19:11 HKT",
       "news": [
+        {
+          "title": "《日股》日經大漲4.61% 創收盤新高",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaXZ4ZjBuUDh3bnNUb1l6ZnZDVjlIYnN2eUtVZWpSZE5Ga1Z3bjFyaUV0Vl9lNnJNU2xzYjFCbHRkaUlFUHlRdkIwbW1RcHRVbkg2UUZXUjZXU2FsOXp4SWo4SzZyblpCYXdjRXhqOVFUbk5iNlE5MUxVanBlazlRS1JvanM3WkRtN3g5cDY0WDBnQQ?oc=5",
+          "source": "台視全球資訊網",
+          "published_hkt": "06/25 18:18",
+          "related": [
+            "^N225"
+          ]
+        },
         {
           "title": "亞股大逃殺！日股摔2200點、韓股熔斷 | NOWNEWS今日新聞",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiY0JvT2xLWEtiblZxTER3Ri0xZThJMDU2cVFVVlJhSnd0Qm9SQm53VGM1Wm1GQjhyd18wRkNNWjEwVFlyUnhCcjhicG44N25Ua0JNa2ln?oc=5",
@@ -203,17 +214,10 @@
           "related": []
         },
         {
-          "title": "鉅亨投資雷達》AI浪潮接棒弱日圓紅利，日股基金迎來基本面行情",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDVF9lY09Sb2d4cEY4TXlyYVNYTjZ4dTdHZi01aHUwNnBQdUlkRVhxWlRUNEt2OEgzOVhyRHJ2b242WlJoTVhaUDhZMzU2MFU?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "06/25 15:56",
-          "related": []
-        },
-        {
-          "title": "今日日股牛熊榜 | 愛德萬測試上升15.06%，領升日經成分股，鎧俠成交額佔據榜首。",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLXZkblpxUUFOTHltT2xTV29yb2dyX2l6RWRpMldHcE4tRFg3Z2h0M004a1dFdTFSSko5cUJSSlFfUWR5THpUZy14T2dra0tITU1vYVZWanp6WGdZYlJORzRFdTBnTjBDZTJDZWhBQWNjUFVXcTUtZEh5VnJ0MG1xdGJfaW1IczRQSWN6RHc1VTdzVVlfWWt1bGVyOUROUXZJclpF?oc=5",
-          "source": "富途牛牛",
-          "published_hkt": "06/25 15:31",
+          "title": "《日股》日經大漲4.61% 創收盤新高- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LYW9la09RX3RfWnhmVzlHaTl2UVhjeUs2MmhRNUVXUXVuNm5ZaXVwLWE0WnBpZzZCblk4Zm1rMll2djZFUHhSOHdTdkJaU1R4Q190TnRRRXlvQjNnLUM0?oc=5",
+          "source": "工商時報",
+          "published_hkt": "06/25 16:29",
           "related": [
             "^N225"
           ]
@@ -222,8 +226,15 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-25 18:00 HKT",
+    "updated_at": "2026-06-25 19:11 HKT",
     "news": [
+      {
+        "title": "美國將推加密貨幣聯邦法規 七月送參院審議",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40bGZYd0o3MVp2Um5TOFJreDdqSDFqWTZwMHlKLXZUZy04NjdKejMtSWZxWlpBTlhmd0xFRm5iSXdIOE16Q3FaWHNfTQ?oc=5",
+        "source": "樂聯網",
+        "published_hkt": "06/25 17:01",
+        "related": []
+      },
       {
         "title": "比特幣走勢符合「減半週期」規律！21Shares：年底有望重返 10 萬美元",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeW45bFRpYnRiTHVjV1ZWcnhSS3pJQjF4TnVXR0ZNWEp4VGZZQzNFai1peVlqME1hekZnWUxSVkt6RXhrbWhKbHRDV2tvZUVuRVl5b2JwYmxLeTFnemhyWEkzQ2pLYnBvYzFTcEYxTmNITXRLSXFpRHJnOEVqbkdqOERVeER5ZllueHB0Y09Dbm1BQ00?oc=5",
@@ -234,21 +245,13 @@
         ]
       },
       {
-        "title": "比特幣回升至六萬美元以上，以太坊和Solana收復部分失地",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GTEFjdHpHU09UVFVMWThudHctRUttNkFOSnc2dFNQdUJBRGQ5b3pvYVpoV3RDeTdnNmlwVk5hN2lCTU5adXhSOU5Od1JlOHRXaV93VFU3V283UFFuTTJxTjRYSTdMSU9hckdv0gFrQVVfeXFMTkZMQWN0ekdTT1RUVUxZOG50dy1FS202QU5KdzZ0U1B1QkFEZDlvem9hWmhXdEN5N2c2aXBWTmE3aUJNTlp1eFI5Tk53UmU4dFdpX3dUVTdXbzdQUW5NMnFONFhJN0xJT2FyR28?oc=5",
-        "source": "Bitget",
-        "published_hkt": "06/25 13:57",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
-      },
-      {
-        "title": "Pi Network在Pi2Day之前是否可能出現進一步走弱？",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcmhNYWpKbzl6LWV4ai16a2hieDR3YU1RajYyLVFWcnFDdVc1ZnFCQjhsOVR6aGpzazhKWm81dkY4ZEUzb2xNQXpHbjB6SFBsN1VUT01FcEVyMlQ0RW1NS0VnaThEbXREMEF0V0FxSnItNFRubWs4YVZvb2cwWjNBVm1KVUM3UE5UU1dFXzVwNkpkT2Q5M0t4ZmlVNEZ0QnVyS1lrc2NadFRpcGl6MnZEUW5XSU45a2ktcE5Oc3lxeVpiOHRuWm1IT2c3QV90RUlHVHfSAdIBQVVfeXFMTXJoTWFqSm85ei1leGotemtoYng0d2FNUWo2Mi1RVnJxQ3VXNWZxQkI4bDlUemhqc2s4SlpvNXZGOGRFM29sTUF6R24wekhQbDdVVE9NRXBFcjJUNEVtTUtFZ2k4RG10RDBBdFdBcUpyLTRUbm1rOGFWb29nMFozQVZtSlVDN1BOVFNXRV81cDZKZE9kOTNLeGZpVTRGdEJ1cktZa3NjWnRUaXBpejJ2RFFuV0lOOWtpLXBOTnN5cXlaYjh0blptSE9nN0FfdEVJR1R3?oc=5",
+        "title": "比特幣價格預測：BTC在美國PCE數據公布前接近關鍵決斷水平",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOU09yZjVaaHhuZ2phZDB4RkpzblFaaUJuY1lMVzlUcWl2RkJqMzZmbFg1OFdOSDEyR2VwaHJ4RlpXOWhTelRNcTVuTktaQTVJcExSOVFNRFpkbmlua3dOY01HbExmeG1HZEpRRWVKOFNPc1NMekhib1VoSzczRTdzUGw3R3NUZVhTU0QxT2gtMUQ0bk5OSEppbThuemU4MFNhcHZQT3FFT0FkU2R1bVlaWWpRSW8xS3RQWmVBeHU3Vk5XQWc1Y3hGd3R6UVkwZ3ZHN3RqY2tWOGxuNU5LUWhhdmNHS1dxalhXeHhTb2dNRlnSAfABQVVfeXFMTlNPcmY1Wmh4bmdqYWQweEZKc25RWmlCbmNZTFc5VHFpdkZCajM2ZmxYNThXTkgxMkdlcGhyeEZaVzloU3pUTXE1bk5LWkE1SXBMUjlRTURaZG5pbmt3TmNNR2xMZnhtR2RKUUVlSjhTT3NTTHpIYm9VaEs3M0U3c1BsN0dzVGVYU1NEMU9oLTFENG5OTkhKaW04bnplODBTYXB2UE9xRU9BZFNkdW1ZWllqUUlvMUt0UFplQXh1N1ZOV0FnNWN4Rnd0elFZMGd2Rzd0amNrVjhsbjVOS1FoYXZjR0tXcWpYV3h4U29nTUZZ?oc=5",
         "source": "FXStreet",
-        "published_hkt": "06/25 13:53",
-        "related": []
+        "published_hkt": "06/25 15:11",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

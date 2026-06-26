@@ -91,31 +91,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-26 19:43 HKT",
+      "updated_at": "2026-06-26 23:26 HKT",
       "news": [
+        {
+          "title": "港股九連跌 恒指失守23000點大關",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nM3M2YTRneXJTS1hyOXp3U0cweFR2bXlCQWp5TWVBLTBMSE1NemRkOS1TaHV4V1Y1eldvcS1jUlpzQ1hZU2JzQS1CX0VNbkk5NXV0VS1ZX2NrX0dQa014RNIBZkFVX3lxTE9qcC13QUNyZTVXZ0UzTDg3RXFUVGk5OF8tX0RpTVlBMkprTXp0aHozOXJHU3R3WlI1a0hPQU9SM1N2UGRaZFBybmVNMnVRMUVfeFJsTTRSbkItRGdkdEhqZy1aTmgzZw?oc=5",
+          "source": "大纪元",
+          "published_hkt": "06/26 20:55",
+          "related": [
+            "^HSI"
+          ]
+        },
+        {
+          "title": "港股收市跌400點失守兩萬三關口 再創一年新低",
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOQWNBa1oxdHNIelVBZ2hicEVOWTZTLVpWaWtEbEN0OE9mSVpLSFJON1p4ZW5JTmhLOUQ2V1hRNkNTRmJ3bDhPWUgydzFKVU5oaC1HUUNIaFRmUWd5UDhvOTNkdERjZXRiZkdGbG1hUjJwcnJEdGpxLWpLLTBKVk5HYlFxZUlBb1dkZE9pUjB0MVJYZGhFWmM1RXlyNWtJQUMzRmIwMEowTzJpakNXYXZ1Zng2QVNYc3VfaVY4aHJjbmlRQ19sSXdSN21sd2YtaXYweG5HR2ZjSWhXYzBlT05OZ01aUmNtWDBoY19SYVpDNk1YZjdWNFVoRC1HbHU5RV9hcEZ0ckVVWDQzUF9peUtnWnBWeHozUEtKMWtpeWMwSTAwQlpmalhqb2ozdk1hM2c?oc=5",
+          "source": "TVB",
+          "published_hkt": "06/26 19:15",
+          "related": []
+        },
         {
           "title": "恒指走勢丨再瀉405點失兩萬三 全周累跌1252點",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrbGVtRHFzY0w5M2Vaa2NKamFLVnlER3gyNld2eEpkT3o2b1hSalREcFhTT0VuZUVaZm0tUWNSSEpUZnpoalQ1aHdIWmJVZHUtX0FFVHBqdHFGazFXQzRNUkxUNTNvYW43akZmaUMxRQ?oc=5",
           "source": "信報網站",
           "published_hkt": "06/26 18:22",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "恒指再插405點收報22671續創逾年低，本周累挫半成連跌第七周 | 專題透視 - 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSG9PS2FSaFZpMDlRU1RFRnIxemd0TVgyZ1E5Z0x5bzhsaG8zUnd3elJ1ZURBa1J5TTRKMXZRQWI0c2RYTUxYNE5VOE45b1RRSXlxcnJ1TWhsSnBlY2lCbW5VQjdMaWJ0MEV2bVR5Z2FMM1VNd3JhcWNQUG1mUFhJa2lXTndITGl1YkNCTllJT2ExNTh0ZDllM0s0NUlIdU5pWDRvUWs0T3Y?oc=5",
-          "source": "etnet 經濟通",
-          "published_hkt": "06/26 17:52",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "HSI港股九連陰見底未？",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY1RRWVp6UE1jRFlwLXJVcGhmNENmOGFaX3VDQVBNbC1aaVV5WW5OWWhPZkgzeHpVSnFxcXppSWRnb2UzaHVOd1BTUVQ2R19vRWhmSUxsWjVkODRDcE5ORTVMUXUzdVVFNkplQ2hQUWN6SDBoRERtUE1KVXA5aHR3VGNid1drWDg5X3R3OGxCWXUzQkg5RVZtYkRJSjFFT19tUlRGVklpaWJzSExaY2lSUGtKRmtrX1E4RHVVNENPd19HUQ?oc=5",
-          "source": "香港經濟日報HKET",
-          "published_hkt": "06/26 17:40",
           "related": [
             "^HSI"
           ]
@@ -148,27 +146,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-26 19:43 HKT",
+      "updated_at": "2026-06-26 23:26 HKT",
       "news": [
         {
-          "title": "台股為什麼大跌？阮慕驊曝關鍵原因：柿子撿軟的吃",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OcmtHVTA0TnFPNDR1aGtCSHM1UXhXMzlBcTdsUFpIbGt3MGtDR29mUEptS01yNTByaHF4STRKTklCQWwxaGNHN2ZPMA?oc=5",
-          "source": "三立新聞網SETN.com",
-          "published_hkt": "06/26 19:07",
-          "related": []
-        },
-        {
-          "title": "外資狂倒1431億！獨寵「這檔記憶體」掃5.7萬張",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mSmYzMVJLZjZiVlEwTFI5UC1HbGhSWHBfZUltLUFtOHdfU0JNX3pLay1IYTRjQWU1UEpsY1p1UFN2VUVxZUh4eHJpVQ?oc=5",
-          "source": "三立新聞網SETN.com",
-          "published_hkt": "06/26 17:45",
-          "related": []
-        },
-        {
-          "title": "TWA00 加權指數- 早安今天大盤漲定了- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5M0xtTUQ3TnhsV0JJV2VDVDA3U2YwU3ljWktGRVRpVlhIMzlEQ3BZU0FUb1ZvRFRKVE93OXNTX0pyb1hpakQtLWFlVWFGSm90b3ZyTnRGM24?oc=5",
+          "title": "TWA00 加權指數- 6/23 (二）盤後重點分享- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xT1RzeVFrWkE4Sm9wVkg0dklsSGE5M2lYazRBakJlZ3hYYm91WGNoTjNrSWJNOUxobnhWMlJTQm5Zd3JVOVREWmNEUGVhd2UxMzhqTV9hZC0?oc=5",
           "source": "CMoney",
-          "published_hkt": "06/26 17:42",
+          "published_hkt": "06/26 20:58",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
+          "title": "TWA00 加權指數- 市場最怕的不是跌，是你太急！ - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MX21zYlpnOTkydGY2a0lpRF96R0Z2UC1CeE81c212VnRNdy1URVV2NkZfYmF1Y2c2eElKbk16NUVDLUd6ZG9waVFCTWZlSHdsVncwUlJXWDA?oc=5",
+          "source": "CMoney",
+          "published_hkt": "06/26 20:51",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
+          "title": "TWA00 加權指數 - 怎麼這麼會拉🥵 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zWGRIUVo0al9sRTJPUTBKYzdYUmtobXpoWkRfcGhNdkFiaUFlWmhIZFduT3BkYzlMamhlWVFXeXh3OWZaaVRDU2FYSk56b0hVbS1Rb0ZkN3M?oc=5",
+          "source": "CMoney",
+          "published_hkt": "06/26 20:21",
           "related": [
             "^TWII"
           ]
@@ -199,8 +201,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-26 19:43 HKT",
+      "updated_at": "2026-06-26 23:26 HKT",
       "news": [
+        {
+          "title": "軟銀領跌科技股 日經指數慘跌逾4%",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOZ2ttRUlUcjhDdnE3TGNVQTN0cmVlS1BvdHBJa3AwOTBDTklYZG1fb1Q0cmZIOUxlcGctaXBtRkpsSi1PZU9SWVZyMnVkMnZSSURSOU9Yc05qUWstQkVpaWVma2pDTGk2b3FUTkVCQ09RNGR0TzF0Um12MkZMSzYta2FxMFQ0dXkxekROdnd6VlRMY2FpYkJLaEwxeXVlVk9zTk1CSXFVNlhwM0pxamJwUTBLWnNvZTczdEZyTU82Y1dRUmVYeU50djB2bkwyR2M0TFRhWHpWOVRlS0xlNXZqbm5uSTJTX19raFNUamYxVW9GbWlkWGRjc2V0SXFnSmU2SENsNU9ZZWhMeXBDOUhr?oc=5",
+          "source": "MSN",
+          "published_hkt": "06/26 18:00",
+          "related": [
+            "^N225"
+          ]
+        },
         {
           "title": "《日股》科技股獲利了結拖累，日經重挫逾4%",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVXhZTEV0VUZUdk5WSUwwM3FMX2dGQ2I1b3J3V0QyNTNYNGhmeHNiYThGWnhPWTNjdGp0U2pESldFdkRuUE1Bd2pRUDJSejVlVjRSNmI2Yngtc3VHRXYzVmVQOUVEeHI1eXNLZjA3YU9FUzVwS0RoQVRYeWRiSHBGWGp0LXVPYlh3SzR6N1BsNTd3QQ?oc=5",
@@ -216,39 +227,37 @@
           "source": "太報 TaiSounds",
           "published_hkt": "06/26 17:22",
           "related": []
-        },
-        {
-          "title": "傳 OpenAI 擬延後 IPO，AI 概念股賣壓湧現鎧俠挫 12%",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb0xvTGxhNTMtS2VETGZTOEF1bnRVSGVkcTU5ZVBpUmN2azkwVHNyMG5QWmxfUkJBUTEtSkRtRUstbk1vRTVEZDJGZUowMmI5d05JZXktN3ZhOVFVLUJMeV9ERy1lNVhSeDBuV1pMdHZsNTlyeUpBdGJYLXhFQTAwZFF6Wmlwc1hkaEJnVTdwSzg1VVBDc2dXb1AyRWlKLWsz?oc=5",
-          "source": "TechNews 科技新報",
-          "published_hkt": "06/26 16:46",
-          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-06-26 19:43 HKT",
+    "updated_at": "2026-06-26 23:26 HKT",
     "news": [
       {
-        "title": "加密貨幣每日市場報告 – 6月26日",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaEQyak5leU14M0d6LXlvdDVMdHZCUEdYcDR3aENJcFlRN3c1Tmp4NnpQd3FfRFZPQXp6S0JaQ01GeUlkMEZGS05MUFBCTkJZRVdLdUUzckM5ZW5aanZLMzdzOWpsZHFycFFrc01POEdqOG9qQ2JWanJrVnhwZWNZMDg0MUVsYXVucUtmVg?oc=5",
-        "source": "KuCoin",
-        "published_hkt": "06/26 18:08",
-        "related": []
+        "title": "加密貨幣今日：比特幣在60,000美元，以太坊在1,500美元，瑞波幣在1美元面臨成敗關鍵考驗",
+        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQMEZoZjROMFk4Sk1EbS16R2pFOWJDRWtEbng4WURUYmRET1VMaExSM011Ui1qZWg1TUttX09DbS1DYV9xVzZGcXpnNzdwaFUzVHJTaVI0YWVZUnJoN3FBOWZFOUc5RXNQVloyZmZZSl9rVFEyc3F6NEROLWtBck9JdjEtZlNrREdVQUo2UFpFRGZxR2NFSzRBQl9lQVN0VU1qeFY1TjV1cjFCREZ1cnk1YUQyNDBQMktQT1VKUnpCWnVORkpkb3BiLUFpZl90dnNDZ1RWd2FmdzE0eE9GUUVMWjE0dGJOcDlkUnZzYnk5YWtVOUFZbFN3T1hUTjMyaWZyUlJTQ1lXNWgzSzUtd0FZcWphM0pSVUhROTlxQk9rZXNQZlRMYmdnc0FB0gGqAkFVX3lxTFAwRmhmNE4wWThKTURtLXpHakU5YkNFa0RueDhZRFRiZERPVUxoTFIzTXVSLWplaDVNS21fT0NtLUNhX3FXNkZxemc3N3BoVTNUclNpUjRhZVlScmg3cUE5ZkU5RzlFc1BWWjJmZllKX2tUUTJzcXo0RE4ta0FyT0l2MS1mU2tER1VBSjZQWkVEZnFHY0VLNEFCX2VBU3RVTWp4VjVONXVyMUJERnVyeTVhRDI0MFAyS1BPVUpSekJadU5GSmRvcGItQWlmX3R2c0NnVFZ3YWZ3MTR4T0ZRRUxaMTR0Yk5wOWRSdnNieTlha1U5QVlsU3dPWFROMzJpZnJSUlNDWVc1aDNLNS13QVlxamEzSlJVSFE5OXFCT2tlc1BmVExiZ2dzQUE?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "06/26 20:34",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
       },
       {
-        "title": "Pi Network：市場崩盤中的小幅回升激發短期希望",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdVJWNVFkc2FfcllBM2FDbDFjN01SNm9sUHB1dnJUWkVraFNmZG9IcllzOHpTZzVEMFFEaFNpVU9pb0pHZzhtYjhSQmVMekx3ei1TSGszQnBSV1o3VTIyOFl0cm1RbkpZanZsNmFGYVRmSnV1STFjY3lsWHcwRWM2ZTNMRml1ZXFNZl93eUVxVnpIbHpSbE51eHFWTmRLUG02ZFlZUEdCR0lqcmxyRnh3U3lRNVNocEs4WWxwbUMtZUR0ZVk5dHEwV1J5ZnNrNkpxcE40MlJ2aHhZWVlaMGFQaU96d2taY19N0gHoAUFVX3lxTE11UlY1UWRzYV9yWUEzYUNsMWM3TVI2b2xQcHV2clRaRWtoU2Zkb0hyWXM4elNnNUQwUURoU2lVT2lvSkdnOG1iOFJCZUx6THd6LVNIazNCcFJXWjdVMjI4WXRybVFuSllqdmw2YUZhVGZKdXVJMWNjeWxYdzBFYzZlM0xGaXVlcU1mX3d5RXFWekhselJsTnV4cVZOZEtQbTZkWVlQR0JHSWpybHJGeHdTeVE1U2hwSzhZbHBtQy1lRHRlWTl0cTBXUnlmc2s2SnFwTjQyUnZoeFlZWVowYVBpT3p3a1pjX00?oc=5",
+        "title": "加密貨幣價格預測：比特幣、瑞波幣與Pi網絡——歐洲市場綜述 6月26日",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZGhicnRFNmN4SDdxQXJLX3E4eE51X2tsZFllOVlPOXFrZWJWeWJRM1hzSVJVdnZiVUQ2SWxtNFZNS2dNMEZaOFJIeG8tS2c2VjdxbzlwcGhZT1lBUG5UM0wxNC1IXzlkVWVsTDNXdGxoeFFZUGp0bWszcWVtdjZJNnR5OENNcDZaMm16a2lyWHpZMnB5NjUwbldXcFAteHR3NW5nMmtYX3MydFk3QmxkcWdKN1NXOXliSG5Nd0xuVDNyT2tOMnJ3OUVoSXZGQllOMWdsc0xQOHdLUnJ3d2lxblpCVzVMZ3cwUENWM3lKdDHSAfABQVVfeXFMUGRoYnJ0RTZjeEg3cUFyS19xOHhOdV9rbGRZZTlZTzlxa2ViVnliUTNYc0lSVXZ2YlVENklsbTRWTUtnTTBGWjhSSHhvLUtnNlY3cW85cHBoWU9ZQVBuVDNMMTQtSF85ZFVlbEwzV3RsaHhRWVBqdG1rM3FlbXY2STZ0eThDTXA2WjJtemtpclh6WTJweTY1MG5XV3BQLXh0dzVuZzJrWF9zMnRZN0JsZHFnSjdTVzl5YkhuTXdMblQzck9rTjJydzlFaEl2RkJZTjFnbHNMUDh3S1Jyd3dpcW5aQlc1TGd3MFBDVjN5SnQx?oc=5",
         "source": "FXStreet",
-        "published_hkt": "06/26 13:42",
-        "related": []
+        "published_hkt": "06/26 20:19",
+        "related": [
+          "BTC"
+        ]
       },
       {
-        "title": "前3名價格預測：比特幣、以太坊、瑞波幣 – BTC跌至新年度低點，ETH下跌，XRP預示更多虧損",
-        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQNTUwUXRUMWkwdW1yOHMzeTYta05JRmpwdWYyTXZBb19CSkp5T2x2ZGxSZkluX3VOWG5GX1pseHlVVzFBQXJuVVo2YmUtbWNNTzA4VUtNUnh6X3ExRlJBNjg2VGZIelNCWmlscUtCUEZMUWpPRlM3T1JfME9mbGFMVmFhRjBLdWl0QlB0eWpuRE1vRnhrR2x3VWcyUGRTUmRUcktzalNUVTltdFBnZGxxcDc0X0J0Q0REQXljSGZOdkVnYVJsOE5YbV9uMXM0OFk3MlVjOHFtaWpIaEhNa2dJbkJkS2NyRVdGOWpIYWFyTUF6MG9ZbzNvUFRaNjdNVFU1V3h6SVhCQ1M4VmdtR2tINnZkSDnSAZQCQVVfeXFMUDU1MFF0VDFpMHVtcjhzM3k2LWtOSUZqcHVmMk12QW9fQkpKeU9sdmRsUmZJbl91TlhuRl9abHh5VVcxQUFyblVaNmJlLW1jTU8wOFVLTVJ4el9xMUZSQTY4NlRmSHpTQlppbHFLQlBGTFFqT0ZTN09SXzBPZmxhTFZhYUYwS3VpdEJQdHlqbkRNb0Z4a0dsd1VnMlBkU1JkVHJLc2pTVFU5bXRQZ2RscXA3NF9CdENEREF5Y0hmTnZFZ2FSbDhOWG1fbjFzNDhZNzJVYzhxbWlqSGhITWtnSW5CZEtjckVXRjlqSGFhck1BejBvWW8zb1BUWjY3TVRVNVd4eklYQkNTOFZnbUdrSDZ2ZEg5?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "06/26 12:17",
+        "title": "比特幣反彈至5.977萬美元，以太坊下跌且價值10億美元的期貨倉位被清算",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBITDRUOHZOUW5kV013ckIwMjVRRFRVTDNUZ0JzSER5ZFlqS2VONjlPMW5QQ3ROSGs2OUNGYkpiOF9EYWdHYW1OX0hRSi1qaENTQlBabnJVYmNJc3dYX0JGLVg3NjFnWTY1ZUdr0gFrQVVfeXFMUEhMNFQ4dk5RbmRXTXdyQjAyNVFEVFVMM1RnQnNIRHlkWWpLZU42OU8xblBDdE5IazY5Q0ZiSmI4X0RhZ0dhbU5fSFFKLWpoQ1NCUFpuclViY0lzd1hfQkYtWDc2MWdZNjVlR2s?oc=5",
+        "source": "Bitget",
+        "published_hkt": "06/26 19:42",
         "related": [
           "BTC",
           "ETH"

@@ -29,27 +29,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-26 10:58 HKT",
+      "updated_at": "2026-06-26 12:51 HKT",
       "news": [
         {
-          "title": "早盤國際金融市場盤點：美股三大指數漲跌互見 日韓股市集體下跌",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zYXkzenpXRDFoSWFXOTczRVZWdjF5ak9DTVNta3N0YnIzaHV0cTVNZVVjVVVvelZLaTJBUnlVUDlJYXRuaDdUYjNGRV8zdC1lVXFOaWNLSGZhQ1dHaUZIMlZ2WHlqd0pQT1dLZzhjMGlxMXhZZEhaTlI4cw?oc=5",
-          "source": "香港商报",
-          "published_hkt": "06/26 09:26",
-          "related": []
+          "title": "【即時新聞】蘋果(AAPL)大跌6%拖累那指連四黑！美股七巨頭齊殺，資金急轉向這族群",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMEZFWXFBWEs5Qmd6eHdTYjB0Nm9xUlRlSjNXLU9wZEFsdTYyeTlMTjh2dk9FeXdObEtqOWZCYlM2aHpBQmllTFhzM2JNMjY0S1RNbXhDWEVIYlBhdVpObHVkNDNVSkxmVExIdXBRclFDUGNWUC1UOTc1WkFuR1Q3aUxRamd2QlNMQWVSS3N4STI?oc=5",
+          "source": "CMoney投資網誌",
+          "published_hkt": "06/26 12:21",
+          "related": [
+            "AAPL"
+          ]
         },
         {
-          "title": "超級週期未結束！小摩：AI記憶體股修正非基本面惡化 Q2財報迎三大驗證",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYUTFWaHVmU3daSjI1R0o1REs4R2VlTFJTd2RwVmd1S3dFNFNMeTlsWkxQOXl5blN6NUc4aDRRXzU4OEZJMnpnY2JScjdyb00?oc=5",
+          "title": "標普500夯！財經不敗教主推「1美股ETF」：用新台幣一次買美國500強企業",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pazduSnUzQ0N1RzdLamc1V3cyNG1Qb3YtdVlybjZEWWE1NTBHVVZfbU15MUxsazZLZkNEaXZuelJoMTlQNHFKVHBUMA?oc=5",
+          "source": "三立新聞網SETN.com",
+          "published_hkt": "06/26 12:09",
+          "related": [
+            "SPY"
+          ]
+        },
+        {
+          "title": "SpaceX FOMO正式退場 太空股全面重挫",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zRkxfMkZDLTZaOE1EaXduS05lOXhoUXo2LUpMQ3JBc0dTemVzVlZGQTcwaTBMbjlhUTVCZ3FmNnJpRDNHSjcxN0NBRUFLM1E?oc=5",
           "source": "news.cnyes.com",
-          "published_hkt": "06/26 09:03",
-          "related": []
-        },
-        {
-          "title": "《研究報告》卡位多頭 美股ETF熱度不墜",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSGM4NDk1TVpyelEwQmJ1a19mSExQMXEwVmgteXNxcnNLd0NRd2VSWVVkRUotQ0NwTm5NRDBtLXUwNlBqbzRDbHFTaWtQZ2xOSlpEV3Z3Ulk5czMyMzlXbHFMWm81bWVIZWYwaDZRNFNHaW15eHF6RWxVNll2QVp3M2JjX2RtSFph?oc=5",
-          "source": "富聯網",
-          "published_hkt": "06/26 08:29",
+          "published_hkt": "06/26 11:30",
           "related": []
         }
       ]
@@ -222,7 +226,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-26 10:58 HKT",
+    "updated_at": "2026-06-26 12:51 HKT",
     "news": [
       {
         "title": "AI把礦主變包租公！比特幣崩跌難止，輝達、創意、智原才是真贏家！",

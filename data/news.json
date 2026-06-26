@@ -91,31 +91,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-26 18:12 HKT",
+      "updated_at": "2026-06-26 19:20 HKT",
       "news": [
         {
-          "title": "【港股收市】恒指全周瀉1252點 連跌7周 逾10年最長跌浪",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mUG93WFNWZ3JjMVZTV0dHLU9oWVRNRkEtZ1dWT3VoNmZ0YVdiLVZvUWNaNzM2RVpEOFR1aTFpYjcxeW5JT0hlczJNeU9NVVNBc2s3VWhzdDhKcjNmTjZNLU5weUVnelE?oc=5",
-          "source": "Now 新聞",
-          "published_hkt": "06/26 17:11",
+          "title": "港股收市跌400點失守兩萬三關口 再創一年新低",
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNOGpUSjZnSkxHSVZYTDdaYk9DS3A0SnBQODRlYlhxUFRDU3dRbUVLSUZuNDZtckNCLUdWTDJvbUNYX2IzS19zc3lEd1d0YjhBQXJ2cTFSd2JMYmdTQTU1a1BHaC1DZllWU0l0R1VZM1dSZmV3TUEzdUxJeU9PTTdXM2NILTJRMnlBOHktbDR1VUMyODFSOFNqZ0hIM01mNmJuVW1tazNlbGtXV3piLVJ4YVU2dm5QcWxFaXhjbzE3YnBSRFZmN0E3TFV5dGx0dHlyNHRld3RHaUxxTEg2M3JkYmJPRS1jSF9UZU8wZEpQWldjem5tWktkbXFWcVFfNlVob2RRZXl2Tm9paHR3SDEweFhqVHVXVWFEZU5iRllvQkVkdU5EZ05KTVpYOGRDX0k?oc=5",
+          "source": "TVB",
+          "published_hkt": "06/26 19:15",
+          "related": []
+        },
+        {
+          "title": "恒指走勢丨再瀉405點失兩萬三 全周累跌1252點",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrbGVtRHFzY0w5M2Vaa2NKamFLVnlER3gyNld2eEpkT3o2b1hSalREcFhTT0VuZUVaZm0tUWNSSEpUZnpoalQ1aHdIWmJVZHUtX0FFVHBqdHFGazFXQzRNUkxUNTNvYW43akZmaUMxRQ?oc=5",
+          "source": "信報網站",
+          "published_hkt": "06/26 18:22",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "新时空丨港股收盘：三大指数大幅下跌，恒指收跌1.76%，耐用消费品、纺织服装等题材逆势走强",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5faXY1STZFbDhqVlcxdl9IZnlTcG1GVjVWWDV3bUlNcm00OHRNQnM2YTVJdC1TOWNBTV9XTHo2MFJZMFpzUHJjRUVOeVA5RkJkWTAzQl8zbk45N0FNcEo0aTBzNGdVdw?oc=5",
-          "source": "FX168财经",
-          "published_hkt": "06/26 16:50",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "港股收評：恒生指數跌1.76%",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Rckx4RzhsNWFVVWw4aEUwUFlLeGpqa0N4MHZlSld3Q2pZRERxSVJ0a1ctQ3BBaUR6bndRTk9iX1ZQczFURmVXR21JT296OHRtSzdmcVJ0dE9lZnd1TmFubFZTTDliLUtSbWVCbXlTWjhnbmJzMXR0QUo0VQ?oc=5",
-          "source": "香港商报",
-          "published_hkt": "06/26 16:42",
+          "title": "HSI港股九連陰見底未？",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY1RRWVp6UE1jRFlwLXJVcGhmNENmOGFaX3VDQVBNbC1aaVV5WW5OWWhPZkgzeHpVSnFxcXppSWRnb2UzaHVOd1BTUVQ2R19vRWhmSUxsWjVkODRDcE5ORTVMUXUzdVVFNkplQ2hQUWN6SDBoRERtUE1KVXA5aHR3VGNid1drWDg5X3R3OGxCWXUzQkg5RVZtYkRJSjFFT19tUlRGVklpaWJzSExaY2lSUGtKRmtrX1E4RHVVNENPd19HUQ?oc=5",
+          "source": "香港經濟日報HKET",
+          "published_hkt": "06/26 17:40",
           "related": [
             "^HSI"
           ]
@@ -148,15 +146,8 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-26 18:12 HKT",
+      "updated_at": "2026-06-26 19:20 HKT",
       "news": [
-        {
-          "title": "台股26日開盤後跌破46000點 載板廠南電、景碩連拉二根漲停",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVT085NXF3QVZVWWR6ajVxbnhuWGszNm5TSjd5cjhlWFYzR19jUzYwUHFUZkRtUDQ0TFVVUlpHYW50ZDlLcnhYN1N5cV9rZ1p1QkE?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "06/26 18:01",
-          "related": []
-        },
         {
           "title": "外資狂倒1431億！獨寵「這檔記憶體」掃5.7萬張",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mSmYzMVJLZjZiVlEwTFI5UC1HbGhSWHBfZUltLUFtOHdfU0JNX3pLay1IYTRjQWU1UEpsY1p1UFN2VUVxZUh4eHJpVQ?oc=5",
@@ -165,11 +156,22 @@
           "related": []
         },
         {
-          "title": "越跌越勇！散戶續買「正2」 00631L單周日均成交量、金額創高",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VNmlVXzB6RngyZVJOYVVsSTc5ODIwRldmNWhGSExkRld4dUU1X0xsNGF0YlhRUDdGUG5SV0dKd05pWUxpcDRxVXd0VldGREk?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "06/26 17:34",
-          "related": []
+          "title": "外資4天提款近4千億！台積電摜破月線、聯發科跌停 台股失守4萬5",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzWHBFZEgyNmhOZ2pJaUNIN0doc2hNbUtwbTd6N09EUHhITE1OLURHNjVoa3dUSVI0ZEJHUUMyQUsyeTZZa1hTd0dFNmNnQXJ3T2gtTUJsRFR2NWgzR3pzeUNWdzI?oc=5",
+          "source": "民報",
+          "published_hkt": "06/26 17:00",
+          "related": [
+            "TSM"
+          ]
+        },
+        {
+          "title": "《台股重要指標（3-2）》加權指數 9日Ｋ值為49.04，9日Ｄ值為67.49",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQXhhVld0ckRET2pIT3Q5WW1wei1CdTdaZlJ4c3o4NkJNOW01WFpKVldjbzJtd3MxYU9TdFUyNnlfWVdBOTVLUjIwYXhBaVdINHM2QnZPYmJETVB0d21UOHk5Y0ZwR0czZUxXUUhLY0hpcHNpUlJoa1I1ZUZhYTZtTTExRWJXSlhM?oc=5",
+          "source": "富聯網",
+          "published_hkt": "06/26 16:48",
+          "related": [
+            "^TWII"
+          ]
         }
       ]
     }
@@ -197,7 +199,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-26 18:12 HKT",
+      "updated_at": "2026-06-26 19:20 HKT",
       "news": [
         {
           "title": "《日股》科技股獲利了結拖累，日經重挫逾4%",
@@ -226,8 +228,15 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-26 18:12 HKT",
+    "updated_at": "2026-06-26 19:20 HKT",
     "news": [
+      {
+        "title": "加密貨幣每日市場報告 – 6月26日",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaEQyak5leU14M0d6LXlvdDVMdHZCUEdYcDR3aENJcFlRN3c1Tmp4NnpQd3FfRFZPQXp6S0JaQ01GeUlkMEZGS05MUFBCTkJZRVdLdUUzckM5ZW5aanZLMzdzOWpsZHFycFFrc01POEdqOG9qQ2JWanJrVnhwZWNZMDg0MUVsYXVucUtmVg?oc=5",
+        "source": "KuCoin",
+        "published_hkt": "06/26 18:08",
+        "related": []
+      },
       {
         "title": "Pi Network：市場崩盤中的小幅回升激發短期希望",
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdVJWNVFkc2FfcllBM2FDbDFjN01SNm9sUHB1dnJUWkVraFNmZG9IcllzOHpTZzVEMFFEaFNpVU9pb0pHZzhtYjhSQmVMekx3ei1TSGszQnBSV1o3VTIyOFl0cm1RbkpZanZsNmFGYVRmSnV1STFjY3lsWHcwRWM2ZTNMRml1ZXFNZl93eUVxVnpIbHpSbE51eHFWTmRLUG02ZFlZUEdCR0lqcmxyRnh3U3lRNVNocEs4WWxwbUMtZUR0ZVk5dHEwV1J5ZnNrNkpxcE40MlJ2aHhZWVlaMGFQaU96d2taY19N0gHoAUFVX3lxTE11UlY1UWRzYV9yWUEzYUNsMWM3TVI2b2xQcHV2clRaRWtoU2Zkb0hyWXM4elNnNUQwUURoU2lVT2lvSkdnOG1iOFJCZUx6THd6LVNIazNCcFJXWjdVMjI4WXRybVFuSllqdmw2YUZhVGZKdXVJMWNjeWxYdzBFYzZlM0xGaXVlcU1mX3d5RXFWekhselJsTnV4cVZOZEtQbTZkWVlQR0JHSWpybHJGeHdTeVE1U2hwSzhZbHBtQy1lRHRlWTl0cTBXUnlmc2s2SnFwTjQyUnZoeFlZWVowYVBpT3p3a1pjX00?oc=5",
@@ -243,15 +252,6 @@
         "related": [
           "BTC",
           "ETH"
-        ]
-      },
-      {
-        "title": "比特幣跌破60000美元，Worldcoin和Pepe領跌，市值蒸發10億美元",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYW5pVkZSdnBMUVJRVUxKUFNXU2lxaGgwSkNyZTZvWEpRSUhPMHJuZ1ZBQzkyZ0xkMWhmbDdTcWlvNVZfS0RlN2V1SnpwbHMwcmdPRmkyYS13bmxfU294VDloNEV3ZDhHSk9vUVc2T1pubVZPOVNSQVhLTW83eFZhNGdCTEo4b3NLb3RFNXhQVXp5dnVzdEhEdExIYndDRVdRNm1mU0pRcWFUaHJ4MnZQN3NpdTVyMjdSWFpRLVpUamdVeHM5aUJhQWt0UFlzZjFnV3NGUmFhUDY1QdIB2gFBVV95cUxPYW5pVkZSdnBMUVJRVUxKUFNXU2lxaGgwSkNyZTZvWEpRSUhPMHJuZ1ZBQzkyZ0xkMWhmbDdTcWlvNVZfS0RlN2V1SnpwbHMwcmdPRmkyYS13bmxfU294VDloNEV3ZDhHSk9vUVc2T1pubVZPOVNSQVhLTW83eFZhNGdCTEo4b3NLb3RFNXhQVXp5dnVzdEhEdExIYndDRVdRNm1mU0pRcWFUaHJ4MnZQN3NpdTVyMjdSWFpRLVpUamdVeHM5aUJhQWt0UFlzZjFnV3NGUmFhUDY1QQ?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "06/26 12:08",
-        "related": [
-          "BTC"
         ]
       }
     ]

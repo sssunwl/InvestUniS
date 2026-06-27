@@ -29,31 +29,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-26 12:51 HKT",
+      "updated_at": "2026-06-27 10:47 HKT",
       "news": [
         {
-          "title": "【即時新聞】蘋果(AAPL)大跌6%拖累那指連四黑！美股七巨頭齊殺，資金急轉向這族群",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMEZFWXFBWEs5Qmd6eHdTYjB0Nm9xUlRlSjNXLU9wZEFsdTYyeTlMTjh2dk9FeXdObEtqOWZCYlM2aHpBQmllTFhzM2JNMjY0S1RNbXhDWEVIYlBhdVpObHVkNDNVSkxmVExIdXBRclFDUGNWUC1UOTc1WkFuR1Q3aUxRamd2QlNMQWVSS3N4STI?oc=5",
-          "source": "CMoney投資網誌",
-          "published_hkt": "06/26 12:21",
-          "related": [
-            "AAPL"
-          ]
-        },
-        {
-          "title": "標普500夯！財經不敗教主推「1美股ETF」：用新台幣一次買美國500強企業",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pazduSnUzQ0N1RzdLamc1V3cyNG1Qb3YtdVlybjZEWWE1NTBHVVZfbU15MUxsazZLZkNEaXZuelJoMTlQNHFKVHBUMA?oc=5",
-          "source": "三立新聞網SETN.com",
-          "published_hkt": "06/26 12:09",
-          "related": [
-            "SPY"
-          ]
-        },
-        {
-          "title": "SpaceX FOMO正式退場 太空股全面重挫",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zRkxfMkZDLTZaOE1EaXduS05lOXhoUXo2LUpMQ3JBc0dTemVzVlZGQTcwaTBMbjlhUTVCZ3FmNnJpRDNHSjcxN0NBRUFLM1E?oc=5",
+          "title": "傳Meta打造自家預測市場 鎖定年輕族群",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iaE95Z2JHbkNtM3BVQm5QX3BiXzZUMnB2em1HUldUWUw2enlIVjRUYU5Ec3JiRHhLYzdjMEZBanhQeHRKUkk0TnByVUw1VWM?oc=5",
           "source": "news.cnyes.com",
-          "published_hkt": "06/26 11:30",
+          "published_hkt": "06/27 10:30",
+          "related": [
+            "META"
+          ]
+        },
+        {
+          "title": "美股科技股集體承壓 市場是否正在重演DeepSeek式衝擊劇本？",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2S3h4b3ZRX240YzhGcFM0VXpiM2JyRHI5VVNZWFpaTGRDeWFUQmdJODZfTzMwQzIyUHpEOG1iWmx3Z0NQWlVtcENBdlBFeW05R0Z3eTNPb3lVZw?oc=5",
+          "source": "Moomoo",
+          "published_hkt": "06/27 08:34",
+          "related": []
+        },
+        {
+          "title": "SpaceX上市：2026年最大規模IPO將如何影響美股走勢？投資人怎麽買？",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9URTBBQ2pNSlc3QUNMcWxJRjRYV2FhQmRFcW1lQ25GNHowbHVjTDFMeUhjME9ZQk5oNUVac1NGRXg1d3FQQ05BaVNqbmRFQWFWVG5yQ1RYRXJRbFo0aWlnZDN1MnM4NUgzaXlYQVBDNVItanoxaHpZWFRWeGRUZw?oc=5",
+          "source": "Mitrade",
+          "published_hkt": "06/27 07:53",
           "related": []
         }
       ]
@@ -230,35 +228,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-26 23:40 HKT",
+    "updated_at": "2026-06-27 10:47 HKT",
     "news": [
       {
-        "title": "加密貨幣今日：比特幣在60,000美元，以太坊在1,500美元，瑞波幣在1美元面臨成敗關鍵考驗",
-        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQMEZoZjROMFk4Sk1EbS16R2pFOWJDRWtEbng4WURUYmRET1VMaExSM011Ui1qZWg1TUttX09DbS1DYV9xVzZGcXpnNzdwaFUzVHJTaVI0YWVZUnJoN3FBOWZFOUc5RXNQVloyZmZZSl9rVFEyc3F6NEROLWtBck9JdjEtZlNrREdVQUo2UFpFRGZxR2NFSzRBQl9lQVN0VU1qeFY1TjV1cjFCREZ1cnk1YUQyNDBQMktQT1VKUnpCWnVORkpkb3BiLUFpZl90dnNDZ1RWd2FmdzE0eE9GUUVMWjE0dGJOcDlkUnZzYnk5YWtVOUFZbFN3T1hUTjMyaWZyUlJTQ1lXNWgzSzUtd0FZcWphM0pSVUhROTlxQk9rZXNQZlRMYmdnc0FB0gGqAkFVX3lxTFAwRmhmNE4wWThKTURtLXpHakU5YkNFa0RueDhZRFRiZERPVUxoTFIzTXVSLWplaDVNS21fT0NtLUNhX3FXNkZxemc3N3BoVTNUclNpUjRhZVlScmg3cUE5ZkU5RzlFc1BWWjJmZllKX2tUUTJzcXo0RE4ta0FyT0l2MS1mU2tER1VBSjZQWkVEZnFHY0VLNEFCX2VBU3RVTWp4VjVONXVyMUJERnVyeTVhRDI0MFAyS1BPVUpSekJadU5GSmRvcGItQWlmX3R2c0NnVFZ3YWZ3MTR4T0ZRRUxaMTR0Yk5wOWRSdnNieTlha1U5QVlsU3dPWFROMzJpZnJSUlNDWVc1aDNLNS13QVlxamEzSlJVSFE5OXFCT2tlc1BmVExiZ2dzQUE?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "06/26 20:34",
+        "title": "Reserve AI Capacity & Neocloud Tokenized DTF 價格 USD_NEOCLOUD 今日即時價格走勢圖與市值行情",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjBlOEhLR1RjNVRSM0hQM0x4bUplWFEzbEZqcVotTTB0UHJvcnQ3NGRkeXFBSG1ZajBfVW9KQVB2b1hjeGRHTXlINjZuWFhFeXBnUl9PSFJVd3VucTk5TDk0cXNjenJiUzNDQUpHaTNzYll2QkpnaFl2OUdTVE1GLV9TRQ?oc=5",
+        "source": "Bitget",
+        "published_hkt": "06/27 05:48",
+        "related": []
+      },
+      {
+        "title": "以太坊基金會裁員二成 以太幣下跌加密市場震盪",
+        "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBCRF9IUkRWZlRIbEFvRXNIaWJaNWZtb09obk81S2FsSm1COFY2YmJzNW5FdjBLWWJ2WFE?oc=5",
+        "source": "ENN台灣電報",
+        "published_hkt": "06/27 05:11",
         "related": [
-          "BTC",
           "ETH"
         ]
       },
       {
-        "title": "加密貨幣價格預測：比特幣、瑞波幣與Pi網絡——歐洲市場綜述 6月26日",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZGhicnRFNmN4SDdxQXJLX3E4eE51X2tsZFllOVlPOXFrZWJWeWJRM1hzSVJVdnZiVUQ2SWxtNFZNS2dNMEZaOFJIeG8tS2c2VjdxbzlwcGhZT1lBUG5UM0wxNC1IXzlkVWVsTDNXdGxoeFFZUGp0bWszcWVtdjZJNnR5OENNcDZaMm16a2lyWHpZMnB5NjUwbldXcFAteHR3NW5nMmtYX3MydFk3QmxkcWdKN1NXOXliSG5Nd0xuVDNyT2tOMnJ3OUVoSXZGQllOMWdsc0xQOHdLUnJ3d2lxblpCVzVMZ3cwUENWM3lKdDHSAfABQVVfeXFMUGRoYnJ0RTZjeEg3cUFyS19xOHhOdV9rbGRZZTlZTzlxa2ViVnliUTNYc0lSVXZ2YlVENklsbTRWTUtnTTBGWjhSSHhvLUtnNlY3cW85cHBoWU9ZQVBuVDNMMTQtSF85ZFVlbEwzV3RsaHhRWVBqdG1rM3FlbXY2STZ0eThDTXA2WjJtemtpclh6WTJweTY1MG5XV3BQLXh0dzVuZzJrWF9zMnRZN0JsZHFnSjdTVzl5YkhuTXdMblQzck9rTjJydzlFaEl2RkJZTjFnbHNMUDh3S1Jyd3dpcW5aQlc1TGd3MFBDVjN5SnQx?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "06/26 20:19",
+        "title": "比特幣失守6萬美元關卡 微策略股價跌創兩年新低",
+        "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBqR1N0Z21yb0dPczRBOHhweEJQaW1TSEpEellpcHdFWVE4Y2d1dUtQb2Q4MUZITTdGMVE?oc=5",
+        "source": "ENN台灣電報",
+        "published_hkt": "06/27 05:11",
         "related": [
           "BTC"
-        ]
-      },
-      {
-        "title": "比特幣反彈至5.977萬美元，以太坊下跌且價值10億美元的期貨倉位被清算",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBITDRUOHZOUW5kV013ckIwMjVRRFRVTDNUZ0JzSER5ZFlqS2VONjlPMW5QQ3ROSGs2OUNGYkpiOF9EYWdHYW1OX0hRSi1qaENTQlBabnJVYmNJc3dYX0JGLVg3NjFnWTY1ZUdr0gFrQVVfeXFMUEhMNFQ4dk5RbmRXTXdyQjAyNVFEVFVMM1RnQnNIRHlkWWpLZU42OU8xblBDdE5IazY5Q0ZiSmI4X0RhZ0dhbU5fSFFKLWpoQ1NCUFpuclViY0lzd1hfQkYtWDc2MWdZNjVlR2s?oc=5",
-        "source": "Bitget",
-        "published_hkt": "06/26 19:42",
-        "related": [
-          "BTC",
-          "ETH"
         ]
       }
     ]

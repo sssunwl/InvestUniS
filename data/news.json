@@ -226,31 +226,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-29 13:26 HKT",
+    "updated_at": "2026-06-29 13:54 HKT",
     "news": [
+      {
+        "title": "主要加密貨幣行情，比特幣升0.16% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNazkzemRNaU5fdUlYUDdGMDJJSVg1MmN4RzJXUFNZZ2xuUG5CMFlFRVp2cXA4THNMeG9sbV81X21aRE5feDZqeEp3bFFBRXZGSERNN0h4dFk0WnYtbi1kR2lSSUtuTU9BVlIxR25xN2Y3Z3lmT2dUX1Z0cWd5LVh1bHBNTWR5WWUydEtqSTVCbFNkVHZLcEFsdE1yNUJiWmJK?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "06/29 12:40",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "前3名價格預測：比特幣、以太坊、瑞波幣 – BTC反彈，ETH和XRP在近期回調後守住關鍵支撐",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOcmsyX3k5aGI2U0xGMmtQM2gwRUtDVVY3a0kyZDd5emlWSXM3TWFxWjEzaXVfa19ISzhhSDlTbTJmNnpIeWJhOU01STluZmpacW1wcjVWY1NYeFFBa1FjZ2JPS0dTRlV1UWVxbzJLa21MUWg1UDYtVjU2bk1SSWtjWk1hV21wd0hmQnZZZTFCX2Z2eUZfclBoNXVjWktrQXY0eEVsRm9oN1dubHo4YWtZZ1BWc2g4YVJ5aW5rcE10OEdfSXB2R0dQMTYyTlJFQjVKS2JDRUVtXzdfY2Jua3AwYkF6c1RJaTRweW1EV09GcHNOeDFWdENqV3Jvc3VDcWFObkhrUTNoSzYzV01JSEREY25TVzV6MVAyd1HSAZoCQVVfeXFMTnJrMl95OWhiNlNMRjJrUDNoMEVLQ1VWN2tJMmQ3eXppVklzN01hcVoxM2l1X2tfSEs4YUg5U20yZjZ6SHliYTlNNUk5bmZqWnFtcHI1VmNTWHhRQWtRY2diT0tHU0ZVdVFlcW8yS2ttTFFoNVA2LVY1Nm5NUklrY1pNYVdtcHdIZkJ2WWUxQl9mdnlGX3JQaDV1Y1pLa0F2NHhFbEZvaDdXbmx6OGFrWWdQVnNoOGFSeWlua3BNdDhHX0lwdkdHUDE2Mk5SRUI1SktiQ0VFbV83X2NibmtwMGJBenNUSWk0cHltRFdPRnBzTngxVnRDaldyb3N1Q3FhTm5Ia1EzaEs2M1dNSUhERGNuU1c1ejFQMndR?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "06/29 11:47",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
       {
         "title": "比特幣失守 6 萬美元大關！恐寫下罕見「連兩季收跌」紀錄",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBudkVXTWR6X0VlWElveWhaNEZVYzN5d0lLaGQtZmlCOVQtSElfajJIcFVCVWlwSzJJMklTS2FseGlLNFYxY0hjYVhzaw?oc=5",
         "source": "news.cnyes.com",
         "published_hkt": "06/29 11:30",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "加密貨幣週報 | 比特幣跌破$6萬，跌幅達7.4%；比特幣ETF創紀錄流出$16億；Strategy面臨$126億的未實現虧損",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSTluOVdjeFcwNmpHdjVrS1dZckYxOWlRUDJEaWRwV19xaDhrMFZXeUF5aHJZVXhxakdxMkFjLUY5ZnJ0SUstc1Mxbk9IaG5wc2NBLUJsZnRHUGhyVmtrMHFjSGktX3BWcDFrcGc1Y3VaNENKNzU0YmpOT1RCYzJ3NFVraFVuekFfaXBRemQza19xZEpXdVo1MkZnRmdOR0hzaU9uZVRNS09kaVRjMlppcFVFOA?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "06/29 11:14",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "加密市場概覽：比特幣徘徊在60,000美元附近 – Zcash、Jupiter繼續下跌",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcjRnXzMwWTd1UFRPV2VuUE51TDNTSGd5TFU1N0FrUnh3bkJpZ0VoVVlpZHo1Z25XMG5nQ2lTRDJCR0ZYa2xQUE1wVlBIZ1JpeDFweXRfUkhfbDBDUXBfbGlpaXpRbHBiek5xTndQdkZrNUhzOVJJOGlmM3B6V0pvS2V6cDFCTC1relZ0akFVMFhSNG9vSjZqdUNVS0lDWEFfRTUxV2RRcWJ0dFFkLTU4R0d1emdVb25ETFlsRXFZVnpnQ3NveUZpaE1SMklYYnlraVZXV2s1Q2hYWWdJSktUYkI1Q3A4VnUyQ2szZkQ2Z9IB7wFBVV95cUxQcjRnXzMwWTd1UFRPV2VuUE51TDNTSGd5TFU1N0FrUnh3bkJpZ0VoVVlpZHo1Z25XMG5nQ2lTRDJCR0ZYa2xQUE1wVlBIZ1JpeDFweXRfUkhfbDBDUXBfbGlpaXpRbHBiek5xTndQdkZrNUhzOVJJOGlmM3B6V0pvS2V6cDFCTC1relZ0akFVMFhSNG9vSjZqdUNVS0lDWEFfRTUxV2RRcWJ0dFFkLTU4R0d1emdVb25ETFlsRXFZVnpnQ3NveUZpaE1SMklYYnlraVZXV2s1Q2hYWWdJSktUYkI1Q3A4VnUyQ2szZkQ2Zw?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "06/29 11:11",
         "related": [
           "BTC"
         ]

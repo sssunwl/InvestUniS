@@ -27,27 +27,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-30 09:29 HKT",
+      "updated_at": "2026-06-30 10:57 HKT",
       "news": [
         {
-          "title": "美股反彈 油價回升 市場觀望中東局勢",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96N2o0VVNGY01uYkRmdFB5djBqTGlmZ05CdmtvcnJnWkdscUNsaXNFSFYwYkU5dW9OOVR4dHd6ME8tT1dfVm9jdmttejh1NndVbHZBa1NwU0FpMlA3S0FzSNIBZkFVX3lxTFBQQ1d4c1dScU9aUDVOYTkwbUFkY1FKcDVNNlJ6eHdraHNhTE9nQnpUdFNIZ1Z5WnlXeThfdVRQT19Wb1ZkMFU1TFYxNUFkOUpoVHdackFiSWp0aUxWYWstaWdoX2lYUQ?oc=5",
-          "source": "新唐人電視台",
-          "published_hkt": "06/30 09:21",
+          "title": "Fed不會升息？華許通膨框架曝、「這些」利率敏感產業或迎反轉機會",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mUzhUM2RIM3pqNm5QU05ickhCZU8yTi1LbGVyUVNmaWlFbllBMTRHWHlhdnV1QjBIZVZkUjlMT3NabDhkbzlvd0pwWHZkZk0?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "06/30 10:25",
           "related": []
         },
         {
-          "title": "美銀示警美股過熱！ 「3大危險訊號」浮現 最慘恐回檔6%",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DWkIwVEIwV2RjYk00bzlraG4zQndCbmF2T09TSkpSaTBaNUhvaXFrZk42NTZqWUs2cjdWaTMzTWxYa25KaXlVZm96ZVhEek1SQmkzaVl0blJSdw?oc=5",
-          "source": "東森電視",
-          "published_hkt": "06/30 08:53",
-          "related": []
+          "title": "美伊停火激勵費半狂飆！台積電 ADR 跳漲，聚焦投信百億護盤底氣",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeDFQcGZnWHk4cm5VUlE5UUVIbEJUQ19HOXN4ZmJtV0txZ01MOUYzQXp2QllzWF9Pa2VkdW4yX1VyWXpVc2VXV1pGVWF0Z0xWdGIwaEJCb1ZpUnVHWk5DcjU3YzRHVEFqU3pmYlpqdkZyeWVfelpHcFA5MXhFVlZxNnBCczVCTVdFNk5CWExSRmc4TlYyNlN1SlZrcWNVejBQQ1FNckRrSjVSSjJhRG1nRzZOWHVncmVGX2NsMFVaTTlOQi1yS1ZmcGZReHk3Nms?oc=5",
+          "source": "TechNews 科技新報",
+          "published_hkt": "06/30 10:02",
+          "related": [
+            "TSM"
+          ]
         },
         {
-          "title": "美股反彈台指期夜盤揚升　法人：台股挑戰月線",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nUWNaUkpncjNxc2xCcGlvY190S0RFTlVpQS1VeFZjdktjY2ZocG9DSEZjb0xmYkV4X0pBNk9JOXF6c3JZRm1mTnkxUm9DVGwtQWZXM18yU2szbFnSAV9BVV95cUxOZjNNUzZaR0RCNklaRlRMMmtYSldxZ2V4NnZycVlkTU5rVm5pS1M0TV9aYWtyVjRCX1ozVUtqY29fTzBRR1VmTnM4dnR6WFBZbDFlSmQ3WFBxR3MzY2VRZw?oc=5",
-          "source": "經濟日報",
-          "published_hkt": "06/30 08:36",
+          "title": "「賣出美國」破功！AI熱潮助華爾街續坐全球霸主 德銀舉美股10大優勢",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zRzdZbkplbXFVOWptZFY4eFZuMGhDVU5DbXpvZkVadjZ0VFhoYkR1ZlRPb1VHU2I0a0pTbUhDQzJVZmQyTDBvdzZDaHk5MmM?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "06/30 09:45",
           "related": []
         }
       ]
@@ -223,8 +225,15 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-30 09:29 HKT",
+    "updated_at": "2026-06-30 10:57 HKT",
     "news": [
+      {
+        "title": "Tom Lee：加密市场逆风与顺风因素并存，悲观情绪或已触顶",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55ZjVIbnZHWVNfeUJMS3Y0QU9Oc1RvaHVMbmxCY240N2JwSkg4UmthS29PbExkeVMtLUx3RXp2d0NTRDMyZTdOemx1SGdIZjJqWUlqYVg2b1VpbUJSU29qZnlQRVdqQQ?oc=5",
+        "source": "TradingView",
+        "published_hkt": "06/30 09:32",
+        "related": []
+      },
       {
         "title": "QCP Capital：地緣政治風險和聯準會訊號令交易員緊張不安，比特幣面臨動盪的一周| MEXC 新闻",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXdmlYeDJ4YXZDTFpoOG8tb0hLcEdJdXdsZkpFbW05U3NtRjVtS016eGl2el9BMjRHSEJkMG1pdmlxdFpHSkhyOGtoWVZEOGhG?oc=5",
@@ -235,17 +244,10 @@
         ]
       },
       {
-        "title": "為何加密貨幣項目經常更名？",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeE85WEk5bE5nVmE4TktQX2VFN3VTRkR0MHFMWXlSUGlpR2NyNEFNUFJpeHhlSzJ4Z0ZpLXhWa3FGZkE2bEVxTERhREdmWGNGcWxUM0hmeTBZUjNkV0tlMTBtdnJaYlNLMEdITmtJbEdOZ0pzYllCSC1NTEZ5MDc4bmJ6VTN6a3VLM0VJci1UUU9kalB0ZEhBbg?oc=5",
-        "source": "KuCoin",
-        "published_hkt": "06/30 08:25",
-        "related": []
-      },
-      {
-        "title": "GOOG加入道瓊首度站上5萬2，Strategy宣布賣幣計畫比特幣回六萬鎂",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CUVlFVGh0LTV1MFo5X3ozQXgxUXMySHFNRGxmb2ppbFo0MUJKVjVrMnVzR2N1N0ZJVlV6M2h6bUlZVnpzNFFyb3BGdk9ONFJLcUxITWFKOFRqVG1QSlBTMlVTWQ?oc=5",
-        "source": "鏈新聞 ABMedia",
-        "published_hkt": "06/30 07:49",
+        "title": "主要加密貨幣行情，比特幣升1.49% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV1FjOHdsZTFUd2J6b2l5Rjk4bzlyamxyeVZpSXlkZDUwZXVYU0JRTTVSMldBZ3FLLVFVby1BdDNBdDZhZTJoX1RHelZPOHVScjZMYjBGcDlWZTRreV9wWk55UXUxamhCOFE4eUVOZXFiVVVFU3lOa040RFNNZFJISUdWbXRFS1dUd2FidTdLQi1BTFo5c3lsT3NuMFVWUzAy?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "06/30 09:05",
         "related": [
           "BTC"
         ]

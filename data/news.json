@@ -222,33 +222,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-06-30 23:32 HKT",
+    "updated_at": "2026-07-01 00:11 HKT",
     "news": [
       {
-        "title": "美股異動 | 加密貨幣概念股普跌 Strategy(MSTR.US)跌超7% 作者 智通財經",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PUmhqV0xLX2xzQzBsTFVCTTRpZUMxZ3JtUU9NLU92Y0FkckxQREpxOVNOMHFUQ21zNWk1cXc1aE4tWTV3VnBVU3BlekZVbFBwS1NxaWp0SDFBSEtDS0RCMDVPdjZJYnMzM1oxYVdWUWM?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "06/30 22:51",
-        "related": []
-      },
-      {
-        "title": "主要加密貨幣行情，比特幣跌2.33% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYlhEMXdtblJOUjVIUVp1TG55V3ZuX3B4blBlT2poT3E4ckxobFA2Tm5nY0huODZNb1FLSnhfUnpQamV0WmJFcG9BaFhIV0pOOWJ5dUc3TW5yWktoSTh2SDVOOXN3TW04Slg4R0ZRRGo1c2FaeU1Nc1lFTFQ1TW4zcWVySy1rMGRqMy1jRjhFNDZHQ3V3YnU2T2FJd0FETl95?oc=5",
+        "title": "主要加密貨幣行情，比特幣跌3.05% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMklTMDhUby1DeENHQW9hblpjN1R1aU42bDlmN2hzbHBXczJFSDJ2NWphQzVWa3I0RV9WMWVleUVWUWdoQW9jSEtyaVVacm9wVjlDd19VQTRFa0ZhVlRXODNDSjZqX0xRUjBZT2JoZXp3WDhpOEZsdnZYcjNmTEJSNk95UmVLVkZlN1BEclhicVZfS25kYmFPVks3REZvc0Fr?oc=5",
         "source": "etnet 經濟通",
-        "published_hkt": "06/30 20:31",
+        "published_hkt": "07/01 00:01",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "今日加密貨幣：比特幣、以太坊、XRP回調加深，投降情緒持續",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTkVCcTZZekhXUG9CdzZPRkxKNm5XbGtQWmFxMlc2RHd5a0xrQUJrMDBoMWhiakFlLXVQYTMwS0c2c0dJcEs5OW1wVm9zVmQ5OVdjYjRlWlBMRHZ3bFpzdGw0T0ZpTDNYQWFOdVk1cmduSjhwUVZFRWZUUmlPWDA2V3NiRkFnWDhiU3RJbVo0NFU1T1k0LWlMbmpWYUVab3cxNU1pSnczeVo5UjJjLVBHdi10MExIUHBjOVp4UGM2V1Z3NW5KM1R1V2lobW1nZXlQNEtlR3IwVkxsOS1FcHNmTDI0SHrSAeQBQVVfeXFMT05FQnE2WXpIV1BvQnc2T0ZMSjZuV2xrUFphcTJXNkR3eWtMa0FCazAwaDFoYmpBZS11UGEzMEtHNnNHSXBLOTltcFZvc1ZkOTlXY2I0ZVpQTER2d2xac3RsNE9GaUwzWEFhTnVZNXJnbko4cFFWRUVmVFJpT1gwNldzYkZBZ1g4YlN0SW1aNDRVNU9ZNC1pTG5qVmFFWm93MTVNaUp3M3laOVIyYy1QR3YtdDBMSFBwYzlaeFBjNldWdzVuSjNUdVdpaG1tZ2V5UDRLZUdyMFZMbDktRXBzZkwyNEh6?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "06/30 20:02",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
+        "title": "美伊協議助美股三大指數收漲 那指勁揚逾2%科技股領軍",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50TFJTbjJQdm55UzcwVlg3V3NhbU9CWGxoN2F1clVOeUtta0xVV2Y5b09xZVZkdVgwbHAwclZkSFZtZHNVRjR6cktJWkdBUQ?oc=5",
+        "source": "記者爆料網",
+        "published_hkt": "06/30 23:54",
+        "related": []
+      },
+      {
+        "title": "Symbotic Tokenized Stock (Ondo)價格圖表、市值、指數及最新消息",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tTkxJX2M0NXlkUHdPcUJmRTRKZzN1aGJqa1U4Q1VzZVdQbWIyeHljcUM3Q3c1MXJSeWtXaFY1RXJsUURJX1ZSR0IwZ1loWEhoNXNpTFlJdklhZjJrYnRZV0JYWWpjYW1JZkp6UlVR?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "06/30 23:11",
+        "related": []
       }
     ]
   }

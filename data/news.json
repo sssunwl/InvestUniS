@@ -218,18 +218,8 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-01 23:45 HKT",
+    "updated_at": "2026-07-02 00:07 HKT",
     "news": [
-      {
-        "title": "花旗下調比特幣和以太坊12個月目標價，因ETF資金流入枯竭",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOek0ySzlXOTNfazluT3poazN4ZEpvelo4YmxqMzZQQUZOeFprTV9Bd2hsOHZYbXA3Q0NvRWYtd3ktZ0lRYUVQQk85cjNYM1kta0tOQlpJcGdVYndjNldOdnE5emt0TWpNaVR2UE8zbjlKMGNlUTlJYXFSbTJtTDBtVlRKRzVydGFUdHhrVHdrUGRKQVluQmhIcWtNLVQ3VERUQkQ4bUdR?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "07/01 22:17",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
-      },
       {
         "title": "花旗下調比特幣和以太坊12個月目標價，因ETF資金流入枯竭",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM09sNkluRktoenl6RHpRYjEweUJ0akxRcmhBTU0wck91cWM2QlliX0hKVnJGZVhxakZyMkVNdlp6MkdNWnkyUS1BU2RNU1Fvdy1WeG1UQTcxaWoxaFBLbXpTeWlJYmtqcFpJa2JTZHRZbEhQZTg2Rmx5VnU5dTkwUUpQZ3FmaFZXRmRES3Y2OUVBbmlBR09zLWVDZEMzUQ?oc=5",
@@ -241,11 +231,22 @@
         ]
       },
       {
-        "title": "如何賣出 CRISPR Therapeutics（rCRSP）",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd3Zrc0ZmcHdBbUg1cWpIR0xhMG9sVmE4QzMxQ21SOFB4VEFwaWlOTElsbWtHcVB1SzdUdGhxS2x0STNZeGVBaWlFaXgwNWpPSnhaRXJrWV95NmNRcERQai03em9tMjhmeDRXVVo2RkVmcEN5X214OTh6OFRrME41M3FucTJybjhMcXB6NA?oc=5",
+        "title": "Darkfost：Bitcoin淨供給率轉負觸發買入信號",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9meWoyMGhNTHNQQ1dxbmJibWtRYjg4MWNCV28zMTJDZF9WcENra0NPbjdIMTRiOHVUbWhkNHc3ekY2STVzWHpkdUFFSE9WYy1BMWtIYVpYY2prMGFsNmVDOGRLSzM4Y2NnM2hz0gFrQVVfeXFMT2Z5ajIwaE1Mc1BDV3FuYmJta1FiODgxY0JXbzMxMkNkX1ZwQ2trQ09uN0gxNGI4dVRtaGQ0dzd6RjZJNXNYemR1QUVIT1ZjLUExa0hhWlhjamswYWw2ZUM4ZEtLMzhjY2czaHM?oc=5",
         "source": "Bitget",
-        "published_hkt": "07/01 20:02",
-        "related": []
+        "published_hkt": "07/01 21:26",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "主要加密貨幣行情，比特幣跌0.16% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSklxT1NGRkV2SVN6NDhQcl9TV2JpSlQ0XzA3THNCbkR3RGpVeDVJY05NSkR1N1JIdHRnSVI4Umw3SGtmVlQ2V0dsenFWVXdCYlpZTHBITG5NT09aS2ZCc2g5NWRqbGthOHpia3oteEZPQlRJWmpwZGdTYXZ1QThSSGFNTWRFNURZSTIyaU0wLXh2X0swZ3ZlOEcyVHZjSi1P?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "07/01 20:31",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

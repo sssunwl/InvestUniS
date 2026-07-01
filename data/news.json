@@ -85,31 +85,27 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-30 23:32 HKT",
+      "updated_at": "2026-07-01 18:00 HKT",
       "news": [
         {
-          "title": "聲畫導讀‧財經｜港股獨憔悴？點解恒指有份跌、無份升？因跑輸外圍AI熱潮？",
-          "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQZ1pQSlRQNUdXZjgwTU03SGxkbm1rUUFaX19yY2NQOEdfVkNNQlAyeUczc1c1TlpZc1RBNGQzTHhVZVY1YmItb25RTWd2WDc0aFliQm9VOFF4dG1jTVkwb1lHbmZpMlJHdE9UZ3JrNkZ5WkxzTFp0MzVyalF0d0U2bmFwcEh6dFJ0NmFsRGNIVWJfRHZCTDFfTlJiZzZEVlV6eHMzVXFRUnczRzg4aHlwamhLUzJWblVDSDdfNHNtcmVFbWhwTEhwTWh6VXFuSnpNZFR3Y2RzMk5UOHpVSWxEZmZWTjlvblJ0NDdOMFlwQ0F2OFFRWDBMaVgzVGxtRzBQMTNzWXhRQ2hMN1dzXzhFNHZKLWU5bTVJYWRPWmJSdFB3N0RaT2gxVXZGLWp4a1VTaVRkd3ZhWGxQWld2a2FBNy1BbTIyTUl2VjR4Wnl3NEJNXy1aVVVnVm9rN01aSl9JbDdDemlwMmo3OG9McXAwSHNGTVFWQ2FncFFVU05meThBQUp2WUFvZ2hFS3J1UGR4RWRVYVUwejhHUQ?oc=5",
-          "source": "TVB",
-          "published_hkt": "06/30 22:03",
-          "related": [
-            "^HSI"
-          ]
+          "title": "香港股市、港股行情 | 鉅亨網",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VZTlnOFV1WTQ3WTMwODFpR0ZUT0kzTXpFcTA0cHM2eWp0MV9ZSXlRVUpWQUVQMzRfZVRJMjUyZmFEcEdTeDZQcUJHME4zbm5TVmtTVW90YU5JdFAxcmt4TGt4QVlPRktnMlFB?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "07/01 15:45",
+          "related": []
         },
         {
-          "title": "季結 | 環球股市齊升港股次季獨憔悴，加息預期與弱消費夾擊恒指扭跌不易 | 專題透視 - 新聞",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcG4yQS1ZT0JqOHhKWU14RzBZcXFyYnBaemd5SG1SbmQ3M3hNX2dpcU95cEFual8zWXlReEJ1Wlp2Z1o2RzZBY2FnaUpyU2dnck1VRFRJU2tPWWxDb3JXeGFWN3hhc3A5ODEtaHZVeDR2SWEtM2t6N3dPNmJ5dmVGTm0yMTFILWRTQmNOUkxkeVFaSlZ4V05feVlabG9IZkti?oc=5",
-          "source": "etnet 經濟通",
-          "published_hkt": "06/30 19:39",
-          "related": [
-            "^HSI"
-          ]
+          "title": "港股大模型概念股日報（2026-07-01）",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FbDgxSTB6QUtyRzhuZzVucVlVNnh5Y29EZEZnd2VSNXVubFFRRTFnRm9IS0luaE1Ma3B3WG5sMzVUaDNHUEphalVkOGJVVU42b1VxMHdGLXlsZ0NpWUN4ODVyZ255dw?oc=5",
+          "source": "FX168财经",
+          "published_hkt": "07/01 15:02",
+          "related": []
         },
         {
-          "title": "港股市況不斷更新20260630",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZFd5bFBPTk5ueW05MWpPWFdBQ2gyemt0b0lfUnUxLTlMZlpIR3Y2UndrMDNNUDB3dF96YXVzLVJzUDQtUG9sZTRnYjVmakFUQ0gtazkzUnFQYTNaUzMwa0trdzROUGdlT3pBQW5haEg1d0JDWW01S3VNSjdtMEFZTlhXU1lnempYejJyOTBxMkJBa082MDJjdUdiRXhHY3ZUdUV6WGQ1OFhjcHJrenpvQldWbGZiRkxWQWdz?oc=5",
-          "source": "香港經濟日報HKET",
-          "published_hkt": "06/30 18:58",
+          "title": "港股科技指數6月30日運行報告-香港商報",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UMHVPWjlteWVzU0puNUFQczhOd0ZkTmRtemNOQlJjR2g5MlhULWR5elROM0xZWlZoMWFUS202NXBhTkZYZGdrekpKM2FHcEpMWVotQnl3S3BlYTlQcG10ZThkdkRielBjWGthZU1CVnNyQQ?oc=5",
+          "source": "香港商报",
+          "published_hkt": "07/01 12:48",
           "related": []
         }
       ]
@@ -140,29 +136,27 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-30 23:32 HKT",
+      "updated_at": "2026-07-01 18:00 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數- 🏮0630盤後筆記🏮 - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YS0hWRXBYbTN4MmlUaTFOTXUzN0VocnhmX3hScE13SlNlRGtXMG1QeXFSakNWaVRMUkMwR1lrQi1WWUFQaHlIQ2NmNnpZRzI4ci04OHlkTW4?oc=5",
-          "source": "CMoney",
-          "published_hkt": "06/30 21:17",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "美指期走高、台指期漲千點 美股三大指數上半年寫近年最佳",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01UHFZdzJWMlo5c2o5dkdVU3JlY004SVJkQjdhTFRlakV1Mk5ETG11bEEyLWZLckJUalh6cnhRQlpiV0o2aDZIaEJRVGVockd5bDZ1ekstMkhNWmhBSmRZ0gFkQVVfeXFMUFV0WE9VSjJJUmppbHRDWGZSWXBaeVNVNW5mVWdlY182Zms2NmdpcTlYaTEwX29ZMzUxbE5xRER2Ym0zbVh5WXJ1NzJDbkZGSGFqQVZ4RWdVbUNhV1N2ajRNS18wYg?oc=5",
-          "source": "自由財經",
-          "published_hkt": "06/30 20:45",
+          "title": "【台股115/7/2(四)盤前分析】",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdnlkdnIwanVYSENFLWRxQmh6ZHFXSzhkLW1wYUpwLTM3bWlNOXFYUmlCMlFtZ0E1bDJiZXZYclBwSjZvMFhtNjg0Nk9KZkNSX1ctcU54TUcyek9qX3RMU2JGUHQtQ1NvUEZWZmg1ZV9fVTNya0x6SG9rcDZibmMtZWVNbDYyVURDRUZ5Z2tyOWFQRW91eDNUZkxDS1RFbDdmWm9jRUdaMEVCR3dtRTB5cDAxMm1QQVZv?oc=5",
+          "source": "yesmedia.com.tw",
+          "published_hkt": "07/01 15:57",
           "related": []
         },
         {
-          "title": "光電股紅光熠熠！「這檔玻璃基板」攻頂重返百元、國碩、光鼎連飆漲停 「這5檔」也都亮紅燈",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uX0gwU3RKcEhVbDVFc28tVUdPU0JWcVRtQUFqOERVQ1lmT0U4cVgxZE9TTklGbXJSZTMwS2ZqRGJmdl9SMk0zWlgxTQ?oc=5",
-          "source": "FTNN 新聞網",
-          "published_hkt": "06/30 20:45",
+          "title": "00685L分割日、分割價出爐！30.5萬「1拆24」變1.2萬一定漲？股海老牛劃4重點！停牌到何時日程先看",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSGswcUQ0Q2laaGo2SW5nVTFWcnpUWUVFV0dkeG53MGp1RldEYnNOczZ5UUlNQnBDanpKVFBHNHRCWnB4X0xjMnNtZmhHSG15ZE9WcENRR0x5MklqaksxOXNPSmNOM0xBdkU2clI1WWtIeldsTzBlWjNSUDE2enM5NA?oc=5",
+          "source": "今周刊",
+          "published_hkt": "07/01 15:51",
+          "related": []
+        },
+        {
+          "title": "《台股盤後》收漲893點、日K連三紅，重返47K",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMjBRcFFPcWMzcTB0bS1pSHV6NGhGc0FmVXFqWkc5ODBSTnpHUU5TdmJTVERyXzYzVUpiX1M2SDlwOGtpZ2w0RGRiMGlsa3ppZ3Q0SzZDWTkxY0k2dUYzVmp6NXY0c2VyQ0labkEtTWZkSjdZQ01hbWhGTVZtWmpXUENRYy1PQ1BkU0UxUTV0MHNMUQ?oc=5",
+          "source": "MoneyDJ",
+          "published_hkt": "07/01 15:44",
           "related": []
         }
       ]
@@ -191,59 +185,67 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-06-30 23:32 HKT",
+      "updated_at": "2026-07-01 18:00 HKT",
       "news": [
         {
-          "title": "日圓失守162貶至近40年新低 日本政府：必要時將出手穩匯",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1dDFnR3JDRUYzNGlzVmh5LVBmOXF6ZDdkSHdiaWxpb19VUmlLSEZXejN3NDJJOXJhU1NYNGxmOVNPSExCeG5Ld3lwMA?oc=5",
-          "source": "三立新聞網SETN.com",
-          "published_hkt": "06/30 19:28",
-          "related": []
-        },
-        {
-          "title": "《日股》日經收漲0.86% 重返7萬點大關",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRVJlMmY2c3VMY3Z6ZFRPbm52OExHUWNJcWdaLTRkZTZwTmVJNVlRZzN0OW8xNlVfNlJoeThFWG5FQmxPMmZTR0VfZFZvS3kxS1JweGV1YzVzdzktZnVrTDZJc0ZQTVkxZERQdlcwYnJCa3RfelF0UnFpM2FiaEg1dzBDN1RYUnJhMzk0YXhoWEk3UQ?oc=5",
-          "source": "台視全球資訊網",
-          "published_hkt": "06/30 18:09",
+          "title": "《日股》日經指數收高0.59% 2利空壓縮漲勢- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VakxqMUtDUlFESHFndmc0QWtSN0pXd2NIM0VQaV8yYVFIUkZqT19sanpsRDhFdmtIWkVpQ2p3MGd0VWp1M0k4dThjVlk4WXBjc2tOc1VNYmc1RS1JOGZz?oc=5",
+          "source": "工商時報",
+          "published_hkt": "07/01 15:46",
           "related": [
             "^N225"
           ]
         },
         {
-          "title": "Fed轉鷹美元走強油價波動壓抑匯價　日圓貶至40年新低",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZk0yeGxLMmpFUVVKYmM5SUtoU1pRdlg2aExpSl9MbDZSZkdhdmVjcTk2MzhxbkRTMjhHZ19Tc29pU3J5NDF0clBDVmN1b1oxNG44V09fdWpFYmFuNGVwUF9zTHRKcFp5eU1FRFZuSnZ6RWg0TjhxX2R6ZHVjV1d3RVRzMk5ITkdXU1dOTXNkZEzSAV9BVV95cUxQUHBNV1R0VGN1MDl6QW9URlo3THJfUTZncHA0WXpHUjNSR0REQmg3aVpNeGR1Z3hiaWZCQTA0RlhYUU5mMzFuWVFzMDBsVDVRckx4b1hpbHhLbVlPcUxGSQ?oc=5",
-          "source": "經濟日報",
-          "published_hkt": "06/30 16:37",
-          "related": []
+          "title": "日韓股市分化：日經225微漲，三星暴跌近6%帶崩韓股，SK海力士、鎧俠無一倖免",
+          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQaVRlbWFGbnlIcHgyWm14Y2VkeTZrSFV0RU96WUtGNm9jVUtQdkxTNzZhcEhaNkJ3SVZ3R0tlOHNoMnZzbmphWXpoX1dUbFJoZVg2bk51SU5pY0czWjdudlFDSHJrV3B3a3FIODM3TnhrVzdFS2R3cmVGRDNXNE1DWllUNWl1RVF4T3N4REJiTEJweDFUMmVKd09lOGVrRnB6WXAxYTJvTU9iSVJ6bTBfVlAwTWVObHM2c0R4UXpvb2xoMDBmV3EzSVNTUmtxS3lYMlVIZXQ0a09mTWNqeVNRRnFYcGxBajF1ZXhiekZlSjN0cVViVU1IcDByc2JjSUwtLWtjOGRPUmtDd1dPcEpVaEs5eHJhY1B5bU5WQ1NEeHdZRlpqcXl1aW1wSDZFa0RfRzh5WkpVUUo2cWFuTmVZYi1MZFBoUzhTNW83WFpNRlRNNGc?oc=5",
+          "source": "HK MoneyClub",
+          "published_hkt": "07/01 15:37",
+          "related": [
+            "^N225"
+          ]
+        },
+        {
+          "title": "日韓股市分化：日經225微漲，三星暴跌近6%帶崩韓股，SK海力士、鎧俠無一倖免",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVWtZWXo4R21MdG1ZdFgtY2lfQUNUS2Nhbkl5WWYxYWUwLXh3Z3ZxQkY3N0EzZ0pzb21WOUhZWnV6aGx3bEpidWxabEJjejlvWVd5Rm5mYkhMLVVNVWY2TFpvb1pSYTlhU2NkdEJGWUwxWElnaTFWeTFfYWRmOHVWLVQzazBqT2dvbzdaNURvM3ktVEkwOFozMVBvd0VrSDJuWU1ob0NJVUJodlNscldGZVlTRTc2T3drZGxpbGpnZVVwZFBZQk5SNXBxSQ?oc=5",
+          "source": "TradingKey",
+          "published_hkt": "07/01 15:03",
+          "related": [
+            "^N225"
+          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-07-01 13:27 HKT",
+    "updated_at": "2026-07-01 18:00 HKT",
     "news": [
       {
-        "title": "比特幣暴跌失守 5.82 萬美元，單日爆倉 2.49 億「多頭遭血洗」",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVlGeDZxM1F2YlNYVHFTS1Q5c3lGdmtIMGxWTHNEVWhXSEFlcnllcC01blVVMHJLUnUxNVVNVHlJVmtSNy1GQUU5djF0UlVfY1lGVXRTVkwzRlo1bmVUN0JhUC1FZ0xKeGhSRFJlRXR3LV9nTWJQUWdqNVN4X0tsWHdMZThXc21fZUY2cEwwMHZTYlhJTmxMTDJXQURRMXZhY01zVHprcw?oc=5",
+        "title": "花旗二度下修比特幣目標價至 8.2 萬鎂：ETF 淨流入假設歸零，資金轉進 AI",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbmtGanZCV25TdGtfYlk4UnVxenp5SWpKSmlPSmZQZDZyYWN5cDg5dzRYbnlwR3B4MmduSlBQaUswTnNTU1Frb1VBd3BsaVpmTF9KNWNWY2xYR1hJSVQ3Z2VjTkU4UGsxcDRqZl9Cd1ZNRkR5dHB6U1o3d2MyWWdGd2k0QlNDSHpGd0I3ZjBBM2c?oc=5",
         "source": "動區動趨",
-        "published_hkt": "07/01 09:22",
+        "published_hkt": "07/01 17:01",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "如何出售 DigitalOcean（rDOCN）| 出售 DigitalOcean",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNFY1akxWMTdNY0FvTFNLOEtrRkU2T3F1Nmswc2NtN1M1eDVSX20zV1U4aUxwRVN3Y2p2elFaU3dRa2hMdV9WeXFma1J5LWowY0JkODRCR0tIN29XZWxta1JvZ2FaTV80Q0thcUF0RUVKRnpONmxVV01teTY4QkUtSGx3WQ?oc=5",
-        "source": "Bitget",
-        "published_hkt": "07/01 05:02",
-        "related": []
+        "title": "花旗下调比特币和以太坊价格预期，因现货ETF资金持续净流出",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UT1JTd1NFVHdJYWRPemc2a01jTzBVV2h6TFJ5OVNWd0pZOHA2a0QyYTgxUzNVeE40YzJSM1J5bU5ETXdxQ2RsOHczb1Z1SVNyNnJhdU0tYjFmdWVTTzNaUDBuaEh6UQ?oc=5",
+        "source": "TradingView",
+        "published_hkt": "07/01 16:36",
+        "related": [
+          "ETH"
+        ]
       },
       {
-        "title": "如何出售 Canadian Solar（rCSIQ）| 出售 Canadian Solar",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc0RfUzRIaUUzSGRvNFBUdmVkRnNCSGxzaExYM0ZGU1hRdTRGbXZuV1hoYWJrWThpR2Vac2pfWmZHNmZhbFJqdlNtQ0JmYnlXd2VvempDa2RZN0dFTXByZjU2bzVSUExPUjFHUURpdGxwR2E4TTdnUU5ZWG10Vl9VejlFUFh2QQ?oc=5",
+        "title": "花旗將未來 12 個月的比特coin目標價下調至 8.2 萬美元，以太坊下調至 2240 美元",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1laEI0UzdKUmRaQks1QnlMeXhObGpFbkIxcW02aVpmYnB5cmZxcXJ4eUtVRE51b0hoSVFpc1BGZ19MVDFtNXBpWXJlVEJnTE10alVpTU9rSkFYaDdSZWMzaHZxbmNBanotaDlZ0gFrQVVfeXFMTWVoQjRTN0pSZFpCSzVCeUx5eE5sakVuQjFxbTZpWmZicHlyZnFxcnh5S1VETnVvSGhJUWlzUEZnX0xUMW01cGlZcmVUQmdMTXRqVWlNT2tKQVhoN1JlYzNodnFuY0Fqei1oOVk?oc=5",
         "source": "Bitget",
-        "published_hkt": "07/01 03:32",
-        "related": []
+        "published_hkt": "07/01 16:28",
+        "related": [
+          "ETH"
+        ]
       }
     ]
   }

@@ -85,7 +85,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-01 18:36 HKT",
+      "updated_at": "2026-07-01 19:36 HKT",
       "news": [
         {
           "title": "香港股市、港股行情 | 鉅亨網",
@@ -103,9 +103,9 @@
         },
         {
           "title": "港股科技指數6月30日運行報告-香港商報",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UMHVPWjlteWVzU0puNUFQczhOd0ZkTmRtemNOQlJjR2g5MlhULWR5elROM0xZWlZoMWFUS202NXBhTkZYZGdrekpKM2FHcEpMWVotQnl3S3BlYTlQcG10ZThkdkRielBjWGthZU1CVnNyQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OcEc4QUlla1dVMGNrZFZVblNZQUV5U0x6eUlBSFVpWEF3RGE4OXJ0V3pxNGowMFhhV2liVDYyMy04bnJrd01oNzRET1U1S1FnT3RzX3B1SkFEOFV0c0NjNVVYYUNpNXYwdEJQNEE4X3hhdXY4cDA4RHNoSQ?oc=5",
           "source": "香港商报",
-          "published_hkt": "07/01 12:48",
+          "published_hkt": "07/01 12:37",
           "related": []
         }
       ]
@@ -136,8 +136,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-01 18:36 HKT",
+      "updated_at": "2026-07-01 19:36 HKT",
       "news": [
+        {
+          "title": "00685L分割日、分割價出爐！30.5萬「1拆24」變1.2萬一定漲？股海老牛劃4重點！停牌到何時日程先看",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSGswcUQ0Q2laaGo2SW5nVTFWcnpUWUVFV0dkeG53MGp1RldEYnNOczZ5UUlNQnBDanpKVFBHNHRCWnB4X0xjMnNtZmhHSG15ZE9WcENRR0x5MklqaksxOXNPSmNOM0xBdkU2clI1WWtIeldsTzBlWjNSUDE2enM5NA?oc=5",
+          "source": "今周刊",
+          "published_hkt": "07/01 18:55",
+          "related": []
+        },
         {
           "title": "大盤溫和放量「以盤代跌」，1.3兆巨量卻暗藏「拉積盤」隱憂？",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jemFxNTNuTzYwNmZPakpNekd5ZEpZd3NQVGdZQkxYZjB1c3d3bXZRWHZsdkt6LUtrLWJIQUZiRjZJZ2xnS0dKMVNPLXZPOE0?oc=5",
@@ -150,13 +157,6 @@
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DTlZSM0JZVjBJRXc5Si1RNTc0TzRpSDAtcVE1Wmoyblk4Ylo5M0J0MWlYSkJXS05oemd0azJhaTJkbWVRQ3pTSDduQQ?oc=5",
           "source": "三立新聞網SETN.com",
           "published_hkt": "07/01 18:19",
-          "related": []
-        },
-        {
-          "title": "【台股115/7/2(四)盤前分析】",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdnlkdnIwanVYSENFLWRxQmh6ZHFXSzhkLW1wYUpwLTM3bWlNOXFYUmlCMlFtZ0E1bDJiZXZYclBwSjZvMFhtNjg0Nk9KZkNSX1ctcU54TUcyek9qX3RMU2JGUHQtQ1NvUEZWZmg1ZV9fVTNya0x6SG9rcDZibmMtZWVNbDYyVURDRUZ5Z2tyOWFQRW91eDNUZkxDS1RFbDdmWm9jRUdaMEVCR3dtRTB5cDAxMm1QQVZv?oc=5",
-          "source": "yesmedia.com.tw",
-          "published_hkt": "07/01 15:57",
           "related": []
         }
       ]
@@ -185,7 +185,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-01 18:36 HKT",
+      "updated_at": "2026-07-01 19:36 HKT",
       "news": [
         {
           "title": "《日股》科技股撐盤，日經收漲0.59%",
@@ -214,8 +214,18 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-01 18:36 HKT",
+    "updated_at": "2026-07-01 19:36 HKT",
     "news": [
+      {
+        "title": "幣圈再添寒意！比特幣跌破6萬美元之後 花旗大砍比特幣與以太坊目標價",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd2VSTllMaW1CdE5QRk15a25KdlFDNE5qWDV5ODBZWU9adjVrTmxMbXI5VUkyc1lMUXQ0UG5HcGdrSFBYWjJTMGlrcjFCVlQxbUhaU0tUT1dqZVAxVWlsdFgtRXQ5cUNhX1g0cUNEX1pfQUJFZEVZSlNLX0k1Y2F3OFNfVkJrSGdranAyc3dzRC1KYkl3T1R4Z3R2US1KVjBKenhDREw1cEY?oc=5",
+        "source": "富途牛牛",
+        "published_hkt": "07/01 19:29",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
       {
         "title": "花旗二度下修比特幣目標價至 8.2 萬鎂：ETF 淨流入假設歸零，資金轉進 AI",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbmtGanZCV25TdGtfYlk4UnVxenp5SWpKSmlPSmZQZDZyYWN5cDg5dzRYbnlwR3B4MmduSlBQaUswTnNTU1Frb1VBd3BsaVpmTF9KNWNWY2xYR1hJSVQ3Z2VjTkU4UGsxcDRqZl9Cd1ZNRkR5dHB6U1o3d2MyWWdGd2k0QlNDSHpGd0I3ZjBBM2c?oc=5",
@@ -230,15 +240,6 @@
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UT1JTd1NFVHdJYWRPemc2a01jTzBVV2h6TFJ5OVNWd0pZOHA2a0QyYTgxUzNVeE40YzJSM1J5bU5ETXdxQ2RsOHczb1Z1SVNyNnJhdU0tYjFmdWVTTzNaUDBuaEh6UQ?oc=5",
         "source": "TradingView",
         "published_hkt": "07/01 16:36",
-        "related": [
-          "ETH"
-        ]
-      },
-      {
-        "title": "花旗將未來 12 個月的比特coin目標價下調至 8.2 萬美元，以太坊下調至 2240 美元",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1laEI0UzdKUmRaQks1QnlMeXhObGpFbkIxcW02aVpmYnB5cmZxcXJ4eUtVRE51b0hoSVFpc1BGZ19MVDFtNXBpWXJlVEJnTE10alVpTU9rSkFYaDdSZWMzaHZxbmNBanotaDlZ0gFrQVVfeXFMTWVoQjRTN0pSZFpCSzVCeUx5eE5sakVuQjFxbTZpWmZicHlyZnFxcnh5S1VETnVvSGhJUWlzUEZnX0xUMW01cGlZcmVUQmdMTXRqVWlNT2tKQVhoN1JlYzNodnFuY0Fqei1oOVk?oc=5",
-        "source": "Bitget",
-        "published_hkt": "07/01 16:28",
         "related": [
           "ETH"
         ]

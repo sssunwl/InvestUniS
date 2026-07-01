@@ -220,15 +220,8 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-01 13:18 HKT",
+    "updated_at": "2026-07-01 13:27 HKT",
     "news": [
-      {
-        "title": "靠加密貨幣一年進帳逾 10 億美元！川普利益衝突爭議再起",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBrcF83RmZYbDFndWJKTGlBenhhRHExcFhZVGh3Zm81Rnowd0JmNm9DUnB5SEdOaHhkdnotYkRkOVVhMXQ2MFFkTTV5aw?oc=5",
-        "source": "cnyes.com",
-        "published_hkt": "07/01 12:00",
-        "related": []
-      },
       {
         "title": "比特幣暴跌失守 5.82 萬美元，單日爆倉 2.49 億「多頭遭血洗」",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVlGeDZxM1F2YlNYVHFTS1Q5c3lGdmtIMGxWTHNEVWhXSEFlcnllcC01blVVMHJLUnUxNVVNVHlJVmtSNy1GQUU5djF0UlVfY1lGVXRTVkwzRlo1bmVUN0JhUC1FZ0xKeGhSRFJlRXR3LV9nTWJQUWdqNVN4X0tsWHdMZThXc21fZUY2cEwwMHZTYlhJTmxMTDJXQURRMXZhY01zVHprcw?oc=5",
@@ -239,13 +232,18 @@
         ]
       },
       {
-        "title": "#特朗普披露超6亿美元加密收入 社群見解與市場情緒 | 幣安廣場",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNYk9RYzFJczNCMzU2aVMxWHFBNnBnTFo4dnZZRUxqN01aaEtDdWNvaW9kYW9yajRCNGhTU1NxcGdUd2ZSNGltZXg5a1BsbENNckFjbEliWWN3WjNlSUt2MnBOYk1GOVBkd0RmNTBTSWF3SmNCUmM0dWI5RXdqcjh1MGFmWmN5X0dhWHV2Q3NEREFMYzVHZ2RtcHB4cW1keU84VmpiMmRZZnNMTDhmOHZVM0dWaWozNWdzQmdfbHJOakk4bGhsdHlHRzFYNXZOdTgtVG5hYzJqZkMyQlVGODFEbUlpSDg3RlhiY2xZTzZWSUhZT0pHY3c?oc=5",
-        "source": "Binance",
-        "published_hkt": "07/01 09:08",
-        "related": [
-          "BNB"
-        ]
+        "title": "如何出售 DigitalOcean（rDOCN）| 出售 DigitalOcean",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNFY1akxWMTdNY0FvTFNLOEtrRkU2T3F1Nmswc2NtN1M1eDVSX20zV1U4aUxwRVN3Y2p2elFaU3dRa2hMdV9WeXFma1J5LWowY0JkODRCR0tIN29XZWxta1JvZ2FaTV80Q0thcUF0RUVKRnpONmxVV01teTY4QkUtSGx3WQ?oc=5",
+        "source": "Bitget",
+        "published_hkt": "07/01 05:02",
+        "related": []
+      },
+      {
+        "title": "如何出售 Canadian Solar（rCSIQ）| 出售 Canadian Solar",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc0RfUzRIaUUzSGRvNFBUdmVkRnNCSGxzaExYM0ZGU1hRdTRGbXZuV1hoYWJrWThpR2Vac2pfWmZHNmZhbFJqdlNtQ0JmYnlXd2VvempDa2RZN0dFTXByZjU2bzVSUExPUjFHUURpdGxwR2E4TTdnUU5ZWG10Vl9VejlFUFh2QQ?oc=5",
+        "source": "Bitget",
+        "published_hkt": "07/01 03:32",
+        "related": []
       }
     ]
   }

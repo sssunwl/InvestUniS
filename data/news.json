@@ -83,32 +83,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-02 17:50 HKT",
+      "updated_at": "2026-07-02 19:04 HKT",
       "news": [
+        {
+          "title": "午市前瞻｜恒指反彈惟需守穩23200，科企出售剩餘AI算力芯片股借勢回",
+          "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPbUFwVXFiMGIxcXlrVnAzYk9HaThSNDNhdFJtMnk1LVA5S0xUMmxOY2gxMHRPdDFfTllLU2hqYmJIZjBoT05NMjNNTXhza3hpaHBMaFp1VmpRMmd5Yk1KX2t4dnZxSnVSY2hETWI5TnlPRldaWVVzYVNjbmZBTmFsVVFMLUp2dmR0b09ObENaT2hmMUUyNmN1T0hlVGlGQV9VOWNEazd5ZTBIeUpoNE9QOWd5X25kSDZZVnZxZ0RfZWk2YVRmN08wZzJ3dEtxdldKZHF0dzFrZjB6c3R2ckF0MEVqWnZVNTZ3dmFPY1Nhb05yR1JqbjBiZjBjYTFvMWo4NV9NMElzM1JMeFhXN2s2UUxTa2swcmQ0ZGthNGhGWFJXYndtM2d6RFI5XzRobXBGSkdoZC1RdEs5ak1UN2lOcGpQdnZtcFg2eDJDejRjYndrbzR2T1UweDJ1d0YwNFlNUkpqVWF6OVFnSnJyRG52NGtZMVVPR1pHLU0xTzk1M194WlAwNFphZXdnVV9iRFhfVzZfQ1k0LVUxQWFLUjFWbTJlaU80b3hNbVBN?oc=5",
+          "source": "香港經濟日報HKET",
+          "published_hkt": "07/02 18:24",
+          "related": [
+            "^HSI"
+          ]
+        },
+        {
+          "title": "HSI港股7月能否「翻」到最後？",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcXdGNlQ3dFgyRXNvaWMxU2N5UG8yOXpJNzZaaTcybVJFY0Vzd2g0QjRxOWx2ZlhhTGdVYXFoOGpuRjdyRHhxSG55S0VORS0wVEUtSDE3ZzN5aFdVdEM5LTctWl9EWWFZTnBKaGttMVNxV2UtV0VIbURKVXNiSm1PanRpQS01TVMweE9yYjh6cDBsZ3RQWFpiVjlLcEpwajZlMFNkR1VBNlVKUk5kWXJ6QUx3bzJoUi12UTMxVU5YX2F0a2pxU0lWU3EtQmZVMWI3UWpEeVg1MFRzX25EQWJLRjhzVEJHbEE?oc=5",
+          "source": "香港經濟日報HKET",
+          "published_hkt": "07/02 17:30",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "恒生指數公司：網易已獲納入港股通並符合快速納入規則要求，下周五收市後納入五指數",
           "url": "https://news.google.com/rss/articles/CBMipgRBVV95cUxOYjhCODlkOXBwSmJBNEZkYTBuSU1fdkdsV2toa1dPb1BEWm1uTFdBcEJtcHlNb214NTMtZ0M2ekZJMG04TWx5QnBhcTBRcmZ6QzVhWkY4cHNPUmg5eGZJbnhraWNwR3B3WDVJc3pXeVhxTHJmU1BydU45clV5dnJlaXVJMkd6WnJYcEhURldJSEhuOVBIM0hzLVExNkpNZnNyY1hEMVA0cVo3UzRLb19NVUdsaU0wRlAzR2JGQjBQa1RBVlJ4SDYtNDJsaHVyUWxhYUpnZEcyalM4b0laWlFndDJHVUpJSm9jZW9IeDVOVGYyeWVrZFlYVmpsUE9pRWNVaGtkUDEwNGxLMWFXamdNdlZnYXBFeEVpNzQ3VXd6SjZKWk50ZUxMVVNtSHZEajVhRzlRbGloTWFZZW5TSVBhczVicDZvckVoVnVwU2lOVTBjMTk3Q2V0YzhXbFg5RE5TUUNYdDZtNndEaU5HZUEySHFxRnpwWThNZ19WRm0td1dOU0lncjZZX1EyLXloMDRZY09DT1ZXNk8yTnlLcWR2REs3aVlabThFWWhhM1c1cFJMSy1oVEZDUEpJbFNDMG9DeWV0LWZudE1SNE1JMW5HNzdNVzFaSjN1Mkc3Snd2V3Bnd2thMUQyZndfNC1oX28zMmVtbk9NbkhoX2VzMWlmZGZ3aGw4Qmk0UHBJa0YzRFBuYU1HbTY2WndIOGZZZldORWlienVB?oc=5",
           "source": "香港經濟日報HKET",
           "published_hkt": "07/02 17:23",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "【港股收市】恒指7月開局升174點 Meta擬賣算力AI、晶片股慘遭血洗",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZVzY3M2pnVFUtaUU2RGFHdlBwVk42T0h6ejF0a3lFUThBSFRRdFRDakZjZFpfQ0l1UFdibzNHemtaS00wTlVFZHl6UXBHckpDLTFSZ2FiLTZfbEtzeXRHVmJzQTg5Wm8?oc=5",
-          "source": "Now 新聞",
-          "published_hkt": "07/02 17:12",
-          "related": [
-            "META",
-            "^HSI"
-          ]
-        },
-        {
-          "title": "港股收評：冰火兩重天！恒指收升0.76%，半導體光通訊暴跌、汽車黃金豬肉內房集體強勢作者格隆匯",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83YWV4eUlFTk5YSXRkOHUzREx6SS1IWEZ2dHF3WXlJQmF4RnpJZ1RxdUFwZUhibTEzclpzakpGYUpmSnQ0aFl1NERWbTVnMV96OTNXS3ZDUExmQmhSbVkyYmNpdnFGZlJqTEZxV2Zld04?oc=5",
-          "source": "Investing.com 香港 - 股市報價& 財經新聞",
-          "published_hkt": "07/02 16:59",
           "related": [
             "^HSI"
           ]
@@ -141,27 +140,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-02 17:50 HKT",
+      "updated_at": "2026-07-02 19:04 HKT",
       "news": [
         {
-          "title": "台股震盪928點 外資倒貨890億 網驚：大媽集體接刀",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vRFVpWUhHdzFvcXNLcVAxYWJSZG5XbmJQZzNvN0hsQ2dET3JMV3VnREtUWldmU1I3b19IZkFieUdDVHRwSG1SQ1hqd1BUVFBOdkdPVmdB?oc=5",
-          "source": "東森電視",
-          "published_hkt": "07/02 16:21",
+          "title": "台股買盤大縮手！風暴前的寧靜，抓住這訊號，小資族也能翻身！",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lb3ZfSi01UFVzbm5TOXhSMnRNYmRlenV5MlFlSVYzS25MbzBSR01Iei0ta0NJRmpONkhuVWpyZzJmX3ZsLXdCbGdsUnVCcHVlcDZoQUxZOA?oc=5",
+          "source": "玩股網",
+          "published_hkt": "07/02 17:28",
           "related": []
         },
         {
-          "title": "00685L分割日、分割價出爐！30.5萬「1拆24」變1.2萬一定漲？股海老牛劃4重點！停牌到何時日程先看",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSGswcUQ0Q2laaGo2SW5nVTFWcnpUWUVFV0dkeG53MGp1RldEYnNOczZ5UUlNQnBDanpKVFBHNHRCWnB4X0xjMnNtZmhHSG15ZE9WcENRR0x5MklqaksxOXNPSmNOM0xBdkU2clI1WWtIeldsTzBlWjNSUDE2enM5NA?oc=5",
-          "source": "今周刊",
-          "published_hkt": "07/02 16:05",
-          "related": []
+          "title": "《台股重要指標（3-1）》加權指數 6日ＲＳＩ為59.48",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR05WbElVYnhEal9VM2wwdm5zei1Eem5uTmt0bUNkMDdWcUZwRlBfamthMDN0Q1BUMTdtZkhnbFFRYjEteUtWZlNKY0FBYmJ4OF8wSndseU5wbXdOQldQUUVDVWFNSXc2SDY2OHNiOHF2REdFZ2lZdC1HS3V6dGluRVdEQ3d2QXh1?oc=5",
+          "source": "富聯網",
+          "published_hkt": "07/02 16:56",
+          "related": [
+            "^TWII"
+          ]
         },
         {
-          "title": "【台股115/7/2(四)盤前分析】",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS1hsaUJPRnh0bm1SWjhpQzNRNFZPQkMxT0FESEtVSEtWZS0zdnFoQUhqN1JxYy1JS090VWp4UmxIOHFOcHBYU2RhaEUydTdOdTFlUlR4eEo2RVEzNXlQZDk3bDlIWkFmQ2FfQ1JBbmhtcGl6NHJfVWUzNjJZU3ZYUHBPdjAzeGRqclItQ0VqMjZJQ2JFZGc3STg5ZU53UFJzSkNEQnVEcTJRU0NUMUY4dHJsdERvVkRyZXVYRDBmcjdqZExkcXRtQmh5VlJ3dw?oc=5",
-          "source": "台灣好新聞",
-          "published_hkt": "07/02 16:04",
+          "title": "台股狂飆「國巨」V拉漲停！謝金河看好「另一支千金股」 | 民視新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nQWlkMVBIS2dkczVmRkVQMlFrX0FCQnJvMUdmekJkaTVnYWROWU40MmltWHlCc1ZzTjlDQ25ua2lRQWZrSXhGanhWM2hwbnlJTERHTkRn?oc=5",
+          "source": "LINE TODAY",
+          "published_hkt": "07/02 16:49",
           "related": []
         }
       ]
@@ -190,35 +191,44 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-02 17:50 HKT",
+      "updated_at": "2026-07-02 19:04 HKT",
       "news": [
+        {
+          "title": "《日股》半導體回檔，日經重挫逾1700點、跌2.47%",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb1hGMDRBcWRCd0Y5ZTJjTnFrc0FDanNCUDZDM2FxbUJrTk5yX2kzTVpseW96dlJQYnBPR3hlS0JfcTlUMHFlaGtUaTB0S2x6WkpDWmNXeF9NX0ZfLTZZQjdnLTVOQUFTODV0TjJTWnY5QkhQeC04b1VFOUJUSURoeGxnSC1YN2hZZWhaNF94enpwUQ?oc=5",
+          "source": "台視全球資訊網",
+          "published_hkt": "07/02 18:07",
+          "related": [
+            "^N225"
+          ]
+        },
+        {
+          "title": "AI超級牛市邁向“壓力測試”階段! 日韓股匯極端背離之際創紀錄槓桿將AI半導體推向股市風暴眼作者智通財經",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SZWU0cWRPRl9YOEdvRHlhM0FaUm0xal9yWGh6MDh2T2Q1cUVVZmtlQWEzMVZtdmd2a2hwbmxuSTA2X1RCUl9EamdqNlU5WGd2UVFyemNDeWpmd0ZvaWdiQ0RmSnlqWmtuU0UyMTJ6TjI?oc=5",
+          "source": "Investing.com 香港 - 股市報價& 財經新聞",
+          "published_hkt": "07/02 16:48",
+          "related": []
+        },
         {
           "title": "快訊/半導體跳水！亞洲兩大股市暴跌了",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15WExlREdEc3Nqb0t5VnJpZ2l2VXZHWmxsYzlpRFNld21EaWo3MmF3NGk4NTQtMTA0b3d0eWFRaTZNMnNTX083UDZJTlhVOFVsT2Zj?oc=5",
           "source": "中天新聞網",
           "published_hkt": "07/02 16:32",
           "related": []
-        },
-        {
-          "title": "外資狂提款！美半導體急殺，台日韓股重挫-財經焦點情報站",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPay1uU0R5dUd0Tlo4NmRsbUd3OWh6dElIRU9CdUhQT0RqNm4tOXZLZ20tNllncnY5aFVBZzhzOGNGSUk0QWxLbjNfaGJJRmVuNEdvdHRWRGh1ck5ERy1lSTY4eW1ycVY1eTExb002WjRFTlNNakt3YnNKTU9uMmNJX3hn?oc=5",
-          "source": "CMoney投資網誌",
-          "published_hkt": "07/02 16:30",
-          "related": []
-        },
-        {
-          "title": "市場憂慮AI算力過剩 亞太主要股市劇烈動盪",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81MjRNX2xtM3QxdDctZ08wYjVUNF9oVkhCSVRIUC1fSDI0bEk0THJNcUxFdnVWck10TnJRVDdNWUktVnRNT1hCNDVQQk9sQTBhd3p5RHVDUEoyUGJ6VEYwa2NqSEdUNUxkQTAtaEJmWnAwdw?oc=5",
-          "source": "香港商报",
-          "published_hkt": "07/02 16:27",
-          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-07-02 17:50 HKT",
+    "updated_at": "2026-07-02 19:04 HKT",
     "news": [
+      {
+        "title": "Hyperliquid 在 ETF 流入放緩和零售需求減弱的背景下接近關鍵分水嶺水平",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPU191bzZBNkFnVzdlUXh3b1ZCRVlPT08zYjVOWEJGaWhMRkRaV0JXOVJTa0NkNmYySmQtOGt2MS1nUEFsQWtHaTBseXVKc0J3TS0tdXNyMmhzQ2ZNOXp4cXh2SXloZHhMNDJ5VjFxaFVOejE1eVozd0ZXUzBicDRaS3RnWHd4aWt0WVRRNEtGdWdQVENaWVhoR2lhTFJkOHBHMUpPN0NCZV9VYUxpZUpwd2xab0pMTkU0ZDRnTWtGd3lxSVFMSmZDOFBSYzBkenhRS3ZyUzFxZXFvT25MZlNGbVRkdi12WjJfZy1yNjIzb2RONTFCYURweV96by0wMU9aUjZnVNIBhAJBVV95cUxPU191bzZBNkFnVzdlUXh3b1ZCRVlPT08zYjVOWEJGaWhMRkRaV0JXOVJTa0NkNmYySmQtOGt2MS1nUEFsQWtHaTBseXVKc0J3TS0tdXNyMmhzQ2ZNOXp4cXh2SXloZHhMNDJ5VjFxaFVOejE1eVozd0ZXUzBicDRaS3RnWHd4aWt0WVRRNEtGdWdQVENaWVhoR2lhTFJkOHBHMUpPN0NCZV9VYUxpZUpwd2xab0pMTkU0ZDRnTWtGd3lxSVFMSmZDOFBSYzBkenhRS3ZyUzFxZXFvT25MZlNGbVRkdi12WjJfZy1yNjIzb2RONTFCYURweV96by0wMU9aUjZnVA?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "07/02 15:50",
+        "related": []
+      },
       {
         "title": "加密貨幣價格預測：Zcash、瑞波幣和Jupiter——亞洲盤點 7月2日",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRWh2YU11dnYwc3VOaS1ITkk3bzc5M0I4cDN2dDBnNFEwbHpFa21sNDNuNEZKNVZwTXp4TGxGYi1nbXVQVTZyMkhoYVdvX0tCWHlYWkV6d1FsQzN1M0NzNEhwM0F0RER5ZHRpeWZNa3RGZFFzUVItdW9WckVuN0FRbzVfbWJuMU82dTN2dEU3T0dHblpkNnpTN0Y4NENmU2dKNUhIc1Z6Y2haTDI2NmZiNUhHMFJXd3lHUWc4Z0JNWHhUeVlfeTNwMnB5SDJhXzg4RVQ4M3ZhMWE5Z9IB2gFBVV95cUxNRWh2YU11dnYwc3VOaS1ITkk3bzc5M0I4cDN2dDBnNFEwbHpFa21sNDNuNEZKNVZwTXp4TGxGYi1nbXVQVTZyMkhoYVdvX0tCWHlYWkV6d1FsQzN1M0NzNEhwM0F0RER5ZHRpeWZNa3RGZFFzUVItdW9WckVuN0FRbzVfbWJuMU82dTN2dEU3T0dHblpkNnpTN0Y4NENmU2dKNUhIc1Z6Y2haTDI2NmZiNUhHMFJXd3lHUWc4Z0JNWHhUeVlfeTNwMnB5SDJhXzg4RVQ4M3ZhMWE5Zw?oc=5",
@@ -235,13 +245,6 @@
           "BTC",
           "ETH"
         ]
-      },
-      {
-        "title": "Mexico vs England | 預測市場",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JMWlWZFI1Y3k5VGJqWk55LXl0ZlMxb0hNWmJpTkg2cTVJR19FZ1NUZ2U3cnk1dERJaWJzZ3JyX0hpMWItbVhwdk91TmltcTZFSHFzZWRJcno0NHFWc0JHcGIzenpkRVNYWDY1U25WNUZWUHZYa0xMSTREdTZJT0U?oc=5",
-        "source": "Coinbase",
-        "published_hkt": "07/02 13:12",
-        "related": []
       }
     ]
   }

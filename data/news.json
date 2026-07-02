@@ -83,7 +83,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-02 23:20 HKT",
+      "updated_at": "2026-07-02 23:42 HKT",
       "news": [
         {
           "title": "港股風向標｜恒指於23000點再度企穩 超跌板塊回暖支撐行情",
@@ -140,7 +140,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-02 23:20 HKT",
+      "updated_at": "2026-07-02 23:42 HKT",
       "news": [
         {
           "title": "快訊／明台股有望逆轉？台指期夜盤今衝破47000點",
@@ -193,8 +193,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-02 23:20 HKT",
+      "updated_at": "2026-07-02 23:42 HKT",
       "news": [
+        {
+          "title": "市場憂慮AI算力過剩 亞太主要股市劇烈動盪",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZU0lzSDhrQ19oRm5vdkxCQUNrRXVmV0tkdGZ4ZExMMllVSWtrMUhWOWFvbFhmLVhuRmZ2ZjhfT0Nab1BkVXJFV0hNcTd6SjRWVGdlNExyWnFQSUNYSEF5RXZXaw?oc=5",
+          "source": "香港商报",
+          "published_hkt": "07/02 19:36",
+          "related": []
+        },
         {
           "title": "《日股》半導體回檔，日經重挫逾1700點、跌2.47%",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb1hGMDRBcWRCd0Y5ZTJjTnFrc0FDanNCUDZDM2FxbUJrTk5yX2kzTVpseW96dlJQYnBPR3hlS0JfcTlUMHFlaGtUaTB0S2x6WkpDWmNXeF9NX0ZfLTZZQjdnLTVOQUFTODV0TjJTWnY5QkhQeC04b1VFOUJUSURoeGxnSC1YN2hZZWhaNF94enpwUQ?oc=5",
@@ -210,19 +217,12 @@
           "source": "Investing.com 香港 - 股市報價& 財經新聞",
           "published_hkt": "07/02 16:48",
           "related": []
-        },
-        {
-          "title": "快訊/半導體跳水！亞洲兩大股市暴跌了",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15WExlREdEc3Nqb0t5VnJpZ2l2VXZHWmxsYzlpRFNld21EaWo3MmF3NGk4NTQtMTA0b3d0eWFRaTZNMnNTX083UDZJTlhVOFVsT2Zj?oc=5",
-          "source": "中天新聞網",
-          "published_hkt": "07/02 16:32",
-          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-07-02 23:20 HKT",
+    "updated_at": "2026-07-02 23:42 HKT",
     "news": [
       {
         "title": "非農爆冷激勵比特幣突破 6.2 萬鎂、以太坊站上 $1700！全網 13 萬人爆倉逾 6.3 億美元",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03 16:09 HKT",
+  "updated_at": "2026-07-03 19:28 HKT",
   "us": {
     "stocks": [
       {
@@ -38,32 +38,32 @@
     "stocks": [
       {
         "symbol": "0700.HK",
-        "price": "HK$432.0",
-        "pct": "+0.42%",
+        "price": "HK$431.2",
+        "pct": "+0.23%",
         "dir": "up"
       },
       {
         "symbol": "1024.HK",
-        "price": "HK$42.64",
-        "pct": "+0.00%",
-        "dir": "flat"
+        "price": "HK$42.60",
+        "pct": "-0.09%",
+        "dir": "dn"
       },
       {
         "symbol": "9988.HK",
-        "price": "HK$93.80",
-        "pct": "-0.74%",
+        "price": "HK$94.10",
+        "pct": "-0.42%",
         "dir": "dn"
       },
       {
         "symbol": "3690.HK",
-        "price": "HK$71.50",
-        "pct": "+0.92%",
+        "price": "HK$71.60",
+        "pct": "+1.06%",
         "dir": "up"
       },
       {
         "symbol": "1299.HK",
-        "price": "HK$73.35",
-        "pct": "+0.76%",
+        "price": "HK$73.25",
+        "pct": "+0.62%",
         "dir": "up"
       }
     ]
@@ -140,32 +140,32 @@
     "stocks": [
       {
         "symbol": "BTC",
-        "price": "$61,680",
-        "pct": "+2.36%",
+        "price": "$61,894",
+        "pct": "+1.11%",
         "dir": "up"
       },
       {
         "symbol": "ETH",
-        "price": "$1,715.9",
-        "pct": "+6.01%",
+        "price": "$1,742.2",
+        "pct": "+5.86%",
         "dir": "up"
       },
       {
         "symbol": "BNB",
-        "price": "$561.4",
-        "pct": "+2.17%",
+        "price": "$566.0",
+        "pct": "+1.11%",
         "dir": "up"
       },
       {
         "symbol": "SOL",
-        "price": "$81.16",
-        "pct": "+4.00%",
-        "dir": "up"
+        "price": "$81.40",
+        "pct": "-1.22%",
+        "dir": "dn"
       },
       {
         "symbol": "XRP",
-        "price": "$1.10",
-        "pct": "+3.98%",
+        "price": "$1.11",
+        "pct": "+2.40%",
         "dir": "up"
       }
     ]

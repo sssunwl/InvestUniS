@@ -89,31 +89,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-03 19:30 HKT",
+      "updated_at": "2026-07-03 23:14 HKT",
       "news": [
+        {
+          "title": "港股收評：恒生指數延續反彈漲1.28%",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XUFRxLWxDaVZOeFpxcTByNlF3N2R0XzJqb1NlY1NvNFZ0T1Y0NURuQUVJZTZtT0NjNmRISkt5d3BPM1FfS01GWXVzX3d0RXlrUENxUzUxNzhTNmpmS1ViMFphZDdfZGlHRGZVQ0VUbENPUQ?oc=5",
+          "source": "香港商报",
+          "published_hkt": "07/03 20:29",
+          "related": [
+            "^HSI"
+          ]
+        },
+        {
+          "title": "恒指全周升678點 終止七個星期跌浪",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQnA1azd3d3NJMDk1dDkxTVVHZ01zV0RsMmlFX0VxbjNJSzBCcG5RYkN2MkFIeU9uMklWR0IyejQzWkc5T3RWRk4yY3ZvTElfc21ndHdiaUV4TDFEMzlWYkowcEUyMlppdHdwaUdzYWRPZ0tQZDczYUl2dWFJSjRsbE5xbUlxMmJpLUJMWXhjOThnT0tvOGF1UC1uOWttZHR6OUFXUU1BOWxFemVNbTcxZlNvdUNoVVhUUWdxNHpOWXFfdUFkOHV1LVU4aV9ObmJmRHJfLUtYNk1LUkJCaGE5YTU4MUk5dHM1R2twVms4LU1zOTg?oc=5",
+          "source": "TVB",
+          "published_hkt": "07/03 17:45",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "HSI港股二萬四定生死",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDRweFZ5TV9oWVdKeE1fWVBoLUdtWVZHQkJjNFp4UUQ5U0FkMTBCNlFmYm9NZ1p0cllIbXRHeHNrNmpYblVGMGd0ZEUtY0tFT29zRWc3aDBIcm1xU1RPSTJFTkZqbEl3N1NPNW53TUxXYktkSGk1c2N0blAwVFJaN2YtUlNfZ3gyR0x5Y2dBRXNyWGRVUDdxRnMtQjgxbVh4bTlyaTNCbEpHSXhfU0RQRUFPeVJmQQ?oc=5",
           "source": "香港經濟日報HKET",
           "published_hkt": "07/03 17:28",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "恒指走勢丨全日升295點 7月開局兩連升 全周累升678點",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82dDhaUEx1VUQ3VDdJcFpIVzJ1YXotajdsTDdYcHFHNC1Cemo5Rmw0R18zWTVZUVh2ZFZqdmFieWR6S29mY21mSG5McUxzd3o3TGZTeVdseHNCZk9QSXFZeTRTbTExeW5hREpKTF9pWQ?oc=5",
-          "source": "信報網站",
-          "published_hkt": "07/03 16:52",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "港股收評：恒指升1.28%，黃金股暴力反彈為最強主線！半導體午後跳水轉跌 作者 格隆匯",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pQ0l0dm4xcFJ4VU5vZ0FvaDE5MU4zRklKR1FyYUJ0NUxQOTQ3RzFmeHVheGNTYjRrNm5wUzhaUml0c1NPY0wzN3Jhb29hZ3hvQ3NDTkY2WmRKLXRtUEFCR2FyeDVDajdJb3E4NHlpWmo?oc=5",
-          "source": "Investing.com 香港 - 股市報價& 財經新聞",
-          "published_hkt": "07/03 16:51",
           "related": [
             "^HSI"
           ]
@@ -146,20 +146,20 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-03 19:30 HKT",
+      "updated_at": "2026-07-03 23:14 HKT",
       "news": [
         {
-          "title": "【量大強漲股整理】台股五萬點四大族群曝光複製密碼!",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yUkpXNnlfbUk2bnhXQlNndHdrZWFyUUl2eVczZW1jUldMS1FULVE4YmRyMW9pVG1wbWlwTlVqcVFkLVdaT3g3RnV2MXpNX2s?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "07/03 17:52",
+          "title": "台股5萬點、大回跌誰先到? 股市第三季歷年勝率曝光 阮慕驊示警： 不只除息劣勢",
+          "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxORnEteEZPQ1ZFal9vQ0NLTl9qUlpaTGxQRHBPeFBfOGZpR002YkVqcVk2UGgzTWR5cjV3Q1dTT2otNTJ1SHIxSW1sdDQtVVlIS0dWdS1WcEwtR1RYdHRJZUl5a01QdkY4aGcwTmxvRzU4Z3o4Ny0wRk92S1ZWcVk2cGJzbEdaaTc1cE1wZE4xMVVIWW5IbDNxQ0hlR1h0bDVrM2pYaHoyczhaaExSYWd6MlgydVNqZU1IbEVZa3dpNWZyR01MZ0tjRXo0U2tjWTNmNndOWEc4NmZwaFBndmZxZHduSkxhRTJjUkZ2OFdkcFp5bFoxS3VVWmRmelVyTU9EMzdKM2N4MHlIZllQNG9XZmNHN19QUkJzdDNEWUc1LU1XVjY2VDhxVmhlWWJ0bER0WEZ5NDN0UC1WaUtmZTlXZDZFbW1nM1R5M3RJLWJWUUtiYlFnNE9OdUZ2cjY2SldIYTlHVngyV2J4aUtiTF9IQzF5T0ZQUXd1aUVJbE03SE05eWo3NWp2QUhZaGJTTWo3Sjl4RWhxanFvNGY1WGpESjNSREdmY2Y0c093VW5yRmpnMWxsV3ZGem1xdm5qYkEwejlTUjRaQjV4dlltanJTMzVYelp1cVFjNkx0QzFEODl2dFUwUVNzcQ?oc=5",
+          "source": "MSN",
+          "published_hkt": "07/03 20:44",
           "related": []
         },
         {
-          "title": "台股的期現貨正價差，比多數人想得更大更離譜",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1eUp6MVlPODVldVRJMGI5RTJKWjI1OHU1NDYyRkpRNVBRdDR5ZEw5eUhiN0Q5cm5rZHRpQkQ5dWR6UjRHY0w0eFlEemh6ejA?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "07/03 17:37",
+          "title": "12.75元甜甜價來了! 00685L 分割掀熱潮投資人別犯這個錯",
+          "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNbGxqd3RqOThXN2tsQXp2WkU4eGZvdnAxclZfM0V5NjRjbkpJc3VJTnhQY0xnMVVBQXhOZW5PNUViaW5HLVFYZ2c4TWhxQlFvMVlWNmVCa2UwcjBLQlRfVTZpcUh0a1A0WUVfTml5WkFPQTBMaUtkdTNvc1dLVVotYUtkbHpVZnVaa3lDallvc1hPYk5XQTl2ZEVQWm5fbF9lZkx3c2tuaDI0TUstTE10VHJrU25VUlJEU3VwQzc4bzJxZzE5WmZ4VUluSl9RQlJUR1d2a2t5QmM2ZVp6czVoQjkwS3lJR0xKd1dJRW9YSDZZT3AwbG1STVVmeExxcWtJUjRiSDZQQUhHaUhlYnRWTkF2dldrV3FuYUllampGeTlLVXdad3ZDeHl5ZjI3OEVocThTODNEUnhXY212bkxGTlZiTnFrak5OWkxzTllYUURUTFNkakJmbmpR?oc=5",
+          "source": "MSN",
+          "published_hkt": "07/03 19:42",
           "related": []
         },
         {
@@ -195,13 +195,13 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-03 19:30 HKT",
+      "updated_at": "2026-07-03 23:14 HKT",
       "news": [
         {
           "title": "《日股》日經收漲1.47% 權值股領漲",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd29BYnpjZHZnSUd1RTJ5andEMHpTSUdtR2FhUkpFclFBY3UzUDdnSl8tem1mTGVkSGdwa2hMMlNJLTF1aFRqT1JGTEJBREdPYTN0S3hQWmV1YUpoOWtHdVJRNGVzUVh3RldKRFBPOTBBelFrLTAwNE1CNHNIWklJMzdhYm9ab043Tk8zN1FjTkdGQQ?oc=5",
           "source": "台視全球資訊網",
-          "published_hkt": "07/03 18:18",
+          "published_hkt": "07/03 18:20",
           "related": [
             "^N225"
           ]
@@ -210,7 +210,7 @@
           "title": "戲劇性反攻V轉日股飆千點.韓股重返8千關| 國際",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45SzZ3WlY2Y1RuT1J3ZE1Nd3NLVUNkMXVrSGhzMWJiaEpaWkxBWkpIWlJnLVBsYmhkcFlvRW1QZkZqRjVrb0Y4STF5blF6aS1yOFdDZEt5OXV5Y1Jo?oc=5",
           "source": "非凡新聞台",
-          "published_hkt": "07/03 17:55",
+          "published_hkt": "07/03 18:15",
           "related": []
         },
         {
@@ -226,28 +226,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-03 19:30 HKT",
+    "updated_at": "2026-07-03 23:14 HKT",
     "news": [
       {
-        "title": "Hyperliquid隨著看漲動能重新出現，準備迎來新一輪上漲",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQS0t3LUNERmlBWno5TGV1dTNFV1dPNFNIWDRNd1pmUkFfOTJ5UWFjMkpCMGZLWmlNMGI0aGNfczRHOHhLQU8wdzRmOUxPX2lPNGZKeHVJeWlLYWlHbzZTV0Z2WnQwcUR0VmdwbVhjc0VMQVh4WktJb3VZU1lGTl81SERybzd1NzcyZ2c5UTBYZlE2QmdncG1oMTV6aDNSTWF3RTJnN3JuaUVsLTYwOUVzY2dRS1BKdkdrS1d0ckp6TXQySzZpTGtiSlZXX0szcmJnenl2YTB4Q3hheWplbGNsWkFfc2NhTmZfUGJ2d0YtOGt0S21FTUpvb2NvT3FrbE50dC1RRWg5WdIBhwJBVV95cUxQS0t3LUNERmlBWno5TGV1dTNFV1dPNFNIWDRNd1pmUkFfOTJ5UWFjMkpCMGZLWmlNMGI0aGNfczRHOHhLQU8wdzRmOUxPX2lPNGZKeHVJeWlLYWlHbzZTV0Z2WnQwcUR0VmdwbVhjc0VMQVh4WktJb3VZU1lGTl81SERybzd1NzcyZ2c5UTBYZlE2QmdncG1oMTV6aDNSTWF3RTJnN3JuaUVsLTYwOUVzY2dRS1BKdkdrS1d0ckp6TXQySzZpTGtiSlZXX0szcmJnenl2YTB4Q3hheWplbGNsWkFfc2NhTmZfUGJ2d0YtOGt0S21FTUpvb2NvT3FrbE50dC1RRWg5WQ?oc=5",
+        "title": "穩定幣是加密世界的「保皇派」：Open USD 讓舊貨幣體系親自下場",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVSmNuWXFidFJxbUx2YlYxVkplRHowb2cwcTNqNFhrc25aWFc3cjNMS0hFMVdZLUVXN0RsTGpxQnppcWh5ZWV0akVHbnpQV00?oc=5",
+        "source": "news.cnyes.com",
+        "published_hkt": "07/03 23:00",
+        "related": []
+      },
+      {
+        "title": "隨着美國加息風險消退，加密貨幣多頭立場更加穩固",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOENKcXZSUW5lcFVQT0ZJVXRGeGV0VmhzUTM2b0ZnWnZrMTlxNW5TNF9FV2R3TGZ0cDVUT0pHUnZwR0F1bmdwaEtSb1RjR3pzb0tQelFoZmNYem9kMkNxU2FVVllRaTB5c0VUUndDaFFVZ0xoZndhWlZKYVczOEJ2MzRGbUdHejBreFRDdVE0QmlpRl9hWUZXVGJaYVVFTkk?oc=5",
+        "source": "Moomoo",
+        "published_hkt": "07/03 20:06",
+        "related": []
+      },
+      {
+        "title": "為什麼比特幣、以太坊、XRP上漲？",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYWxTNGdEYVZfaDk2aEpaNUN2TEFtM0FPWjlxcHN2NE9PMGkwcXU2eUNqVzR3RTNYZHdTVXVTYWdZOTlVMGRaalg0UU5OaGRiNG1ma3B3NjNYQUtoS0JGdEt6ZHZZaEVYdF9ZX045YlVzT3IzTmx3VjNVSkVUdVVFdkVxeTNlcUJwMTA3MkpOODAxTWFTMG9GQlZtUDFJVXhiREF5dUJWcjU3NmNrSnN6RkRNTXVublN3NlBUcG01cUNiT1lha0EtVVd4TlI2YTRWM09vNmZhbHRxbV9PT09LS3JrM2dUX1drTXQ5V9IB8gFBVV95cUxORUF1M09ISzV4YkZ6bzNWbFYzWk9GTllQc1BGT1ZGS3JjUno1QjQxaDJxY0Fkcm8yT0pGR1NQcThXWTIweFFfUmV4MXBRei1tZE43ZEluR2x3ZzY4MEVfMjc2TGJkbHA0V1BqeDdLcDFucC1RRFk5bTJZYV9zcURKaEpVR1FoanR2bEI0d3FFTjJVbjIyZktEYUFZZkRacjI2M2VlcmtScDlrZTIySlZTUTdPcUdqZnFCdWpvOEUxNGU0cTRNY0RpSzRQU0pValphMkJmem4zMVJkdk9SdkVLTDR1YmFQTnVyaWZHLWpFTzNRdw?oc=5",
         "source": "FXStreet",
-        "published_hkt": "07/03 14:54",
-        "related": []
-      },
-      {
-        "title": "ZENG vs Nasridinov | 預測市場",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mWm1SN3BxWU1GcmFmcGVNeS1KUjlMb0tGV3Y2c2JLSVhUemMwTnFJZkdIOGdoX1luYVNnOVNpUV9RWjRuN1ZodlcwT0k0V3dfVnZvQnJ6b2JRMGQxTjVGNTJ5NHV5QU13RVVBN0lQakFoRHhfcUJNQlhUVEstQQ?oc=5",
-        "source": "Coinbase",
-        "published_hkt": "07/03 14:01",
-        "related": []
-      },
-      {
-        "title": "芝商所六月加密貨幣期貨日均成交量成長76%，名義價值超過107億美元",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfVW00LUJEX1lZY1R3aHNSQm5KenhVRVNUV1pSallkX2M1MDlSYklIYXgyUmNIMUNMWUxhTVg0dUVNMWhyeG1UZG5sc1RLekMtODhodl9Da1F4aF92Nk1qRnNEdDlLV1VvQ3hR0gFrQVVfeXFMUF9VbTQtQkRfWVljVHdoc1JCbkp6eFVFU1RXWlJqWWRfYzUwOVJiSUhheDJSY0gxQ0xZTGFNWDR1RU0xaHJ4bVRkbmxzVEt6Qy04OGh2X0NrUXhoX3Y2TWpGc0R0OUtXVW9DeFE?oc=5",
-        "source": "Bitget",
-        "published_hkt": "07/03 13:51",
-        "related": []
+        "published_hkt": "07/03 20:03",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
       }
     ]
   }

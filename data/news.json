@@ -27,27 +27,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-03 10:37 HKT",
+      "updated_at": "2026-07-03 12:26 HKT",
       "news": [
         {
-          "title": "《美股》分析：資金輪動 市場重新評估AI交易",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT254UjlpQVU2b1lVZzNsQ1QzUE1YTzRER1dLd01uV2paakI4LVFGQUJnb09FampTMm5jSEtjc09OWVZoWEs0V19KY1R1TXhRUEo1MHFJaXQtdlZIci04VVkwM3pyWFRMZ3NDT0VYT2puX1JMS3IweDRkYlpETnhJTmtjeEFtX21tLVo3N2Y0MA?oc=5",
-          "source": "富聯網",
-          "published_hkt": "07/03 10:06",
-          "related": []
-        },
-        {
-          "title": "台股驚爆洗盤訊號？美股道瓊費半兩樣情友達遭「虎尾幫」斷頭違約交割盤面格局1次看- 上市櫃",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGVkZuNzFMMHQ2anVTN0N6ZlpUUzBtVnlNZldzWjV3NXlxM3I2VG9MR19FeTZlVkNPcHBuVW5LbFl6UHp3cXhKWXVqSHhJTGNrZXZ4MV9YUjl3dENJWTlZcEhnZWJidjV4X3c?oc=5",
-          "source": "旺得富理財網",
-          "published_hkt": "07/03 09:54",
-          "related": []
-        },
-        {
-          "title": "美股重點新聞摘要2026年7月3日",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NWkpOTDBUd3NkM1VSbnVLNEFZdkNZVlQtd2xQYmEyRU0yLXFmVlAwdWpKWU9xSEJhbm4wUVczTDV4WDVVZ01Wd1VLcEtQN3M?oc=5",
+          "title": "特斯拉交車超預期 股價為何大跌8%？華爾街揭背後原因",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XSzZXOUd0Z050ZXdUcWJQS0t2QUUzUzM1UWJ6VHMzMEpjWVNiZFQxd1ZCOTIybzJHb1ZBdC1vWE9HdlVxZ0V2LTVWWTRXbmc?oc=5",
           "source": "news.cnyes.com",
-          "published_hkt": "07/03 08:01",
+          "published_hkt": "07/03 11:20",
+          "related": [
+            "TSLA"
+          ]
+        },
+        {
+          "title": "美國非農數據爆冷，股市反彈？週五美股休市，短期市場波動有限| 2026.07.02 語音直播摘要-春燕來了",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmcEU1cnZIWE1nS1BMN25MOEtTYzNKMERZOHZndU1jZldQNFNBMDNUcHJJT0QtaEtzQUZTblZ2c3RlZExkaXAwbG5HWllGZTRtV2JGaHR3SENwcU5PX05tS0JOTTBrUzZtOWZyWmR2aEdMc09XRGREU0I4aGpCdw?oc=5",
+          "source": "CMoney投資網誌",
+          "published_hkt": "07/03 11:17",
+          "related": []
+        },
+        {
+          "title": "大摩：記憶體別再閉眼買 DRAM勝NAND、原廠優於模組廠",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mTU5hWElOcDFDa3lXbTBRV1dJaGFPU0JCeWhaN0xvbDh3azZnQ2oyQ1R6SkhzUFJBR09QRlp0djg1SUptbkF2YlNleUZHTDg?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "07/03 10:31",
           "related": []
         }
       ]
@@ -226,8 +228,24 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-03 10:37 HKT",
+    "updated_at": "2026-07-03 12:26 HKT",
     "news": [
+      {
+        "title": "BitMine 董事長 Tom Lee：ETH 貨幣敘事正夯，三大催化劑推升幣價",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa0JrVnp2Y1ZMZVZDc0hqczZOZHRZdVM2QzJlblF4b0tLWHF1OTZOdHo5UTVmLVM1T3Nnb0pKcWRWVHoyZ2tfNUtFaVhPY0FTMm9YT1VBV25PZmRMRVFIUGtMSVpNTnRPb3N5bW9TT0JrZWxHR2pMVTlqdklnSkVvYl9TRXBUd21wZ3pJWTI5bnJydThsQW03bnJ3?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "07/03 11:35",
+        "related": []
+      },
+      {
+        "title": "主要加密貨幣行情，比特幣跌0.40% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPanNaZlNQVTVfYUxXXy1Zc2toQnNTZ1Z4UThPMHBtOElwQjNadEk3NjZnY05uS0tPenZyRHRCa2w5Qld2ZUtKbHZoTTE3aUxQanFDT0VoeTcwOGVsa3BfTXprR1hWdTg3THJaOGhwYzgwNzB3VUh5alh4SU5WUkswbVcybzJnN0xGYXZVUXdIbGdIWUVqMEhXVVBlOUwwTW40?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "07/03 10:43",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "比特幣衝6.2萬鎂、以太坊暴衝6%軋爆空軍，單日爆倉4.58億美元，空頭成最慘輸家",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM3VfRFNwSnpYZ2pXNUI5elNxeFRvbUthbHJING9Hc0RnVV9ZbzFMZ2Qyd0k5S1cxaDBPdHN6VHd0Tjl2U054b1NoamprU1Jhd1lDUXFBd0d5TXZ1Ym1yeHB3Q2R3Zmctd1JoT0xJNDZpaERkS3J1OXlFVUQzZC1Rb04xNGs3WTNXWWVqaGY0VXIydlRhaTBuNl8wNDBOYUpBNWpJ?oc=5",
@@ -236,24 +254,6 @@
         "related": [
           "BTC",
           "ETH"
-        ]
-      },
-      {
-        "title": "比特幣漲破6.1萬美元脫鉤科技股 聯準會言論刺激加密市場",
-        "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPOXljTTFIY190bzMwOC1neGI5NXUtT3FOSUlkUTROaVA1dDR5VzJGaElRbjhMU0FfTGxmWGJoOHh2WnB0Q2dOWXJuMGlkNkRMMXBZYVQ4c2FpTDdpX0xVcnoyRWVGdjNiWVp3dkpUU2pEOUtJTkFaQi1OVzRtODFEMFo5MEZwMHNFZVV6QklSOHlzdVJGeTYxWEp4eTlMcmNhWXNUa1hjRVNCeWdGYkFSekFvd1hvaTRGNEtHNzBqNEFsek9hSC12QmhrLTd0ckpvTW56S2s2Z2tlRm9SV0NHeFF5Tmg2RHB4Slc4LWVuU0dHSVR1WUV2bGpXeUh1c2hxbi1UU2JnWDQyS2s5MjB2VUx5el9BeGZ1U2Nxek1pTHVlOWVMbkI5dEd5Rm5lSDRKZDNXQnZYUjY5QURhTlNaZjEwY0dYejJ0OFUzbldkcEQzdE9ESllOM2xoc0J6ejNuUXZ2dFd4VUMybmpJRlJBdDdqOUxTNk1KYTZVY3pqQQ?oc=5",
-        "source": "商傳媒",
-        "published_hkt": "07/03 08:59",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "比特幣(BTC)股票股價, 市值, 即時行情, 走勢圖, 財報",
-        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQUXhiaE9sQnR0bWhQX0FnX2lXVVhoM2tsYmFiRTZDQlROZWVDb21HYTJES3Y4NjZuTXF2cmVLRE5OYWhkRnZIa2ZzaVYxNjNpVXlZdXNBM2Z2by04VEV3NVNWS0NuQ3EzSWRjRFB1NEtvUmI3NV84WjdkdnlfX2E3eVpmb1VMUXBlZ2loY3N0cUtVd1dKLTF0ZlA1bkk4X1lnQmRqZ25VWjJhOUE0eWVySFpXd1RtcWVhaEhmMGFXNXgydWhLOGZQWFhxXzlZRzNHcXdSSkVNTWVBaFNFa1lBdE5rc3BIQmhZVG9DeEZJMXY0RFhxZDNPMnFLVVVNa2E2Q2FIMmpfWmMxWFpEbVZmZE5qNWdSMHNUTWxXYW0yVTJyVlIwMlc0VGVhdw?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "07/03 05:36",
-        "related": [
-          "BTC"
         ]
       }
     ]

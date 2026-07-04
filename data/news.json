@@ -27,29 +27,27 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-03 12:45 HKT",
+      "updated_at": "2026-07-04 10:34 HKT",
       "news": [
         {
-          "title": "特斯拉交車超預期 股價為何大跌8%？華爾街揭背後原因",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XSzZXOUd0Z050ZXdUcWJQS0t2QUUzUzM1UWJ6VHMzMEpjWVNiZFQxd1ZCOTIybzJHb1ZBdC1vWE9HdlVxZ0V2LTVWWTRXbmc?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "07/03 11:20",
-          "related": [
-            "TSLA"
-          ]
-        },
-        {
-          "title": "美國非農數據爆冷，股市反彈？週五美股休市，短期市場波動有限| 2026.07.02 語音直播摘要-春燕來了",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmcEU1cnZIWE1nS1BMN25MOEtTYzNKMERZOHZndU1jZldQNFNBMDNUcHJJT0QtaEtzQUZTblZ2c3RlZExkaXAwbG5HWllGZTRtV2JGaHR3SENwcU5PX05tS0JOTTBrUzZtOWZyWmR2aEdMc09XRGREU0I4aGpCdw?oc=5",
-          "source": "CMoney投資網誌",
-          "published_hkt": "07/03 11:17",
+          "title": "Bitget 推出加密貨幣業界首創的美股期權交易",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sWUR4N3lMSDROa0NIM3F4alF4cU45b2VsR01iMmFBc25KbWc1dEZJYXItSXo0cHFMVDBESHV4a2MyeTVLVWZCQ3NNRUtSejY2Wnh0eA?oc=5",
+          "source": "新頭條",
+          "published_hkt": "07/04 08:21",
           "related": []
         },
         {
-          "title": "大摩：記憶體別再閉眼買 DRAM勝NAND、原廠優於模組廠",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mTU5hWElOcDFDa3lXbTBRV1dJaGFPU0JCeWhaN0xvbDh3azZnQ2oyQ1R6SkhzUFJBR09QRlp0djg1SUptbkF2YlNleUZHTDg?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "07/03 10:31",
+          "title": "接軌華爾街 凱基證打造美股研究新布局",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPME85NjBEb1JoQi0tS0lDb3dpNkZHbzl4dVVyOFc2b2ZoU3RWUXJyZXYwOUJob3FvZm5MU1ZuVk5zalNEQUJocUVrclNsT0dBek1HR2RISjF3ZHpoeTFEWkd4NGdTaTJEU29palg1Vk5lWHV0QVQ3WDExU1JKNnZjOV9kNXlYQQ?oc=5",
+          "source": "翻爆",
+          "published_hkt": "07/04 07:40",
+          "related": []
+        },
+        {
+          "title": "富途控股(FUTU)討論區- 股票評論- 股吧交流社區",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94My1Zd1NpU2c3YUVuRjN6QzUyQXB5eFhXaFZDWjlHVkI3WXlaUHlBZWRPbTVETkdSRnpvWXAxdW9QVWtIaEFYWUh5am5Vd0kzMlFWWWFZTDU1NUtqUF9POQ?oc=5",
+          "source": "Moomoo",
+          "published_hkt": "07/04 06:57",
           "related": []
         }
       ]
@@ -226,29 +224,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-03 23:34 HKT",
+    "updated_at": "2026-07-04 10:34 HKT",
     "news": [
       {
-        "title": "穩定幣是加密世界的「保皇派」：Open USD 讓舊貨幣體系親自下場",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVSmNuWXFidFJxbUx2YlYxVkplRHowb2cwcTNqNFhrc25aWFc3cjNMS0hFMVdZLUVXN0RsTGpxQnppcWh5ZWV0akVHbnpQV00?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "07/03 23:00",
-        "related": []
-      },
-      {
-        "title": "隨着美國加息風險消退，加密貨幣多頭立場更加穩固",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOENKcXZSUW5lcFVQT0ZJVXRGeGV0VmhzUTM2b0ZnWnZrMTlxNW5TNF9FV2R3TGZ0cDVUT0pHUnZwR0F1bmdwaEtSb1RjR3pzb0tQelFoZmNYem9kMkNxU2FVVllRaTB5c0VUUndDaFFVZ0xoZndhWlZKYVczOEJ2MzRGbUdHejBreFRDdVE0QmlpRl9hWUZXVGJaYVVFTkk?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "07/03 20:06",
-        "related": []
-      },
-      {
-        "title": "為什麼比特幣、以太坊、XRP上漲？",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYWxTNGdEYVZfaDk2aEpaNUN2TEFtM0FPWjlxcHN2NE9PMGkwcXU2eUNqVzR3RTNYZHdTVXVTYWdZOTlVMGRaalg0UU5OaGRiNG1ma3B3NjNYQUtoS0JGdEt6ZHZZaEVYdF9ZX045YlVzT3IzTmx3VjNVSkVUdVVFdkVxeTNlcUJwMTA3MkpOODAxTWFTMG9GQlZtUDFJVXhiREF5dUJWcjU3NmNrSnN6RkRNTXVublN3NlBUcG01cUNiT1lha0EtVVd4TlI2YTRWM09vNmZhbHRxbV9PT09LS3JrM2dUX1drTXQ5V9IB8gFBVV95cUxORUF1M09ISzV4YkZ6bzNWbFYzWk9GTllQc1BGT1ZGS3JjUno1QjQxaDJxY0Fkcm8yT0pGR1NQcThXWTIweFFfUmV4MXBRei1tZE43ZEluR2x3ZzY4MEVfMjc2TGJkbHA0V1BqeDdLcDFucC1RRFk5bTJZYV9zcURKaEpVR1FoanR2bEI0d3FFTjJVbjIyZktEYUFZZkRacjI2M2VlcmtScDlrZTIySlZTUTdPcUdqZnFCdWpvOEUxNGU0cTRNY0RpSzRQU0pValphMkJmem4zMVJkdk9SdkVLTDR1YmFQTnVyaWZHLWpFTzNRdw?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "07/03 20:03",
+        "title": "CryptoQuant：比特币、以太坊及山寨币交易所存款激增，市场波动或将加剧",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4OUNlMzdQQzNwUVpUdGdaWFJ6MHc1MGFJSk1vTmMxbWpsa3FEc19rWm9ZVW8xcEZoX1FhTWYtNmFYZjF3Z3NCWjRUNkU0Q2lmcVU2OTFqOFN2MEFJR3VWOHNWWkdWUQ?oc=5",
+        "source": "TradingView",
+        "published_hkt": "07/04 09:21",
         "related": [
-          "BTC",
+          "ETH"
+        ]
+      },
+      {
+        "title": "比特幣價格新聞：麥可·塞勒表示比特幣可觸及50億人，價格正測試關鍵突破| MEXC 新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sSGxfSnJoek9hRlVTN3AxLWVpcHdQanpoa1Q1d2FEYlI2ZnJYZThXWDF2N2hIYVotWVdkNnNzRjQ2VnZvNnRrc01PMjhCTG5Y?oc=5",
+        "source": "MEXC",
+        "published_hkt": "07/04 08:59",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "以太坊價格預測：6月ETH疲軟可能源於零售拋售加劇和美國去風險化",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNQUw2cDF2eHBoNVhnRlhJNlJYVnVBWDcxejFNUlhVcFhGcjlFNVVRaE9TX3ZsSEloVTJzcjN3U2tPWVU3eFo0WkEzeWNfQXBqRE15ZUlWT0p3endUUjE5SzJIM0FVNjZBbXF2eGE3d2hpZ2JncFRvdkNWbFNKS0Y5OE9LT3JYVWh2aUY4cjFuc1p1Y3ZNenNLOEVKb3pqNGNJbUlSdzBMNFpzcWh6cmEwNVFJQXpwOGlkcVkyZTlweVVScHRva1FiNXExYkVfYmU1ekNnQWlhbGxvU0UzamQtN2FMWk52R2lSVmd6enZvNWlXOUE0aFRKRVNBU01nQ1ROQWdz0gGDAkFVX3lxTE1BTDZwMXZ4cGg1WGdGWEk2UlhWdUFYNzF6MU1SWFVwWEZyOUU1VVFoT1NfdmxISWhVMnNyM3dTa09ZVTd4WjRaQTN5Y19BcGpETXllSVZPSnd6d1RSMTlLMkgzQVU2NkFtcXZ4YTd3aGlnYmdwVG92Q1ZsU0pLRjk4T0tPclhVaHZpRjhyMW5zWnVjdk16c0s4RUpvemo0Y0ltSVJ3MEw0WnNxaHpyYTA1UUlBenA4aWRxWTJlOXB5VVJwdG9rUWI1cTFiRV9iZTV6Q2dBaWFsbG9TRTNqZC03YUxaTnZHaVJWZ3p6dm81aVc5QTRoVEpFU0FTTWdDVE5BZ3M?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "07/04 08:29",
+        "related": [
           "ETH"
         ]
       }

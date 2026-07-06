@@ -81,7 +81,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-06 20:21 HKT",
+      "updated_at": "2026-07-06 20:44 HKT",
       "news": [
         {
           "title": "【港股收市】恒指7月日日升 再飆266點 快手炒高近8%",
@@ -138,8 +138,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-06 20:21 HKT",
+      "updated_at": "2026-07-06 20:44 HKT",
       "news": [
+        {
+          "title": "權值股分歧、高價股震盪， 加權指數維持高檔整理",
+          "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPQmtjQXhZejkzMmkzb2k5YWhwcGlqcW11d1Rqb29JN2Nlb3VsLWREUXozOVliMFBHZDF2TU1BaWxUYmFnb21ZM2dQVG80bWZ0SFhpR29WRzFQYWZHOEMtX0NwXzNCREpzQWZGLVVkNWxrRXF1aVZya0pYT2RMUVRVR3FfWXdOR3VzZTZEdEE1Zjdkc2d4Q1VNTUF4Vy1yQ095WjVhZFV3ZldoVFRJOVA4dG9IOU9qaUZyNWJwbEFvWlVkdFFjejZBb0ozVE9KVk5LTV9ycElIa3B4azgzZXE4Qi1FbUI3aGhzSm9iR1lQd1BOeVJhaXZzSGJWd3phcGJSLWp2SHdVaVJPdVEwa3RWMzNmUXd1eHF2S3RuRFVyeGF0RkhkbUtqOWJHa3JmYTVhOXRXOWp5cmxZdnRBU2dqbE00bi1qQUhQY19FTUFIT1J2NExiOTFadmZkWlJJaFFwN3lsVjF5X2RhTlAxS21KMi1aajlyOFdXX3hR?oc=5",
+          "source": "MSN",
+          "published_hkt": "07/06 19:52",
+          "related": [
+            "^TWII"
+          ]
+        },
         {
           "title": "震盪盤更考驗選股與節奏、友達、中美晶、智通*⊕",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mOUJPQ2xNemtPby1DZ0NQWmloSnNnNUtaQkh2ZzRXWXFOcUs3c0MtNGFEVW1zbUkzb05Ed3FlNzd6RDhPWDlWeTdTNjRKSzg?oc=5",
@@ -155,13 +164,6 @@
           "related": [
             "^TWII"
           ]
-        },
-        {
-          "title": "【量大強漲股整理】【台股震撼彈】【2305全友】+70%漲完換誰？驚見下一檔噴發神股在哪?!接棒訊號已出現?!",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BUElYaXJ2TTBJMFFmTEIwMGE1VUhkbWRqZWdPZVdZUVo3M3NDd2IyQmxVWjlKVkR2TXdnV0ozdGozSW9UY3FVWFRsYmhvSTQ?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "07/06 17:35",
-          "related": []
         }
       ]
     }
@@ -189,7 +191,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-06 20:21 HKT",
+      "updated_at": "2026-07-06 20:44 HKT",
       "news": [
         {
           "title": "日韓半導體股獲利了結，亞洲股市周一走低",
@@ -220,7 +222,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-06 20:21 HKT",
+    "updated_at": "2026-07-06 20:44 HKT",
     "news": [
       {
         "title": "2026年如何購買Qualcomm Tokenized Stock (Robinhood) (QCOM)？初學者分步指南",

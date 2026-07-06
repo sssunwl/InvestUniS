@@ -81,8 +81,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-06 18:49 HKT",
+      "updated_at": "2026-07-06 19:20 HKT",
       "news": [
+        {
+          "title": "【港股收市】恒指7月日日升 再飆266點 快手炒高近8%",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MRXllNU8wd2NJdlQ5YVFKanZJdS1ucEY0Ri0wcDFFTW53SWlmZjVwMVJZWmdMUW92Qi1WOWRlbG9acUpZRkdjelJEU2lVMU5Sdkh5QTNoWVBUVUNoSjdhSWxQX1dXUHRTTlBVankydW5SZFQ0WGdqc3BR?oc=5",
+          "source": "Now 財經",
+          "published_hkt": "07/06 17:09",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "港股收評：恒生指數高開高走 漲1.14%",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PdFFJQkt4aUo5M2E2dGRBdF9lSDFEYlRTbkhXc0VBMDEwSHNXbFN1VmNKUm1EVXpMNlJTT09TVUlqX25vc2hybjZOUk1laW9mZHA1ZE5xQ3RZVGQ0eFJFUjRIZ0pMVG5BbjVHc0RlOE1HQQ?oc=5",
@@ -96,15 +105,6 @@
           "title": "7月6日港股恒指漲1.14% 科網股反彈",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZZUtsd2EyS0dtYjFQWXFjTHhfcDgzUk9MeGxGbzU3R0RBQmJsSVNuM25mWE1HcnpBblJLdmM3VzBkQUN2S3FzXzZXTFFqTko2VUJCS2gzRFVfdXdmRDhiSQ?oc=5",
           "source": "觀點網",
-          "published_hkt": "07/06 16:42",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "恒指走勢丨全日升266點 逾205億北水流入撐市",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wVF9uVlNkZmJBdk55V251MDhlNHNKaUZmaTBBSlZWVUkxS1FfN0ZhREYyVnEwU19ocGxEN2dPMFZsQWpkc0hoX25yVjF3RmFEamQ2RTdDV3B6UnNnZHZMemF0dVdLM1lYWTdDMTUtaw?oc=5",
-          "source": "信報網站",
           "published_hkt": "07/06 16:42",
           "related": [
             "^HSI"
@@ -138,7 +138,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-06 18:49 HKT",
+      "updated_at": "2026-07-06 19:20 HKT",
       "news": [
         {
           "title": "震盪盤更考驗選股與節奏、友達、中美晶、智通*⊕",
@@ -187,8 +187,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-06 18:49 HKT",
+      "updated_at": "2026-07-06 19:20 HKT",
       "news": [
+        {
+          "title": "日韓半導體股獲利了結，亞洲股市周一走低",
+          "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNWlZQb2ItckRsN0k3a2xFZGRrZE9zR2J4RE8yb3owWC03alVTVWJjX0pfV2hWUkZ5aGRFaGFSX0RqdjVSWEctemJqdHFKNnlHcmcwa1ZnTFZmNUlRUFpmRXl2NnUyX2pJVTkzV0tYUFNLRUQ5czVka09TU1VBb2lDVVU0dHhWM29nSG1oeTZSUlQ5YlFJcEQ2NUx6WUI1aGhuQjFvMF9oSFRLeGp5SDZPVHFQamZqUVZUU2R1MlV4NlZyLU5hX1VPSm1jMklZU1pqNWdTLVZVc1F4djFuUXlDZEtFYTlQT2VYU0ZmVC1ZRXFGWkxkMGNQc2VUelFvWUtzUWJacXVwVlpUZEFPTkZlY1JSMW95aHpfVHpDMVgzRkNoU0NZWDBZcnZBZjNZa1l5TmNCWWdiQ3VzN2Q5NFBpQkRpazRqTjlOcFpxWmliT1A5czBIUWNaOXV4MkY3dkRId25qU2xIaGwtS1NELXpMenNVVWJsOF9tczJsM3gwd3FWRE5k?oc=5",
+          "source": "Yahoo 財經",
+          "published_hkt": "07/06 18:46",
+          "related": []
+        },
         {
           "title": "《日股》日經震盪收低、TOPIX創高",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSlNHNkdRVk5fSUs2RDNqbnNuNkI1eTFTbDBTUy1SZHY0enFmY3ZiS3JmSVU4Q3BmQVJmYnZpRjJfZVhsanZUQXRfclQ4WmpZVU5LU3VTcFE2X29ZYW84eDhnS2ZOSFJYbHl3S2Jxb1pJR05SOWZLMEtKMDdLWkNFMmo5N01OMXFUdjRmVDlNQjJrdw?oc=5",
@@ -206,21 +213,12 @@
           "related": [
             "^HSI"
           ]
-        },
-        {
-          "title": "恒指收市升266點 北水流入205億元 (16:12) - 20260706 - 即時財經新聞",
-          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQenBnbFZ5WXFKU1YtRlpRa2tZTmNSTW8yVjR5Tk1MekkwVGE4ZkMwVGZCVTBOS1FoY3pYNGFySkhrOU9zanI2bU55N192ZWlWbV9zTGVud2xuZXZxTllpdDhscGRucVpCSWRTUGpkN3l0WWlhYXVfSUpsNGVRYUdSX3FSVjRpaWI0UEJ4VE5QeTE4c3F2RUxtOXdhOF82VW5peVJoTFhEdEdkTlNyVUNqNWFsM0J2bC1YSG8yNGFTSWt0eWxaSHhZSmJacl94M2ZnTncxR1REek82SWJmTmxOTEh2WmVHcm1WUVlBZ2RfREhDaU9uQWs3bllHVFhPTGs3ODQtLTBYSU1ER3M?oc=5",
-          "source": "明報財經網",
-          "published_hkt": "07/06 16:21",
-          "related": [
-            "^HSI"
-          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-07-06 18:49 HKT",
+    "updated_at": "2026-07-06 19:20 HKT",
     "news": [
       {
         "title": "強勢跑贏 BTC：以太坊完美「雙底」成型，放量衝破1800阻力恐再暴漲30%",
@@ -232,8 +230,8 @@
         ]
       },
       {
-        "title": "Portugal vs Spain: Regulation Time Moneyline",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11Q1d2ZXRqRzRYcGpQVk0xUnlUWmdVcmVMaEoxVWRzeDg3Y3dQVmJ6VjlzLVpOWlloLV9Gbkw2R1FZdVV3aEVfZGNlenh1YmcyUk5aTVloOEt2UEdrTnNmVnF0aTVtYjhIdkhjVHpTaG1fQXFVNkFidFFBQQ?oc=5",
+        "title": "Argentina vs Egypt | 預測市場",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HN2ZObi1SNDNOYjlIZU9lUVlRM0thYjBTMXB5SUlHcFUyZ3lMdGw0ZkY2QzZNZjdPN3o5aWdveGcxSDdScE5scXBlYXlJWXFGVktHb0lpSGF2WkFIMFBKeE9lb1RhdDF3d0NkUkU4VTFVdDRhSU4wcTZMTC1haXM?oc=5",
         "source": "Coinbase",
         "published_hkt": "07/06 16:26",
         "related": []

@@ -222,29 +222,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-06 20:44 HKT",
+    "updated_at": "2026-07-07 00:24 HKT",
     "news": [
       {
-        "title": "2026年如何購買Qualcomm Tokenized Stock (Robinhood) (QCOM)？初學者分步指南",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXYk9YaTZETXJmNUlxNjNDdzNqM21hRWNzYWpkTkRRQ0F5Z3dfeEI2V0JHc2pFWTBhcDZsdWI1ZXN1ck1VTGh3VWs4eE42TXBEVVBTTVpNZDA0UmFNV29aS05jeXF1RzF1UTROSUdtQldlWFBOMEt2MlBZRTY?oc=5",
-        "source": "WEEX",
-        "published_hkt": "07/06 16:55",
-        "related": []
-      },
-      {
-        "title": "強勢跑贏 BTC：以太坊完美「雙底」成型，放量衝破1800阻力恐再暴漲30%",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSjJhM1JjUG9Qbk5qSnFlT1UxQWh5elZfd3N4V3JIMzFHSnBiUkJadDIzM1NzcEMwejRjQ0szRWF4dWRCOEhEVk1uaVhQbEJhWFNrOUlNb3pCWXNfY21yeGFkRlhLTUdld21zaUw3MkJWdlBBT0g4eXdWU2tUM2VvTVVobmQ3aWFHYzlzOXFiQm1TZllFODR0aDBUc0dsVERUNWNDa2FLQ19fOTNpRkoyN091X2Rpek5pX0FjOFJ3M0REeTY4b3VzeHpHOVp4Y2ctdUY1UVdSVQ?oc=5",
-        "source": "TradingKey",
-        "published_hkt": "07/06 16:42",
+        "title": "主要加密貨幣行情，比特幣跌0.39% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ2lsU0xoMWtaYTNaejZteFB3ZC1TcE1QakNqcDlza1REUktqTzVmeHFkTWFGbDIwUEdCNHFfdUs4Tkhmc3c0ekttMHZQM0pGR19OeHY4UnB6QWV0UnZPMVd1Nnc4SVVJcmhYSG45S0RGRHZhNnVzLWxjS2tua2dEa2xaaHIwcGQ4eWFiajBFWmNob2lkeDRSSnBPY3JwaUdl?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "07/07 00:02",
         "related": [
-          "ETH"
+          "BTC"
         ]
       },
       {
-        "title": "Argentina vs Egypt | 預測市場",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HN2ZObi1SNDNOYjlIZU9lUVlRM0thYjBTMXB5SUlHcFUyZ3lMdGw0ZkY2QzZNZjdPN3o5aWdveGcxSDdScE5scXBlYXlJWXFGVktHb0lpSGF2WkFIMFBKeE9lb1RhdDF3d0NkUkU4VTFVdDRhSU4wcTZMTC1haXM?oc=5",
-        "source": "Coinbase",
-        "published_hkt": "07/06 16:26",
+        "title": "虛擬貨幣｜比特幣年內挫29%，分析師警告或下試3.7萬美元 | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdTJxNldGMkk0M21YanZKcDVySkp5MGtfMUxKNWVubEVhZk5fTmoydWhudXBGTDhPWGpmVkRIdUVIYUtleXlvR0NoZmZ4eURrOWt0RVpIanZQZXgtcEVhcm5kSEhnV2JVcGY5bW9Vc2loZHppaWxwUWFLTEJFME8yQWpvemRLcGpWY1NiLWN0ZGFaLXo0VmIwTEJDVE95cDNr?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "07/06 23:25",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "ZFX山海證券:瑞波幣支撐接受考驗",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85M3o4ZVlqR0pXeElBWXZUUGpBeDhpbGY4NWoySGFjZmM3THBwNHJJME1CZXBnWWhyYlBEY1lES2F6TkFwcHozZGpnNHJvY1gtSHFXWXVWc1R3Zw?oc=5",
+        "source": "Moomoo",
+        "published_hkt": "07/06 21:46",
         "related": []
       }
     ]

@@ -81,7 +81,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-06 19:20 HKT",
+      "updated_at": "2026-07-06 20:21 HKT",
       "news": [
         {
           "title": "【港股收市】恒指7月日日升 再飆266點 快手炒高近8%",
@@ -138,7 +138,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-06 19:20 HKT",
+      "updated_at": "2026-07-06 20:21 HKT",
       "news": [
         {
           "title": "震盪盤更考驗選股與節奏、友達、中美晶、智通*⊕",
@@ -148,17 +148,19 @@
           "related": []
         },
         {
+          "title": "TWA00 加權指數- 投信6日買超前十大電金傳掃貨第一金14天敲32萬張- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3R0VSYUtZSmt6cHVLQzJzeHZnU3lUM2xXcFA3VWloSWVPTnJPckRkUHVCQXZpWk9JcExmM0twb3BQTmpkcHZQT0doVVZjdnZKS0lzT2VNRmc?oc=5",
+          "source": "CMoney",
+          "published_hkt": "07/06 17:40",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
           "title": "【量大強漲股整理】【台股震撼彈】【2305全友】+70%漲完換誰？驚見下一檔噴發神股在哪?!接棒訊號已出現?!",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BUElYaXJ2TTBJMFFmTEIwMGE1VUhkbWRqZWdPZVdZUVo3M3NDd2IyQmxVWjlKVkR2TXdnV0ozdGozSW9UY3FVWFRsYmhvSTQ?oc=5",
           "source": "news.cnyes.com",
           "published_hkt": "07/06 17:35",
-          "related": []
-        },
-        {
-          "title": "台股巨震近千點！ 10檔高息ETF展抗跌神力 這檔年化息率飆18%稱冠",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mcUd3N24zVS1GTEc0SlBHa01KQ2RodldCc25rUXN6S1lQQTA3NGRWNVpBbHFuWXc4UEU2d1F5eHVxVEprR0JJY09vYlBPWmM?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "07/06 17:05",
           "related": []
         }
       ]
@@ -187,7 +189,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-06 19:20 HKT",
+      "updated_at": "2026-07-06 20:21 HKT",
       "news": [
         {
           "title": "日韓半導體股獲利了結，亞洲股市周一走低",
@@ -198,9 +200,9 @@
         },
         {
           "title": "《日股》日經震盪收低、TOPIX創高",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSlNHNkdRVk5fSUs2RDNqbnNuNkI1eTFTbDBTUy1SZHY0enFmY3ZiS3JmSVU4Q3BmQVJmYnZpRjJfZVhsanZUQXRfclQ4WmpZVU5LU3VTcFE2X29ZYW84eDhnS2ZOSFJYbHl3S2Jxb1pJR05SOWZLMEtKMDdLWkNFMmo5N01OMXFUdjRmVDlNQjJrdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeDR5RXhvWlY1SzNnOHpwQkJneVBLVkVKbURuUFFvZEtfOTk4LUU2V3BFVW9mVnRpZG5vRXp2ZURGaGVyUEUzQXNpcTJMYXNVaXcwNngyS3A4b3B0Y3hrNXphWHRkaVRvMGJwMV83N0pvSmhYS3hrNzhiRkJjN3FHRGlmOUdHNE44MFdFTjhIYkY5RUhWSFdzcFBRbVVtWGo5SExvMkUxd19xbVE?oc=5",
           "source": "台視全球資訊網",
-          "published_hkt": "07/06 17:49",
+          "published_hkt": "07/06 17:50",
           "related": [
             "^N225"
           ]
@@ -218,8 +220,15 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-06 19:20 HKT",
+    "updated_at": "2026-07-06 20:21 HKT",
     "news": [
+      {
+        "title": "2026年如何購買Qualcomm Tokenized Stock (Robinhood) (QCOM)？初學者分步指南",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXYk9YaTZETXJmNUlxNjNDdzNqM21hRWNzYWpkTkRRQ0F5Z3dfeEI2V0JHc2pFWTBhcDZsdWI1ZXN1ck1VTGh3VWs4eE42TXBEVVBTTVpNZDA0UmFNV29aS05jeXF1RzF1UTROSUdtQldlWFBOMEt2MlBZRTY?oc=5",
+        "source": "WEEX",
+        "published_hkt": "07/06 16:55",
+        "related": []
+      },
       {
         "title": "強勢跑贏 BTC：以太坊完美「雙底」成型，放量衝破1800阻力恐再暴漲30%",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSjJhM1JjUG9Qbk5qSnFlT1UxQWh5elZfd3N4V3JIMzFHSnBiUkJadDIzM1NzcEMwejRjQ0szRWF4dWRCOEhEVk1uaVhQbEJhWFNrOUlNb3pCWXNfY21yeGFkRlhLTUdld21zaUw3MkJWdlBBT0g4eXdWU2tUM2VvTVVobmQ3aWFHYzlzOXFiQm1TZllFODR0aDBUc0dsVERUNWNDa2FLQ19fOTNpRkoyN091X2Rpek5pX0FjOFJ3M0REeTY4b3VzeHpHOVp4Y2ctdUY1UVdSVQ?oc=5",
@@ -234,13 +243,6 @@
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HN2ZObi1SNDNOYjlIZU9lUVlRM0thYjBTMXB5SUlHcFUyZ3lMdGw0ZkY2QzZNZjdPN3o5aWdveGcxSDdScE5scXBlYXlJWXFGVktHb0lpSGF2WkFIMFBKeE9lb1RhdDF3d0NkUkU4VTFVdDRhSU4wcTZMTC1haXM?oc=5",
         "source": "Coinbase",
         "published_hkt": "07/06 16:26",
-        "related": []
-      },
-      {
-        "title": "Pi Network：儘管市場拖累減輕，持續下跌仍面臨創紀錄低點風險",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONzVhbk9OS3RyblNkUmFHTFFUb1h5Q1RMeU9BNW0zLUxybFBRdUY4VEkxM0RJTjZHdW5VVmR2dzUyT1djallfOUxxdl9Sam5VWXlpTVBRNElsaEhHMVNDeXdIWHZjamZJbWpwem1PUEg4R0JXb09hWnhwUVhxd2RpWEp3bC1jU0xnS3BXTEMtQ1ZUTHRxeTRBekNzcTcxVW51MVN1aUt5cE8zbUFSU2dRUUo1UXJKUUczVE94RWR1aXdtZkM1ZVg5aHFMVHdzeFVsLTRXZ2tQckxRZF8tNEEyVFpKdGJGTEUzWk1YU2FTX1Q1cUZKOUV2U2paOTBvQU3SAf8BQVVfeXFMTjc1YW5PTkt0cm5TZFJhR0xRVG9YeUNUTHlPQTVtMy1McmxQUXVGOFRJMTNESU42R3VuVVZkdnc1Mk9XY2pZXzlMcXZfUmpuVVl5aU1QUTRJbGhIRzFTQ3l3SFh2Y2pmSW1qcHptT1BIOEdCV29PYVp4cFFYcXdkaVhKd2wtY1NMZ0twV0xDLUNWVEx0cXk0QXpDc3E3MVVudTFTdWlLeXBPM21BUlNnUVFKNVFySlFHM1RPeEVkdWl3bWZDNWVYOWhxTFR3c3hVbC00V2drUHJMUWRfLTRBMlRaSnRiRkxFM1pNWFNhU19UNXFGSjlFdlNqWjkwb0FN?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "07/06 15:57",
         "related": []
       }
     ]

@@ -222,31 +222,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-07 00:24 HKT",
+    "updated_at": "2026-07-07 00:39 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣跌0.39% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ2lsU0xoMWtaYTNaejZteFB3ZC1TcE1QakNqcDlza1REUktqTzVmeHFkTWFGbDIwUEdCNHFfdUs4Tkhmc3c0ekttMHZQM0pGR19OeHY4UnB6QWV0UnZPMVd1Nnc4SVVJcmhYSG45S0RGRHZhNnVzLWxjS2tua2dEa2xaaHIwcGQ4eWFiajBFWmNob2lkeDRSSnBPY3JwaUdl?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "07/07 00:02",
+        "title": "比特幣深夜拉盤突破 63,000 美元、以太坊衝上 $1800！全網 4 小時清算 1.6 億鎂空軍遭血洗",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU2lnVGZYb2dNVXRnTnhfYTdSZVJ4cVhHTTlYcWphNkJmY1ZyMm1SQlJIbmFNRm14VVhOczVvTXpRYWRkQ25yM0RtcG83ZmhyVnRlTHJ3ZTZCQ21RSEd3dWZCNVlJT0JxQTd2aXlCR1poQm05d2lKeWdGeUhoZWFVa0Z5OTliTkxEYnczZE9QMDdsZUtNRTJV?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "07/07 00:27",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
+      {
+        "title": "木頭姐6月抄底7700萬美元，加密股票真的是比特幣的「平替」嗎？",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN1M0UFNwYkhGeG5JbE9wRXBKajViUzJrVGZ1WFpIbFRmMFpIQnJ2dWlsMG5RNDBhUjFRQnlCSEZUMjMxWE00cEhuWXdqZmZlVThSSlVkdUt1ck5GbFZ2Z1lfRmtrQlUxRFNYRW5qQVl2eG84MTBZZC1wNDlDZ09WRG83aV94QQ?oc=5",
+        "source": "PANews",
+        "published_hkt": "07/07 00:10",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "虛擬貨幣｜比特幣年內挫29%，分析師警告或下試3.7萬美元 | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdTJxNldGMkk0M21YanZKcDVySkp5MGtfMUxKNWVubEVhZk5fTmoydWhudXBGTDhPWGpmVkRIdUVIYUtleXlvR0NoZmZ4eURrOWt0RVpIanZQZXgtcEVhcm5kSEhnV2JVcGY5bW9Vc2loZHppaWxwUWFLTEJFME8yQWpvemRLcGpWY1NiLWN0ZGFaLXo0VmIwTEJDVE95cDNr?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "07/06 23:25",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "ZFX山海證券:瑞波幣支撐接受考驗",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85M3o4ZVlqR0pXeElBWXZUUGpBeDhpbGY4NWoySGFjZmM3THBwNHJJME1CZXBnWWhyYlBEY1lES2F6TkFwcHozZGpnNHJvY1gtSHFXWXVWc1R3Zw?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "07/06 21:46",
+        "title": "加密貨幣價格預測：XRP、代幣及加密貨幣——美國市場綜述 07月06日",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZVFDWFBaVDhKV2kzZmtDMDJEZ2xkd09RR2swcURXMkJEQXRILXl5RzRUSlc2ZlBuLVdYWUpQSWJDRDZiSFBMSmZrZGpMYzFaRk83dmU4UHRjU0tEb3JRZXBncm80VV9ROU9PMHZqM1hsYWRIOXlGRjV2Q01VLXYwb2xZRV9GR0lPR2c1T1gxb09wZEU0U1hCcVM0TDhTUG9pSHhpd0ZSOXNiV0RycGNGMUtuUkpmRFVqbUc0YXhFUHA3ZkstcktBMlZvbnhubUV3bWx4Vkk0RnpqYks3RU1vMW1iZEZud9IB6wFBVV95cUxQdXBKLXBmbFNvRl9YR3BlenNiNTE5WmUyRmFYdUVFeUhfQ0Z6aXpKZ1IyTFZxbUlnWEcyRHlJd00yb1UtckwxdVhMbHVxLVZVVVF3WlVsZW5EOEkxRWFHQnFSQjdzNkphcW1SZm5WMHUzYnJIMWhSVExiZUptNGFBdDNZdk8xM3hWNTk0NFRjSVA4clhZWUI0T3E1YkxueGdYbFhjT2xxT1k3aDVhc1gxdTgxMkIzSUpfWm5rN2drYnd1cTBvc29HLTYxVTNaNDVuSnd3dXd3VGFuWnNqR2pKcC0xbzFFUHhIc1dB?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "07/07 00:03",
         "related": []
       }
     ]

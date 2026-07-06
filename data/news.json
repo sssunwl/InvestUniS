@@ -27,27 +27,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-04 10:34 HKT",
+      "updated_at": "2026-07-06 09:12 HKT",
       "news": [
         {
-          "title": "Bitget 推出加密貨幣業界首創的美股期權交易",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sWUR4N3lMSDROa0NIM3F4alF4cU45b2VsR01iMmFBc25KbWc1dEZJYXItSXo0cHFMVDBESHV4a2MyeTVLVWZCQ3NNRUtSejY2Wnh0eA?oc=5",
-          "source": "新頭條",
-          "published_hkt": "07/04 08:21",
+          "title": "TradingKey 每日市場簡報：OPEC+繼續增產，油價承壓，黃金反彈，比特幣站上6.3萬美元",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPYWtqRWpXOHZmYndhb0NqX291MmNUY2laZTFlZVZJbW5IenRMZEw3dVFKV1NaNWU0ODlYQ016Si1fTTNZRzhjRmFxREtVTTFnMWJxZ29HZGJoSTVsekNnM0pXQ28tNVJIWmxqTVY2dEk1Yy1HNUZXLUtGdE5ULVpoZkxoWFk5d0haYTJDUVplMXJ1bG1wNWxQQUgxWERPaUI3by1iUEp6akY2REphUVlVRk9TR3FfeS1JZDk5Y3pIbk9lek5HdmJ1RTJQX0NrNE9Gd1pLOEUwRVh5b0dUU1pvTFZuYVdhSEE5ejBjRUk5cHprRGVOSHJwVEVZWndtNHl2STdsX24xQVlPTkhQT0VadVNfRlA?oc=5",
+          "source": "TradingKey",
+          "published_hkt": "07/06 08:52",
+          "related": [
+            "BTC"
+          ]
+        },
+        {
+          "title": "執行長幫加州居民償還5億美元醫療債務、Snap股價單日上漲1.89%",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNDBzUkltaEEzSkpyM200TjZNSzVfMkhfb1A2Y0ctYjdKeFpxc2ZodVFZa1ZLdmNXT0tzLWR3N2g5a19GTkhBN1BndFhBZ1h1UDVSeXYweHphRE5adnhRQzNOaEFIbnpMc3p4X3ZoemVHUWE3STlkSnRJdTJwWFJOQkU1ZmUyb0pHX2Y2N1M1MTFTYW4x?oc=5",
+          "source": "鏈新聞 ABMedia",
+          "published_hkt": "07/06 08:50",
           "related": []
         },
         {
-          "title": "接軌華爾街 凱基證打造美股研究新布局",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPME85NjBEb1JoQi0tS0lDb3dpNkZHbzl4dVVyOFc2b2ZoU3RWUXJyZXYwOUJob3FvZm5MU1ZuVk5zalNEQUJocUVrclNsT0dBek1HR2RISjF3ZHpoeTFEWkd4NGdTaTJEU29palg1Vk5lWHV0QVQ3WDExU1JKNnZjOV9kNXlYQQ?oc=5",
-          "source": "翻爆",
-          "published_hkt": "07/04 07:40",
-          "related": []
-        },
-        {
-          "title": "富途控股(FUTU)討論區- 股票評論- 股吧交流社區",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94My1Zd1NpU2c3YUVuRjN6QzUyQXB5eFhXaFZDWjlHVkI3WXlaUHlBZWRPbTVETkdSRnpvWXAxdW9QVWtIaEFYWUh5am5Vd0kzMlFWWWFZTDU1NUtqUF9POQ?oc=5",
-          "source": "Moomoo",
-          "published_hkt": "07/04 06:57",
+          "title": "美股休市　台股區間震盪留意月線支撐",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CQ1NiWVJqNWFRV0Q4b1Z1ckFHMDdpa183MF85UFMtOTNZbkRHWjJXR254cXB2NUVVMDg4VExrc25IRFNJeEFUS2ZHM0ctbzkzUGV2OTFsV05IUUHSAV9BVV95cUxOaG5zTDJYaHdUcHpLWjRRenNoaGZMa0ZKS0FfbWxYbEJvQWpGMkpPeElvMGV1V3RJN0p4OXZ5VS05akh4SFZFMEpzSXctVzFYS3QtV0FJQkxhSm1tT3VUOA?oc=5",
+          "source": "經濟日報",
+          "published_hkt": "07/06 08:36",
           "related": []
         }
       ]
@@ -55,34 +57,28 @@
   },
   "hk": {
     "pre_market": {
-      "updated_at": "2026-07-03 09:07 HKT",
+      "updated_at": "2026-07-06 09:12 HKT",
       "news": [
         {
-          "title": "恒指夜期丨報23170 升119點",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50SDlfYlVRQnQ3TmQ2ZE1ydkt5ZEs0bVpqQWFuMThicmxxWGhYMERWeWhoREF2VlZqSkRTeXpUQVNRbWx4VnRHSnplanpUMlhGZ2dydDBjWG9td25NdUNRVA?oc=5",
-          "source": "信報網站",
-          "published_hkt": "07/03 04:28",
-          "related": [
-            "^HSI"
-          ]
+          "title": "SK海力士本周登陸晶片股有得諗？",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hYXRvaENNUDZkdnFvaTBvTnNSTFlTSlNScFZNbjhibWkxWEd0N3FsaFh0NHZnUmF3WHZKZ2NJbHkwSFUxanR5X0h4Y2RIY0o0UnhqY0tlQmlZYl9ObHVhM2p1SUlNVjZiYkZzcGNn?oc=5",
+          "source": "etnet 經濟通",
+          "published_hkt": "07/06 08:55",
+          "related": []
         },
         {
-          "title": "有圖有勢｜半導體板塊兩連挫 HSI夜期逾200點抹去（持續更新）",
-          "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPNFJ3bHhzWGlOUEhZRHlzWDl3QUZsQkJ4X29peUp3Sk50d1paWWY2LUZtVlVsX2liSXo2SjlvMWVUU2kwZEQ1a3ZNd05abl9kcnRPRkgyNnFMTkh4RklHRmJIeDhMSEc1VEJqa3ZvRDZfRVdUVndfNFVlcElnY3kzbEpzU2ZXOXFHRnNVSE0wel9RdzhkWWRqSUp0TmZ1Mm1RSHVRQnlobzdCVmhOXzZ1UGlxVUUybzJSZ19sdDloVGtSWjN2bjF0TWpRNGtqc0hrTnoxbEZaVTR0b3NGMjF2Ymd1U0FrSnBfRVplaTFoMFBBakpxWldZUy16U3B3QnhlX0xIUjg2TUFPZzUzSVRDZk85S2VxRlduOW1qX09KUTlqSDZneVJxUjRwZUF3WnhwVlJXRDQ2QW5OLXQ2OWdFcVdIbTdlcGN6MlVsYjhVSnBoSERYMldwWkpjZ096YWp0ZjRWNmhDam1hZ1NCQVJINVNQNVBPdExwTVZaM2xPTklSM3dfZnFaYkdB?oc=5",
+          "title": "港股迎「翻身」契機 美股AI轉揸傳統股？壁仞「解禁」即配股點拆？",
+          "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxPU1lxNmVtbGRfcW91eDVwLXl3NmdMLUNLaHJVZFgwVldodE5xSkJydUdLazZDeTNldXVZRjc1cjZ0SmVNWVhIMWpUSHBicEM3b1diNHRUdjE2amVyY0ZYSDRRaGtyMDNONFhYU2FwcWZBZXZOQTN1UHdrVjFKdGM5Zk5hMzFscFpVR3pWel9iazMxQ1djR3JmR2VMSktMM2lRdzd1VUZMVjFsRTBua3FmY2FIVHhvMVlEa1l5ZnVHdmxpMnhTaWRwX19xa2M1WHdYMzhtbXR1OHRIR1hYQjJxQ0NPZDdZVjNwLXZWVERvbmZLM1owdjhZZVRSQ3FLR2ZRdUgzN2VPanBEOWh1Yk5xNnZWUVlZS0E3RmpUMHhkNnpCUVQwVWVnME9XT3JLNzFCNWtnSkkyaE01ZFhfWnFvRzVsN0lscExwOG5Eb3o0TkoyUHRZdDdWR3MwZWNqdlNNeGxoRTBzRy10SmxzWVlQY2tUTWE0bGhzUWNOT3JhX2hrQVFFVERfcDd3WE1NQzR4eUFQOUI3NDNjSFNacDl4OFI5dUtFall5cTVPRFNkS1ZYRkFJWVpRRF9remkwYlM0MHlVRy1FcEw?oc=5",
           "source": "香港經濟日報HKET",
-          "published_hkt": "07/03 03:41",
-          "related": [
-            "^HSI"
-          ]
+          "published_hkt": "07/06 08:43",
+          "related": []
         },
         {
-          "title": "恒指夜期丨收報23061 高水6點",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaVJzcWhKek1LWFNmZFZCN3VBdEw0TTcxZjdQMHVtbV9Pa0tqNkZJWE04aTJyXzR6dFdFOU9kUTJfUzZmVUhqdV9ndFgzOElrQmtjV1ZYeG1jNjB3MDlLOGNFNlk3bnhseEFpQ0p4T1F2VWo5cVpYeC1LZXZoQmQySnBWdUtJZzRjV1NNalNaRUtiUzFUVkpJNUJWaEV4RjBNSmNHODFhcHd4bk1vdW5mOWxVS0pHTVdaZWZUTTY3bVUzbXBpelNLZVdKV3dJMGV4aUgxc1dBbWdpblNqdHhNLWVGZXk4akk?oc=5",
+          "title": "搏拳實錄丨在絕望中築底",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONVpHaFB5WXBJYllMSUlnSkhaeXdtancyUWd4RDRlU2RVa290clBRRGhPb0tkYmFTbHhlTWZiWGhDVk43azRnSWdSNWZRYXRPWFg5ZnJnMlpYY3RwcWI4UHU4RVFMbUY0VUFFdWZyWlFtVkVYNzh0OHVLcGVIYWpsaEVvWXMxeFBPWkl3Snh4cHBfdW9oYWxCWnVhTW1YN1NOcDM2S3dab0h0QnVLZDlieUR5c01rVjRMMnlNVlQyVmFxVFFPWUdHVlRLN0MtLUtoY3NEN0IzMzA1VVlfcEJTb1M4emZzYjRHU2c?oc=5",
           "source": "信報網站",
-          "published_hkt": "07/03 03:27",
-          "related": [
-            "^HSI"
-          ]
+          "published_hkt": "07/06 07:35",
+          "related": []
         }
       ]
     },
@@ -224,34 +220,33 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-04 10:34 HKT",
+    "updated_at": "2026-07-06 09:12 HKT",
     "news": [
       {
-        "title": "CryptoQuant：比特币、以太坊及山寨币交易所存款激增，市场波动或将加剧",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4OUNlMzdQQzNwUVpUdGdaWFJ6MHc1MGFJSk1vTmMxbWpsa3FEc19rWm9ZVW8xcEZoX1FhTWYtNmFYZjF3Z3NCWjRUNkU0Q2lmcVU2OTFqOFN2MEFJR3VWOHNWWkdWUQ?oc=5",
-        "source": "TradingView",
-        "published_hkt": "07/04 09:21",
+        "title": "幣安單週資金淨流出逾12億美元 以太坊提款量創三年新高",
+        "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOSklBaXRqVHdKYTJtc1NMSlAxQzY0R1ZRTGE2Y0ZtSzNFWUkxMXZoMjdtak90ZHJoUXoycVdQWFdtaVlhSm9Tc3VWOFJGOHlrcG5FSjRrZ3lSOEhUbFhCbUxXSV9jbGNQX3RXZ211elVndDMtMXBFSk1YU2FYWWxEQ2M5T2ctM1lLYkdWemVLQVZQYVNlcTRQa2FocUdBWDIyM3N5bGp0TTdCdXY5aTBDVzlUd1NlR0JTTDVGN25TNEVmOWduNGhKc1VwWVlDa3hSeDNaU3ZYUGRxLWpTTmdQNnVsWHA0T1hWd2pnSVA5c25kX2pXVkdTZWMzNVBqVmFFaTlpQmJmdTB0RDJJWHFaYWhuOVVOM3ZVekR5Qkk5dmNHVTdIS3Q1VWVSNjlDdU5kR29FRkE3el9INW16VVN3WTktTlNfeDNtWW5UVm13ZFZRc1Y0LTZ2cW5tRlptSmEyX3VLeFgybGNLcG9ac29YT0lRQVppM2EyQkcxTWx6ZE5scHdocUE?oc=5",
+        "source": "商傳媒",
+        "published_hkt": "07/06 07:13",
         "related": [
-          "ETH"
+          "ETH",
+          "BNB"
         ]
       },
       {
-        "title": "比特幣價格新聞：麥可·塞勒表示比特幣可觸及50億人，價格正測試關鍵突破| MEXC 新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sSGxfSnJoek9hRlVTN3AxLWVpcHdQanpoa1Q1d2FEYlI2ZnJYZThXWDF2N2hIYVotWVdkNnNzRjQ2VnZvNnRrc01PMjhCTG5Y?oc=5",
-        "source": "MEXC",
-        "published_hkt": "07/04 08:59",
+        "title": "機構資金湧入加密市場 比特幣價格面臨多重考驗",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPRzhZcXNmdnlPVXhLbXEyT1JoeVc0V1AyT3pUTEpkRWdNRlg0emtLQlFvb2prV2xQQVIyOHR0U2dzYTVoakNQRFlpekY3VURrQ2VHb1Qwa29FUkIxTk9NODh3MzhfYVpTanBTaHZaNEtfNVgyVTdFSUUzQ1hXNUMtWVlmRmRDcFJCazRKRkFOcFhmR3RGMG1xaUhPSHJINmt0ZW1KR3pBYVpmMFdFUGtDVE1FbUVOX183dHRpREl5YTIzZTNqYWgwQ2gtRkloUm9aaW1MR1czajNpbW94Yy1rRXlKaDMyWXBuTHFxNFFvR0pQcWNXRzdyWV9HY3ljR3dYSTRzNy1PMm0yZ2FDYzNEVjltbi1TY2lrd1VHOUZzVy1peWJaX242amdZaXhZcnV4bjhTT056RndkTmJPdEpKZENJY2FEVXg2bDZvd25uYjU4eGlFVmlv?oc=5",
+        "source": "商傳媒",
+        "published_hkt": "07/06 07:12",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "以太坊價格預測：6月ETH疲軟可能源於零售拋售加劇和美國去風險化",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNQUw2cDF2eHBoNVhnRlhJNlJYVnVBWDcxejFNUlhVcFhGcjlFNVVRaE9TX3ZsSEloVTJzcjN3U2tPWVU3eFo0WkEzeWNfQXBqRE15ZUlWT0p3endUUjE5SzJIM0FVNjZBbXF2eGE3d2hpZ2JncFRvdkNWbFNKS0Y5OE9LT3JYVWh2aUY4cjFuc1p1Y3ZNenNLOEVKb3pqNGNJbUlSdzBMNFpzcWh6cmEwNVFJQXpwOGlkcVkyZTlweVVScHRva1FiNXExYkVfYmU1ekNnQWlhbGxvU0UzamQtN2FMWk52R2lSVmd6enZvNWlXOUE0aFRKRVNBU01nQ1ROQWdz0gGDAkFVX3lxTE1BTDZwMXZ4cGg1WGdGWEk2UlhWdUFYNzF6MU1SWFVwWEZyOUU1VVFoT1NfdmxISWhVMnNyM3dTa09ZVTd4WjRaQTN5Y19BcGpETXllSVZPSnd6d1RSMTlLMkgzQVU2NkFtcXZ4YTd3aGlnYmdwVG92Q1ZsU0pLRjk4T0tPclhVaHZpRjhyMW5zWnVjdk16c0s4RUpvemo0Y0ltSVJ3MEw0WnNxaHpyYTA1UUlBenA4aWRxWTJlOXB5VVJwdG9rUWI1cTFiRV9iZTV6Q2dBaWFsbG9TRTNqZC03YUxaTnZHaVJWZ3p6dm81aVc5QTRoVEpFU0FTTWdDVE5BZ3M?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "07/04 08:29",
-        "related": [
-          "ETH"
-        ]
+        "title": "7月5日晚上重要動態一覽",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wUXluejZRZEZPd24wYXN1RF9EYWdubnFvaC1pNUEtT3JySDBZdXpvbm5DRmpHT3NtbE1qaWxrZWtuWmcycTlhRTZlX0F3UGxhWEZXZW5OczFtRERKTExJWXBJNW0tR29IS05j0gFrQVVfeXFMTnBReW56NlFkRk93bjBhc3VEX0RhZ25ucW9oLWk1QS1PcnJIMFl1em9ubkNGakdPc21sTWppbGtla25aZzJxOWFFNmVfQXdQbGFYRldlbk5zMW1EREpMTElZcEk1bS1Hb0hLTmM?oc=5",
+        "source": "Bitget",
+        "published_hkt": "07/05 21:12",
+        "related": []
       }
     ]
   }

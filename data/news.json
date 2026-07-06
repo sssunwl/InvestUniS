@@ -218,8 +218,17 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-06 13:06 HKT",
+    "updated_at": "2026-07-06 13:15 HKT",
     "news": [
+      {
+        "title": "比特幣穩步回升接近關鍵阻力位——PUMP和HYPE帶動漲幅",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQnI3eFBBdjVfX0J4dFBlOGlZNFFGcG5mOEVZUkcwVnI3dmpBZkNaYTdxbUFQNHBodzJBZDNmTmpUVjRGRXNqU3VWSUE0VDdQMXhnVkJHSzlpQ1YzTjlEOUR2S0hyeG9IaE1rTGpsVWdILVdjR01TNUM0aldRRTBmYkxxQ0NMUlY0NE5vWXphNVRqY1pyZkl1NUI2S0E2Y3pQMElRcnJ3N281SWdETFJkTkRDWWwtVkEyS2lCbjUxbTI2bFFFX3VZeTFudG92T3JfWEprVS1PZ180Rlc3UzNTV2VPc0h2b1hKeUNONlExQ0djS1AwQUxHbktaVzEzemFD0gGAAkFVX3lxTE1Ccjd4UEF2NV9fQnh0UGU4aVk0UUZwbmY4RVlSRzBWcjd2akFmQ1phN3FtQVA0cGh3MkFkM2ZOalRWNEZFc2pTdVZJQTRUN1AxeGdWQkdLOWlDVjNOOUQ5RHZLSHJ4b0hoTWtMamxVZ0gtV2NHTVM1QzRqV1FFMGZiTHFDQ0xSVjQ0Tm9ZemE1VGpjWnJmSXU1QjZLQTZjelAwSVFycnc3bzVJZ0RMUmRORENZbC1WQTJLaUJuNTFtMjZsUUVfdVl5MW50b3ZPcl9YSmtVLU9nXzRGVzdTM1NXZU9zSHZvWEp5Q042UTFDR2NLUDBBTEduS1pXMTN6YUM?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "07/06 12:07",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "幣安單週資金淨流出逾12億美元 以太坊提款量創三年新高",
         "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOSklBaXRqVHdKYTJtc1NMSlAxQzY0R1ZRTGE2Y0ZtSzNFWUkxMXZoMjdtak90ZHJoUXoycVdQWFdtaVlhSm9Tc3VWOFJGOHlrcG5FSjRrZ3lSOEhUbFhCbUxXSV9jbGNQX3RXZ211elVndDMtMXBFSk1YU2FYWWxEQ2M5T2ctM1lLYkdWemVLQVZQYVNlcTRQa2FocUdBWDIyM3N5bGp0TTdCdXY5aTBDVzlUd1NlR0JTTDVGN25TNEVmOWduNGhKc1VwWVlDa3hSeDNaU3ZYUGRxLWpTTmdQNnVsWHA0T1hWd2pnSVA5c25kX2pXVkdTZWMzNVBqVmFFaTlpQmJmdTB0RDJJWHFaYWhuOVVOM3ZVekR5Qkk5dmNHVTdIS3Q1VWVSNjlDdU5kR29FRkE3el9INW16VVN3WTktTlNfeDNtWW5UVm13ZFZRc1Y0LTZ2cW5tRlptSmEyX3VLeFgybGNLcG9ac29YT0lRQVppM2EyQkcxTWx6ZE5scHdocUE?oc=5",
@@ -238,13 +247,6 @@
         "related": [
           "BTC"
         ]
-      },
-      {
-        "title": "聯準會升息預期降溫，bitcoin、ethereum及黃金持續反彈",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55cFVpeTFyYngxcU1tYmpHenJUaVpoNHA4Wnp1QnVvZnR5X1hUU2R6a2J4WDR5SnZ1UEc2WXczc2psQjVCdTU5cllIUU1qem1vaHJDajNDZ2xvcWE0eWREQlZYUzFJUdIBa0FVX3lxTE9tSzU2NzF6ekZKQ2JRM1BzTW1uU3FVNWYxQzh3NVlHekJvSHpGdHpabzU5Qmh4UG9pVlhSOElCb0p0cVhkN2tRbzNfTC1KaXd6cWdTaWtFdllwbWIwbHdpUWxJWkc1U2pSTWVr?oc=5",
-        "source": "Bitget",
-        "published_hkt": "07/06 00:13",
-        "related": []
       }
     ]
   }

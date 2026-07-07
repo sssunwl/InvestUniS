@@ -222,14 +222,16 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-07 23:44 HKT",
+    "updated_at": "2026-07-08 00:03 HKT",
     "news": [
       {
-        "title": "IOSG：Q-Day 倒計時，量子計算會終結加密貨幣嗎？",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVWJTckx3MWItX01RR1hObEZXT2xSTDNWaGtmRUdtWTc3QU55MUcwcWR6cWxqdzRVal9qSU5RTGM4bV9CNU1MMEVlaWlEaUtJeXhHNHZDNDNieVM2Y2hsbWZwbnNmeW5zWWJvZ0FyWGhJTlBya0NXbk9sdFFmWlVsck5Ha1F0QQ?oc=5",
-        "source": "PANews",
-        "published_hkt": "07/07 22:31",
-        "related": []
+        "title": "主要加密貨幣行情，比特幣跌0.18% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc2NrSDVzXzIwb05oZENfc19aWk9pcmFWYzVFQVkyazZBSHlpVHlwcU00UGJpczhYZllvcE8tXzFjajNIY3pLQTdaVmpRbUtNSHcwM0lGSWdQX0NZYy03Ql9fRDlYTXFZLTkxRFZsOTBhajhtU19qc1BPSTR6Y0drTjMzRVpWc0l4QXZZR1QyMjljRjFKQ3lyVGlFZ3VFdWI3?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "07/08 00:01",
+        "related": [
+          "BTC"
+        ]
       },
       {
         "title": "加密貨幣價格預測：瑞波幣、比特幣及加密貨幣——歐洲市場綜述 7月7日",

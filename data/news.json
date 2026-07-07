@@ -27,27 +27,27 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-07 10:45 HKT",
+      "updated_at": "2026-07-07 12:34 HKT",
       "news": [
         {
-          "title": "美總統為交易所敲開市鍾 看好美股",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1veUNFVjQ1ZE0wN05jNFFYYTBzOG9lOHFfa3FadTZJVWFlWmJ0X0U1dXVtaGtpYVJPbGZmZEE5TGMtWjh6a3VKQ202LUZHeVBXeGQ5aE1ORHB2aXh1dkh5R1lqamd5d0F5UTBYRlUyc2YzTnRYb3hjNU1nUQ?oc=5",
-          "source": "香港商报",
-          "published_hkt": "07/07 09:40",
+          "title": "大摩喊買雲端業者！警告「記憶體」類似「白銀」已見頂",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mS2F3Q1JWeHdHUzBreWN5VmJRbC1hamwzYUR2ZmhmNlJ4RDEyQ05wMXlzR3Zwbnk4MUNMdmZoOWVmR0ZiamNOSDd3bw?oc=5",
+          "source": "鉅亨網",
+          "published_hkt": "07/07 12:29",
           "related": []
         },
         {
-          "title": "博通領軍晶片股走高 美股再創高 道瓊登上53,055點",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hMW5Fc3JiRXNTWFVpZG5KNFJzcmRvUUFXcEtYelJQcFV2OENLOEdxX2JIbXdBRWlXUE1uaDA1eGdLd2w0WFU5bmFBLUU0RlE?oc=5",
+          "title": "“買入一切AI”時代終結了！高盛交易員明確警告",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9uYjJzQjl6NnllcWVEbEgyRzdFVzd4SlIwV1NxbExsNGtJNl81aVlxSi1UOXdhbHIzSDU2dF93OVMxMHlfUGZjVw?oc=5",
+          "source": "鉅亨號",
+          "published_hkt": "07/07 12:10",
+          "related": []
+        },
+        {
+          "title": "市場大洗牌免驚！財經名嘴克雷默點名5檔遭錯殺績優股：現在正是買點",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XUlFvZ2d2MjZJVUVidmVyYk5wNDdpZk95c1lTR0taR094WVlwS1hraDY2X21NUi1vRDdVTUlhbTBBdF9SOXVuS3RIV2IxTFk?oc=5",
           "source": "news.cnyes.com",
-          "published_hkt": "07/07 09:00",
-          "related": []
-        },
-        {
-          "title": "美股科技類股領漲 全球市場波動 鴻海營收成亮點",
-          "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNelBETkdDYXRLZG9ZZWpXVVFCek1WN0FWdkUxSFVRSmlhUFkxMF8tcXNnTXRPQUwxVmtKYXYyMUNrTTVKSGpKQ2N5SnhVM0l2Rzd6c2pBem53N055azVRQ3Bsbk02bXRQZkJOX20zam5vLTdwUkN6OEtJUUlJUXBSUVRYMVA0M0ZaT0I4cGR0UVJCN21iMi03b0g5R2xXUGh6eVh5RjM0TngwaWlXYjh4RkFyOU1uZHZ2MlgyQ2wzTWFVNDF2MWVvUS1oNTRHQWlXY3psZTFOVkhmVEpTcmI2WEl4TFZLOUhYandkaFFKc3laa1pncDZ6UGw4Z1JjcjFfTWRYTnoxTFU4bXVNZ3pMc1ZhWFRiMkd1VXF2aExiWmtGS25hemlGUmpOWk5mTGxGTEF2MXZvSTYyMnpZZ2xVMWFiMXBBcFhrdDF1OEFyV21DbUhpTUwydzNB?oc=5",
-          "source": "Yahoo股市",
-          "published_hkt": "07/07 08:12",
+          "published_hkt": "07/07 12:10",
           "related": []
         }
       ]
@@ -226,7 +226,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-07 10:45 HKT",
+    "updated_at": "2026-07-07 12:34 HKT",
     "news": [
       {
         "title": "主要加密貨幣行情，比特幣升0.18% | 即時新聞 - 新聞",

@@ -27,30 +27,28 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-07 09:12 HKT",
+      "updated_at": "2026-07-07 10:45 HKT",
       "news": [
+        {
+          "title": "美總統為交易所敲開市鍾 看好美股",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1veUNFVjQ1ZE0wN05jNFFYYTBzOG9lOHFfa3FadTZJVWFlWmJ0X0U1dXVtaGtpYVJPbGZmZEE5TGMtWjh6a3VKQ202LUZHeVBXeGQ5aE1ORHB2aXh1dkh5R1lqamd5d0F5UTBYRlUyc2YzTnRYb3hjNU1nUQ?oc=5",
+          "source": "香港商报",
+          "published_hkt": "07/07 09:40",
+          "related": []
+        },
+        {
+          "title": "博通領軍晶片股走高 美股再創高 道瓊登上53,055點",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hMW5Fc3JiRXNTWFVpZG5KNFJzcmRvUUFXcEtYelJQcFV2OENLOEdxX2JIbXdBRWlXUE1uaDA1eGdLd2w0WFU5bmFBLUU0RlE?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "07/07 09:00",
+          "related": []
+        },
         {
           "title": "美股科技類股領漲 全球市場波動 鴻海營收成亮點",
           "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNelBETkdDYXRLZG9ZZWpXVVFCek1WN0FWdkUxSFVRSmlhUFkxMF8tcXNnTXRPQUwxVmtKYXYyMUNrTTVKSGpKQ2N5SnhVM0l2Rzd6c2pBem53N055azVRQ3Bsbk02bXRQZkJOX20zam5vLTdwUkN6OEtJUUlJUXBSUVRYMVA0M0ZaT0I4cGR0UVJCN21iMi03b0g5R2xXUGh6eVh5RjM0TngwaWlXYjh4RkFyOU1uZHZ2MlgyQ2wzTWFVNDF2MWVvUS1oNTRHQWlXY3psZTFOVkhmVEpTcmI2WEl4TFZLOUhYandkaFFKc3laa1pncDZ6UGw4Z1JjcjFfTWRYTnoxTFU4bXVNZ3pMc1ZhWFRiMkd1VXF2aExiWmtGS25hemlGUmpOWk5mTGxGTEF2MXZvSTYyMnpZZ2xVMWFiMXBBcFhrdDF1OEFyV21DbUhpTUwydzNB?oc=5",
           "source": "Yahoo股市",
           "published_hkt": "07/07 08:12",
           "related": []
-        },
-        {
-          "title": "【美股盤勢】弱就業數據助攻，費半飆漲2%領軍科技股全線反攻（2026.07.07）",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQWRsTmVRUUd4M20wWlk4a05KcDhvWDJfaDNPMV9tamlwLW9ZZlRSbUEzdjFKdnVvWVRhbWJEU0dUTThEbzFMUGlyMWFmV01nd1pKcEMxTHh2RUFsZU55UVlxa0V6eFBlY3BhelRoclJZZ0tnRnVRcUV0c0RuZ09HU1loc0pWYmt0U1RsOERn?oc=5",
-          "source": "CMoney投資網誌",
-          "published_hkt": "07/07 07:56",
-          "related": []
-        },
-        {
-          "title": "美股開紅盤AI概念股反彈 那斯達克上漲，道瓊盤中一度突破53000點",
-          "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOMFBwVDBLbERDcENGamxObkRIY2lGU2tzU2ZGM0ZwdmM1WEdicWlub3B4UFltV3QxMF9yQzgzbGdzcDUxZFd1eUpuSHNBc2h2ZXVpR19LU2NILUZXSi0zbWRKeGlZVTVTSklvaXBxRWdzaXZWMmY5dm5QZENpVVI1MFRSd01NajFWTTNabVpoajQ1T3ltbUxXb3J4OVNaR0ZpVm1mXy1HYnJ5UWlTU0pDTE5YWWlQTDZLTm9Id2xmcVNUV3c2SDh1S2RocnhmZkRTcFNjaUNNUHRoMWl3MzhJYUpqd3ozcGcyaXk5VjA1M2xTNFd5S2pRamZTbFRiS0JhYlVXUXhHcmFPYUhmTGpOdzVmbWRYWWt4TFh3eFFRNV94cnhKdTRTWXhpNGdGRUxkYUZEWGdaNXdpbFZwSFRLR1RyWXlNTE1nMGFDMy1tSDNsMDg0UU4zclNPSmRvV2RJaExSY3pNLXNpRFBlM21N?oc=5",
-          "source": "Life 生活網",
-          "published_hkt": "07/07 07:51",
-          "related": [
-            "QQQ"
-          ]
         }
       ]
     }
@@ -228,13 +226,22 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-07 09:12 HKT",
+    "updated_at": "2026-07-07 10:45 HKT",
     "news": [
       {
         "title": "主要加密貨幣行情，比特幣升0.18% | 即時新聞 - 新聞",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSzNiSXRwSUdQcFROa21mVmZLU2dhenkyRE9ldXVISERwQTQ4V1o0RTNjeGlrdXpGY2g1MFVGZldTNFAzUzlFZzZEOFI2Tm42YlFGTkp1Vm9LX0EzdGFWN0NiVTZyVlppV0o2eGpZZjk0SHhURDVFTWREWVVIa1J1NWJocUZhS016TE1EXzhnelNEdWJSWjM1MXZMUDR5RzV3?oc=5",
         "source": "etnet 經濟通",
-        "published_hkt": "07/07 09:01",
+        "published_hkt": "07/07 09:38",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "比特幣衝高6.47萬美元！9.2萬人爆倉5億鎂，空軍遭血洗吞下六成",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb0Z1MXRKa2hnVWpWam5WZ000NnhoYmNaUzY5dFp2ajdHaW9fX01OUU1JY2oxOE9kMC1UX2NEMXE4NC1lRXFid0w5Q2EwMElpSGtqVThQbTAyS3puOExkOFhRTFAzbTYwcmU3a0txejV2YU4zdGc1YkNpcUZqTE5EQjZhVktpRnpJNHZ6bkFFRUV4ZW10NC15NGRPSXhhZDQ?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "07/07 09:27",
         "related": [
           "BTC"
         ]
@@ -244,15 +251,6 @@
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UQVVwZ3RPSlY1ODFicHlsUHRuVXlRVDFiUzV2SFB5c3JVTXE2dTZITnZ3Yk14eUNUZFU4UlZfbnFSazJGOVRKZ29zS3F5V0l3dzd4eEg0QTZiRzNaTmY5TFhn?oc=5",
         "source": "鏈新聞 ABMedia",
         "published_hkt": "07/07 07:38",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "比特幣國庫模型接受考驗，策略賣出3,588 BTC",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZUVrcVNjalFnbmpJOFB6UU44VkUxUGQxSThmLU5DV1Rxa3FuTXFfZW1IT3RMUmV2dm45OWRXd2ZhbEVEN1Y4dDRBQ1h6ci00SmlnZDI0a0F3NGk0RWN3OHd2YUIyaTJzYUg3MTJHVVI5Q2JDLWZGV25jbm92TV9weG4zQmJtYWZEa1VSelFGRDgwX3VIWEdVc2wzV1RYbGpndGV6NVpfYmktcWswWHhWU2JyUWxScXlNQ2RZOTR3WmFJTlJJbS1r0gHHAUFVX3lxTE9lRWtxU2NqUWduakk4UHpRTjhWRTFQZDFJOGYtTkNXVHFrcW5NcV9lbUhPdExSZXZ2bjk5ZFd3ZmFsRUQ3Vjh0NEFDWHpyLTRKaWdkMjRrQXc0aTRFY3c4d3ZhQjJpMnNhSDcxMkdVUjlDYkMtZkZXbmNub3ZNX3B4bjNCYm1hZkRrVVJ6UUZEODBfdUhYR1VzbDNXVFhsamd0ZXo1Wl9iaS1xazBYeFZTYnJRbFJxeU1DZFk5NHdaYUlOUkltLWs?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "07/07 04:18",
         "related": [
           "BTC"
         ]

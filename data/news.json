@@ -85,33 +85,32 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-07 19:47 HKT",
+      "updated_at": "2026-07-07 23:44 HKT",
       "news": [
         {
-          "title": "HSI港股「小暑」上落 好友「大暑」逃生",
-          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOb3RtZDJGYzF3OGlUVVhiOHp3Mkg1eTJTVHJtTEQ3N01SUk9QQ1RlRlNXOUdxM1lVWUxkaU0xM1FSUEFrSTlfdFNyQ3B3RmRRRDhMRTE1ZHA0LW9CRnpRWE5UMWduTjUxOUpKQUp0QlQtNlVtalVFcW50VzY5ZHU5ZGZPbGZFaVY1X0pzUEhEX3ZWTnZOY0pFaWI1aVoyZmRHaFMyM1hrWThEN2FzcVh2aGxOb2I1Nkp4SDJZemlOczJScG1VOVBCMGpJdzRTcENDdzV5bXlna01ER0ZZMklVN21hVFRVcHltUklEMEVzSVFVcDhSOTdEWktscTg3Y0ktb3dlV1RGVFdPSmo2MnQ3LVlzTkE1N3BzMmc?oc=5",
-          "source": "香港經濟日報HKET",
-          "published_hkt": "07/07 18:19",
+          "title": "港股收市 ｜ 恒生指數 7月7日表現虎頭蛇尾：光通訊股捱沽",
+          "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOQUN0NDFBMzhOb1RIUXo2Z3NwY3ZmVGRrS1BkQTEtMWoyclU1Wk9WZlZLdXNPclFaeURBVU5ZYUdzWUUtb1RzYUFiSHowRXBxN05YMW9YUHlUbFJQWDZkTGdXaGVDQ2FNSUo5amtuLXpyQ1U2ZXlQQ09Cbm8wU09aSVR1ZHE2RFpScTNzamd1Z2lhbXlZZWNVYl91UjlneHdzbEtNV2xEZTVmRWNDMXNWM1hQZWxZU2V5YjlUQjJRSDlHTmJyRVYwZkVta2hVUFQ4WmtQalF1SW41aHVnLVh6amZTNFIyaUVaUTM2UU5Hb2xkYUZNUEFRTG1VQWxtX3hKZzdLYzJRdmlfZFVOOEd4cldyOUhwc1dzMDJSUTJWM2cwQmZlYWwxR2ZKVlk2VlhBVW91cHhveVM2WTVvdEQyQVlDeTJWRXZhclJ5VC1MU042TjIxLTM4UGpzaW1GZlJaSnc?oc=5",
+          "source": "香港財經時報HKBT",
+          "published_hkt": "07/07 23:19",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "【港股收市】恒指跌119點 3連升斷纜 快手遭騰訊減持瀉12%",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xWGZlbHJWU2kyaERHU0RoMmxobFk4MDc2OTFYdE1vSm9iQ0IxOHhOR2VBTTMzaHFHSWFVOFhVcWtvN052S0M3Z2FLTDZrZTVjVGUxNGNYdXl0eDRzTWEydFNHc0xVX2M?oc=5",
-          "source": "Now 新聞",
-          "published_hkt": "07/07 17:28",
-          "related": [
-            "^HSI",
-            "0700.HK"
-          ]
+          "title": "【港股夜期+ADR+北水】阿里美股高港1% 夜期跌1點（不斷更新）",
+          "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQbEJOSmpCakhWS3llR2VkbnlxanZRbU1LUnEwd0otQUxnWE5NSTVwSW9HRXZNclRrYlVDT1VyVXhxb0Zyc2RpeTc0eGl6WnVaY1UxamRIc0RUTk1zYWlvR0Y0eXRDQVA0TERZNEZFaUViVEVPNno1SEgzRTdqYXNYbWxmT0lhNlBFOWlydmxENkJ1SHhaVVNKZmNhQWRDVGw5UThiY2NhYTR5VTc0UGNfT1ZER1hFZllFakUxLWZpWWdERUR5V1BjbjlOckRDOFEtbk83V1FGeTU1NXNEUkdydHZ2SGZkMERVODFuVl8xTnRuZ0daZkYyd3FkVVJyYUJHWmpiYzNhbzFkdVRNNEhfV1NBLTlVZWw5Vm1sa3ZoSkhvNU1uOVdWTHRtZ3RMLVMxd19GUU9Zc3JyX1dxd3dtMnNJamRRaWw5R01hYUh2bjFsYTNYX1V3aFFYRnY2aXpGZlJicnFHSmxsRGR6YTJTVC04a09Yd2o0QnZaVUJJRFFGT01NS0w3bk5RSzFYZk80eE4tMA?oc=5",
+          "source": "香港經濟日報HKET",
+          "published_hkt": "07/07 23:09",
+          "related": []
         },
         {
-          "title": "港股低收119點 結束3日升勢 快手挫12%",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90RzZoUGEyQ1dFaThWdl93M1NXZlNEWlA3ZE54VWV6Nl95Rm1sZnlOalpUNEk5S2RuUzVqd2lxa3pwWDlRX0JFMVI3VS1aZDRBa2dzakNTYndXQjhkY1ZSMy12ZkN1M1dJTFQ4c2p5aw?oc=5",
-          "source": "RTHK News",
-          "published_hkt": "07/07 17:07",
-          "related": []
+          "title": "恒指收市跌119點 北水流入4億 新股同仁堂醫養跌39% (16:20) - 20260707 - 即時財經新聞",
+          "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQd3h4NWhBVTZHbVUwSG1tOEd3UVQzTDRoNHpibWNVM1ViS1RhVDZiZmNEY3gwbXZBT2xOay1LdlVaVm5TQ1NGQjRnV0Zic2NnTnlkb3B3aVMwcDBtcWNnS0c2NlVJY2Z0MXptS1MwVVRNMm5BUktHeHVTMUh6QkZHWHZrMFFkLW9EQ09WbW80TDYzVFZvRXZKaHQxTWp0MHAzS0wzcXE0b2pHeUl1SDF1RnhPQmhKM3hsQlYxLU1EUndvUDBuXzdsUjlSQklKNDkyNGlZZWhfOVc0cVNlbkhGRjdfclYzUUFjWFBybzRoTmVTRGQtWW9hWVM1QUUwOHg1eWtJM1pHNXgtSERXSnhjMkMtZFpoSHAwbnVtWHJITnV3SXhBT0tnOC01Mk9TNGlxdVlfOHU1eTRZUndXb2hPZkE0OUg2dzhxR09zNDVSeXJSbF96cUljWkZDTmdnOG45?oc=5",
+          "source": "明報財經網",
+          "published_hkt": "07/07 21:27",
+          "related": [
+            "^HSI"
+          ]
         }
       ]
     }
@@ -141,27 +140,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-07 19:47 HKT",
+      "updated_at": "2026-07-07 23:44 HKT",
       "news": [
         {
-          "title": "00685L群益臺灣加權正2懶人包：經理費0.3%最低、怎麼買、和00631L差在哪？",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sOXBlSGZfRm01MVhoVG9ndXpBV2gySzdxR2Z5SVBpeUFySWQtaV9id2hfbEl2VDBSS1pGLW9uYXlqYUxDWGRzY0NtcHp0MG9RS2ZwdVY1b0x5YjVrbkQ1V1ZuQW5udw?oc=5",
-          "source": "數位時代",
-          "published_hkt": "07/07 19:00",
-          "related": []
+          "title": "TWA00 加權指數- AI支出上看兆元，半導體逢修資金轉向雲端- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qcUxUNVBpTmdkdjRlLWpDa0ZZbWcta09LRzFrN1Y4U2J6VUt2b0I0X1FTX0VGaFFHWG4wdlU4UGVJQ3ZFZElMeUFKYmRKTnA0MHBPT2hiVW8?oc=5",
+          "source": "CMoney",
+          "published_hkt": "07/07 22:39",
+          "related": [
+            "^TWII"
+          ]
         },
         {
-          "title": "台股大怒神！早盤大漲逾400點午盤「豬羊變色」 終場暴跌1077點改寫史上第八大跌點",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94aFVtcm55Y0pPeFBpVTdjaWlJOVBOMUQzeWZOOFg0WXR2bzRNcThBX3pXakdxVFhDUjlrTEJSNVlQQWwtU0gzZ0RncVhUTFlPR2c?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "07/07 18:41",
-          "related": []
+          "title": "TWA00 加權指數- 台股長黑摜破月線⚠️ AI股重挫📉 聚焦月線保衛戰🔎 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1WjNzejJMMy12RzdGU1JTRDg3WjV2WW0ycnh4LVNrVzlBSzJQa1FJQy1VdWlsX3V2bHQ0T2M3LS15aHdoUDFISjB5N09NdHF2bWszWmlvTXE?oc=5",
+          "source": "CMoney",
+          "published_hkt": "07/07 21:19",
+          "related": [
+            "^TWII"
+          ]
         },
         {
-          "title": "驚爆121萬張大量！ 陳重銘曝這檔「抄底神股」：跌得深才彈得高",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2WXh6VDRpZW5XbjJKTWpNY2syY0lxWWNPTFlhSjNCMEI4TjNfdVdGRmZBUE5ZazdsNHZkalNGMXBSSEp0dEtyS3RNdXZvd0JlVlFXay1B?oc=5",
-          "source": "東森電視",
-          "published_hkt": "07/07 18:07",
+          "title": "股災時要怎麼買？專家曝「一定買這檔」：跌得深就彈得高",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXM2lBNW8yTDBFSmJFeUVDS1luaHpTb1FtVVJWUi1MbVRaZ1JaeThWRlpaNjZPUlJ5c1VZZEVQd21jbDM0Mmx2Y0NFUQ?oc=5",
+          "source": "三立新聞",
+          "published_hkt": "07/07 21:10",
           "related": []
         }
       ]
@@ -190,7 +193,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-07 19:47 HKT",
+      "updated_at": "2026-07-07 23:44 HKT",
       "news": [
         {
           "title": "《日股》日經受半導體類股拖累，收跌2.12%",
@@ -219,28 +222,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-07 19:47 HKT",
+    "updated_at": "2026-07-07 23:44 HKT",
     "news": [
       {
         "title": "IOSG：Q-Day 倒計時，量子計算會終結加密貨幣嗎？",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVWJTckx3MWItX01RR1hObEZXT2xSTDNWaGtmRUdtWTc3QU55MUcwcWR6cWxqdzRVal9qSU5RTGM4bV9CNU1MMEVlaWlEaUtJeXhHNHZDNDNieVM2Y2hsbWZwbnNmeW5zWWJvZ0FyWGhJTlBya0NXbk9sdFFmWlVsck5Ha1F0QQ?oc=5",
         "source": "PANews",
-        "published_hkt": "07/07 16:29",
+        "published_hkt": "07/07 22:31",
         "related": []
       },
       {
-        "title": "Bonk表情包幣在最近發生2000萬美元駭客事件後，接下來會怎樣？",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaGRMQlUySnZ1SzhibU1VTmxwU3JsaFFuUlVETXd2NFc5Nzc5UWh5RFk2NVlEOVJzNnhnWUFwbjdRS010RGpmZzY5UWVFU0YzWlpiQVpnclFUT1R6TmNrczZyV3hGanBGSUgxUTlGY29fc1U1M21PM3BvMkxFZTNOaDY4a2NCSUc1Uk5feExWTkZrZ2xnNFNocGdUalJoN28wNDNSVVNSaG8tVXdRVW5zelJMZUNDeHVtSlF5dC1CX2FseWFJUVh2M1ZjcW1zajhDQVhRM3JtMWVyNUxXamdfNlZDT0I1S2pERlJzOTE5eEnSAfABQVVfeXFMTWhkTEJVMkp2dUs4Ym1NVU5scFNybGhRblJVRE13djRXOTc3OVFoeURZNjVZRDlSczZ4Z1lBcG43UUtNdERqZmc2OVFlRVNGM1paYkFaZ3JRVE9Uek5ja3M2cld4RmpwRklIMVE5RmNvX3NVNTNtTzNwbzJMRWUzTmg2OGtjQklHNVJOX3hMVk5Ga2dsZzRTaHBnVGpSaDdvMDQzUlVTUmhvLVV3UVVuc3pSTGVDQ3h1bUpReXQtQl9hbHlhSVFYdjNWY3Ftc2o4Q0FYUTNybTFlcjVMV2pnXzZWQ09CNUtqREZSczkxOXhJ?oc=5",
+        "title": "加密貨幣價格預測：瑞波幣、比特幣及加密貨幣——歐洲市場綜述 7月7日",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRDQzck9iVVhlUWJ2Z09HV2dYRDZWTlZXQkswczJRVHlGMEtWaTZJYTEzUl8zSWk1SE14NVE1ckxlUmhHSXpxV3cxdk9jYTV2N1U0VmRCaVRpV0FaR0NjeTM2V0c2UTFiSUdSVHVGTlREMEZIZEtkYm1LNFo5LW1Rb1hia2w3elI2MFZ3V0gtcTAzbk5tMTNkWldvWG5ZUjZQc1Nxa21yTTVyZ0dZRHdkYWZBM0NRYzg1ekp2RFdpREdjWk1MN202OHNDUDdtR3FXNXNyNF9EUzNLUDZ6aE9OM3pnWVhIOFEtaUNlZHZB0gHzAUFVX3lxTE1ZdGtfb1lSOUJmREV6bTVXUUpxMHBqaG9VcUJFSTdKQ0Jnd2Vjb0NZdGUzQ2wtYjhyN2hXR0tIaFFuN0N4LUJRSE1LcDVSYk1Tb3lObW1XeHA2b01rbzc3aTRFR2JVTVRDQXhxZW1GRWl0VWwyMXRYYnBjNmNpWmtzZktoX1ZKTlJuaTYzdnpuOVhwZmR5YjFCYXQzMHlyQThfbVFPYUpWRDNwZWJsWFpKQWFVczVrVHM3TjItVFhTQnpZTVJhRWI2S3Mzc2VjcGY0VmRRc0pGaFV1eXIwLTZhSTF2TVF0WVRSZ2NLNnlPWTYtZw?oc=5",
         "source": "FXStreet",
-        "published_hkt": "07/07 16:26",
-        "related": []
+        "published_hkt": "07/07 20:46",
+        "related": [
+          "BTC"
+        ]
       },
       {
-        "title": "Bitmine 又加碼掃貨！Tom Lee：《CLARITY 法案》是以太幣強勢關鍵",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUWk1eEVLcllsUWptMzNxTzVEaDVreXZzQkJhY2hqdXlLQks0R2MzTFZWRklXcW1TNjY3cHdYQVJGMjdPd1FzWHFaN29BV0Z0amY4WGNna1hwUzJvVjg1clAyWFlpaGltTnpSY3RqTHE1ak9DMUZ0WGlWVXlUdFJFc0U0dDF2V1hUOVgxQXpFcTFXem8?oc=5",
-        "source": "區塊客",
-        "published_hkt": "07/07 14:36",
-        "related": []
+        "title": "比特幣價格預測：儘管ETF資金流入回暖，BTC仍掙扎，策略拋售影響減弱",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQVVBJdXNFalo5X0JwZWpUSXFlSjF3dFpGS2Y1aWxKRkVTMjNQWUJ0QkJOTHdheTRDcUk4cWg5cW5rV3BPdzYyZC02dEd6dFdwOGlNT0lpU0JaU29XWFhkUkFZNThFX3BmMUYtWmtsZnNzcFROU1dmR2VfOTdSLTU5YzVHVG9XUU0xcjlReHJLY0xmQ0lXYXJwM3o0a3RYeVR3V1Nxb0NKUnZHX3JXQjFzS2RudUNMRWt5RFR5cmJxa2c4TTJnbGZrVk56NG12R0NwZ3B6QmMzTE4xSjNrZEpmTE1UM2VCUXNDMWhOeEJnTmxabmpDdmlBamZDMmxUblBmNWNJ0gGDAkFVX3lxTFBVUEl1c0VqWjlfQnBlalRJcWVKMXd0WkZLZjVpbEpGRVMyM1BZQnRCQk5Md2F5NENxSThxaDlxbmtXcE93NjJkLTZ0R3p0V3A4aU1PSWlTQlpTb1dYWGRSQVk1OEVfcGYxRi1aa2xmc3NwVE5TV2ZHZV85N1ItNTljNUdUb1dRTTFyOVF4cktjTGZDSVdhcnAzejRrdFh5VHdXU3FvQ0pSdkdfcldCMXNLZG51Q0xFa3lEVHlyYnFrZzhNMmdsZmtWTno0bXZHQ3BncHpCYzNMTjFKM2tkSmZMTVQzZUJRc0MxaE54QmdObFpuakN2aUFqZkMybFRuUGY1Y0k?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "07/07 20:22",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

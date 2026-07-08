@@ -85,8 +85,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-08 18:33 HKT",
+      "updated_at": "2026-07-08 19:02 HKT",
       "news": [
+        {
+          "title": "基金下半年重新配置：恒生指數有望上試保力加通道上線水平約25,040點",
+          "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQNnZTSTlCZ01PYnlrWUNyMlpRUUVCRzkwUkVjd2NsdVhQODhkektQSDdXN2JxOVZQd0JmT19NVEtfM1plcWhxdGJwM0tGTHdQMlRqMFhqZHdZRGRVSHkzR3htRV9pb01zel9pdUlMd2tiZUFHeHlDSUs2WGs3Y2xQSllzZHlXdzVya2drdWpxVEhGcEthSVBCdUlKaUN3SThOVnhyV0VRTldnRE8yU1h5dzY0b1VabzV0aUlDQ3g3aWJGbDdlZ25lbXU4Y09YRXVsZDU2eFhqZ255dVl1RUZhLTg1bTRnLTRXZTlwQm1oeUhHM01US3BWbjlMbmQya0lYR1ZqTUZsUWFxRHlSYmVXdEMwX09Odks1U0wwN0Zrc3l5VjhqM1BjaUQxSWVUTW4wN1NOb2xXX2pGSzFKVUZyTkY3SklVbmlZSmx6LUNOOXlNTlpzQVhiVjFGYlRFTUhFTFNpTg?oc=5",
+          "source": "香港財經時報HKBT",
+          "published_hkt": "07/08 18:53",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "HSI港股關關難過關關過",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWC1RMjZkNUR1WlMzU3EyTGdiMTMwWEZIbGpVRnBZeXQ4S1dvSWV4RkEtT1pvZnlnTnVFYW1zQlFBZTFNMTdSWmV6Rl9GMU9DU0J3cVJxaW9kM25vN1lwVHozTk5OTlQ5U05TMmdqdjc3RXE3aGJuc3ItN1RURVRURW56bmR2ZGdfbmVQX0xaWWo1WTc3NEpJdTBQM0Z0dXFoeXRTeFZiXzFYaVl1U21nYkhDLUlub0g3dEVUeWlNcEQtZw?oc=5",
@@ -103,16 +112,6 @@
           "published_hkt": "07/08 17:24",
           "related": [
             "^HSI"
-          ]
-        },
-        {
-          "title": "【港股收市】恒指急升逾700點阿里巴巴重返「紅底股」 - 投資 - 香港文匯網",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjTURidkVEZnlJMklueFR3cVY2UURKSVdSdVE1aTlRRzgxcUJLNXNNM2o4eE5CaDNneldWWi1QREpyWU5YeEhrUHZzSHhwR19Sc3Ewc1N4Mk9IRDJibkU0WmdaQ25iNk1rb2RmNmVTdjMtSFE4enlr?oc=5",
-          "source": "香港文匯網",
-          "published_hkt": "07/08 17:24",
-          "related": [
-            "^HSI",
-            "9988.HK"
           ]
         }
       ]
@@ -148,29 +147,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-08 18:33 HKT",
+      "updated_at": "2026-07-08 19:02 HKT",
       "news": [
         {
-          "title": "台股逼近季線大洗盤，融資大減203億還不夠？長線資金已在「這點位」悄悄卡位",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9obzByN3RJOFdrcDNvVGFQZ3BEZWp6YkJwVFF4S0h5dFlWbVRPRThFQ0RDOXNoTm9HSGhZekJmdXZ6TkJYTW8xbHFpMnY3Tzg?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "07/08 17:25",
-          "related": []
-        },
-        {
-          "title": "《台股重要指標（3-1）》加權指數 6日ＲＳＩ為44.94",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcTB4VVlXanhxd1l3d0V6ZWZBRWNBUXVkUnFvVXM5cWF2SXJqX0FxZW9SZWJ4S0hCRjFlaUZVZ181Uy16alE4OWhJNUtsclE0Z0s3SFc2N0ZUSHFkcnFPS1pacUhYaEp1UGp1YVVGQUFPZnBhdGZWRG15eERkUmVwOGhJQjhtQ0hz?oc=5",
-          "source": "富聯網",
-          "published_hkt": "07/08 16:39",
+          "title": "TWA00 加權指數- 別思考過度（參考） - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wblNLTXhtRm9qX191U2UwS1VOOUdlekdVRXd5cmlDN195bjJSZlE3U3lWMWFuMFBNYW4ydWI0M2hPc3V5ZFF6MWFlZmM4SnAxTW54QkdZSlg?oc=5",
+          "source": "CMoney",
+          "published_hkt": "07/08 18:37",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "《台股重要指標（3-2）》加權指數 9日Ｋ值為49.44，9日Ｄ值為52.91",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVG9uTnIwS1ZtblBQa2VKNzZHQm1XOXVvTnFWbi10SWRuUkdFM1lXSFZHRUMyZVlMMDNBX1hfU25oUlpvZWtFSURkOFc0VkduY0hXOEdxdnhpNVBISmhPMV95VTFPd25mcTluQWZxVUMwa3dIemhnNHlnVTlIQ3NPYVFLUVlSUDhN?oc=5",
-          "source": "富聯網",
-          "published_hkt": "07/08 16:39",
+          "title": "TWA00 加權指數- 台股下一個千金! - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ibnE4VnFoUDVtS1pUajEzaGRqYUNmSlpTbUVIdzZzeXRFTTZVSlBJZ29ZUHQxU3gySEdRWE5KMTNxWnRYMXZWQ3ZVSk9hWDhyNzBOY24yb0s?oc=5",
+          "source": "CMoney",
+          "published_hkt": "07/08 17:55",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
+          "title": "TWA00 加權指數- 千點殺盤後，外資正在換股？AI行情進入下一階段- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lRG9ZTS16NXFDQXJQaEtSdlZqcFBxLTFQcW9TaVBPZ2JDWHVrNEJpTEpucGVRbENvcUpKdUlycGwyWTBJUjZLNU9jVVpVeGtQODlWVlVjdmM?oc=5",
+          "source": "CMoney",
+          "published_hkt": "07/08 17:36",
           "related": [
             "^TWII"
           ]
@@ -201,7 +202,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-08 18:33 HKT",
+      "updated_at": "2026-07-08 19:02 HKT",
       "news": [
         {
           "title": "《日股》半導體賣壓仍重，日經收跌2.11%",
@@ -232,8 +233,17 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-08 18:33 HKT",
+    "updated_at": "2026-07-08 19:02 HKT",
     "news": [
+      {
+        "title": "主要加密貨幣行情，比特幣跌0.78% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNngxbWpjbGZpY0puUmNlUE9kWU5nSHZzc0VEdWxFMjZEQnpVbFRHRldFWFNLUDFhdTJMaVh6ZXJ4M0pKQUtNVFRDSTRtaTVvMS1nRTRxWFQxZ196YmR1VzE5U1pxa21VWHRYbVVTaHAxdUJsWUhsX2h6SEUwajhkMmJLU2ZGS0h0V1dITkxHdDNkMG96VFZNSDdtRDBFOUgw?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "07/08 16:00",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "比特幣價格預測：隨著美伊新一輪緊張局勢抑制風險偏好，BTC回落",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQb3VQM215MktsQ0xuSTlZNGtsSFUxdjBSaEdyNG1SeEMxalV5WnVULXlPRkc5UU1lVm1teWlFWG13ZWtFbEFWNGRQYm12Z2dqal9BLW5hMjh1eXpIRkpOUWN2aVhfSUxwU2VxR2VmRW1jemhkUmdiYnk2MjNwTkpFZ0c4LWdWN2Rwam02bEtzZmxBeTZURXpqOGVvR3FuakZsWFp5d3ozbkhkTG9RNl9mNGhFU0ZUSERxanB3dkVhMnZHcXVhbmFuaDNpNzQxODQxY1VrUVcyNGdQS2xtVHRMSF9rSjgyUEpHdkoyVEJtZkIzbXPSAfMBQVVfeXFMUG91UDNteTJLbENMbkk5WTRrbEhVMXYwUmhHcjRtUnhDMWpVeVp1VC15T0ZHOVFNZVZtbXlpRVhtd2VrRWxBVjRkUGJtdmdnampfQS1uYTI4dXl6SEZKTlFjdmlYX0lMcFNlcUdlZkVtY3poZFJnYmJ5NjIzcE5KRWdHOC1nVjdkcGptNmxLc2ZsQXk2VEV6ajhlb0dxbmpGbFhaeXd6M25IZExvUTZfZjRoRVNGVEhEcWpwd3ZFYTJ2R3F1YW5hbmgzaTc0MTg0MWNVa1FXMjRnUEtsbVR0TEhfa0o4MlBKR3ZKMlRCbWZCM21z?oc=5",
@@ -251,13 +261,6 @@
         "related": [
           "BTC"
         ]
-      },
-      {
-        "title": "加密貨幣價格預測：Pi Network、Cardano 與 Zcash – 亞洲盤點 7月8日",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWmRITGNoTWNkUjlPQTRqMzNRNDllR2F1S0NBSEN5QjJXXzk4TW1WUWRGU0RkMXBsaGxRMmJJdVRvMDhXd2JfZG9mZi0zUGsxOThHX2tNcl9nQTNVVnpFd3F1OU9VTy1EVTBzb2o3QlBzVUl5T1B4a0xzcUJyOHNuR1NuUXc3U1JuZjM0SFphakdua1lIV1BYNnhYQ3JXNEZIT3J3U0pqNHZLNzhwdXhlVXR3dlV0WmMwbEkwZW1ReHdoeGtCZU9RRE8wVHRKWGlubnZLa0VIbG0zWnfSAdsBQVVfeXFMUFpkSExjaE1jZFI5T0E0ajMzUTQ5ZUdhdUtDQUhDeUIyV185OE1tVlFkRlNEZDFwbGhsUTJiSXVUbzA4V3diX2RvZmYtM1BrMTk4R19rTXJfZ0EzVVZ6RXdxdTlPVU8tRFUwc29qN0JQc1VJeU9QeGtMc3FCcjhzbkdTblF3N1NSbmYzNEhaYWpHbmtZSFdQWDZ4WENyVzRGSE9yd1NKajR2Szc4cHV4ZVV0d3ZVdFpjMGxJMGVtUXh3aHhrQmVPUURPMFR0Slhpbm52S2tFSGxtM1p3?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "07/08 13:27",
-        "related": []
       }
     ]
   }

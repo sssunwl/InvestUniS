@@ -27,15 +27,8 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-08 11:55 HKT",
+      "updated_at": "2026-07-08 12:10 HKT",
       "news": [
-        {
-          "title": "國泰證7月投資觀點：AI行情撐美股、日股四大產業升溫",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zUUNqUUZwTy1YV2xLaGlsbDVBZE9YaGgzc0JkbDd6N2psMGRXRmtjX3Q2OVVhQThfQ1JmeU1BOFZraTVzd3AwZ05memg3VjFxTV9GVURLREY3d9IBX0FVX3lxTE1wZHlUQkVaNmIyVk9NOHVmZW8zbWZFTWhjZGNra3k4NUZLZFp5MHJkSWphbTItT20zY2hHRmt0bWdNLVBTRWJHSVpJZS00ZFJKRDZKUG5ZUnBVSGlMUm80?oc=5",
-          "source": "經濟日報",
-          "published_hkt": "07/08 11:29",
-          "related": []
-        },
         {
           "title": "美股牛市未完？高盛喊「別輕易下車」：AI成最大變數、震盪恐加劇",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCeDVZQnVfdFFldzhWNDQzVXB1R25Sd3dNay1fUDBNckFTS2dEVUFBLTkyRWU5Q3gycTdtaDBPX0lsOGY0dFY2dHZVYmt4UFU?oc=5",
@@ -51,6 +44,13 @@
           "related": [
             "NVDA"
           ]
+        },
+        {
+          "title": "油價飆漲助長加股、AI 股疲軟拖累美股 北美市場走勢分歧",
+          "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQUHZKS2FOQ1BIYU1zLVdMaEhfbVBza3RPRS1yT29QTGVQVG9uOEZwZ1Vva0p6cVVsUWZCMzZscWFLdlgtaXhRUTNnSzJneXJBYzBqd2tpbU81aGRwczYzUi01aW1ycFpyYV9WRmtxakxXZV9QTDVJa01NQlhrVGFOTWI2Z0g3Mkt1Vkp3MWk4ZmJnMFYxeG5GcjhSMGZmLWxwWThZenJNWlZ3OVpzQ2t5b1Y2RUc2NC0xUUxmel8wQnZUemF1R25lclVMMzh3cXh0WjVCam5NZzZSMC1uaTQzRE5ic3dwbDBBQkVqbmpTQzJMSkdIUjI0bDlKb0R0NkczYV9pQ1JMZ3RCZHBfOU8tY0J5aVZLRUdjRTVxQXZXbS1WQ09USnpuOFFtM3RyNFhXYzRRb09RZXhFRTVHSURvd3lOQnJGTlhhdUI2WXNUQ2hnVm12YUw4dTY1WnBZLVZHSDFkUndkUzNvVXRhUWdmOVlCQ1U2UQ?oc=5",
+          "source": "Yahoo股市",
+          "published_hkt": "07/08 11:09",
+          "related": []
         }
       ]
     }
@@ -227,17 +227,8 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-08 11:55 HKT",
+    "updated_at": "2026-07-08 12:10 HKT",
     "news": [
-      {
-        "title": "Tether 豪擲 2000 萬美元投資 Mercado Bitcoin 搶攻拉丁美洲代幣化金融",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMEswTGQ4MUg2TTRGT3p5aGtmUFRmdjVWMC04N3FtcXBvd0NmR1Q4Z25rRnJFR3ZtRTlZTlYta2pMM1BMdk1hVl9QS2RjbHhtVU45QW0yd1pCRHBpRGlVT3BPb1RRMTlnUlViVlA2MUJ1VEdlTVVaRzdMV2gwcENPN3l0M1l4SHhfNGdTUnRwdy1PZms2S3NiSnpySW1PN2pOZlJ4Q0tmalBad1ZDdHBDNkhXX2VZakdCc3c?oc=5",
-        "source": "Life 生活網",
-        "published_hkt": "07/08 10:35",
-        "related": [
-          "BTC"
-        ]
-      },
       {
         "title": "區塊鏈重點動態2026年7月8日早參考",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Rd1ZmZzlvYzRHQjRndDRMcG5oT2lsNldIMWlrdTRnZVFpNklISUVoR21FZlh6TGEzWWJQd0NUeFRieGxzaEtTZlgzU21hSkk?oc=5",
@@ -253,6 +244,13 @@
         "related": [
           "ETH"
         ]
+      },
+      {
+        "title": "Cumberland開設總價值7038萬美元的多空單，主要持倉為做空主流加密貨幣及美股標的",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Eb1l6QkgwOUdreE8zb2M0N0MzOUZYLWR1U0JMYm1neHVTN0RrS1M2WG03eG13U0hKaWY4aXJwWGZabFFYUnl5RXRXa0dsOGxoRkYxNjY5Y1NPQS0wQnVLaGNraEpOcmUyaXJr0gFrQVVfeXFMTURvWXpCSDA5R2t4TzNvYzQ3QzM5RlgtZHVTQkxibWd4dVM3RGtLUzZYbTd4bXdTSEppZjhpcnBYZlpsUVhSeXlFdFdrR2w4bGhGRjE2NjljU09BLTBCdUtoY2toSk5yZTJpcms?oc=5",
+        "source": "Bitget",
+        "published_hkt": "07/08 08:17",
+        "related": []
       }
     ]
   }

@@ -27,30 +27,30 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-08 10:23 HKT",
+      "updated_at": "2026-07-08 11:55 HKT",
       "news": [
         {
-          "title": "市場關注Fed決策及財報　美股走勢分歧！那指跌172點、道瓊漲55點",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5YYVcxLXloTWRsbllBS2FHeUwweHVDSWl1V0JRcUVsMHpNV0l1TGp2eWJWN3FSc3c0dmxKaXNWRS1RdXhuNEdzVdIBTEFVX3lxTE85VFdHcW9TcGZuMm5ZaENIYVZaTWVDZTNTbjNpbHNOemNXblRHakFHVVM1SHI1cHZVVGdVcDhMR0pZb2VJR3BzMlE4WTE?oc=5",
-          "source": "三立新聞",
-          "published_hkt": "07/08 09:10",
+          "title": "國泰證7月投資觀點：AI行情撐美股、日股四大產業升溫",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zUUNqUUZwTy1YV2xLaGlsbDVBZE9YaGgzc0JkbDd6N2psMGRXRmtjX3Q2OVVhQThfQ1JmeU1BOFZraTVzd3AwZ05memg3VjFxTV9GVURLREY3d9IBX0FVX3lxTE1wZHlUQkVaNmIyVk9NOHVmZW8zbWZFTWhjZGNra3k4NUZLZFp5MHJkSWphbTItT20zY2hHRmt0bWdNLVBTRWJHSVpJZS00ZFJKRDZKUG5ZUnBVSGlMUm80?oc=5",
+          "source": "經濟日報",
+          "published_hkt": "07/08 11:29",
           "related": []
         },
         {
-          "title": "AI市場最新排名：Grok用戶持續流失 ChatGPT穩居龍頭 Meta AI超車搶第四",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLZVdRNmx3X1JYUWNHT1ZPQlZZUElWdTBJTWdDaFhFdDV4OHZMRGZWUVdtMW40OE5tN3FJbkRJbUJOOGZ3OTRCSmQxcGZ4eUU?oc=5",
+          "title": "美股牛市未完？高盛喊「別輕易下車」：AI成最大變數、震盪恐加劇",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCeDVZQnVfdFFldzhWNDQzVXB1R25Sd3dNay1fUDBNckFTS2dEVUFBLTkyRWU5Q3gycTdtaDBPX0lsOGY0dFY2dHZVYmt4UFU?oc=5",
           "source": "news.cnyes.com",
-          "published_hkt": "07/08 08:20",
-          "related": [
-            "META"
-          ]
+          "published_hkt": "07/08 11:20",
+          "related": []
         },
         {
-          "title": "亞洲股市跟進美股漲勢 科技股領軍提振市場信心",
-          "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1HRTZja2Z5bGduRDRuZkNBQi1Wd0NnalNBYldkc1NIVFduNEVnckFkY1JQbzZ4MTd1X0E?oc=5",
-          "source": "ENN台灣電報",
-          "published_hkt": "07/08 06:59",
-          "related": []
+          "title": "The Motley Fool執行長借鏡輝達長線波動，解析高溢價背景下美股配置策略",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Oak1Gd25fczVGQjZRT3luTUpId0xhRmRLWmJOZ09mYVlrSGlsTWphMXpFNU4xZTRKTHljX3habW5uRFlfalZjM1pqYjBwQ1QxSkFQeGpnbzhfdkFUNEZTQzVJbFBWTFBUSThTOWwxVW56ZEJvVV9PQkhZdF9OQQ?oc=5",
+          "source": "鏈新聞 ABMedia",
+          "published_hkt": "07/08 11:13",
+          "related": [
+            "NVDA"
+          ]
         }
       ]
     }
@@ -227,13 +227,13 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-08 10:23 HKT",
+    "updated_at": "2026-07-08 11:55 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣升0.36% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUldLZV9mRzdtUXJmSENJTWszZHZ3R2xGajFxYWtiZVVtX0p4WkpSZkdlVjN3VWk0cTJRb3ppMkJseTlFVnVjV0Ezb1dvUHFPSVVvNGM3N2N1WWRPdXpNdWQ0Ym5UZGVUNWgtUjUxd1BvRFFwc2toWUV2OHpOUGNIeFV6eFpiWHV6VGVGdU8zeHprakExRVNkSkhEOVFvdkps?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "07/08 09:01",
+        "title": "Tether 豪擲 2000 萬美元投資 Mercado Bitcoin 搶攻拉丁美洲代幣化金融",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMEswTGQ4MUg2TTRGT3p5aGtmUFRmdjVWMC04N3FtcXBvd0NmR1Q4Z25rRnJFR3ZtRTlZTlYta2pMM1BMdk1hVl9QS2RjbHhtVU45QW0yd1pCRHBpRGlVT3BPb1RRMTlnUlViVlA2MUJ1VEdlTVVaRzdMV2gwcENPN3l0M1l4SHhfNGdTUnRwdy1PZms2S3NiSnpySW1PN2pOZlJ4Q0tmalBad1ZDdHBDNkhXX2VZakdCc3c?oc=5",
+        "source": "Life 生活網",
+        "published_hkt": "07/08 10:35",
         "related": [
           "BTC"
         ]

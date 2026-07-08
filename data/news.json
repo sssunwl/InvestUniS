@@ -27,16 +27,14 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-08 08:57 HKT",
+      "updated_at": "2026-07-08 10:23 HKT",
       "news": [
         {
-          "title": "AI大玩家一夜洗牌：美光、Sandisk大漲 七巨頭遭估值拷問",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zR3c3ZXhwRmRkOUhqNmpNLVRTUEF5VktVbF9wLVJTY09GSjUyS2owNzZ0OHVKTmJ2Mm9DQ2NqRENCVEZnRExoTmtjLTIwU0E?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "07/08 08:30",
-          "related": [
-            "MU"
-          ]
+          "title": "市場關注Fed決策及財報　美股走勢分歧！那指跌172點、道瓊漲55點",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5YYVcxLXloTWRsbllBS2FHeUwweHVDSWl1V0JRcUVsMHpNV0l1TGp2eWJWN3FSc3c0dmxKaXNWRS1RdXhuNEdzVdIBTEFVX3lxTE85VFdHcW9TcGZuMm5ZaENIYVZaTWVDZTNTbjNpbHNOemNXblRHakFHVVM1SHI1cHZVVGdVcDhMR0pZb2VJR3BzMlE4WTE?oc=5",
+          "source": "三立新聞",
+          "published_hkt": "07/08 09:10",
+          "related": []
         },
         {
           "title": "AI市場最新排名：Grok用戶持續流失 ChatGPT穩居龍頭 Meta AI超車搶第四",
@@ -48,13 +46,11 @@
           ]
         },
         {
-          "title": "晶片股重挫拖累美股 AI投資過熱疑慮與南韓流動性危機衝擊台積電",
-          "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQSWpLTlI2X2xTRURlemN4MTVkOFRlWGpKcDBQVGdDTHZDa1F5ZnBRQ1FGRXl2REt3U0FXT2thRzE4eUxCQ2s2OTBwb0xpWS1hZzA1MExYZjkzUkhlajQzR2JwQUI1RjEyMlJkZF9vZ0x4d3dmUy0xajdCblQteDJTVFFDcktjRGdLdGU5SG9qc1V3WE4tQVQ3TFlTSXRGeUh2c0VRZXg2TVY4UlhETnVOUG9VaU5lV0VnYlFuWnhYR3pYX3FFbWppOWtKb01TaFVMcndfQVJGNFFFRFlKTlktVmprWWZjczJWV2pnUDMweXhaQXFkY09JWldtaF9Tc0drVV9SNlJuVHA3VkFLSVNQQldCVTUxei1Pa0toR2hCY0hHYUxFczFjejlfcXg5THpkaEo0bndZQWdqbWVLY1J5UTZIUHVGRTViYm1wZzdTczhRbnpLa0RjMXpsR01wQUUxWHB3WmtiSVhHSzl2X1Y3Z1lIOVAwbk43WmdtMXJWSlZvclFtNHhoSVluVkc1ZzE4OU95VUU2VURub1pVX1RFZ1pySDVXRlNZakg2NXpkdFpXejBBZFNCb09n?oc=5",
-          "source": "商傳媒",
-          "published_hkt": "07/08 07:41",
-          "related": [
-            "TSM"
-          ]
+          "title": "亞洲股市跟進美股漲勢 科技股領軍提振市場信心",
+          "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1HRTZja2Z5bGduRDRuZkNBQi1Wd0NnalNBYldkc1NIVFduNEVnckFkY1JQbzZ4MTd1X0E?oc=5",
+          "source": "ENN台灣電報",
+          "published_hkt": "07/08 06:59",
+          "related": []
         }
       ]
     }
@@ -231,8 +227,17 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-08 08:57 HKT",
+    "updated_at": "2026-07-08 10:23 HKT",
     "news": [
+      {
+        "title": "主要加密貨幣行情，比特幣升0.36% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUldLZV9mRzdtUXJmSENJTWszZHZ3R2xGajFxYWtiZVVtX0p4WkpSZkdlVjN3VWk0cTJRb3ppMkJseTlFVnVjV0Ezb1dvUHFPSVVvNGM3N2N1WWRPdXpNdWQ0Ym5UZGVUNWgtUjUxd1BvRFFwc2toWUV2OHpOUGNIeFV6eFpiWHV6VGVGdU8zeHprakExRVNkSkhEOVFvdkps?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "07/08 09:01",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "區塊鏈重點動態2026年7月8日早參考",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Rd1ZmZzlvYzRHQjRndDRMcG5oT2lsNldIMWlrdTRnZVFpNklISUVoR21FZlh6TGEzWWJQd0NUeFRieGxzaEtTZlgzU21hSkk?oc=5",
@@ -241,17 +246,10 @@
         "related": []
       },
       {
-        "title": "隔夜美股 | 美國對伊朗發動一系列打擊 三大指數收跌 存儲芯片股繼續下挫 作者 智通財經",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96b1N6N2kxcldfZ0t3a2RRX3pSdW4xWlhXSEJrelB0YThGakZweE9DWGtBQW9TdHVwWWxyNS1TYkxhZmlTODJjcHBqVVRNeE5IU2dCSkRDdUFoa01HSnd0eGQzakc1ZE1KZURzVFFYWDc?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "07/08 06:57",
-        "related": []
-      },
-      {
-        "title": "以太坊價格預測：ETH衍生品轉為看漲，但上漲趨勢並非由槓桿驅動",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORnBVc3l6SlJsMS1fUm5kdTN6Z3hMZWRZT1NmMWhMdFUzQkV2RkpwVDE4WHJZUjNhM3pWYkxKUjZGLWg4VGRQRjZVZFpVaHpOV2V1RVZyU2NPQ0dqQ3F6bC1MM1pyY21Nem5ZNlZIVWVLaDgyYUhqcFQ2blJJZzhJcU1NdFQ3YWRKS25kMU1lQjV5VmRxRGdfSnE4RmF6UEFkNjZLc2FEenJwZTVLTVNyaVJ4UFBHMllpTVVTMEtCTGN1TXpJUFBqeWlQdy0tYkhGOFZWNk9DMlFyTnR4MUJUUHM4TzlOTkV2OExVbnBpR3NGZkNuRURCZkt2SVlTcWI2VG1uZ0pEY1rSAYgCQVVfeXFMTkZwVXN5ekpSbDEtX1JuZHUzemd4TGVkWU9TZjFoTHRVM0JFdkZKcFQxOFhyWVIzYTN6VmJMSlI2Ri1oOFRkUEY2VWRaVWh6TldldUVWclNjT0NHakNxemwtTDNacmNtTXpuWTZWSFVlS2g4MmFIanBUNm5SSWc4SXFNTXRUN2FkSktuZDFNZUI1eVZkcURnX0pxOEZhelBBZDY2S3NhRHpycGU1S01TcmlSeFBQRzJZaU1VUzBLQkxjdU16SVBQanlpUHctLWJIRjhWVjZPQzJRck50eDFCVFBzOE85Tk5FdjhMVW5waUdzRmZDbkVEQmZLdklZU3FiNlRtbmdKRGNa?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "07/08 04:51",
+        "title": "以太坊逼近 1,800 美元大關 兩大訊號警示漲勢恐受阻",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOU3prb3JFd0cxTnlxMzg5ME5Fdl9KTzM1d212MlZHVlEtYzB3eUxhb3gzdFJRVkdnaFBsOGFYZllHVEJpbGJCRHFDTHA4QmRzVUJWeC1PaFA2NVJTQjJfcUpmelY5X3BoLVluQURPc2xvZ2FSNm5ibG9GWnNSU05kVUJtWmI2RE92b2p2ajE5QWpFNzVRUU13anlGaHVLYkVrcTlRbkxPZkYySnVhYWZoUThTWGtONXJtUGp4YXBMbVd1M2xNOFcxQUxEWlpPZDRlTnhsckliQms5T2xDY3pfSWNaVlJPSEUyc2E1MVpRWWVlU2o5ZG05UUlOSk1yTEZybUY4eTRwVUtaTzRweHVULTRCS0hVV1NwSTdOOFc2NUNrdWg0eE00LWE4dDFmd0NqNy1iejJ1SkR5YUVmWmhrbg?oc=5",
+        "source": "Life 生活網",
+        "published_hkt": "07/08 08:19",
         "related": [
           "ETH"
         ]

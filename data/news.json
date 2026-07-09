@@ -87,7 +87,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-09 19:23 HKT",
+      "updated_at": "2026-07-09 19:55 HKT",
       "news": [
         {
           "title": "【港股收市】恒指企穩24000關 半導體股大反彈中芯飆逾一成",
@@ -149,7 +149,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-09 19:23 HKT",
+      "updated_at": "2026-07-09 19:55 HKT",
       "news": [
         {
           "title": "TWA00 加權指數- 🌈7月9日（四）🍀盤後規劃🌊外資空單：80730🏄 - 股市爆料同學會",
@@ -171,7 +171,7 @@
         },
         {
           "title": "台股低收近1%",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVlRKbXIwX0xYZ09HVC1hSWozYU9XWVRsNjc5amxfN3I5QTRnbTI3bk1QTC1ucFgweTJUeWMzNzd1ZUFEb3RSc0IwbEhRLXFOM0VPdjhCQ2VtNDd2QWxXZHJSU3JPeF9tdFRkWHhRZjNrX25OclFMaVV2b19KMXFBZVQ1REMzeDQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JOXV1alVKdTk5RkFWbDUycXpPLUZldGNXcXA0MVRwT0FSd0dONk0wYmhoaHVoTTB6RDhJa3hoSE16eGNXY2pRay05OVBkRjNoMUlrdzhud20yaE9iNURoaEZqLUt3bjFJR1lDUnFPNA?oc=5",
           "source": "RTHK News",
           "published_hkt": "07/09 15:06",
           "related": []
@@ -202,7 +202,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-09 19:23 HKT",
+      "updated_at": "2026-07-09 19:55 HKT",
       "news": [
         {
           "title": "半導體走勢分歧：日股大漲，台股跌379點-財經焦點情報站",
@@ -233,16 +233,14 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-09 19:23 HKT",
+    "updated_at": "2026-07-09 19:55 HKT",
     "news": [
       {
-        "title": "比特幣在交易所的儲備持續減少，但已不再像以往那樣具有看漲的強勁推動力",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOHBFODlIXzFzaEZzRDZvSWxWdmMxTHlaMFA5Z1B0aEg3d1ZFbkZIU2NoR3ZXLTNaZ1VfTmhFel9lZG9wLXlpLXV4S0g1VzRxTHBRRXAzbmJWVG5mX1JaRElwbWdZUnpWZGJCVGdFT2VxZVo1bVlvV3NDdTl6N21MM25wTW9TcG12cWVheWJSQ2FNd0NBUzF0aHVPMVJOSHkxUURGU0ZFYw?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "07/09 17:07",
-        "related": [
-          "BTC"
-        ]
+        "title": "巴西证券交易所B3上线 BTC、ETH、SOL 期货期权",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tTUFfLVlnNklkNWRmU3FoYTRia1pZZXpvSXFTN1NSOFNEWGcwS3JNRUNRNVhtcVRxU0RDVTlNZDdBWEs4OWw4Y0RBbnZrcDlBaU05bndhX1hrUkZEcTZJYjJsNG5HUQ?oc=5",
+        "source": "TradingView",
+        "published_hkt": "07/09 18:44",
+        "related": []
       },
       {
         "title": "量子電腦恐成比特幣新威脅 加密產業急佈局抗量子安全",

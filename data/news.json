@@ -233,29 +233,27 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-09 19:55 HKT",
+    "updated_at": "2026-07-10 00:01 HKT",
     "news": [
       {
-        "title": "巴西证券交易所B3上线 BTC、ETH、SOL 期货期权",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tTUFfLVlnNklkNWRmU3FoYTRia1pZZXpvSXFTN1NSOFNEWGcwS3JNRUNRNVhtcVRxU0RDVTlNZDdBWEs4OWw4Y0RBbnZrcDlBaU05bndhX1hrUkZEcTZJYjJsNG5HUQ?oc=5",
-        "source": "TradingView",
-        "published_hkt": "07/09 18:44",
+        "title": "Mica時代歐洲加密新版圖，德國為何站上主舞臺？",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU19ERjl1dG95eGd1bkxFaFNKbi1vQk4tbXdmZWlmSlAxMlhZdTVwb3N2WmNuWWhqUUw0RWlUaXpkNmJwSGJQM2ZIdDRFdE4yTmRDQjBmWXc2TFhldHNMN1Q2eDBTdWVGZlc0NFhvZGg3a3ZGUVVsREVmbHVNblJjWVFOc0ltdw?oc=5",
+        "source": "PANews",
+        "published_hkt": "07/09 23:02",
         "related": []
       },
       {
-        "title": "量子電腦恐成比特幣新威脅 加密產業急佈局抗量子安全",
-        "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOTXMzOGpycF90WFk0S2k3V0ZvbXhHQUF2Q3hDOThXSW50WkF4VXNoTkZTUElHU1FCVnJ4dFRDVUNZdmZnRVBUTm9wZVBRY3haaG4tc1JINUxLaWVDUlZVTm5ReFF0eFlUODNrQVZXN3lWdUkwbXBlYnpLZEtXeTRKRzBad3pGbVdBaDlPYm9ZT2REQ1gyYmJWdmxDSFNPc0NNd2lwWEg4czY4V093SXFSaEZlTUhzX1V0NHdPUkJTV1d3UFp6MHBFRGN5eFBGY2lOdk9Eb2VXWW54YzlyM2NQc3lHQWRQMDN0V0Z2Y0ExUm82RUZONnFQWXk3eXJIWUxqN2V1Skt4d2pIYjRHWE5kNGhZUFdfTi1fZTJuXy0xUjV6N3I5cnd3RnNLeEtOaUJvNHVOXzVYWlR0dEc4ZjFIRnJUTmQyT25lWWtaLV9iMTNOR1ZsM0Q1amNIZHZlQjlnTWpCUWZZcEpnRV9MenRYUDUxN1hLeW1DUXRv?oc=5",
-        "source": "商傳媒",
-        "published_hkt": "07/09 17:07",
-        "related": [
-          "BTC"
-        ]
+        "title": "金色Web3.0日報 | DeFi儀錶盤Zapper宣布將於8月3日關停",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NNUd6VU5oZ3RVckJTQW1UY0RlNzdXbk9kbi1ic0NZY2NlMjk4VWtscGdxdmVGUHN3Q3RDSW04NnRQa00zcHFkcDAxbw?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "07/09 22:30",
+        "related": []
       },
       {
-        "title": "加密行業爭相為量子計算時代做準備",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56SXZ5UlZFWGVXT1VKajFxZkd1VTZmS1ZseU1RQkloVDZ1YXlkMG9feUE0dDJwWkNoSHNoeUxsb2hYbVpWY0pqeno0VQ?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "07/09 16:30",
+        "title": "SWIFT 區塊鏈總帳上線：17 大行試點代幣化跨境支付",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUlHMlRtZDNmUEdhWkNLNk9BWkhqWWFMNjZSSFpRX1ppUGFzcUQ0QnN3dDdlcVlXaERNdWE4Wmo5dDU5Qk9sZVdzSEhaNm9oRG5BalhIeGo4bzZnU01DcnA4WEQzWGpJVDMwN3JnaEZHN0xmRkMyVXVzZ09HeW51SWU0TkEwcHdZNTBNX0htSDViOUhLX0NuLWdZWTlrRmI4MVFnZVN3?oc=5",
+        "source": "鏈新聞 ABMedia",
+        "published_hkt": "07/09 21:29",
         "related": []
       }
     ]

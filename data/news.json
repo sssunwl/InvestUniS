@@ -87,12 +87,12 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-09 18:16 HKT",
+      "updated_at": "2026-07-09 19:23 HKT",
       "news": [
         {
           "title": "【港股收市】恒指企穩24000關 半導體股大反彈中芯飆逾一成",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GR0NvLW9pUlE2M1NfWEZWb2llV0psaEtSSGhKSmZmSkJuMUdRM1BTWS1KWkd4RXhxNEVQRjhmaWZGZ296VGZ4WDRtbVNqNG5PcUEtTXB3VHVEZW9nT25yUm5WTGYzMWRUTnpSVlBIRExlSHFKdURJ?oc=5",
-          "source": "香港文匯網",
+          "source": "香港文匯報",
           "published_hkt": "07/09 17:53",
           "related": [
             "^HSI"
@@ -149,7 +149,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-09 18:16 HKT",
+      "updated_at": "2026-07-09 19:23 HKT",
       "news": [
         {
           "title": "TWA00 加權指數- 🌈7月9日（四）🍀盤後規劃🌊外資空單：80730🏄 - 股市爆料同學會",
@@ -161,17 +161,19 @@
           ]
         },
         {
+          "title": "TWA00 加權指數- 📊 詹姆士台股盤後解析｜2026/07/09 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15aTQydV9OUnRTbmEzMjhJLVBaSHc3TGk3STF0YTByNHUwR0FsRHFfZ2lmcW9sZzVtUVM0dFpjQlloUFJSMURtYTNTTk1VZTdsN3pteE1hdU0?oc=5",
+          "source": "CMoney",
+          "published_hkt": "07/09 16:27",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
           "title": "台股低收近1%",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVlRKbXIwX0xYZ09HVC1hSWozYU9XWVRsNjc5amxfN3I5QTRnbTI3bk1QTC1ucFgweTJUeWMzNzd1ZUFEb3RSc0IwbEhRLXFOM0VPdjhCQ2VtNDd2QWxXZHJSU3JPeF9tdFRkWHhRZjNrX25OclFMaVV2b19KMXFBZVQ1REMzeDQ?oc=5",
           "source": "RTHK News",
           "published_hkt": "07/09 15:06",
-          "related": []
-        },
-        {
-          "title": "【最新消息】台股震盪AI記憶體逆勢點火，「10檔記憶體概念股」逆勢上攻！",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16amtJRE43ZTVmY1RtQ2QxUnhYSHJ4Yi1qYzcteWtJemt6MzFvcldoNHhSdXFSSEhZSlJwMVRiRTRDY0c0c3h1OXptb1FVemVyMF9oLVNaX1JDRUoyVUpwNE9IR2xHdXhZU2dvSGhWRnhOQXJVVEdkbEtQSTMzQQ?oc=5",
-          "source": "CMoney投資網誌",
-          "published_hkt": "07/09 15:03",
           "related": []
         }
       ]
@@ -200,8 +202,24 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-09 18:16 HKT",
+      "updated_at": "2026-07-09 19:23 HKT",
       "news": [
+        {
+          "title": "半導體走勢分歧：日股大漲，台股跌379點-財經焦點情報站",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSE9lazlsNVA5Q2dyS1JxZF9FLUVfUk4zZ1c5dTdUNHRqMjNhandHZVdzZnZ4Yjl3RDNpdkozSkh1NGlpc01jRGdaNVM0cmNxbHRfSGxaZkVPcWFTb1RHbXU5TmdkM1BrallzVG93cUp5WkNnSUduenJDRkdEdUV3c19R?oc=5",
+          "source": "CMoney投資網誌",
+          "published_hkt": "07/09 18:30",
+          "related": []
+        },
+        {
+          "title": "《日股》半導體、AI股回神反彈，日經收漲1.38%",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU045YWlBUVdYUTlKWXJIaUdSSGxmbDVPdmh4eXZzNnBEUlRLTWlIZTViRHRvbG9yeWZGVnBJU2tsZ3gxNVdidUFKUVlDWW1fVXUtQzU0Z0loNm5mMUdWdUo2TG1MTFJZWHU0SWd5ZldfUDZlOGZUOHoycnludWw0OHhIUjVWdU8wY1RkUi1TZVhOZw?oc=5",
+          "source": "台視全球資訊網",
+          "published_hkt": "07/09 18:20",
+          "related": [
+            "^N225"
+          ]
+        },
         {
           "title": "《日股》AI半導體股拉抬 日經收漲1.4%終止3連黑",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV1NLWHpDLW42dHpDeGZtU1JJaHB3UUc4TGNuTXF1QlAzd1Y1N1cyM3l5eVZacEd0bWM2RThubEhpMC1SZWk2TUJERFVDbmZXbjI3dVNoWURlMzBhM25xOWtaeUU1c1RZQ0xNa2d2Q0pMdXlqYjNENjdERWxqQlhNeWROXzJMYlBx?oc=5",
@@ -210,29 +228,22 @@
           "related": [
             "^N225"
           ]
-        },
-        {
-          "title": "科技股領漲 日股反彈收高",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNUENkd1lnM1RUQXpVMTJBNWU5c05hMnNNUW1IWVJSSWZZZkFPTkQtbHVBZENkS3hQM19hVjdybG5LWGpPNmFDVlRuV1JEQzYyczF0VWV0d3prRmtJVW91Wl9MeEQ5Qlh2VkNIcnFzU1FPX2NiRWstampYQnNsZVV1MHY5OVlGS2toV2pQYll3SS16Rk80VW1CdW00YlF6bkFTVGZIX1lGdmZQNjFUOVZQaHhkUnBXdlozN2dRcmNIOXQ1Y0xrd2U4Mi1tRklULWRrU001YXhDSnpSOUppZmRwNWdKVEoyNDE4TURQYnJJWjA4ZVg2NkthRzN3YlVNTEhDY0ZmVVlUSjRSUmJDR3c?oc=5",
-          "source": "MSN",
-          "published_hkt": "07/09 15:16",
-          "related": []
-        },
-        {
-          "title": "今日日股牛熊榜 | 鎧俠上升8.33%，領升日經成分股，鎧俠成交額佔據榜首。",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYVlDNUxsbUxNV3BzS3FhMF9uUngzbFE1aTRfQTBldHZxZl8yQTNHNVdoNE94MnByal82RDZRU25fVjAyQ0FPa2MxLVNaeFFhNmlGQ2lQbmRhcjZLaWFQaFBLOFdsT3VCT3BkT2hzTm5VcjRXRGx0bnp3S2pCdUw1enZQeEVxVVlmQUMyM1BXVjBDekF6UFZCMEhfSQ?oc=5",
-          "source": "富途牛牛",
-          "published_hkt": "07/09 15:04",
-          "related": [
-            "^N225"
-          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-07-09 18:16 HKT",
+    "updated_at": "2026-07-09 19:23 HKT",
     "news": [
+      {
+        "title": "比特幣在交易所的儲備持續減少，但已不再像以往那樣具有看漲的強勁推動力",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOHBFODlIXzFzaEZzRDZvSWxWdmMxTHlaMFA5Z1B0aEg3d1ZFbkZIU2NoR3ZXLTNaZ1VfTmhFel9lZG9wLXlpLXV4S0g1VzRxTHBRRXAzbmJWVG5mX1JaRElwbWdZUnpWZGJCVGdFT2VxZVo1bVlvV3NDdTl6N21MM25wTW9TcG12cWVheWJSQ2FNd0NBUzF0aHVPMVJOSHkxUURGU0ZFYw?oc=5",
+        "source": "Moomoo",
+        "published_hkt": "07/09 17:07",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "量子電腦恐成比特幣新威脅 加密產業急佈局抗量子安全",
         "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOTXMzOGpycF90WFk0S2k3V0ZvbXhHQUF2Q3hDOThXSW50WkF4VXNoTkZTUElHU1FCVnJ4dFRDVUNZdmZnRVBUTm9wZVBRY3haaG4tc1JINUxLaWVDUlZVTm5ReFF0eFlUODNrQVZXN3lWdUkwbXBlYnpLZEtXeTRKRzBad3pGbVdBaDlPYm9ZT2REQ1gyYmJWdmxDSFNPc0NNd2lwWEg4czY4V093SXFSaEZlTUhzX1V0NHdPUkJTV1d3UFp6MHBFRGN5eFBGY2lOdk9Eb2VXWW54YzlyM2NQc3lHQWRQMDN0V0Z2Y0ExUm82RUZONnFQWXk3eXJIWUxqN2V1Skt4d2pIYjRHWE5kNGhZUFdfTi1fZTJuXy0xUjV6N3I5cnd3RnNLeEtOaUJvNHVOXzVYWlR0dEc4ZjFIRnJUTmQyT25lWWtaLV9iMTNOR1ZsM0Q1amNIZHZlQjlnTWpCUWZZcEpnRV9MenRYUDUxN1hLeW1DUXRv?oc=5",
@@ -247,13 +258,6 @@
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56SXZ5UlZFWGVXT1VKajFxZkd1VTZmS1ZseU1RQkloVDZ1YXlkMG9feUE0dDJwWkNoSHNoeUxsb2hYbVpWY0pqeno0VQ?oc=5",
         "source": "鉅亨網",
         "published_hkt": "07/09 16:30",
-        "related": []
-      },
-      {
-        "title": "Dragonfly 合夥人： BTC 是世代財富，堅定看好 ETH 和 SOL",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIREhFM1dVZFRjQm0yWGVwbFgxTVprTWwxcWMxSTZIWGE3cWMtVi01QkNfZnZFanhSWFFjOUZJcVlvVWRpMVU3aDBORC1nWjZTbGg0?oc=5",
-        "source": "odaily.news",
-        "published_hkt": "07/09 16:25",
         "related": []
       }
     ]

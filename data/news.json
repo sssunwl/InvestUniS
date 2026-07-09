@@ -27,7 +27,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-09 12:46 HKT",
+      "updated_at": "2026-07-09 12:57 HKT",
       "news": [
         {
           "title": "輝達市值蒸發1兆美元 現在該買還是賣？",
@@ -46,10 +46,10 @@
           "related": []
         },
         {
-          "title": "美股百年教訓：最火熱的市場 往往導致最慘烈的損失",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wQTdROUEwejdUcHptRG81Nk12bi0yZDJFM2hCWHBkb3NCRUFfXzhsZm1mTEc4NnFvSFpmalhiZTUwTHNWbVpQNzk3LXI0TllQNEVLRXQwYXFOMlR20gFiQVVfeXFMTzcxMDBTNjRuRjFCYTB4MldMcUhtUHlqaGZsdmt3VnF0Q0NTRzl4WGwzV0JfR085V2pab0pXV0FHY3F1NXVQNEtUalFib05NcFJzRVZubW1uejJZT3BjdWdjckE?oc=5",
-          "source": "經濟日報",
-          "published_hkt": "07/09 09:59",
+          "title": "Bitget UEX 日報｜能源板塊上漲光通訊概念股走強；美股道指大跌逾570點；BTC 現貨ETF連續3日錄得淨流入（2026年07月09日）",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5YkFWaEZvc0NHRXdZdzBlQk4wWVp0MGdQLXRlSFNaVm13c2JleWh6SG9IQ21XZndaLWk1S180Wm5HY3hEUnMweXNZa3FYSzJUd0RQQ29IUnlFU3hmRkpMRjI1WGhlMWNrWElz0gFrQVVfeXFMUHliQVZoRm9zQ0dFd1l3MGVCTjBZWnQwZ1AtdGVIU1pWbXdzYmV5aHpIb0hDbVdmd1otaTVLXzRabkdjeERSczB5c1lrcVhLMlR3RFBDb0hSeUVTeGZGSkxGMjVYaGUxY2tYSXM?oc=5",
+          "source": "Bitget",
+          "published_hkt": "07/09 10:15",
           "related": []
         }
       ]
@@ -233,8 +233,17 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-09 12:46 HKT",
+    "updated_at": "2026-07-09 12:57 HKT",
     "news": [
+      {
+        "title": "比特幣在重新站上6萬美元後，瞄準7月漲勢的延續，但熊市風險依然存在 — CryptoQuant",
+        "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOYnktc2dQc2xraGJVb3pud2FiekNieTVRRm5OY2E4S19uM3YxeFZYMnc1c21YN0lQYkJ5cnpubzZSbzNZaGI5SmFTaDZrYUVDdU1TM0JpT3R2cFZDT0ZaS25mcGdON3FIbjdBNE9tWUpla0RsNXJreFpiZmFBQXlCU09NMG5MZDktSThEMzNBMUM5eW5VbFR2NUVpVl8zdXhKYW9CMmZDaVpzVnRFSjFXd09KVHRqSzhIa0ZyaHUySWdqOXQwU0xsYWZyc3BzdF9hRVdQVFZ0NFVqekdzZ1ptbGF1YVpTdDMya0U0aFhRX0pKbjlVdF9OdHc3TjNQc1hUeS1xRnk2RWlMbVZiN2FSTzJQWmJTeXRvc2FEMUxteU95ZXJUUGlN0gGnAkFVX3lxTE5ieS1zZ1BzbGtoYlVvem53YWJ6Q2J5NVFGbk5jYThLX24zdjF4VlgydzVzbVg3SVBiQnlyem5vNlJvM1loYjlKYVNoNmthRUN1TVMzQmlPdHZwVkNPRlpLbmZwZ043cUhuN0E0T21ZSmVrRGw1cmt4WmJmYUFBeUJTT00wbkxkOS1JOEQzM0ExQzl5blVsVHY1RWlWXzN1eEphb0IyZkNpWnNWdEVKMVd3T0pUdGpLOEhrRnJodTJJZ2o5dDBTTGxhZnJzcHN0X2FFV1BUVnQ0VWp6R3NnWm1sYXVhWlN0MzJrRTRoWFFfSkpuOVV0X050dzdOM1BzWFR5LXFGeTZFaUxtVmI3YVJPMlBaYlN5dG9zYUQxTG15T3llclRQaU0?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "07/09 11:17",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "比特幣儘管近期有所回升，但仍未擺脫看跌局面",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ0lWd3ZKMFFZdmhta1NIS29rOC1WckszeFVIb3AtbHFldXFGa2JMWDlKa1d1Nk9VZmhtT0hGbllTaURxVVhWSWZVaUhXRjRXbm5Pd1FsOTNHMUtHUWVNZTVFczhpM3BSSWFGNm5iRHpUSlBLZW5aQ2lGak9aNVQ1WkFXZEhwMVVrTDBob1NxbHdWNFNTM2EzTl9NZlllWTBWaVJRMmtvRnd5SFByQThwUWxRdXl1X3FLbllfcjZmZDFHZ2ZOUThtU1NWdG54eG5FX09seUtELVJxUdIB2gFBVV95cUxQZ0lWd3ZKMFFZdmhta1NIS29rOC1WckszeFVIb3AtbHFldXFGa2JMWDlKa1d1Nk9VZmhtT0hGbllTaURxVVhWSWZVaUhXRjRXbm5Pd1FsOTNHMUtHUWVNZTVFczhpM3BSSWFGNm5iRHpUSlBLZW5aQ2lGak9aNVQ1WkFXZEhwMVVrTDBob1NxbHdWNFNTM2EzTl9NZlllWTBWaVJRMmtvRnd5SFByQThwUWxRdXl1X3FLbllfcjZmZDFHZ2ZOUThtU1NWdG54eG5FX09seUtELVJxUQ?oc=5",
@@ -245,18 +254,13 @@
         ]
       },
       {
-        "title": "AiCoin丨7.9快訊：Besant發表立場、BlackRock抄底、印度央行封殺",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2U0NZTDdWdmRMME82dUZBMVVULTRVSE00c2dLOUtWdHlQcGt2ejY4T3ltQVdEREJpcmZDRUZjYzhqYmtzdTNQTWpjZ05QcHdsN1otZUoyaE1IRTNXWjlSY1hBcGdoZXZoeHBB0gFrQVVfeXFMUDZTQ1lMN1Z2ZEwwTzZ1RkExVVQtNFVITTRzZ0s5S1Z0eVBwa3Z6NjhPeW1BV0REQmlyZkNFRmNjOGpia3N1M1BNamNnTlBwd2w3Wi1lSjJoTUhFM1daOVJjWEFwZ2hldmh4cEE?oc=5",
-        "source": "Bitget",
-        "published_hkt": "07/09 08:27",
-        "related": []
-      },
-      {
-        "title": "狗狗幣預測：儘管零售興趣回升，DOGE仍面臨跌破0.07美元的風險",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOR3lqNmtWeUprWUdLNHZrVWk0cnhNaEVTY1UzUm5obURPbTF3NDFpM2w1VC1USXpsOFpVcWVUMUpnRnNMaHlqQW5yQW5ZbjhpRUtHUi1XOXdsUlU0bnZuNFpkcFlydXNNQWhLOTRYU2tPRURjekJ0cFNMSmlhRWVZcWFtRER5THBMNGdWamhOR0hRZE5XYUhXZUpBd0lCWXg4NWZFbmd6MmZqTHFKQ0J5RmVJSU1Ebl9IWXpXV2QzZFpfSkFmRjhzUm9qOWFmYkxOclpiUHFaeUMtXzVPU3Y2Z0s5MGJyT09VS0dESklqU0c0V1lLeVdmRTB30gH6AUFVX3lxTE5HeWo2a1Z5SmtZR0s0dmtVaTRyeE1oRVNjVTNSbmhtRE9tMXc0MWkzbDVULVRJemw4WlVxZVQxSmdGc0xoeWpBbnJBblluOGlFS0dSLVc5d2xSVTRudm40WmRwWXJ1c01BaEs5NFhTa09FRGN6QnRwU0xKaWFFZVlxYW1ERHlMcEw0Z1ZqaE5HSFFkTldhSFdlSkF3SUJZeDg1ZkVuZ3oyZmpMcUpDQnlGZUlJTURuX0hZeldXZDNkWl9KQWZGOHNSb2o5YWZiTE5yWmJQcVp5Qy1fNU9TdjZnSzkwYnJPT1VLR0RKSWpTRzRXWUt5V2ZFMHc?oc=5",
+        "title": "以太坊價格預測：多頭重新掌控主導地位，但買盤依然疲軟",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZ1dvSU5pbXNHTWVWQ2pYTS1MWDlZcjVvRVJsZld1TG1xTHA1bjkxRzVETjAySFBHVlp1ZWppSHg3UVRTRFdtY1Z3cXJ1Y3lEUVFYY0gyUTM1UmJ0SVlOR3pnZjVkV0cxMXBFZ2FJTFJLLU5Wek81MEJBTTNISkp4WkUxVEQzWEh6Tl9yeldoUFljeWZpOF9mYm5BV1dmR3pQVS0yYWwzV2taWnRLek0tSGZybGRMcjlnX3hjc0ZTcjFzZ294NEdEa0Rza0RYTEViMzJ2V0JzMml5MzhSQVFlS2pHVFJmRVNmYmFZWG1hMNIB7wFBVV95cUxOZ1dvSU5pbXNHTWVWQ2pYTS1MWDlZcjVvRVJsZld1TG1xTHA1bjkxRzVETjAySFBHVlp1ZWppSHg3UVRTRFdtY1Z3cXJ1Y3lEUVFYY0gyUTM1UmJ0SVlOR3pnZjVkV0cxMXBFZ2FJTFJLLU5Wek81MEJBTTNISkp4WkUxVEQzWEh6Tl9yeldoUFljeWZpOF9mYm5BV1dmR3pQVS0yYWwzV2taWnRLek0tSGZybGRMcjlnX3hjc0ZTcjFzZ294NEdEa0Rza0RYTEViMzJ2V0JzMml5MzhSQVFlS2pHVFJmRVNmYmFZWG1hMA?oc=5",
         "source": "FXStreet",
-        "published_hkt": "07/09 01:57",
-        "related": []
+        "published_hkt": "07/09 09:36",
+        "related": [
+          "ETH"
+        ]
       }
     ]
   }

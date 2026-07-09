@@ -87,31 +87,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-09 17:50 HKT",
+      "updated_at": "2026-07-09 18:16 HKT",
       "news": [
+        {
+          "title": "【港股收市】恒指企穩24000關 半導體股大反彈中芯飆逾一成",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GR0NvLW9pUlE2M1NfWEZWb2llV0psaEtSSGhKSmZmSkJuMUdRM1BTWS1KWkd4RXhxNEVQRjhmaWZGZ296VGZ4WDRtbVNqNG5PcUEtTXB3VHVEZW9nT25yUm5WTGYzMWRUTnpSVlBIRExlSHFKdURJ?oc=5",
+          "source": "香港文匯網",
+          "published_hkt": "07/09 17:53",
+          "related": [
+            "^HSI"
+          ]
+        },
+        {
+          "title": "【港股收市】恒指跌169點 曾失24000關 美團7連升斷纜",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96LVRKXzRaOXJtcmxiZE5rbGlHTElxWDRrREpmYmg0eVZwa0xmUmM0TWdpeS1FYlhNZ1NLZFdEczFlMzlSVk1qTUkxTkQtamlsRFRVbnhMeGIzamlyM09CS3JFanVua0k?oc=5",
+          "source": "Now 新聞",
+          "published_hkt": "07/09 17:35",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "港股收評：恒指衝高回落跌0.7%，存儲半導體逆勢爆發兆易創新飆升近22% 作者 格隆匯",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVcmVOZWEzd1VCTUtZRmpTcTc5cGdDVmVpQ3ZWcnpWa1V4R0xqRUNHUkU0c0JTbm1mOFhjNE9LMFZ6WjlQOHBTNXlVNFhhX2x2a1ZWck85N190OHhNM1ZFVzlBcUhzR2tlaFFQMDZaM3k?oc=5",
           "source": "Investing.com 香港 - 股市報價& 財經新聞",
           "published_hkt": "07/09 16:51",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "新时空丨港股收盘：三大指数震荡走弱、恒指收跌0.70%，半导体、硬件设备等题材涨幅居前",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUT3BnMmUyS2V4TjNiQlF3b0RrUFlWdURNM0dFYkxBdHBESGIycjlmWmw1TWcxRWxMQzc4RkhFUWhvOFNteUtkR1FOcTFlZjlSUDdnbFJybDFwRXJIemFiUDg3alRPQQ?oc=5",
-          "source": "FX168财经",
-          "published_hkt": "07/09 16:51",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "恒指走勢丨全日回吐169點守兩萬四 北水流入98億",
-          "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNV2wzUmpTUWJTejlNVzVucjY2LXM5bzY1aDNiS0tsWnFyLVBPck0tT1ZkNVNESXdWWm1KNjVyUEx4eDg1OE4taERCOW9vN2FVT0VjeVg4aWFLSV9ieU95OEtYQlBwN3FUV1Z1Q1pSYXd5NDhhZ3FYU0NhSHZ2SG9uYjc4djRFYktGWmNNNEx1RjZ0MENhVnJCZWxxbXVoa1kyMFBJZ3JrbHNyT25JTlBQUjZlR0lac2NoWW80TGh6ZzFrWE43UjFLc202Tm1ndkJYMWp1NlNIUjBmT1U2NVphdy1XQ3VXVl91X3dEb3hXV1dPbFRIV0NkTFd1QkJ6Z2RHQi13bWNyeWI0UTRoN1NVbk1sZTZhVkZzRHpnZ1NwU1BJS3htRVo5OE96YkdZNUhDYjlQX2F4YW9Ba0VJZVZ1QXlNMTczeUlQQVFsa3dn?oc=5",
-          "source": "信報網站",
-          "published_hkt": "07/09 16:49",
           "related": [
             "^HSI"
           ]
@@ -149,11 +149,20 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-09 17:50 HKT",
+      "updated_at": "2026-07-09 18:16 HKT",
       "news": [
         {
+          "title": "TWA00 加權指數- 🌈7月9日（四）🍀盤後規劃🌊外資空單：80730🏄 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zNjlEME9feTlfTjgwcWU4UG5lX3VxSmhBVlFZNzdoWm0xb0xQZVVDMXpNTWEwTFMtbGlKUDJIMTBSbG1qTXYxQ0xvUEUwVUNEYUNvbmRsaG8?oc=5",
+          "source": "CMoney",
+          "published_hkt": "07/09 16:38",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
           "title": "台股低收近1%",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JOXV1alVKdTk5RkFWbDUycXpPLUZldGNXcXA0MVRwT0FSd0dONk0wYmhoaHVoTTB6RDhJa3hoSE16eGNXY2pRay05OVBkRjNoMUlrdzhud20yaE9iNURoaEZqLUt3bjFJR1lDUnFPNA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVlRKbXIwX0xYZ09HVC1hSWozYU9XWVRsNjc5amxfN3I5QTRnbTI3bk1QTC1ucFgweTJUeWMzNzd1ZUFEb3RSc0IwbEhRLXFOM0VPdjhCQ2VtNDd2QWxXZHJSU3JPeF9tdFRkWHhRZjNrX25OclFMaVV2b19KMXFBZVQ1REMzeDQ?oc=5",
           "source": "RTHK News",
           "published_hkt": "07/09 15:06",
           "related": []
@@ -164,15 +173,6 @@
           "source": "CMoney投資網誌",
           "published_hkt": "07/09 15:03",
           "related": []
-        },
-        {
-          "title": "台積電尾盤重挫收2415元 台股跌379點失守45400點",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YRFN2NmZkc2ExS0UtdGY0cmxHczNXYWF4S1BJUXNYZVJScm5CRVRYZUVkc19BXzZLbnZ0S2d4NjM4eWZFSHRNOTlLYmZ4d2l1dlE?oc=5",
-          "source": "美麗島電子報",
-          "published_hkt": "07/09 14:10",
-          "related": [
-            "TSM"
-          ]
         }
       ]
     }
@@ -200,15 +200,8 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-09 17:50 HKT",
+      "updated_at": "2026-07-09 18:16 HKT",
       "news": [
-        {
-          "title": "科技股領漲 日股反彈收高",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeHpTUjJNX2RhNnBaUzItLVpxaTFDdkI5dDdwVm9nWm5wdXdGUmk2YUhrVEIzRzliallYdXJmOUxZY0RLV0ZqRzV3NDNUY2QxWTFBYjFuOW44cURKMnFxSGFfakZlTGRyOTlkNFZOdFJVbDl6bjdnaktweFRsM2JHMERTUE9tRFZyLTg1TGRabkQtVDJ4dWNfSEI4dU5QMVE1WDRBcVlmYUxUcDhrQ3dNeHZON2FSektpb0lBVFNNQ05zV19MUU0yc0hDanZjek1EcEwxRFNQRE9BWmg3aUQ3bFkyNGRsNzZIUHFr?oc=5",
-          "source": "MSN",
-          "published_hkt": "07/09 16:49",
-          "related": []
-        },
         {
           "title": "《日股》AI半導體股拉抬 日經收漲1.4%終止3連黑",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV1NLWHpDLW42dHpDeGZtU1JJaHB3UUc4TGNuTXF1QlAzd1Y1N1cyM3l5eVZacEd0bWM2RThubEhpMC1SZWk2TUJERFVDbmZXbjI3dVNoWURlMzBhM25xOWtaeUU1c1RZQ0xNa2d2Q0pMdXlqYjNENjdERWxqQlhNeWROXzJMYlBx?oc=5",
@@ -217,6 +210,13 @@
           "related": [
             "^N225"
           ]
+        },
+        {
+          "title": "科技股領漲 日股反彈收高",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNUENkd1lnM1RUQXpVMTJBNWU5c05hMnNNUW1IWVJSSWZZZkFPTkQtbHVBZENkS3hQM19hVjdybG5LWGpPNmFDVlRuV1JEQzYyczF0VWV0d3prRmtJVW91Wl9MeEQ5Qlh2VkNIcnFzU1FPX2NiRWstampYQnNsZVV1MHY5OVlGS2toV2pQYll3SS16Rk80VW1CdW00YlF6bkFTVGZIX1lGdmZQNjFUOVZQaHhkUnBXdlozN2dRcmNIOXQ1Y0xrd2U4Mi1tRklULWRrU001YXhDSnpSOUppZmRwNWdKVEoyNDE4TURQYnJJWjA4ZVg2NkthRzN3YlVNTEhDY0ZmVVlUSjRSUmJDR3c?oc=5",
+          "source": "MSN",
+          "published_hkt": "07/09 15:16",
+          "related": []
         },
         {
           "title": "今日日股牛熊榜 | 鎧俠上升8.33%，領升日經成分股，鎧俠成交額佔據榜首。",
@@ -231,7 +231,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-09 17:50 HKT",
+    "updated_at": "2026-07-09 18:16 HKT",
     "news": [
       {
         "title": "量子電腦恐成比特幣新威脅 加密產業急佈局抗量子安全",

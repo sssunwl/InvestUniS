@@ -1,0 +1,32 @@
+name: Premarket Watch (30min before US open)
+
+# 09:00 ET（開市前30分鐘）= 13:00 UTC（夏令 EDT）/ 14:00 UTC（冬令 EST）。
+# 跟其他 workflow 一樣先用固定 UTC 時間，冬令時間會有約1小時飄移，
+# 之後遷移到 Oracle VM 時可以用真正的 crontab + timezone 一起解決。
+on:
+  schedule:
+    - cron: '0 13 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install yfinance requests
+
+      - name: Run premarket watch
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+        run: python scripts/premarket_watch.py

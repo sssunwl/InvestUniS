@@ -27,8 +27,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-10 12:34 HKT",
+      "updated_at": "2026-07-10 12:45 HKT",
       "news": [
+        {
+          "title": "高盛分析師：抄底晶片股、動能股正是時候 槓桿更低、持倉更輕了",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Bc0RvejVocVYzbVFVM1RLTDdLRFQtVWk1YzAtLXAtbmRvZ3puSGRsVS1pdHYwWGpwMDN3OVFZYjZPSDR5UklhWTQ4bw?oc=5",
+          "source": "鉅亨網",
+          "published_hkt": "07/10 12:00",
+          "related": []
+        },
         {
           "title": "夜盤走揚、美股領漲！「台股放颱風假」這群人哀號 | 民視新聞網",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjSHV3M01BeFlVVE1VMFJROE1mVG5xWFl5MkJlV0hyTGhaNFkwaXlGM1BnU29lNk9xQjJVUmtfcE9YX2FGLXpGZVhwaHJvdUF5cWFjUTFR?oc=5",
@@ -41,13 +48,6 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52Qzh3N3FQS3RYcnBoc0t4UkZjMVAyRGlCdFk5Z0M3TlVFOWVWM0ZLcHNwUldUYW1xbDRjd0w5YkxCOEVfakJaQmRsaVFZQk80emphV1lR?oc=5",
           "source": "LINE TODAY",
           "published_hkt": "07/10 10:54",
-          "related": []
-        },
-        {
-          "title": "SK海力士美股傳超購7倍 集資2076億成最大外企IPO 定價149美元溢價僅3%",
-          "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxOc2E1ekgtLU1zUFRHS0V5RzRTZG5keG1pbUNqUjh0Smk3RnVjeGQ2T1hVV2d2bDhPdnNfSGlzSFE2RnFacjUzbjZfa1FhWlhoa2tRRFRXeEFTZHF0SmFDWDRvd2FfWF96OFcwenlWbUFTMVF0ZDJOOWlFUzBmel9ZdEdVRmNqczczZXM5UEdwb0Q4TVd6X004UHVlRnZqSVZUeVY0TWxrRnpJUWRvSXFTQk5mQWlJaWk1MUUtdjkxOHdvbDRESGQ2bkJxV1FPNnp6REdSTEJuZmRFRlJnbXE1WTY4VlRiX2UxU281aTZwY2tIWEFNSHZIclVmSUZ5TzFGbVlfN3BBc3VWSXROQkl5LXlTb3RvRkN3MG15VmlMdHZ0UzBpX0xtcVg5YVdqYlZTQ19mNlBfWEFkZ1RFWGdsc2twcGhYaVVmV0FKWklGYVRpVFV6TkNvWWNFOEFTQkUyeXJ2YzFOSTlKeE9pRjVjY0swQU1RMTdZUF9JSjk4LWkyLTBJbTdqZlZjWG5BMHU4dFE?oc=5",
-          "source": "星島頭條",
-          "published_hkt": "07/10 10:33",
           "related": []
         }
       ]
@@ -229,7 +229,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-10 12:34 HKT",
+    "updated_at": "2026-07-10 12:45 HKT",
     "news": [
       {
         "title": "比特幣長期風險在哪？摩根大通：金融機構更偏愛「私有鏈」，公有鏈生態面臨邊緣化",

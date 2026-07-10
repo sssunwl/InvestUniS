@@ -27,27 +27,27 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-10 09:04 HKT",
+      "updated_at": "2026-07-10 12:34 HKT",
       "news": [
-        {
-          "title": "市場不懼中東戰局？科技股領銜美股逆勢大漲",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xY3kwalJWbllmc0hUVVk4OFZDcGtRMTB0eWRZQVZSN3BreE5tRmh3SFJxMlJHTkxKUmo0WGxkMEJZOHRQZDBhV2cwN0dvSDByMEhLSnZqY2hLemg5N3BObtIBZkFVX3lxTFBuX2RVR3VqemJvZG55ODJmYVY5UGNiOThPa0ZrUnhCV3RTRi03OXAwRlI1R0d4RkNfeEVMaXItZzRLdFdpVFIxbVUzdXlDeWctOWR6bDYxX3dSdlN6Q3BmV0ptcTJadw?oc=5",
-          "source": "新唐人電視台",
-          "published_hkt": "07/10 08:33",
-          "related": []
-        },
-        {
-          "title": "美股重點新聞摘要2026年7月10日",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WOGE3TTktdUk5V1l6RXNxOTZaaFpwX3JBM2tCUDBWWVdRQXhpOVdxWXB0em1pUVRXSWUxM0xRak9qS2xvLXZXTE5uMktMT3c?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "07/10 08:00",
-          "related": []
-        },
         {
           "title": "夜盤走揚、美股領漲！「台股放颱風假」這群人哀號 | 民視新聞網",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjSHV3M01BeFlVVE1VMFJROE1mVG5xWFl5MkJlV0hyTGhaNFkwaXlGM1BnU29lNk9xQjJVUmtfcE9YX2FGLXpGZVhwaHJvdUF5cWFjUTFR?oc=5",
           "source": "LINE TODAY",
-          "published_hkt": "07/10 07:05",
+          "published_hkt": "07/10 11:02",
+          "related": []
+        },
+        {
+          "title": "巴威颱風假台股休市！夜盤、美股大漲股民哀號 他曝「這票人」最痛苦 | CTWANT",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52Qzh3N3FQS3RYcnBoc0t4UkZjMVAyRGlCdFk5Z0M3TlVFOWVWM0ZLcHNwUldUYW1xbDRjd0w5YkxCOEVfakJaQmRsaVFZQk80emphV1lR?oc=5",
+          "source": "LINE TODAY",
+          "published_hkt": "07/10 10:54",
+          "related": []
+        },
+        {
+          "title": "SK海力士美股傳超購7倍 集資2076億成最大外企IPO 定價149美元溢價僅3%",
+          "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxOc2E1ekgtLU1zUFRHS0V5RzRTZG5keG1pbUNqUjh0Smk3RnVjeGQ2T1hVV2d2bDhPdnNfSGlzSFE2RnFacjUzbjZfa1FhWlhoa2tRRFRXeEFTZHF0SmFDWDRvd2FfWF96OFcwenlWbUFTMVF0ZDJOOWlFUzBmel9ZdEdVRmNqczczZXM5UEdwb0Q4TVd6X004UHVlRnZqSVZUeVY0TWxrRnpJUWRvSXFTQk5mQWlJaWk1MUUtdjkxOHdvbDRESGQ2bkJxV1FPNnp6REdSTEJuZmRFRlJnbXE1WTY4VlRiX2UxU281aTZwY2tIWEFNSHZIclVmSUZ5TzFGbVlfN3BBc3VWSXROQkl5LXlTb3RvRkN3MG15VmlMdHZ0UzBpX0xtcVg5YVdqYlZTQ19mNlBfWEFkZ1RFWGdsc2twcGhYaVVmV0FKWklGYVRpVFV6TkNvWWNFOEFTQkUyeXJ2YzFOSTlKeE9pRjVjY0swQU1RMTdZUF9JSjk4LWkyLTBJbTdqZlZjWG5BMHU4dFE?oc=5",
+          "source": "星島頭條",
+          "published_hkt": "07/10 10:33",
           "related": []
         }
       ]
@@ -229,30 +229,34 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-10 09:04 HKT",
+    "updated_at": "2026-07-10 12:34 HKT",
     "news": [
       {
-        "title": "過去24小時，MarketVectorTM數字資產100小盤指數上漲0.64%，暫報2168.03點",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oYjJEMF9vUURPTFZKOUducENSdm9vMmd0VDNKYXBSSG0xaGFERXZNdUxmell0eXVCODF4bnRDMmYwM0RpZGNYSVFJUHp4azRXdEs1YmhvMS1tSW5PWEZHS3pTOWpwRHBxQlp30gFrQVVfeXFMT2hiMkQwX29RRE9MVko5R25wQ1J2b28yZ3RUM0phcFJIbTFoYURFdk11TGZ6WXR5dUI4MXhudEMyZjAzRGlkY1hJUUlQenhrNFd0SzViaG8xLW1Jbk9YRkdLelM5anBEcHFCWnc?oc=5",
-        "source": "Bitget",
-        "published_hkt": "07/10 01:34",
-        "related": []
-      },
-      {
-        "title": "主要加密貨幣行情，比特幣升0.77% | 專題透視 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcnlKdGxjdzBESEk4cXZQWTR1emhRNnV5VWZJcEhXVzdPZEhxNUFsa1hQa0ljOEh3c3RoX2MtZ2FOSHpTOWpHTEJyVTg0eUZ2RUJYREdRN2NnNlRHMDJSejlxRS1DVm9MZi02LTJLMXlYclBBMWQ3ZWFZX0pMZWhfVTFrVFBGZmJvUWd3QXdyZWF2RjFqN1ljZmpLYXZjN1dpTHlHVlFNclI?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "07/09 22:40",
+        "title": "比特幣長期風險在哪？摩根大通：金融機構更偏愛「私有鏈」，公有鏈生態面臨邊緣化",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONU53Mnd3WUI0aEpEVzdENGl5Q2RwTl90cVBYQ2ZzUjdVdmZOaUwwVENZMmhkd0dNQTRqLXJ3bWE1Wm15T2ZaU0Q3MUdXNE9vZ3JLc1p4dUVjcDljTVAxY0gyN0hObWVlZXRlNzg3OUpISUNBSWJCbVI5Z1pMMzFsLWZ6dXdJMjU4Z05OZ1hn?oc=5",
+        "source": "桑幣區識 Zombit",
+        "published_hkt": "07/10 11:31",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "金色Web3.0日報 | DeFi儀錶盤Zapper宣布將於8月3日關停",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NNUd6VU5oZ3RVckJTQW1UY0RlNzdXbk9kbi1ic0NZY2NlMjk4VWtscGdxdmVGUHN3Q3RDSW04NnRQa00zcHFkcDAxbw?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "07/09 22:30",
-        "related": []
+        "title": "比特幣的量子困境：擴容區塊 還是採用STARK證明？",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16QnQtZnMxbnowTGhCY3FYZE8zUWtUNzhuMFV6T0xOUmIyUS1xRVZJQ0VaV0xxVHBsQVNiOHR5blpOeEk4aEZ6RDA3eU9tOFk?oc=5",
+        "source": "news.cnyes.com",
+        "published_hkt": "07/10 10:30",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "主要加密貨幣行情，比特幣跌0.18% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOclF4OEJPNUhoVjNpMXdXcXE0NFBFaHVLcExCLVJxYXVLTi1FZnNQQl9WcC11VW8yZ25zZ1lpTmdmT3FsZGZSX1o5aVBJSDNBc2lDNUV0cmFGamJUbDhNMmpqNFZUQlZwSHN5TldlZVhJYXRRYjNBa0Vad3BnVk01WmF0bU5yLXJRQm9jelpwclB3OFFoZ1Q0VGxCbDNfY3pN?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "07/10 10:14",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

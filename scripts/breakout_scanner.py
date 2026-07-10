@@ -1,107 +1,154 @@
 """
-Momentum Breakout Radar V1 — 每日掃描觀察清單（data/breakout_watchlist.txt），
-套用網站「動能」Tab 記載的 Scanner A/B 條件，找出符合的候選股並推送到 TG。
+Momentum Breakout Radar V1 — 每日全美股（NASDAQ + NYSE/AMEX）動能突破掃描。
 
-篩選條件（對應 index.html 動能 Tab）：
-  - Price > $10
-  - Avg Volume(20d) > 500K
-  - Market Cap > $300M
-  - Float 20M–100M（甜蜜區間）
-  - Price above SMA20
-  - RVOL(今日量 / 20日均量) > 2
-  - Scanner A 額外要求：距 52 週高點 ≤ 3%
-  - Scanner B：不要求 52 週高點，抓「量開始異動但還沒突破」的股票
+分兩階段避免對每一檔股票都呼叫慢的 yfinance .info()：
+  1. 從 nasdaqtrader.com 抓完整美股清單（公開、免登入），過濾掉 ETF、測試代碼、
+     權證/單位/優先股等非普通股。
+  2. 用 yfinance 批次下載（每批 ~300 檔）1年價量資料，用便宜的欄位先篩一輪：
+     Price>$10、Avg Volume(20d)>500K、RVOL>2、股價站上 SMA20。
+  3. 只對通過第2步的少數候選呼叫 .info() 查市值/Float，套用 Scanner A/B 最終條件
+     （Market Cap>$300M、Float 20M-100M；Scanner A 另外要求距52週高點≤3%）。
+  4. 依 RVOL 排序，各取前5名發送到 TG。
 
-局限：只掃觀察清單裡的股票，不是全市場即時篩選（免費資料源做不到）。
-清單需要你自己定期用 Finviz 免費篩選器維護，見 data/breakout_watchlist.txt。
+已知風險：這是對 Yahoo Finance 做大量批次請求，GitHub Actions 的共用 IP 有機率被
+Yahoo 限流/擋掉，若某天發現候選數異常變 0 或整批失敗，先檢查是不是被限流，不代表
+篩選邏輯壞了。
 """
 import html as _html
 import os
 import sys
+import time
 from pathlib import Path
 
 import pandas as pd
 import requests
 import yfinance as yf
 
-WATCHLIST_PATH = Path(__file__).parent.parent / "data" / "breakout_watchlist.txt"
 BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
 CHAT_ID = os.environ.get("TG_CHAT_ID", "")
 
 NEAR_52W_HIGH_PCT = 0.03
+BATCH_SIZE = 300
+BATCH_SLEEP_SEC = 1.5
+
+EXCLUDE_NAME_KEYWORDS = [
+    "Warrant", "Right", "Rights", "Unit", "Units", "Preferred",
+    "Depositary", "Notes ", "Debenture", "Trust Pfd",
+]
+
+UNIVERSE_URLS = {
+    "nasdaq": "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt",
+    "other": "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt",
+}
 
 
 def esc(text):
     return _html.escape(str(text or ""), quote=False)
 
 
-def load_watchlist():
-    tickers = []
-    for line in WATCHLIST_PATH.read_text().splitlines():
-        line = line.strip()
-        if not line or line.startswith("#"):
+def fetch_universe():
+    tickers = set()
+
+    r = requests.get(UNIVERSE_URLS["nasdaq"], timeout=20)
+    for line in r.text.splitlines()[1:-1]:
+        parts = line.split("|")
+        if len(parts) < 7:
             continue
-        tickers.append(line)
-    return tickers
+        symbol, name, _cat, test_issue, _fin, _lot, etf = parts[:7]
+        if test_issue == "Y" or etf == "Y":
+            continue
+        if any(k in name for k in EXCLUDE_NAME_KEYWORDS):
+            continue
+        if "." in symbol or "$" in symbol:
+            continue
+        tickers.add(symbol)
+
+    r = requests.get(UNIVERSE_URLS["other"], timeout=20)
+    for line in r.text.splitlines()[1:-1]:
+        parts = line.split("|")
+        if len(parts) < 7:
+            continue
+        act_symbol, name, _exch, _cqs, etf, _lot, test_issue = parts[:7]
+        if test_issue == "Y" or etf == "Y":
+            continue
+        if any(k in name for k in EXCLUDE_NAME_KEYWORDS):
+            continue
+        if "." in act_symbol or "$" in act_symbol:
+            continue
+        tickers.add(act_symbol)
+
+    return sorted(tickers)
 
 
-def scan_ticker(ticker: str):
-    t = yf.Ticker(ticker)
-    hist = t.history(period="1y")
-    if hist.empty or len(hist) < 25:
-        return None
-
-    close = hist["Close"]
-    volume = hist["Volume"]
-
-    price = float(close.iloc[-1])
-    sma20 = float(close.iloc[-20:].mean())
-    avg_vol20 = float(volume.iloc[-21:-1].mean())  # 排除今天，避免今天巨量把自己均量拉高
-    today_vol = float(volume.iloc[-1])
-    rvol = today_vol / avg_vol20 if avg_vol20 > 0 else 0
-    high_52w = float(close.max())
-    dist_to_high = (high_52w - price) / high_52w if high_52w > 0 else 1
-
+def cheap_screen_batch(tickers):
+    """回傳通過便宜篩選（不含市值/Float）的候選 dict 列表。"""
     try:
-        info = t.get_info()
-    except Exception:
-        info = {}
-    market_cap = info.get("marketCap") or 0
-    float_shares = info.get("floatShares") or 0
+        data = yf.download(tickers, period="1y", group_by="ticker", threads=True, progress=False)
+    except Exception as e:
+        print(f"batch download failed: {e}", file=sys.stderr)
+        return []
 
-    base_ok = (
-        price > 10
-        and avg_vol20 > 500_000
-        and market_cap > 300_000_000
-        and 20_000_000 <= float_shares <= 100_000_000
-        and price > sma20
-        and rvol > 2
-    )
-    scanner_a = base_ok and dist_to_high <= NEAR_52W_HIGH_PCT
-    scanner_b = base_ok and not scanner_a
+    survivors = []
+    for ticker in tickers:
+        try:
+            if len(tickers) == 1:
+                sub = data
+            else:
+                sub = data[ticker]
+        except (KeyError, TypeError):
+            continue
 
-    return {
-        "ticker": ticker,
-        "price": round(price, 2),
-        "rvol": round(rvol, 2),
-        "dist_to_52w_high_pct": round(dist_to_high * 100, 1),
-        "above_sma20": price > sma20,
-        "market_cap_m": round(market_cap / 1_000_000, 0),
-        "float_m": round(float_shares / 1_000_000, 1),
-        "scanner_a": scanner_a,
-        "scanner_b": scanner_b,
-    }
+        close = sub["Close"].dropna()
+        volume = sub["Volume"].dropna()
+        if len(close) < 25 or len(volume) < 25:
+            continue
+
+        price = float(close.iloc[-1])
+        sma20 = float(close.iloc[-20:].mean())
+        avg_vol20 = float(volume.iloc[-21:-1].mean())
+        today_vol = float(volume.iloc[-1])
+        rvol = today_vol / avg_vol20 if avg_vol20 > 0 else 0
+        high_52w = float(close.max())
+        dist_to_high = (high_52w - price) / high_52w if high_52w > 0 else 1
+
+        if price > 10 and avg_vol20 > 500_000 and rvol > 2 and price > sma20:
+            survivors.append({
+                "ticker": ticker,
+                "price": round(price, 2),
+                "rvol": round(rvol, 2),
+                "dist_to_52w_high_pct": round(dist_to_high * 100, 1),
+            })
+
+    return survivors
 
 
-def format_message(rows_a, rows_b):
-    lines = ["📈 <b>動能突破雷達 — 今日候選</b>\n"]
+def enrich_with_fundamentals(candidates):
+    out = []
+    for c in candidates:
+        try:
+            info = yf.Ticker(c["ticker"]).get_info()
+        except Exception:
+            continue
+        market_cap = info.get("marketCap") or 0
+        float_shares = info.get("floatShares") or 0
+        if not (market_cap > 300_000_000 and 20_000_000 <= float_shares <= 100_000_000):
+            continue
+        c["market_cap_m"] = round(market_cap / 1_000_000, 0)
+        c["float_m"] = round(float_shares / 1_000_000, 1)
+        c["scanner_a"] = c["dist_to_52w_high_pct"] <= NEAR_52W_HIGH_PCT * 100
+        out.append(c)
+    return out
+
+
+def format_message(rows_a, rows_b, scanned_count):
+    lines = [f"📈 <b>動能突破雷達 — 今日候選</b>（全市場掃描 {scanned_count} 檔）\n"]
 
     if rows_a:
         lines.append("🚀 <b>Scanner A（已突破，立即行動型）</b>")
         for r in rows_a[:5]:
             lines.append(
                 f"• <b>{esc(r['ticker'])}</b>  ${r['price']}  RVOL {r['rvol']}x  "
-                f"距52週高 {r['dist_to_52w_high_pct']}%"
+                f"市值${r['market_cap_m']}M  Float{r['float_m']}M  距52週高{r['dist_to_52w_high_pct']}%"
             )
         lines.append("")
     else:
@@ -112,7 +159,7 @@ def format_message(rows_a, rows_b):
         for r in rows_b[:5]:
             lines.append(
                 f"• <b>{esc(r['ticker'])}</b>  ${r['price']}  RVOL {r['rvol']}x  "
-                f"距52週高 {r['dist_to_52w_high_pct']}%"
+                f"市值${r['market_cap_m']}M  Float{r['float_m']}M"
             )
         lines.append("")
     else:
@@ -139,22 +186,24 @@ def send_tg(text):
 
 
 def main():
-    tickers = load_watchlist()
-    results = []
-    for ticker in tickers:
-        try:
-            r = scan_ticker(ticker)
-            if r:
-                results.append(r)
-                print(f"{ticker:6s} price={r['price']:<8} rvol={r['rvol']:<5} "
-                      f"A={r['scanner_a']} B={r['scanner_b']}")
-        except Exception as e:
-            print(f"ERR {ticker}: {e}", file=sys.stderr)
+    universe = fetch_universe()
+    print(f"股票清單: {len(universe)} 檔", file=sys.stderr)
 
-    rows_a = sorted([r for r in results if r["scanner_a"]], key=lambda r: -r["rvol"])
-    rows_b = sorted([r for r in results if r["scanner_b"]], key=lambda r: -r["rvol"])
+    all_survivors = []
+    for i in range(0, len(universe), BATCH_SIZE):
+        batch = universe[i:i + BATCH_SIZE]
+        survivors = cheap_screen_batch(batch)
+        all_survivors.extend(survivors)
+        print(f"批次 {i}-{i+len(batch)}: {len(survivors)} 檔通過初篩", file=sys.stderr)
+        time.sleep(BATCH_SLEEP_SEC)
 
-    msg = format_message(rows_a, rows_b)
+    print(f"初篩後共 {len(all_survivors)} 檔候選，開始查市值/Float...", file=sys.stderr)
+    candidates = enrich_with_fundamentals(all_survivors)
+
+    rows_a = sorted([c for c in candidates if c["scanner_a"]], key=lambda r: -r["rvol"])
+    rows_b = sorted([c for c in candidates if not c["scanner_a"]], key=lambda r: -r["rvol"])
+
+    msg = format_message(rows_a, rows_b, len(universe))
     print("\n" + msg.replace("<b>", "").replace("</b>", ""))
 
     if BOT_TOKEN and CHAT_ID:

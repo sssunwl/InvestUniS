@@ -83,7 +83,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-10 18:13 HKT",
+      "updated_at": "2026-07-10 19:22 HKT",
       "news": [
         {
           "title": "【港股收市】恒指全周升825點 連升兩周",
@@ -145,7 +145,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-10 18:13 HKT",
+      "updated_at": "2026-07-10 19:22 HKT",
       "news": [
         {
           "title": "台股急殺千點！ 他嚇到一鍵出清「賺的全賠光」過來人勸：別玩了",
@@ -198,7 +198,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-10 18:13 HKT",
+      "updated_at": "2026-07-10 19:22 HKT",
       "news": [
         {
           "title": "日官員放話引股債匯三升！全球最大退休基金傳回流本土 日元獲強勁支撐",
@@ -229,13 +229,22 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-10 18:13 HKT",
+    "updated_at": "2026-07-10 19:22 HKT",
     "news": [
       {
         "title": "比特幣反彈突破64,000美元！科技股領漲推動週線上揚",
         "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNdFFaZG8yYjB3ak9BR3duemF2Y1dydHlSaG1OamYxNjNYTzdlUmxEbHR4NktyUjdoTGdrZk1uSzk3ZG1RRU1zZWU1Yk9VNllNRUV4czZDX0JFbzFNbEZFQVF1anVoWmhDR0QwZFduOVpWVTA1VHU0RGRwYjItV3ZlazhxRmFKVzctdHlwaFU0U3ZmWDdSMUhtQS0yYXk1ZWh6NTNQV3AzMDBHaW4wcURMN1BHYTB6ZTVfZGFObnRKNnQ4X0pnVFJxcDhDOUxWQkxVWVpSSVZnMTZNVnZYeVhyNlRFWEZQNHkzRm1OdkRaUTNKdzNnWTl3Vm4zYmYtWkF6dWVobmMyeUZ1UEZaMjlMNjdJZ2FVS0xjVE1YY1V6OHdRMnI0Uy1fQXpFQ185TFdsdW95N2VNVUpseXlVZlJ6SkZ6Y01GVld3VEdZMWF5dW9WOHJBam1V?oc=5",
         "source": "Yahoo 財經",
         "published_hkt": "07/10 16:21",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "主要加密貨幣行情，比特幣升1.17% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONVJGQXhpbmtYUkg2UjlSN1BWMjBSamxJXzNtYTJxanRlczFkMVhMbnNtV0p2S21aMTV1YklRRWVTb2FsaWlpbDc3dE0wbXhvaHRLTGw5UHNKVnZKVHpLalVrMVBGQ05QMDhaSVFWNGZlY2czQW5zT0NqZ09waVlGVTJjLXdkUGdqSkkyaHo1NlVVLXpWUDk4MGJkbXlDTDZV?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "07/10 16:01",
         "related": [
           "BTC"
         ]
@@ -248,13 +257,6 @@
         "related": [
           "BTC"
         ]
-      },
-      {
-        "title": "Uniswap價格將走向何方？",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQnV3alZpWjRkN01yRWIzTlUwSXM3RlJuVW5wNGY2WGdCTHc2Y1VSWnpwd1BGWmZDLVk4S1c1STE3ZTcwUTgxcFpyWVkyYVppQ2JJV2NuUktmOExMVndzMU55V1BibG9NX0IwWW1yT2g0MzhSS3dmemhEZ29MQUN0aEV0TmZ0b0VOeHZkYkxqRGVmQ2FOWEVKYzBsVmZtbU4za25XU1I4dGphVXE4bmhsWDBkbHZjb2t6WXNncUxEa29aQWRZcmpxSjNuVEE0RGxhZG52VUo3d2R2Tlh1X0VvSi13c0dwQdIB5gFBVV95cUxQQnV3alZpWjRkN01yRWIzTlUwSXM3RlJuVW5wNGY2WGdCTHc2Y1VSWnpwd1BGWmZDLVk4S1c1STE3ZTcwUTgxcFpyWVkyYVppQ2JJV2NuUktmOExMVndzMU55V1BibG9NX0IwWW1yT2g0MzhSS3dmemhEZ29MQUN0aEV0TmZ0b0VOeHZkYkxqRGVmQ2FOWEVKYzBsVmZtbU4za25XU1I4dGphVXE4bmhsWDBkbHZjb2t6WXNncUxEa29aQWRZcmpxSjNuVEE0RGxhZG52VUo3d2R2Tlh1X0VvSi13c0dwQQ?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "07/10 14:50",
-        "related": []
       }
     ]
   }

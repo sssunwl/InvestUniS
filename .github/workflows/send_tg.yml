@@ -70,4 +70,5 @@ jobs:
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
           MSG_TYPE: ${{ steps.msgtype.outputs.type }}
+          DISCORD_WEBHOOK_INVESTUNIS: ${{ secrets.DISCORD_WEBHOOK_INVESTUNIS }}
         run: python scripts/daily_tip.py

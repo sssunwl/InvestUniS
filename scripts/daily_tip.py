@@ -265,6 +265,11 @@ def build_us_pre(data, now_hk):
 
 
 def send_tg(text):
+    try:  # 同時鏡射到 Discord #n-investunis(失敗不影響 TG)
+        from _discord import notify_discord
+        notify_discord(text)
+    except Exception:
+        pass
     api_url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
     r = requests.post(api_url, json={
         'chat_id': CHAT_ID,

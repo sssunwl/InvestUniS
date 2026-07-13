@@ -27,12 +27,12 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-13 12:10 HKT",
+      "updated_at": "2026-07-13 12:26 HKT",
       "news": [
         {
           "title": "債市正向美股發出警報！高盛警告：市場風險遭低估、科技股恐迎修正",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwN0VfTXdjR3lIa2xjdDBDYjNzQW1RZGh6TzVPNC1SSjhHdml3TWhnTUJPMWFvdDVrTG9Ka3B2TmEwVDk5TlNuNjdKUQ?oc=5",
-          "source": "鉅亨網",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UMkNabllUNm9FS09JZkxEWVZFM29pOXJreXRrR2hyOHBoLVptRjRPYUI1eEI0N1g2WkZqYW5jaFlXSG16WXZxNjRoWGJ5SkE?oc=5",
+          "source": "news.cnyes.com",
           "published_hkt": "07/13 12:06",
           "related": []
         },
@@ -225,7 +225,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-13 12:10 HKT",
+    "updated_at": "2026-07-13 12:26 HKT",
     "news": [
       {
         "title": "加密貨幣週報| 比特幣在$6.4萬附近盤整；Robinhood Chain去中心化交易所（DEX）交易量超過以太坊；某...",

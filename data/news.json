@@ -83,7 +83,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-13 18:14 HKT",
+      "updated_at": "2026-07-13 19:35 HKT",
       "news": [
         {
           "title": "港股午評：恒指跌0.11% 科指跌0.81% PCB、半導體板塊普跌 石油股逆勢活躍 建滔積層板跌超15%",
@@ -96,7 +96,7 @@
         },
         {
           "title": "【港股收市】恒指升38點 MiniMax瀉17% 美團否認大裁員照跌",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15OHNRdDl2SmNyTXltMEhJa3FoYnJkMWlLTUZqYzAwM0NnWWQ2UXBSaDRWdWNtSDVqUkFYbW9iZ2xFaHZfNnpLSzVHeXYzMjg1ajdvT3ZIdzVnY01QajZ3ZWliT01tems?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tQ0JsTUIzWExRUGo5SkNwQWYtOEdKWG83Y2Y2ZE0yVXFOVEQ3WVVpRk1jYW9JZ3E5aENfMFV1bjh6TnoybGg4U18tMGZsT3YzSHUxdjZ2MUF5dFpEaWcwRnZ4MTI1RDRBMGZiUE1R?oc=5",
           "source": "Now 新聞",
           "published_hkt": "07/13 17:27",
           "related": [
@@ -145,27 +145,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-13 18:14 HKT",
+      "updated_at": "2026-07-13 19:35 HKT",
       "news": [
+        {
+          "title": "TWA00 加權指數- 光通訊/CPO 戰情中心#001（2026/07/13） - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KZE9ic1YwS1Y4N2liWHBPTVNjeWlSM0RaaGh1S3RERmFQM3NReHMzS3Robi14VHhBeWNzVDJLT0dBMVZMMjdxUkN5ZVZ3TTZ1SDhXNHJwSFk?oc=5",
+          "source": "CMoney",
+          "published_hkt": "07/13 18:54",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
+          "title": "TWA00 加權指數- 三大法人13日買超前十大長榮航6天掃15萬張 金釵摘銀牌- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PMW9rcVFGSExTLVlnaTZaYV92d3VTd1FHdzdBLXMtT3VLYzJTSExnN2FXN3NaQTU5cUNUMFQzelVjZldCVGUtNnFLRzJwZ1pVb29RX1pNaGo?oc=5",
+          "source": "CMoney",
+          "published_hkt": "07/13 18:12",
+          "related": [
+            "^TWII"
+          ]
+        },
         {
           "title": "台股高檔多空激戰！逾1300檔上市櫃收黑、指數小漲25.91點",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tODdvQm5EdXJKUERLT05ORWYyRUo5dmxvRXlocE52RHJmV2F5eWJLMWh6U3Zjdlh5V3RrTmVkUWVwMkJZYWJNYURHUWZBRktjWVVPSlA4Smd2RGNETU5FZUFVUnhtRVJEend0S09paFpodzQ?oc=5",
           "source": "民報",
           "published_hkt": "07/13 17:54",
-          "related": []
-        },
-        {
-          "title": "颱風假後台股補漲變補跌！開高走低留830點長上影線，聯發科跌破頸線多頭警報大響!",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUU2Ixbmh6bzV3VjdvZlg5VTRHRHE1bVQxS3pfVDR5d1NHOVRMeEtLQmxJaklWXzdWTTFXYU45VjBZdndabVY3REtNYWJqb0ZkSGVGQXhLaV8?oc=5",
-          "source": "玩股網",
-          "published_hkt": "07/13 17:00",
-          "related": []
-        },
-        {
-          "title": "中東衝突擾市、台積收紅撐盤！ 00631L、0050居ETF成交冠亞軍 | 財經",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaV2YyVnR6SU9sRWpyYlhvQlNUNmFUN0RlTFJkYVE5aXNMVXh6UFg3UFNVX3ZFYjlBR0J2bDlCZjRvQjltYnc1UEloTGYzSm1xTDhwV3JzY0tyYUE?oc=5",
-          "source": "Newtalk新聞",
-          "published_hkt": "07/13 16:53",
           "related": []
         }
       ]
@@ -194,7 +198,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-13 18:14 HKT",
+      "updated_at": "2026-07-13 19:35 HKT",
       "news": [
         {
           "title": "《日股》中東局勢升溫 日經收跌1.92%",
@@ -206,6 +210,13 @@
           ]
         },
         {
+          "title": "日元暴跌撕裂日本：股市狂歡，中小企業卻成了“代價”",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CU2R1RERVLTRDZUV6MFBBOXlVaElMMGM1OU1vbk85eWxFTmhGaE1sRnZ5Wi1pNU1rRmJiV3VWZnZWSmV2SkE2U0tLeUhpNFhRMVUwcnV6TENUUjJ3WHNCS2xIZXluQQ?oc=5",
+          "source": "hkcna.hk",
+          "published_hkt": "07/13 17:29",
+          "related": []
+        },
+        {
           "title": "《日股》油價影響企業前景 日經收跌1.92%",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40T3g1eUxsYmZNc0xLeVNKY215UmY2NHp6bU95VnJCLVRrbVFxdzVnWGI5eGZLWlNQZFNJdTBIbmVZSlZRaVNTaHNSbV9saGpiOFBDME1iaFp3QzltNVFV?oc=5",
           "source": "工商時報",
@@ -213,41 +224,34 @@
           "related": [
             "^N225"
           ]
-        },
-        {
-          "title": "賣壓狂襲！韓股重挫逾8％「跌破7千點大關」　觸發今年第7次熔斷 | 財經 | CTWANT",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nY21xOFVZV3ZZSHY3SjJjeDFweTFjcUhTQWxrNHZ4V01NZTZsTEQ5QUtCbTgybVNJTEFrZ2VQMVBfZWh6dnZTNGVtQlZMSXlZY2wyUdIBVEFVX3lxTE5nY21xOFVZV3ZZSHY3SjJjeDFweTFjcUhTQWxrNHZ4V01NZTZsTEQ5QUtCbTgybVNJTEFrZ2VQMVBfZWh6dnZTNGVtQlZMSXlZY2wyUQ?oc=5",
-          "source": "CTWANT",
-          "published_hkt": "07/13 15:44",
-          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-07-13 18:14 HKT",
+    "updated_at": "2026-07-13 19:35 HKT",
     "news": [
       {
-        "title": "在美國與伊朗新一輪襲擊中，Hyperliquid會跌至多低？",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZUZSZFdSWlAxaENYY1dhZl9sMURyQ3hxbUJaajd5TW1zUldvbVIxVVVOcGtNcnRKeUNmVjdpN3pQXzJVcUFwNU15ODYzM3k4T1JyM0NuV0VQN3BBanBuVzF5VEhUSkhyY0p0bnJ1eUFURlktWDBFaGZYbkJjQUVQempGS1BSM0o3SjhuT2JubXNkM3oyakhvODFaWjk1TzVZOGRzOFlkVXdvbndTMTZtYUVGdy1XQ3k5V3o2aGswNXNHZ3ZXZmNDRGEwazducmxFY2FYTWxoR2FZd2hvR3l2R2ZDVjVnbEN5dmEydHE4ekzSAfABQVVfeXFMTWVGUmRXUlpQMWhDWGNXYWZfbDFEckN4cW1CWmo3eU1tc1JXb21SMVVVTnBrTXJ0SnlDZlY3aTd6UF8yVXFBcDVNeTg2MzN5OE9ScjNDbldFUDdwQWpwblcxeVRIVEpIcmNKdG5ydXlBVEZZLVgwRWhmWG5CY0FFUHpqRktQUjNKN0o4bk9ibm1zZDN6MmpIbzgxWlo5NU81WThkczhZZFV3b253UzE2bWFFRnctV0N5OVd6NmhrMDVzR2d2V2ZjQ0RhMGs3bnJsRWNhWE1saEdhWXdob0d5dkdmQ1Y1Z2xDeXZhMnRxOHpM?oc=5",
+        "title": "Pi Network 價格會跌到多低？",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQanp6bzFUdF9DWG9yZDg4ajBfNXBFQ0g2WE5KN2R1a3hwSFVyUzMyU3dzck1JWWpjUGYwcU55d1BTQkFHZ0twRGY0Y21BYmZzLVNkOElnQ0RLN2JMN3BPMkdPQXN6TXNYTzhRM2pjaHJ2Y0JQR0NHNFVxY1VLV3pLVmNsT1ZkeGhpZmJETXBTMGQyODZPVlBveE9jbDVPVmlyQmRnYXBsVHR3dFp4cU55cTkzMHdiN2xMVnhBTzl6S1REWjlkUk51Rl9rQUFBakJZSVlIQWZmNE9hUFF5Z3VDMNIB4AFBVV95cUxQanp6bzFUdF9DWG9yZDg4ajBfNXBFQ0g2WE5KN2R1a3hwSFVyUzMyU3dzck1JWWpjUGYwcU55d1BTQkFHZ0twRGY0Y21BYmZzLVNkOElnQ0RLN2JMN3BPMkdPQXN6TXNYTzhRM2pjaHJ2Y0JQR0NHNFVxY1VLV3pLVmNsT1ZkeGhpZmJETXBTMGQyODZPVlBveE9jbDVPVmlyQmRnYXBsVHR3dFp4cU55cTkzMHdiN2xMVnhBTzl6S1REWjlkUk51Rl9rQUFBakJZSVlIQWZmNE9hUFF5Z3VDMA?oc=5",
         "source": "FXStreet",
-        "published_hkt": "07/13 14:42",
+        "published_hkt": "07/13 17:18",
         "related": []
       },
       {
-        "title": "主要加密貨幣行情，比特幣跌1.49% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUWw3NF9XZHVPQ08xcXh2ZVN5SDNwcU1CWm0tUlRJVGQ4TndnRmlSaE9IaGYxaUxzeHhxQkRvaGFRV1pQVFNDdGhSNjUzdGlRRDR6THRzWGVqNzhUYWtRVExKcDJ6T0ZIdXpHMTVZX09ERlRxMEUzNXNVOEhGQkVLR3A5aUhaMlA1MW1qSHFjbzh5cGpDUFA1WVJsWDlfZjFz?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "07/13 14:01",
+        "title": "比特幣價格預測：儘管ETF流入改善，為什麼BTC仍在下跌？",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV0EwdGF2SVN5RHZ2bzhwbU83NEpxV1VMb0pKamRqaURacDBYRjM0R0hlWEJwX05wTzJFSVV1NERHMUdUMlhQN01lWS1aX3p4eVZ0UzdPUG1Ud2xxX1UyaXdOQ1RMemJQeUhKdExtU2JFd0diQlA1djU1T1l2TnhvUEhuTGV1UDdCN1dOZU1HMHVrd3pKUXNhbTczc3ludDd1aFRyVGtQWEJoUzcwNlpBWWtsNy1Kc2FQWkZKbk9DeUdVQlBmQ25LeDlGSHAyY1lKMk5ZMzdCZl9nMlFWWThzNnZ30gHiAUFVX3lxTE9XQTB0YXZJU3lEdnZvOHBtTzc0SnFXVUxvSkpqZGppRFpwMFhGMzRHSGVYQnBfTnBPMkVJVXU0REcxR1QyWFA3TWVZLVpfenh5VnRTN09QbVR3bHFfVTJpd05DVEx6YlB5SEp0TG1TYkV3R2JCUDV2NTVPWXZOeG9QSG5MZXVQN0I3V05lTUcwdWt3ekpRc2FtNzNzeW50N3VoVHJUa1BYQmhTNzA2WkFZa2w3LUpzYVBaRkpuT0N5R1VCUGZDbkt4OUZIcDJjWUoyTlkzN0JmX2cyUVZZOHM2dnc?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "07/13 15:25",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "卡爾達諾是否將面臨更多虧損？",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORU1KTnZWSVlEMDhrNjVIeGIwa1BfTHpoNzB0SmN2MWFLOUI2QkUwSkdIOV9yc25xRUJPbThUZXo0UGZqbUxrTDNtZWZtaUZWMWNLUDdUc0tFVEdqZFZxX1NhblcyVGxOMjZBeGEwWVFXOGNaU1lZZHVEWnN6MW9IalZEZzJrbk93eXYxWEpUQlhSMEZGNktXVW5MM3ZwUUlORms3Y0tYOGwyMk42WkZ3V1VwZ1BLbGl4Yk8zem9QTF9YOUJQaUJWLWlwclYyOFZvdzZYRHl5TmJWRXBZQ3fSAd4BQVVfeXFMTkVNSk52VklZRDA4azY1SHhiMGtQX0x6aDcwdEpjdjFhSzlCNkJFMEpHSDlfcnNucUVCT204VGV6NFBmam1Ma0wzbWVmbWlGVjFjS1A3VHNLRVRHamRWcV9TYW5XMlRsTjI2QXhhMFlRVzhjWlNZWWR1RFpzejFvSGpWRGcya25Pd3l2MVhKVEJYUjBGRjZLV1VuTDN2cFFJTkZrN2NLWDhsMjJONlpGd1dVcGdQS2xpeGJPM3pvUExfWDlCUGlCVi1pcHJWMjhWb3c2WER5eU5iVkVwWUN3?oc=5",
+        "title": "在美國與伊朗新一輪襲擊中，Hyperliquid會跌至多低？",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZUZSZFdSWlAxaENYY1dhZl9sMURyQ3hxbUJaajd5TW1zUldvbVIxVVVOcGtNcnRKeUNmVjdpN3pQXzJVcUFwNU15ODYzM3k4T1JyM0NuV0VQN3BBanBuVzF5VEhUSkhyY0p0bnJ1eUFURlktWDBFaGZYbkJjQUVQempGS1BSM0o3SjhuT2JubXNkM3oyakhvODFaWjk1TzVZOGRzOFlkVXdvbndTMTZtYUVGdy1XQ3k5V3o2aGswNXNHZ3ZXZmNDRGEwazducmxFY2FYTWxoR2FZd2hvR3l2R2ZDVjVnbEN5dmEydHE4ekzSAfABQVVfeXFMTWVGUmRXUlpQMWhDWGNXYWZfbDFEckN4cW1CWmo3eU1tc1JXb21SMVVVTnBrTXJ0SnlDZlY3aTd6UF8yVXFBcDVNeTg2MzN5OE9ScjNDbldFUDdwQWpwblcxeVRIVEpIcmNKdG5ydXlBVEZZLVgwRWhmWG5CY0FFUHpqRktQUjNKN0o4bk9ibm1zZDN6MmpIbzgxWlo5NU81WThkczhZZFV3b253UzE2bWFFRnctV0N5OVd6NmhrMDVzR2d2V2ZjQ0RhMGs3bnJsRWNhWE1saEdhWXdob0d5dkdmQ1Y1Z2xDeXZhMnRxOHpM?oc=5",
         "source": "FXStreet",
-        "published_hkt": "07/13 13:21",
+        "published_hkt": "07/13 14:42",
         "related": []
       }
     ]

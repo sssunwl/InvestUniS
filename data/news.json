@@ -83,31 +83,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-14 18:14 HKT",
+      "updated_at": "2026-07-14 22:56 HKT",
       "news": [
         {
-          "title": "港股收評：午後拉昇！恒指升0.52%，半導體PCB捲土從來，能源有色集體活躍 作者 格隆匯",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWMHFkRzFqblhjR3Y2TGpoWndHQ0JsZDlveU51S09zZTFPOFBfUG9CNzNSTzRTRklsUFJmanFOb0c3eElwRlhUaWRfQjlMRndJWFoyNGFTZk5iNFFfZks5M1NNU3g1RFFjWEJnWm93eVg?oc=5",
-          "source": "Investing.com 香港 - 股市報價& 財經新聞",
-          "published_hkt": "07/14 17:00",
+          "title": "內地出口勝預期 港股低開後收升127點",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LOWJ6MWpMNm5RV0lFSVFDNkFGLS1EcDdzemtDNFk3R2MwMlFqVHZ4cTNDMkNUdjRFZ1JOU0JhTi00NEtyMHlhX2NrNUJ6djZpbVMzeGNmc1VITEVwVk92eFQ5UlNnTlFubExXYW4zQ2g?oc=5",
+          "source": "hkcna.hk",
+          "published_hkt": "07/14 20:02",
+          "related": []
+        },
+        {
+          "title": "恒生指數 V型反彈逆轉：避險情緒仍會隨時拖累港股反彈動力",
+          "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxONHNfTzJOekk2U1F2VVE5TUIzRm5TSDJ2ZUEwSFVFbXQ2WlhTS1JHRnV6T19HSDhPN1Q1Mlp3TmlIUGx6R0VPdlh1WE1lSmlHZ05ST3JFZDFRNXR4ME4zTldzRGJmUnZjWkQyclRBekhPaF9VT2tTc0VFTWJ0ZmJvWFo5cnlWZzctM1BvNG5XanVNR3Q4NGdERVdSNnZwTEhZbk1uNzJNdmU5d1VvbmlacmJfbUhDdzR4b2cyVnlFQldNWEdCMlM2cWloWFdGcFRZdmNpeUNRMnZSSGNDckNQa0lCcktyaldtdjJISTBZMmxxNnBidU0zaFN2Nkl4dXBZODhKT180dVhJN0hySzVBbnI3cVo0SXNMLTNGcmZrUFNWcEVHSFJrV200ME5zU1FvN1BxeWVSWWtBRHlSVlBKejJ6a09jWTh6a2RlU0hCZHZiWld2eUtIbzhlN1BGb21Pc0RqX25tM0ZGdw?oc=5",
+          "source": "香港財經時報HKBT",
+          "published_hkt": "07/14 19:08",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "【港股收市】恒指升127點 百度挫7% 美伊局勢推高油股",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xS2V4R1hpUWVNdFJZaXZveVp6Wi1LYXF5TnJheDBSeVBvUlhhOFEyYU1teExMVTlQNnhqSTRsWG5UaGtGYVQwa183clNKZGNDdGd4WHhaSDhHY2hZR1I5S0hmSjRRYU0?oc=5",
-          "source": "Now 新聞",
-          "published_hkt": "07/14 16:59",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "【港股收市】恒指升127點 百度挫7% 美伊局勢推高油股",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CTDBqQkFFNklKM19MZkE4WGlBQ1hnbnRGMUZkbVc5LThleHBBdFdHaUVTRmRjaUw4OTNkck5SRzlkVG1yZzNWNllSalh0TjdwMExFZ1M5MWhKTXBJNTZ5NWhlZFhqWTdLZXV3RWd6TXJDVmtGZjRiVi1R?oc=5",
-          "source": "Now 財經",
-          "published_hkt": "07/14 16:55",
+          "title": "港股展望丨信銀國際降恒指區間頂目標至28000點",
+          "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOT2dXMmhkek9Ba3RuRkZsM21GV3pWUnkybnJ5VEVSMVZzeE1ZbU5za3dBRUJmR1VuR3FQX25SSlhZSFhZQW0tUl9Nb1BSbFhYRlBldHQ1QjY5LTB4b2lWTUlBVzVVVGtUTUVuNEdvc2UxZVh6WkhmTHdFel8xMDdpN3JrNEVuekh4ZjA0MWFHQmNuZW40bnBWT194dEQ4bEdXaTBMMUlyYXc0TTFrczB0aHdyX0d0UkJ3d25aQVBvZk4tU3BpU2Qyb2FHbER1cnA0MnRoYlh3Skowb3c3MnZGZ2FDeDRoSHlJZDg4SlN3cjM2NXphcTZDaHozWE5FZl9VVUZBZjJKM3BRdGhObmxPaWxDV2JvWko5TDJwSHhlTUkxRkN5dXhWVXotcUZFNEZyR3BJVkFpZVJDZWJSX2JVekJ2VXJDODBON0ptR1QxRUJrQ0hM?oc=5",
+          "source": "信報網站",
+          "published_hkt": "07/14 18:00",
           "related": [
             "^HSI"
           ]
@@ -145,31 +143,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-14 18:14 HKT",
+      "updated_at": "2026-07-14 22:56 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數 - 各位今天有成功抄底嗎 - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXMXJ4cWR4YlB2eEFWZk1hRU9fMGl0aHRhck13OXRpdE5WbnZtbW51dXQ3VE9PMG9VdldHOTRPNGJpUERnZEVLU0dCT0daODMxTjkxVlRTVlM?oc=5",
+          "title": "TWA00 加權指數 - 前值 : 4.2% 預期 : 3.8% 公布 : 3.5% - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZLUI1VEt1UDRMQzhDa2JDVHlrTWFUTjdGbE5pdWs3XzVpMmx2QWFlODllZDZSQ1AwTmpVWEh1Y2R0ak5YcjFmQW1Mb1FndmFJNDJramY1NzI?oc=5",
           "source": "CMoney",
-          "published_hkt": "07/14 15:28",
+          "published_hkt": "07/14 20:37",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "TWA00 加權指數- 盤後紀錄及早盤當沖選股補充！ - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5emVrZ2tjUWl1NHJ4ZWVGWjhDMk8ySEdGLUJZcVVuMUlhckZMNmNjVF9RSDVPUDNXQXBrdHUtSTJwRmhKT0toMXk1eHE0MzNjaFpNXzJ5Slg?oc=5",
+          "title": "TWA00 加權指數- 投信14日買超前十大南亞摘雙冠老AI、PCB雙雄惦惦吃- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nWkF0RnVIM2FPbEFmU29jYW92UklJYm9UazY5Y0tack9IWVBNX2tnNDlVM1htQnpDdTI0aHhsbWowNXdkQjd2V1hoOUIxeEFPOU1zc0wyeDc?oc=5",
           "source": "CMoney",
-          "published_hkt": "07/14 15:26",
+          "published_hkt": "07/14 18:52",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "TWA00 加權指數- 懶錢包2026.7.13聽後筆記- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1aWxraERrQ0FDN285QVJudHdka1ZXb2ZwRl9sY2lHalFXSnQwNHZiRzZUU1RJd2FvZktmaWRlVHBxeFVtdFdlc3BJNnIzcXE2TUNrazQ5RDc?oc=5",
+          "title": "TWA00 加權指數- 外資14日買超前十大傳產5檔進榜大手筆壓寶長榮航- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xTlZDcE5Vb2F5VElWNlM3N2JjMUxKb1BVS0tiUUlBVWFkMkNTTGtEUFRncWJPcmtpWjRBNmwtbWVTWnhnNE94ek9CeE1NbngyZXBvQW5GbjQ?oc=5",
           "source": "CMoney",
-          "published_hkt": "07/14 15:17",
+          "published_hkt": "07/14 18:51",
           "related": [
             "^TWII"
           ]
@@ -207,8 +205,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-14 18:14 HKT",
+      "updated_at": "2026-07-14 22:56 HKT",
       "news": [
+        {
+          "title": "資金輪動帶動補漲 日股上揚",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOalVKbnM2NG5zVzIxQUFVUWhGYTZQWU9RZk5RTUlXR0ZldEJHVmJIMFoxYTUyRHAyempZVHM1SGdBYXNWUjRjaV9wUU4wNlhjN2lMMGNVeTVlSU9BZ3dsenFHbjIzS0xBNHlONWlHSWxNUHQ0MkVkQTVfdDF0bHJ6bzExR3Y0amxLSkxGYmpJR1gyMHVDeTVuZ0dVNFZueDg5UTEtakM5aXp2bm1ybWxIdGNyOHJxb204T0w3SWZsbTBWWE5XZHdqTUxpX05iUDh6T1hZWU1wN0N6M0M4YnQzbF9HVW1POWZhV3VsaTFjemNhNjVQSDRZ?oc=5",
+          "source": "MSN",
+          "published_hkt": "07/14 18:28",
+          "related": []
+        },
         {
           "title": "《日股》午後買盤回流 日經收漲0.74%",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb3IxOGxBVllYUURXQmdrdUZhWkNRZlZWX2JOLVotcWRLWno3YUU1aDc1aHVVMUVFeFNHb0poMXRZZEZUamNsRXBoWjRUWWF2MXd5NHVfZ29LanJrWk1oQ1MtWmFFa1hxTHJMSEVtSVFUcUVvWXJXVkZhb25PX3o4OVVaQk5LNW0yWUoxakJ1Z0FpUQ?oc=5",
@@ -217,13 +222,6 @@
           "related": [
             "^N225"
           ]
-        },
-        {
-          "title": "資金輪動帶動補漲 日股上揚",
-          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPNldfTHN4TDEzVlA1R0NwWUZwem5ycE5lM1UzU0djajlFekdJc29xUnRNMTNmTW9qMk1CT2V6bEZ6cnJrc3hneVFoQjBoa2tlZzBOQ2trTlVjYmRYQ0JDMmZvZmhFZnF3SkZZNmdQTGM3VXVMdy1zRC1ac1ZmbGNxQ21zSGpmN055d1F4VFU3bDlRNWxJNmV4aGoyQzV3dlJSRlIwb05ZaWxZbnB6ODlHTXNacXpqRUpqVWZxTVplc0ZMa0ZYaGEzSDBsM1hEOVh2b0V5Nk53ZnctYWdmcmFwV2VoaGFRWExMWWtabjVCTWtJNU04dGc0WTlCWE11LThLOTVIWEhoWndFQVBDemE3T0p2bDNWMmI4T3c?oc=5",
-          "source": "MSN",
-          "published_hkt": "07/14 15:49",
-          "related": []
         },
         {
           "title": "資金輪動帶動補漲　日股上揚",
@@ -236,27 +234,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-14 18:14 HKT",
+    "updated_at": "2026-07-14 22:56 HKT",
     "news": [
       {
-        "title": "今日CPI或引爆币圈！比特币困守6.2万，市场却在押注美联储突然加息",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53M0ZVcTlIaEtya2ZId2RIazlUcW1qOENvdHNHU0t2SE9vUjlhVmkwUTkyT1g5MUx0M0lRaWFLU3ZXRm9ocVBNRDMxb3pXcHB1c1dreHJKRks?oc=5",
-        "source": "FX168",
-        "published_hkt": "07/14 17:34",
-        "related": []
+        "title": "比特幣最大利空是什麼？摩根大通：不是 Strategy 倒貨、而是「許可鏈」崛起",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92YlllbjZhLVBaVmF2MDd6YTJaR3dYQmdDb0tveUJHMElkemF0TUVPSTVMVFhmOFo5dnU5a0RxcnVRZHZrejlZTjZtUQ?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "07/14 20:00",
+        "related": [
+          "BTC"
+        ]
       },
       {
-        "title": "柴犬幣價格預測：看跌數據和風險規避情緒打擊SHIB",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc055ajB1LUd6MFNFNXRheTF0c2RCNS1mVWVLMlV4RFZFOVZidndVTmEtSHl0YWhVeXhwLXMzOG1nbzlHUWVnYnRleTFqTDh0TFJNekVXcllSZ21JT3VoTzN2QzFBV3lUQkF4ajU4VTBZLXFlR3BoRlZzaEw1UUV6UFJvbnl5a2hRaEcyTEl5cHRWTC1EelN3WWhsWkNzOU1FVTI0R1ZqNXFwZGJMMHRSWU4zUTdYMkljNFE1U3V3OFpabS14WjV5c04yQjI3emFzV0lCaXczaTFlQdIB2gFBVV95cUxNc055ajB1LUd6MFNFNXRheTF0c2RCNS1mVWVLMlV4RFZFOVZidndVTmEtSHl0YWhVeXhwLXMzOG1nbzlHUWVnYnRleTFqTDh0TFJNekVXcllSZ21JT3VoTzN2QzFBV3lUQkF4ajU4VTBZLXFlR3BoRlZzaEw1UUV6UFJvbnl5a2hRaEcyTEl5cHRWTC1EelN3WWhsWkNzOU1FVTI0R1ZqNXFwZGJMMHRSWU4zUTdYMkljNFE1U3V3OFpabS14WjV5c04yQjI3emFzV0lCaXczaTFlQQ?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "07/14 13:41",
-        "related": []
+        "title": "時隔一年「Lean Ethereum」再出發：以太坊想要交出什麼答卷？",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11bG5xZEFqVldqWGVpNnM3MnJPSmpvdGU3WU4tQ2NkRHpJdzVnY0RkdVp1S3NldW5yMnpiYUR0bjMzMkpCVVVsSFRwNA?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "07/14 20:00",
+        "related": [
+          "ETH"
+        ]
       },
       {
-        "title": "XRP、ADA 和 SOL 的價格走勢如何？",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZElMYUFWbDd2NWJNaFE5a0YwRFBJWGJSU2M2aTF5Y3MtU0JFRGJUMkZvNnBVTV9reDlnNTNnSFJJTzR3OVU0QXU0YUtoM1h3bV92MFpvRVd6dkh5enQ4andHMHhIemVVYk1NZGtrUUI4RDBZMHVzeEJKcER1RFR4RFdCcGVFMHljZEhmSmtmdmtXbFZZb1plQjlscDU3bkRZamt0SUwzdTBOLS13QUFzRVRGcy1GTm5LbFlPYkdZdmdoN3NLMENaWmZHMDV4b1p2RWhsQ1lTWEFObnJLZmdMY1hrbFRvQU1VdnFVVE9n0gHuAUFVX3lxTE9kSUxhQVZsN3Y1Yk1oUTlrRjBEUElYYlJTYzZpMXljcy1TQkVEYlQyRm82cFVNX2t4OWc1M2dIUklPNHc5VTRBdTRhS2gzWHdtX3YwWm9FV3p2SHl6dDhqd0cweEh6ZVViTU1ka2tRQjhEMFkwdXN4QkpwRHVEVHhEV0JwZUUweWNkSGZKa2Z2a1dsVllvWmVCOWxwNTduRFlqa3RJTDN1ME4tLXdBQXNFVEZzLUZObktsWU9iR1l2Z2g3c0swQ1paZkcwNXhvWnZFaGxDWVNYQU5ucktmZ0xjWGtsVG9BTVV2cVVUT2c?oc=5",
+        "title": "加密貨幣價格預測：瑞波幣、Curve DAO及加密貨幣——歐洲市場綜述 7月14日",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQjVkSVI2b0s0R3BYZU9CbHV4UUk1X1lSOW0zSzlDWXZ1b1o3R08zLUVmTWF0eDZjWlkwYk13VGNlS2lxbFBCNzRXcVJSWEJzSDhzUFNkWUdoQjdRZGlXYkZTck5sODFzdDRpOTdMemhaQXgybzAweGhCN3lyS1hib1ZVTmFVN1lXXzNZWDVraWxlYTh0bkZHTVNOalNqNlVDOVpwaHo5QzhnTWZrUmtrX3FGX25ITTZoZVZVS3JubDUxb0hhZmw1OVBJTnhSUFY2OEtzbGZ5dGZ4M2FGR0tRTmV0REdrLXV6bzZXbzZ4ZEJYdnJJ0gH0AUFVX3lxTE9CNWRJUjZvSzRHcFhlT0JsdXhRSTVfWVI5bTNLOUNZdnVvWjdHTzMtRWZNYXR4NmNaWTBiTXdUY2VLaXFsUEI3NFdxUlJYQnNIOHNQU2RZR2hCN1FkaVdiRlNyTmw4MXN0NGk5N0x6aFpBeDJvMDB4aEI3eXJLWGJvVlVOYVU3WVdfM1lYNWtpbGVhOHRuRkdNU05qU2o2VUM5WnBoejlDOGdNZmtSa2tfcUZfbkhNNmhlVlVLcm5sNTFvSGFmbDU5UElOeFJQVjY4S3NsZnl0ZngzYUZHS1FOZXRER2stdXpvNldvNnhkQlh2ckk?oc=5",
         "source": "FXStreet",
-        "published_hkt": "07/14 13:33",
+        "published_hkt": "07/14 19:49",
         "related": []
       }
     ]

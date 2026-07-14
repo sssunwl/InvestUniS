@@ -83,32 +83,32 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-13 23:43 HKT",
+      "updated_at": "2026-07-14 16:57 HKT",
       "news": [
         {
-          "title": "恒指夜期丨報24179 跌22點",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQUtlVHltcnFxak1FWnhhbENQRXZUTFRPVllpbmNnLXJSV2xSNVQyeXpNd1NqYUwxOTZGX3l6WUI0cERkcGp1d2R5aWtEQ1UyUmtvc3ZKbEFaU0pBS1lYNFBkTEktOUc1aEtuWVV0bVgtNHJ3N1lwMVlDUENKaVFBYVNVSzNXclM1NjZ3SUlBRWZhOFBqZzBYd2F4TU05aWswYV8tUjFzeGhHa003OXNEc3U4WllqQkR1bDZrX3RtWVd2RFFLa01WNzNiSXFTWE9w?oc=5",
+          "title": "港股走勢丨恒指埋單升127點 逾109億北水撐市",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZS2djS09nTFRaczFCQWE3ODBDVXFtTS1taTlmUmw3QnRsaUtjM1RSdkhrVi1jQkcxVFNvM1hUSzFDQ0JNdHBDdEc4OEJpWjA1ZEw4NlE2UFlocHpoLTA5SUdLQjBBM05nRXJwbkNTSQ?oc=5",
           "source": "信報網站",
-          "published_hkt": "07/13 20:39",
+          "published_hkt": "07/14 16:47",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "港股升38點 分析指後市有望造好",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02UHJOM1FoUWZMQUktd1VtTERTeUFRdnBYOWFDaml5Z0x4R3NZLXJPNkVrUm5JZ1g5SzVxNHVJMlBwWXBWNkU0UnV1RFhrMFNlb0drYjRRT19GTkVfdkRDS25wOE1FZw?oc=5",
-          "source": "hkcna.hk",
-          "published_hkt": "07/13 18:14",
+          "title": "〈港股盤後〉金屬與電子板塊業績報喜 恒指震盪收漲0.52%",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYNjN0Z3ZfMUFrUGg0OWVnR3pCN21yblNvS1hwU1lyYTgzVEJSdEZENDdFZWp5MHEtSnptbWxRVVNZby1lODVGQUpqN3VFYTQ?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "07/14 16:38",
+          "related": [
+            "^HSI"
+          ]
+        },
+        {
+          "title": "港股高收127點 資源股上升",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jZ0pOOW5rUkpxTmlPRURkR3FBLTRXNjJpR2g4a2hpSDRnSjdFVE1JVEdzdEd3dHBabENtZ3J6bURJMmhTV2I3ZklYdFlIckdreU9BbUR5a3RtcmZ2SzE1Ui0wS0swTWdubFVKckpxUQ?oc=5",
+          "source": "香港電台新聞網",
+          "published_hkt": "07/14 16:34",
           "related": []
-        },
-        {
-          "title": "港股午評：恒指跌0.11% 科指跌0.81% PCB、半導體板塊普跌 石油股逆勢活躍 建滔積層板跌超15%",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PeEZNZkdES0FsVVIzcjZJZEpZcl9YR3BoR3FHTlN4TnVUdjVDdzFidGFWMEpFanJZeTNlWjJCS0NEQm8yR1I3Y0d4QXVFV0lhWEp2TTQwQVA3cm1laXpNalppTmU1Q2NiYUJSSUY4V1plYWdz?oc=5",
-          "source": "flamingwheels.online",
-          "published_hkt": "07/13 17:57",
-          "related": [
-            "^HSI"
-          ]
         }
       ]
     }
@@ -143,13 +143,22 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-14 16:18 HKT",
+      "updated_at": "2026-07-14 16:57 HKT",
       "news": [
         {
-          "title": "台股14日大跌642點 軍工股強勢表態漢翔爆出13萬張巨量",
-          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOS3FOaGhsSEZ6aGlPNWRSQ2tHemo5d2tJUnJYaTVnbU0zRG12TTVXNFZtY1hrakN0b3RxN0VEV2NlX282cVVJZkJWSXNIMjNRU2hINjk4VnJqNWlKcm5idndHNGNCYmFnZDgtMmxwdHRVS01QcGRFNVEyQy1TbWNoMVZzYzI0N3k5VV93cnFNOVFQajk2TURDUmc1a2hfLW9uaU1QcTdKVE1VTU5kVlRHaWlYRU1Gekd6VkIxMEFwR29FU0kxYjNQWldpWl9CTmh1WVdlbGk1Rm1CSWxTUzVrQng0MGFkV19CYnJvZ21VQXhXQXgtcXlhWGstNm0zX2xSb3dhaVZienFzYi1SNktiRjY0Y09lWUI0R2hIU3Z0cG5HQkdtS1JseFI4S3N4eDNRc1pZYlptcm5hcjRndDFfOGJZbnhSRmdVVUE?oc=5",
-          "source": "yesmedia.com.tw",
-          "published_hkt": "07/14 15:51",
+          "title": "TWA00 加權指數- 🌈7月14日（二）🍀盤後規劃🌊外資空單：83390🏄 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SQTNqbHhWNEdwZVQ0cTB6X0JqS25jMWVCX25ZQkh1cFhNRE9SYWoyZVNhalpRYVYyaWZ3Z19YdzdSdmZ3SVRxWUJBSzQ2eTNLd0tMaDdQZE8?oc=5",
+          "source": "CMoney",
+          "published_hkt": "07/14 16:24",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
+          "title": "台股一度大跌逾 1700 點嚇壞投資人，軍工股享美伊衝突紅利受關注",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWJpUTlsV2NJNDJSRnVRQVIzaTREY2phaDdmVlJxcWF6V1ZmaXA2THhfbUUyQVMxRFdNYkVIN2ZaUGVjSmRLN09VT0NjcU9Na3NETzB3eVJCb29qcUNrZW5VWHZtWDZKS2xTMkRrdFJLSnhUZWZVRWdZa25aQnFaWWlsX2t6ckdlNTR2YS1jRDEyM1ZwYUFHNXpJRkhnWk5vS2pRRmQwZmRndUlHdUtHbXllRUdyU3J4djZySUtIekdoaFVYM3NFRmNjbw?oc=5",
+          "source": "TechNews 科技新報",
+          "published_hkt": "07/14 16:14",
           "related": []
         },
         {
@@ -157,15 +166,6 @@
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXMXJ4cWR4YlB2eEFWZk1hRU9fMGl0aHRhck13OXRpdE5WbnZtbW51dXQ3VE9PMG9VdldHOTRPNGJpUERnZEVLU0dCT0daODMxTjkxVlRTVlM?oc=5",
           "source": "CMoney",
           "published_hkt": "07/14 15:28",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數- 盤後紀錄及早盤當沖選股補充！ - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5emVrZ2tjUWl1NHJ4ZWVGWjhDMk8ySEdGLUJZcVVuMUlhckZMNmNjVF9RSDVPUDNXQXBrdHUtSTJwRmhKT0toMXk1eHE0MzNjaFpNXzJ5Slg?oc=5",
-          "source": "CMoney",
-          "published_hkt": "07/14 15:26",
           "related": [
             "^TWII"
           ]
@@ -203,7 +203,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-14 16:18 HKT",
+      "updated_at": "2026-07-14 16:57 HKT",
       "news": [
         {
           "title": "資金輪動帶動補漲 日股上揚",
@@ -230,7 +230,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-14 16:18 HKT",
+    "updated_at": "2026-07-14 16:57 HKT",
     "news": [
       {
         "title": "柴犬幣價格預測：看跌數據和風險規避情緒打擊SHIB",

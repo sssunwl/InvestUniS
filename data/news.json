@@ -27,7 +27,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-15 11:45 HKT",
+      "updated_at": "2026-07-15 11:54 HKT",
       "news": [
         {
           "title": "先鋒集團新推4檔美股ETF 助投資人應對市場集中化 - 財經新聞 - PChome Online 新聞",
@@ -234,17 +234,8 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-15 11:45 HKT",
+    "updated_at": "2026-07-15 11:54 HKT",
     "news": [
-      {
-        "title": "Bitmine 上季度以太坊質押收入達 4,570 萬美元，佔比 98%",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aZS04VDAybUotaUk5Z1gyZUFVcnNHem00UHF4MVZyUF9FcnE0a3pxRzUtX0ZsRTlsd1V6cUhvOXhfOFFoOTM5WUw2ZXVuXzVzX0NLc2FON1hScmxHdTdXNy01WmxFbURoVGRZ0gFrQVVfeXFMT1plLThUMDJtSi1pSTlnWDJlQVVyc0d6bTRQcXgxVnJQX0VycTRrenFHNS1fRmxFOWx3VXpxSG85eF84UWg5MzlZTDZldW5fNXNfQ0tzYU43WFJybEd1N1c3LTVabEVtRGhUZFk?oc=5",
-        "source": "Bitget",
-        "published_hkt": "07/15 10:04",
-        "related": [
-          "ETH"
-        ]
-      },
       {
         "title": "主要加密貨幣行情，比特幣跌0.39% | 即時新聞 - 新聞",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdkY4RVo0QVB1MzY0bG9mTUU3cFhhNEVMOU5FQXE4TC1iUGtsa0xRM1JPQlJMenNmVGxEU1JvREc0OThramRxQnZzbXJ1Y2VDTWNZU2thdlBBekRuSkxRYUZWNW53NThnOTZJSC1WUUFCdTF3MXpTdWIwRUJIY1NVdzNOaFMxdl9tdFFPc2t1M1B2Q0lrMWZpakhqVFZTbjBJ?oc=5",
@@ -261,6 +252,15 @@
         "published_hkt": "07/15 08:16",
         "related": [
           "ETH"
+        ]
+      },
+      {
+        "title": "比特幣跌破6萬美元大關 挖礦產量下滑引市場擔憂",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5blBqa2xiMHFWc2VWNjU1TTIyWGZScnl3NlZleGFkSzR2cWZZZEhBdlo4aDVFSEFuVnIwcGwwMVZLZGRwM0oyd3RLcjlMS1V2Snc?oc=5",
+        "source": "蕃新聞",
+        "published_hkt": "07/15 08:00",
+        "related": [
+          "BTC"
         ]
       }
     ]

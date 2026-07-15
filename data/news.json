@@ -83,31 +83,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-15 17:03 HKT",
+      "updated_at": "2026-07-15 18:18 HKT",
       "news": [
+        {
+          "title": "HSI港股「赤馬」最強北水流入|香港經濟日報",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdGNxNm1OMkloRHNTM2RwTFBRQWMwVlhQektVNE1uUXExNmluenBmRHR2RXl0Z2lZNXJfNVl5ZnRqamtvZVpXZG1PeXhDek1DVGlHRWwtZmdrRVFiWmx4WFJfR2JTOFZiLTlmMDZybXhDR2R5dDBXeXNycHhFUjZpRUg5cHAteEVyb29FNnZjX0w3dHRZZUVkTEFVd2E1U3hCX2tvNE4zNG9mdlJ4NWs5cERiZkliQTlOWHhhd2ZtcFJ5M0lwQUw3cFRuQ0JIckxTei1lN19Fb3JrXzZrY1ZkRjVkemFCQQ?oc=5",
+          "source": "香港經濟日報HKET",
+          "published_hkt": "07/15 17:07",
+          "related": [
+            "^HSI"
+          ]
+        },
+        {
+          "title": "【港股收市】恒指升340點 DeepSeek帶挈MiniMax飆13% 醫藥股落鑊",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41a01qVTk2cWI0WERBOTEtMTRTdEVnQ09ZLWs5V2l4UC1HanpkdGh0VGtWX0ZDMW1fNllwb0VsZmVaRlU4SV8tQTlta2Q0U1ZvdnFuTWNJek1BV1ZuSVdTS1JCSldGWXM?oc=5",
+          "source": "Now 新聞",
+          "published_hkt": "07/15 17:06",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "恒指走勢丨再彈340點四連升 美團拗腰漲半成",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aREcwajNwQjRUcmZMM3RZVlFBdTJHRURWNmh6WDBqdFY4eUUwS3AzUE96dndsSEJlbnFJbW4zVGJoYWZ6Znh6cHdBY19iQ3lvbkZYSjZ0cmZmQlZNa19RV0FkUWN4Z2Zyb1dZMWRWUQ?oc=5",
           "source": "信報網站",
           "published_hkt": "07/15 16:52",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "港股收評：恒指升1.4%創反彈新高！生物醫藥板塊大升，半導體股多數低迷 作者 格隆匯",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oUFhxQXlfX3JpRDI0bDZ4dVBFWHVjQ2xkOUJWU3VyY2NEUHROcDRnbFg4NWxDYUlNd3ZLSzJ4c1RiWF9lMG4zWDczdWxUT0Q4TU1xcGhYLVNDdi1CT2VxaDRkOFdxSW5JMWpiaFFzUGQ?oc=5",
-          "source": "Investing.com 香港 - 股市報價& 財經新聞",
-          "published_hkt": "07/15 16:48",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "港股收評：恒指升1.4%創反彈新高，生物醫藥板塊大升",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Wcm1uU3F1akV4TnFRYkphZG9PSjE3SUJsM0lmNzV3dVlHQm9pUGI2WUs0djc3cjI1bVAtU1RXN3BMUUhOOTRPUjJWVnJMX3E5bEpRbXptb1M5aXdQRTNuWWZZVQ?oc=5",
-          "source": "SL886 財經網",
-          "published_hkt": "07/15 16:44",
           "related": [
             "^HSI"
           ]
@@ -145,31 +145,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-15 17:03 HKT",
+      "updated_at": "2026-07-15 18:18 HKT",
       "news": [
         {
-          "title": "台股強彈893點 三大法人買超201億、外資續提款 台積電末盤遭拋7617張",
-          "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxQa3RralVFNGxzbE9PNUtsNnZlQ2ljZFZTZmluNHRSVFVXZzhZV2QtdEJPZnFvWTdWWmR2RjFia0haNzZwbTlybThMWTRlSUM2SXd1UHloN09RMksxek5FeEFxWG1rbF83a2pWdUdYTUJIanM1RmdwZHY1ZFdFYV9FbWxhdUl1UzF5eXRfY0Y0cEJ5U2VTSHhocHh4S3hOQUR0UWcwUE1Jc1ZHN2dOYUN3X1ZoeHZOT0swMHpYQklfOG5CWjg0RHBGMmNlQ05NQnM5R3RKZ3djLUtQbU1RR053S1BsQlBhdHlqMGttcDFrbTZnb3lRdHNVS0lIREtuaTZ3SXBGS1lNTm1mSU1PTkhPN0x2ZFBTb0lTRGJoRlBkTTVxS0IxZlk3RmJHZ29oZUEzekM3bEpabDRxcEF3NXJMd1c1eUNIVFJaREtpdGVQYmNOVFV1N1cxQXAxb2xCdTdURzVTclZyeThPZmlHWDQ3U3VYcURXbGVRSmtxWm50a1Y4T2FDaVJSam9MdjhIYTMyQ1lydjFqWmlIdzEtNGYwUWZIS3VCZGdhZm5LWGZWQ3BGUTMtV2VaMGVvZkh6bWlkWF9EQU9B?oc=5",
-          "source": "MSN",
-          "published_hkt": "07/15 16:14",
+          "title": "美CPI報喜、台股日K留長下影線！周三結算收復5均，台積電法說會成多空關鍵?!",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nQW5QbDN6TmhEaXBBNnBXUHNwZjczUVo4d1FKZG1xejBxLU9DbFBYLXR1THdoQnlpeFpCUDYzb1B4R2FBd2Z4eE9vWmloeVU3MC1UQU96Y1A?oc=5",
+          "source": "玩股網",
+          "published_hkt": "07/15 17:15",
           "related": [
             "TSM"
           ]
         },
         {
-          "title": "TWA00 加權指數- 美通膨降溫激勵亞股！韓股大漲日股飆千點- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41U0pFWXpEVGZEUUJFdHM2T0NIUHpzOGVGcVYyTmZQV25Ea1J3b2oyV0xOczNBZzkwbWg4QXA5M0cwWnJzaWZXQmZBNnByN2Z5S0xJTHVwNlA?oc=5",
-          "source": "CMoney",
-          "published_hkt": "07/15 16:03",
-          "related": [
-            "^TWII"
-          ]
+          "title": "台股收漲893點 網見1數字驚：散戶又跳了?",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1STHdDTlVlamFVTi1sZWEwMnl2OXQ5anBRT2QxUzVGMkxmSWRfd3A5OUFhV0RrZjNQbW1SbF9sQ1hWT3NrUGxzYV92N2JsNGtHT2pNOFl3?oc=5",
+          "source": "東森電視",
+          "published_hkt": "07/15 17:02",
+          "related": []
         },
         {
-          "title": "《台股盤後》開高走高、收漲893點，收復5日線- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY2h6WnNRNU1VN2tMa0pvRGpSWkRFeHhOckRGSlhGTjFDM0JnZWhVYjNyckJRMEs5RDI2aEpMNzJlekpod2xmd2U0ZExLYjUyb29oZjNVMlJzMXpiNktSV0dxQXJNWmY5ZkZmQ1hFNlNiNDF1VVZCZVpCNTVOU3VRNkRJQVJkUy1ibzRHYWN2eGRrZw?oc=5",
-          "source": "MoneyDJ",
-          "published_hkt": "07/15 15:55",
+          "title": "大哥領三大法人帶頭補貨201億！台股漲893點重返4萬5大關 股民歡呼：第四大法人威武",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtakk0bG1ubnNEQm96RXpjbEM5MThOTTl4TmE5Y3h2SnQxUXlMcTU2SmtaYThZTEJUTGE2VEljSU1uaEVoNEFfRlhmQQ?oc=5",
+          "source": "FTNN 新聞網",
+          "published_hkt": "07/15 16:18",
           "related": []
         }
       ]
@@ -205,8 +203,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-15 17:03 HKT",
+      "updated_at": "2026-07-15 18:18 HKT",
       "news": [
+        {
+          "title": "《日股》半導體領軍，日經漲逾千點/收漲1.49%",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOXJfSmZSM0k1WkZ6SmdVdXZzU2xwdWdZVXp6dGFSb2dlY2M2enUzblUydEcwTTdULUsxQmpndFRQaVQxeE1YdGZGeFFyTUUtYWppSkw5Vzh3N1FaX2h4eGNiR3AzZEtCNk1FSmtzdC1XY2hNd3BxMVR0TFN2WXV2TEptYzJ5VVVQaXZoMjBZa0NoQQ?oc=5",
+          "source": "台視全球資訊網",
+          "published_hkt": "07/15 18:04",
+          "related": [
+            "^N225"
+          ]
+        },
         {
           "title": "美通膨降溫激勵亞股！韓股大漲日股飆千點-財經焦點情報站",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcjFsZGJKNHRmeWFoU1VjeWlpRkxlRGlRTlA5MDhIZDIxYmRNNWR1MjZ5QVhzeE9wQjFlcTBma09WcXM2VGlta29XQ29sbWNWeFdCbUw5TVhkZW9USXpVZ2dCYnlQUG1KWG5YV3RicERCTWZmUGZYVGhYbXFVSV8wTE13?oc=5",
@@ -220,26 +227,17 @@
           "source": "TradingKey",
           "published_hkt": "07/15 15:11",
           "related": []
-        },
-        {
-          "title": "今日日股牛熊榜 | Lasertec半導體上升10.18%，領升日經成分股，鎧俠成交額佔據榜首。",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb2RIWHRvMk9xYWZ5Ym41Z3BibWQwU1o3cFZGWDg2VkI4SFZnYWdQWkpreUVnQXBJd09ILW9sY2ZHcmt3MWVoUlk1bjJ5di1VYk1WWk9QQTVIM0NNZUR0cnR1bnVlUlVUcmlPM3RPc2ZnejNldnNtQUxuODZMZGV0aTJkZGJVUmNKX2NkVkx0azFoOGVEeUs5WEF4T3ZUSUE2NEE?oc=5",
-          "source": "富途牛牛",
-          "published_hkt": "07/15 15:06",
-          "related": [
-            "^N225"
-          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-07-15 17:03 HKT",
+    "updated_at": "2026-07-15 18:18 HKT",
     "news": [
       {
-        "title": "Bitmine Immersion Technologies (BMNR) 宣佈其以太幣(ETH) 持有量達577 萬枚，加密資產及現金總持有額達113 億美元",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWXFhMU5sYmM0X3pHa0JNV1NXVG9vc29qdHRNbkRaMjBlTThPenN0RmszNTFlLWh2UnJxVmtNblZ2WTZKUnhGY0VGVTZCdk5jYzVubHJINHVFaEVzZHJPMHJiVWFBTnpDY3h6N1BOWVpDZVA2akZBbWFUQUVYS2NEajBPdlF3SFpMMHpsSzE1NGJyajY2NzBka2dubDR4SEdjQUR0enhfT3ZxS0Y3b19xMG5fbkVKZw?oc=5",
-        "source": "PR Newswire",
+        "title": "Bitmine Immersion Technologies (BMNR) 宣佈其以太幣 (ETH) 持有量達 577 萬枚，加密資產及現金總持有額達 113 億美元",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdkNlRFRBUzc1RDB2aF9JaW53V2VhcmV6elkzTzFKSzVrdEdNempmNlBXdXllekg5eUxvVHhxTE1fSFAzU0RMeW9rTWRYM29KZkFXUGVwd2hVcjh4dzdBejQ3TEJBYXVGTnM0M0pMNENnbTRUQ0o0VGNzSUtZYlhaQUMzSWNIZTF1bWJz?oc=5",
+        "source": "PChome Online 新聞",
         "published_hkt": "07/15 16:38",
         "related": []
       },

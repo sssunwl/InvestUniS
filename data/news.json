@@ -83,29 +83,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-14 22:56 HKT",
+      "updated_at": "2026-07-15 17:03 HKT",
       "news": [
         {
-          "title": "內地出口勝預期 港股低開後收升127點",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LOWJ6MWpMNm5RV0lFSVFDNkFGLS1EcDdzemtDNFk3R2MwMlFqVHZ4cTNDMkNUdjRFZ1JOU0JhTi00NEtyMHlhX2NrNUJ6djZpbVMzeGNmc1VITEVwVk92eFQ5UlNnTlFubExXYW4zQ2g?oc=5",
-          "source": "hkcna.hk",
-          "published_hkt": "07/14 20:02",
-          "related": []
-        },
-        {
-          "title": "恒生指數 V型反彈逆轉：避險情緒仍會隨時拖累港股反彈動力",
-          "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxONHNfTzJOekk2U1F2VVE5TUIzRm5TSDJ2ZUEwSFVFbXQ2WlhTS1JHRnV6T19HSDhPN1Q1Mlp3TmlIUGx6R0VPdlh1WE1lSmlHZ05ST3JFZDFRNXR4ME4zTldzRGJmUnZjWkQyclRBekhPaF9VT2tTc0VFTWJ0ZmJvWFo5cnlWZzctM1BvNG5XanVNR3Q4NGdERVdSNnZwTEhZbk1uNzJNdmU5d1VvbmlacmJfbUhDdzR4b2cyVnlFQldNWEdCMlM2cWloWFdGcFRZdmNpeUNRMnZSSGNDckNQa0lCcktyaldtdjJISTBZMmxxNnBidU0zaFN2Nkl4dXBZODhKT180dVhJN0hySzVBbnI3cVo0SXNMLTNGcmZrUFNWcEVHSFJrV200ME5zU1FvN1BxeWVSWWtBRHlSVlBKejJ6a09jWTh6a2RlU0hCZHZiWld2eUtIbzhlN1BGb21Pc0RqX25tM0ZGdw?oc=5",
-          "source": "香港財經時報HKBT",
-          "published_hkt": "07/14 19:08",
+          "title": "恒指走勢丨再彈340點四連升 美團拗腰漲半成",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aREcwajNwQjRUcmZMM3RZVlFBdTJHRURWNmh6WDBqdFY4eUUwS3AzUE96dndsSEJlbnFJbW4zVGJoYWZ6Znh6cHdBY19iQ3lvbkZYSjZ0cmZmQlZNa19RV0FkUWN4Z2Zyb1dZMWRWUQ?oc=5",
+          "source": "信報網站",
+          "published_hkt": "07/15 16:52",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "港股展望丨信銀國際降恒指區間頂目標至28000點",
-          "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOT2dXMmhkek9Ba3RuRkZsM21GV3pWUnkybnJ5VEVSMVZzeE1ZbU5za3dBRUJmR1VuR3FQX25SSlhZSFhZQW0tUl9Nb1BSbFhYRlBldHQ1QjY5LTB4b2lWTUlBVzVVVGtUTUVuNEdvc2UxZVh6WkhmTHdFel8xMDdpN3JrNEVuekh4ZjA0MWFHQmNuZW40bnBWT194dEQ4bEdXaTBMMUlyYXc0TTFrczB0aHdyX0d0UkJ3d25aQVBvZk4tU3BpU2Qyb2FHbER1cnA0MnRoYlh3Skowb3c3MnZGZ2FDeDRoSHlJZDg4SlN3cjM2NXphcTZDaHozWE5FZl9VVUZBZjJKM3BRdGhObmxPaWxDV2JvWko5TDJwSHhlTUkxRkN5dXhWVXotcUZFNEZyR3BJVkFpZVJDZWJSX2JVekJ2VXJDODBON0ptR1QxRUJrQ0hM?oc=5",
-          "source": "信報網站",
-          "published_hkt": "07/14 18:00",
+          "title": "港股收評：恒指升1.4%創反彈新高！生物醫藥板塊大升，半導體股多數低迷 作者 格隆匯",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oUFhxQXlfX3JpRDI0bDZ4dVBFWHVjQ2xkOUJWU3VyY2NEUHROcDRnbFg4NWxDYUlNd3ZLSzJ4c1RiWF9lMG4zWDczdWxUT0Q4TU1xcGhYLVNDdi1CT2VxaDRkOFdxSW5JMWpiaFFzUGQ?oc=5",
+          "source": "Investing.com 香港 - 股市報價& 財經新聞",
+          "published_hkt": "07/15 16:48",
+          "related": [
+            "^HSI"
+          ]
+        },
+        {
+          "title": "港股收評：恒指升1.4%創反彈新高，生物醫藥板塊大升",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Wcm1uU3F1akV4TnFRYkphZG9PSjE3SUJsM0lmNzV3dVlHQm9pUGI2WUs0djc3cjI1bVAtU1RXN3BMUUhOOTRPUjJWVnJMX3E5bEpRbXptb1M5aXdQRTNuWWZZVQ?oc=5",
+          "source": "SL886 財經網",
+          "published_hkt": "07/15 16:44",
           "related": [
             "^HSI"
           ]
@@ -143,7 +145,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-15 16:23 HKT",
+      "updated_at": "2026-07-15 17:03 HKT",
       "news": [
         {
           "title": "台股強彈893點 三大法人買超201億、外資續提款 台積電末盤遭拋7617張",
@@ -164,13 +166,11 @@
           ]
         },
         {
-          "title": "TWA00 加權指數- 盤後紀錄及早盤當沖選股補充！7/15 - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KT1paZkx4SWVPX0hRRWNIMkE1UTdhZDNTNGdoU3pPaDVlYTZNTGdMczEzdFpELWZJTnBJbTctdzNvWnlBeDBNdGgzYk1RU2hWaldleU9QQlY?oc=5",
-          "source": "CMoney",
-          "published_hkt": "07/15 15:28",
-          "related": [
-            "^TWII"
-          ]
+          "title": "《台股盤後》開高走高、收漲893點，收復5日線- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY2h6WnNRNU1VN2tMa0pvRGpSWkRFeHhOckRGSlhGTjFDM0JnZWhVYjNyckJRMEs5RDI2aEpMNzJlekpod2xmd2U0ZExLYjUyb29oZjNVMlJzMXpiNktSV0dxQXJNWmY5ZkZmQ1hFNlNiNDF1VVZCZVpCNTVOU3VRNkRJQVJkUy1ibzRHYWN2eGRrZw?oc=5",
+          "source": "MoneyDJ",
+          "published_hkt": "07/15 15:55",
+          "related": []
         }
       ]
     }
@@ -205,8 +205,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-15 16:23 HKT",
+      "updated_at": "2026-07-15 17:03 HKT",
       "news": [
+        {
+          "title": "美通膨降溫激勵亞股！韓股大漲日股飆千點-財經焦點情報站",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcjFsZGJKNHRmeWFoU1VjeWlpRkxlRGlRTlA5MDhIZDIxYmRNNWR1MjZ5QVhzeE9wQjFlcTBma09WcXM2VGlta29XQ29sbWNWeFdCbUw5TVhkZW9USXpVZ2dCYnlQUG1KWG5YV3RicERCTWZmUGZYVGhYbXFVSV8wTE13?oc=5",
+          "source": "CMoney投資網誌",
+          "published_hkt": "07/15 16:22",
+          "related": []
+        },
         {
           "title": "KOSPI暴漲觸發限制，SK海力士飆9%領漲晶片股，三星與鎧俠跟漲",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVUdsRXQxTzhNQy03R3FBYXZZYlV5LVhCQ3oyV2h5VTRsSnI1MEN5dGdFYmpxQWhad0tydmlmQnpYWnNvaUstc0MyN1ptUl9oS2toYkFRYkxJdEZ1QlFJTnNuSEV3ZUE1ZXNiaHN0MFE1LUJTbFJUT0NKM1o2WkdfQlFoTzlsbExlZ1d0eG5ycTZCZzJmM2g5aXlVY1NNSVNKRURaUmxibktwU3VudDB0MHQ4dkRIcUlOcWk4U3dPaXFvOEY1d1dSa0NXVFdYTDhJY1E?oc=5",
@@ -222,22 +229,27 @@
           "related": [
             "^N225"
           ]
-        },
-        {
-          "title": "日股：日經週三收高1,008.01點或1.49%，東證指數上揚1.22%，NEC逆勢重挫逾4%",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVXNRSTU3ZlpWRUdMMm04dnlLVFhyS1k2VUNwU0ZDNDFySmpBa3FJb1dQcHVRX0tTcTd5RU5qb2NweXFoNmd3Q3dnX3dVZWN6N1FCelBhbGZLMkM1X251bUctUVVmMUprMlJUbnpweFhvb0ExS2FteGJSVHY2R3Nuak9xVDlLenNp?oc=5",
-          "source": "富聯網",
-          "published_hkt": "07/15 15:03",
-          "related": [
-            "^N225"
-          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-07-15 16:23 HKT",
+    "updated_at": "2026-07-15 17:03 HKT",
     "news": [
+      {
+        "title": "Bitmine Immersion Technologies (BMNR) 宣佈其以太幣(ETH) 持有量達577 萬枚，加密資產及現金總持有額達113 億美元",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWXFhMU5sYmM0X3pHa0JNV1NXVG9vc29qdHRNbkRaMjBlTThPenN0RmszNTFlLWh2UnJxVmtNblZ2WTZKUnhGY0VGVTZCdk5jYzVubHJINHVFaEVzZHJPMHJiVWFBTnpDY3h6N1BOWVpDZVA2akZBbWFUQUVYS2NEajBPdlF3SFpMMHpsSzE1NGJyajY2NzBka2dubDR4SEdjQUR0enhfT3ZxS0Y3b19xMG5fbkVKZw?oc=5",
+        "source": "PR Newswire",
+        "published_hkt": "07/15 16:38",
+        "related": []
+      },
+      {
+        "title": "Bitmine Immersion Technologies（BMNR）宣佈其持有的ETH代幣達到577萬枚，其加密貨幣及流動性資產總持倉達113億美元。",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXhFWG5KR1k5QTlLQWFSOG9lREhBMVpIS0RsS1FCY0RmZ0I3UnI3WVlLcTY4dEg4NGMyWTczSTZkYmNPUzk4NC1DQ0c2NVBBdktGRXRkd0hzS1lScjhEQzdyc2N0MjJkc3dsM2RBYjRyLWlOa1NBTTRhX0lzZFcwSG5DTTFlVlUwenl6M0pwMUF5bjZpNGEwNU90SnkxSzBDdEpWaDdJQnZNdnM3YjJJb21JRWI?oc=5",
+        "source": "富途牛牛",
+        "published_hkt": "07/15 16:14",
+        "related": []
+      },
       {
         "title": "ETF異動 | 加密貨幣ETF結束8周資金外流博時以太幣(03009)漲超6% 華夏比特幣(03042)漲超4% 作者智通財經",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81SGpzelFaUEc5WFFWV3lvVW83UWhpRmtBZ3F4bHZXTkZrZDljZElfdnpzOE5Ud29KTVRHUUhwRjZ1MlRId1gzaUY0WTV3NTFqamRXcnJvRGZ6NmdyemI5RkNuYURQZ0l4WjZienJIa3c?oc=5",
@@ -245,22 +257,6 @@
         "published_hkt": "07/15 15:20",
         "related": [
           "BTC"
-        ]
-      },
-      {
-        "title": "Pi Network隨著更廣泛市場的復甦準備反彈",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNHp1Wm9EZk9SanZ4ZGlUZE5UQ0ZvLWFYck53THZFNWpEeW9EaVhFeGV2NThoWmlMR2RRcUF0d29IZHB0S3VwUXRQZUVMZkhjN015eEJvckZsUDladkZCcXMtU2RDbU1IUnZXSENiTjBYWnhGSEV3NG96M1lrbDVTRXJpLWh0VU1NSVdUSkp2SjJVMm40ZVlkNmh6R3c3X1hoVFlPTVhGdTMxakVELURpcURxajhaTUtMdHlmSWo3SUJYUkZ2cUxZ0gHHAUFVX3lxTE80enVab0RmT1JqdnhkaVRkTlRDRm8tYVhyTndMdkU1akR5b0RpWEV4ZXY1OGhaaUxHZFFxQXR3b0hkcHRLdXBRdFBlRUxmSGM3TXl4Qm9yRmxQOVp2RkJxcy1TZENtTUhSdldIQ2JOMFhaeEZIRXc0b3ozWWtsNVNFcmktaHRVTU1JV1RKSnZKMlUybjRlWWQ2aHpHdzdfWGhUWU9NWEZ1MzFqRUQtRGlxRHFqOFpNS0x0eWZJajdJQlhSRnZxTFk?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "07/15 13:03",
-        "related": []
-      },
-      {
-        "title": "Bitmine 上季度以太坊質押收入達 4,570 萬美元，佔比 98%",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aZS04VDAybUotaUk5Z1gyZUFVcnNHem00UHF4MVZyUF9FcnE0a3pxRzUtX0ZsRTlsd1V6cUhvOXhfOFFoOTM5WUw2ZXVuXzVzX0NLc2FON1hScmxHdTdXNy01WmxFbURoVGRZ0gFrQVVfeXFMT1plLThUMDJtSi1pSTlnWDJlQVVyc0d6bTRQcXgxVnJQX0VycTRrenFHNS1fRmxFOWx3VXpxSG85eF84UWg5MzlZTDZldW5fNXNfQ0tzYU43WFJybEd1N1c3LTVabEVtRGhUZFk?oc=5",
-        "source": "Bitget",
-        "published_hkt": "07/15 10:04",
-        "related": [
-          "ETH"
         ]
       }
     ]

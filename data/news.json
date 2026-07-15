@@ -143,31 +143,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-14 22:56 HKT",
+      "updated_at": "2026-07-15 16:23 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數 - 前值 : 4.2% 預期 : 3.8% 公布 : 3.5% - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZLUI1VEt1UDRMQzhDa2JDVHlrTWFUTjdGbE5pdWs3XzVpMmx2QWFlODllZDZSQ1AwTmpVWEh1Y2R0ak5YcjFmQW1Mb1FndmFJNDJramY1NzI?oc=5",
+          "title": "台股強彈893點 三大法人買超201億、外資續提款 台積電末盤遭拋7617張",
+          "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxQa3RralVFNGxzbE9PNUtsNnZlQ2ljZFZTZmluNHRSVFVXZzhZV2QtdEJPZnFvWTdWWmR2RjFia0haNzZwbTlybThMWTRlSUM2SXd1UHloN09RMksxek5FeEFxWG1rbF83a2pWdUdYTUJIanM1RmdwZHY1ZFdFYV9FbWxhdUl1UzF5eXRfY0Y0cEJ5U2VTSHhocHh4S3hOQUR0UWcwUE1Jc1ZHN2dOYUN3X1ZoeHZOT0swMHpYQklfOG5CWjg0RHBGMmNlQ05NQnM5R3RKZ3djLUtQbU1RR053S1BsQlBhdHlqMGttcDFrbTZnb3lRdHNVS0lIREtuaTZ3SXBGS1lNTm1mSU1PTkhPN0x2ZFBTb0lTRGJoRlBkTTVxS0IxZlk3RmJHZ29oZUEzekM3bEpabDRxcEF3NXJMd1c1eUNIVFJaREtpdGVQYmNOVFV1N1cxQXAxb2xCdTdURzVTclZyeThPZmlHWDQ3U3VYcURXbGVRSmtxWm50a1Y4T2FDaVJSam9MdjhIYTMyQ1lydjFqWmlIdzEtNGYwUWZIS3VCZGdhZm5LWGZWQ3BGUTMtV2VaMGVvZkh6bWlkWF9EQU9B?oc=5",
+          "source": "MSN",
+          "published_hkt": "07/15 16:14",
+          "related": [
+            "TSM"
+          ]
+        },
+        {
+          "title": "TWA00 加權指數- 美通膨降溫激勵亞股！韓股大漲日股飆千點- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41U0pFWXpEVGZEUUJFdHM2T0NIUHpzOGVGcVYyTmZQV25Ea1J3b2oyV0xOczNBZzkwbWg4QXA5M0cwWnJzaWZXQmZBNnByN2Z5S0xJTHVwNlA?oc=5",
           "source": "CMoney",
-          "published_hkt": "07/14 20:37",
+          "published_hkt": "07/15 16:03",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "TWA00 加權指數- 投信14日買超前十大南亞摘雙冠老AI、PCB雙雄惦惦吃- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nWkF0RnVIM2FPbEFmU29jYW92UklJYm9UazY5Y0tack9IWVBNX2tnNDlVM1htQnpDdTI0aHhsbWowNXdkQjd2V1hoOUIxeEFPOU1zc0wyeDc?oc=5",
+          "title": "TWA00 加權指數- 盤後紀錄及早盤當沖選股補充！7/15 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KT1paZkx4SWVPX0hRRWNIMkE1UTdhZDNTNGdoU3pPaDVlYTZNTGdMczEzdFpELWZJTnBJbTctdzNvWnlBeDBNdGgzYk1RU2hWaldleU9QQlY?oc=5",
           "source": "CMoney",
-          "published_hkt": "07/14 18:52",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數- 外資14日買超前十大傳產5檔進榜大手筆壓寶長榮航- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xTlZDcE5Vb2F5VElWNlM3N2JjMUxKb1BVS0tiUUlBVWFkMkNTTGtEUFRncWJPcmtpWjRBNmwtbWVTWnhnNE94ek9CeE1NbngyZXBvQW5GbjQ?oc=5",
-          "source": "CMoney",
-          "published_hkt": "07/14 18:51",
+          "published_hkt": "07/15 15:28",
           "related": [
             "^TWII"
           ]
@@ -205,62 +205,62 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-14 22:56 HKT",
+      "updated_at": "2026-07-15 16:23 HKT",
       "news": [
         {
-          "title": "資金輪動帶動補漲 日股上揚",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOalVKbnM2NG5zVzIxQUFVUWhGYTZQWU9RZk5RTUlXR0ZldEJHVmJIMFoxYTUyRHAyempZVHM1SGdBYXNWUjRjaV9wUU4wNlhjN2lMMGNVeTVlSU9BZ3dsenFHbjIzS0xBNHlONWlHSWxNUHQ0MkVkQTVfdDF0bHJ6bzExR3Y0amxLSkxGYmpJR1gyMHVDeTVuZ0dVNFZueDg5UTEtakM5aXp2bm1ybWxIdGNyOHJxb204T0w3SWZsbTBWWE5XZHdqTUxpX05iUDh6T1hZWU1wN0N6M0M4YnQzbF9HVW1POWZhV3VsaTFjemNhNjVQSDRZ?oc=5",
-          "source": "MSN",
-          "published_hkt": "07/14 18:28",
+          "title": "KOSPI暴漲觸發限制，SK海力士飆9%領漲晶片股，三星與鎧俠跟漲",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVUdsRXQxTzhNQy03R3FBYXZZYlV5LVhCQ3oyV2h5VTRsSnI1MEN5dGdFYmpxQWhad0tydmlmQnpYWnNvaUstc0MyN1ptUl9oS2toYkFRYkxJdEZ1QlFJTnNuSEV3ZUE1ZXNiaHN0MFE1LUJTbFJUT0NKM1o2WkdfQlFoTzlsbExlZ1d0eG5ycTZCZzJmM2g5aXlVY1NNSVNKRURaUmxibktwU3VudDB0MHQ4dkRIcUlOcWk4U3dPaXFvOEY1d1dSa0NXVFdYTDhJY1E?oc=5",
+          "source": "TradingKey",
+          "published_hkt": "07/15 15:11",
           "related": []
         },
         {
-          "title": "《日股》午後買盤回流 日經收漲0.74%",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb3IxOGxBVllYUURXQmdrdUZhWkNRZlZWX2JOLVotcWRLWno3YUU1aDc1aHVVMUVFeFNHb0poMXRZZEZUamNsRXBoWjRUWWF2MXd5NHVfZ29LanJrWk1oQ1MtWmFFa1hxTHJMSEVtSVFUcUVvWXJXVkZhb25PX3o4OVVaQk5LNW0yWUoxakJ1Z0FpUQ?oc=5",
-          "source": "台視全球資訊網",
-          "published_hkt": "07/14 18:05",
+          "title": "今日日股牛熊榜 | Lasertec半導體上升10.18%，領升日經成分股，鎧俠成交額佔據榜首。",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb2RIWHRvMk9xYWZ5Ym41Z3BibWQwU1o3cFZGWDg2VkI4SFZnYWdQWkpreUVnQXBJd09ILW9sY2ZHcmt3MWVoUlk1bjJ5di1VYk1WWk9QQTVIM0NNZUR0cnR1bnVlUlVUcmlPM3RPc2ZnejNldnNtQUxuODZMZGV0aTJkZGJVUmNKX2NkVkx0azFoOGVEeUs5WEF4T3ZUSUE2NEE?oc=5",
+          "source": "富途牛牛",
+          "published_hkt": "07/15 15:06",
           "related": [
             "^N225"
           ]
         },
         {
-          "title": "資金輪動帶動補漲　日股上揚",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QNjhoQTY5dFAwUWQ5d3pfNlc0dmJJeEdTUERnSlE5Q0pNa0FEVXNsVWJuLS1VVWZtMmphVFgxdy1QajlSUDlkLUJoUTFjLTJqQ050NjBlQWdmUdIBX0FVX3lxTE5UUTBDV0YteTJNR3BFSndfSUJIdnpvbngzdzdsZC1PVnI3WkJtOUd0QWNXc3pvX1A5OXVWbTdQUFFwN3JtWnVpN2xaWWd3MG5BZXd6di1QWndhYzFKZE9J?oc=5",
-          "source": "經濟日報",
-          "published_hkt": "07/14 15:44",
-          "related": []
+          "title": "日股：日經週三收高1,008.01點或1.49%，東證指數上揚1.22%，NEC逆勢重挫逾4%",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVXNRSTU3ZlpWRUdMMm04dnlLVFhyS1k2VUNwU0ZDNDFySmpBa3FJb1dQcHVRX0tTcTd5RU5qb2NweXFoNmd3Q3dnX3dVZWN6N1FCelBhbGZLMkM1X251bUctUVVmMUprMlJUbnpweFhvb0ExS2FteGJSVHY2R3Nuak9xVDlLenNp?oc=5",
+          "source": "富聯網",
+          "published_hkt": "07/15 15:03",
+          "related": [
+            "^N225"
+          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-07-15 11:54 HKT",
+    "updated_at": "2026-07-15 16:23 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣跌0.39% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdkY4RVo0QVB1MzY0bG9mTUU3cFhhNEVMOU5FQXE4TC1iUGtsa0xRM1JPQlJMenNmVGxEU1JvREc0OThramRxQnZzbXJ1Y2VDTWNZU2thdlBBekRuSkxRYUZWNW53NThnOTZJSC1WUUFCdTF3MXpTdWIwRUJIY1NVdzNOaFMxdl9tdFFPc2t1M1B2Q0lrMWZpakhqVFZTbjBJ?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "07/15 09:02",
+        "title": "ETF異動 | 加密貨幣ETF結束8周資金外流博時以太幣(03009)漲超6% 華夏比特幣(03042)漲超4% 作者智通財經",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81SGpzelFaUEc5WFFWV3lvVW83UWhpRmtBZ3F4bHZXTkZrZDljZElfdnpzOE5Ud29KTVRHUUhwRjZ1MlRId1gzaUY0WTV3NTFqamRXcnJvRGZ6NmdyemI5RkNuYURQZ0l4WjZienJIa3c?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "07/15 15:20",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "以太坊價格預測：ETH在通脹下降、零售和大戶參與度疲軟的情況下上漲7%",
-        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZFlEUXFZM2JGLWpnSlpHeXEtZllqZnByNVBENUZuYjBmaWRET0M3aFhrSUJqNWtERE43bzdMZjR0VElyZDg3a2NFZExKYTdQOWNuOWpCUHNXY0tQM2VBeWxPamlNdG14cE1UWENzdE1LcG1adEpIZllLU1VaaGFYa3RScnA4ZGRnSS15NlpTM2V1WThEamgwclVmVjY4dmF1TkY5UkZMcUN4MHlPeXlpYVFSOTFDdGlQRl92dDZBdWNOalpxdGQyYW1EaTlHRFRQblpieUQ4MWYzMXFHRnJUcFVjYlVJbngyQ3FmUXJyMWN4UzEtNkRDZWt0cm5zek8teFMzdWp0ZFViYUlvNVZCdmRR0gGSAkFVX3lxTE9kWURRcVkzYkYtamdKWkd5cS1mWWpmcHI1UEQ1Rm5iMGZpZERPQzdoWGtJQmo1a0RETjdvN0xmNHRUSXJkODdrY0VkTEphN1A5Y245akJQc1djS1AzZUF5bE9qaU10bXhwTVRYQ3N0TUtwbVp0SkhmWUtTVVpoYVhrdFJycDhkZGdJLXk2WlMzZXVZOERqaDByVWZWNjh2YXVORjlSRkxxQ3gweU95eWlhUVI5MUN0aVBGX3Z0NkF1Y05qWnF0ZDJhbURpOUdEVFBuWmJ5RDgxZjMxcUdGclRwVWNiVUlueDJDcWZRcnIxY3hTMS02RENla3RybnN6Ty14UzN1anRkVWJhSW81VkJ2ZFE?oc=5",
+        "title": "Pi Network隨著更廣泛市場的復甦準備反彈",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNHp1Wm9EZk9SanZ4ZGlUZE5UQ0ZvLWFYck53THZFNWpEeW9EaVhFeGV2NThoWmlMR2RRcUF0d29IZHB0S3VwUXRQZUVMZkhjN015eEJvckZsUDladkZCcXMtU2RDbU1IUnZXSENiTjBYWnhGSEV3NG96M1lrbDVTRXJpLWh0VU1NSVdUSkp2SjJVMm40ZVlkNmh6R3c3X1hoVFlPTVhGdTMxakVELURpcURxajhaTUtMdHlmSWo3SUJYUkZ2cUxZ0gHHAUFVX3lxTE80enVab0RmT1JqdnhkaVRkTlRDRm8tYVhyTndMdkU1akR5b0RpWEV4ZXY1OGhaaUxHZFFxQXR3b0hkcHRLdXBRdFBlRUxmSGM3TXl4Qm9yRmxQOVp2RkJxcy1TZENtTUhSdldIQ2JOMFhaeEZIRXc0b3ozWWtsNVNFcmktaHRVTU1JV1RKSnZKMlUybjRlWWQ2aHpHdzdfWGhUWU9NWEZ1MzFqRUQtRGlxRHFqOFpNS0x0eWZJajdJQlhSRnZxTFk?oc=5",
         "source": "FXStreet",
-        "published_hkt": "07/15 08:16",
+        "published_hkt": "07/15 13:03",
+        "related": []
+      },
+      {
+        "title": "Bitmine 上季度以太坊質押收入達 4,570 萬美元，佔比 98%",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aZS04VDAybUotaUk5Z1gyZUFVcnNHem00UHF4MVZyUF9FcnE0a3pxRzUtX0ZsRTlsd1V6cUhvOXhfOFFoOTM5WUw2ZXVuXzVzX0NLc2FON1hScmxHdTdXNy01WmxFbURoVGRZ0gFrQVVfeXFMT1plLThUMDJtSi1pSTlnWDJlQVVyc0d6bTRQcXgxVnJQX0VycTRrenFHNS1fRmxFOWx3VXpxSG85eF84UWg5MzlZTDZldW5fNXNfQ0tzYU43WFJybEd1N1c3LTVabEVtRGhUZFk?oc=5",
+        "source": "Bitget",
+        "published_hkt": "07/15 10:04",
         "related": [
           "ETH"
-        ]
-      },
-      {
-        "title": "比特幣跌破6萬美元大關 挖礦產量下滑引市場擔憂",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5blBqa2xiMHFWc2VWNjU1TTIyWGZScnl3NlZleGFkSzR2cWZZZEhBdlo4aDVFSEFuVnIwcGwwMVZLZGRwM0oyd3RLcjlMS1V2Snc?oc=5",
-        "source": "蕃新聞",
-        "published_hkt": "07/15 08:00",
-        "related": [
-          "BTC"
         ]
       }
     ]

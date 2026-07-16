@@ -83,29 +83,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-16 17:07 HKT",
+      "updated_at": "2026-07-16 18:23 HKT",
       "news": [
         {
-          "title": "恒指走勢丨再升327點收復兩萬五 泡泡瑪特彈高7%",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fSFltNy1WV3h4RXNnaG4weUtCZXBHQ05SLWc2SGc1eW9LU0NKTVFxcUtYUFA5eU9WRXVGbkNRR1dvYkhoV01LdGRIblFUcnlYem1VMXNzU3lhdm1ncWc3cEFMQjh3QkEwSzIxVExQVQ?oc=5",
-          "source": "信報網站",
-          "published_hkt": "07/16 16:55",
+          "title": "HSI港股旗形目標26400？|香港經濟日報",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTDVEY0hFd3g2MHY2TV8xcTIxakVZcXlOUEZaR0FHWHlqLUViVDJnSG9LWDIyOUpUWFFzRnN2U2lfSFZJN1JzRFZrTGw4YUNSc0dkMVpJbGxna2JTejdoa3g1eDRyWG9YNjAzZmJKM0NncUpNb09vbDRURHkyTE9MaE93YmZxbEp3ajlMLVg4Vm1mTkRseU5waG1VeXVEVGJSV3RlZDZYQmk3dVB0THVaZA?oc=5",
+          "source": "香港經濟日報HKET",
+          "published_hkt": "07/16 17:10",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "港股高收327點 連升5日 創超過1個月新高",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rVHRYQ3EwdVMycS12M3Azc016bHpiQ2xYRjN3Z3NxRnZaMFZPVzlLYVQ2VHd5amxhelVEU1VzWkNLekhjNkh0TlZPMFBfNnl1WjZSX3JrMjZrNWxpREd1alNIMG5qRjFvcmp5MFFTSQ?oc=5",
-          "source": "RTHK News",
-          "published_hkt": "07/16 16:43",
-          "related": []
+          "title": "【港股收市】恒指企穩25000點收市 內需及科技題材雙輪驅動",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jZGpzdm5ITVJaUVFvQ1h4azZ6enpkREdOUE51S2pnQWUyUG82NEszdEFQOGxGNTRUYldwUFU2bEhTRXZSeFlhUk82em13amIybEFuYWRoRXhJUjdNR2dmdF9ra19abkN0eWdaTWY5TF91cEYydkpJ?oc=5",
+          "source": "香港文匯報",
+          "published_hkt": "07/16 17:09",
+          "related": [
+            "^HSI"
+          ]
         },
         {
-          "title": "〈港股盤後〉恒指重返二萬五關口 汽車與科網股強勢領漲",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05Y0l3U3hMOWNQSE1XZUt6Vy1LbW5YYzZDR3pseDJFT05YTTlLV3lXY1JZdmpTYnNYMHk0bXgyN0xBQmpIOGJ0c3YtcElyaUU?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "07/16 16:39",
+          "title": "【港股收市】恒指升327點 收復25000關 AI股逆市插水",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jMkN5TW5BWmZELU5KRjF2S2ItYzNRM1MyQTR4TW8tRnktRTZ1SU15U01XdFV2dXBpTTdyWnN4Z2l5aXM0VHhod1U3bFp6ZGVmNl9HbGtOUmpqam1SaTNOV0dOY2tTZjUwWW51bldmbjFSbEkyOXB5cDJB?oc=5",
+          "source": "Now 財經",
+          "published_hkt": "07/16 17:07",
           "related": [
             "^HSI"
           ]
@@ -143,8 +145,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-16 17:07 HKT",
+      "updated_at": "2026-07-16 18:23 HKT",
       "news": [
+        {
+          "title": "台股16日空頭罩頂指數面臨45000點保衛戰 力積電爆巨量逆勢上漲",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3YWhuWkpkWEdwNkxZOU0zMWhWZVFCb24xTDZUZUEyTTBZZUp1UnhGVGR2Znd3Mjk5bExrZWtDM3lYaVpoWjM4RVF1WEZPRUM0Q1E?oc=5",
+          "source": "蕃新聞",
+          "published_hkt": "07/16 17:52",
+          "related": []
+        },
         {
           "title": "《台股重要指標（3-2）》加權指數 9日Ｋ值為43.33，9日Ｄ值為40.69",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb01jUWo4MnlXN09GSUgwZkpWVXZUVWFjX2J1NWpGUmpXOTFvTmVLbnVoY0ktOW5Qa05FX1JObkNVcWZwVnRKYWtZNXZtLTB3UHVKUEx6SnVWZG9ZYVpuSHlGMTZCd19od3BGVEFWTFZJY3hPSHdLaFJGRFhHbDZNdV9WWEpza1Vu?oc=5",
@@ -162,13 +171,6 @@
           "related": [
             "^TWII"
           ]
-        },
-        {
-          "title": "《台股盤後》台積翻紅撐盤 小跌6點/45K失而復得-新聞內容-基金",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSGlpU09ydXJVOEluZk1lUkhmUk1DYmRnajNoNlVHQ2NoRldSQ2VHRnhqTWR6ekxwMWxIREl2eTdlV0Z0eVk0cTVDeWtnZkRsQkNFX3hxTHRhQlpBQS1MaGsyNlgwM3hIM1R4XzFnZm9LZEhUM0hSVlF5ZW94S1Z4RU9kUGZHSEpVc3dJd0ZJSks?oc=5",
-          "source": "MoneyDJ",
-          "published_hkt": "07/16 16:06",
-          "related": []
         }
       ]
     }
@@ -203,38 +205,39 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-16 17:07 HKT",
+      "updated_at": "2026-07-16 18:23 HKT",
       "news": [
         {
-          "title": "《日股》AI、晶片股殺盤 日經收跌近2000點",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMFFBQk1LV2xmYXpicFZLN0hzN3hjbWllTnBaeUJOLV9uWGVmV2dqR1J6Q1U5RUFaWG5GS3JkaEMtVC1EMmhBdWpudERzVGQzQUZZajNYVml2RHJWX3V5dGtLQTE5SkF3U1pWTGE5YnJvVHhRTk1yZDNYUWxfeThpSS1kVXBGVEtx?oc=5",
-          "source": "富聯網",
-          "published_hkt": "07/16 16:35",
+          "title": "《日股》AI/半導體權值股領跌 日經挫2.79%",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYnVQLTRucnpMLU5tMHYwXzNPZTk3ZU5BbEhsQlhYMGJuMjlDaHVfT2hTdXBRUkVCMVdrMEhxYV9IUFZSQjJpemRseXQxNW5OLXBHd0xCMGpLb05xQnI3UlZKY1dDaXE3Q1l6eGE2bVJoQmZJakUyMDhveUw3ZGlFckFPU1FkV0E5OUt1WllmYzI5dw?oc=5",
+          "source": "台視全球資訊網",
+          "published_hkt": "07/16 18:16",
           "related": [
             "^N225"
           ]
         },
         {
-          "title": "日本晶片股重挫拖累大盤，日經指數跌近3%，鎧俠Kioxia重挫15%",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43WWR6VTBqRmxFZXl4eDdzTkRNTWQ2WWJQbG5zbENtMVNuMzV1blJ1aFZTbW91MF8zS1RMRHZUcGpvbXZ6dzRsanpCM0tVaHM?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "07/16 16:00",
-          "related": [
-            "^N225"
-          ]
-        },
-        {
-          "title": "日韓股市再遭血洗！KOSPI暴跌6%，鎧俠重挫15%領跌晶片股",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSlFFd3ljakNOMG5JdVQ1WGV5UXEwdXpnc25vXzBtLUFUQmNYRjZXOWxEU1dFcmFNWUNnS2RudzgzaUVDRzR1d25Vam1OTWxDMm0wN3drb2lWV09LS3Q0aC1pZzk3TUZ2VkE2dHF0VFNmVWNmZHRzdjhwcjUxNWEwLV9KdjVQb3lzWTQ4OE1TUDlLeDAwRVI4UXVyY25VTS1uMnRhTnl1WVMzNUlxU0xzVF9pZ0NYY2t0RTBIRnRub3VybXQ2aFJrdHpjenhiNkhr?oc=5",
-          "source": "TradingKey",
-          "published_hkt": "07/16 15:02",
+          "title": "AI過熱疑慮重挫科技股　亞股收盤跌多漲少",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX1A3WE9pZnJHWmpEYlJEblhDdWpRQnZLUkdhcTN0dmhwQmNGa280OFZ3ZzFfb3ktSGtqQmhUUEFVN0VIeG5EQzlCY0hjZUFKcDVRbEhzUTBUd2xZYkJWdGRVMlBvVFkzYkJqWWQzMTJ3Nk41WTJJajVoQnNUenkzY0xaajUycWFoa1FCRzJ2Zm7SAV9BVV95cUxOQVdrS1lfRk9qdlUxQ05VbmNqVUFsQ19Lc3p1QldTZEJJcktyYkpZUEhWRnp5VVExdHEyYzFUX0szbzFrS0VYNWZ2UTR4WlJYRGdFbk9EMlFrUWFlanVwZw?oc=5",
+          "source": "經濟日報",
+          "published_hkt": "07/16 18:03",
           "related": []
+        },
+        {
+          "title": "台積電財報利多失靈！日經狂瀉近2000點 半導體、AI股全面走弱",
+          "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPYkNTZi1wN1JUemFDN0VfR1E2NHhwMDFhWWZxcWlFLWpvdm0yem51eWRwR3FKUmlrd0x3QW1EMGNSMTQ4MzNjRG9lVlp1OUdfcXdSRzZuTGJrM1Jya2J4cWpRWnAtX2xmdVBqQTByUUhwTjBvUThBQV9mVWMyV1hjVnpEYlZZdUoxWnd2LWNUZVdUSG44WVU5bkFwZ3VNMnRnWVJpdktoTjhSeFBkNDI4NFExUkM0S3JCZ3lVVGZmZzZmMm1rUXJCS0hUam5pYlVfbFNIZng0bWYwRzBCSThTRWN0TlM2eGh3U0gzUEtvNi1jMzlsc25NZDFuRGZMejU0cjZ1alVlZ25ubWNfUzE0Ti1tUS1jU1lfSTl4UGVEQXJ4YzRWSnJJbFQ4UmdEbm42NlRNWWp0LUQ1LXJaajA1aVBOWDRaNzlEM1pqZ3kxNld5d1FuNmdHYzkzT1RWUTlqV0IxdUlOUXV4aVNSZF9HeUU5dw?oc=5",
+          "source": "Yahoo新聞",
+          "published_hkt": "07/16 17:56",
+          "related": [
+            "TSM",
+            "^N225"
+          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-07-16 17:07 HKT",
+    "updated_at": "2026-07-16 18:23 HKT",
     "news": [
       {
         "title": "以太坊跑贏比特幣，ETF資金回流，幾乎全部來自貝萊德的基金",

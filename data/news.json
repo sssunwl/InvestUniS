@@ -27,27 +27,27 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-16 08:14 HKT",
+      "updated_at": "2026-07-16 11:48 HKT",
       "news": [
         {
-          "title": "QuantumScape財報將至 選擇權預估股價將震盪12%",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52aDhxSTlrc3FjQkFENmZGcmozS0RNNm1acEJabFUwMnRvbVNza3ZqbnlOajRLMEhibXprX0J3bVN6LUJUTlRiNHU2cTFuYU0?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "07/16 07:02",
-          "related": []
-        },
-        {
-          "title": "美股記憶體「大漲又大跌」 阮慕驊驚呼活久見：必會有重大轉折點 | CTWANT",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LTTRpSVJmWHdLUF9WMXZ0TnpibWF3TmZtSWROektIOHJhbzItcWh3YlNGSEZ1WlN1VWx5WDhrVVBRSW1MRGpvTFlVcHJ1QVF4aHN3ZXZn?oc=5",
+          "title": "美股記憶體股暴跌 阮慕驊示警轉折 | NOWNEWS今日新聞",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5STFI0RTVuRHpBRFMyMDlaZWNqMGVQTUFVS2tCVzNyU1E5Tk9TZ3ZIRVNteEJLT3N3WEZUZl9HcC00SlN3cUViTktFZDQ1SnpHd0F4ZHZ3?oc=5",
           "source": "LINE TODAY",
-          "published_hkt": "07/16 06:48",
+          "published_hkt": "07/16 11:21",
           "related": []
         },
         {
-          "title": "美股財報季有望再創驚喜！美銀點「三大」理由看好企業獲利動能",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50bnJkTEYtMHRzc2c3bE9BdDRFNnZQM1FUSEpEaHZ3QnRQTDJ6MHZhaEJadGhycktVQjRldVlIWVdUbHRWdWNmdzA3ZUE1aVk?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "07/16 06:40",
+          "title": "AI熱潮燒過頭！美股借錢炒股飆破警戒線 分析師驚喊「非常偏空」",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3RS1OTl9SVkFHT3RtcUhYb2hBbG9zMmY4elItQ0xEUThEcVVsYW1vNmx3ZkR3Y2N3bGN3bm9aUWFYTFBoSVh3THpkRnZ2OGRlc0lQOVljLVFHTy1WVjBEY1owUXFlUG1hakpBSE53?oc=5",
+          "source": "中時新聞網",
+          "published_hkt": "07/16 10:53",
+          "related": []
+        },
+        {
+          "title": "SpaceX股價跌破IPO價格，市場信心動搖！",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSXhjUnRDOTZoRmExcklDNkNVdzh0UXRfMy05X2EtMEo2X3Y3X3ZFemdtQUpUaDh1dmIySXlGWFVneXA5bGIzUUdsOVR1bWdiYlRwaW5EcDh1Slk1MlZBSnRvbmh1Z3hwbGxBcjBES2ZSVlBDWmZkcTBwWXh1MDlublFrMmY3QUJWQmNPZmZLeG1aT2JP?oc=5",
+          "source": "forecastock.tw",
+          "published_hkt": "07/16 09:42",
           "related": []
         }
       ]
@@ -239,33 +239,34 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-16 08:14 HKT",
+    "updated_at": "2026-07-16 11:48 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣跌0.11% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM0RFZm1SOU9lSXlzWnJmSUdiaEt1am5lcFhLbnd3QVVPMHAxYnN0MlBZWldBVFRRNVl5OFoxVHl4M29sTU1HVEQ5MjlMUHBqeWtwLUk5QnJvcDZWV3ExRFFiMkNXQllReV93aWN4V0VrQm1ydktaeUdzNF9IeTljUGwxbGxWWFd1cXk4VTJqNnZIRVVZd0NObzE4aERWU2Nv?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "07/16 05:01",
+        "title": "以太坊逼近2000美元關卡 比特幣衝破6.5萬美元引市場關注",
+        "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPVGVwa0wyd21PdmJvc0pCajdkQUJYOS1UZjJ4aERfRlJ3bWFOaHNNTXdEWEV0bjN2TGxEVlNaaGFpT1dyNEJ0OUhtMDl5V29mbDBZbUZaaVdxX21rNG1WSU9INzdsNzVDWUlyWWhrRk5rQjhtaFBLQ1lYYTZOR0NIUzVnY0RaeXMtQ21tX2cxOTFGc3MxZGhLenBXdXVpQ1VIaDdnUVNkZ0lJQ2ZBcVk5UXlodTg0c1RmRm0wZU5vZm50Y2hrX19SNTAxbDFxSlV6Vzd1X1hrR1QxczhOV3VOc2ZBVXY3dk5yWkRENmhEcVA2a1Fmd29FRTA2Rjh2QmZQSDR1MHpQaEtDUU9Tc1RiZFc3SUNUZFN1WVRuMmNKUmhnT2dlX1RLdTNIbGUyeWNuZ21RWS1VT1BvNmVqZ21UdHQyVHdGLUpiT2VmZVpYbDNBRS12T3dfYkFJczhGcjNXc1J5M0x0bUV3OWpoWlE?oc=5",
+        "source": "Yahoo股市",
+        "published_hkt": "07/16 08:36",
         "related": [
-          "BTC"
+          "BTC",
+          "ETH"
         ]
       },
       {
-        "title": "比特幣在通脹放緩和《清晰法案》提振下升破65,000美元",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdEp4eUxIMFNqNHJXYVFmdUFrRkVvUWVsdnZNZXdBek54clEtVllTNTFOcFdPR044b0dyNEdRa0xQTlJKNnIzMlZRLVZ2NVV2dmNlU0xmR0xzTzNaOHVuVHpRWGNmVTNEcEpDSGwtTUF2eVFmTGpocl9weEY2QWkwMzFjRU96QXc0dUFiNmNjVF9ualJ6X2tlRFZmM2h0b1ExVWx3WXdlYUp2T3JvX3RBc1h4aVpKeWlkMlVWQTB4Y1puckp1QXBwSlpDeHJiMWRQTWFIcEpvbWhqb3Zic1FCb09MMNIB4wFBVV95cUxNdEp4eUxIMFNqNHJXYVFmdUFrRkVvUWVsdnZNZXdBek54clEtVllTNTFOcFdPR044b0dyNEdRa0xQTlJKNnIzMlZRLVZ2NVV2dmNlU0xmR0xzTzNaOHVuVHpRWGNmVTNEcEpDSGwtTUF2eVFmTGpocl9weEY2QWkwMzFjRU96QXc0dUFiNmNjVF9ualJ6X2tlRFZmM2h0b1ExVWx3WXdlYUp2T3JvX3RBc1h4aVpKeWlkMlVWQTB4Y1puckp1QXBwSlpDeHJiMWRQTWFIcEpvbWhqb3Zic1FCb09MMA?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "07/16 03:53",
+        "title": "幣安報告解讀穩定幣的新增長邏輯：價值儲藏、支付工具與鏈上金融",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aZVVXRXBpNjlOOS1vM2hfdmhJWXcyTk1ndnJ4aDA3WlJhbzFoOEZfWXlhRFhGa0F5R21Wc0ZqdGxTdTF3azFjYlI3TQ?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "07/16 08:30",
         "related": [
-          "BTC"
+          "BNB"
         ]
       },
       {
-        "title": "比特幣與黃金：隨著美國通脹放緩跡象增多，市場延續漲勢",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUU9BVFpyLV9rNEhGZG0xelFQczRBOXdKaGU3c3hTa1k0a1J1MU81MVhBS3hmR3ZickJ3VjhDSlVwQnZCbFhJMVEtdHZUNjRtQjZVYVljZ0ZjTm5FSWpWbndnYWVVZFowdVFOYktZSHVoeGJYbXdIWHp1M0dJam5VdTZPLU8yS0dzdUR3Zi1SNkNtdWw2Y3hnNzBKZlNOcW9KWEh0QTVnT19qTmhFXy1xb3EyOFpiZlBZMkxKRnlDMl9za1BLbHNtOW9uaVpMd3A2Z1lNRkM0RlpkdzhOLU9xaWkzaXJPVEk3SHg1RlhUbWFpcUdvRnlSd2Z30gH6AUFVX3lxTE9RT0FUWnItX2s0SEZkbTF6UVBzNEE5d0poZTdzeFNrWTRrUnUxTzUxWEFLeGZHdmJyQndWOENKVXBCdkJsWEkxUS10dlQ2NG1CNlVhWWNnRmNObkVJalZud2dhZVVkWjB1UU5iS1lIdWh4Ylhtd0hYenUzR0lqblV1Nk8tTzJLR3N1RHdmLVI2Q211bDZjeGc3MEpmU05xb0pYSHRBNWdPX2pOaEVfLXFvcTI4WmJmUFkyTEpGeUMyX3NrUEtsc205b25pWkx3cDZnWU1GQzRGWmR3OE4tT3FpaTNpck9USTdIeDVGWFRtYWlxR29GeVJ3Znc?oc=5",
+        "title": "以太坊價格預測：隨著BitMine看到質押收入改善，ETH升至1,900美元上方",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdzJnVi1CeUh6dWwtay05WlZjWjljaGRZd1FyQTNMRVBXY05jUFllR29lZlYwdWp2WGJyNDJRN2N0Y2xMVm5pY3dHX3Q1WXFPa2VPMTZlLUFaLVVlcnlzay03ZHZhY2NGXzRrVTdwWENJV3N6ZFI4bDYzd1dfcGpCdGo4anFLNmhKZXEzbTNsaHBFMVVlRl8wYlRUWWh5QXJucmU3dVNTNkZQamNGRXBvbjlJOE1FYVM2RC1acHYydzc5Mmp2Y1NwQ3BEU1JXeWdXYnRoVExBVk9jdk5XZnYxak56Z3czOXVwY3JCQVIyUURJYmxMZHZLZzlKYURZeU1wYkHSAYICQVVfeXFMTXcyZ1YtQnlIenVsLWstOVpWY1o5Y2hkWXdRckEzTEVQV2NOY1BZZUdvZWZWMHVqdlhicjQyUTdjdGNsTFZuaWN3R190NVlxT2tlTzE2ZS1BWi1VZXJ5c2stN2R2YWNjRl80a1U3cFhDSVdzemRSOGw2M3dXX3BqQnRqOGpxSzZoSmVxM20zbGhwRTFVZUZfMGJUVFloeUFybnJlN3VTUzZGUGpjRkVwb245SThNRWFTNkQtWnB2Mnc3OTJqdmNTcENwRFNSV3lnV2J0aFRMQVZPY3ZOV2Z2MWpOemd3Mzl1cGNyQkFSMlFESWJsTGR2S2c5SmFEWXlNcGJB?oc=5",
         "source": "FXStreet",
-        "published_hkt": "07/16 00:49",
+        "published_hkt": "07/16 07:55",
         "related": [
-          "BTC"
+          "ETH"
         ]
       }
     ]

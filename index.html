@@ -1564,6 +1564,18 @@
           <strong>解法：</strong>財報後 IV 回落時再建倉，或選用 Bull Call Spread 代替。</p>
         </div>
       </div>
+      <div class="options-section-subtitle">📊 勝率的陷阱 —— 高勝率 ≠ 賺錢</div>
+      <div class="bond-intro-box"><p>賣方策略（Credit Spread、Iron Condor）天生<strong>高勝率、負偏態</strong>：贏很多次小的，輸一次大的。決定賺賠的是<strong>期望值（EV）</strong>，不是勝率。所以下面每張策略卡的「勝率」，都只是一半的故事。</p></div>
+      <div class="warning-box" style="margin-top:12px;">
+        <div class="warning-title">⚠️ 真實算給你看：91% 勝率照樣虧錢</div>
+        <p>
+          某 Credit Spread，一年 252 個交易日：<br>
+          · 成功 230 天 × 每次賺 $40 ＝ <span style="color:var(--green);font-weight:700;">+$9,200</span><br>
+          · 失敗 &nbsp;22 天 × 每次虧 $500 ＝ <span style="color:var(--red);font-weight:700;">−$11,000</span><br>
+          · 淨結果 ＝ <strong style="color:var(--red);">−$1,800</strong>　—— 勝率高達 91%，一年還是虧。<br><br>
+          <strong>看策略時，勝率一定要和兩個數字一起看：</strong>① 期望值（平均每筆賺賠，常以 R 表示）　② 最大單筆虧損。履約價務必拉到<strong>預期波幅（Expected Move）外緣</strong>，用勝率換取「正期望值」，而不是為了漂亮的勝率把履約價拉太近。
+        </p>
+      </div>
       <div class="options-section-subtitle">🎛️ 13 種進階策略選擇器</div>
       <div class="strat-selector">
         <div class="strat-handle"></div>
@@ -1631,7 +1643,7 @@
       <div class="cards-grid" style="margin-top:14px;">
         <div class="card">
           <div class="card-header"><span class="card-icon">🧮</span><span class="card-title">計算公式</span></div>
-          <p class="card-desc"><strong>Expected Move = ATM Call 保費 + ATM Put 保費</strong><br><br>即買入最近到期的平值 Straddle（ATM Call + ATM Put）的總成本，就是市場對這段時間波幅的預期。</p>
+          <p class="card-desc"><strong>粗估 = ATM Call + ATM Put 保費</strong>（買最近到期平值 Straddle 的總成本）。<br><br><strong>較準的 1 標準差（約 68% 機率）≈ Straddle × 0.85</strong>。這才是市場定價下、約七成機率的收盤區間——也就是「⏰ 日內」市場狀態卡每天即時算給你的那個 ± 數字。</p>
         </div>
         <div class="card">
           <div class="card-header"><span class="card-icon">🎯</span><span class="card-title">實際用途</span></div>
@@ -1645,6 +1657,10 @@
         <div class="card">
           <div class="card-header"><span class="card-icon">⚠️</span><span class="card-title">搭配 IV Crush 理解</span></div>
           <p class="card-desc">Expected Move 是基於當前 IV 計算的。財報前 IV 高 → Expected Move 大 → Straddle 貴。財報後 IV 崩（IV Crush），即使股價有移動，也可能低於 Expected Move，導致 Straddle 虧損。</p>
+        </div>
+        <div class="card">
+          <div class="card-header"><span class="card-icon">🌡️</span><span class="card-title">別拿 VIX 算今日波幅</span></div>
+          <p class="card-desc">VIX 是<strong>未來 30 天</strong>的年化波動率，是市場情緒溫度計，<strong>不能</strong>直接換算成「今天」會走多少。0DTE／當日交易要看<strong>當日 ATM Straddle</strong>、直接讀市場報價；<strong>別用 IV×√(天數/365) 硬套</strong>——對當天到期會算出接近 0 的荒謬值。</p>
         </div>
       </div>
     </div>

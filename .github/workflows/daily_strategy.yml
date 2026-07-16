@@ -1,0 +1,32 @@
+name: Daily Options Strategy → Discord
+
+on:
+  schedule:
+    # 13:45 UTC = 21:45 HKT — 美股開盤（09:30 ET）後 15 分，0DTE 履約價與權利金有即時報價
+    - cron: '45 13 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install yfinance pandas
+
+      - name: Fetch fresh market state
+        run: python scripts/fetch_market_state.py
+
+      - name: Build strategy & push to Discord
+        env:
+          DISCORD_WEBHOOK_INVESTUNIS: ${{ secrets.DISCORD_WEBHOOK_INVESTUNIS }}
+        run: python scripts/daily_strategy.py

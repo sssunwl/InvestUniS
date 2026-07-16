@@ -1,0 +1,5 @@
+{
+  "_note": "重大事件人工維護清單。fetch_market_state.py 每天比對，只有 date == 今天 才會在事實卡標示。CPI/FOMC/非農的正確日期請自行從官方行事曆填入（我不預填以免日期錯誤誤導）。impact: high | medium。",
+  "_format_example": { "date": "2026-07-30", "name": "FOMC 利率決議", "impact": "high" },
+  "events": []
+}

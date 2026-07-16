@@ -1,0 +1,23 @@
+{
+  "updated": "2026-07-16 18:26 HKT",
+  "underlying": "QQQ",
+  "disclaimer": "以下均為市場當下的『事實』與教學說明，非買賣建議。期權有歸零風險，交易前請自行判斷。",
+  "spot": 717.74,
+  "chg": -1.95,
+  "chg_pct": -0.27,
+  "vix": 15.94,
+  "vix_state": "green",
+  "vix_label": "正常",
+  "vix_desc": "市場預期未來 30 天波動正常",
+  "expected_move": 5.88,
+  "em_low": 711.86,
+  "em_high": 723.62,
+  "dte": 0,
+  "dte_label": "0DTE（今日到期）",
+  "atm_strike": 720.0,
+  "straddle": 6.92,
+  "expiry": "2026-07-16",
+  "atm_iv": null,
+  "events": [],
+  "light": "green"
+}

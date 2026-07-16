@@ -26,6 +26,30 @@
       --blue: #1A5FA8;
       --blue-bg: #EAF2FF;
     }
+    /* ── 市場狀態事實卡 ── */
+    .ms-card { background: linear-gradient(180deg, var(--warm-white), var(--cream)); border: 1px solid var(--border); border-radius: 14px; padding: 16px; margin-bottom: 18px; box-shadow: 0 2px 10px rgba(201,168,76,.12); }
+    .ms-card.ms-green  { border-left: 5px solid var(--green); }
+    .ms-card.ms-yellow { border-left: 5px solid var(--yellow); }
+    .ms-card.ms-red    { border-left: 5px solid var(--red); }
+    .ms-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; flex-wrap: wrap; gap: 4px; }
+    .ms-title { display: flex; align-items: center; gap: 8px; font-weight: 700; font-size: 15px; color: var(--dark); }
+    .ms-light { font-size: 16px; }
+    .ms-updated { font-size: 11px; color: var(--mid); }
+    .ms-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; }
+    .ms-cell { background: var(--warm-white); border: 1px solid var(--border); border-radius: 10px; padding: 10px 12px; }
+    .ms-cell-wide { grid-column: span 1; }
+    .ms-label { font-size: 10px; color: var(--mid); font-weight: 600; margin-bottom: 4px; }
+    .ms-dte { display: inline-block; background: var(--gold); color: #fff; border-radius: 6px; padding: 1px 6px; font-size: 9px; margin-left: 2px; }
+    .ms-value { font-size: 20px; font-weight: 800; color: var(--dark); line-height: 1.1; }
+    .ms-value-sm { font-size: 14px; font-weight: 700; }
+    .ms-sub { font-size: 11px; color: var(--mid); margin-top: 3px; }
+    .ms-sub .up { color: var(--green); font-weight: 700; }
+    .ms-sub .dn { color: var(--red); font-weight: 700; }
+    .ms-read { margin-top: 12px; padding: 10px 12px; background: var(--green-bg); border-radius: 8px; font-size: 12.5px; color: var(--dark); line-height: 1.6; }
+    .ms-card.ms-yellow .ms-read { background: var(--yellow-bg); }
+    .ms-card.ms-red .ms-read { background: var(--red-bg); }
+    .ms-note { margin-top: 10px; font-size: 11px; color: var(--mid); line-height: 1.6; }
+    @media (max-width: 640px) { .ms-grid { grid-template-columns: repeat(2, 1fr); } }
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans TC', sans-serif;
@@ -2573,6 +2597,47 @@
       把一天分成五個時段，每個時段問不同的問題。盤前問「誰今天可能爆？」，開盤問「誰是真強？」，盤中問「主力還在嗎？」，盤尾問「誰明天還有人接？」，盤後確認「方向變了沒？」
     </div>
 
+    <!-- ══ 市場狀態事實卡（每日自動更新，非買賣建議） ══ -->
+    <div class="ms-card" id="ms-card">
+      <div class="ms-head">
+        <div class="ms-title">
+          <span class="ms-light" id="ms-light">⚪</span>
+          <span>市場狀態 · <span id="ms-underlying">QQQ</span> 日內期權</span>
+        </div>
+        <span class="ms-updated" id="ms-updated">載入中…</span>
+      </div>
+
+      <div class="ms-grid">
+        <div class="ms-cell">
+          <div class="ms-label">現價</div>
+          <div class="ms-value" id="ms-spot">—</div>
+          <div class="ms-sub" id="ms-chg">&nbsp;</div>
+        </div>
+        <div class="ms-cell">
+          <div class="ms-label">VIX 波動率</div>
+          <div class="ms-value" id="ms-vix">—</div>
+          <div class="ms-sub" id="ms-vix-label">&nbsp;</div>
+        </div>
+        <div class="ms-cell ms-cell-wide">
+          <div class="ms-label">今日預期波幅 Expected Move <span id="ms-dte" class="ms-dte"></span></div>
+          <div class="ms-value" id="ms-em">—</div>
+          <div class="ms-sub" id="ms-em-range">&nbsp;</div>
+        </div>
+        <div class="ms-cell">
+          <div class="ms-label">今日事件</div>
+          <div class="ms-value ms-value-sm" id="ms-events">—</div>
+          <div class="ms-sub" id="ms-iv">&nbsp;</div>
+        </div>
+      </div>
+
+      <div class="ms-read" id="ms-read"></div>
+      <div class="ms-note">
+        📌 以上是市場<strong>當下的事實</strong>（現價、VIX、由 ATM Straddle 反推的真實預期波幅），
+        <strong>不是買賣建議</strong>。預期波幅代表約 68% 機率的收盤區間，不是保證。
+        VIX 是未來 30 天的波動率，日內策略請以本卡的當日 Straddle 為準。
+      </div>
+    </div>
+
     <div class="options-section">
       <div class="options-section-title">① 雙框架系統 — Day Trade + Swing Trade</div>
       <div class="cards-grid">
@@ -4075,9 +4140,75 @@
   // ── Init ──
   updateClock();
   setInterval(updateClock, 1000);
+  // ── 市場狀態事實卡 ──
+  async function loadMarketState() {
+    try {
+      const r = await fetch('./data/market_state.json?v=' + Date.now());
+      if (!r.ok) return;
+      const d = await r.json();
+      const card = document.getElementById('ms-card');
+      if (!card) return;
+
+      const lightMap = { green: '🟢', yellow: '🟡', red: '🔴', unknown: '⚪' };
+      card.classList.remove('ms-green','ms-yellow','ms-red');
+      if (d.light && d.light !== 'unknown') card.classList.add('ms-' + d.light);
+      const setTxt = (id, v) => { const el = document.getElementById(id); if (el) el.textContent = v; };
+      const setHtml = (id, v) => { const el = document.getElementById(id); if (el) el.innerHTML = v; };
+
+      setTxt('ms-light', lightMap[d.light] || '⚪');
+      setTxt('ms-underlying', d.underlying || 'QQQ');
+      setTxt('ms-updated', d.updated ? '更新：' + d.updated : '');
+
+      // 現價
+      setTxt('ms-spot', d.spot != null ? d.spot.toFixed(2) : '—');
+      if (d.chg != null) {
+        const cls = d.chg >= 0 ? 'up' : 'dn';
+        const arrow = d.chg >= 0 ? '▲' : '▼';
+        setHtml('ms-chg', `<span class="${cls}">${arrow} ${Math.abs(d.chg).toFixed(2)} (${Math.abs(d.chg_pct).toFixed(2)}%)</span>`);
+      }
+
+      // VIX
+      setTxt('ms-vix', d.vix != null ? d.vix.toFixed(2) : '—');
+      setTxt('ms-vix-label', d.vix_label ? (d.vix_label + '｜' + (d.vix_desc || '')) : '');
+
+      // 預期波幅
+      if (d.expected_move != null) {
+        setTxt('ms-dte', d.dte_label || '');
+        setTxt('ms-em', '±' + d.expected_move.toFixed(2));
+        setTxt('ms-em-range', `區間 ${d.em_low} ~ ${d.em_high}（約 68% 機率收在此）`);
+        setTxt('ms-iv', d.atm_iv != null ? ('ATM IV ' + d.atm_iv + '%') : '');
+      } else {
+        setTxt('ms-em', '—');
+        setTxt('ms-em-range', '盤前/盤後 Straddle 報價暫缺');
+      }
+
+      // 事件
+      if (d.events && d.events.length) {
+        setHtml('ms-events', d.events.map(e => esc(e.name)).join('、'));
+      } else {
+        setTxt('ms-events', '無重大事件');
+      }
+
+      // 解讀（純教學，非建議）
+      let read = '';
+      if (d.expected_move != null && d.spot != null) {
+        read = `今日市場對 ${d.underlying} 的定價：一天大約在 <strong>${d.em_low} ~ ${d.em_high}</strong> 之間波動`
+             + `（${d.dte_label || ''}，±${d.expected_move.toFixed(2)} 點）。`;
+        if (d.light === 'green') read += ' VIX 屬正常區間，屬教科書上「賣方策略（Credit Spread / Iron Condor）」較常被討論的環境——但成功率不等於期望值，履約價務必拉到預期波幅外緣。';
+        else if (d.light === 'yellow') read += ' 波動偏大，教科書上此時賣方策略會把履約價拉更遠、或有人轉買方；有事件時尤其留意。';
+        else if (d.light === 'red') read += ' 市場恐慌，賣方策略尾部風險高，這是最容易一次吃掉多次獲利的環境。';
+        if (d.events && d.events.length) read += ` <strong>今日有重大事件（${d.events.map(e=>e.name).join('、')}），事件前後 IV 劇烈，Credit Spread 風險放大。</strong>`;
+      } else {
+        read = '目前為非交易時段，期權 Straddle 無即時報價，開盤後本卡會更新真實預期波幅。';
+      }
+      setHtml('ms-read', read);
+    } catch (e) { /* data not yet available */ }
+  }
+
   loadNews();
   loadStocks();
   loadETFData();
+  loadMarketState();
   initStratGrid();
   renderUpcomingHolidays();
 </script>

@@ -56,6 +56,59 @@ def round_strike(x):
     return round(x)
 
 
+def spread_credit(oc, kind, short_k, long_k):
+    """從期權鏈算某垂直價差的真實淨權利金（賣腿中間價 − 買腿中間價）。"""
+    if oc is None:
+        return None
+    df = oc.puts if kind == "put" else oc.calls
+    smid, lmid = leg_mid(df, short_k), leg_mid(df, long_k)
+    if smid is None or lmid is None:
+        return None
+    return round(smid - lmid, 2)
+
+
+def directional_signal(und):
+    """
+    透明動能評分（-3 ~ +3），沿用頁面「日內／動能」Tab 教的均線邏輯：
+      · 收盤 vs EMA20（短期趨勢）
+      · EMA20 vs EMA50（中期趨勢）
+      · 近 5 日動能（>+1% 偏多 / <-1% 偏空 / 之間中性）
+    這是機械指標、會看錯，只用來在「中性收租」外多給一個方向傾向，不是預測。
+    """
+    try:
+        hist = yf.Ticker(und).history(period="3mo")
+    except Exception as e:
+        print(f"signal hist err: {e}", file=sys.stderr)
+        return None
+    if hist.empty or len(hist) < 50:
+        return None
+    close = hist["Close"]
+    last = float(close.iloc[-1])
+    ema20 = float(close.ewm(span=20).mean().iloc[-1])
+    ema50 = float(close.ewm(span=50).mean().iloc[-1])
+    ret5 = (last / float(close.iloc[-6]) - 1) * 100
+
+    score = 0
+    factors = []
+    if last > ema20:
+        score += 1; factors.append(("收盤>EMA20", "✔"))
+    else:
+        score -= 1; factors.append(("收盤<EMA20", "✘"))
+    if ema20 > ema50:
+        score += 1; factors.append(("EMA20>EMA50", "✔"))
+    else:
+        score -= 1; factors.append(("EMA20<EMA50", "✘"))
+    if ret5 > 1:
+        score += 1; factors.append((f"5日動能{ret5:+.1f}%", "✔"))
+    elif ret5 < -1:
+        score -= 1; factors.append((f"5日動能{ret5:+.1f}%", "✘"))
+    else:
+        factors.append((f"5日動能{ret5:+.1f}%", "—"))
+
+    bias = "bull" if score >= 2 else "bear" if score <= -2 else "neutral"
+    return {"bias": bias, "score": score, "factors": factors}
+
+
 def build_message(s):
     und = s.get("underlying", "QQQ")
     spot = s.get("spot")
@@ -93,42 +146,69 @@ def build_message(s):
         lines.append("⏸ 目前無即時 Straddle 報價（非交易時段）。")
         lines.append("開盤後本引擎會用當日預期波幅算出履約價。")
     else:
-        # 中性賣方：短履約價設在 ±1 個預期波幅（≈1 標準差）處
+        # 短履約價設在 ±1 個預期波幅（≈1 標準差）處
         put_short = round_strike(spot - em)
         put_long = put_short - SPREAD_WIDTH
         call_short = round_strike(spot + em)
         call_long = call_short + SPREAD_WIDTH
 
-        lines.append("🎯 今日規則輸出: Iron Condor（中性收租）")
-        lines.append(f"理由: 無重大事件 + VIX{s.get('vix_label','')} + 無驗證方向優勢")
-        lines.append("      → 預設中性賣方，不猜漲跌。")
-        lines.append("")
+        # 透明方向訊號
+        sig = directional_signal(s.get("underlying", "QQQ"))
+        bias = sig["bias"] if sig else "neutral"
+        if sig:
+            tag = {"bull": "偏多", "bear": "偏空", "neutral": "中性"}[bias]
+            lines.append(f"📶 方向訊號: {tag}（評分 {sig['score']:+d}／範圍 -3~+3）")
+            lines.append("  " + "  ·  ".join(f"{n}{m}" for n, m in sig["factors"]))
+            lines.append("")
 
-        # 抓真實權利金
-        credit = None
         try:
-            t = yf.Ticker(und)
-            oc = t.option_chain(s["expiry"])
-            ps, pl = leg_mid(oc.puts, put_short), leg_mid(oc.puts, put_long)
-            cs, cl = leg_mid(oc.calls, call_short), leg_mid(oc.calls, call_long)
-            if None not in (ps, pl, cs, cl):
-                credit = round((ps - pl) + (cs - cl), 2)
+            oc = yf.Ticker(s.get("underlying", "QQQ")).option_chain(s["expiry"])
         except Exception as e:
-            print(f"credit fetch err: {e}", file=sys.stderr)
+            print(f"chain err: {e}", file=sys.stderr)
+            oc = None
 
-        lines.append(f"賣 Put  {put_short}  /  買 Put  {put_long}")
-        lines.append(f"賣 Call {call_short}  /  買 Call {call_long}")
-        lines.append(f"→ 收盤落在 {put_short}~{call_short} 之間，兩邊權利金全收")
-        if credit is not None and credit > 0:
-            max_loss = round((SPREAD_WIDTH - credit) * 100, 0)
-            lines.append(f"實際權利金≈ ${credit} /組  ·  單邊最大虧損≈ ${max_loss:.0f}")
-        lines.append("約略勝率: ~68%（常態近似，非歷史回測）")
+        def credit_line(kind, sk, lk):
+            c = spread_credit(oc, kind, sk, lk)
+            if c is not None and c > 0:
+                ml = round((SPREAD_WIDTH - c) * 100, 0)
+                return f"實際權利金≈ ${c} /組  ·  最大虧損≈ ${ml:.0f}"
+            return None
+
+        if bias == "bull":
+            lines.append("🎯 今日規則輸出: Bull Put Spread（偏多收租）")
+            lines.append(f"賣 Put {put_short}  /  買 Put {put_long}")
+            lines.append(f"→ 只要收盤 > {put_short}（不必大漲、不跌破即可），權利金全收")
+            cl = credit_line("put", put_short, put_long)
+            if cl:
+                lines.append(cl)
+            lines.append("約略勝率: ~84%（單邊常態近似，非回測）")
+        elif bias == "bear":
+            lines.append("🎯 今日規則輸出: Bear Call Spread（偏空收租）")
+            lines.append(f"賣 Call {call_short}  /  買 Call {call_long}")
+            lines.append(f"→ 只要收盤 < {call_short}（不必大跌、不突破即可），權利金全收")
+            cl = credit_line("call", call_short, call_long)
+            if cl:
+                lines.append(cl)
+            lines.append("約略勝率: ~84%（單邊常態近似，非回測）")
+        else:
+            lines.append("🎯 今日規則輸出: Iron Condor（中性收租）")
+            lines.append(f"賣 Put {put_short} / 買 Put {put_long}")
+            lines.append(f"賣 Call {call_short} / 買 Call {call_long}")
+            lines.append(f"→ 收盤落在 {put_short}~{call_short} 之間，兩邊全收")
+            c1 = spread_credit(oc, "put", put_short, put_long)
+            c2 = spread_credit(oc, "call", call_short, call_long)
+            if c1 and c2:
+                tot = round(c1 + c2, 2)
+                ml = round((SPREAD_WIDTH - tot) * 100, 0)
+                lines.append(f"實際權利金≈ ${tot} /組  ·  單邊最大虧損≈ ${ml:.0f}")
+            lines.append("約略勝率: ~68%（常態近似，非回測）")
 
     # ── 免責 ──
     lines.append("")
     lines.append("⚠️ 這不是投資建議，是把頁面決策樹套上今天的數字。")
-    lines.append("勝率為常態近似非回測；履約價/手數/是否進場請自行判斷。")
-    lines.append("賣方策略負偏態＝贏小輸大，務必控制單筆最大虧損。")
+    lines.append("方向訊號＝機械動能指標，會看錯；偏多/偏空代表你在賭方向，")
+    lines.append("趨勢反向會直接吃掉那一邊。勝率為常態近似非回測。")
+    lines.append("履約價/手數/是否進場請自行判斷；賣方負偏態＝贏小輸大。")
 
     return "\n".join(lines)
 

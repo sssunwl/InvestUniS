@@ -27,27 +27,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-17 08:56 HKT",
+      "updated_at": "2026-07-17 11:47 HKT",
       "news": [
         {
-          "title": "錯失恐懼症發酵！外資瘋搶美股 5月淨買入創歷史次高 | 民視新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1paGd6Y0xocHdNdWItVlpjQmJsZWFXTnpzTlVTNHF5ZGJ6QTRraHpoZk04b3ptU0ZXeDRkQ25RRWVnUDJKbFVmbkMwTDkwNENfeElrUGd3?oc=5",
-          "source": "LINE TODAY",
-          "published_hkt": "07/17 08:18",
-          "related": []
-        },
-        {
-          "title": "美股盤中震盪亞洲市場暗藏危機 分析師示警衰退風險",
-          "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOTmVjVnJDV0N2N2J4TUlUNFRjY0pveFNYT0dVTEVkY1o3UmdFNG0zM0FYcC1XeXN2cGdWWUU2cWhPQ3UzX0E1TzZqT19fOVBQVXp4TjRnZlBhMkVwcnYzdzZXaEE4b21GZXNyRFVlQXRPM0x6VW1Ob1p4cS01OHNUSjB0RXQ1X0ZhcTBBSUc1Wng4S05yV0Rpbm1OckdaYUliMTlTdjBoSXZlWGRmT2xNNUdscXQzeVJYYTVfM2hFZWVFVVBBSnFzSUp2OW9oV1VKdUJlU2JVWkF5WjFEOUJpMmh0UkZDQmNqR2FScWpSUEowQXMxNFVIQkQxTnBKbWtNdUNGbFVQZkRMZGZYSmRNWTBlMTU1bFdTSXRJTkZudnhXQ0dLeEVyWS1JNF8wN194T0VlV2xHNTlYbm1OOEx5UlpRQTR4bnRCRC1BZEREYjBuWWEtT2pjMEFKQWFrRTV2bzZjUnRCdTUtbWVDU0E4VQ?oc=5",
-          "source": "Yahoo股市",
-          "published_hkt": "07/17 08:06",
-          "related": []
-        },
-        {
-          "title": "美股重點新聞摘要2026年7月17日",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55QjFHeVBzLUQwZ2J6N2Ribi1IZEhucThvcHpFekFFZEx3ZzZUZjJyUDNMSEFqMWFaNjZrdFROanZVbjBNaENXWV9pLTMyaDg?oc=5",
+          "title": "美光躍居「市場最重要股票」分析師：股價仍遭低估",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yS0ZqUmRsNlpFU0Zya2FKY3VET04zUko2WmtKaEpFcEpWOGU5aF9EV2djUW04TF92ZURNdEN1NEdoZDdFM3gzVnVZbmtKU2s?oc=5",
           "source": "news.cnyes.com",
-          "published_hkt": "07/17 08:00",
+          "published_hkt": "07/17 11:10",
+          "related": [
+            "MU"
+          ]
+        },
+        {
+          "title": "半導體股疲軟拖累美股反彈 權重增至兩成影響深遠",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WU1EzNkctdDN6TjltZEJ1RDZlQmR3SE8tQnhhMFM3S0pLV0pXZUpyUUFVVXFZaWNTcU5kY0syT3ZBNENzSTJ3SUtPdXdZNmYwQXc?oc=5",
+          "source": "蕃新聞",
+          "published_hkt": "07/17 09:32",
+          "related": []
+        },
+        {
+          "title": "科技七雄ETF技術面轉強 分析師：多頭趨勢重新啟動",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KUEhpX2g1UDA4VU9DbERWd2loaV9HZHVYTnk5M0Z5S3l5ZGZFNU9rY3dvLTY1NVFWbF81SEt4TWszWEdqLUo4QWk1OXhSLTQ?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "07/17 09:26",
           "related": []
         }
       ]
@@ -241,33 +243,33 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-17 08:56 HKT",
+    "updated_at": "2026-07-17 11:47 HKT",
     "news": [
       {
-        "title": "華爾街擁抱以太坊成新動力？Thomas Lee：機構應用超越加密貨幣",
-        "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQSzBVbHI4bzNVNUlTcENVNHJIYi01cERobXIwekx5NGUxZkhOYlZ3bGdUR3VXbDkxYWJ1VzJVMXEtbndOUFhscWEwaXpHWVlSdUJjTGF0clUxTWJfaUI1Yi1oa0ZDM2xtVXB6Uy1GVDJjZXZfdzRjNXJPUEVRT1F1VjJHdlQ1bXlzUGJMcE8zc0Z6RnA4UnluT1BRQVVKbjFjVDdGNkRKMTVQcHFTWnVjeVg2Y3B0R3hFMEtqWGo3UWpjSDhqeHFXY0V2RHhfOF9Laktqc05yVkIzb05KcXBKMXB4Z1NkZkVIa1N2Zk02SS12UGNNYWxpZlF5WFpKR2FIV21qMWlhcjZ0TElycVJlMXJtM1JNU0VseC1DM2ZCcWpzUTU5NEthX2k2SVhwd2dLdFhBMHVMX1VHMHBwYVhBeFJkQVFSM01weHRQTlZCeVNqRWNZbHlkdHpidERORFhHOWw4UDBVY2lBWXljR2plcmlzcTBGa3publZZcUtwdGVEei1YUHBJ?oc=5",
-        "source": "商傳媒",
-        "published_hkt": "07/17 08:42",
+        "title": "Deribit：约14.5亿美元的比特币和以太坊期权将于今日到期",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pOUJsdkZjREZ0RU9NWUhRZVQ1dUkxQlMyZGJORlJ6aWoxMlE4UEp1ejZRcWpnbF9UdXJIbjVmWHVmT3JIUVFDZzZoZzh1UFBiaFpsZTZPYUhxYnpnS3p4WmFkY0R6UQ?oc=5",
+        "source": "TradingView",
+        "published_hkt": "07/17 10:41",
         "related": [
           "ETH"
         ]
       },
       {
-        "title": "金色早報丨Visa推出穩定幣服務平台 摩根士丹利旗下ETRADE上線現貨加密交易",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RN3JBZjNyaGs3X18tNE96QlVUaDRHdThHckIzakZiMndyVmtkalVkbUtWUGlUQW10bHl3TWRIcUYxcnRnTzQtX2JtYw?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "07/17 08:30",
-        "related": []
-      },
-      {
-        "title": "以太坊價格預測：為什麼ETH表現優於比特幣、XRP、SOL、HYPE",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSk5sQ0tUR3pLOUVTMjRpcnl5Uk5sZmYtOGp1c2J3NGlwRzhFaTdVdFpVUXhxTEsyQ0lUeG1vVjd2VS1SVmEzc2lvNE4tT1JNQlBLX3dSTktncXZPSnBwRFlQRUFLbl83ZWtiQWZnRmpTQkVDS3REbGxwWklVbzduVjBDU2VlNGprQlZ3M0ZTUEFrR3lSU3pYT2txakVRel9BRkwwNnNzaEdhV3RydkJ6cTJncFZzTlRmYUwyUmZsQzlYYWFOR0c3N2NSbUtXdzhST0dsVk9zNNIB1wFBVV95cUxNSk5sQ0tUR3pLOUVTMjRpcnl5Uk5sZmYtOGp1c2J3NGlwRzhFaTdVdFpVUXhxTEsyQ0lUeG1vVjd2VS1SVmEzc2lvNE4tT1JNQlBLX3dSTktncXZPSnBwRFlQRUFLbl83ZWtiQWZnRmpTQkVDS3REbGxwWklVbzduVjBDU2VlNGprQlZ3M0ZTUEFrR3lSU3pYT2txakVRel9BRkwwNnNzaEdhV3RydkJ6cTJncFZzTlRmYUwyUmZsQzlYYWFOR0c3N2NSbUtXdzhST0dsVk9zNA?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "07/17 05:45",
+        "title": "海外人士正在討論ETH/BTC 圖表，自本月初以來，以太坊相對於比特幣走強，他們討論此次上漲中以太坊可能比比特幣更強勢",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PUUIzNU5oemJtX0NnOExsc2trNVFDSDIyN3c2UGtaM3QwbXN6NTdpOENGSzltR1NRMUtld05hUGlMRVV0TlltblJkbzJJRHhqR25mWjlDTUR4Ul82anZTZnk2R0FkQms0aEc4QWtJNHFUWkI0RmtoTEM0Yw?oc=5",
+        "source": "KuCoin",
+        "published_hkt": "07/17 10:31",
         "related": [
           "BTC",
           "ETH"
         ]
+      },
+      {
+        "title": "Bitmine Immersion Technologies（BMNR）發佈七月總裁致辭：《ETH是應對「財富怪異谷」的良方》",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdzNrNDNtSnpvbHhnUUxKUFZxYmlqQzVfUGVDZEVKdGZuaTFteEJULWFibzN5d2tQQU1XejFYcGRTQVM3NjJzRzVjWHVPVzBBTFZ6YnFJRE9lV0VCWEdvV3JoQXZFVExCaW9VMDdyRWZTS3h5SHdTbURZYW8tOEpJTzVlUGpPTEtGNlRpSXoxNndyZ1F5b3c2MkRZeWZFc3Z4TWhGaXZJLWNWTDZ3eUhUTGlqM0w?oc=5",
+        "source": "Moomoo",
+        "published_hkt": "07/17 10:14",
+        "related": []
       }
     ]
   }

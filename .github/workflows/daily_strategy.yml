@@ -21,7 +21,8 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install yfinance pandas
+        # lxml：yfinance 抓財報日（get_earnings_dates）需要它，缺了財報避讓會靜默失效
+        run: pip install yfinance pandas lxml
 
       # ── QQQ（指數，沿用 market_state.json，index.html 事實卡也讀它） ──
       - name: Fetch fresh market state (QQQ)

@@ -21,7 +21,34 @@ import yfinance as yf
 import pandas as pd
 
 ROOT = Path(__file__).parent.parent
-UNDERLYING = "QQQ"
+# 可傳 ticker 當第一個參數（如 `python fetch_market_state.py MU`）；不傳預設 QQQ。
+UNDERLYING = (sys.argv[1] if len(sys.argv) > 1 else "QQQ").upper()
+
+
+def state_path(ticker):
+    """QQQ 沿用原檔名（index.html 事實卡讀它）；其餘個股各自一檔，互不覆蓋。"""
+    return ROOT / "data" / ("market_state.json" if ticker == "QQQ"
+                            else f"market_state_{ticker}.json")
+
+
+def next_earnings(t):
+    """抓最近一次『未來』財報日與距今天數；指數/ETF 沒財報就回 None。"""
+    try:
+        df = t.get_earnings_dates(limit=12)
+    except Exception as e:
+        print(f"earnings err: {e}", file=sys.stderr)
+        return None
+    if df is None or df.empty:
+        return None
+    try:
+        future = df[df.index.date >= date.today()]
+        if future.empty:
+            return None
+        d = min(future.index).date()
+        return {"date": d.isoformat(), "days": (d - date.today()).days}
+    except Exception as e:
+        print(f"earnings parse err: {e}", file=sys.stderr)
+        return None
 
 
 def vix_regime(vix):
@@ -174,23 +201,34 @@ def main():
     # ── 事件 ──
     out["events"] = todays_events()
 
+    # ── 財報（單一個股才有；QQQ 回 None） ──
+    try:
+        ne = next_earnings(t) if spot else None
+        if ne:
+            out["earnings_date"] = ne["date"]
+            out["days_to_earnings"] = ne["days"]
+    except Exception as e:
+        print(f"earnings block err: {e}", file=sys.stderr)
+
     # ── 綜合市場狀態燈號（取 VIX 燈號；有重大事件則至少黃燈） ──
     light = out.get("vix_state", "unknown")
     if out["events"] and light == "green":
         light = "yellow"
     out["light"] = light
 
-    dest = ROOT / "data" / "market_state.json"
+    dest = state_path(UNDERLYING)
     dest.parent.mkdir(exist_ok=True)
     dest.write_text(json.dumps(out, ensure_ascii=False, indent=2))
 
-    print(f"Saved market_state.json")
+    print(f"Saved {dest.name}")
     print(f"  {UNDERLYING} {out.get('spot','?')}  ({out.get('chg_pct','?')}%)")
     print(f"  VIX {out.get('vix','?')} [{out.get('vix_label','?')}]  light={out['light']}")
     if out.get("expected_move"):
         print(f"  {out.get('dte_label','')}  EM ±{out['expected_move']}  "
               f"→ {out.get('em_low')}~{out.get('em_high')}  (straddle {out.get('straddle')})")
     print(f"  events: {[e.get('name') for e in out['events']] or '無'}")
+    if out.get("earnings_date"):
+        print(f"  earnings: {out['earnings_date']} (D-{out.get('days_to_earnings')})")
 
 
 if __name__ == "__main__":

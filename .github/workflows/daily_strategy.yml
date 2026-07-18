@@ -23,10 +23,23 @@ jobs:
       - name: Install dependencies
         run: pip install yfinance pandas
 
-      - name: Fetch fresh market state
+      # ── QQQ（指數，沿用 market_state.json，index.html 事實卡也讀它） ──
+      - name: Fetch fresh market state (QQQ)
         run: python scripts/fetch_market_state.py
 
-      - name: Build strategy & push to Discord
+      - name: Build strategy & push to Discord (QQQ)
         env:
           DISCORD_WEBHOOK_INVESTUNIS: ${{ secrets.DISCORD_WEBHOOK_INVESTUNIS }}
         run: python scripts/daily_strategy.py
+
+      # ── MU（單一個股，含財報避讓；參數在 data/options_watchlist.json） ──
+      # continue-on-error：MU 抓失敗不拖垮 QQQ 那則已發出的推播。
+      - name: Fetch fresh market state (MU)
+        continue-on-error: true
+        run: python scripts/fetch_market_state.py MU
+
+      - name: Build strategy & push to Discord (MU)
+        continue-on-error: true
+        env:
+          DISCORD_WEBHOOK_INVESTUNIS: ${{ secrets.DISCORD_WEBHOOK_INVESTUNIS }}
+        run: python scripts/daily_strategy.py MU

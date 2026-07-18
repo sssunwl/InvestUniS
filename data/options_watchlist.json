@@ -1,0 +1,11 @@
+{
+  "_note": "每檔標的的期權策略引擎參數。daily_strategy.py 讀這裡；沒列到的標的用 _default。加新標的只要在這裡加一段，再到 workflow 加一行 fetch+strategy。",
+  "_fields": {
+    "spread_width": "垂直價差寬度（美元）。QQQ $1 間距用 5；個股履約價間距大可調 5 或 10。",
+    "earnings_avoid_days": "財報前幾天內停賣方價差、只警告 IV Crush。指數設 0（無財報）。",
+    "enabled": "false 可暫停該標的每日推播。"
+  },
+  "_default": { "spread_width": 5, "earnings_avoid_days": 2, "enabled": true },
+  "QQQ": { "spread_width": 5, "earnings_avoid_days": 0, "enabled": true },
+  "MU": { "spread_width": 5, "earnings_avoid_days": 2, "enabled": true }
+}

@@ -27,29 +27,27 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-17 11:56 HKT",
+      "updated_at": "2026-07-20 08:59 HKT",
       "news": [
         {
-          "title": "美光躍居「市場最重要股票」分析師：股價仍遭低估",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yS0ZqUmRsNlpFU0Zya2FKY3VET04zUko2WmtKaEpFcEpWOGU5aF9EV2djUW04TF92ZURNdEN1NEdoZDdFM3gzVnVZbmtKU2s?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "07/17 11:10",
-          "related": [
-            "MU"
-          ]
-        },
-        {
-          "title": "半導體股疲軟拖累美股反彈 權重增至兩成影響深遠",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iWDFTUm44QjBqM1hZMWtYOWFKQkJQUGQzZnhnazNibWtNOXFiMTVfNVVYNGJKZ1lwcll5c0x3WEk0Q2swcktjaFoyWEFzelBFc3c?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "07/17 09:32",
+          "title": "半導體拋售後 AI 支出受關注 美股財報季考驗科技股前景",
+          "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNQVpWbmFrcmpsMEJFcHBpQnZVVl9ZTG5wekJ1c1ZHWFBZVHNyUnNIRlpVQTNBQ0hQNmw5QjdlQmlLM1c1UXhSYWkzMXB5UVZBR3Y1T1p6cHMwdzVMQXJ2QzdjWm9iUUx3d1gxVFdsMzQxcFpnZjk0M29oN0JoUkJUMzVBTFA5eWRfdXNnS0d4YUVYdGM3cF9KYkFQeFI1QW03ZHAwZDhCV3A2bWVmUnFSSERVbHoyVWdDazRXREJlRWJxYUhhS1R3XzRjdmM0WEp4NVZvV3lqRnRBNmZXTEFaMTduRVBPQWJYTEthZDBLOWRudkIwVTNuYVUtb0NvODZxaGp2NUxHbDZVMWpVc1ktRTU3WGM3LWpEMVRtOUlEWVA4NlktbjFINjNDVGJtclduN2JnakFlZG1iUUZCS3J5OVdJdFA2RXBROVotNjhqWElodG42dl9SdXk5V09jQlRuT3lNX0JwZEFkOGR0dHJMU0xRQ3BPQ0RIQU9xeU9B?oc=5",
+          "source": "商傳媒",
+          "published_hkt": "07/20 08:43",
           "related": []
         },
         {
-          "title": "科技七雄ETF技術面轉強 分析師：多頭趨勢重新啟動",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KUEhpX2g1UDA4VU9DbERWd2loaV9HZHVYTnk5M0Z5S3l5ZGZFNU9rY3dvLTY1NVFWbF81SEt4TWszWEdqLUo4QWk1OXhSLTQ?oc=5",
+          "title": "AI牛市結束了嗎？市場充滿疑慮 野村列四種潛在拐點：定價混亂 市場觀望氣氛濃",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wM2wwcEhrZk4zYllqWTF4RW9WTF9mMHdvY1gzTzVpWUEzLTBid3N6ZXNxTmZCVXE0ekNRWHlwd3RZRWlMZ3gtalBuNmlLYzA?oc=5",
           "source": "news.cnyes.com",
-          "published_hkt": "07/17 09:26",
+          "published_hkt": "07/20 08:05",
+          "related": []
+        },
+        {
+          "title": "SK海力士美股溢價創紀錄 AI需求狂飆推升記憶體晶片龍頭價值",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5MMW9LT3hfVmtYRWU3RmRCQkFYZUZPS2gwOEl1T1g1ZjYtX1JnUVQzSkNPbjcyTkJDNVlDa18wbkhXdw?oc=5",
+          "source": "墨新聞-MORE News",
+          "published_hkt": "07/20 07:54",
           "related": []
         }
       ]
@@ -57,32 +55,30 @@
   },
   "hk": {
     "pre_market": {
-      "updated_at": "2026-07-17 08:56 HKT",
+      "updated_at": "2026-07-20 08:59 HKT",
       "news": [
         {
-          "title": "恒指重上25000點 大科技股續發威？美半導體股瀕臨熊市？",
-          "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNMElnZXVFbnh0NTBaWV9nc1hkci1zbU80Vi1JR3RQQnVpQnk3RDRjeWYwbWxYeDAyS0t6LXp1TGZfWnhIQ3RXUUVRUjc0dVoxbkxRRFpYTlVoNWRnUjBPQ3A5S1B5UmRZZXlmcFJORzlOSXBXWTd0aGRsNzFTX0lCZFI3MVVaRS1pV2w1X1NnWTZiajl1dDdDc09jeldJRERPZGUta0JpTUpFY19MSzRMSk56V0xISl8zWkxnLTBHelc3TExCQVlScC1NZXlDcUdsWjdiZlVrVTZhN3ZZb052M1RqYjhId2U2MTkxOHVPZ0ZCT3dOU3BjanR1ODhnbUV1THl6QXVJT1hrU2JqaE9FdTM4elFRRjFXN0Z2TG90X0FVSk9OTjdMdEExckJNVGtiNE5lbHRnc0lrd3gyZDE4TEt1cjJvUE5WN2dXLWJ0aEtrZDJoTG9Rd19DZ0VqN3FPU3VaUVBhRXh2cEthcEFhS1ZqSkQ5X1gta3lBaVh1czRSbGc3?oc=5",
-          "source": "香港經濟日報HKET",
-          "published_hkt": "07/17 08:44",
+          "title": "搏拳實錄丨恒指高速走出險境",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVHY3YUU0U3dvYlpteTZxQy1tQmo1bEJXblY5bjcta2hZaG45bGZ5WEVmVDY4TXZPSHFIQXZmZVRHNW5Hb3hFWWdiOFh4TU85VVhpVm9HbWxPb2J3dTZwVlBmUXNUeG5wSlBtSXpBQ1JSeXJNTmE5T0dRcEJMY0EwUEVSdkktS2ZMaWFNYzVpTDlRQ3oxdVNaWkhhcHNEY3IyN2FsangwelBvN1FTY0E3UFJYVkZoS19oZFhPeklmX01mSHBJaDZDZFdwekM0anlWWklHT0VfWmotMGp5WG9CVkZJSUc1cG1QcEhzdVB5MGVlWWp0UnRXSU1wUQ?oc=5",
+          "source": "信報網站",
+          "published_hkt": "07/20 08:02",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "【港股夜期+ADR+北水】夜期收市跌73點 阿里美股低港1.5%（不斷更新）",
-          "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQQlIzTC00a2J4ZXN3MGlnOEpfTWxsMVNaYXRoUVVEeThXV2FuVU1BaWxOV3lmSjJwbUFpalhVV1dNdHZCbUwtNnpXdnAwN2ZTXzc2dW84QlBlZVBnMnoxTXh3ckFkcXhnZHo4MGF4WW5jOHhnM3JXdkpRbzdHZ2RoTURfOTZUQUVncGRxVlFvUnpNODlNdnYxVHRaam1SNnVIWS1kZnZXT2tNM1N4VUozc1VWUHJlZXgxbEJnblNpU183TU5xVS1UbndLbm82LWh2WUhEQ3hIYWdlRVJEaHktck5uY2FIQUtsbUtjcjI1VW5pUm5tSnNTUTJSdHZUNm92d1E1YXFSdnl6OG55TlNVbVpiX2pPRG5TLVBIM21iWHdSaERLVmtlOU1yNF84X29TVGVxdXIyMzZsR2g2Ql9TeVN3NjF0OVV0dEVGNWY0WUtXQnByZG1xc1BjSkwtbG9EbE84M1A3ZGlYbTh1WW9UT25QQW1yRmM0cU1lSTBvOXlSTkFqeEZTM1NIWjBTd1RWYmUwQ19aSEpMRDlsek1fRHFTbjNnaHJh?oc=5",
-          "source": "香港經濟日報HKET",
-          "published_hkt": "07/17 06:14",
+          "title": "港股動能續向好 大摩：屬增持良機",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQemxBZ0hJLWU1bDVtak5Oa0t3UHZhUEdaLVd1VFdzVmJ1TU9uN1g4dUNYa3pKNUVFaHFycGxOOVh6UU1Qbm1hMEcycjRSTFUwaGN3OTVZQ2FRRDgwUTJhVllOWGxpdnFXQXZDemtwZjNvMEcxdlVrSTJfSnRnY0FCaE5SeFhDOTB0Y0xPZXlURDR2eUstZlk4NTVnRnFZQ0JIX1pad3UxRHhWbS1BbUlybjVDLURqWS04amx6Z3lTLXlPRDU5TmpFWnFIQUxXVU9xWmFiZW44eHQwUElheTNkYnVEYS1Fdy1IOWtEbWRPU2dnTUZVNU81dXFVWGpfbzhLclhYdHdFdmtMbndDMVMxN1NBZk1DaG5ERC1JWg?oc=5",
+          "source": "信報網站",
+          "published_hkt": "07/20 03:41",
           "related": []
         },
         {
-          "title": "【袁志峰專欄】恒指升勢過急，短線整固",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3RG1vWDVhM3FjVDMwTWZFek5kakpBSFMyT25OUkx0cXZjZzlkRVRtUDhSZDgtZGFrbnZjUmJCTm1HbHAwX09wekFUVkNiZlE?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "07/17 04:50",
-          "related": [
-            "^HSI"
-          ]
+          "title": "聞風至 - 中信銀行股息估值俱吸引 | 鮮股落鑊",
+          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPVW5HdG5SeVViNjJVMERZMHFIYmtsaUFVWHBoa0hjcUFKYlBOR0k5bDVMN3I0WF82ck5wRkJpTWdxSS1EYnlMc1lVX2ZsX21xWTJuNTFlc0xORVV0aWVtYzItcTNwWFpydjZuQ1MySXRwR0JkNGRvVTByRnoyblZZcjg3VTcwaXhTLVR3VEItMUpsX1BfODl5MFFJVWtZTUMxSXVLUUVLdmNlZGlfSFRsMUcwNmIzMnBIQTJhdmNYZ1I4Qm40MTF1ajFUbmpiYVZJTzRSXy1PVWx4QzZZb042U1d3VXZNNjJpbHVPODZ6WWRvVGlmd3BLUVV3dlRBR2RYa1Y4eFVCQjQwNUU3czFYYjZmbnQ4VVZkeUFjWkJpOGxVekRHa3RKRkc5M0JQTEJl?oc=5",
+          "source": "星島頭條",
+          "published_hkt": "07/20 02:00",
+          "related": []
         }
       ]
     },
@@ -121,29 +117,27 @@
   },
   "tw": {
     "pre_market": {
-      "updated_at": "2026-07-17 08:56 HKT",
+      "updated_at": "2026-07-20 08:59 HKT",
       "news": [
         {
-          "title": "台股盤前｜自行車族群迎春強攻，台積電法說亮眼加權量縮收平",
-          "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxOTE9ja1RfeERfd01lcFY3bUxUYlpUUnBhYTZYTUpLZVRIblVjRzdwWW5XQUhJT05Zc1RiTUI3UW9relROa2pWcE9FdGEtOTQzTDRDTk1mMXhKRlozMFVJR3Vka1FqYnFuZlRVS0g1LXBaeXdab0xSNFV1OGZTcDJDbjZ6SnRCRmhXUmJuV0g4YzJvT080RGxLb0FBZEZaMmtLY2xLUFVLNTExeGtHUzdLOGU1TFNKQkIyeGd0N2piVDVFMFRTdHFXYU5CVTdqYUdCS0JKUXJPQVV3d2pOV0tMRnFBVmVKcTR0MlhpTnd6aFdDUkc4OTN4ckloVzY0RWFIck8wY0E1d2NJV0VGZDB1NjR0bzRCRURvQjNfUUI2UGZLNFJ1VmRJbkdnaVRkVk5fM09DdGFydEtyOW1HOUVsdlNjZ3JrWUdlb2U5RzF4NXRnRzVTLU9yRjYtT2xZUGxJQWlRbUVCQ2hGVklaS2FWeWJ4TzlqWjdsUnpiNzl0NVdzbUJhTnhybzJIdXluS3owX09ycnEzYmk?oc=5",
-          "source": "Yahoo 財經",
-          "published_hkt": "07/17 08:52",
-          "related": [
-            "TSM"
-          ]
-        },
-        {
-          "title": "半導體、被動元件大廠4度被盯！19檔注意股名單出爐 統懋暴衝202%、冠西電狂漲157%遭警告",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LZkNKSkE5YWJOSGpwU0tBN0JjajYzc2RJZjY2OWhZMEJMQ2p4UUdoeEd5UVJKSTdmVEVlSzNkbzRwMkxOcTRudEZQZw?oc=5",
-          "source": "FTNN",
-          "published_hkt": "07/17 08:20",
+          "title": "國民信心調查出爐！57%看好台股下半年突破五萬點 | 太報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FMHZmLWdaV1RUTnFJaWxFRmQ3eWNaTElFaEd5NG5xTi1lZVRKeFN1aVdpVENYZ0JVU3U0aVRVb1M1TkI5YWs3bkxrWF9QSE45S1dreEFB?oc=5",
+          "source": "LINE TODAY",
+          "published_hkt": "07/20 08:51",
           "related": []
         },
         {
-          "title": "TWA00 加權指數- 法說會變法會. - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Nb2xEVEtVcDRKQklQUmw0cnhfdnJDMnF4b0IyaUpvclVnVHJxSjFnRkgxLUtaOG9WNWxGbmVvZl94a2IxVzh4MUdQZVVSTzlucXgxdWZfT20?oc=5",
+          "title": "《台北股市》金管會：台股重挫反應國際情勢 續關注波動變化",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYVI1X19tNmtWMXFjMWthdEFia3R5ZGpZVWhpbDhDYTJvZ1hOcEp2R294SFVpcjZJV3JSalY1di1OSlkyVGlkbE9FdHYwUlFCV1lQTXFJT1MtTDdlcTdrZDRsQndoRngxY3l6cE9fOUptS1hBaGxSMzg4aWw1QjI5SWZudHo4N2FEQnZNaWpTblVnQQ?oc=5",
+          "source": "富聯網",
+          "published_hkt": "07/20 07:58",
+          "related": []
+        },
+        {
+          "title": "TWA00 加權指數- 反指標！川普押寶梅西害阿根廷夢碎？挺3隊全都輸😭 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kYzlad2pNT1ZOXzFiMkFUOU54WEcxNU81dGU1eWRpOF9vV0o5R1NkZ2xDc0lhMDlWRU1oQUUwSHBSQm1fWnA2VU84ejNxOFA0UGxJMm5OQTY?oc=5",
           "source": "CMoney",
-          "published_hkt": "07/17 08:00",
+          "published_hkt": "07/20 07:07",
           "related": [
             "^TWII"
           ]
@@ -246,30 +240,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-17 22:46 HKT",
+    "updated_at": "2026-07-20 08:59 HKT",
     "news": [
       {
-        "title": "比特幣本輪暴跌爲何比“2022年寒冬”危險得多：沒有黑天鵝，只有“賣賣賣” 作者 智通財經",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5neDRONVBibF9ZeWRyREU4WXNkbmZMeEl1dWJVeFR5ZFptLWRVUUdBVlUzSndqZlVXY0loa3Z2TEpVdFBwM0Zrb01paEI2OThtUmZfa2FRT0xpNk9EMktZODlhdkFXVHkyOHc2QnBDeWM?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "07/17 21:01",
+        "title": "美國初領失業金意外續降 勞動市場強勁恐延後聯準會降息",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45MlhSTVZDeVJnbFdBZHJWYzlDZ1hSV1Z3M0dta3RXSmlncVNzd0l5YmhlRkNwOWt1ajdXRU5aWjFaT0dXdXFlUk5ONXkyc3FuRkE?oc=5",
+        "source": "蕃新聞",
+        "published_hkt": "07/20 05:08",
+        "related": []
+      },
+      {
+        "title": "BIP 110 打包七項比特幣規則 Saylor 警告風險高企",
+        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZHRlM053ckU2UHJYVFFYTF94WmJvakUyTDI4VFVoS2s4TUJvMlY2TVNneTdLUUNHbmltYlQ3em9yYVMzem9NTTlvY3lSV0lYalZ4amtrNjJxV0duTHc3SjI1YWh3T3hHVG1TbzRScnk0QXk2dXotQnY3TVZSTjBxQmdpb3lKN25ILVNOVDJYV0VHWW9FU3VmRnZMQUx5S2hPZmlmVmxUdjZBSURRY2NFUHFlaE1aa0oteVNCZm05dXNPaXFNRl83dWJZSmZ2b2xTZVMtc0hoNmQ0TTl2bC1aaDlvTGtqRURvVl9pVGdUa1d3WHBoaHMtVURvelNXSENPdnY0ZjZWMS1FdHJnQXc?oc=5",
+        "source": "Yellow.com",
+        "published_hkt": "07/20 03:02",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "CLARITY法案獲批概率在國會聽證會前迅速下降",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbTNWUmRHNlRVaGQxZDhjczhSajNfRFdEemp6ZVpySGZCWGRWTWNKbG5aUUZ3eTdPcnVXRTRlbnY0WVZnODBZcFpVWDV0MmxtcE1namlBVUpBalJEd1F4TFpSNVRkSFJLRGJGeHh5T0d3a1JSdHk1YUdHNlBESWY2dnpra3JULXRTQU84U2ZWNThJRzZnV21PckdfcFFURGt5UXlnZ2VCWGczaTU1cWpzRlYwM09CVUpoejhnNElodkkzMU0zdWZYN19mNWNid0I5dUJVcNIB1AFBVV95cUxQbTNWUmRHNlRVaGQxZDhjczhSajNfRFdEemp6ZVpySGZCWGRWTWNKbG5aUUZ3eTdPcnVXRTRlbnY0WVZnODBZcFpVWDV0MmxtcE1namlBVUpBalJEd1F4TFpSNVRkSFJLRGJGeHh5T0d3a1JSdHk1YUdHNlBESWY2dnpra3JULXRTQU84U2ZWNThJRzZnV21PckdfcFFURGt5UXlnZ2VCWGczaTU1cWpzRlYwM09CVUpoejhnNElodkkzMU0zdWZYN19mNWNid0I5dUJVcA?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "07/17 20:55",
-        "related": []
-      },
-      {
-        "title": "加密貨幣價格預測：狗狗幣、Pi Network和Bonk – 歐洲收盤綜述 7月17日",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNS2tmeFJZNzh0NnZ6dzZmSjJiSmtOT25tX2kwNFlvYWdsd1lSOHJWS2J5SW5CZjNXNzlDTTh3dGN6QWZfcVc4NHdmci1sU1VjcklMeE53bjQtWUVsdWY0ZVFiVW5CTnlHNWpOcFNmOHZrYnZBY0dpV1BwcExyWnNYWVgyYThlTXMxZ1NKekJxZ2ROYS1GNEN2bmRaWU9zZ1oxbjM4YUtqM09KdnVzVFhpbVVFUzRnR0w4eWktaWQ4Q3o3T0drRTZSVzUydHBtQmZXdmFtUW9QQm8xTlFWdGxQN3Q2Y1p6a0J2N0HSAeoBQVVfeXFMTUtrZnhSWTc4dDZ2enc2ZkoyYkprTk9ubV9pMDRZb2FnbHdZUjhyVktieUluQmYzVzc5Q004d3RjekFmX3FXODR3ZnItbFNVY3JJTHhOd240LVlFbHVmNGVRYlVuQk55RzVqTnBTZjh2a2J2QWNHaVdQcHBMclpzWFlYMmE4ZU1zMWdTSnpCcWdkTmEtRjRDdm5kWllPc2daMW4zOGFLajNPSnZ1c1RYaW1VRVM0Z0dMOHlpLWlkOEN6N09Ha0U2Ulc1MnRwbUJmV3ZhbVFvUEJvMU5RVnRsUDd0NmNaemtCdjdB?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "07/17 20:09",
-        "related": []
+        "title": "BIP 110打包7項比特幣新規則 Saylor示警：恐帶來系統性風險",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQc0g2SUU2RnVZaElPV1FHQUtpZWhtblQ1cTlhbnRmZWJRR0lpTldGVXVBeHpkNGRDdGVmT1JUbjZaNHdIcGdYejdTMEowYzNqRFo2NUtWUHEySno4cjh4SmxpQ1VGX3ctWnVNSzRIaWZtQnQzMW1FWFlUdDNvMjZOWWVTcm5rNHNDRjJhczV1ZGtNQi1YZ3MyUFJMNElvODIxd0M5emdMNThOTzJWZU9SR25zTGxsTDdmaTBpLUhfOVNUbVh4VjZmNTBIUmliOHEtWHZqanVfVVRIYU1WcVh1UV9yNVRzR0tLTmZQSXhJd01tVGhYcWx0Y2NIeVpXRnNudk1MQ0RsWloyaFUxaG5hSFNxS0hTZWJhbFBoNFRSbEw3ZmdZMHhEM2FPLXdobVlhLS1OY3BBUFVpTk5aSEp2OWZ4WHBvdXM5?oc=5",
+        "source": "Yellow.com",
+        "published_hkt": "07/20 03:01",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

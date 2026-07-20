@@ -30,6 +30,7 @@ jobs:
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           prompt: '讀 serenity/_run.md，嚴格照著執行。只改檔，不要自己跑 git，commit 由 workflow 處理。'
+          show_full_output: true    # 暫時：跑穩後可移除,方便在 Actions log 看 agent 每步動作
           claude_args: >-
             --allowedTools "WebSearch,WebFetch,Read,Edit,Write,Glob,Grep"
 

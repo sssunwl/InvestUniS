@@ -83,7 +83,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-20 17:25 HKT",
+      "updated_at": "2026-07-20 17:48 HKT",
       "news": [
         {
           "title": "港股大爆發！傳大陸官方護盤 恒生指數收盤翻升2.36%",
@@ -145,7 +145,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-20 17:25 HKT",
+      "updated_at": "2026-07-20 17:48 HKT",
       "news": [
         {
           "title": "加權指數跌破季線，資金先躲進電機與觀光，接下來看誰能守住強勢-何宇睿",
@@ -157,19 +157,19 @@
           ]
         },
         {
+          "title": "TWA00 加權指數 - 電子股跌😱航空股成為資金的避風港 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MS1ZvdWJKSGhzZDhHb2Jac1N2MnJyTlh3WFJETFlpcTh3dmdOOHNIVEU0YzY4bkdwNW1nbld3Z3ZOX1VENzlpOGhocDlYT1h6M01IYTNBZzk?oc=5",
+          "source": "CMoney",
+          "published_hkt": "07/20 16:56",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
           "title": "台股韭菜遍野！台積電逆勢收漲拉不回、三大法人小買5億元 股民心累：佛系看股",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vS1gzRThLbko4OUZ5OUZvbWlmMHR5ZGljcVV3WVdrTFBJNkstLVhDZFo4SU0zcjJ4YUx3alVGcFZNNXdyZnJMSUk3VQ?oc=5",
           "source": "FTNN 新聞網",
           "published_hkt": "07/20 16:40",
-          "related": [
-            "TSM"
-          ]
-        },
-        {
-          "title": "台股滿地吃草！台積電獲大摩喊2988元目標價逆勢吸金千億奪成交王「這檔晶圓代工」連吞跌停受矚",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LWXJ2QXg5cVMwN25SbWZJOVo1UnhnNUxVSl9sLWdUMVlOaTV0b1Bla3ZRR0c5TGM4THlRUWdSQ2lDNW1DN2RMUVJLRQ?oc=5",
-          "source": "FTNN 新聞網",
-          "published_hkt": "07/20 16:10",
           "related": [
             "TSM"
           ]
@@ -207,7 +207,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-20 17:25 HKT",
+      "updated_at": "2026-07-20 17:48 HKT",
       "news": [
         {
           "title": "不看美股先看韓國？韓股成全球AI晶片風向球 交易員24小時盯盤",
@@ -234,8 +234,18 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-20 17:25 HKT",
+    "updated_at": "2026-07-20 17:48 HKT",
     "news": [
+      {
+        "title": "美伊局勢惡化！以太坊逆勢展現多頭結構，有望繼續跑贏比特幣",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMUR4Skcza0kxWFljcktreVBWQzZUVkNoUmd4SHp3Y3FXcXlsNG1qU3VfWTdJd1NjTVlxejRKUXg1NEZJTVV1UTJPeGVpMXlLbldyUWNfSnpjZ3BCUC1XQkNkOHh2STNiVVk5cXRzcjhwb1BBS21Gck5iTWdfakdvcEZDRW5SQkNfYlg3WXdpNEM3VFRERXJheW1FVlRxQnphX1dUSHpNN2E1eFNPOHRuMVhXTUVBOHhRN3N6ZUNZblJRT3plM3Vqbg?oc=5",
+        "source": "TradingKey",
+        "published_hkt": "07/20 17:28",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
       {
         "title": "LayerZero在2500萬代幣解鎖之際面臨25%的下行風險",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVGpYN3hDcGRiRGRJNEZBcXJxVS1QVXV1Z1RZNXFTNnl2ZHJMNk8yODhqOTJ2MURWeGFkOE5SR3dmX3JvOUUxdXhqZ255VWtjeW5LOGdJbWM2ZUNla2UzMVZSY05EdHYtOEVGbWRmRDRub0lnWHVQUW5TVjZ0TVNLU3J0S1BkWExlV3ZNSGo5NmQ5TllZT2lNMHhxTk9RaURJVUx1QWtRSjQ1QXNvVFhZTEpKME5OcnVwSUtaRE9GYkppUE9WNkpKRHJxYVI2NDJsal82VWo2TFNpeGllSHBSUTZoZ3duQdIB5gFBVV95cUxPVGpYN3hDcGRiRGRJNEZBcXJxVS1QVXV1Z1RZNXFTNnl2ZHJMNk8yODhqOTJ2MURWeGFkOE5SR3dmX3JvOUUxdXhqZ255VWtjeW5LOGdJbWM2ZUNla2UzMVZSY05EdHYtOEVGbWRmRDRub0lnWHVQUW5TVjZ0TVNLU3J0S1BkWExlV3ZNSGo5NmQ5TllZT2lNMHhxTk9RaURJVUx1QWtRSjQ1QXNvVFhZTEpKME5OcnVwSUtaRE9GYkppUE9WNkpKRHJxYVI2NDJsal82VWo2TFNpeGllSHBSUTZoZ3duQQ?oc=5",
@@ -251,13 +261,6 @@
         "related": [
           "BTC"
         ]
-      },
-      {
-        "title": "Cardano 的 Van Rossem 硬分叉升級能否重新點燃 ADA 的上揚？",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeHp4RHhXcmxCTDB6S3B3akR1WmlQV2tMNnBQOWJkV0tFbGx3ZHRiRXAxRWlmeHRpcjA3MkN3SV94VHcxLWZkMDhNaDhwZy04TmQ5TFh2MU4tRVQybVAtSG5wWHF6Z2FOZUlRZk5CbG1UWUZQSHRPWWNzR1F2TGpRd214dFRTeGFIM2J6NkhsZkRlTVNncHdMV0dJV2NtSk1kQ1VxWW1Cc1JHV1VmZnpvWTNuRlJuVWFieVlBMXRYd24xZTVwTjVWX3VxNC1XaHVzcHc5eGNLcEplSTFwbWRJ0gHfAUFVX3lxTFB4enhEeFdybEJMMHpLcHdqRHVaaVBXa0w2cFA5YmRXS0VsbHdkdGJFcDFFaWZ4dGlyMDcyQ3dJX3hUdzEtZmQwOE1oOHBnLThOZDlMWHYxTi1FVDJtUC1IbnBYcXpnYU5lSVFmTkJsbVRZRlBIdE9ZY3NHUXZMalF3bXh0VFN4YUgzYno2SGxmRGVNU2dwd0xXR0lXY21KTWRDVXFZbUJzUkdXVWZmem9ZM25GUm5VYWJ5WUExdFh3bjFlNXBONVZfdXE0LVdodXNwdzl4Y0twSmVJMXBtZEk?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "07/20 13:50",
-        "related": []
       }
     ]
   }

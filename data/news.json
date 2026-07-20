@@ -27,27 +27,27 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-20 08:59 HKT",
+      "updated_at": "2026-07-20 12:23 HKT",
       "news": [
         {
-          "title": "半導體拋售後 AI 支出受關注 美股財報季考驗科技股前景",
-          "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNQVpWbmFrcmpsMEJFcHBpQnZVVl9ZTG5wekJ1c1ZHWFBZVHNyUnNIRlpVQTNBQ0hQNmw5QjdlQmlLM1c1UXhSYWkzMXB5UVZBR3Y1T1p6cHMwdzVMQXJ2QzdjWm9iUUx3d1gxVFdsMzQxcFpnZjk0M29oN0JoUkJUMzVBTFA5eWRfdXNnS0d4YUVYdGM3cF9KYkFQeFI1QW03ZHAwZDhCV3A2bWVmUnFSSERVbHoyVWdDazRXREJlRWJxYUhhS1R3XzRjdmM0WEp4NVZvV3lqRnRBNmZXTEFaMTduRVBPQWJYTEthZDBLOWRudkIwVTNuYVUtb0NvODZxaGp2NUxHbDZVMWpVc1ktRTU3WGM3LWpEMVRtOUlEWVA4NlktbjFINjNDVGJtclduN2JnakFlZG1iUUZCS3J5OVdJdFA2RXBROVotNjhqWElodG42dl9SdXk5V09jQlRuT3lNX0JwZEFkOGR0dHJMU0xRQ3BPQ0RIQU9xeU9B?oc=5",
-          "source": "商傳媒",
-          "published_hkt": "07/20 08:43",
-          "related": []
-        },
-        {
-          "title": "AI牛市結束了嗎？市場充滿疑慮 野村列四種潛在拐點：定價混亂 市場觀望氣氛濃",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wM2wwcEhrZk4zYllqWTF4RW9WTF9mMHdvY1gzTzVpWUEzLTBid3N6ZXNxTmZCVXE0ekNRWHlwd3RZRWlMZ3gtalBuNmlLYzA?oc=5",
+          "title": "市場代勞Fed「升息」！美債殖利率大漲成華許緊縮新武器？",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50dG5oVEFmdGVxaDV2ampJYjNUeENBbGlqdFJ5bF9WWi1jUS1DZjliaWdPWHhMR25zLXBRMkFkNVN0SF9HRFBIdVUxZ0VFTzg?oc=5",
           "source": "news.cnyes.com",
-          "published_hkt": "07/20 08:05",
+          "published_hkt": "07/20 12:04",
           "related": []
         },
         {
-          "title": "SK海力士美股溢價創紀錄 AI需求狂飆推升記憶體晶片龍頭價值",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5MMW9LT3hfVmtYRWU3RmRCQkFYZUZPS2gwOEl1T1g1ZjYtX1JnUVQzSkNPbjcyTkJDNVlDa18wbkhXdw?oc=5",
-          "source": "墨新聞-MORE News",
-          "published_hkt": "07/20 07:54",
+          "title": "電力博弈：AI電力——下一個美股超級週期",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYnhGR21SaEQzeFRsc1NDTFFFWGdrbk5CQ0hmZGgyb1lfaTZVdWlHSnliOXJ1VU16SURQd0hLRy04M0NEYzZRdGUzNVVIWTdsQ1NwSUtnWkRjRm4wMkdRSnVWNVpEbzZ5eWM5SVh6TEQ2dElDTmc2UVpwT1BQejRWMml1eGhuSlhBOXN3aF9Kbm9YOGYtVGNrOVVwc214TURmeTVvcVZqQjBlVEJsVTczQUZfYms?oc=5",
+          "source": "Moomoo",
+          "published_hkt": "07/20 10:09",
+          "related": []
+        },
+        {
+          "title": "早盤綜述 | 美股下跌，科技巨頭拋售拖累市場；世邦魏理仕將房地產銷售預測上調至$600億",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVS13V2hRdEc2b2dhUkhnd3lCRjlRenFlOU5rM2RUSGJaek80MlN0Y2lHWm94ajg1T1k5ZXRzTXN6U0tlbFlFU2E0MTBLWXRucVQ4SkNZMVlSY2VOVUVaMWphNlJqc1FMNVYtVFRfUUFnLUxCb0s0bS1QYUdhbDQ5ZkVwZ3lLWl82S3Y4NTF0UjBydWZJWUd1bXBTRXVpX0lRdDJvQWY2ek9oV1k?oc=5",
+          "source": "Moomoo",
+          "published_hkt": "07/20 09:10",
           "related": []
         }
       ]
@@ -240,32 +240,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-20 08:59 HKT",
+    "updated_at": "2026-07-20 12:23 HKT",
     "news": [
       {
-        "title": "美國初領失業金意外續降 勞動市場強勁恐延後聯準會降息",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45MlhSTVZDeVJnbFdBZHJWYzlDZ1hSV1Z3M0dta3RXSmlncVNzd0l5YmhlRkNwOWt1ajdXRU5aWjFaT0dXdXFlUk5ONXkyc3FuRkE?oc=5",
-        "source": "蕃新聞",
-        "published_hkt": "07/20 05:08",
+        "title": "比特幣不漲也能撐29年股息? 前高盛信貸老將稱Strategy(MSTR.US)優先股潛藏13%修復空間作者智通財經",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vcXBMR2Y2UlZhOGdiZnUwZkJ6TnRIaHVqakpDSWdrOWRGa21VTjVCWHRKNUozVDBvVjJLQTc0S1RLT0JaX2Q3WGJmczVaZU9PWmNxSGhzYk5ZSE5jc1ZiWmFtYTZsUV9RZlYwdldybDI?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "07/20 11:48",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "WINGIT 今日價格：台灣的 WINGIT 兌 TWD 實時價格圖表和市場數據",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92UUR3LUZVeExoSWMxRWlDbU5fT2s0ZlRvMGpiNDB5eWdiQVczdXFHdUc2YmZiNkNXbVdTbVg5S0RtNU5aZmhJLUl6VmFRYnFf?oc=5",
+        "source": "MEXC",
+        "published_hkt": "07/20 10:55",
         "related": []
       },
       {
-        "title": "BIP 110 打包七項比特幣規則 Saylor 警告風險高企",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZHRlM053ckU2UHJYVFFYTF94WmJvakUyTDI4VFVoS2s4TUJvMlY2TVNneTdLUUNHbmltYlQ3em9yYVMzem9NTTlvY3lSV0lYalZ4amtrNjJxV0duTHc3SjI1YWh3T3hHVG1TbzRScnk0QXk2dXotQnY3TVZSTjBxQmdpb3lKN25ILVNOVDJYV0VHWW9FU3VmRnZMQUx5S2hPZmlmVmxUdjZBSURRY2NFUHFlaE1aa0oteVNCZm05dXNPaXFNRl83dWJZSmZ2b2xTZVMtc0hoNmQ0TTl2bC1aaDlvTGtqRURvVl9pVGdUa1d3WHBoaHMtVURvelNXSENPdnY0ZjZWMS1FdHJnQXc?oc=5",
-        "source": "Yellow.com",
-        "published_hkt": "07/20 03:02",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "BIP 110打包7項比特幣新規則 Saylor示警：恐帶來系統性風險",
-        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQc0g2SUU2RnVZaElPV1FHQUtpZWhtblQ1cTlhbnRmZWJRR0lpTldGVXVBeHpkNGRDdGVmT1JUbjZaNHdIcGdYejdTMEowYzNqRFo2NUtWUHEySno4cjh4SmxpQ1VGX3ctWnVNSzRIaWZtQnQzMW1FWFlUdDNvMjZOWWVTcm5rNHNDRjJhczV1ZGtNQi1YZ3MyUFJMNElvODIxd0M5emdMNThOTzJWZU9SR25zTGxsTDdmaTBpLUhfOVNUbVh4VjZmNTBIUmliOHEtWHZqanVfVVRIYU1WcVh1UV9yNVRzR0tLTmZQSXhJd01tVGhYcWx0Y2NIeVpXRnNudk1MQ0RsWloyaFUxaG5hSFNxS0hTZWJhbFBoNFRSbEw3ZmdZMHhEM2FPLXdobVlhLS1OY3BBUFVpTk5aSEp2OWZ4WHBvdXM5?oc=5",
-        "source": "Yellow.com",
-        "published_hkt": "07/20 03:01",
-        "related": [
-          "BTC"
-        ]
+        "title": "easyMarkets易信：歐洲央行決議、油價飆升與科技巨頭財報齊至：全球市場迎來方向選擇周",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WemlwdWNJWWYzZGdIMktSYm5xMGFGUWxYMTJVQ1I4WGFMeTFfYnRHTlFHRy1LUkw0cGhBQXZzclU5U3VCbXltV2FPUm94LVRyY2JXVU9PdURTRXBaaVJwSEhkek0?oc=5",
+        "source": "TradingView",
+        "published_hkt": "07/20 10:36",
+        "related": []
       }
     ]
   }

@@ -77,7 +77,28 @@
 - `git add index.html research-log/serenity-log.md`（若有新增區塊也一併 add）。
 - `git commit`,message 簡述本週三鏈重點,例:`研究週更:AI算力CoWoS瓶頸持續/電力散熱GEV積壓/加密穩定幣軌道`。
 - `git push` 到當前分支（workflow 跑在 `main`,直接推 `origin main`）。**SS 已授權此範圍自動推送,不需再問確認。**
-- 最後用一段話（Sterling 語氣）總結本次三條鏈各做了什麼變動,或說明為何某鏈無變動。
+
+## Discord 週報摘要（本次新增,務必做）
+
+把本週摘要寫進 **`research-log/.last-summary.txt`**（純文字,workflow 會自動推到 Discord #n-investunis)。**這個檔不要 `git add`**（已在 .gitignore）。內容用 Sterling 語氣,精簡在 ~1500 字內:
+
+```
+🧭 Serenity 產業鏈週更 — YYYY-MM-DD（Sterling）
+
+🧠 AI 算力：<當週咽喉一句 + 優先標的 + 相較上週變化>
+⚡ 電力/散熱：<同上>
+🪙 加密價值捕獲：<同上>
+
+📊 一句話總結本週三鏈最值得注意的一點。
+🔗 詳見網站產業鏈頁（若知道公開網址就附上）。
+※ 教育性投資研究,非投資建議。
+```
+
+若某鏈本週無實質變化或研究失敗,照實寫「無實質變化」/「本週資料不足,維持上週」。
+
+## 最後
+
+用一段話（Sterling 語氣）總結本次三條鏈各做了什麼變動,或說明為何某鏈無變動。
 
 ## 硬限制
 

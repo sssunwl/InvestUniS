@@ -30,3 +30,21 @@ jobs:
           prompt: '讀 serenity/_run.md，嚴格照著執行。'
           claude_args: >-
             --allowedTools "WebSearch,WebFetch,Read,Edit,Glob,Grep,Bash(git:*)"
+
+      # Sterling 會把當週摘要寫進 research-log/.last-summary.txt（不 commit），這裡推去 Discord #n-investunis
+      - name: 推 Discord 週報摘要
+        if: success()
+        env:
+          DISCORD_WEBHOOK_INVESTUNIS: ${{ secrets.DISCORD_WEBHOOK_INVESTUNIS }}
+        run: |
+          python3 -c "import sys,os; sys.path.insert(0,'scripts'); from _discord import notify_discord; \
+          f='research-log/.last-summary.txt'; \
+          notify_discord(open(f,encoding='utf-8').read() if os.path.exists(f) else '⚠️ Serenity 週更跑完但找不到摘要檔,請查網站產業鏈頁有無更新')"
+
+      - name: 失敗通知 Discord
+        if: failure()
+        env:
+          DISCORD_WEBHOOK_INVESTUNIS: ${{ secrets.DISCORD_WEBHOOK_INVESTUNIS }}
+        run: |
+          python3 -c "import sys; sys.path.insert(0,'scripts'); from _discord import notify_discord; \
+          notify_discord('❌ Serenity 週更研究 workflow 失敗,請查 GitHub Actions log')"

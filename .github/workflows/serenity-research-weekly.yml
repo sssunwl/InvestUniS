@@ -1,0 +1,50 @@
+name: Serenity Weekly Research (Sterling)
+
+on:
+  workflow_dispatch:        # 允許手動觸發（首次跑 / 測試用）
+  schedule:
+    # 00:00 UTC 週一 = 台灣時間 週一 08:00
+    - cron: '0 0 * * 1'
+
+permissions:
+  contents: write           # Sterling 要 commit + push 回 repo（Sona 只讀 Sheet 所以是 read，這裡不同）
+  id-token: write           # claude-code-action 的 OIDC token 交換需要
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      TZ: Asia/Taipei        # log 的「今天」用台灣時間
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0     # 確保能 git pull / push
+
+      - name: Serenity 週更研究（Sterling / Claude Code）
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: '讀 serenity/_run.md，嚴格照著執行。'
+          claude_args: >-
+            --allowedTools "WebSearch,WebFetch,Read,Edit,Glob,Grep,Bash(git:*)"
+
+      # Sterling 會把當週摘要寫進 research-log/.last-summary.txt（不 commit），這裡推去 Discord #n-investunis
+      - name: 推 Discord 週報摘要
+        if: success()
+        env:
+          DISCORD_WEBHOOK_INVESTUNIS: ${{ secrets.DISCORD_WEBHOOK_INVESTUNIS }}
+        run: |
+          python3 -c "import sys,os; sys.path.insert(0,'scripts'); from _discord import notify_discord; \
+          f='research-log/.last-summary.txt'; \
+          notify_discord(open(f,encoding='utf-8').read() if os.path.exists(f) else '⚠️ Serenity 週更跑完但找不到摘要檔,請查網站產業鏈頁有無更新')"
+
+      - name: 失敗通知 Discord
+        if: failure()
+        env:
+          DISCORD_WEBHOOK_INVESTUNIS: ${{ secrets.DISCORD_WEBHOOK_INVESTUNIS }}
+        run: |
+          python3 -c "import sys; sys.path.insert(0,'scripts'); from _discord import notify_discord; \
+          notify_discord('❌ Serenity 週更研究 workflow 失敗,請查 GitHub Actions log')"

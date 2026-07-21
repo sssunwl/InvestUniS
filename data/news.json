@@ -83,31 +83,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-21 16:37 HKT",
+      "updated_at": "2026-07-21 17:21 HKT",
       "news": [
         {
-          "title": "恒指跌10點 滙控低收 聯想集團、中芯齊漲逾8%",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVDczRnJtZUttT0xFbmFISE84b05zWlVDaUxLS3lDOXNfcTFXUmhZYmlGclBtMXRxWGpkQ2JGbG5LUS1zM0hER3B2bnFtbGlmNk11QV9jdFo1OXduZ1FHbVNEOEc5bU5jSklvMjFNXzJnVHlNX0M2enZMZzVPSTBZZl9zeS1vUHVhemVR?oc=5",
-          "source": "on.cc東網",
-          "published_hkt": "07/21 16:26",
+          "title": "港股收盤微跌10點市場預期官方護盤短期勢穩| 陸港經貿| 兩岸",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtM09aUElwc0UyTHBGaVFaVXhWTDR6YzhmMnJ1TmNiR0g0a2o3eldfNVVoOW5RZlNTT2ppNElYLW1mRlRIeXItQzVfUVVHWHZfaDVLczdzR3RtMXplNnlyWWh5NGIyRC1qeENBSGE5WWJGa3ZnX1dMMUtOMA?oc=5",
+          "source": "UDN",
+          "published_hkt": "07/21 17:14",
+          "related": []
+        },
+        {
+          "title": "新时空丨港股收盘：三大指数涨跌不一、恒指微跌0.04%，半导体、造纸与包装等题材涨幅居前",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qeGU0OUZzUTl5cDNsaktKbnNPNjEzYUNhSWNuZGpUVTVLdE1QZVhKTF9pZEl0LWhmY2lzUzBLTkxSVVR6Mk1YZmtaZVFOT2tXd0Yydy1QMDRHSDFhYmUtM250emxxZw?oc=5",
+          "source": "FX168",
+          "published_hkt": "07/21 16:52",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "【港股收市】恒指反覆跌10點中芯國際升逾8% 智譜大升近37%、MINIMAX彈15% 兩桶油跌1%（不斷更新）",
-          "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxOLUxLZkFjRVBiZWtuTW5SZEtPSm1lTDcxMVEzb3A5Y1RxWHoyVllpdTFZRXlJelBRMWR3anBldGhSQ1R1el9TUUtaajBEZmJfRjRlSklPbVNDTFp5WGREYlZPUWsyU3J6NDlQS3BLMnJXem83bHp4LTBRV1p2cGtjYUV2YmI4Wm9QcnU0eEFIZW92NHJFZk9kV3I1TFJiQ2U5OGpHM0psV211bjV4dWx6dDAwOEY1QVhzX2Y2RjBVY0NSY0VpLUNJRXdxRU42LTlwbjVSM2RFMTNhSTdJUjhGSDd2RXpHbUU3UTRURFAtTmNSNDZadWstWkRFbE9xV2xhWkdCRWkzdXZJNW8yaWloZnhDbDR6c0lsZG5rVW9IcWh2ZF9UbnQ1bXpVMlAwQS1lZGt3ZndVZUJNVE4zN1NnYmNaUFJmemhZWFFBRkZYRzdFWWZwOVVaQVFycEYwdFBCUGkycXJLVGdpMUNkd19UNjdmLWJ5ZUlKMFlTY3ZGR0VXdFVuTFA5TWsyZ001R1hac1VweVMtcGZxc1lRbURnaWR3b3BzLWVuaTN6bl9aTkpFM0dCeGJXdXh6ckFCa3pBOTJKUmlEMlRVRjh0OXpGT1JOZ0ZPVExkSGhYLURhMUVtYjVMdDZUYXlJRFpEckluaTVSN2JZRGQyajFQMl9CUzhKc0ZsOHU0VE9LUklBcmplYVZyYXlrWGJJbWVSUTN2R1Z6NllyV2xUaktLVExmTUZMSUk5WGYydUtrZk43TQ?oc=5",
-          "source": "香港經濟日報HKET",
-          "published_hkt": "07/21 16:10",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "【港股市況】恒指午後反覆向好中芯國際升一成、聯想升逾8% 智譜大升四成滙豐跌1%（不斷更新）",
-          "url": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxQTjU0WmwzOGdqVHJkbGlxWEw3VkFoUDRPd3YwUjhGZmVEel90d3MtbVRhZEhNQ2Vrcnh2RXprUmIxRWtjWmptRWdGSGlrOERvOVFjc0xUYWFZcGN5V0c5M3M5d21sdmlFWmtWb09LSFZTaGdaM203TlVQQUU3WjVpTXNrN2Y2UFkwZk5FTEI0SWZ1OGN4RWUwV3VkbVZvN3k4cWc4d0xFOEtxY3RhTGJLSU55ekVrRVVsZldkRFNpX0ExbWozV0xBamd2SFRKdGlDODh1eThPeHhSWHh5bF9HRjhJU29JN3lDUjd6eG9jS3lGVWtES2swZUt0TE5JODFXc1JmcVFHdlphUFRoRUZjZkkyWWhsMzVCTW56N3JZUTBWaS1PM1R2UkFodXF3X1lwT0llX3REaVVIU3pEcnBzZEt5RFdpVmhUODVFOURYVmo4dmhJUmotQllTLUJLbG5nelZFaWg2a24tc0IteVJTdVVXM2pjdWNhQW50U25EaGU1N3RjR3hsMjBodERCZEx0Q3V0UGhsNW5WYW1MVU1KSWN1V0F3aHhqa3NqbVlteTNFRGdFN2JGd1g5RWJjcGd0dW5QQmVRVGtpMTF0Z1lrcmg4LUJKR0dtR0RuME5hSGZUV2I2ZjJfMkVqdTdNczFIUV9SOENVTFQ2ZE5rMFBWelBMc0V0NW5PWXRlQVp4cXp6TUQwNlItblRfZVp4ME9DMFJETWRyUjc5ZlprYm01T1J6ZWNKNVdRcDA2ZGVDTFFXWkRBRmhIajI0aXh3VmZIcVhWRmdmbG5vd1VqdlBPUzUtRW15TTdaNzhSOGFzQkJwQzA?oc=5",
-          "source": "香港經濟日報HKET",
-          "published_hkt": "07/21 14:54",
+          "title": "恒指走勢丨全日回吐10點 智譜大反彈37%",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kbUYyeVVrdXV3WmpXZmhaMjMyODcyb2JpakQzdVFZRTBUdTFYT1Z4Q2Vmdm4yRzI1WVpfUlFab09uOHJLTUN4S3dhR1c5NjAtTWRMU1hKd0tGYXdKSkxmV0U5b0ZYSEktQXBmMHZoUQ?oc=5",
+          "source": "信報網站",
+          "published_hkt": "07/21 16:47",
           "related": [
             "^HSI"
           ]
@@ -145,29 +143,27 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-21 16:37 HKT",
+      "updated_at": "2026-07-21 17:21 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數- 中聯油品19批獲准上架，經部協調3廠增產- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OLUlHNkhzTXlkQnNZX1BOVzZUS05TaHhweDlvTV95WnpVbzFDWGxrYkV5Q01VMXltNWdxRFY4ZlVKeEdBNUZqMWVQVldHYV9NbnI3M3ZoYlg?oc=5",
-          "source": "CMoney",
-          "published_hkt": "07/21 16:06",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "台股狂飆1783點，全球資金在極端震盪中尋找「新平衡」",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aTzNWdkdlWDgwOEl0aWstVE11NWQtVGg3TmdCS3Zsd2JObkJySFNjSWlob3U3cFVKcktKSGx5S2ZJclZadmMxNXBydlVTNS1WU0E?oc=5",
+          "title": "台股大復活！權王甩尾、聯發科漲停！大盤狂飆1783 點創史上最大收盤漲點成功奪回季線與44000 大關",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04QmdWX2pVUWdPUzM2R2Ytc01YNllQX2R5UXA0WmNoWkhnQTI4VUlUejZBNUhkNlBHWDJBdHVEWHVhc0pDTEg3NWFOMTRSbjVaRUE?oc=5",
           "source": "蕃新聞",
-          "published_hkt": "07/21 16:01",
+          "published_hkt": "07/21 17:01",
           "related": []
         },
         {
-          "title": "TWA00 加權指數- 今日大盤籌碼- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBONEx6TUdDRHdpWDI1RnVCYk05VkswQ1g1VVE2OGpndTRNS0RVVEFaWC1jSGJEZEVIV29vbS1TZF9yaUlRRDBnSWxnQkpBb1gzRUNCWW8ybDI?oc=5",
-          "source": "CMoney",
-          "published_hkt": "07/21 15:18",
+          "title": "台股暴漲 1783 點創史上最大！法人：韓股熔斷兩大因素「非景氣警訊」",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fNmRPbGNieHlOYkdFb1J2NjA2cnlSZC1rZ0VfenZvSF84ODdGSlpEWWtCaXV4RUJPWXB2VHJCaE0tVklHU1FRUVBveGdHLU5uVTRiazhkQVYwdTFTRFdiSE1WS2syN0JVbmh4eTFR?oc=5",
+          "source": "TechNews 科技新報",
+          "published_hkt": "07/21 16:46",
+          "related": []
+        },
+        {
+          "title": "《台股重要指標（3-2）》加權指數 9日Ｋ值為32.28，9日Ｄ值為32.09",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObGlfNlBQUUQ4VmZRLWREMTY1bEl6ZUdZWDJNdzl6alk5NmNBRC1qSXRZZlhTNDk0Z2hxdGctOW1CSHJqSzMtcWk5Yk9KaWMzUkRTMlJYRG10UVFTSkxlV3NVeU9nSWd5RG5rR2hwUzdQbHBhUFU3MzB1a2xDSUdSa3dkYUJYYVMz?oc=5",
+          "source": "富聯網",
+          "published_hkt": "07/21 16:32",
           "related": [
             "^TWII"
           ]
@@ -205,7 +201,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-21 16:37 HKT",
+      "updated_at": "2026-07-21 17:21 HKT",
       "news": [
         {
           "title": "台股狂飆1783點，全球資金在極端震盪中尋找「新平衡」",
@@ -222,10 +218,10 @@
           "related": []
         },
         {
-          "title": "美科技股回彈激勵亞股 日經指數收漲逾2000點",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UMUY2QjhmMHVNaGpKZGJuVnRVR2kzYjNqLXJ4YjVfMllZazdSTUtLOHloZlhVNjlqTFJEaW96NmEzSl9rcEZRTjRYdXY4anZFMkNUMG00RFZtVDJJS2lPbWVjdThHTnJlTk1BSllRUFQ4Q0oxdnFjV2RiUDF6am8?oc=5",
-          "source": "UDN",
-          "published_hkt": "07/21 15:24",
+          "title": "《日股》日經反彈3.26% 寄望科技股業績表現- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhaHIzakhqWUFKbTN0R2VRU1NUdFNiQldSRmpWc2Z6eHNqNklJd0hxUW9UQWphX3VXdWJuckp3aElsVWtsclVXSExISk9KZ1R5bTNnSmVMVmtIS2o1NFlV?oc=5",
+          "source": "工商時報",
+          "published_hkt": "07/21 15:46",
           "related": [
             "^N225"
           ]
@@ -234,17 +230,8 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-21 16:37 HKT",
+    "updated_at": "2026-07-21 17:21 HKT",
     "news": [
-      {
-        "title": "主要加密貨幣行情，比特幣升0.78% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ3NJdmxGZERkdW9OQWNYS01hcjBjY2lxS25ybmtINlNlbmMwS3JSbVRoVWhyQkdlRmg4S0lTS2NMdThUTmZ3QXg0NWMyS05iaWRlM1NDejlXemZ4d2Y0SVMtNnNueFdQZWV4SFlFanRoVlFtY1dNZU1WbW51Q0pxbnJscDA5MHh0eHBxSndld1NIRWhrWGEzckxJVGxGSmtT?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "07/21 15:33",
-        "related": [
-          "BTC"
-        ]
-      },
       {
         "title": "以太幣(ETHUSD)7月21日突然上漲1.15%：市場行情在交易什麼？",
         "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOalNUQnpYTkN4YjhSb0tfTWFwaVhhTXZYRlhNRTBUa2RxWUk4Wml3MzczUF9DbkxyS3hCQXh0U0lUcm9oeHctWm14djZoeXQ3Rk15d05hZkZwTEN6aTBOczR5c1Uya1ZjOEdBMEFaZEpPM0hsZm16bDNDRExTNWliaGlVakhJS0czZktmRXpDN0o2QjM1b1N3MWRkb1cxajB4V0hzMk8wOEJWbFUwS0hIWS1iMEdMUkZLXzlMd3ZoWUJQS2pEa0VIZkloYlYwRG15cHdXWk5FZnU4OE1pM1I1b3NmZVR1SUVuczdnelVJNEFfMFJRaFJGR2JKMkhiYV9pYnNDdEpHRWpsVDMwX19hMEVROFBIR0xPcy1OUjAxNzlnMUVPb1NLMU5KTmE3Y1hQY0dqenRIZGVOUllxb1ZZd3B0MHJyLXhsdGd5QURTVWVZLTg?oc=5",
@@ -260,6 +247,13 @@
         "related": [
           "BTC"
         ]
+      },
+      {
+        "title": "加密貨幣強勢反彈！BTC攻破6.5萬美元，ETH站上1,900美元大關",
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNQWhLTDdyQ3R5WGRfVjlFZS1jakppOHY0RHdnTkpuLTdySFg1WVI1TFZQa09qRlA5ZGQ4U0xDLVF5cnFUcFhNTW1tUXc4bmZIS05VSGJhUkFvTWNPVDR5X01rQlZsVk1ObWRlOThYd0ZIbXZMS1ZSOFBOOFZMbFk0NkhqNUdkXzh4VUhGM0lYU2g5RVZBVFRfTkpmUmxPM1NMaVNDSlBPWnM5QkIzMUt6MXVxREpjOEs2NEtkS3FveDZMMEtPbm12R2ljc3JLN2RXcHp6TGFsOG1rTFFMdjJjbDVKUS1rN0NiVExPUUJ6THY3U0VVZzJfTlotdUphS1RsTnlxZUZENHJnV2Z2LWFFUUEwZVY5WHpKaFRBd0w3cFI5b1YxY2wyeEpqWU90LWVxUXVpclFsbU1LdHFMblliWm5Hd3N3WTJPMjItTTQwWU8wWTQ?oc=5",
+        "source": "HK MoneyClub",
+        "published_hkt": "07/21 11:37",
+        "related": []
       }
     ]
   }

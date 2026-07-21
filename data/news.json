@@ -27,32 +27,28 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-21 08:56 HKT",
+      "updated_at": "2026-07-21 11:57 HKT",
       "news": [
         {
-          "title": "美股：特斯拉加碼德國擴產布局歐洲，市場聚焦交付成效與獲利，股價收跌2.96%",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY0xlVC03WE04bGRFSWtnREdhTHlFWGE2c2hfcy1CU1VhUTFhUEtrQ00waDA4WGtJMVhnRURPUUUwZy1DWFBaU2k1LS1ITV9NT0xENEwxZVQyZzlhM2VadnVod3VtRVRqb2l4RUFJSVc3TGF5Q19waDNBUTFmSjZCa3FrOUdlVURw?oc=5",
-          "source": "富聯網",
-          "published_hkt": "07/21 08:47",
-          "related": [
-            "TSLA"
-          ]
-        },
-        {
-          "title": "Kimi K3掀AI市場震盪 彭博：SK海力士、三星等記憶體廠可望受惠",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52a005UUktOUhVbDlLdnppeEF1aEdMRGlfZTB1NHlnVWJ2YmhZanRsd3RRbUZFRk04Z2FUV0x5eTl2ak9HWGw3VTN6QW1IRVU?oc=5",
+          "title": "別再盲追「科技七巨頭」？策略師：AI新贏家正改寫市場版圖",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlRi15Zno5MmNva3ZKTzN0NTZzX25OMEU2RHNrVWhqWjlRMjUtOVlnTVdES1pXbGVodk9PaHY3R3htSFA3WFhJQzFFM3czakE?oc=5",
           "source": "news.cnyes.com",
-          "published_hkt": "07/21 08:10",
+          "published_hkt": "07/21 11:20",
           "related": []
         },
         {
-          "title": "市場聚焦科技股財報週登場 美股道瓊跌307點、台積電ADR漲近1％ | Newtalk",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51WmJDUUF4dUNiTlBSYzhOTHFsb2QxM19qLUc4LURYYzFqWGR4ZHVZSERnR0pQQ1c5N2h6dnpvaUFTVFIwWEhoZU1SS2NDcGVRZHJONFFn?oc=5",
-          "source": "LINE TODAY",
-          "published_hkt": "07/21 07:46",
-          "related": [
-            "TSM"
-          ]
+          "title": "Fed政策路徑不明！美貨幣市場基金集體「縮久期」 8兆美元資金搶進超短期資產避險",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uWUVIZ05QNllQU2g1RHNMX0w3TmdJcVRjMTRfQnJEUXRfbXJzY3VKeVB4N001djlBekQ1Ri1hMUxVQ3E2MXM5VHN6ZTBPSkk?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "07/21 11:00",
+          "related": []
+        },
+        {
+          "title": "恐慌訊號出現？高盛警告：AI信用風險已開始向更廣泛市場擴散",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jU0hvZG9LcGVzNnM3aGFsN1pGWGpsZzUwUnp1X2NJdVhibF9Qb1F1MElXVTZmTHRTTVUtSzJtZGlvbzU1QzJsem5SSjkxNlU?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "07/21 09:41",
+          "related": []
         }
       ]
     }
@@ -236,34 +232,28 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-21 08:56 HKT",
+    "updated_at": "2026-07-21 11:57 HKT",
     "news": [
       {
-        "title": "川普誓言報復伊朗推升油價，比特幣逆勢站上 65K",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Ldko3NVF0Y3BsN3VYSHJDZGpiZzlINWtSN0pUZlNYaS1XM1hGRThvZjJhc2o4Y1dIMjJMcWVlZm9NMVlYR3BfNjh6ZTRpSDhXSlY2dVVKazJIWmlJSTJtMGlNRQ?oc=5",
-        "source": "鏈新聞 ABMedia",
-        "published_hkt": "07/21 07:20",
-        "related": [
-          "BTC"
-        ]
+        "title": "加密貨幣強勢反彈！BTC攻破6.5萬美元，ETH站上1,900美元大關",
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNQWhLTDdyQ3R5WGRfVjlFZS1jakppOHY0RHdnTkpuLTdySFg1WVI1TFZQa09qRlA5ZGQ4U0xDLVF5cnFUcFhNTW1tUXc4bmZIS05VSGJhUkFvTWNPVDR5X01rQlZsVk1ObWRlOThYd0ZIbXZMS1ZSOFBOOFZMbFk0NkhqNUdkXzh4VUhGM0lYU2g5RVZBVFRfTkpmUmxPM1NMaVNDSlBPWnM5QkIzMUt6MXVxREpjOEs2NEtkS3FveDZMMEtPbm12R2ljc3JLN2RXcHp6TGFsOG1rTFFMdjJjbDVKUS1rN0NiVExPUUJ6THY3U0VVZzJfTlotdUphS1RsTnlxZUZENHJnV2Z2LWFFUUEwZVY5WHpKaFRBd0w3cFI5b1YxY2wyeEpqWU90LWVxUXVpclFsbU1LdHFMblliWm5Hd3N3WTJPMjItTTQwWU8wWTQ?oc=5",
+        "source": "HK MoneyClub",
+        "published_hkt": "07/21 11:37",
+        "related": []
       },
       {
-        "title": "比特幣攀升至65,000美元上方，儘管宏觀風險上升，ETF資金流入仍在恢復",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUkxzenZObWFpY3U1andoRU96eTVEeGNYbGJRdnNRZ0JNSTNUV3FXYjZIcVo4Z001dkRac2FfTk9mYjVGMmxhMTZXNXZwT2d5a0R1RmVTSWJjN2xnaWM1S2gxMFdaS1hMVVBVLThYNzFNM0JnMEVqVmhsUF85QVJ6eEkyNWp1YU84Vjl2dGVmWXRvU2pGS1BHcUVpTXRnTkZnZjFsSnN4YXFrWmY5OEpWX2M1ZVN3ZzhIaTV1aDA2bmJBMXJJbzdDOVY1MWJ5Y2RYNmtFUDFrZ05KLWxZRGlxVGZxSGZscjVBNzlYRlNzNm1KdEpLQWdNMGQ5Znd1ZmFPRjdZZmpyelVycDl1cWdSZXZUc9IBkwJBVV95cUxNUkxzenZObWFpY3U1andoRU96eTVEeGNYbGJRdnNRZ0JNSTNUV3FXYjZIcVo4Z001dkRac2FfTk9mYjVGMmxhMTZXNXZwT2d5a0R1RmVTSWJjN2xnaWM1S2gxMFdaS1hMVVBVLThYNzFNM0JnMEVqVmhsUF85QVJ6eEkyNWp1YU84Vjl2dGVmWXRvU2pGS1BHcUVpTXRnTkZnZjFsSnN4YXFrWmY5OEpWX2M1ZVN3ZzhIaTV1aDA2bmJBMXJJbzdDOVY1MWJ5Y2RYNmtFUDFrZ05KLWxZRGlxVGZxSGZscjVBNzlYRlNzNm1KdEpLQWdNMGQ5Znd1ZmFPRjdZZmpyelVycDl1cWdSZXZUcw?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "07/21 04:33",
-        "related": [
-          "BTC"
-        ]
+        "title": "區塊鏈重點動態2026年7月21日早參考",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiQkZBTUE0V2U2WW1KcFJKMXdVeFVma3huTkUxMk13elk1QWpmZ0xPZlZhNlZhVFN0bUF0LUlEYThUeGg5RWRtSjJjRQ?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "07/21 10:30",
+        "related": []
       },
       {
-        "title": "主要加密貨幣行情，比特幣升0.64% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGpfb0p2WDdDZVBGb3ltdV9lT3FnNlhVcWtPVjkweDBDSEs3dXNBbUFVbjA3a0RINXlYMm5VRERkaXAydWFHSVZtSWZNUGlZXzFqUUxYYXRtSlRiQjRWRU82dFI2MndMV1QwQnRRRGxuLUdWeUkweUhyWUV2TWxjZUR0N283a0pwNFdVTU9VUTFJSTNXbU5SV095ZUhPbUFr?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "07/21 04:01",
-        "related": [
-          "BTC"
-        ]
+        "title": "加密貨幣強勢反彈！BTC攻破6.5萬美元，ETH站上1,900美元大關",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbE5FT2ktcHp6NUQ1d3FSaFlObC0teWxDcmI3eXA1NVhoY1dxT1RJSVBvRmEycnJKZUpuX1FVamxEUTB4M0t0SHFhNGpjTHVJREtYY3ZYaDlYRFUyOFRTYjAzdGtxYnZlcDROd3E3eml2UW1VSVJGRlhxRjlIc0hUQ3l2SGVCWTJTenVOeUg0RG1Ed0E0NS1QM1Exc1dHT2xhMW5YYUpUcmxxRkplaHpGUUMzbktuMlJJemREYjFUV2c5R2ZJRUdfSDNpakJQZw?oc=5",
+        "source": "TradingKey",
+        "published_hkt": "07/21 09:57",
+        "related": []
       }
     ]
   }

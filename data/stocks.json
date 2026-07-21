@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21 15:32 HKT",
+  "updated_at": "2026-07-21 19:02 HKT",
   "us": {
     "stocks": [
       {
@@ -22,9 +22,9 @@
       },
       {
         "symbol": "TSLA",
-        "price": "--",
-        "pct": "--",
-        "dir": "flat"
+        "price": "$369.6",
+        "pct": "-2.96%",
+        "dir": "dn"
       },
       {
         "symbol": "SPY",
@@ -38,26 +38,26 @@
     "stocks": [
       {
         "symbol": "0700.HK",
-        "price": "HK$476.2",
-        "pct": "-0.33%",
+        "price": "HK$474.0",
+        "pct": "-0.80%",
         "dir": "dn"
       },
       {
         "symbol": "1024.HK",
-        "price": "HK$45.14",
-        "pct": "-0.27%",
+        "price": "HK$45.10",
+        "pct": "-0.35%",
         "dir": "dn"
       },
       {
         "symbol": "9988.HK",
-        "price": "HK$117.8",
-        "pct": "+0.86%",
+        "price": "HK$117.0",
+        "pct": "+0.17%",
         "dir": "up"
       },
       {
         "symbol": "3690.HK",
-        "price": "HK$85.35",
-        "pct": "-1.10%",
+        "price": "HK$85.20",
+        "pct": "-1.27%",
         "dir": "dn"
       },
       {
@@ -140,32 +140,32 @@
     "stocks": [
       {
         "symbol": "BTC",
-        "price": "$65,920",
-        "pct": "+2.84%",
+        "price": "$66,141",
+        "pct": "+2.97%",
         "dir": "up"
       },
       {
         "symbol": "ETH",
-        "price": "$1,933.8",
-        "pct": "+4.11%",
+        "price": "$1,932.2",
+        "pct": "+3.49%",
         "dir": "up"
       },
       {
         "symbol": "BNB",
-        "price": "$574.9",
-        "pct": "+1.72%",
+        "price": "$577.1",
+        "pct": "+1.96%",
         "dir": "up"
       },
       {
         "symbol": "SOL",
-        "price": "$78.48",
-        "pct": "+3.45%",
+        "price": "$78.12",
+        "pct": "+2.40%",
         "dir": "up"
       },
       {
         "symbol": "XRP",
         "price": "$1.13",
-        "pct": "+4.09%",
+        "pct": "+3.55%",
         "dir": "up"
       }
     ]

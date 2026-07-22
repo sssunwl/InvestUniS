@@ -27,27 +27,27 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-21 11:57 HKT",
+      "updated_at": "2026-07-22 08:12 HKT",
       "news": [
         {
-          "title": "別再盲追「科技七巨頭」？策略師：AI新贏家正改寫市場版圖",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlRi15Zno5MmNva3ZKTzN0NTZzX25OMEU2RHNrVWhqWjlRMjUtOVlnTVdES1pXbGVodk9PaHY3R3htSFA3WFhJQzFFM3czakE?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "07/21 11:20",
+          "title": "美股空單創紀錄 AI泡沫與中東戰火夾擊投資者信心",
+          "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOZERLOHAzTVBvZWc4UTZWcDMzNU5aYjNleF9VSmMyblVjaktvWHcwYXpERVZRSnJFLW55TEc3Yk92NFpzQ0JHbVJ4MFh3ZGM4SmpjUlhaMDBUWDdxcVYtMTJ5RFdEOG1NM0lLRlpLWG9iZ1NRWTVwWEZBRUdhNVI5VWN0a2V0aU5kOHAyT05KSmdhMGU4cmNpOTVaZEZGWDltcHZTVWJFSGRGNmI0R0ZuUGEzdGh4dm9nUTVTVzhwSEVqWWo5RFFYTmhRVVVDRWlUcTZpci10aDI4RzhLUVZqTjByNEhzSEtKOG5CQ2U2UEZlTm9JVWlVM1M0eXp5UUFvanUtMkVGaUtuV1p6Q083Q0VLUFI0dHA5bVlzVFN5TTNKbWJJOW1QcEE3MGpiTTRrSGw0d3lqY2hmUjh5N2dLWUxoVnNMZFhiQVJPSlJGTW9XQ2RyZkhzNlVHaEF1NFBVSXc?oc=5",
+          "source": "商傳媒",
+          "published_hkt": "07/22 07:27",
           "related": []
         },
         {
-          "title": "Fed政策路徑不明！美貨幣市場基金集體「縮久期」 8兆美元資金搶進超短期資產避險",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uWUVIZ05QNllQU2g1RHNMX0w3TmdJcVRjMTRfQnJEUXRfbXJzY3VKeVB4N001djlBekQ1Ri1hMUxVQ3E2MXM5VHN6ZTBPSkk?oc=5",
+          "title": "美股半導體股恐再跌20%？分析師對後市看法分歧",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1feVAtZHpsS1Z6T3ZRQTdfNEVRMHd3SXpRQXZWVHl1bmhpcUs4V3Vnd0ZKcXRWT0Z5MEdiN1Nkb3dVVEo5bXFGeUJUbm1ZdlE?oc=5",
           "source": "news.cnyes.com",
-          "published_hkt": "07/21 11:00",
+          "published_hkt": "07/22 07:10",
           "related": []
         },
         {
-          "title": "恐慌訊號出現？高盛警告：AI信用風險已開始向更廣泛市場擴散",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jU0hvZG9LcGVzNnM3aGFsN1pGWGpsZzUwUnp1X2NJdVhibF9Qb1F1MElXVTZmTHRTTVUtSzJtZGlvbzU1QzJsem5SSjkxNlU?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "07/21 09:41",
+          "title": "美股晶片股大漲！油價創5週新高、日圓貶破163關卡",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSa0dkekZqck9YYkt3UFVpVlZLekRiM3ozNDhEY0tVeTNWNG56UjBSSENEX1JOeUJyNE1LSXNuU2tzeEdVNG81ZzdIbTZEZWpOcUdFQVVIdGJXZTRuYU9iOVlSdS1zUQ?oc=5",
+          "source": "民視財經網",
+          "published_hkt": "07/22 07:02",
           "related": []
         }
       ]
@@ -177,29 +177,32 @@
   },
   "jp": {
     "pre_market": {
-      "updated_at": "2026-07-16 08:14 HKT",
+      "updated_at": "2026-07-22 08:12 HKT",
       "news": [
         {
-          "title": "早安！今日產經早報",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zandwVDQ0U1FyMzd4b1c2TUpFbGs4RVNLNXNqNTZwMTlnZjhWZ0x2UVpTcUc3bFFTRGdPS21SOUpIb1lIbl8zeFFLemN5NDR0UUE?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "07/16 07:53",
-          "related": []
+          "title": "全球晶片股強勢反彈 台積電、美光領軍大漲",
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNb2xHVzJKZmdlSWNONUdpampyUlRZQURCNGpvYTZZNlFkRE5UcTMySTJuTEhyQkFXMUZrbGI4dXRmbG91cUJ0X2h0cE8wUUFpQTBSNnRUeDJHeEhrbkRQd0xZMjFMY1ptZU80VGI1dkRRdnVLSU41VEZ4MWVXTmVzUWRrODVETjZJaEdoMUctbV9jMXF4dDFwWjJCUlgxT25BUkJHMTZ6SS1SVm1PemVXM3ozTlBzc3FaOGxjaVlmOWIzWG5VdWxJSktCZE91QWx0WFZaMHBaUVR2YW9ubFU5M2FZdDcwRUh2dGdVMVM3X3hwU2N0MGt1bEJoclFuaDZtVTlnRk9xeEdocjlOZjkwbUJNekR3NlFKT3EzUjlndXM1N0t3VGVNMWNYVmZsWm9iWEFkWWF0Skw?oc=5",
+          "source": "Yahoo 財經",
+          "published_hkt": "07/22 07:20",
+          "related": [
+            "MU",
+            "TSM"
+          ]
         },
         {
-          "title": "日股：日經週三收高1,008.01點或1.49%，東證指數上揚1.22%，NEC逆勢重挫逾4%",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNejNYMl9tTWRtTzlNNGM4eEpTRnI5dE4xSzlFamVKNU9JSXNDNE1kMUd2NjdkcVBrNHNUTFJHQ3kxQWFscXh0TXp2eXY5VmdUaUVPZmdDcjNDZ05nNHV2OU1VWGhmMkVWemd3VXBYN0Z0dkVsd0tOTVZKNHdjMXNONHY3WTRKWHY0?oc=5",
+          "title": "日股：銀行、電子股領軍，日經週二強彈2,091.07點或3.26%，鎧俠大漲逾17%",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcENNTURNNzRXUHJoekNDOEhjbUh2VjFhdEdFVGd0X1Vmd1prQXVpU1hUVDlVQ2l3SkpCYWs2ZTNfZmFYS00tT1lXUHlwRDFaN2NFOEVjNzRYT3c4VVNzOXYwdDZOV05pM2FrSUFUZFVVTHpMYUx6QnU2MzJWSjd5Ni1LTWxNSmlQ?oc=5",
           "source": "富聯網",
-          "published_hkt": "07/16 07:00",
+          "published_hkt": "07/22 07:00",
           "related": [
             "^N225"
           ]
         },
         {
-          "title": "美國通膨降溫緩解升息疑慮 首爾領軍亞股上揚",
-          "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOV1AwOUQwRHZtOHNWV0pYMUNKLTdKWFJWQVhOTko1eFJfTFc0R0M4eHNmbkZ4Uzc1RlFZN2lEZ1lHODBJZ1JCa05QaS1zZnZSdUlaTDE4MUpGTkJXbFpVOTBQWVU1TmVHYWw5SDNBZ0dkc2hXMF9nbGlXdkJGeWU1S01aNlBKZGhQT2I2Qy1DbVVPTHlfTWRLOFZwaGR0X2dDeHhlQ3FWNGJQYTFTTFNic3hMR0psZTFqODRaOHRxeEFLUnE4TzNocFhwNFNtaEJtVTRzbjhVVlpOcHl1dWJNQnczUW1UZG9VLWVCS2NPeUc1RjN3TXhweHpheFk5UHpNTExrYzZYQkgwd2R2aS1GaVppNDl2dDZCd2hVLWtkb1JKOXp6ZnBybnZMazFmc3F6QjdIVHprTVlhZE5UVUJvM1hidHo3UGptV3JreFphZmt0ZTNMU20yQ3lrZS01WkQzSXRkUktsay04eURsZFJFSXF6SXBUV3c2Z0E?oc=5",
-          "source": "MSN",
-          "published_hkt": "07/16 05:12",
+          "title": "早安！今日產經早報",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14MVRQNnhfRVZmNmRVN3BfYWdrbXpuZVQ3THFEdzdKY29fak40am9paV83ZzNEQzRTdHV6a2UwcDQ3SGZYMWFSRjBBTUV1eEFLcnc?oc=5",
+          "source": "蕃新聞",
+          "published_hkt": "07/22 06:24",
           "related": []
         }
       ]
@@ -234,32 +237,27 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-21 23:06 HKT",
+    "updated_at": "2026-07-22 08:12 HKT",
     "news": [
       {
-        "title": "Hyperscale Data 比特幣儲備增至1087枚，持倉價值超過7000萬美元",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EMUtmcDh2cmpFWDVlQ19VRjE5OHI5ZGxfdUo1MHo4X1pCSklMLVRYeVhuQkR0ZzgxSjJuZ3ZnQVN5REdUVUpZSkpkYTkzNkk2Y2VHdExnMFlJcFJtYXp2WUlmZkVaUy1rMXJF0gFrQVVfeXFMT0QxS2ZwOHZyakVYNWVDX1VGMTk4cjlkbF91SjUwejhfWkJKSUwtVFh5WG5CRHRnODFKMm5ndmdBU3lER1RVSllKSmRhOTM2STZjZUd0TGcwWUlwUm1henZZSWZmRVpTLWsxckU?oc=5",
-        "source": "Bitget",
-        "published_hkt": "07/21 21:06",
-        "related": [
-          "BTC"
-        ]
+        "title": "加密貨幣市場普遍反彈 XRP漲幅領先眾主流幣",
+        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOQjhqa1VHUnhvLVoxSzBZNmxkYXllLTZPUVhtenN2TFFVNnBNdEU0b0d1SXVzT2dieVplMXA0dFZhdXkwbW5ia3U4a2ZFaUItWVo0QUFiWDlHMVdTSHN4dmV4NXI2aUlTUEw4NmlEeWZXVm9LT09YODVLc0FJZlNXdW9BLVc0OUxJN0x2M2FuRndpc25nYUJVVjNVN3pCMVllTGVVSGtZU29QelhTNVk3QmwzQnZ0TjFtdUUwZnZ0SG9kZjE0REZNTktqeTVIS3hVVXRqV3VXT3hsd3VOcXZuNVRWQm04bnhfMmVjaVY4dy1YU1A4bXo0bWNXdWdsWGN1X3NuMGFpMzJSV1g3cGh1S3dRc1BLYU90VDA5VHBzemY1amFoelpwNEt6cFlKX3QwR0hrVDBRbw?oc=5",
+        "source": "商傳媒",
+        "published_hkt": "07/22 07:32",
+        "related": []
       },
       {
-        "title": "現貨比特幣ETF吸引新資金流入 以太坊基金延續連漲勢頭",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nd1hZbkhoUDJnRGVQQV9sWmhQU3B6Y1VOZDF4UXlSV1pUVEpMTl9kb3lhY0RpYzFCRFNjTDA2azhjRFFjQ09hYkF2dkhKUVRzT1NGU0U2azVFNTllaHhwUTQ5MlNyRTIyYWc?oc=5",
-        "source": "FinanceFeeds",
-        "published_hkt": "07/21 20:01",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
+        "title": "對話前紐交所做市員：BTC見底要看這7項信號，別只盯一個價格",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRDVpOEcxOWtBNEE3TzE3bFJsRHFZUXQ5VzhCaFYyMTBmUm9EZjk5M1hpbDRJajlrQ04yS0RYSGJudlduY2Q3NHdqTDNvYTlYOTMycTFhQk94aGdkcmpsdXN1MUZHX1owMVFqSk80SXRPRWhuVUl2UnFLektJdlZ3OXZlUFJYQQ?oc=5",
+        "source": "PANews",
+        "published_hkt": "07/22 00:42",
+        "related": []
       },
       {
-        "title": "倫敦交易所2027年推隔夜市場LSE 24 交易至凌晨7:50",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83SS1kcU5WQk1Wak9TMW9kZWR6T25JZVUxWlh4UnhUcEptNHRuVTFjM1IzYUxXdlc4dm40TVZLVWpKX2ZXLUpHT3pGbExIMGVPUDd3YVRLR3ZYWUNiVmw4aElRbHlHRGZvOUpYdUhUaw?oc=5",
-        "source": "FinanceFeeds",
-        "published_hkt": "07/21 20:01",
+        "title": "Gate 正式上線事件合約，拓展加密市場創新交易場景",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORmRSdkpHel9nU1laR3l2U1FGcWg4ZXpzdm1Hc1lYZjJzazd2eE45S09iOFFrVmlqYmlXNWJqSG1MbEZaWEFPOFhUeDkyTDBicFJUdVhPVnFxblJBRTFvLTJ3R3o5VmVMOWRZcGVZX1haaFBMc3pFUjllUXhLOTFBVFlXeFF0UQ?oc=5",
+        "source": "PANews",
+        "published_hkt": "07/22 00:42",
         "related": []
       }
     ]

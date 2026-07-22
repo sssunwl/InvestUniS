@@ -50,7 +50,8 @@
     .ms-card.ms-red .ms-read { background: var(--red-bg); }
     .ms-note { margin-top: 10px; font-size: 11px; color: var(--mid); line-height: 1.6; }
     @media (max-width: 640px) { .ms-grid { grid-template-columns: repeat(2, 1fr); } }
-    * { box-sizing: border-box; margin: 0; padding: 0; }
+    * { box-sizing: border-box; margin: 0; padding: 0; min-width: 0; }
+    html, body { max-width: 100%; overflow-x: clip; }
     body {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans TC', sans-serif;
       background: var(--warm-white);
@@ -699,6 +700,40 @@
     .calc-total { font-size: 16px !important; }
     .calc-disclaimer { font-size: 10px; color: #B8A880; margin-top: 10px; line-height: 1.6; }
 
+    /* ── Tools Tab: Sterling Trading Calculator ── */
+    .sterling-shell { display:grid; grid-template-columns:minmax(0, 1fr) minmax(300px, .9fr); gap:16px; align-items:start; }
+    .sterling-card { background:#fff; border:1px solid var(--border); border-radius:14px; padding:18px; }
+    .sterling-card-title { font-size:14px; font-weight:800; color:var(--dark); margin-bottom:14px; display:flex; align-items:center; gap:7px; }
+    .sterling-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:12px; }
+    .sterling-grid .calc-row { margin-bottom:0; }
+    .sterling-span-2 { grid-column:1 / -1; }
+    .sterling-segment { display:grid; grid-template-columns:1fr 1fr; gap:6px; }
+    .sterling-segment button { padding:9px 8px; border:1.5px solid var(--border); border-radius:8px; background:var(--warm-white); color:var(--mid); font-weight:700; cursor:pointer; }
+    .sterling-segment button.active { border-color:var(--gold); background:var(--cream); color:var(--dark); }
+    .sterling-summary { background:linear-gradient(135deg,var(--dark),#4A3828); color:var(--cream); border-radius:12px; padding:16px; margin-bottom:12px; }
+    .sterling-summary-symbol { color:var(--gold); font-size:12px; font-weight:800; letter-spacing:.06em; }
+    .sterling-summary-price { font-size:28px; font-weight:900; margin:5px 0; font-variant-numeric:tabular-nums; }
+    .sterling-summary-sub { color:#C0B090; font-size:11px; line-height:1.6; }
+    .sterling-table-wrap { width:100%; overflow-x:auto; -webkit-overflow-scrolling:touch; }
+    .sterling-table { width:100%; border-collapse:collapse; font-size:12px; }
+    .sterling-table th { padding:8px 7px; color:var(--mid); text-align:right; border-bottom:1px solid var(--border); white-space:nowrap; }
+    .sterling-table th:first-child,.sterling-table td:first-child { text-align:left; }
+    .sterling-table td { padding:9px 7px; text-align:right; border-bottom:1px solid var(--border); font-variant-numeric:tabular-nums; white-space:nowrap; }
+    .sterling-table tr:last-child td { border-bottom:0; }
+    .sterling-live { margin-top:12px; border-radius:10px; padding:13px 14px; background:var(--cream); border-left:4px solid var(--gold); }
+    .sterling-live.good { background:var(--green-bg); border-left-color:var(--green); }
+    .sterling-live.bad { background:var(--red-bg); border-left-color:var(--red); }
+    .sterling-live-title { font-size:18px; font-weight:900; }
+    .sterling-live-copy { font-size:12px; color:var(--mid); margin-top:3px; }
+    .greeks-result { margin-top:14px; padding:14px; border-radius:10px; background:var(--cream); }
+    .greeks-stars { color:var(--gold); font-size:18px; letter-spacing:2px; }
+    .greeks-verdict { font-size:15px; font-weight:800; margin:5px 0; }
+    .greeks-facts { display:grid; grid-template-columns:repeat(3,1fr); gap:6px; margin-top:9px; }
+    .greeks-fact { background:#fff; border-radius:7px; padding:7px; text-align:center; }
+    .greeks-fact span { display:block; font-size:9px; color:var(--mid); margin-bottom:2px; }
+    .greeks-fact strong { font-size:11px; }
+    .sterling-error { display:none; color:var(--red); background:var(--red-bg); border-radius:8px; padding:9px 11px; font-size:11px; margin-top:10px; }
+
     /* ── Tools Tab: Resource Links ── */
     .resource-list { display: flex; flex-direction: column; gap: 14px; }
     .resource-card { background: #fff; border: 1px solid var(--border); border-radius: 12px; padding: 16px 18px; transition: box-shadow 0.2s, transform 0.15s; }
@@ -801,6 +836,10 @@
     .impact-mid  { color:#92400E; }
     @media(max-width:640px){ .macro-events-grid{ grid-template-columns:1fr; } }
     @media (max-width: 640px) {
+      .tab-nav { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); }
+      .tab-main-btn { padding:10px 3px; font-size:11px; }
+      .tab-subnav { flex-wrap:nowrap; overflow-x:auto; -webkit-overflow-scrolling:touch; }
+      main { padding:18px 10px; }
       header h1 { font-size: 20px; }
       .news-cols { grid-template-columns: 1fr; }
       .cards-grid { grid-template-columns: 1fr; }
@@ -809,6 +848,12 @@
       .chain-tier-grid { grid-template-columns: 1fr; }
       .stocks-grid { grid-template-columns: 1fr; }
       .stock-bull-bear { grid-template-columns: 1fr; }
+      .sterling-shell { grid-template-columns:1fr; }
+      .sterling-card { padding:14px; }
+      .sterling-grid { grid-template-columns:1fr; }
+      .sterling-span-2 { grid-column:auto; }
+      .greeks-facts { grid-template-columns:1fr 1fr 1fr; }
+      .macro-table { display:block; overflow-x:auto; -webkit-overflow-scrolling:touch; }
     }
   </style>
 </head>
@@ -830,6 +875,7 @@
     <button class="tab-main-btn" id="main-research" onclick="toggleGroup('research')">🔬 研究 ▾</button>
   </nav>
   <div class="tab-subnav" id="sub-tools">
+    <button class="tab-sub-btn" id="sub-sterling" onclick="switchSub('sterling','tools')">⚡ Sterling 計算機</button>
     <button class="tab-sub-btn" id="sub-etf"   onclick="switchSub('etf','tools')">📊 高息ETF</button>
     <button class="tab-sub-btn" id="sub-calc"  onclick="switchSub('calc','tools')">🧮 股息計算器</button>
     <button class="tab-sub-btn" id="sub-links" onclick="switchSub('links','tools')">🔗 實用網站</button>
@@ -2553,6 +2599,65 @@
 
 
   <!-- ═══════════════════════════════════════
+       TAB: Sterling Trading Calculator
+  ═══════════════════════════════════════ -->
+  <div id="tab-sterling" class="tab-panel">
+    <div class="section-intro">
+      開倉前先把離場寫清楚。輸入單腿期權資料後，Sterling 會同步計算每張合約的成本、止損／止盈價、部位張數與即時進度。<strong>美股期權每張按 100 股計算，結果未包含手續費與滑價。</strong>
+    </div>
+    <div class="sterling-shell">
+      <div>
+        <div class="sterling-card">
+          <div class="sterling-card-title">① Entry &amp; Risk</div>
+          <div class="sterling-grid">
+            <div class="calc-row"><label class="calc-label" for="st-symbol">股票</label><input class="calc-input" id="st-symbol" value="QQQ" maxlength="10" inputmode="text"></div>
+            <div class="calc-row"><label class="calc-label">方向</label><div class="sterling-segment"><button type="button" id="st-call" class="active" onclick="setOptionSide('Call')">Call</button><button type="button" id="st-put" onclick="setOptionSide('Put')">Put</button></div></div>
+            <div class="calc-row"><label class="calc-label" for="st-strike">Strike</label><input class="calc-input" type="number" id="st-strike" value="500" min="0" step="0.01"></div>
+            <div class="calc-row"><label class="calc-label" for="st-expiry">到期日</label><input class="calc-input" type="date" id="st-expiry"></div>
+            <div class="calc-row"><label class="calc-label" for="st-premium">買入 Premium</label><input class="calc-input" type="number" id="st-premium" value="1.20" min="0.01" step="0.01"></div>
+            <div class="calc-row"><label class="calc-label" for="st-contracts">張數</label><input class="calc-input" type="number" id="st-contracts" value="1" min="1" step="1"></div>
+            <div class="calc-row"><label class="calc-label" for="st-max-risk">最大願意虧損（USD）</label><input class="calc-input" type="number" id="st-max-risk" value="30" min="0" step="1"><div class="calc-hint">依主止損計算建議張數</div></div>
+            <div class="calc-row"><label class="calc-label" for="st-stop">主止損（%）</label><input class="calc-input" type="number" id="st-stop" value="20" min="1" max="100" step="1"></div>
+            <div class="calc-row"><label class="calc-label" for="st-target">主止盈（%）</label><input class="calc-input" type="number" id="st-target" value="50" min="1" step="1"></div>
+            <div class="calc-row"><label class="calc-label" for="st-live">現在 Premium</label><input class="calc-input" type="number" id="st-live" value="1.42" min="0" step="0.01"></div>
+          </div>
+          <div class="sterling-error" id="st-error"></div>
+        </div>
+
+        <div class="sterling-card" style="margin-top:16px">
+          <div class="sterling-card-title">④ 0DTE Greeks 快速檢查</div>
+          <div class="sterling-grid">
+            <div class="calc-row"><label class="calc-label" for="st-spot">正股現價</label><input class="calc-input" type="number" id="st-spot" value="500" min="0" step="0.01"></div>
+            <div class="calc-row"><label class="calc-label" for="st-delta">Delta</label><input class="calc-input" type="number" id="st-delta" value="0.45" min="-1" max="1" step="0.01"></div>
+            <div class="calc-row"><label class="calc-label" for="st-theta">Theta（每股／日）</label><input class="calc-input" type="number" id="st-theta" value="-0.10" max="0" step="0.01"></div>
+            <div class="calc-row"><label class="calc-label" for="st-gamma">Gamma</label><input class="calc-input" type="number" id="st-gamma" value="0.08" min="0" step="0.01"></div>
+          </div>
+          <div class="greeks-result" id="st-greeks-result"></div>
+          <div class="calc-disclaimer">這是依 Delta、Theta／Premium、Gamma 與價內外程度建立的規則型提示，不含 IV、成交量、買賣價差與新聞事件；不能預測未來價格，也不代表「可做」或「必勝」。0DTE 可能在極短時間損失全部權利金。</div>
+        </div>
+      </div>
+
+      <div class="sterling-card">
+        <div class="sterling-card-title">② Risk &amp; ③ Exit</div>
+        <div class="sterling-summary">
+          <div class="sterling-summary-symbol" id="st-summary-symbol">QQQ · CALL</div>
+          <div class="sterling-summary-price" id="st-summary-cost">$120.00</div>
+          <div class="sterling-summary-sub" id="st-summary-sub">1 張合約的買入成本</div>
+        </div>
+        <div class="sterling-table-wrap"><table class="sterling-table"><thead><tr><th>動作</th><th>價格</th><th>盈虧</th></tr></thead><tbody id="st-exit-body"></tbody></table></div>
+        <div class="calc-result-wrap show" style="margin-top:12px">
+          <div class="calc-result-row"><span class="calc-result-label">主止損總風險</span><span class="calc-result-val negative" id="st-risk-total"></span></div>
+          <div class="calc-result-row"><span class="calc-result-label">主止盈總回報</span><span class="calc-result-val positive" id="st-reward-total"></span></div>
+          <div class="calc-result-row"><span class="calc-result-label">Risk / Reward</span><span class="calc-result-val" id="st-rr"></span></div>
+          <div class="calc-result-row"><span class="calc-result-label">依風險建議張數</span><span class="calc-result-val" id="st-sized-contracts"></span></div>
+        </div>
+        <div class="sterling-live" id="st-live-box"><div class="sterling-live-title" id="st-live-title"></div><div class="sterling-live-copy" id="st-live-copy"></div></div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- ═══════════════════════════════════════
        TAB: 實用網站
   ═══════════════════════════════════════ -->
   <div id="tab-links" class="tab-panel">
@@ -4153,6 +4258,96 @@
     document.getElementById('calc-result-wrap').classList.add('show');
   }
 
+  // ── Sterling single-leg options calculator ──
+  let sterlingSide = 'Call';
+  function setOptionSide(side) {
+    sterlingSide = side;
+    document.getElementById('st-call').classList.toggle('active', side === 'Call');
+    document.getElementById('st-put').classList.toggle('active', side === 'Put');
+    updateSterling();
+  }
+
+  function sterlingNumber(id) { return Number(document.getElementById(id)?.value); }
+  function sterlingMoney(value, signed = false) {
+    const sign = signed ? (value >= 0 ? '+' : '−') : '';
+    return `${sign}$${Math.abs(value).toFixed(2)}`;
+  }
+
+  function updateSterling() {
+    const premium = sterlingNumber('st-premium');
+    const contracts = Math.max(1, Math.floor(sterlingNumber('st-contracts') || 1));
+    const stop = sterlingNumber('st-stop');
+    const target = sterlingNumber('st-target');
+    const maxRisk = sterlingNumber('st-max-risk');
+    const live = sterlingNumber('st-live');
+    const error = document.getElementById('st-error');
+    if (!premium || premium <= 0 || stop <= 0 || stop > 100 || target <= 0) {
+      error.textContent = '請輸入有效的 Premium、1–100% 止損與大於 0% 的止盈。';
+      error.style.display = 'block';
+      return;
+    }
+    error.style.display = 'none';
+    const symbol = (document.getElementById('st-symbol').value || '—').trim().toUpperCase();
+    const strike = sterlingNumber('st-strike');
+    document.getElementById('st-symbol').value = symbol;
+    document.getElementById('st-summary-symbol').textContent = `${symbol} ${strike ? strike : ''} · ${sterlingSide.toUpperCase()}`;
+    document.getElementById('st-summary-cost').textContent = sterlingMoney(premium * 100 * contracts);
+    document.getElementById('st-summary-sub').textContent = `${contracts} 張合約的買入成本（每張 $${(premium * 100).toFixed(2)}）`;
+
+    const exits = [
+      ['Stop 20%', -20], ['Stop 25%', -25], ['Stop 30%', -30],
+      ['Take 30%', 30], ['Take 50%', 50], ['Double', 100]
+    ];
+    document.getElementById('st-exit-body').innerHTML = exits.map(([label, pct]) => {
+      const exitPrice = premium * (1 + pct / 100);
+      const pnl = premium * (pct / 100) * 100 * contracts;
+      return `<tr><td>${label}</td><td>$${exitPrice.toFixed(2)}</td><td class="${pnl >= 0 ? 'chg-up' : 'chg-dn'}">${sterlingMoney(pnl, true)}</td></tr>`;
+    }).join('');
+
+    const risk = premium * stop / 100 * 100 * contracts;
+    const reward = premium * target / 100 * 100 * contracts;
+    const riskPerContract = premium * stop / 100 * 100;
+    const sized = maxRisk > 0 ? Math.floor(maxRisk / riskPerContract) : 0;
+    document.getElementById('st-risk-total').textContent = sterlingMoney(-risk, true);
+    document.getElementById('st-reward-total').textContent = sterlingMoney(reward, true);
+    document.getElementById('st-rr').textContent = `1 : ${(reward / risk).toFixed(2)}`;
+    document.getElementById('st-sized-contracts').textContent = sized > 0 ? `${sized} 張` : '0 張（風險預算不足）';
+
+    const livePct = Number.isFinite(live) ? (live / premium - 1) * 100 : 0;
+    const livePnl = Number.isFinite(live) ? (live - premium) * 100 * contracts : 0;
+    const liveBox = document.getElementById('st-live-box');
+    liveBox.className = 'sterling-live' + (livePct >= target ? ' good' : livePct <= -stop ? ' bad' : '');
+    document.getElementById('st-live-title').textContent = `$${(live || 0).toFixed(2)} · ${livePct >= 0 ? '+' : ''}${livePct.toFixed(1)}%`;
+    let liveCopy = `目前未實現盈虧 ${sterlingMoney(livePnl, true)}。`;
+    if (livePct <= -stop) liveCopy += ' 🔴 已到主止損線。';
+    else if (livePct >= target) liveCopy += ' 🟢 已到主止盈線。';
+    else if (livePct >= target * .8) liveCopy += ' 🟡 快到主止盈目標。';
+    else if (livePct <= -stop * .8) liveCopy += ' 🟠 接近主止損線。';
+    else liveCopy += ' 尚未觸及主離場線。';
+    document.getElementById('st-live-copy').textContent = liveCopy;
+    updateGreeks(premium, strike);
+  }
+
+  function updateGreeks(premium, strike) {
+    const spot = sterlingNumber('st-spot');
+    const delta = Math.abs(sterlingNumber('st-delta'));
+    const theta = Math.abs(sterlingNumber('st-theta'));
+    const gamma = sterlingNumber('st-gamma');
+    const thetaPct = premium > 0 ? theta / premium * 100 : 100;
+    const distancePct = spot > 0 ? Math.abs(strike - spot) / spot * 100 : 100;
+    let score = 1;
+    if (delta >= .35 && delta <= .70) score++;
+    if (gamma >= .04) score++;
+    if (thetaPct <= 10) score++;
+    if (distancePct <= 1) score++;
+    if (thetaPct > 20) score = Math.min(score, 2);
+    const verdict = thetaPct > 20 ? 'Theta 消耗非常高' : score >= 4 ? '較適合短線觀察' : score >= 3 ? '條件中性，需等確認' : '風險偏高，宜謹慎';
+    const thetaLabel = thetaPct <= 8 ? '較低' : thetaPct <= 15 ? '偏高' : '很高';
+    const gammaLabel = gamma >= .08 ? '高' : gamma >= .04 ? '中' : '低';
+    const direction = delta >= .55 ? '敏感' : delta >= .30 ? '中等' : '偏弱';
+    document.getElementById('st-greeks-result').innerHTML = `<div class="greeks-stars">${'★'.repeat(score)}${'☆'.repeat(5-score)}</div><div class="greeks-verdict">${verdict}</div><div class="greeks-facts"><div class="greeks-fact"><span>Theta / Premium</span><strong>${thetaPct.toFixed(1)}% · ${thetaLabel}</strong></div><div class="greeks-fact"><span>Gamma</span><strong>${gamma.toFixed(3)} · ${gammaLabel}</strong></div><div class="greeks-fact"><span>Delta 反應</span><strong>${delta.toFixed(2)} · ${direction}</strong></div></div>`;
+  }
+
   // ── Init ──
   updateClock();
   setInterval(updateClock, 1000);
@@ -4227,6 +4422,8 @@
   loadMarketState();
   initStratGrid();
   renderUpcomingHolidays();
+  document.querySelectorAll('#tab-sterling input').forEach(el => el.addEventListener('input', updateSterling));
+  updateSterling();
 </script>
 
 </body>

@@ -734,6 +734,24 @@
     .greeks-fact strong { font-size:11px; }
     .sterling-error { display:none; color:var(--red); background:var(--red-bg); border-radius:8px; padding:9px 11px; font-size:11px; margin-top:10px; }
 
+    /* ── Tools Tab: Approximate Options Backtest ── */
+    .bt-layout { display:grid; grid-template-columns:minmax(260px,.72fr) minmax(0,1.28fr); gap:16px; align-items:start; }
+    .bt-metrics { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:9px; margin-bottom:14px; }
+    .bt-metric { background:#fff; border:1px solid var(--border); border-radius:10px; padding:11px; }
+    .bt-metric-label { font-size:9px; color:var(--mid); letter-spacing:.05em; text-transform:uppercase; }
+    .bt-metric-value { font-size:18px; font-weight:900; color:var(--dark); margin-top:3px; font-variant-numeric:tabular-nums; }
+    .bt-metric-value.positive { color:var(--green); }
+    .bt-metric-value.negative { color:var(--red); }
+    .bt-chart { width:100%; height:190px; display:block; background:#fff; border:1px solid var(--border); border-radius:10px; }
+    .bt-assumptions { font-size:11px; color:var(--mid); line-height:1.7; margin-top:12px; background:var(--cream); border-radius:8px; padding:10px 12px; }
+    .bt-empty { color:var(--mid); text-align:center; padding:45px 15px; font-size:12px; }
+    .bt-verdict { border-left:4px solid var(--gold); background:var(--cream); border-radius:8px; padding:11px 13px; margin-bottom:12px; font-size:12px; line-height:1.65; }
+    .bt-verdict.good { border-left-color:var(--green); background:var(--green-bg); }
+    .bt-verdict.bad { border-left-color:var(--red); background:var(--red-bg); }
+    .bt-table { width:100%; border-collapse:collapse; font-size:11px; margin-top:12px; }
+    .bt-table th,.bt-table td { padding:7px 6px; border-bottom:1px solid var(--border); text-align:right; white-space:nowrap; }
+    .bt-table th:first-child,.bt-table td:first-child { text-align:left; }
+
     /* ── Tools Tab: Resource Links ── */
     .resource-list { display: flex; flex-direction: column; gap: 14px; }
     .resource-card { background: #fff; border: 1px solid var(--border); border-radius: 12px; padding: 16px 18px; transition: box-shadow 0.2s, transform 0.15s; }
@@ -853,6 +871,8 @@
       .sterling-grid { grid-template-columns:1fr; }
       .sterling-span-2 { grid-column:auto; }
       .greeks-facts { grid-template-columns:1fr 1fr 1fr; }
+      .bt-layout { grid-template-columns:1fr; }
+      .bt-metrics { grid-template-columns:1fr 1fr; }
       .macro-table { display:block; overflow-x:auto; -webkit-overflow-scrolling:touch; }
     }
   </style>
@@ -876,6 +896,7 @@
   </nav>
   <div class="tab-subnav" id="sub-tools">
     <button class="tab-sub-btn" id="sub-sterling" onclick="switchSub('sterling','tools')">⚡ Sterling 計算機</button>
+    <button class="tab-sub-btn" id="sub-backtest" onclick="switchSub('backtest','tools')">🧪 期權回測</button>
     <button class="tab-sub-btn" id="sub-etf"   onclick="switchSub('etf','tools')">📊 高息ETF</button>
     <button class="tab-sub-btn" id="sub-calc"  onclick="switchSub('calc','tools')">🧮 股息計算器</button>
     <button class="tab-sub-btn" id="sub-links" onclick="switchSub('links','tools')">🔗 實用網站</button>
@@ -2593,6 +2614,40 @@
         <div class="calc-result-row"><span class="calc-result-label">總回報（%）</span><span class="calc-result-val calc-total" id="res-pct"></span></div>
         <div class="calc-result-row"><span class="calc-result-label">年化回報（%）</span><span class="calc-result-val calc-total" id="res-ann"></span></div>
         <div class="calc-disclaimer" id="res-note"></div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- ═══════════════════════════════════════
+       TAB: Sterling Approximate Backtest
+  ═══════════════════════════════════════ -->
+  <div id="tab-backtest" class="tab-panel">
+    <div class="section-intro">
+      用約五年的 QQQ、SPY、MU 日線與 VIX，快速比較 1DTE Credit Spread 規則。系統以前一日收盤建立倉位、下一交易日到期結算，並用歷史波動與 Black–Scholes <strong>估算</strong> Credit。這不是歷史 Option Chain，也不是 0DTE 分鐘級成交回測。
+    </div>
+    <div class="bt-layout">
+      <div class="sterling-card">
+        <div class="sterling-card-title">回測條件</div>
+        <div class="sterling-grid">
+          <div class="calc-row"><label class="calc-label" for="bt-symbol">標的</label><select class="calc-input" id="bt-symbol"><option>QQQ</option><option>SPY</option><option>MU</option></select></div>
+          <div class="calc-row"><label class="calc-label" for="bt-strategy">策略</label><select class="calc-input" id="bt-strategy"><option value="bull">Bull Put Spread</option><option value="bear">Bear Call Spread</option></select></div>
+          <div class="calc-row"><label class="calc-label" for="bt-years">期間</label><select class="calc-input" id="bt-years"><option value="1">近 1 年</option><option value="3" selected>近 3 年</option><option value="5">近 5 年</option></select></div>
+          <div class="calc-row"><label class="calc-label" for="bt-delta">Short Delta</label><input class="calc-input" type="number" id="bt-delta" value="0.15" min="0.05" max="0.45" step="0.01"></div>
+          <div class="calc-row"><label class="calc-label" for="bt-width">Spread 寬度（$）</label><input class="calc-input" type="number" id="bt-width" value="5" min="1" step="0.5"></div>
+          <div class="calc-row"><label class="calc-label" for="bt-min-credit">最低 Credit（$）</label><input class="calc-input" type="number" id="bt-min-credit" value="0.20" min="0" step="0.01"></div>
+          <div class="calc-row"><label class="calc-label" for="bt-vix-max">VIX 上限</label><input class="calc-input" type="number" id="bt-vix-max" value="30" min="5" step="1"></div>
+          <div class="calc-row"><label class="calc-label" for="bt-cost">每組交易成本（$）</label><input class="calc-input" type="number" id="bt-cost" value="2.60" min="0" step="0.1"></div>
+          <div class="calc-row sterling-span-2"><label class="calc-label" for="bt-trend">趨勢過濾</label><select class="calc-input" id="bt-trend"><option value="with">順 20 日均線</option><option value="none">不過濾</option></select><div class="calc-hint">Bull Put 僅在價格高於 MA20；Bear Call 僅在價格低於 MA20</div></div>
+        </div>
+        <button class="calc-btn" id="bt-run" onclick="runBacktest()">🧪 執行近似回測</button>
+        <div class="sterling-error" id="bt-error"></div>
+        <div class="calc-disclaimer" id="bt-source">載入歷史資料中…</div>
+      </div>
+
+      <div class="sterling-card">
+        <div class="sterling-card-title">期望值結果</div>
+        <div id="bt-output"><div class="bt-empty">設定條件後執行回測</div></div>
       </div>
     </div>
   </div>
@@ -4348,6 +4403,84 @@
     document.getElementById('st-greeks-result').innerHTML = `<div class="greeks-stars">${'★'.repeat(score)}${'☆'.repeat(5-score)}</div><div class="greeks-verdict">${verdict}</div><div class="greeks-facts"><div class="greeks-fact"><span>Theta / Premium</span><strong>${thetaPct.toFixed(1)}% · ${thetaLabel}</strong></div><div class="greeks-fact"><span>Gamma</span><strong>${gamma.toFixed(3)} · ${gammaLabel}</strong></div><div class="greeks-fact"><span>Delta 反應</span><strong>${delta.toFixed(2)} · ${direction}</strong></div></div>`;
   }
 
+  // ── Sterling approximate 1DTE credit-spread backtest ──
+  let backtestData = null;
+  const normalCdf = x => (1 + Math.sign(x) * Math.sqrt(1 - Math.exp(-2 * x * x / Math.PI))) / 2;
+  function normalInv(p) {
+    const a=[-39.6968302866538,220.946098424521,-275.928510446969,138.357751867269,-30.6647980661472,2.50662827745924];
+    const b=[-54.4760987982241,161.585836858041,-155.698979859887,66.8013118877197,-13.2806815528857];
+    const c=[-.00778489400243029,-.322396458041136,-2.40075827716184,-2.54973253934373,4.37466414146497,2.93816398269878];
+    const d=[.00778469570904146,.32246712907004,2.445134137143,3.75440866190742];
+    const lo=.02425, hi=1-lo; let q,r;
+    if(p<lo){q=Math.sqrt(-2*Math.log(p));return (((((c[0]*q+c[1])*q+c[2])*q+c[3])*q+c[4])*q+c[5])/((((d[0]*q+d[1])*q+d[2])*q+d[3])*q+1);}
+    if(p>hi){q=Math.sqrt(-2*Math.log(1-p));return -(((((c[0]*q+c[1])*q+c[2])*q+c[3])*q+c[4])*q+c[5])/((((d[0]*q+d[1])*q+d[2])*q+d[3])*q+1);}
+    q=p-.5;r=q*q;return (((((a[0]*r+a[1])*r+a[2])*r+a[3])*r+a[4])*r+a[5])*q/(((((b[0]*r+b[1])*r+b[2])*r+b[3])*r+b[4])*r+1);
+  }
+  function bsPrice(side,s,k,vol,t=1/252,r=.04){
+    if(vol<=0||t<=0) return Math.max(side==='put'?k-s:s-k,0);
+    const d1=(Math.log(s/k)+(r+vol*vol/2)*t)/(vol*Math.sqrt(t));
+    const d2=d1-vol*Math.sqrt(t);
+    return side==='put' ? k*Math.exp(-r*t)*normalCdf(-d2)-s*normalCdf(-d1) : s*normalCdf(d1)-k*Math.exp(-r*t)*normalCdf(d2);
+  }
+  function realizedVol(rows,key,end,window=20){
+    const values=[];
+    for(let i=end-window+1;i<=end;i++){ if(i<=0) continue; values.push(Math.log(rows[i][key]/rows[i-1][key])); }
+    if(values.length<10) return 0;
+    const mean=values.reduce((a,b)=>a+b,0)/values.length;
+    const variance=values.reduce((a,b)=>a+(b-mean)**2,0)/(values.length-1);
+    return Math.sqrt(variance*252);
+  }
+  function drawBacktestChart(points){
+    const canvas=document.getElementById('bt-chart'); if(!canvas||!points.length) return;
+    const rect=canvas.getBoundingClientRect(), dpr=window.devicePixelRatio||1;
+    canvas.width=Math.max(300,rect.width)*dpr; canvas.height=190*dpr;
+    const ctx=canvas.getContext('2d'); ctx.scale(dpr,dpr);
+    const w=canvas.width/dpr,h=190,pad=18;
+    const min=Math.min(0,...points),max=Math.max(0,...points),range=Math.max(1,max-min);
+    ctx.clearRect(0,0,w,h); ctx.strokeStyle='#E0CEA8';ctx.lineWidth=1;
+    const zeroY=pad+(max/range)*(h-pad*2);ctx.beginPath();ctx.moveTo(pad,zeroY);ctx.lineTo(w-pad,zeroY);ctx.stroke();
+    ctx.strokeStyle=points[points.length-1]>=0?'#2D7A4F':'#B83232';ctx.lineWidth=2;ctx.beginPath();
+    points.forEach((v,i)=>{const x=pad+i/(Math.max(1,points.length-1))*(w-pad*2),y=pad+(max-v)/range*(h-pad*2);i?ctx.lineTo(x,y):ctx.moveTo(x,y);});ctx.stroke();
+  }
+  async function loadBacktestData(){
+    try{const r=await fetch('./data/backtest_underlyings.json?v='+Date.now());if(!r.ok)throw new Error('HTTP '+r.status);backtestData=await r.json();
+      const first=backtestData.rows[0]?.date||'—',last=backtestData.rows.at(-1)?.date||'—';
+      document.getElementById('bt-source').textContent=`資料：${first} 至 ${last}，${backtestData.rows.length.toLocaleString()} 個共同交易日。正股為調整後日線；Credit 為模型估算。`;
+    }catch(e){document.getElementById('bt-source').textContent='歷史資料載入失敗，請重新整理後再試。';}
+  }
+  function runBacktest(){
+    const err=document.getElementById('bt-error');
+    if(!backtestData){err.textContent='歷史資料尚未載入。';err.style.display='block';return;}
+    const symbol=document.getElementById('bt-symbol').value,key=symbol.toLowerCase(),strategy=document.getElementById('bt-strategy').value;
+    const years=Number(document.getElementById('bt-years').value),delta=Number(document.getElementById('bt-delta').value),width=Number(document.getElementById('bt-width').value),minCredit=Number(document.getElementById('bt-min-credit').value),vixMax=Number(document.getElementById('bt-vix-max').value),cost=Number(document.getElementById('bt-cost').value),trend=document.getElementById('bt-trend').value;
+    if(delta<.05||delta>.45||width<=0||minCredit<0||vixMax<=0||cost<0){err.textContent='請檢查 Delta、寬度、Credit、VIX 與成本設定。';err.style.display='block';return;} err.style.display='none';
+    const rows=backtestData.rows,startDate=new Date(rows.at(-1).date+'T00:00:00Z');startDate.setUTCFullYear(startDate.getUTCFullYear()-years);
+    const trades=[];let skippedCredit=0,skippedTrend=0;
+    for(let i=20;i<rows.length-1;i++){
+      if(new Date(rows[i].date+'T00:00:00Z')<startDate||rows[i].vix>vixMax)continue;
+      const s=rows[i][key],expiry=rows[i+1][key],ma20=rows.slice(i-19,i+1).reduce((a,r)=>a+r[key],0)/20;
+      if(trend==='with'&&((strategy==='bull'&&s<=ma20)||(strategy==='bear'&&s>=ma20))){skippedTrend++;continue;}
+      let vol=realizedVol(rows,key,i);vol=Math.max(vol,rows[i].vix/100*(symbol==='MU'?1.25:1));
+      const z=normalInv(1-delta),move=z*vol*Math.sqrt(1/252);
+      const short=Math.round(strategy==='bull'?s*Math.exp(-move):s*Math.exp(move));
+      const long=strategy==='bull'?short-width:short+width,side=strategy==='bull'?'put':'call';
+      const credit=Math.max(0,bsPrice(side,s,short,vol)-bsPrice(side,s,long,vol));
+      if(credit<minCredit){skippedCredit++;continue;}
+      const intrinsic=strategy==='bull'?Math.max(short-expiry,0)-Math.max(long-expiry,0):Math.max(expiry-short,0)-Math.max(expiry-long,0);
+      const pnl=(credit-intrinsic)*100-cost,maxRisk=width*100-credit*100+cost;
+      trades.push({date:rows[i].date,credit:credit*100,pnl,maxRisk});
+    }
+    if(!trades.length){document.getElementById('bt-output').innerHTML='<div class="bt-empty">沒有交易符合條件，請降低最低 Credit 或放寬過濾。</div>';return;}
+    const wins=trades.filter(t=>t.pnl>0),losses=trades.filter(t=>t.pnl<=0),sum=trades.reduce((a,t)=>a+t.pnl,0),ev=sum/trades.length,avgWin=wins.length?wins.reduce((a,t)=>a+t.pnl,0)/wins.length:0,avgLoss=losses.length?losses.reduce((a,t)=>a+t.pnl,0)/losses.length:0;
+    const grossWin=wins.reduce((a,t)=>a+t.pnl,0),grossLoss=Math.abs(losses.reduce((a,t)=>a+t.pnl,0)),pf=grossLoss?grossWin/grossLoss:Infinity;
+    let equity=0,peak=0,maxDD=0,streak=0,maxStreak=0;const curve=[];trades.forEach(t=>{equity+=t.pnl;peak=Math.max(peak,equity);maxDD=Math.max(maxDD,peak-equity);streak=t.pnl<=0?streak+1:0;maxStreak=Math.max(maxStreak,streak);curve.push(equity);});
+    const avgRisk=trades.reduce((a,t)=>a+t.maxRisk,0)/trades.length,roi=ev/avgRisk*100, cls=ev>0?'good':'bad';
+    const fmt=v=>`${v>=0?'+':'−'}$${Math.abs(v).toFixed(2)}`,ratio=Number.isFinite(pf)?pf.toFixed(2):'∞';
+    const recent=trades.slice(-8).reverse().map(t=>`<tr><td>${t.date}</td><td>$${t.credit.toFixed(2)}</td><td class="${t.pnl>=0?'chg-up':'chg-dn'}">${fmt(t.pnl)}</td></tr>`).join('');
+    document.getElementById('bt-output').innerHTML=`<div class="bt-verdict ${cls}"><strong>${ev>0?'模型期望值為正':'模型期望值為負'}</strong>：每筆 ${fmt(ev)}，約為平均最大風險的 ${roi.toFixed(2)}%。這只表示規則在模型假設下的歷史結果，不是未來保證。</div><div class="bt-metrics"><div class="bt-metric"><div class="bt-metric-label">交易次數</div><div class="bt-metric-value">${trades.length}</div></div><div class="bt-metric"><div class="bt-metric-label">勝率</div><div class="bt-metric-value">${(wins.length/trades.length*100).toFixed(1)}%</div></div><div class="bt-metric"><div class="bt-metric-label">每筆期望值</div><div class="bt-metric-value ${ev>=0?'positive':'negative'}">${fmt(ev)}</div></div><div class="bt-metric"><div class="bt-metric-label">Profit Factor</div><div class="bt-metric-value">${ratio}</div></div><div class="bt-metric"><div class="bt-metric-label">最大回撤</div><div class="bt-metric-value negative">−$${maxDD.toFixed(0)}</div></div><div class="bt-metric"><div class="bt-metric-label">最大連敗</div><div class="bt-metric-value">${maxStreak}</div></div></div><canvas class="bt-chart" id="bt-chart" aria-label="累積模型損益曲線"></canvas><div class="sterling-table-wrap"><table class="bt-table"><thead><tr><th>最近交易</th><th>估算 Credit</th><th>到期盈虧</th></tr></thead><tbody>${recent}</tbody></table></div><div class="bt-assumptions">平均獲利 ${fmt(avgWin)}｜平均虧損 ${fmt(avgLoss)}｜累積 ${fmt(sum)}。因 Credit 不足略過 ${skippedCredit} 日、趨勢不符略過 ${skippedTrend} 日。假設持有至下一交易日收盤結算，未模擬日內止盈、止損、早盤 IV、Bid/Ask 滑價、提前指派與重大事件跳空。</div>`;
+    requestAnimationFrame(()=>drawBacktestChart(curve));
+  }
+
   // ── Init ──
   updateClock();
   setInterval(updateClock, 1000);
@@ -4424,6 +4557,7 @@
   renderUpcomingHolidays();
   document.querySelectorAll('#tab-sterling input').forEach(el => el.addEventListener('input', updateSterling));
   updateSterling();
+  loadBacktestData();
 </script>
 
 </body>

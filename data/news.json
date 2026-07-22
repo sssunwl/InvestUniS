@@ -85,34 +85,35 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-22 16:36 HKT",
+      "updated_at": "2026-07-22 17:20 HKT",
       "news": [
         {
-          "title": "港股收評：恒生指數跌0.95% 失守25000點",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zVW5TOFozRWFES0ZscC1qU3JpUEc2UEFFd2FlSmJlc3BRRlZ5MnVwZUk1M3RWcVZ6SEpjWDNyV1I5VmZsRGhvT2JRU015OEFCY2ZUVUcwTUpIOFN1M3R6VThRYzFkMk9keDVYQXBXdG9pWXZpMHAtamwxNA?oc=5",
-          "source": "香港商报",
-          "published_hkt": "07/22 16:22",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "【港股收市】恒指跌239點 騰訊、網易挫7% 滙豐逆市升1%破頂 金股造好紫金升6%（不斷更新）",
-          "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxPZVM1X01VeE13cndmS3pJV0c2QUlWS05ZSmhGdGpJdldpNjRXOFJqR2NUc1JWVktwUWFTMEpfOEFMZzI3RDBBVWh2NFIxUldINktCakU4LVJzMnNMc2ZTWXl1UDYyWXkyQ3pBaWFoUS1qQWdOZWdLWjQ5TnlhSU5UOW5CelN3SmRXaFJ4eWVkMC00QmstbFQ3Y19TLXpIa0NTdXRoNUE1SFRsNGFRT19xVkVPUC1aanVVZEpGTHk0WFR2cXhJanMxVWxxdkJnbXVFdnlEbjBabUFBY0NqYTBQS2N3bW1Sd1lFUnA2eFFnZFE2NEhONy1xdTVLOU55TjMxWW42ZnJiYVFLTDZrR0JKMUJJdnZPS2JfeHJlRVFtNU1CZkhNQTdHbVl4YWtPMVJXcGVHclNWQnpaVFpiSnQ4RXk5Y3hpb21TV2N1OXR1TjVZZmdidU53Q0ZkdU92R0VlUUdpbHFyeEJqdXNPMC1MTFpVTHFqcDhNZEg0VlVCMHJYbGpYaVAxYm1TOU5mQnNHTlNLMGQtSUo5bTVqRnJzMWF2bURGSmdjNkxTWUliVC12SXdNY2xKZUhtd0I4VGxjUms2eUVlZ2c0dGg5MmNWT3ZEa3R1M0M5RDlkRUZDWkQ0SFAwaVNCczhGWlNscFZNRU5rYUhHcXMzNTBSWTBnbDVvQVBYYzBfYk5WeElvOV9DSEJlNC1kbHhhb18yanRTT0t5NTMyZmN1c21lNERiVkxGV016M3FHUlJHWEFn?oc=5",
-          "source": "香港經濟日報HKET",
-          "published_hkt": "07/22 16:12",
+          "title": "恒指走勢丨埋單再回吐239點失兩萬五 騰訊網易插7%",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSYnNvN3hmV3lyOVVPYUxEb24ycEpvVG5WSW1tUEdfR0ZqTW1yOGp4QTBQX254dmZrWGg3RXhmMHR1VzlRSlNDT2Y3dldQR3ZtSVhZQW56cVY1SnJOcm9BYWVuNkhVTFZUUVNVWTFXWQ?oc=5",
+          "source": "信報網站",
+          "published_hkt": "07/22 16:53",
           "related": [
             "^HSI",
             "0700.HK"
           ]
         },
         {
-          "title": "恒指走勢丨午後沽壓加劇跌約300點 科指挫逾3%",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sOGhKTUdWZ0lpRGtvTnI3elJVNmpyMUVfUlFMYTJ5bWN4WV9FSC1NRGphMVdaLUdSRjl5cEFNcnlHb0hic1ZYd09SUEVJMW5sTjU3SFJQcXdMb29mVHJybTZkRFdjSDl4UmxySnlEOA?oc=5",
-          "source": "信報網站",
-          "published_hkt": "07/22 13:50",
+          "title": "港股收評：恒生指數跌0.95% 失守25000點",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mbXljRVNWa1FWSGMtY0ZoT3RUa0ZDOXJHUEtxU1E2ZjVhRDBOQ0oxeldra1docy1lbXBpTkttdGhaOGpISGdHS0UtLXB2ZjlJaHZ0WG9Kb3FSYU01Rl9CN0RpaTFIcG0wUEl1UVMyUEI1Zw?oc=5",
+          "source": "香港商报",
+          "published_hkt": "07/22 16:44",
           "related": [
             "^HSI"
+          ]
+        },
+        {
+          "title": "恒指低收239點 科指跌3% 騰訊跌7%",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yMmIzTkZZeWVZemItME9iLTQ1ckw5cFBJQ0R1ZDNPM0VXRHF5emZuRVBtUzEtX0lSSTdXY2F5alJOaTZFZG5jSU9kYkhYaG1xeHJkNjZOYlNBS1BRMkFRc2ZGUnF0ZXYtdm9mMlBaNA?oc=5",
+          "source": "RTHK News",
+          "published_hkt": "07/22 16:42",
+          "related": [
+            "^HSI",
+            "0700.HK"
           ]
         }
       ]
@@ -148,32 +149,28 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-22 16:36 HKT",
+      "updated_at": "2026-07-22 17:20 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數- 今日大盤籌碼- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1U0FJMFhObkFsWjlfdHo1UUZlSTA2QmpjdnpaOUtnR09NUi1zZXV1Ti1WTXVKWmVYbEdKLXpfYmFKQVBOaDRpZ3RhYjJjeWRWdnYxT1dqdVg?oc=5",
-          "source": "CMoney",
-          "published_hkt": "07/22 15:23",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "《經研隨筆》開徵資本利得稅避免社會貧窮化",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FZktWbXFuN296YkZ4TDR6V0ZicDA2Q2xXdXNIZFBRSzFjRlV6bW44MnRDNldhQzl2eHVLWTVfaHVOWklJXzlLcFdKVXNwZzZXdm0tY2xPVQ?oc=5",
-          "source": "anntw.com",
-          "published_hkt": "07/22 15:18",
+          "title": "外資揮別連13賣 台股收漲近600點 記憶體、矽光子領軍反攻",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SWmkxMUpURnpPNDBvYzV6djV0WTZ6czNaS0wyMl9LT3VaMmtwQzdWN0RfWXVzbjZPRTZsUGM2RzdoRGQ3dzhjQXhOX0xqV3JrMU9KYXFBbllWSHBvT1NyanBMQ0w5aV9SdlpWNnpwT19GbW8?oc=5",
+          "source": "民報",
+          "published_hkt": "07/22 17:03",
           "related": []
         },
         {
-          "title": "TWA00 加權指數- 歡迎收聽今晚直播~大盤碰壓力，多空交戰關鍵！下一步如何觀察？ - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZVkNsQUV3ZWdubFNLUW5yanlyVkVOa0NOdUVqNk9IcUdXN19SSVRYU2VldUxGX0FBTG9jb1FvQzAzZXJZWXZyclRWQ2ZFbWt6eEQ4aENwNWw?oc=5",
-          "source": "CMoney",
-          "published_hkt": "07/22 14:53",
-          "related": [
-            "^TWII"
-          ]
+          "title": "台股暴跌、暴漲皆破紀錄！國巨從1220元腰斬到608元，ETF卻趁崩跌偷偷加碼!",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UZWc5SWJ1MG9tbVBaVWJpZGxLSF9MVFlEVVlMM2hVRkJES1RMOWNVNlZJODl6RHhiQmE0RTVUWlA2LUxKcHpfYk11WExxNnBUSjRRUUl4d24?oc=5",
+          "source": "玩股網",
+          "published_hkt": "07/22 16:51",
+          "related": []
+        },
+        {
+          "title": "台股「連2日強彈」該獲利減碼？專家自爆「4個交易日、加碼破千萬」網跪了",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zR0F4SVdoX2lkeEZ5dVUtdnp0Q1BnRjFqVHJqQlhienh5cW82Tkc0ckpNY21HTXA1WTdVWnE3MHpZMHZWNjBVOGltTW8yZkE0TTZfM1VoSkk5N21GTXRyanZXU1ZXdw?oc=5",
+          "source": "民視財經網",
+          "published_hkt": "07/22 16:29",
+          "related": []
         }
       ]
     }
@@ -211,7 +208,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-22 16:36 HKT",
+      "updated_at": "2026-07-22 17:20 HKT",
       "news": [
         {
           "title": "日股走勢不一 日經收跌",
@@ -223,10 +220,10 @@
           ]
         },
         {
-          "title": "《台股盤後》收漲592點、日K連二紅，險守10日線-新聞內容-基金",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSnc0SWhTd3ZjZ0pnVGlRaVk5X1dzYkMxOVJjMC1NM2xST182MG52LXRPb3BfbDZ3UHdEY0V5UjBpZllWMzRBNm85MlpPd2l6NmZJS2w0Tzl1X3I1V25GSzZjdkV0STJVUmtUTlZOSjYxbGxUdjZleTNLMDlBSi1GajFJWHU5Z2hFN1NacTliSDc?oc=5",
+          "title": "《台股盤後》收漲592點、日K連二紅，險守10日線- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZE12NWV6MlhUa1VYLTVSakFmVVd4dl9rNG1tZWU2R21SUi1CNURnVlh2TmotUDVhaERSRmZ6ZVdkd2V1T0VvT0RPSC13alhGdGFKNnRtMzFqMjAzdWNPVlktLXRZNU1MenlRS01kOFR3WE9oeXAyb28tTXBfZVQzTktxVjdmdzFVRnJuNENxZ0pCUQ?oc=5",
           "source": "MoneyDJ",
-          "published_hkt": "07/22 16:22",
+          "published_hkt": "07/22 16:20",
           "related": []
         },
         {
@@ -243,7 +240,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-22 16:36 HKT",
+    "updated_at": "2026-07-22 17:20 HKT",
     "news": [
       {
         "title": "Solana價格預測：ETF資金流入、看漲押注支撐上行",

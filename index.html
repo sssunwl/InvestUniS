@@ -751,6 +751,13 @@
     .bt-table { width:100%; border-collapse:collapse; font-size:11px; margin-top:12px; }
     .bt-table th,.bt-table td { padding:7px 6px; border-bottom:1px solid var(--border); text-align:right; white-space:nowrap; }
     .bt-table th:first-child,.bt-table td:first-child { text-align:left; }
+    .bt-strategy-guide { grid-column:1/-1; background:var(--cream); border:1px solid var(--border); border-radius:10px; padding:11px 12px; }
+    .bt-guide-title { font-size:12px; font-weight:800; color:var(--dark); margin-bottom:7px; }
+    .bt-leg { display:flex; align-items:center; gap:7px; padding:4px 0; font-size:11px; color:var(--mid); }
+    .bt-leg-action { min-width:36px; text-align:center; padding:2px 6px; border-radius:10px; font-size:10px; font-weight:800; }
+    .bt-leg-action.buy { background:var(--green-bg); color:var(--green); }
+    .bt-leg-action.sell { background:var(--red-bg); color:var(--red); }
+    .bt-guide-note { font-size:10px; line-height:1.6; color:var(--mid); margin-top:6px; padding-top:6px; border-top:1px solid var(--border); }
 
     /* ── Tools Tab: Resource Links ── */
     .resource-list { display: flex; flex-direction: column; gap: 14px; }
@@ -2624,21 +2631,23 @@
   ═══════════════════════════════════════ -->
   <div id="tab-backtest" class="tab-panel">
     <div class="section-intro">
-      用約五年的 QQQ、SPY、MU 日線與 VIX，快速比較 1DTE 信用價差（Credit Spread）規則。系統以前一日收盤建立倉位、下一交易日到期結算，並用歷史波動與 Black–Scholes <strong>估算</strong>收取權利金（Credit）。這不是歷史期權鏈（Option Chain），也不是 0DTE 分鐘級成交回測。
+      用約五年的 QQQ、SPY、MU 日線與 VIX，比較 1／2／7／14DTE 的有限風險期權組合。系統用歷史波動與 Black–Scholes <strong>估算</strong>收取或支付的權利金；DTE 在這裡代表往後第幾個交易日結算。這不是歷史期權鏈（Option Chain），也不是 0DTE 分鐘級成交回測。
     </div>
     <div class="bt-layout">
       <div class="sterling-card">
         <div class="sterling-card-title">回測條件</div>
         <div class="sterling-grid">
           <div class="calc-row"><label class="calc-label" for="bt-symbol">標的</label><select class="calc-input" id="bt-symbol"><option>QQQ</option><option>SPY</option><option>MU</option></select></div>
-          <div class="calc-row"><label class="calc-label" for="bt-strategy">策略</label><select class="calc-input" id="bt-strategy"><option value="bull">牛市認沽價差（Bull Put Spread）</option><option value="bear">熊市認購價差（Bear Call Spread）</option></select></div>
+          <div class="calc-row"><label class="calc-label" for="bt-strategy">策略</label><select class="calc-input" id="bt-strategy" onchange="updateBacktestStrategy(true)"><option value="bull_put">牛市認沽價差（Bull Put Spread）</option><option value="bear_call">熊市認購價差（Bear Call Spread）</option><option value="iron_condor">鐵鷹（Iron Condor）</option><option value="bull_call">牛市認購價差（Bull Call Spread）</option><option value="bear_put">熊市認沽價差（Bear Put Spread）</option></select></div>
           <div class="calc-row"><label class="calc-label" for="bt-years">期間</label><select class="calc-input" id="bt-years"><option value="1">近 1 年</option><option value="3" selected>近 3 年</option><option value="5">近 5 年</option></select></div>
-          <div class="calc-row"><label class="calc-label" for="bt-delta">賣出腿 Delta（Short Delta）</label><input class="calc-input" type="number" id="bt-delta" value="0.15" min="0.05" max="0.45" step="0.01"></div>
+          <div class="calc-row"><label class="calc-label" for="bt-dte">到期天數（DTE）</label><select class="calc-input" id="bt-dte"><option value="1">1DTE</option><option value="2">2DTE</option><option value="7">7DTE</option><option value="14">14DTE</option></select></div>
+          <div class="calc-row"><label class="calc-label" for="bt-delta" id="bt-delta-label">賣出腿 Delta（Short Delta）</label><input class="calc-input" type="number" id="bt-delta" value="0.15" min="0.05" max="0.75" step="0.01"></div>
           <div class="calc-row"><label class="calc-label" for="bt-width">履約價差寬度（Spread Width，$）</label><input class="calc-input" type="number" id="bt-width" value="5" min="1" step="0.5"></div>
-          <div class="calc-row"><label class="calc-label" for="bt-min-credit">最低收取權利金（Credit，$）</label><input class="calc-input" type="number" id="bt-min-credit" value="0.20" min="0" step="0.01"></div>
+          <div class="calc-row"><label class="calc-label" for="bt-min-credit">最低收取權利金（僅賣方，$）</label><input class="calc-input" type="number" id="bt-min-credit" value="0.20" min="0" step="0.01"></div>
           <div class="calc-row"><label class="calc-label" for="bt-vix-max">VIX 上限</label><input class="calc-input" type="number" id="bt-vix-max" value="30" min="5" step="1"></div>
           <div class="calc-row"><label class="calc-label" for="bt-cost">每組交易成本（$）</label><input class="calc-input" type="number" id="bt-cost" value="2.60" min="0" step="0.1"></div>
-          <div class="calc-row sterling-span-2"><label class="calc-label" for="bt-trend">趨勢過濾</label><select class="calc-input" id="bt-trend"><option value="with">順 20 日均線</option><option value="none">不過濾</option></select><div class="calc-hint">牛市認沽價差僅在價格高於 MA20；熊市認購價差僅在價格低於 MA20</div></div>
+          <div class="calc-row sterling-span-2"><label class="calc-label" for="bt-trend">趨勢過濾</label><select class="calc-input" id="bt-trend"><option value="with">依策略套用 MA20</option><option value="none">不過濾</option></select><div class="calc-hint" id="bt-trend-hint"></div></div>
+          <div class="bt-strategy-guide" id="bt-strategy-guide"></div>
         </div>
         <button class="calc-btn" id="bt-run" onclick="runBacktest()">🧪 執行近似回測</button>
         <div class="sterling-error" id="bt-error"></div>
@@ -4448,36 +4457,59 @@
       document.getElementById('bt-source').textContent=`資料：${first} 至 ${last}，${backtestData.rows.length.toLocaleString()} 個共同交易日。正股為調整後日線；收取權利金（Credit）為模型估算。`;
     }catch(e){document.getElementById('bt-source').textContent='歷史資料載入失敗，請重新整理後再試。';}
   }
+  const BACKTEST_STRATEGIES={
+    bull_put:{name:'牛市認沽價差',kind:'credit',bias:'bull',delta:.15,legs:[['sell','賣出','Put','較高履約價'],['buy','買入','Put','較低履約價']],note:'看漲或預期不會大跌；進場收取 Credit，最大風險有限。'},
+    bear_call:{name:'熊市認購價差',kind:'credit',bias:'bear',delta:.15,legs:[['sell','賣出','Call','較低履約價'],['buy','買入','Call','較高履約價']],note:'看跌或預期不會大漲；進場收取 Credit，最大風險有限。'},
+    iron_condor:{name:'鐵鷹',kind:'credit',bias:'neutral',delta:.10,legs:[['buy','買入','Put','最低履約價'],['sell','賣出','Put','較低履約價'],['sell','賣出','Call','較高履約價'],['buy','買入','Call','最高履約價']],note:'預期橫盤；同時建立牛市認沽價差與熊市認購價差，進場收取 Credit。'},
+    bull_call:{name:'牛市認購價差',kind:'debit',bias:'bull',delta:.55,legs:[['buy','買入','Call','較低履約價'],['sell','賣出','Call','較高履約價']],note:'看漲；進場支付 Debit，最大虧損為支付權利金與成本。'},
+    bear_put:{name:'熊市認沽價差',kind:'debit',bias:'bear',delta:.55,legs:[['buy','買入','Put','較高履約價'],['sell','賣出','Put','較低履約價']],note:'看跌；進場支付 Debit，最大虧損為支付權利金與成本。'}
+  };
+  function updateBacktestStrategy(resetDelta=false){
+    const id=document.getElementById('bt-strategy')?.value||'bull_put',cfg=BACKTEST_STRATEGIES[id]; if(!cfg)return;
+    if(resetDelta)document.getElementById('bt-delta').value=cfg.delta;
+    document.getElementById('bt-delta-label').textContent=cfg.kind==='credit'?'賣出腿 Delta（Short Delta）':'買入腿 Delta（Long Delta）';
+    document.getElementById('bt-min-credit').disabled=cfg.kind!=='credit';
+    document.getElementById('bt-trend-hint').textContent=cfg.bias==='bull'?'偏多策略僅在價格高於 MA20':cfg.bias==='bear'?'偏空策略僅在價格低於 MA20':'鐵鷹僅在價格距 MA20 不超過 1%';
+    document.getElementById('bt-strategy-guide').innerHTML=`<div class="bt-guide-title">${cfg.name}怎麼組？</div>${cfg.legs.map(l=>`<div class="bt-leg"><span class="bt-leg-action ${l[0]}">${l[1]}</span><strong>${l[2]}</strong><span>${l[3]}</span></div>`).join('')}<div class="bt-guide-note">${cfg.note}</div>`;
+  }
   function runBacktest(){
     const err=document.getElementById('bt-error');
     if(!backtestData){err.textContent='歷史資料尚未載入。';err.style.display='block';return;}
-    const symbol=document.getElementById('bt-symbol').value,key=symbol.toLowerCase(),strategy=document.getElementById('bt-strategy').value;
-    const years=Number(document.getElementById('bt-years').value),delta=Number(document.getElementById('bt-delta').value),width=Number(document.getElementById('bt-width').value),minCredit=Number(document.getElementById('bt-min-credit').value),vixMax=Number(document.getElementById('bt-vix-max').value),cost=Number(document.getElementById('bt-cost').value),trend=document.getElementById('bt-trend').value;
-    if(delta<.05||delta>.45||width<=0||minCredit<0||vixMax<=0||cost<0){err.textContent='請檢查 Delta、價差寬度、收取權利金、VIX 與成本設定。';err.style.display='block';return;} err.style.display='none';
+    const symbol=document.getElementById('bt-symbol').value,key=symbol.toLowerCase(),strategy=document.getElementById('bt-strategy').value,cfg=BACKTEST_STRATEGIES[strategy];
+    const years=Number(document.getElementById('bt-years').value),dte=Number(document.getElementById('bt-dte').value),delta=Number(document.getElementById('bt-delta').value),width=Number(document.getElementById('bt-width').value),minCredit=Number(document.getElementById('bt-min-credit').value),vixMax=Number(document.getElementById('bt-vix-max').value),cost=Number(document.getElementById('bt-cost').value),trend=document.getElementById('bt-trend').value;
+    if(delta<.05||delta>.75||width<=0||minCredit<0||vixMax<=0||cost<0){err.textContent='請檢查 Delta、價差寬度、收取權利金、VIX 與成本設定。';err.style.display='block';return;} err.style.display='none';
     const rows=backtestData.rows,startDate=new Date(rows.at(-1).date+'T00:00:00Z');startDate.setUTCFullYear(startDate.getUTCFullYear()-years);
-    const trades=[];let skippedCredit=0,skippedTrend=0;
-    for(let i=20;i<rows.length-1;i++){
+    const trades=[];let skippedPremium=0,skippedTrend=0;
+    for(let i=20;i<rows.length-dte;i++){
       if(new Date(rows[i].date+'T00:00:00Z')<startDate||rows[i].vix>vixMax)continue;
-      const s=rows[i][key],expiry=rows[i+1][key],ma20=rows.slice(i-19,i+1).reduce((a,r)=>a+r[key],0)/20;
-      if(trend==='with'&&((strategy==='bull'&&s<=ma20)||(strategy==='bear'&&s>=ma20))){skippedTrend++;continue;}
-      let vol=realizedVol(rows,key,i);vol=Math.max(vol,rows[i].vix/100*(symbol==='MU'?1.25:1));
-      const z=normalInv(1-delta),move=z*vol*Math.sqrt(1/252);
-      const short=Math.round(strategy==='bull'?s*Math.exp(-move):s*Math.exp(move));
-      const long=strategy==='bull'?short-width:short+width,side=strategy==='bull'?'put':'call';
-      const credit=Math.max(0,bsPrice(side,s,short,vol)-bsPrice(side,s,long,vol));
-      if(credit<minCredit){skippedCredit++;continue;}
-      const intrinsic=strategy==='bull'?Math.max(short-expiry,0)-Math.max(long-expiry,0):Math.max(expiry-short,0)-Math.max(expiry-long,0);
-      const pnl=(credit-intrinsic)*100-cost,maxRisk=width*100-credit*100+cost;
-      trades.push({date:rows[i].date,credit:credit*100,pnl,maxRisk});
+      const s=rows[i][key],expiry=rows[i+dte][key],ma20=rows.slice(i-19,i+1).reduce((a,r)=>a+r[key],0)/20;
+      if(trend==='with'&&((cfg.bias==='bull'&&s<=ma20)||(cfg.bias==='bear'&&s>=ma20)||(cfg.bias==='neutral'&&Math.abs(s-ma20)/ma20>.01))){skippedTrend++;continue;}
+      let vol=realizedVol(rows,key,i);vol=Math.min(1.5,Math.max(vol,rows[i].vix/100*(symbol==='MU'?1.25:1)));
+      const t=dte/252,sqrtT=Math.sqrt(t),z=normalInv(1-delta),putShort=Math.round(s*Math.exp(-z*vol*sqrtT)),callShort=Math.round(s*Math.exp(z*vol*sqrtT));
+      let premium,pnl,maxRisk,structure;
+      if(strategy==='bull_put'){
+        const kp=putShort,kl=kp-width;premium=bsPrice('put',s,kp,vol,t)-bsPrice('put',s,kl,vol,t);const intrinsic=Math.max(kp-expiry,0)-Math.max(kl-expiry,0);pnl=(premium-intrinsic)*100-cost;maxRisk=width*100-premium*100+cost;structure=`賣 Put ${kp}／買 Put ${kl}`;
+      }else if(strategy==='bear_call'){
+        const kc=callShort,kl=kc+width;premium=bsPrice('call',s,kc,vol,t)-bsPrice('call',s,kl,vol,t);const intrinsic=Math.max(expiry-kc,0)-Math.max(expiry-kl,0);pnl=(premium-intrinsic)*100-cost;maxRisk=width*100-premium*100+cost;structure=`賣 Call ${kc}／買 Call ${kl}`;
+      }else if(strategy==='iron_condor'){
+        const kp=putShort,kpl=kp-width,kc=callShort,kcl=kc+width;premium=(bsPrice('put',s,kp,vol,t)-bsPrice('put',s,kpl,vol,t))+(bsPrice('call',s,kc,vol,t)-bsPrice('call',s,kcl,vol,t));const intrinsic=Math.max(kp-expiry,0)-Math.max(kpl-expiry,0)+Math.max(expiry-kc,0)-Math.max(expiry-kcl,0);pnl=(premium-intrinsic)*100-cost;maxRisk=width*100-premium*100+cost;structure=`買P ${kpl}／賣P ${kp}／賣C ${kc}／買C ${kcl}`;
+      }else if(strategy==='bull_call'){
+        const kl=Math.round(s*Math.exp((.04+vol*vol/2)*t-normalInv(delta)*vol*sqrtT)),ks=kl+width;premium=bsPrice('call',s,kl,vol,t)-bsPrice('call',s,ks,vol,t);const intrinsic=Math.max(expiry-kl,0)-Math.max(expiry-ks,0);pnl=(intrinsic-premium)*100-cost;maxRisk=premium*100+cost;structure=`買 Call ${kl}／賣 Call ${ks}`;
+      }else{
+        const kl=Math.round(s*Math.exp((.04+vol*vol/2)*t+normalInv(delta)*vol*sqrtT)),ks=kl-width;premium=bsPrice('put',s,kl,vol,t)-bsPrice('put',s,ks,vol,t);const intrinsic=Math.max(kl-expiry,0)-Math.max(ks-expiry,0);pnl=(intrinsic-premium)*100-cost;maxRisk=premium*100+cost;structure=`買 Put ${kl}／賣 Put ${ks}`;
+      }
+      if(!Number.isFinite(premium)||premium<=0){skippedPremium++;continue;}
+      if(cfg.kind==='credit'&&premium<minCredit){skippedPremium++;continue;}
+      trades.push({date:rows[i].date,premium:premium*100,pnl,maxRisk,structure});
     }
-    if(!trades.length){document.getElementById('bt-output').innerHTML='<div class="bt-empty">沒有交易符合條件，請降低最低收取權利金或放寬過濾。</div>';return;}
+    if(!trades.length){document.getElementById('bt-output').innerHTML='<div class="bt-empty">沒有交易符合條件，請調整 Delta、最低收取權利金或趨勢過濾。</div>';return;}
     const wins=trades.filter(t=>t.pnl>0),losses=trades.filter(t=>t.pnl<=0),sum=trades.reduce((a,t)=>a+t.pnl,0),ev=sum/trades.length,avgWin=wins.length?wins.reduce((a,t)=>a+t.pnl,0)/wins.length:0,avgLoss=losses.length?losses.reduce((a,t)=>a+t.pnl,0)/losses.length:0;
     const grossWin=wins.reduce((a,t)=>a+t.pnl,0),grossLoss=Math.abs(losses.reduce((a,t)=>a+t.pnl,0)),pf=grossLoss?grossWin/grossLoss:Infinity;
     let equity=0,peak=0,maxDD=0,streak=0,maxStreak=0;const curve=[];trades.forEach(t=>{equity+=t.pnl;peak=Math.max(peak,equity);maxDD=Math.max(maxDD,peak-equity);streak=t.pnl<=0?streak+1:0;maxStreak=Math.max(maxStreak,streak);curve.push(equity);});
     const avgRisk=trades.reduce((a,t)=>a+t.maxRisk,0)/trades.length,roi=ev/avgRisk*100, cls=ev>0?'good':'bad';
     const fmt=v=>`${v>=0?'+':'−'}$${Math.abs(v).toFixed(2)}`,ratio=Number.isFinite(pf)?pf.toFixed(2):'∞';
-    const recent=trades.slice(-8).reverse().map(t=>`<tr><td>${t.date}</td><td>$${t.credit.toFixed(2)}</td><td class="${t.pnl>=0?'chg-up':'chg-dn'}">${fmt(t.pnl)}</td></tr>`).join('');
-    document.getElementById('bt-output').innerHTML=`<div class="bt-verdict ${cls}"><strong>${ev>0?'模型期望值為正':'模型期望值為負'}</strong>：每筆 ${fmt(ev)}，約為平均最大風險的 ${roi.toFixed(2)}%。這只表示規則在模型假設下的歷史結果，不是未來保證。</div><div class="bt-metrics"><div class="bt-metric"><div class="bt-metric-label">交易次數</div><div class="bt-metric-value">${trades.length}</div></div><div class="bt-metric"><div class="bt-metric-label">勝率</div><div class="bt-metric-value">${(wins.length/trades.length*100).toFixed(1)}%</div></div><div class="bt-metric"><div class="bt-metric-label">每筆期望值</div><div class="bt-metric-value ${ev>=0?'positive':'negative'}">${fmt(ev)}</div></div><div class="bt-metric"><div class="bt-metric-label">獲利因子（Profit Factor）</div><div class="bt-metric-value">${ratio}</div></div><div class="bt-metric"><div class="bt-metric-label">最大回撤</div><div class="bt-metric-value negative">−$${maxDD.toFixed(0)}</div></div><div class="bt-metric"><div class="bt-metric-label">最大連敗</div><div class="bt-metric-value">${maxStreak}</div></div></div><canvas class="bt-chart" id="bt-chart" aria-label="累積模型損益曲線"></canvas><div class="sterling-table-wrap"><table class="bt-table"><thead><tr><th>最近交易</th><th>估算收取權利金</th><th>到期盈虧</th></tr></thead><tbody>${recent}</tbody></table></div><div class="bt-assumptions">平均獲利 ${fmt(avgWin)}｜平均虧損 ${fmt(avgLoss)}｜累積 ${fmt(sum)}。因收取權利金不足略過 ${skippedCredit} 日、趨勢不符略過 ${skippedTrend} 日。假設持有至下一交易日收盤結算，未模擬日內止盈、止損、早盤隱含波動率（IV）、買賣價差（Bid/Ask）滑價、提前指派與重大事件跳空。</div>`;
+    const recent=trades.slice(-8).reverse().map(t=>`<tr><td>${t.date}</td><td>${t.structure}</td><td>${cfg.kind==='credit'?'收':'付'} $${t.premium.toFixed(2)}</td><td class="${t.pnl>=0?'chg-up':'chg-dn'}">${fmt(t.pnl)}</td></tr>`).join('');
+    document.getElementById('bt-output').innerHTML=`<div class="bt-verdict ${cls}"><strong>${cfg.name}｜${dte}DTE｜模型期望值${ev>0?'為正':'為負'}</strong>：每筆 ${fmt(ev)}，約為平均最大風險的 ${roi.toFixed(2)}%。這只表示規則在模型假設下的歷史結果，不是未來保證。</div><div class="bt-metrics"><div class="bt-metric"><div class="bt-metric-label">交易次數</div><div class="bt-metric-value">${trades.length}</div></div><div class="bt-metric"><div class="bt-metric-label">勝率</div><div class="bt-metric-value">${(wins.length/trades.length*100).toFixed(1)}%</div></div><div class="bt-metric"><div class="bt-metric-label">每筆期望值</div><div class="bt-metric-value ${ev>=0?'positive':'negative'}">${fmt(ev)}</div></div><div class="bt-metric"><div class="bt-metric-label">獲利因子（Profit Factor）</div><div class="bt-metric-value">${ratio}</div></div><div class="bt-metric"><div class="bt-metric-label">最大回撤</div><div class="bt-metric-value negative">−$${maxDD.toFixed(0)}</div></div><div class="bt-metric"><div class="bt-metric-label">最大連敗</div><div class="bt-metric-value">${maxStreak}</div></div></div><canvas class="bt-chart" id="bt-chart" aria-label="累積模型損益曲線"></canvas><div class="sterling-table-wrap"><table class="bt-table"><thead><tr><th>最近交易</th><th>買賣組合與履約價</th><th>模型權利金</th><th>到期盈虧</th></tr></thead><tbody>${recent}</tbody></table></div><div class="bt-assumptions">平均獲利 ${fmt(avgWin)}｜平均虧損 ${fmt(avgLoss)}｜累積 ${fmt(sum)}。因權利金條件略過 ${skippedPremium} 日、趨勢不符略過 ${skippedTrend} 日。假設進場後持有 ${dte} 個交易日至收盤結算；波動率代理最高採 150%。未模擬日內止盈、止損、早盤隱含波動率（IV）、買賣價差（Bid/Ask）滑價、提前指派與重大事件跳空。</div>`;
     requestAnimationFrame(()=>drawBacktestChart(curve));
   }
 
@@ -4558,6 +4590,7 @@
   document.querySelectorAll('#tab-sterling input').forEach(el => el.addEventListener('input', updateSterling));
   updateSterling();
   loadBacktestData();
+  updateBacktestStrategy(false);
 </script>
 
 </body>

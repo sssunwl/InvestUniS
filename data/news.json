@@ -85,32 +85,32 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-22 17:20 HKT",
+      "updated_at": "2026-07-22 18:36 HKT",
       "news": [
         {
-          "title": "恒指走勢丨埋單再回吐239點失兩萬五 騰訊網易插7%",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSYnNvN3hmV3lyOVVPYUxEb24ycEpvVG5WSW1tUEdfR0ZqTW1yOGp4QTBQX254dmZrWGg3RXhmMHR1VzlRSlNDT2Y3dldQR3ZtSVhZQW56cVY1SnJOcm9BYWVuNkhVTFZUUVNVWTFXWQ?oc=5",
-          "source": "信報網站",
-          "published_hkt": "07/22 16:53",
+          "title": "新时空丨港股收盘：三大指数集体回落、恒指收跌0.95%，有色金属、煤炭等题材逆势走强",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpYm9jeVlGdWFRRm9xek1UazJDWHFZSnZUY3JBY0pPS1pzT19Nc1R6Z3o2WVFUMGl4bGxuM05xN0owU1BYcm5LWHNOQWRSN2V1R0xLa2tqemZ4RS16Z19TNDZXaGl5Zw?oc=5",
+          "source": "FX168",
+          "published_hkt": "07/22 17:01",
+          "related": [
+            "^HSI"
+          ]
+        },
+        {
+          "title": "港股收評：科指跌3.04% 科網股、芯片股普跌 騰訊重挫7%拖累恒指大跌144點 作者 格隆匯",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0cmVXRmJ5M0g5TFVMc25MQ0FwTTIxbzJfVC02YkpSQWQ2TVotZ3VWMk1DSGxVb0FGbS1jT2pIUHdjdnpGX2JXZlp5Y2JtbXNpbWxPUWZ4cFJUeXliWGlPRER5bDVoY01lVU1DcU1xSjc?oc=5",
+          "source": "Investing.com 香港 - 股市報價& 財經新聞",
+          "published_hkt": "07/22 17:00",
           "related": [
             "^HSI",
             "0700.HK"
           ]
         },
         {
-          "title": "港股收評：恒生指數跌0.95% 失守25000點",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mbXljRVNWa1FWSGMtY0ZoT3RUa0ZDOXJHUEtxU1E2ZjVhRDBOQ0oxeldra1docy1lbXBpTkttdGhaOGpISGdHS0UtLXB2ZjlJaHZ0WG9Kb3FSYU01Rl9CN0RpaTFIcG0wUEl1UVMyUEI1Zw?oc=5",
-          "source": "香港商报",
-          "published_hkt": "07/22 16:44",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "恒指低收239點 科指跌3% 騰訊跌7%",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yMmIzTkZZeWVZemItME9iLTQ1ckw5cFBJQ0R1ZDNPM0VXRHF5emZuRVBtUzEtX0lSSTdXY2F5alJOaTZFZG5jSU9kYkhYaG1xeHJkNjZOYlNBS1BRMkFRc2ZGUnF0ZXYtdm9mMlBaNA?oc=5",
-          "source": "RTHK News",
-          "published_hkt": "07/22 16:42",
+          "title": "恒指走勢丨埋單再回吐239點失兩萬五 騰訊網易插7%",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSYnNvN3hmV3lyOVVPYUxEb24ycEpvVG5WSW1tUEdfR0ZqTW1yOGp4QTBQX254dmZrWGg3RXhmMHR1VzlRSlNDT2Y3dldQR3ZtSVhZQW56cVY1SnJOcm9BYWVuNkhVTFZUUVNVWTFXWQ?oc=5",
+          "source": "信報網站",
+          "published_hkt": "07/22 16:53",
           "related": [
             "^HSI",
             "0700.HK"
@@ -149,28 +149,34 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-22 17:20 HKT",
+      "updated_at": "2026-07-22 18:36 HKT",
       "news": [
         {
-          "title": "外資揮別連13賣 台股收漲近600點 記憶體、矽光子領軍反攻",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SWmkxMUpURnpPNDBvYzV6djV0WTZ6czNaS0wyMl9LT3VaMmtwQzdWN0RfWXVzbjZPRTZsUGM2RzdoRGQ3dzhjQXhOX0xqV3JrMU9KYXFBbllWSHBvT1NyanBMQ0w5aV9SdlpWNnpwT19GbW8?oc=5",
-          "source": "民報",
-          "published_hkt": "07/22 17:03",
-          "related": []
+          "title": "台股暴跌到底是為何？謝金河揭3大關鍵：台積電、南韓槓桿、還有「這1類股」 | 先探投資週刊 | 財經",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JcWhEV3hVS1ZDZktuSGVXT2p1dFBFVC1ycVVUYnRIWWJzalhMcDRHRXFncmVSWkJ2a3hyUTV1OEhpMjcxbTJqcUpmUW9VUQ?oc=5",
+          "source": "風傳媒",
+          "published_hkt": "07/22 18:13",
+          "related": [
+            "TSM"
+          ]
         },
         {
-          "title": "台股暴跌、暴漲皆破紀錄！國巨從1220元腰斬到608元，ETF卻趁崩跌偷偷加碼!",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UZWc5SWJ1MG9tbVBaVWJpZGxLSF9MVFlEVVlMM2hVRkJES1RMOWNVNlZJODl6RHhiQmE0RTVUWlA2LUxKcHpfYk11WExxNnBUSjRRUUl4d24?oc=5",
-          "source": "玩股網",
-          "published_hkt": "07/22 16:51",
-          "related": []
+          "title": "TWA00 加權指數- 盤後紀錄及早盤當沖選股補充！7/22 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwYlVVZ21KZ0tXcHNmQWpYOVJtemtFZ0JTRkx6ZlViaS0tdmEtcWRWYklwRTNTUVF2TDdhN1NHLTFpVUlBQUhONHVpaWxfakJPWmpLVG1wMjE?oc=5",
+          "source": "CMoney",
+          "published_hkt": "07/22 18:02",
+          "related": [
+            "^TWII"
+          ]
         },
         {
-          "title": "台股「連2日強彈」該獲利減碼？專家自爆「4個交易日、加碼破千萬」網跪了",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zR0F4SVdoX2lkeEZ5dVUtdnp0Q1BnRjFqVHJqQlhienh5cW82Tkc0ckpNY21HTXA1WTdVWnE3MHpZMHZWNjBVOGltTW8yZkE0TTZfM1VoSkk5N21GTXRyanZXU1ZXdw?oc=5",
-          "source": "民視財經網",
-          "published_hkt": "07/22 16:29",
-          "related": []
+          "title": "TWA00 加權指數- 詹姆士台股盤後解析｜2026/07/22 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JT215Nk1nemlTYXpURFB2Q2RFWXd1ZG53RkM4R0Fud2dVMHI2NndNMDJHakdSYmpkQjlQbnVsbmNFUnJlOG5hTGJRMDhKTUNBakdKMWNJclo?oc=5",
+          "source": "CMoney",
+          "published_hkt": "07/22 17:12",
+          "related": [
+            "^TWII"
+          ]
         }
       ]
     }
@@ -208,8 +214,26 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-22 17:20 HKT",
+      "updated_at": "2026-07-22 18:36 HKT",
       "news": [
+        {
+          "title": "台股上漲 592 點收 44,825 點！台積電翻黑、聯發科漲近 5％，日韓股市同步反彈",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XU0E4Vm1xVG9Rbm1IWi16cHJ5V1Q4TlhjcGZsOXhBZUVYUy1aNGhVN3gxWWxYZ3JlQVI1ckVxdXVHR0tqal9IVlN3WmFjT01WU05Z?oc=5",
+          "source": "果仁家",
+          "published_hkt": "07/22 18:08",
+          "related": [
+            "TSM"
+          ]
+        },
+        {
+          "title": "《日股》震盪翻黑，日經收跌0.18%",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVU45bk1XT00xMmdiQ3ROOVByZ19CSUxPc0JuMmZIdlBhc0VUNUM4RlMtR3lSTi03c2gtNkFQT0RvaHlFdjNXSG5vTXUzbnZfS1hlS24xVDY0SjhocDZhZnlhdURpUEZFanViTDhUTk82b2NDc0hDNDNrQmdObnNuM3V6dWtiZDVrREVzcmFUalFGUQ?oc=5",
+          "source": "台視全球資訊網",
+          "published_hkt": "07/22 18:04",
+          "related": [
+            "^N225"
+          ]
+        },
         {
           "title": "日股走勢不一 日經收跌",
           "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNTVl2VXRPTTI1aUM2dVUwU3RkOVd3cWJmX0xhOFNZSGtTaUpCRHozYnk5MEx0bTVhTnBCV1VSc2dVTVNOczZfQnJrZVA4cmdXNDFxdUtzRkFiWkt5ZVhkWUxLMVdFX2RTZ1FCRWEtRk8wV2lSdEtiR0l4eXhIU2JRZTMzaW9HQmdkcWc1czhOQnc0UkhfamtoMUxacHR3aFpUN3FVSEFsX2N0NTJia2dSQmxxZ2I3Q21vS1UyOVdtcHl3TE5xTGtTR00zcDlwbm85TDBKZzlNZmZlY1hBdzRPaU9wcUx6dFlESUJ6cVNHck5FV09CcGxHTk96Wk5HSUFoZDBDLVJLc2RNY2tyODhINTNoMVR6YVBHWmZBbW5LUHFWZ2xI?oc=5",
@@ -218,30 +242,20 @@
           "related": [
             "^N225"
           ]
-        },
-        {
-          "title": "《台股盤後》收漲592點、日K連二紅，險守10日線- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZE12NWV6MlhUa1VYLTVSakFmVVd4dl9rNG1tZWU2R21SUi1CNURnVlh2TmotUDVhaERSRmZ6ZVdkd2V1T0VvT0RPSC13alhGdGFKNnRtMzFqMjAzdWNPVlktLXRZNU1MenlRS01kOFR3WE9oeXAyb28tTXBfZVQzTktxVjdmdzFVRnJuNENxZ0pCUQ?oc=5",
-          "source": "MoneyDJ",
-          "published_hkt": "07/22 16:20",
-          "related": []
-        },
-        {
-          "title": "日股：Alphabet財報前夕AI擔憂再現，日經指數週三震盪收跌116.59點或0.18%",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQODZYSmdUS0pvcm9qLWdlR2ZHVVRsd0I0alVXdHVNYldEYTlFU1dIS2hOcU1DQkN0ZUhqSVZIQnpVMUM3dDN6RGxERDUzdWVBa1JPNDh5RlVLSjNSeV9aRHlQSU56VHhXWWUyaXhRcVc0WjBQQTczclNXaURoSHRWS1BMUzlSY19q?oc=5",
-          "source": "富聯網",
-          "published_hkt": "07/22 15:00",
-          "related": [
-            "GOOGL",
-            "^N225"
-          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-07-22 17:20 HKT",
+    "updated_at": "2026-07-22 18:36 HKT",
     "news": [
+      {
+        "title": "總統川普支持加密貨幣道德新規 聯邦官員在職禁發行代幣",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iTWZGeVZac1p4Z1FSZTZ0aTJfUUFXYlFrckotWXN0VWZULTlwOVpRTzBxMU5SWWE0QVlmUnRWeEJyY3JHS21YdHM0b0pQUXBEaVE?oc=5",
+        "source": "蕃新聞",
+        "published_hkt": "07/22 18:26",
+        "related": []
+      },
       {
         "title": "Solana價格預測：ETF資金流入、看漲押注支撐上行",
         "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZXZ6QWJxTDBxVFhmbldJTVN3MzRhNXIyR1FwOF9zNGJaVENsbzQ5SUtZY1VTNGIxamZJcEpqT3ZoZ3F5cFd3bGw4YWJqSVN4eDcxcHAwQkg5VWdiQldVbXItOVBrT21ocWJ4MFNyQ0VJNGJFX01wRXFWb1lKdF9YZmlxblFMMXZwaDF4MEJtWEpTTUNWLUV2M25XS1Z3M0lrcVFjVjg2ZWdrRXg5VktIOURBZkNMRjlGdGVFRFlNdVFpdGl1cUpZbzZVZ3ZwaG1DbUl5ZkpTM0ZwSFZ1Tl82a2lxVVZydE53MnBjSdIB7AFBVV95cUxOZXZ6QWJxTDBxVFhmbldJTVN3MzRhNXIyR1FwOF9zNGJaVENsbzQ5SUtZY1VTNGIxamZJcEpqT3ZoZ3F5cFd3bGw4YWJqSVN4eDcxcHAwQkg5VWdiQldVbXItOVBrT21ocWJ4MFNyQ0VJNGJFX01wRXFWb1lKdF9YZmlxblFMMXZwaDF4MEJtWEpTTUNWLUV2M25XS1Z3M0lrcVFjVjg2ZWdrRXg5VktIOURBZkNMRjlGdGVFRFlNdVFpdGl1cUpZbzZVZ3ZwaG1DbUl5ZkpTM0ZwSFZ1Tl82a2lxVVZydE53MnBjSQ?oc=5",
@@ -254,13 +268,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSDM0NVhhZlNBVnZfTEtScVMyYWtGWTBIeXV0TlZOUGhqVmxDOHoyRThQMzE2dXFvX0tXbVc3UllLT1ZLM0pFanFKa0szT2JFZ1prb1hvWkhpMlk0ZEVYMTdHR1g3TjJWR09zYU1IcnlQMDhOdVdLS20tZC1vcXJkQW5QQV9hZS1DMlJPQVdtSExyQkZ5UkRwUVloRHEtNlgtaGNmSzBRek5fbHItRkJfbTNWUDlnN0s5S09zRnUzbTRPaGZDZkpzT1ZLNE5McFV0b3UxX1QzaDFXVE56VWpYdW9qbFlPNEnSAecBQVVfeXFMTkgzNDVYYWZTQVZ2X0xLUnFTMmFrRlkwSHl1dE5WTlBoalZsQzh6MkU4UDMxNnVxb19LV21XN1JZS09WSzNKRWpxSmtLM09iRWdaa29Yb1pIaTJZNGRFWDE3R0dYN04yVkdPc2FNSHJ5UDA4TnVXS0ttLWQtb3FyZEFuUEFfYWUtQzJST0FXbUhMckJGeVJEcFFZaERxLTZYLWhjZkswUXpOX2xyLUZCX20zVlA5ZzdLOUtPc0Z1M200T2hmQ2ZKc09WSzROTHBVdG91MV9UM2gxV1ROelVqWHVvamxZTzRJ?oc=5",
         "source": "FXStreet",
         "published_hkt": "07/22 13:55",
-        "related": []
-      },
-      {
-        "title": "Bitmine Immersion Technologies (BMNR) 宣佈其以太幣(ETH) 持有量達578 萬枚，加密資產及現金總持有額達115 億美元",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ENEVFQXNGSVF4dmhwRDlWWUJ4bzdvODFwcExVNlJfSy1OY0VXWGRTQThYTjk4SGxiV2xPUFFBbWhBRm9GYy1EaDVYSnBGRk80bkE?oc=5",
-        "source": "蕃新聞",
-        "published_hkt": "07/22 12:30",
         "related": []
       }
     ]

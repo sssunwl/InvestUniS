@@ -27,32 +27,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-23 08:57 HKT",
+      "updated_at": "2026-07-23 11:55 HKT",
       "news": [
         {
-          "title": "美股業績期來襲- 七月20至22日復盤",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDRNT256SjMyWWY3cmZKNUdoS19hd3M2WllOX00wVlRQUUxoNE1HUmZHeTVwNnNZMlQxMFR6ZGJtZl9TUXNXWXVhU05UVkdZYXBIZWtkRTZhaHh4NTFOVDRLVnVnd0ZJOENLTGVtV0pXaFlZaTRLYklIRlU5Q2RKZWU3WWNVZnhLQk9aMXRyMkd2UGxTOEFBNlVUVXB1aXJ4cEV1dTVNWDNwUGd3ZkFxbHlVZw?oc=5",
-          "source": "Moomoo",
-          "published_hkt": "07/23 08:04",
+          "title": "美股科技巨頭財報週：Google、特斯拉未超市場預期，盤後股價走低",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXNkZtbzFERFlldE1LMGxWVVh2V01pdnFCcWNRTWRvWENLbUhrdFA1YS1qT3lRU1M2N1J3X0dId2NwNUgzMTdtTnBlVjM2Zw?oc=5",
+          "source": "遠見雜誌",
+          "published_hkt": "07/23 11:22",
+          "related": [
+            "TSLA",
+            "GOOGL"
+          ]
+        },
+        {
+          "title": "美股創高暗藏殺機！空頭押注衝16年最高 AI泡沫要破了？",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JN3k4X19ibUg4Q09rQl9Xb3hTVDRSSVlJTjdaSGlvUjMyUnJ0Y1BaSVFmWFR5allMYUkyOUc3bjctcGNEZjZyNmVqd3VBOXVvejZSSU5JaW9qc2VRSEx3?oc=5",
+          "source": "工商時報",
+          "published_hkt": "07/23 10:52",
           "related": []
         },
         {
-          "title": "討論牆 | 市場聚焦科技股財報週登場 美股道瓊跌307點、台積電ADR漲近1",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ySUpkTnJoUWRqYUlLdkh3WmVCb251VlhoRGM5QW1mc3dJMmtCaVgyUkRVaFlfTHdfbk5QVTVHaHVKMHRoc2JBUnpuYmEyMmdpV0dKc2lsNC1fWmU2a0s3UGhZYlg?oc=5",
-          "source": "LINE TODAY",
-          "published_hkt": "07/23 07:31",
-          "related": [
-            "TSM"
-          ]
-        },
-        {
-          "title": "〈財報〉Alphabet Q2優於預期仍挨賣 AI資本支出衝2050億美元嚇壞市場 盤後跌近4%",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52aGZuaTZSNERYUlRNc2Z6MTVTVEZlMFV6a3JtVFU2MS1FRkRsaktRVGhXZ05qREVJV2xFRTNRVkhMOURNdXdGR3k5WF9DX1k?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "07/23 07:18",
-          "related": [
-            "GOOGL"
-          ]
+          "title": "《金融》美股空軍集結！放空部位衝16年新高 2大致命擔憂引爆",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU2I3emhRYlNNeEItNzM0eTd3Nm5CZ1lJdVdLVzJaa2sxTktGd2dPNm5JWWliYTVNdVJDVXppNmZrSkNfMEJtQjVCajg3NTBrdklTX3V3NE1PZXhFUGJtU1NqdzdsS0VuMUZHNC1uakJYQ3VtOGNXWFQ4azYzdUlGSnhuMjluM0R0XzdoT1QxbVNpZw?oc=5",
+          "source": "富聯網",
+          "published_hkt": "07/23 10:45",
+          "related": []
         }
       ]
     }
@@ -245,27 +244,29 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-23 08:57 HKT",
+    "updated_at": "2026-07-23 11:55 HKT",
     "news": [
       {
-        "title": "Crypto週期留下的電力、人才與資本，如何系統性供養了AI產業？",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWk9HQ19QVUplejFmUGlwT2JhRWdSeDlzdFNpd0MyRE5qR29IVlU2OTdYRHpBZ2dCQ0M3azRiaUxPMmlFQkN4cTMyeEZPdjJqOWd6TlE3Q2JrbEtVaTlHcU1iYUNDZ3oxYTFxR29YWGRUcVdEMlRjTm9mOG9FNVFsQVA0dmJpdw?oc=5",
-        "source": "PANews",
-        "published_hkt": "07/23 08:51",
+        "title": "標普道瓊推出 SP Pantera Digital Asset Index、使用「協議收入」追蹤基準點",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZEliWE5DOXc3cUoyeXZKS2d2VFRnLTBrdERCUG1mWVpRSzZFZmtTQ0hOVW5Lb2JBTmtYUldJWV9raGhZREZFdzFMaGNXN3BQN1R4Y05uWmhndkwzSURaZnRfS0pDTm1NbklUSFFKZnQ1aG1ISXo1aGZIaU40Unp1VE1OSDBfZw?oc=5",
+        "source": "鏈新聞 ABMedia",
+        "published_hkt": "07/23 10:28",
+        "related": [
+          "SPY"
+        ]
+      },
+      {
+        "title": "「全球經濟正在崩潰」！《富爸爸》作者清崎警告：下一輪危機或將重創多數人 作者 FX168",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43UmczSHNCSzU4SXVBYzV4TU1Ud3l4TDBMRHZoYm5VeEdJUjZZMkRPVFhZRkJRMzdEVlZaOXRZcVN2ZXNRU2wyTUdreXVmMDFFem9LSEVSLWowNmR1SlM2MzFsSzd1UF9pUE9XemM4SQ?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "07/23 10:20",
         "related": []
       },
       {
-        "title": "Hyperliquid、Robinhood或將引領加密貨幣的下一輪牛市，隨著DeFi與TradFi融合",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQblo0aEgxUTdTNWZEMkMzX21ZN0QxcThZQ3pMczhYZl8ydWk5RHJZcl85NE44dWdKVFB6bTh1ZWhJLUJyN1BkN1NkemlCR2s3WmFFN0wtRGJneFlOYy1xeko0V0dkQmVqZzRDcks0WUlvdEJNdk5OZUI0bFhJS1FFaldFa3BKVFhENFMwVWpJX09ZUjNBLUppS2F0aHBpdTZOU19XWlk1Z2l0c3NzZktmQmJDbm1kOFdGdng5UDBZSGhJZndQbE10WXVoWTd2a3RVRlkwcTJPWkg3UzRvNlhnMFNyeEdQM2VycG96YnI4dHJSN3BqQnF30gH3AUFVX3lxTFBuWjRoSDFRN1M1ZkQyQzNfbVk3RDFxOFlDekxzOFhmXzJ1aTlEcllyXzk0Tjh1Z0pUUHptOHVlaEktQnI3UGQ3U2R6aUJHazdaYUU3TC1EYmd4WU5jLXF6SjRXR2RCZWpnNENySzRZSW90Qk12Tk5lQjRsWElLUUVqV0VrcEpUWEQ0UzBVaklfT1lSM0EtSmlLYXRocGl1Nk5TX1daWTVnaXRzc3NmS2ZCYkNubWQ4V0Z2eDlQMFlIaElmd1BsTXRZdWhZN3ZrdFVGWTBxMk9aSDdTNG82WGcwU3J4R1AzZXJwb3picjh0clI3cGpCcXc?oc=5",
+        "title": "參議院共和黨人公布更新版CLARITY法案，新增加密貨幣道德限制",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdEpOczdhU2sxUmMzUnVQVC1PdW9ydXhtR1dqUkhKbGpWblYtblNfTDQ3YnVMQ09TUGtxYTlDOEhxWEY3VDM1bnBZRUo5NHM0T2E0b092amt2U1RJOTJseUJlSkczb1NTc3NQRW8xa1dhR3J5VktXLWlaSk5UNXdRZ3VEQ0FqemtSMTJXZ1d3LVRIWlFfS1U2TlVUdlo4aF81MWJEYjZ2aGdGMkRpc3U2em9ZWFI3Z2x6YUZ2MjdrSHl4YURYNXJ4M2lQR3ZLRHJINWtnMnJrUU5HR19JR3g5bmlyUVlVRThwak5IYjd3clByS3dMdVNF0gH3AUFVX3lxTE10Sk5zN2FTazFSYzNSdVBULU91b3J1eG1HV2pSSEpsalZuVi1uU19MNDdidUxDT1NQa3FhOUM4SHFYRjdUMzVucFlFSjk0czRPYTRvT3Zqa3ZTVEk5Mmx5QmVKRzNvU1Nzc1BFbzFrV2FHcnlWS1ctaVpKTlQ1d1FndURDQWp6a1IxMldnV3ctVEhaUV9LVTZOVVR2WjhoXzUxYkRiNnZoZ0YyRGlzdTZ6b1lYUjdnbHphRnYyN2tIeXhhRFg1cngzaVBHdktEckg1a2cycmtRTkdHX0lHeDluaXJRWVVFOHBqTkhiN3dyUHJLd0x1U0U?oc=5",
         "source": "FXStreet",
-        "published_hkt": "07/23 05:42",
-        "related": []
-      },
-      {
-        "title": "Gate 發佈 2026 第二季度報告：用戶突破 5800 萬，現貨交易量位列全球前三",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUDNXa1V6bUhLc3J2TF9FMEVnLTFJcS02ZmF2aUQ5SkJ1NDVxNFdNc3NDRlJFbDFkUFd2Z005MlZBeWhhS3cxdk9EYThIeE11bi12c2QxaTQyczU1dno2NzJWNEE1bS1BaXVGcjB3N1l1NHNadXZFZjFnZlZxOFFlSjEyUC1vdw?oc=5",
-        "source": "PANews",
-        "published_hkt": "07/23 02:10",
+        "published_hkt": "07/23 09:35",
         "related": []
       }
     ]

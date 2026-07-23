@@ -7,7 +7,7 @@ on:
     - cron: '0 0 * * 1'
 
 permissions:
-  contents: write           # Sterling 要 commit + push 回 repo（Sona 只讀 Sheet 所以是 read，這裡不同）
+  contents: write           # commit + push 研究更新回 repo
   id-token: write           # claude-code-action 的 OIDC token 交換需要
 
 jobs:
@@ -21,17 +21,34 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0     # 確保能 git pull / push
+          fetch-depth: 0
 
+      # Sterling 只負責「改檔」：編輯 index.html 三鏈、追加 research-log、寫 .last-summary.txt。
+      # 不做 git（交給下一步確定性處理，避免 agent 端 push 不穩／權限被擋）。
       - name: Serenity 週更研究（Sterling / Claude Code）
         uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          prompt: '讀 serenity/_run.md，嚴格照著執行。'
+          prompt: '讀 serenity/_run.md，嚴格照著執行。只改檔，不要自己跑 git，commit 由 workflow 處理。'
+          show_full_output: true    # 暫時：跑穩後可移除,方便在 Actions log 看 agent 每步動作
           claude_args: >-
-            --allowedTools "WebSearch,WebFetch,Read,Edit,Glob,Grep,Bash(git:*)"
+            --allowedTools "WebSearch,WebFetch,Read,Edit,Write,Glob,Grep"
 
-      # Sterling 會把當週摘要寫進 research-log/.last-summary.txt（不 commit），這裡推去 Discord #n-investunis
+      # 確定性地把 agent 改好的檔 commit + push（.last-summary.txt 已 gitignore，不會進版控）
+      - name: Commit & push 研究更新
+        if: success()
+        run: |
+          git config user.name "Sterling Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add index.html research-log/serenity-log.md
+          if git diff --cached --quiet; then
+            echo "本週無檔案變更,略過 commit"
+          else
+            git commit -m "Serenity 週更研究:三鏈更新 [skip ci]"
+            git push
+          fi
+
+      # Sterling 會把當週摘要寫進 research-log/.last-summary.txt，這裡推去 Discord #n-investunis
       - name: 推 Discord 週報摘要
         if: success()
         env:

@@ -86,8 +86,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-24 17:13 HKT",
+      "updated_at": "2026-07-24 18:31 HKT",
       "news": [
+        {
+          "title": "【港股收市】恒指全周累升400點 惟守唔住25000關",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UYWJ6aXh0U0U0cWl3VHpNTF9xUnN5aFQ0UlI0T1pFQW5CcURXb2VYbFNQN1I4a0ZqNHVXQV9HY0dfTURyR0VldGNSMEN2d0FXWGpFQVZDci1vNmZhdTF5WGlzaHBFNXc?oc=5",
+          "source": "Now 新聞",
+          "published_hkt": "07/24 17:14",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "港股收評：恒指跌約1%失守25000點，科網有色金屬PCB普跌，中銀香港大升6%創新高！ 作者格隆匯",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IREJRSXdpSVEwcmVDRmlVMXlOWnRvd0cydmw3ZERtQW9iM2RjaURnM3lrY3BmR2NEQWJlaDc2RkVwWng4M2VXVGl4eUtWNWgyYTFOS0ViRHE4MTN2Z21rZ2EyTjFSTWVJeHNjX0huMFc?oc=5",
@@ -102,15 +111,6 @@
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nMVFvc0hzUkJQUjJiYlNWZXpZNFlteG9OemZxT0R6TzhMMU0yVDFGekdrNnlsSk1aTXZOSHZIeHg3WDlxVGZlUFUwTmxYZWZHa05lbEE2QW5fWnhNSER2SzFFU2V0aTdEbzRfNzRqMA?oc=5",
           "source": "信報網站",
           "published_hkt": "07/24 16:58",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "恒指收跌247點 再失二萬五關 阿里跌4% 中銀升6%破頂 | 港股收市",
-          "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPcWI5bXlBVFJZZ05iYzROYjJ4Y2V4eW5KX0FuQnV1RkpXQ0tDdEhON29ETS1JbjNWeFYzTS1YazYydWtaYk12Q2t0YUk0U0tkejhzTWhuQ2pucThFMlZ5UmVZTXk4LUVreUFnVFR5emhUd0k1bXBLZnJTSHdzZmVwaC1xaVJRYzZNbXRkd1ZaSTNHRXNleTR2Qm9oMkRPNm0ybGdtODVGd0tjYXJpN0hnQ0VDMXprOXNZWFNvN1M3LVlYTGotQjNWa3BleGJYLWI2a29sUUgybHMwalJrdzN1VWh2Qm9RLTBYRko2RXVoWmJJaHo2bUxTeDJoTHdMTGJrdzB0djdicXF1VlVILXk5NUdwUDdodnZjZ2FrR1RYTTdibTZHa0paVy10aFBVbmdabmhQQ1dKLUVZclZudlFOTTJSeHZLbjNvQmMwNXd4Z01mLUNlcDlObHFQeGZjbkdoN0QwVEtqeUpoOWxWNVQ0bV85VEZYT0h1RndjQw?oc=5",
-          "source": "星島頭條",
-          "published_hkt": "07/24 16:55",
           "related": [
             "^HSI"
           ]
@@ -150,30 +150,32 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-24 17:13 HKT",
+      "updated_at": "2026-07-24 18:31 HKT",
       "news": [
         {
-          "title": "台股大刀誰在劫難逃？「這族群ETF」淪爆量重災區最高下殺近半根主動式00403A、00981A也成刀下魂",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YLVU1LXFBTDhVWF9SVFczeHZ2R0tnZHg0ekt3amhXNWluSFdQNHkwLXNMcHJHVEFqdU9uN2tORTlZSGUySFY3WW9Cbw?oc=5",
-          "source": "FTNN 新聞網",
-          "published_hkt": "07/24 16:40",
+          "title": "台股24日回檔指數力守44000點以上 緯創帶量續強連5漲開出",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PMWVjTWp5eHBraEdQbXJ4c2ROYUNIbkFPN3dFak1KVHdLbUoxaDZDajJxR2x6bTMtbGFSVVdweHpSWk5WOEI5TnZYaTFSam13UFE?oc=5",
+          "source": "蕃新聞",
+          "published_hkt": "07/24 18:15",
           "related": []
         },
         {
-          "title": "TWA00 加權指數- 今日大盤籌碼- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tc2ZWTkdheHlvRkU1Sk5EMjhxM2dkbGpxWEMtUEhJb3NCNWJvYmNKb19kei1qT2NGdGlYeHdLbXl2QnBsc0k1eUxfbWJ0YUFER01LQWtKSHo?oc=5",
+          "title": "TWA00 加權指數- 藍白新爛法導致各位小孩的未來受害- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yV0NDM24yUmFVX1M5QXFpYXZxSWpURmlTcjh6OUhTMTdzbWZKMVB0RG9qQld0VjVTaHdMLVVsOU9oak9xVGVBbklzXzRvX2szaFF3X2xqWEY?oc=5",
           "source": "CMoney",
-          "published_hkt": "07/24 15:25",
+          "published_hkt": "07/24 17:03",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "台股量縮下挫1195點，終場收在 43654點 週線翻紅",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HSUxCN0J2RlhiZWxaTVQ3YnJjLU5INm8zMzA0RUFNN2tZUjFKSGtJX1ZRMXJfYkFwQ1JVWnJOYWRwNjl1eF9RbkU0akJJVHFG?oc=5",
-          "source": "芋傳媒 TaroNews",
-          "published_hkt": "07/24 14:48",
-          "related": []
+          "title": "《台股重要指標（3-2）》加權指數 9日Ｋ值為48.32，9日Ｄ值為43.35",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSmU3VTkwX09mdm83Zjg3LTNmcWJvN0I0ODd6UEtRWkJ6SWNyYVItbDc2N2tuYU85S1JmUThYWTZvTl9WN1B1YnBkOG83cFhBb2oxQjF1QWJCdzBPaDNpVHpWZWcyVEFfcUs5azhWa0F0NnU0RFlLaTY2ZEV0b0lLbHhEckpwME15?oc=5",
+          "source": "富聯網",
+          "published_hkt": "07/24 16:50",
+          "related": [
+            "^TWII"
+          ]
         }
       ]
     }
@@ -211,8 +213,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-24 17:13 HKT",
+      "updated_at": "2026-07-24 18:31 HKT",
       "news": [
+        {
+          "title": "《日股》權值股疲弱 日經收跌2.73%",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb3VZanhPWkhraWFrOGtQREhJSlB0THJjV056b2NhbGtCbGtjb05YZXlyT0cyODlKYXdBYlpFZkViMlB5U3pBcTRHOFV6d084cDAycjZhdGNMQWxRZVVVMUlDQzZnWjRlRUcxRjBCa1NxX1JvSmpwRlNsSkE4R3lEeGdqV05hemFSR1F2bGV6WXViZw?oc=5",
+          "source": "台視全球資訊網",
+          "published_hkt": "07/24 17:46",
+          "related": [
+            "^N225"
+          ]
+        },
         {
           "title": "AI資本支出焦慮與中東戰火共振，亞股迎來「黑色星期五」",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFNWZpT09NTXJfdEhTZDVlYmlBNEtMcWE3OHdHbVJXTkM4THdHZmdMNkZ0UmtZcWJib1lhc2N1UHFYRUpBMWVsb2o0TVdJN0FTM3c?oc=5",
@@ -221,28 +232,17 @@
           "related": []
         },
         {
-          "title": "中東局勢升溫加上AI類股賣壓　日經收盤跌逾千點",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwclJSYmdUY25HemlSNFh5YnNWMHAwU1NDVXVuS1FNRWpWRXdRdnpEbER5TURIQWVIWE9FU3JpZ0NLSnR3SVZtYm9ZcXlyV3VDYVB0b2Fpem9PZ9IBX0FVX3lxTE5FUVdsdExMYUVWU3lTMmVHZUhpa0tYZDdUUzZSWHJVZTJ0QnEyS0gyaTZ3QklBYy1qQ2h3UlJ3cXUzTXpqY1JCcWpWajNCdFVYYXA0Tm5aQlAya00waG5B?oc=5",
-          "source": "經濟日報",
-          "published_hkt": "07/24 15:21",
-          "related": [
-            "^N225"
-          ]
-        },
-        {
-          "title": "日股：軟銀領軍殺低，日經週五大跌1,811.45點或2.73%，東證指數重挫1.05%",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZnJvSFJMdDBWMEc0RUZIRkhKa1RvUnNvYlNUaWVMMnMyZzdDZVBHX3UzRmMwR0pMYmstdUNpdkNLZ3lBQmlvdF9CN0pfT0NCVllORzhQdEtJQnZfeHhTazFXMWdySzNBWHlnVlVEMEFwX0lNMDVLV1RsUURCeXhoRU8tZEF4NmVE?oc=5",
-          "source": "富聯網",
-          "published_hkt": "07/24 14:56",
-          "related": [
-            "^N225"
-          ]
+          "title": "《台股盤後》大跌1195點、10日線又失守；週K翻紅| MoneyDJ理財網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NYTloc2xYTWFOa2x1dUdJcVN2OGhBTWJTUk1rbG9sWlFxN01Mc05qWHpqQjFWekRNX0FJS3JIY3JCOVpoclMtUDJfTzBDQXFnNXYyOVRB?oc=5",
+          "source": "LINE TODAY",
+          "published_hkt": "07/24 16:52",
+          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-07-24 17:13 HKT",
+    "updated_at": "2026-07-24 18:31 HKT",
     "news": [
       {
         "title": "區塊鏈重點動態2026年7月24日早參考",

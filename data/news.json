@@ -27,7 +27,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-24 11:55 HKT",
+      "updated_at": "2026-07-24 12:10 HKT",
       "news": [
         {
           "title": "中東戰火推升油價！美股走低 特斯拉暴跌近15%市值蒸發2000億美元",
@@ -49,7 +49,7 @@
           "title": "〈美股盤後〉Alphabet、特斯拉暴跌 布油飆破百美元 四大指數收黑",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXNTFoQlNoQS03VXNWUGJSd19hOGJSTzB3NmpOYnFBS05GMUdBc2J0VzByMlpDbGh3c1o2SjdOLWNmdkNnN1A5eFdUSUVGeGs?oc=5",
           "source": "news.cnyes.com",
-          "published_hkt": "07/24 10:03",
+          "published_hkt": "07/24 10:28",
           "related": [
             "TSLA",
             "GOOGL"
@@ -248,7 +248,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-24 11:55 HKT",
+    "updated_at": "2026-07-24 12:10 HKT",
     "news": [
       {
         "title": "美國監管法案前景不明 比特幣等加密貨幣普遍重挫",

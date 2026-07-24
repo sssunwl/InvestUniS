@@ -27,30 +27,33 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-24 08:15 HKT",
+      "updated_at": "2026-07-24 11:55 HKT",
       "news": [
         {
-          "title": "科技七雄重挫 恐創川普關稅風暴後最大單日跌幅",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Mc3gxQ043QkcyLTM0ZHlaZHlIb0hRRXFRdDZtY2xDWUFzbUJYWGJDa3NUdzR0ejdGTDhmWVZsTUdfaV80aTN6ZnFwYjlJaTQ?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "07/24 07:51",
-          "related": []
-        },
-        {
-          "title": "美股科技股重挫那斯達克跌2% AI支出擔憂與油價飆漲雙重夾擊",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CcEhkSWZ0YnJydENhendsRmlyOENtZ1lpSjNITzVTRjlJeWJ4d2JaUEJUT1NhaVVhNmQwMF9ha2JTZmtpTzhFR1U2YUNSNk91cnc?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "07/24 07:51",
+          "title": "中東戰火推升油價！美股走低 特斯拉暴跌近15%市值蒸發2000億美元",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zczlyOGdIamVVUWplTFVqZjJmWEFpNFo0ZEhMckt2dFNiek9XTEIzRVJMWVozU3lFNjF3bVpkNVZhTmxhVEM5TjVidw?oc=5",
+          "source": "FTNN 新聞網",
+          "published_hkt": "07/24 10:45",
           "related": [
-            "QQQ"
+            "TSLA"
           ]
         },
         {
-          "title": "AI疑慮與經濟逆風夾擊 美股重挫科技股一片慘綠",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RRmtieUxTcERsWWZ0bHBKZUcyeEE2Z2trYV9vV01CQ01fUkFfc1BQT3ZfVXZaTlVKZ2hTaWJXclN2MDU0RnJzZW0zc3ZMdXJiNWc?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "07/24 07:39",
+          "title": "美企業績優於市場預期 惟美股正處於板塊輪動的階段",
+          "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOVnFzdXJOX01pWFFJczJCLU53b3d4bUNUaW5XSENBYXRNZGtuQkgzS1VvdlFOYTdxc2RvLUhoV0xWYkVHYlBjV2NFVU5oY2c5X0xUUlV6d0dBeEJaMnNsRkF6NXFzdzRSdEZ6MFhzMVFRd0VDVUR0cE9RUGVLRjhJbHRKWVBPeG54bXZOR3gtN2N2cFlGeWxySi1RZERVTTBVVFMxdlJUd3QwRldaMGlkMi0xTzU0NFpjZTB5ZnBFQ2lLZGh2SFNLOXUxc1F1S1FQY3hweVAyQ1FNTHJLcFVoNUk0bWNETjRxTUZ4Sm1renFnWHBPVXBkX2w2SlN3NURla3pzSHZGRkNCaDhUX2poX25Ga2xvV29fdWg3RjlXM2xqZzZOaFRmdFlUYUFOSk8zV2R4M0pXLTRmN0ctTnpVMm1oaUMyNldsQmowVlFTRUk4UDZKRGVlZzV5NkQzb3U4OUxqa0lTdlJUN1N5cHN4SG44cmpBRTJsNVE0Q09Taw?oc=5",
+          "source": "香港經濟日報HKET",
+          "published_hkt": "07/24 10:30",
           "related": []
+        },
+        {
+          "title": "〈美股盤後〉Alphabet、特斯拉暴跌 布油飆破百美元 四大指數收黑",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXNTFoQlNoQS03VXNWUGJSd19hOGJSTzB3NmpOYnFBS05GMUdBc2J0VzByMlpDbGh3c1o2SjdOLWNmdkNnN1A5eFdUSUVGeGs?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "07/24 10:03",
+          "related": [
+            "TSLA",
+            "GOOGL"
+          ]
         }
       ]
     }
@@ -245,35 +248,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-24 08:15 HKT",
+    "updated_at": "2026-07-24 11:55 HKT",
     "news": [
       {
-        "title": "隔夜美股 | 布油突破100美元關口 三大指數暴跌 谷歌(GOOG.US)績後跌7% 作者 智通財經",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LRWdEd0w5WTBpLXJxelBzU21zVWJMaW1XcE5GZFVOQUxHWXZFN1hEMzlJbjVFSE9FaFBaaWZHRm4xLUhhaC00Q1ZOeXh0cElWOTNDOFU3UEt5UGZQZEJYeUpDVzJpb1dMS19PU2hDNnk?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "07/24 06:51",
-        "related": [
-          "GOOGL"
-        ]
-      },
-      {
-        "title": "Strategy、Coinbase、BlackRock推出比特幣安全聯盟，承諾捐贈1500萬美元",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYzlZOTVMQ21oeWsyUUtPMVdFNkY5OE9DLXpCNHRMVkc3Yk9tMVQtd05RNzBsZ3ZXY3N4LWE1TktOWTZkNWNzUVlsZ2xySDloeENsa2lIaGd5dmttX1loSTdBaU5aSUdSWkI2dExqVS1oejk0T2o3YmN4ZnU1b0M5ZEk2REptc29Qd1ZaQjRkSGpGcy00SGRuQ2VCa3RyaURxbE1EVUMwdFE5N1FlVEY0UG55dlM4NWhwM19WeklCMzVSZC0tb1hsX3k2cDhmOXQ0WGRfOGpJX3pNTnRpRnpoTENHMnh1cnZZbEpiMm9TblQ1VVHSAfMBQVVfeXFMUGM5WTk1TENtaHlrMlFLTzFXRTZGOThPQy16QjR0TFZHN2JPbTFULXdOUTcwbGd2V2NzeC1hNU5LTlk2ZDVjc1FZbGdsckg5aHhDbGtpSGhneXZrbV9ZaEk3QWlOWklHUlpCNnRMalUtaHo5NE9qN2JjeGZ1NW9DOWRJNkRKbXNvUHdWWkI0ZEhqRnMtNEhkbkNlQmt0cmlEcWxNRFVDMHRROTdRZVRGNFBueXZTODVocDNfVnpJQjM1UmQtLW9YbF95NnA4Zjl0NFhkXzhqSV96TU50aUZ6aExDRzJ4dXJ2WWxKYjJvU25UNVVR?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "07/24 04:29",
-        "related": [
-          "BTC",
-          "BNB"
-        ]
-      },
-      {
-        "title": "主要加密貨幣行情，比特幣跌1.86% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS0Z6dWs5MmhINmNab0VDUEVCN1p5Q1NCSmRZeDAwZnQ3LWV6d053ZzhqbHhtUkRrT1ExNDk4VnhIbWx2ZE9TZmtObEtrWjM4OWEtN3dSZ29yTzhSbDFWOS1jWHo2aVZrblVVbHF3NjM4QWJrZ1l5aHhIOTNiQWhhaUIxaWI5d1paUS1lYUlqaDJHRjZaR0RHSTdzVWlFdU9P?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "07/24 04:01",
+        "title": "美國監管法案前景不明 比特幣等加密貨幣普遍重挫",
+        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNSGxHb0piMldGaE9rcmlVUUpQeE56V1k1dmdXVG13TGhwZTkxSU41NnU3N0hiRFRXNzNnOUpUd3dCMFV5c1ZZVkhEcFViRGRaRWFfMUIwYjE1VERvekMycnMyUDN3UDVYc25DMXVlVlluTHNXLTE2SEYyTXZ6ZGJnR0I1WXJQR09uZWZVR0pNZ3gzZE5wSEhmTjhDTlMxVWlJSkpUY3F3cVdHNEc2T0F6bEJGemF1M0dtUXFhUEowWTN1ZDZKVE1TUnRlLXNWMTdxaEJvbmoyTjZRdTd0cTJ5bXZvbXI2bkphY2h3bktobEQxUHNQY2FuYjVuckxKdWs4U2x5bDR0WHVtemRxeThRMDVuRlJab3hVcWdkTl9nbFoyNGRRWVZTbDBPMHJOcHRIaDduU3VXcUkwd3BHSmpzS2JQcm91UjAzNWZvVlFpbGY1ZnQyNHkwWlZUZkZzbldYWkJ5bTh0RmlwM0U?oc=5",
+        "source": "商傳媒",
+        "published_hkt": "07/24 10:56",
         "related": [
           "BTC"
         ]
+      },
+      {
+        "title": "美國監管法案前景不明 比特幣等加密貨幣普遍重挫",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uY3JiQmx2aEFUa0RyOVpkYmxfYXhCLWhGd29MLXBzNUVXelNnaGlxNkN0blhhVTdJVU9uMllUbF9NcndJSktGbUJ2anl1U09Xc2c?oc=5",
+        "source": "蕃新聞",
+        "published_hkt": "07/24 10:56",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "CryptoQuant：以太幣接近週期底部，五項指標僅兩項確認| 動區動趨-最具影響力的區塊鏈新聞媒體",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSG9ScFBmU3M0NC1ybXZwZFItMzFUekhwdVhkUlhlRlQtY2N6Slc0YlYyTFlva1dmM1FtcmdXTjRud1VVUjNmOXdJLWN1SGtoUmpBTnBEV1ZCdVkta0MtM2NXNkMzakNvTXFueHAyeHpCeTVUb3JDaUhsbjdFaW10VVVSZVJpLUJwNnRLRlB2Vm5EejM3Y3FVbzYyaGpiQmVyX2czelR6RWo2OGF6MGc?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "07/24 10:14",
+        "related": []
       }
     ]
   }

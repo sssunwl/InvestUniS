@@ -27,15 +27,8 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-27 12:23 HKT",
+      "updated_at": "2026-07-27 12:32 HKT",
       "news": [
-        {
-          "title": "突發！美伊暫停交火引爆市場，美股期貨狂飆、油價暴跌4% 美聯儲「重磅時刻」逼近 作者 FX168",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vdXdVVS1sT09BZl80eHcweVozcDlnZVM3d2ktcGFPc0c0blNsWFNTby1DZ2NNbUxvdHp4SjJJMm40Rzh4TWloem85MXJOc0VjeUZlQ3pPMGNWUFJTanIwQnItNFNyZHRyNWlXSEJPRQ?oc=5",
-          "source": "Investing.com 香港 - 股市報價& 財經新聞",
-          "published_hkt": "07/27 11:54",
-          "related": []
-        },
         {
           "title": "美伊休戰油價跳水7%！美股期指齊揚 市場聚焦聚焦Fed決策",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55N1RSTzlCLUFtNFctMEJsUG5OWHd2NDhTaXI3S18yWHRrN0dfZllXNEdfZk15SFdXNkFTYzJUUkZ6RmhsZmR2UjBoNG8zMVhpR1RGVE9TVXBlTUlxZk1CdVdWMjVzMGpqQWJvb2ZDbw?oc=5",
@@ -48,6 +41,13 @@
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aYkdoM2ltRjNRNUM3VEhYaTBPY0tVOW1lOE1NLVdUUVFDZXM1enhYUUpfM181M1FQZmJmeWc1eWJzTmY1RXZQOVJ6Zk9xQXc?oc=5",
           "source": "news.cnyes.com",
           "published_hkt": "07/27 11:00",
+          "related": []
+        },
+        {
+          "title": "美股超級重磅周來襲！四大科技巨頭財報、美聯儲利率決議輪番炸場美伊局勢緩和重挫油價提供者智通財經",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdzJiXzY0Z1c3SXhNMTdrUm5TRm9uUlZKaTRXR1NjRUkzeGpmSURNRU5GTmlpQzdiZkl5N0VGeDBzQkt1V1dkdXRWVERTRVM1dHZkZ2hSWEt6Wk1velIta1A1SXVCZDYwb2I2OHpZelVackJhUmJjNVBrbzJweXVzaA?oc=5",
+          "source": "Investing.com 香港 - 股市報價& 財經新聞",
+          "published_hkt": "07/27 10:19",
           "related": []
         }
       ]
@@ -242,8 +242,18 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-27 12:23 HKT",
+    "updated_at": "2026-07-27 12:32 HKT",
     "news": [
+      {
+        "title": "加密貨幣價格預測：比特幣、以太坊和Worldcoin——亞洲盤27日回顧",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRWk3SlNmaWQ1X0xxS1lqNkF6UDljTmtQUnNMNVFBRTQ2OGJaOEdwdUJwYjdUYlN6RUZQMmVuLXlDQmZNeVBhUnJRWTdUZXFqME1kdnRWcGd0YjFiOWEtTW9tTkZndm1iT0x3dlZ0dVNxVjFMVDE2eEl2aWdpRlhjT1hvenJfRC1TOWxOSkdpOEtMd29jWXZtTGVNYXJUMWRqblJnbDYxdWxIRWZNNWlLbmx5S1JWX3ItZmFqVkc2Rk05ZUl4Z0lFZWdERXJxRHM1dDRXV3NQVTFYQknSAeABQVVfeXFMTW9iZTdyVktBUjFueVlSR1JIa245TTk4VHo0MkpsOFVhWUFqWE0xTEZ5cW5zUERQRzVrUjY2NTNXYkd0X0MtQUFNWWdqV0dpNFdQRF94MFRMbUNIRXNWY3NKOGxmaW8tMjFJb3FYMzlfLVN2Z0hER2VHM3BkbFh2a095amwwcXZuVGt0eE1RdWxjNGRJU0h2OHRGWkdWR1Y0cXhhOUxaYm94Y3h6Qi1FRGh2Nmpka1piQVVabFNNem9oM2hOZ0NsTXo1TjdzUzFUVjR4bWdvNDFXWEpFV2h4aWM?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "07/27 12:18",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
       {
         "title": "量子計算來襲 | 比特幣最大難題不是技術、而是改不動規則",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkVzRUZGd1S3lhWGtMbVNFaS1pRTJtZEtiSDFTOG94ZWhGS1NRR1dPLXllalAzbmhheVZYZ1dNRURCaDhuanRvMC1sYzJ2S3M?oc=5",
@@ -254,18 +264,14 @@
         ]
       },
       {
-        "title": "區塊鏈重點動態2026年7月27日早參考",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUM0dTVEhKOVFKNVJNTVJ1Uk4tVFRIbF9lakNsVHpPWU5NMGQzajlzLW9vc0p3Ym05MExNZTJ6bWJzSHItbkxBX0RVX1B5Mms?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "07/27 10:30",
-        "related": []
-      },
-      {
-        "title": "加密市場全線反彈，NFT板塊上漲3.00%，ETH重返1900美元",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTndrMnRPYXJWX0FWWjBsajBseGt0NmFNZXZodTdoVEt6Y29xNTdjWTU0NEdyYjUzLVp6S3kwT2ljM0VKWElPczFkVTEyZWY5U3ZzRHpzYTlGTWhFcnJweHpINmlqbllxTUpsWHhMYmptUTkwQXJJdUpqdWxoRUpmMU16bkNLdw?oc=5",
-        "source": "PANews",
-        "published_hkt": "07/27 10:15",
-        "related": []
+        "title": "前3名價格預測：比特幣、以太坊、瑞波幣 – BTC延續連勝，ETH突破關鍵阻力，XRP企穩",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRGlJUnZiRGdrb0hBaklPZDE3X092NWNodjBka185RG4ya25wNVlncW5vVlRteVFzMVRpMHhzRlVYN1F6b29DdE9UdVZJNkoySTYtejByajFsdDZxdkhtQ1ZNM1d4U3B5cDljVVhIQjRxM1NNZnhQZ2hCeDVhV0hlSHlWX0VBVjdfbG1tQ0tqa3pGZFEwdkN2LS1aWDlMZlJDZGd6MTk4NlRnYlBob1FuQWhXWFRVUkRwN2JOZWZTMk5UNEdKY3VtbXNjbHZDSFpoZmJBbmNSVDNEcnNzVE9XNjRuMXlvalpMT1BkUFdMVHREVkNxRGpUX09RT0FpZ9IBgwJBVV95cUxQdTFzbXoyVWVXQW5BUEEzSmtncERtNW5QbDUxTnhfWkRFMGVDODFJQUNydHBhMTIwbWxvbWVodDRleTk4NC1vbERfSlc2Wm80RWNWRGpEZmJZQm1LZGZrZmMzSzQ3UVBGZjZBekNyT1IyeUEtSkt3RGdPUmdYejJCUmZ2ZW5CQWlCOTNQZ0FyRTl6RGY5dkx3UzVHbzlOTm45a04zZGlaaFFEaFpqakg3SWFEMi1nSGthellxWmw3cTBCRE1OQ3RPemhmdFUtWUtvcEhDOTYzZG1KNGpKc0wzU3hYMXdmQnpHb3VHaXE1b21vd1FmUXBjSUowc0xUazM5eHlB?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "07/27 11:01",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
       }
     ]
   }

@@ -83,7 +83,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-27 18:01 HKT",
+      "updated_at": "2026-07-27 18:31 HKT",
       "news": [
         {
           "title": "【港股收市】恒指收復25200關惟成交量尚待增加- 投資",
@@ -104,11 +104,13 @@
           ]
         },
         {
-          "title": "港股收評：地緣局勢緩和，三大指數全天強勢，持股長鑫小米大升超7% 提供者 格隆匯",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOUxiY1Q3LW5BaXBSUUROai1hMTJjT01wUE9udXR6ZnlsLVlyX2RyUzBmMFpRV3VDbXdFUVVERWpmR2RDSlcwaFBaUEVRRGUyY0c3STV6T090bHdOTXRPS1FzakdsRy1MTkNJdFZvQVNuUG9XZEplUTkyQTdJQWQ5cg?oc=5",
-          "source": "Investing.com 香港 - 股市報價& 財經新聞",
+          "title": "新时空丨港股收盘：三大指数集体拉升、恒指收涨0.98%，硬件设备、传媒等题材涨幅居前",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kbHpoamJmenNGMGdoOUZmZWtqWmZibU1qYzBXeEZGTGxSU1MzZHprdXdrMk90OHhOdGtPa1VwWldkeVZSOTVkampFS0VBMTB3SlNyQTcwTUF4R3VwNHRRNFFmT0h6Zw?oc=5",
+          "source": "FX168",
           "published_hkt": "07/27 16:51",
-          "related": []
+          "related": [
+            "^HSI"
+          ]
         }
       ]
     }
@@ -145,8 +147,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-27 18:01 HKT",
+      "updated_at": "2026-07-27 18:31 HKT",
       "news": [
+        {
+          "title": "油價重挫逾7% 新興市場股市走高 外資買超台股80億元",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uOWlQa2ItWVhyZnc3b043RUNiTHYwRDgyRWljNzZzZUkzdjIzOTNnSldPbjBmR3lSRFJBMGxMNkdsWF83Nk5feTFVNnpYUHNyUmF4Ulln?oc=5",
+          "source": "優分析UAnalyze",
+          "published_hkt": "07/27 18:18",
+          "related": []
+        },
         {
           "title": "長鑫IPO暴漲近5倍 台股DRAM迎風強拉",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DNlhHTTN2dkgyZVpjZ05WLU9uM2NlU2dBZkZ3Tzh6dmpXN3B2V2VsckcycXR2QjNGd2ZOa3dKX25iWWc4NkFrVjAzRQ?oc=5",
@@ -157,18 +166,9 @@
         {
           "title": "AI餘震再挫台股！「這檔」搭機器人、低軌衛星雙題材猛飆漲停 隆銘綠能出關首日也發威",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NNl9CMlhvU0xhRm51ZlRQUG5QUDIyUVRObU9rZGFESkFOU2pDZGlZY1RGN3dmTGNyeTMzTU9DNURwelBCMVpiTDBicw?oc=5",
-          "source": "FTNN 新聞網",
+          "source": "FTNN 新聞",
           "published_hkt": "07/27 16:30",
           "related": []
-        },
-        {
-          "title": "台積電「上山」時機到了？財經專家看「20年股價關鍵轉折」指1事是機會",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3NmV4LXZDT3c2LWxkbHJJam5mLVl6ZklZZ1VRbEpzRjRqLTNsRzlOMmxsMkkxX1pVVnBZNWR2d21vUmdENnNwV2Ixc0RCSnczcm9qMllpal85dkQ1bHhpOURISUpFQQ?oc=5",
-          "source": "民視財經網",
-          "published_hkt": "07/27 16:09",
-          "related": [
-            "TSM"
-          ]
         }
       ]
     }
@@ -206,34 +206,38 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-27 18:01 HKT",
+      "updated_at": "2026-07-27 18:31 HKT",
       "news": [
+        {
+          "title": "《日股》市場情緒回穩，日經收漲0.50%",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbUlwVnhoVld0eUljaVZUNUxRYzVfeUthWEJKTksxWlJHNUFOOWh3Y281TjFmNnlaS3E3amkyQ010UDdHM2hIMk9sYVZWdVRsbUZtQXM5RG9TekZrUFhBVnRwVEI3MkdkeGhMdTJWWWZwZnNyY2ZaaE1LYlBQcHY3MHo5bXY0MDRXM1l3aGNSUWtldw?oc=5",
+          "source": "台視全球資訊網",
+          "published_hkt": "07/27 18:17",
+          "related": [
+            "^N225"
+          ]
+        },
+        {
+          "title": "今日日股牛熊榜 | Shift軟件上升9.32%，領升日經成分股，鎧俠成交額佔據榜首。",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmJ1cGNydTZaTGo2dll2UzAyWk8zTFZfTjJIS2FWMDgtVEsyX0tQUlp0cEJieEdIQmU3VElRQjlWaGtXM1ZJb3RKNjRfcTRfeGU5QzRIU2tyR2FibHNyNUhxb1lTM3BqdXBQX0dHT0hXZy13LTFKMGpENzV3OHBRY2Qydk1JdWZ1WnRuNkNqS2lhVGF3RHN3QTZWc0s?oc=5",
+          "source": "富途牛牛",
+          "published_hkt": "07/27 16:28",
+          "related": [
+            "^N225"
+          ]
+        },
         {
           "title": "美伊停火激勵市場 日股收紅上漲320點、東證漲幅逾1%",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RczRFMFVBc1BrdGI2OUJWY0RTMGhXTlJwY1laVEpHSFI3aFBvNk9BZjdyOWdseE5TQlBFcUVDU04zM3ZEVE4zVkZQZ2Jrdi02?oc=5",
           "source": "UDN",
           "published_hkt": "07/27 16:22",
           "related": []
-        },
-        {
-          "title": "亞股震盪劇烈 日股高股息、商社題材成避風港",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAydHdHRkNHWS1zaExaZGRCRTMwUDg4cEJMUjRfS3pkaHhMWllnRDZGR0x5bUd5Rk1Sa0MzU1ZHSDJOYUlLWDM5QkdjaGpMOXpUb2FxUDRB0gFWQVVfeXFMUDJ0d0dGQ0dZLXNoTFpkZEJFMzBQODhwQkxSNF9LemRoeExaWWdENkZHTHltR3lGTVJrQzNTVkdIMk5hSUtYMzlCR2Noakw5elRvYXFQNEE?oc=5",
-          "source": "UDN",
-          "published_hkt": "07/27 16:10",
-          "related": []
-        },
-        {
-          "title": "台灣震盪量縮 韓國記憶體雙雄領軍 日股穩步推升",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qSVVBd0s0aVdoUklMMEJRNjdLQnBCdTBsRGhQdjJqWXk1SlllOWxhekVOd3dsLURvaFl0bXQyWTlQbFJoRWxBQmNzUkFDMkg4X2c?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "07/27 15:42",
-          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-07-27 18:01 HKT",
+    "updated_at": "2026-07-27 18:31 HKT",
     "news": [
       {
         "title": "【中東局勢】全線上漲！荷姆茲海峽，傳出大消息！",

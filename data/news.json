@@ -27,32 +27,30 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-24 12:10 HKT",
+      "updated_at": "2026-07-27 09:03 HKT",
       "news": [
         {
-          "title": "中東戰火推升油價！美股走低 特斯拉暴跌近15%市值蒸發2000億美元",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zczlyOGdIamVVUWplTFVqZjJmWEFpNFo0ZEhMckt2dFNiek9XTEIzRVJMWVozU3lFNjF3bVpkNVZhTmxhVEM5TjVidw?oc=5",
-          "source": "FTNN 新聞網",
-          "published_hkt": "07/24 10:45",
-          "related": [
-            "TSLA"
-          ]
-        },
-        {
-          "title": "美企業績優於市場預期 惟美股正處於板塊輪動的階段",
-          "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOVnFzdXJOX01pWFFJczJCLU53b3d4bUNUaW5XSENBYXRNZGtuQkgzS1VvdlFOYTdxc2RvLUhoV0xWYkVHYlBjV2NFVU5oY2c5X0xUUlV6d0dBeEJaMnNsRkF6NXFzdzRSdEZ6MFhzMVFRd0VDVUR0cE9RUGVLRjhJbHRKWVBPeG54bXZOR3gtN2N2cFlGeWxySi1RZERVTTBVVFMxdlJUd3QwRldaMGlkMi0xTzU0NFpjZTB5ZnBFQ2lLZGh2SFNLOXUxc1F1S1FQY3hweVAyQ1FNTHJLcFVoNUk0bWNETjRxTUZ4Sm1renFnWHBPVXBkX2w2SlN3NURla3pzSHZGRkNCaDhUX2poX25Ga2xvV29fdWg3RjlXM2xqZzZOaFRmdFlUYUFOSk8zV2R4M0pXLTRmN0ctTnpVMm1oaUMyNldsQmowVlFTRUk4UDZKRGVlZzV5NkQzb3U4OUxqa0lTdlJUN1N5cHN4SG44cmpBRTJsNVE0Q09Taw?oc=5",
-          "source": "香港經濟日報HKET",
-          "published_hkt": "07/24 10:30",
+          "title": "油價大跌緩解通膨！全球股市債市反彈 亞股全面走揚",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jMzVHMEpkaW1EWmFFUEVMWWlnTjQxUnJPckRlNWlhZnp3NEYtYmI1OEg2d0xBaHR6bFRXUllZMDVsanlrOVFfZGJwdHFBOXNRTmo3UC01Y242ZWc4RXEyT0UyWXgxQQ?oc=5",
+          "source": "民視財經網",
+          "published_hkt": "07/27 08:41",
           "related": []
         },
         {
-          "title": "〈美股盤後〉Alphabet、特斯拉暴跌 布油飆破百美元 四大指數收黑",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXNTFoQlNoQS03VXNWUGJSd19hOGJSTzB3NmpOYnFBS05GMUdBc2J0VzByMlpDbGh3c1o2SjdOLWNmdkNnN1A5eFdUSUVGeGs?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "07/24 10:28",
+          "title": "《研究報告》美股迎財報季 科技股長線動能強勁",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeHRlVEVPR1d6MGIwZG9Edk1UZjY2RHJfclptb2FjTG1YaGhONmlkY3p1VkhYYkQ2OFY3SHVpTUtKMTAzU3EwOEtEN0ktUE1sMmxzWXVCZTUzelVtemhuMWZSOVVNb3JRWjZ5MGlyZmRoTUZFcldJc0lFZ0V2Q2IyekE2TS1jVXot?oc=5",
+          "source": "富聯網",
+          "published_hkt": "07/27 08:39",
+          "related": []
+        },
+        {
+          "title": "國際財經：CME重啟美股個股期貨，首波納入輝達、蘋果等55檔熱門股票",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb2M2Q29VdHNFeWJYVjBabzVKeDlRUldtRGJFWFV5MHEzUm92NUJ5dHQ4SjM2YWpDWEFCRm52eTd4UDhaWDJ3X1FuMXJkbkRmVEpzZFhhZDJfRjMxQmVLeXU2SnZpeTBVT25zaXFseFFwR0pVZXduNVF0eENPWU53SnFBanYzT1ZW?oc=5",
+          "source": "富聯網",
+          "published_hkt": "07/27 08:20",
           "related": [
-            "TSLA",
-            "GOOGL"
+            "NVDA",
+            "AAPL"
           ]
         }
       ]
@@ -60,27 +58,29 @@
   },
   "hk": {
     "pre_market": {
-      "updated_at": "2026-07-23 08:57 HKT",
+      "updated_at": "2026-07-27 09:03 HKT",
       "news": [
         {
-          "title": "隔夜美股三大指數小幅下跌 日韓股市早盤延續反彈",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtaFJWVkJlLUQyRmMyc1ZMUVVmRnNTRXVaRUVoM3pNRHNvZU03RmV1MmplZmlzeG9YUDhUa0NiX2xzZlhFcVUzU21RUUJTaFhBNmNnQ0dIVDBCcXpqVWgtTExUUjJTa3pVR2VDSWJKR1NhZWFTWUZLRFNzRQ?oc=5",
-          "source": "香港商报",
-          "published_hkt": "07/23 08:34",
-          "related": []
-        },
-        {
-          "title": "伍禮賢：港股上落市 觀望內地政策",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVllQbkRIY2R5Q25ycHFtZk1pQnFiU0FsUHRHZTBTLXR1RHJPdFBGNm1uMEFYRDBSeGxRemFaR3dDZzByYUhyVG1HVkw2VlQ4Tkh2MUFuOTVjSThJX1VkVzVHazR5QWFyWUIxc09Mb2w4c0RsRm5OdVpZUUpJbnZxSjlYbDZrU2JXcE1iNEEybw?oc=5",
-          "source": "on.cc東網",
-          "published_hkt": "07/23 07:08",
-          "related": []
-        },
-        {
-          "title": "Kimi K3碾壓出擊 「DeepSeek時刻」再現|香港經濟日報",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUEhlTzEwcjdFczAzZktGZUxaODNxa2lPYmdoUkxoQjZIMVNPUGc0UzdLQVk0SEliZ3B1dlNCYXd2cWR0QnRYOG5ONVFqMnBDYVR4c3REdlZILUoxcUNkRUFwcklDd1hsUDJWcE5GeUxabUc0UllEMHVCcFFMQksxa1hLbElKVWRzYlJmeFpZaHBSRDdxNjAzdTNWN29UOFc5TTlzdnhxbjF2MFNhNHQyM3pIckhWOU5jT05QQk9MRUR3dGx6eTlDOG9nY1dIVWhhRnItVTZFc0pOSUhQalBTMTFWb3Y?oc=5",
+          "title": "【港股市況】美伊暫停互襲緩和中東局勢、油價跌5% 恒指黑期升197點",
+          "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxQNUZCUVNKbnYxUFgwSm9uaGhtdFg3WTFrUG9HTG8zTTljbVEzRTM0ZWNaeUR6ZnBoVkNnYmJwa1dQckc5ZDV6bmFfcVNKQ1pqSEFPcTRfc0pBbWRJZ3ZQRGo3QnctMXo3THZOLVEtMzJEQkNwbkZ6X0NFSHRCeVFNazZ5QkFTUDZvei1jVnBBXzZ3MUx1cTRjRWlfdVBmWEM2Wk13ZWQwQ01KMXZRd01OYlBlelgzb1p4Slo1SnVrQ1N3eUlxVGlObGVrVkFVdUE3cnBtMFlBbG1iQVdFbmg5NjVaTFJEaWhPbG9pVll0TzFnaTZMdE9fUGMzcGVBYmdZNVl1cGROSGxoMkphajEzUkZiMG40NTlKQ1BKV0ZnQlZIWEI2cjdhUlpZME9XT1ZUcmVQd3c3YklGZ1lQdmRPQmkzMno4NVVpbzZFcWxqcUNzYVUtNG8ydmFqdFBWR3BQbi16am1PQXZFeGFSejlKUEhudVlPX21TYldpU09aVjUxWnJCTU1kQVJ5TndtYTlEVHFUVUdndHBUZWZaOE9RN3AwQkJjeTlOVEtyT1hROXFfVjI4UE1xclNNNENaa2pR?oc=5",
           "source": "香港經濟日報HKET",
-          "published_hkt": "07/23 07:03",
+          "published_hkt": "07/27 08:59",
+          "related": [
+            "^HSI"
+          ]
+        },
+        {
+          "title": "日韓股市早盤小幅反彈",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SWWVicGZpQmQ1MndKeXFsT2U5WDRFTTNyZlh6UnJqb0puTTkteUVQUmhKOVpDY054ck9GXzFHc2ZLUURrSHpnUWVZTS1pNU5nbmpjNmZrTWtzV1I3aUJZU05QZzVYVy1tbHRGOWd1VXRWOHhlbURFV0JIYw?oc=5",
+          "source": "香港商报",
+          "published_hkt": "07/27 08:45",
+          "related": []
+        },
+        {
+          "title": "銀行股發威 港股成交縮動力唔夠？韓股等「去槓桿」後重拾升勢？",
+          "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxPWG9PVnBCVnlVUkx0QkIwdG55WHl6M3lyTzFkbEtzU0JWT1ZabUZka1pCbTdoNnVtaVVWRmM2Zlg1NUtNY053d2swbGdvOV9DdzVtYjZJeFZOUUVxaUtiWU93SkloZ0toTkJ1YWpVVGZNdEh4Y0R3dVdSV1llLUQxT3RaazRteTZkbThtb0JWdDd5ajRuV0pXTlQwMFFVemtEMElmbnJaM3lkNHhVX044cVMtSDZESjRhTUNFeEhCeGp2dGo1VnhZTnJua21qRGY2MFRGcnBjQ2xxQ012XzJJeDRYN2lWYXU1NXZibUwyYmVYX2JsNjR5Y0M3VTZqUDAxZU9SckxyekxSQXlMQTROa0VEOExRQVFZUndtUm9IV2R2UVNRU3JwQlRvNFZidkZxREtDRXpSMElCQUM4TnpHN1ZLeW9YOXFmdUpkb1hzV3JmT0c4ODVsRnBJZ3g0LWwzT0Y3RkttZTR0TnMwUVpjc1BwRXFsRHVlbTlNb2x6TnlVSlF1R0ZrVEtDdVRpUWRIS2p1VFJrQ1pNaXdHX2lxR043aVExOG9ISnpQaUI1eEwzeHpMUGZ1ay1oRmNQMG9tUktPSUFB?oc=5",
+          "source": "香港經濟日報HKET",
+          "published_hkt": "07/27 08:42",
           "related": []
         }
       ]
@@ -245,29 +245,27 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-24 22:59 HKT",
+    "updated_at": "2026-07-27 09:03 HKT",
     "news": [
       {
-        "title": "Strategy 推出 MSTR-BTC 面板統一展示比特幣資產與資本結構",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUk1uNWhwZFc4b2lpRjF5bGxBWGh6X0V0OTc4TkhtNXc4QmlxVkFjZFF1aEhJbEZySGx4RThqNWJVOHlIMHJKZHAxTmZDX2V4ZFgzZHpfY08ydFBxZnhJN3YxV2toQ0tmTDJyb2xDMV9XWG44UUgxa1doRHJfSUNPN2ZrcnBDdw?oc=5",
-        "source": "PANews",
-        "published_hkt": "07/24 20:39",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "加密貨幣市場普遍反彈 XRP漲幅領先眾主流幣",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wVnB0ZkFpV2dQZ3R5UjB5LW9VRVdqaFdyWHlTcmhBODhmZTg4ZlJ0MWt4YlZJUXNNck01NW9ZYTdYdWZNRHpNaU5sRlljUzJPS3c?oc=5",
-        "source": "蕃新聞",
-        "published_hkt": "07/24 20:08",
+        "title": "高盛CEO力挺美國加密監管法案 市場結構改革引發多方論戰",
+        "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNOFVhWURyLVpNOTZPVVo1cUl1RlpHS3VlNVFqaFFvWjBsNkx6Rlctc2Q1TmJmS2NFUmtIN3hpa0Q2X0pFOWVETU9BcWREOTNvSmdFRmNGTGFJTG44b3ZvcmtvOGtkX3drOXczT3JSQnhtcFdNYlJZUTYxZzBGUE9MdmVvRzNhS0RwZ19mVVVCNE05b1dwMUFxYnA4d2ZFRDFocmhNQ2VuVlA2TlU0QzZtZEZjYjJEZVhpT3MyclBSWjAzZklrVC1XbE1ZTkRrelVuU0Y2T1hIUG8zQ05leGU3empyRndnT1dXeWF2cTNSak1NdHY4MWFSN3kyVlNPbVNoX0o5SUN5Nm80T2daYmZQbURYOGQtYUJLWFV0TU1zTkxzcVFjTTlpUXlheXVyQ3B4emhoVnpGU0l4cldNUUdTSVFiMy1WQXlKSFpfMkVmbVhhN1hNVnRMbndvb0tZRjFRaHJzSV9VRjlkWUpkR01kczNfVnFycUNfcnJGNlVpeERudVRiRHI0?oc=5",
+        "source": "商傳媒",
+        "published_hkt": "07/27 08:14",
         "related": []
       },
       {
-        "title": "加密貨幣價格預測：Zcash、比特幣與加密貨幣——歐洲收盤綜述 7月24日",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPclgwcDVOeEhPZE4wS3RkUzRYa0tFVzVobFI1YkNVS1RjUi1LVTVGRVJFdFRZdXg3MndTWWxjVFJBN3dlZUNhV3p1em50c3NqQlZIUHRaQktnbTlRLWNqOXVXVUx6clZ2VEI0LS1oYjhycWp2eUpYWDJHX2NVbGRFSU42dXk3Ym13ZVFDTDV0WXZuZmpQcHU4M2phaV9XWDRvaWYzOWcwcmRUNlRZMk5PcUdfUXNjMGc5LThwQ2NSaDE2ZGlScnFkWVdsVkdYNDhZVjJjOGtYYUN6RnRxX3VnTkZWeDZCbTlzT1BvUUlB0gHuAUFVX3lxTE9yWDBwNU54SE9kTjBLdGRTNFhrS0VXNWhsUjViQ1VLVGNSLUtVNUZFUkV0VFl1eDcyd1NZbGNUUkE3d2VlQ2FXenV6bnRzc2pCVkhQdFpCS2dtOVEtY2o5dVdVTHpyVnZUQjQtLWhiOHJxanZ5SlhYMkdfY1VsZEVJTjZ1eTdibXdlUUNMNXRZdm5malBwdTgzamFpX1dYNG9pZjM5ZzByZFQ2VFkyTk9xR19Rc2MwZzktOHBDY1JoMTZkaVJycWRZV2xWR1g0OFlWMmM4a1hhQ3pGdHFfdWdORlZ4NkJtOXNPUG9RSUE?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "07/24 19:42",
+        "title": "加密貨幣市場多空震盪 月球土地長線報酬引投資人思辨",
+        "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOMDg3NkVGQU15S2ZBRHNJV1UwWGtpSzNGTW9GWm1GUE9PUG0wUERnaXlSZmRSSzV3RDdxSFpZVjlWQWp5emU4YTExWS00ZXliT0xMUEFXNWo5QmxBVnV1UEJHc01kMkRRSGRaOFgtYTVmVTloYU1ja2pzWS0ybnVhQWhNWFc5aWxiY0s2Tko3cUg5ek94Ri1lRVp3TUVlaFZkeDBCYS1VSkl4QXJXejM3QnlvMjl3Y0xRejFwUHFtWHVva3pHM2RYVjRWTzZWTmxIMnlRN0U0NUVrcHRkTjVsZGd5WWQ4X0oyMVBQZTFLRGc4a2gtOC1LNVd6eUNmcHZEdU1GNlZwMGF4QlBSUDBBWmFXWk9zZkJhYlgyUGRDckI2WDAwd3JBYktTOUMxQjRxVnRlV2Z3b1I5SG1vcnZtOFQ2ZXhVR0dJLVZKRjRxYTBwXzJJLTNybTUxazBFeGUtYU1XYy1lc3E?oc=5",
+        "source": "Life 生活網",
+        "published_hkt": "07/27 07:52",
+        "related": []
+      },
+      {
+        "title": "比特幣交易者對市場的平穩狀態已無藉口——而現在一項25億美元的押注正面臨時間的考驗",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOV016VEllNEJ3bU5nN3JlVTYydC1yRnVfOXEyMTJ0Z0NLU3M1cVRVYkRPMTdDYWZibmRGcjRKcXNnSmJtTkROZFZiNHN1MmNlNmdYOWpWN3lROVpVWE9TamdPYU92UHpKTkJqejZSdGVnQWNKWDYxVGN0Z3AzUUt2UHhWRnJ6ZVlpSlRIb1pidk1yZWtGYkdwaEJOakVSWEpEdGNJVWJUWGtWaTdfanFSUFpEU2ZrNlhQYnpNUXg0OFBoaTdCcjluRVBybG9hZ2pUY2pXNVhIUzFaZ2hxams0UG1GQTFCQS1saGpWRUJsVXhmcEhwZndLOHVBRUt6dE1NVVhwUkxzWQ?oc=5",
+        "source": "WEEX",
+        "published_hkt": "07/27 00:19",
         "related": [
           "BTC"
         ]

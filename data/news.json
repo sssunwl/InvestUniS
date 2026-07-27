@@ -83,35 +83,32 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-24 22:59 HKT",
+      "updated_at": "2026-07-27 18:01 HKT",
       "news": [
         {
-          "title": "【恒指夜期+北水】恒指跌247點阿里巴巴跌逾4% 中銀香港逆市升6%破頂、東亞亦升6%（不斷更新）",
-          "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxQR3lSalhoMXdGZ2hjWVYtV3BybzRPM3pKT1VURzg2NEFLUXJ4endRbC1HcktmNi01ckZtNmpNZi1FbDVuUU9ycVNCWVZmekZrQXFaTkdoMzhjV0FSYmxManRUV3M4bDlNb21SX2FvTkZDVEMtNTdTSndMbjJaUkxGcEN6RDkzYktSTEFYbFF2RkV2eTQxRF9Pb1RDNG5la29GVURxemdZS3liZXM3SEt0aFIwdVNfUFcxSWxETjhGYXpKM1hXQ3d5bWZTLWpNU3pOQWRWendmWFRXY2NiNHVXLTNKXzduVHBiUlpVblRfejNhSXlvM3dBMnJ3QVFfdnNjX3hWczhpSjIyWWRXN1JUT1ZaUHRvMWtyU2FBdm02ZVdnTl9GeGVMZjFXcTBpZEZHWXRZS3dEdUdWZ3dXaG5JRjgwNzA0cWZ6dGdwTTdpc3pNNUc4QU9HYWtkY0o0Z0k4Qkh6aTZvcFVlN2dZcTRJWkRBTUJDdFJIZkotOWxRS18yTFRkSjVJTEVYM2wtQ0lVOXc0bnpuOVkzLXEwT2lHekRnY2FFSV9PZC1US0hRMEVHYXhJUHg0eHlkeE4xVWVOckd0TW1zMHQ4Q1M5dXJGemZ2TnJZcV9DVlZ5ME5YaXBHd1VsYVJ0dzdHZzJXcmktczAtXzc0a19YbTJnX3oybVk3QVRHMGE2VVBOd2dGbXZpbTJaaXpVY001VmhoY0x4TVZiYTgzUEdnT0ozSlJLNUlGSG5XRWMyazZhUDFR?oc=5",
-          "source": "香港經濟日報HKET",
-          "published_hkt": "07/24 19:24",
+          "title": "【港股收市】恒指收復25200關惟成交量尚待增加- 投資",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vaFU1ZElTUktMZk9mczBoZTM0WDdmcGRTNUFQN01MZEwwMkJzX1NmSERCZmE0SmJwRnpFS05ScWRjTjFabUdfWEdlcDMwellxSUN3M1pTT1ZHSks2dS05LTRSaHY2a0o5LWVTeFZ3VW1VLTZqQ1hv?oc=5",
+          "source": "香港文匯報",
+          "published_hkt": "07/27 17:36",
           "related": [
-            "^HSI",
-            "9988.HK"
+            "^HSI"
           ]
         },
         {
-          "title": "【港股收市】恒指全周累升400點 惟守唔住25000關",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wSW5IcExjUmMxSVpPQnloUkVFQlQ2bEJWWEY0TFQxMkNhSnJac3lQQ0pVU2F5OGh0VWQzWGllUW9fTkFCZl81djB6ZmNLS0Z1Y2pONUpWSjJMb0FLN1JjSTh5dFg?oc=5",
+          "title": "【港股收市】恒指升243點 重上25000關 小米「開快車」飆7%",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qcWtDUDZGT0ZWdGhScDVxUElMcWQwUXhCc0JYQ1RoNXVKNmlCVFpXb21feHozSzJMa3JQWlVnQkxxbUVvb2JlRUNqVEVPQ1RBU3hKbVRqTFFNd0NGSHpNVjM5V3ZqR2c?oc=5",
           "source": "Now 新聞",
-          "published_hkt": "07/24 17:14",
+          "published_hkt": "07/27 17:01",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "港股收評：恒指跌約1%失守25000點，科網有色金屬PCB普跌，中銀香港大升6%創新高！ 作者格隆匯",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IREJRSXdpSVEwcmVDRmlVMXlOWnRvd0cydmw3ZERtQW9iM2RjaURnM3lrY3BmR2NEQWJlaDc2RkVwWng4M2VXVGl4eUtWNWgyYTFOS0ViRHE4MTN2Z21rZ2EyTjFSTWVJeHNjX0huMFc?oc=5",
+          "title": "港股收評：地緣局勢緩和，三大指數全天強勢，持股長鑫小米大升超7% 提供者 格隆匯",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOUxiY1Q3LW5BaXBSUUROai1hMTJjT01wUE9udXR6ZnlsLVlyX2RyUzBmMFpRV3VDbXdFUVVERWpmR2RDSlcwaFBaUEVRRGUyY0c3STV6T090bHdOTXRPS1FzakdsRy1MTkNJdFZvQVNuUG9XZEplUTkyQTdJQWQ5cg?oc=5",
           "source": "Investing.com 香港 - 股市報價& 財經新聞",
-          "published_hkt": "07/24 17:02",
-          "related": [
-            "^HSI"
-          ]
+          "published_hkt": "07/27 16:51",
+          "related": []
         }
       ]
     }
@@ -148,31 +145,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-24 22:59 HKT",
+      "updated_at": "2026-07-27 18:01 HKT",
       "news": [
         {
-          "title": "台股崩近1200點！專家曝下週短線抄底時機",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KRi00TmszSTg4bW1YR0lFaUJxMG1WY3ZIZzBLNHJUeGZvNUJOS3JaYVQ3Ri11cU5vRmR3bzhGY3lhaGtWYm5hZ1dYOGl0REVaY1pPMU00WkNMRWdfeEdrTk5R0gFiQVVfeXFMT0pGLTROazNJODhtbVhHSUVpQnEwbVZjdkhnMEs0clR4Zm81Qk5LclphVDdGLXVxTm9GZHdvOEZjeWFoa1ZibmFnV1g4aXRERVpjWk8xTTRaQ0xFZ194R2tOTlE?oc=5",
-          "source": "鏡週刊Mirror Media",
-          "published_hkt": "07/24 19:18",
+          "title": "長鑫IPO暴漲近5倍 台股DRAM迎風強拉",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DNlhHTTN2dkgyZVpjZ05WLU9uM2NlU2dBZkZ3Tzh6dmpXN3B2V2VsckcycXR2QjNGd2ZOa3dKX25iWWc4NkFrVjAzRQ?oc=5",
+          "source": "三立新聞",
+          "published_hkt": "07/27 17:12",
           "related": []
         },
         {
-          "title": "TWA00 加權指數- 盤後紀錄及早盤當沖選股補充！7/24 - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PbzZqZzJNZkN4OHZhRk5ubEhLQlhpRGxna2RPa0s2UTRqWk51WExBZnJ4NV9Mald6MW1YYmg5UkxoRE9hNmVHZmpjQ2x3VHd0MFR0d0RkYnA?oc=5",
-          "source": "CMoney",
-          "published_hkt": "07/24 19:16",
-          "related": [
-            "^TWII"
-          ]
+          "title": "AI餘震再挫台股！「這檔」搭機器人、低軌衛星雙題材猛飆漲停 隆銘綠能出關首日也發威",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NNl9CMlhvU0xhRm51ZlRQUG5QUDIyUVRObU9rZGFESkFOU2pDZGlZY1RGN3dmTGNyeTMzTU9DNURwelBCMVpiTDBicw?oc=5",
+          "source": "FTNN 新聞網",
+          "published_hkt": "07/27 16:30",
+          "related": []
         },
         {
-          "title": "TWA00 加權指數- 補完800-1000踏實路才能安穩上1000 - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZUEVrZWVocWl0aW1VTWFpOUZsSUVDclZUU3ZGS0tuSGwyWTlGc2s2UFpSbFlQR0w4RmhSeTU4RFViS0xoeTVzVktVQU1SUzVsYlUzWmxSd3I?oc=5",
-          "source": "CMoney",
-          "published_hkt": "07/24 18:50",
+          "title": "台積電「上山」時機到了？財經專家看「20年股價關鍵轉折」指1事是機會",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3NmV4LXZDT3c2LWxkbHJJam5mLVl6ZklZZ1VRbEpzRjRqLTNsRzlOMmxsMkkxX1pVVnBZNWR2d21vUmdENnNwV2Ixc0RCSnczcm9qMllpal85dkQ1bHhpOURISUpFQQ?oc=5",
+          "source": "民視財經網",
+          "published_hkt": "07/27 16:09",
           "related": [
-            "^TWII"
+            "TSM"
           ]
         }
       ]
@@ -211,65 +206,57 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-24 22:59 HKT",
+      "updated_at": "2026-07-27 18:01 HKT",
       "news": [
         {
-          "title": "韓股暴跌又熔斷 日股下挫1800點",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FVy1qWFQxdVBYYXdxOHFldldaTFV0U0NHVnhWNW16MVNZZmpYYkhaRi0xZG05QTQxbzdwcGVvQkNwZjZXNnR0WVR1UUk1aGtyQmpZU0dJSnVtY2tEY296YzBxVnpQWkE5SUFGaGppMHE?oc=5",
-          "source": "hkcna.hk",
-          "published_hkt": "07/24 19:02",
+          "title": "美伊停火激勵市場 日股收紅上漲320點、東證漲幅逾1%",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RczRFMFVBc1BrdGI2OUJWY0RTMGhXTlJwY1laVEpHSFI3aFBvNk9BZjdyOWdseE5TQlBFcUVDU04zM3ZEVE4zVkZQZ2Jrdi02?oc=5",
+          "source": "UDN",
+          "published_hkt": "07/27 16:22",
           "related": []
         },
         {
-          "title": "《日股》權值股疲弱 日經收跌2.73%",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb3VZanhPWkhraWFrOGtQREhJSlB0THJjV056b2NhbGtCbGtjb05YZXlyT0cyODlKYXdBYlpFZkViMlB5U3pBcTRHOFV6d084cDAycjZhdGNMQWxRZVVVMUlDQzZnWjRlRUcxRjBCa1NxX1JvSmpwRlNsSkE4R3lEeGdqV05hemFSR1F2bGV6WXViZw?oc=5",
-          "source": "台視全球資訊網",
-          "published_hkt": "07/24 17:46",
-          "related": [
-            "^N225"
-          ]
+          "title": "亞股震盪劇烈 日股高股息、商社題材成避風港",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAydHdHRkNHWS1zaExaZGRCRTMwUDg4cEJMUjRfS3pkaHhMWllnRDZGR0x5bUd5Rk1Sa0MzU1ZHSDJOYUlLWDM5QkdjaGpMOXpUb2FxUDRB0gFWQVVfeXFMUDJ0d0dGQ0dZLXNoTFpkZEJFMzBQODhwQkxSNF9LemRoeExaWWdENkZHTHltR3lGTVJrQzNTVkdIMk5hSUtYMzlCR2Noakw5elRvYXFQNEE?oc=5",
+          "source": "UDN",
+          "published_hkt": "07/27 16:10",
+          "related": []
         },
         {
-          "title": "中東局勢升溫加上AI類股賣壓日經收盤跌逾千點| 全球財經| 全球",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kQWdFVWhaZVN2OHJrMTg1N3ZBdTUxQUNCT3hFNGV0bWtPYjJtWXZoOVluUWo5dEM4eTc5b0NQTTY4Y2lvb2V5a2E0bjhKbGw4?oc=5",
-          "source": "UDN",
-          "published_hkt": "07/24 15:24",
-          "related": [
-            "^N225"
-          ]
+          "title": "台灣震盪量縮 韓國記憶體雙雄領軍 日股穩步推升",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qSVVBd0s0aVdoUklMMEJRNjdLQnBCdTBsRGhQdjJqWXk1SlllOWxhekVOd3dsLURvaFl0bXQyWTlQbFJoRWxBQmNzUkFDMkg4X2c?oc=5",
+          "source": "蕃新聞",
+          "published_hkt": "07/27 15:42",
+          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-07-27 12:32 HKT",
+    "updated_at": "2026-07-27 18:01 HKT",
     "news": [
       {
-        "title": "加密貨幣價格預測：比特幣、以太坊和Worldcoin——亞洲盤27日回顧",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRWk3SlNmaWQ1X0xxS1lqNkF6UDljTmtQUnNMNVFBRTQ2OGJaOEdwdUJwYjdUYlN6RUZQMmVuLXlDQmZNeVBhUnJRWTdUZXFqME1kdnRWcGd0YjFiOWEtTW9tTkZndm1iT0x3dlZ0dVNxVjFMVDE2eEl2aWdpRlhjT1hvenJfRC1TOWxOSkdpOEtMd29jWXZtTGVNYXJUMWRqblJnbDYxdWxIRWZNNWlLbmx5S1JWX3ItZmFqVkc2Rk05ZUl4Z0lFZWdERXJxRHM1dDRXV3NQVTFYQknSAeABQVVfeXFMTW9iZTdyVktBUjFueVlSR1JIa245TTk4VHo0MkpsOFVhWUFqWE0xTEZ5cW5zUERQRzVrUjY2NTNXYkd0X0MtQUFNWWdqV0dpNFdQRF94MFRMbUNIRXNWY3NKOGxmaW8tMjFJb3FYMzlfLVN2Z0hER2VHM3BkbFh2a095amwwcXZuVGt0eE1RdWxjNGRJU0h2OHRGWkdWR1Y0cXhhOUxaYm94Y3h6Qi1FRGh2Nmpka1piQVVabFNNem9oM2hOZ0NsTXo1TjdzUzFUVjR4bWdvNDFXWEpFV2h4aWM?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "07/27 12:18",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
+        "title": "【中東局勢】全線上漲！荷姆茲海峽，傳出大消息！",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvZmJkOWF3UzBiNFNnSXk4STlYRWJrbFdQemViNWIwZ3ctZmRGdGl0Ukd3bGt3VWtyeDY1Rkd4bHdTNUwxazFJTA?oc=5",
+        "source": "鉅亨號",
+        "published_hkt": "07/27 17:03",
+        "related": []
       },
       {
-        "title": "量子計算來襲 | 比特幣最大難題不是技術、而是改不動規則",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkVzRUZGd1S3lhWGtMbVNFaS1pRTJtZEtiSDFTOG94ZWhGS1NRR1dPLXllalAzbmhheVZYZ1dNRURCaDhuanRvMC1sYzJ2S3M?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "07/27 12:00",
+        "title": "量子威脅逼近！Cardano 創辦人轟比特幣「治理僵化」：龍頭地位恐不保",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWVZZVVZkdG5tOWVOMEIxVWVGNDNoUk1WUHZOemswZGdnUWotZjRkbUZCNXRLUVQxd0ZBdVU0YXJqbnpWOUdHd2ZNTGV5V0RaMUtlLTNOMzQ5T1BybFRZX2p6RlhpV1dTVlRqdnkzOXFoM0VCZDZoNE8ta3otdko5Nk5HbXJhTWE1OUIxMlJ0YmMyY2RFWHlVdDBiN01BRmM0ekR1LXVB?oc=5",
+        "source": "區塊客",
+        "published_hkt": "07/27 16:44",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "前3名價格預測：比特幣、以太坊、瑞波幣 – BTC延續連勝，ETH突破關鍵阻力，XRP企穩",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRGlJUnZiRGdrb0hBaklPZDE3X092NWNodjBka185RG4ya25wNVlncW5vVlRteVFzMVRpMHhzRlVYN1F6b29DdE9UdVZJNkoySTYtejByajFsdDZxdkhtQ1ZNM1d4U3B5cDljVVhIQjRxM1NNZnhQZ2hCeDVhV0hlSHlWX0VBVjdfbG1tQ0tqa3pGZFEwdkN2LS1aWDlMZlJDZGd6MTk4NlRnYlBob1FuQWhXWFRVUkRwN2JOZWZTMk5UNEdKY3VtbXNjbHZDSFpoZmJBbmNSVDNEcnNzVE9XNjRuMXlvalpMT1BkUFdMVHREVkNxRGpUX09RT0FpZ9IBgwJBVV95cUxQdTFzbXoyVWVXQW5BUEEzSmtncERtNW5QbDUxTnhfWkRFMGVDODFJQUNydHBhMTIwbWxvbWVodDRleTk4NC1vbERfSlc2Wm80RWNWRGpEZmJZQm1LZGZrZmMzSzQ3UVBGZjZBekNyT1IyeUEtSkt3RGdPUmdYejJCUmZ2ZW5CQWlCOTNQZ0FyRTl6RGY5dkx3UzVHbzlOTm45a04zZGlaaFFEaFpqakg3SWFEMi1nSGthellxWmw3cTBCRE1OQ3RPemhmdFUtWUtvcEhDOTYzZG1KNGpKc0wzU3hYMXdmQnpHb3VHaXE1b21vd1FmUXBjSUowc0xUazM5eHlB?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "07/27 11:01",
+        "title": "以太坊飆升逼近2000美元大關，刷新近兩個月高點",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZWZkZExWdTFHU1lzd0YwZnNLSElfdzhjZkhVQ0RFV1dadzdvNHpJelhuenhkQm5KUlF2Z1k2Zk1XQ1hpUVJ6ejF4NElaZlc0RmZ2NEEzWjl3NHNnT28zanNIWk8tdWl2YjZxX05zQ2JqbWtqM28wQ0dRMnZNZUpsOFhlemktNVlpa3BYSGJrN1VWZGtrbkpvTzlqZHBMSjU4MTFkVFlsd1BCZ3BpdDNubWNvQklMbHZ3OUVtd2hjdEhOeDJRclNXR2JDYS13ZkcwR2NidnlWVzJQWHcwbHlYNmZEV3dMZFlkaWJN?oc=5",
+        "source": "TradingKey",
+        "published_hkt": "07/27 16:18",
         "related": [
-          "BTC",
           "ETH"
         ]
       }

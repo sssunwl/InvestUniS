@@ -3110,6 +3110,7 @@
       <button class="chain-btn active" id="chain-btn-power" onclick="showChain('power')">⚡ 電力基建鏈</button>
       <button class="chain-btn" id="chain-btn-ai" onclick="showChain('ai')">🧠 AI 算力鏈</button>
       <button class="chain-btn" id="chain-btn-photonics" onclick="showChain('photonics')">💡 矽光子互連鏈</button>
+      <button class="chain-btn" id="chain-btn-crypto" onclick="showChain('crypto')">🪙 加密價值捕獲鏈</button>
     </div>
 
     <!-- ── Chain 1: 電力基建 ── -->
@@ -3125,6 +3126,9 @@
           <div class="chain-company"><span class="chain-ticker intl">HTHIY</span>Hitachi Energy — 重電 (ADR)</div>
           <div class="chain-company"><span class="chain-ticker intl">NEXS.PA</span>Nexans — 電纜 (巴黎)</div>
           <div class="chain-company"><span class="chain-ticker intl">PRY.MI</span>Prysmian — 電纜 (米蘭)</div>
+          <div class="chain-company"><span class="chain-ticker">VRT</span>Vertiv — 液冷散熱設備（CDU / CoolChip，本週起納入本鏈）</div>
+          <div class="chain-company"><span class="chain-ticker">NVT</span>nVent Electric — 散熱與電力連接解決方案</div>
+          <div class="chain-company"><span class="chain-ticker">FIX</span>Comfort Systems — 機電工程 / 散熱安裝</div>
         </div>
         <div class="chain-tier">
           <div class="chain-tier-title"><span>➡️</span>中游 — 傳輸 / 發電 / 配電</div>
@@ -3146,24 +3150,25 @@
         </div>
       </div>
       <div class="chain-bottleneck">
-        <div class="chain-bottleneck-title">🔴 今日瓶頸：變壓器 & 電網連接</div>
-        <p style="font-size:13px;color:var(--dark);margin:0">大型變壓器 lead time 已從 2021 年的 <strong>50 週</strong> 延長至現在 <strong>120–210 週（最長 4 年）</strong>。全球電纜、渦輪、基板每一個環節都面臨 2–3 年積壓訂單。50% 全球數據中心項目因電力連接問題被冻結。</p>
+        <div class="chain-bottleneck-title">🔴 今日瓶頸：變壓器 & 電網連接，散熱本週起正式列入次咽喉</div>
+        <p style="font-size:13px;color:var(--dark);margin:0">大型變壓器 lead time 各方估計持續拉長：從 2021 年的 <strong>50 週</strong>延長到現在 <strong>120–260 週</strong>，Tier 1 廠商最長已達 <strong>5 年</strong>；美國電網連接排隊在 PJM / Virginia 一帶長達 <strong>7–10 年</strong>。GE Vernova Q2 氣渦輪訂單積壓擴大至 <strong>116 GW</strong>（Q1 為 100 GW），全年目標至少 125 GW，反映電力設備需求持續超過供給。<strong>散熱新咽喉</strong>：Vertiv 訂單積壓已達 $15B，Q4 訂單年增 252%，5 月推出 CoolChip CDU 2300 液冷平台搶佔機櫃功率密度升級需求，Q2 財報將於 7/29 公布；液冷已從「選配」變成 100+ kW/rack 機櫃的必要配置，是 AI 算力鏈瓶頸從晶片→電力→散熱遷移的下一站。</p>
       </div>
       <div class="options-section" style="margin-top:0">
         <div class="options-section-title">最值得關注環節（優先級排序）</div>
         <div class="chain-rank">
-          <div class="chain-rank-item"><div class="chain-rank-num">1</div><span><strong>GEV</strong> — 重電設備 / 氣渦輪，訂單積壓 2–3 年</span></div>
+          <div class="chain-rank-item"><div class="chain-rank-num">1</div><span><strong>GEV</strong> — 重電設備 / 氣渦輪，Q2 訂單積壓 116 GW（Q1 為 100 GW），持續擴大</span></div>
           <div class="chain-rank-item"><div class="chain-rank-num">2</div><span><strong>CEG</strong> — 核電廠，與 Microsoft 等簽長期電力協議</span></div>
           <div class="chain-rank-item"><div class="chain-rank-num">3</div><span><strong>PWR</strong> — 電網建設，受益於大規模輸電基建</span></div>
           <div class="chain-rank-item"><div class="chain-rank-num">4</div><span><strong>VST</strong> — 核電 + 天然氣，現金流穩定</span></div>
+          <div class="chain-rank-item"><div class="chain-rank-num">5</div><span><strong>VRT</strong> — 液冷散熱純玩家，訂單積壓 $15B，Q2 財報 7/29 公布，本週起納入本鏈觀察名單</span></div>
         </div>
       </div>
-      <div class="chain-update">🔄 最後更新：2026-06-23 ｜ 每月第一個週一更新</div>
+      <div class="chain-update">🔄 最後更新：2026-07-27 ｜ 每週一更新（本鏈本週起改為週更，並納入散熱環節）</div>
     </div>
 
     <!-- ── Chain 2: AI 算力 ── -->
     <div class="chain-panel" id="chain-ai">
-      <div class="bond-intro-box"><p>🧠 <strong>核心命題：</strong>AI CapEx 2026 年 Big 5（含 Oracle）合計約 $7,250 億（Amazon $2,000 + Google ~$1,800 + Microsoft ~$1,150 + Meta ~$1,250 億），2027 年共識仍指向破 $1 兆；惟 Q2 後市場出現「ROI 懷疑論」情緒，估值承壓。主瓶頸仍在 CoWoS 先進封裝：TSMC 目標年底達 <strong>140,000 wafers/月</strong>（上修自 130,000），供需缺口縮至 ~10%，2027 前仍全售罄。HBM 本週出現新分化：Vera Rubin NVL72 <strong>7 月起正式出貨</strong>至 AWS / Google / Microsoft，HBM4 需求正式啟動；但 SK Hynix 傳出 HBM4 擴產延至 Q3 並將部分產能轉向 DDR5（毛利率 ~90%），高盛將 HBM 成長預測從 45% 下修至 <strong>25% YoY</strong>——供給格局比年初預期更複雜。Broadcom Q2 AI 晶片收入 $108 億（+143% YoY），Q3 指引 $160 億（+200%），FY2027 $1,000 億目標再確認；Marvell 與 Google 推理晶片談判持續，尚未簽約。</p></div>
+      <div class="bond-intro-box"><p>🧠 <strong>核心命題：</strong>AI CapEx 2026 年 Big 5（含 Oracle）合計約 $7,250 億，2027 年共識仍指向破 $1 兆；惟 Q2 後市場「ROI 懷疑論」情緒未散。CoWoS 現況趨緩但仍緊：TSMC 7/17 法說會重申產能「極度緊張」，年底目標 125,000–140,000 wafers/月，供需缺口收斂至 ~10%，2027 年產能上看 20 萬片。HBM4 本週出現關鍵轉折：NVIDIA 6/5 證實三大供應商（Samsung、SK Hynix、Micron）皆已通過認證、同步進入量產——先前「SK Hynix 延至 Q3」的傳聞已不成立，短期供給焦慮緩解，但三家 base die 架構分歧擴大，2027 仍是技術卡位戰。NVIDIA Vera Rubin NVL72 已於 <strong>7/21 進入量產</strong>並在 Google / Microsoft / Oracle / CoreWeave 機房運行；但下一代 <strong>Rubin Ultra（四晶粒版本）因封裝限制，Kyber 機櫃 delay 至 2028</strong>，2027 效能面臨腰斬——顯示先進封裝瓶頸並未消失，只是從「現在」遷移到「下一代」。Broadcom 維持 $730 億 AI 訂單積壓、FY2027 $1,000 億目標不變，4 月與 Google 簽署 2031 年 TPU 長約；Marvell 2026 年 AI ASIC 營收目標上看 $110 億，新增 50+ 個定制設計案（10+ 客戶）。</p></div>
       <div class="chain-tier-grid">
         <div class="chain-tier">
           <div class="chain-tier-title"><span>⬆️</span>上游 — 製造基礎</div>
@@ -3193,19 +3198,19 @@
         </div>
       </div>
       <div class="chain-bottleneck">
-        <div class="chain-bottleneck-title">🔴 今日瓶頸：CoWoS 先進封裝（TSMC 獨家）+ HBM4 供需分化</div>
-        <p style="font-size:13px;color:var(--dark);margin:0"><strong>CoWoS</strong>：TSMC 目標年底達 140,000 wafers/月（自 35,000 起算，CAGR 80%+，較前次指引上修），供需缺口縮至 ~10%，2026–2027 年產能仍全數售罄，NVIDIA 獨佔 ~60% 配額；CoPoS（面板級封裝）試產線已 6 月完工，量產需等 2028–29 年。<strong>HBM4 供需分化</strong>：Vera Rubin NVL72 7 月起出貨，Micron HBM4（36GB / 12-high，2.8 TB/s）進入高量產；然而 SK Hynix 傳出將 HBM4 擴產延至 Q3、部分產能轉 DDR5（毛利率 ~90%），高盛將 HBM 成長預測從 45% 下修至 25% YoY——HBM3E 強需持續，HBM4 供需比年初更寬鬆，需重新評估緊張程度。次要瓶頸：電力供應（見電力基建鏈）、芯片間互連帶寬（見矽光子鏈）。</p>
+        <div class="chain-bottleneck-title">🔴 今日瓶頸：CoWoS 現況趨緩，瓶頸正遷移至下一代封裝（Rubin Ultra / Kyber）</div>
+        <p style="font-size:13px;color:var(--dark);margin:0"><strong>CoWoS</strong>：TSMC 年底目標 125,000–140,000 wafers/月，供需缺口收斂至 ~10%，2027 年產能上看 20 萬片，OSAT 夥伴同步擴產；7/17 法說會 CEO 重申產能仍「極度緊張」。<strong>HBM4</strong>：三大供應商（Samsung、SK Hynix、Micron）皆已通過 NVIDIA 認證並同步進入量產，先前「SK Hynix 延至 Q3」的供給疑慮已緩解，但三家 base die 架構分歧擴大，2027 仍是技術卡位戰。<strong>新訊號</strong>：NVIDIA Vera Rubin NVL72 已於 7/21 量產出貨，但下一代 Rubin Ultra（四晶粒）因 PCB 中介板/封裝限制，Kyber 機櫃 delay 至 2028、2027 效能面臨腰斬——先進封裝瓶頸沒有消失，只是從「現在世代」遷移到「下一世代」。次要瓶頸：電力供應（見電力/散熱鏈）、芯片間互連帶寬（見矽光子鏈）。</p>
       </div>
       <div class="options-section" style="margin-top:0">
         <div class="options-section-title">最值得關注環節（優先級排序）</div>
         <div class="chain-rank">
-          <div class="chain-rank-item"><div class="chain-rank-num">1</div><span><strong>TSM</strong> — CoWoS 目標年底 140,000 wafers/月（上修），NVIDIA 鎖定 60% 配額，2027 前全售罄；CoPoS 試產線 6 月完工，下一代封裝卡位已成</span></div>
-          <div class="chain-rank-item"><div class="chain-rank-num">2</div><span><strong>NVDA</strong> — Vera Rubin NVL72 7 月起出貨至 AWS / Google / Microsoft，Rubin CPX（大情境推理晶片）同步揭露；CUDA 護城河未動搖，但交付節奏需追蹤</span></div>
-          <div class="chain-rank-item"><div class="chain-rank-num">3</div><span><strong>AVGO</strong> — Q2 AI 晶片收入 $108 億（+143% YoY），Q3 指引 $160 億（+200% YoY），FY2027 $1,000 億目標再確認，客戶擴至六家（含 Anthropic、OpenAI）；Google-Marvell 談判尚未簽約，威脅仍是潛在而非現實</span></div>
-          <div class="chain-rank-item"><div class="chain-rank-num">4</div><span><strong>MU</strong> — Q3 FY2026 營收 $414 億（+24% QoQ）創紀錄，HBM4 高量產啟動（36GB / 12-high，2.8 TB/s）；風險：SK Hynix 轉產 DDR5 若引發 HBM 定價競爭，護城河仍受壓</span></div>
+          <div class="chain-rank-item"><div class="chain-rank-num">1</div><span><strong>TSM</strong> — CoWoS 年底目標 125,000–140,000 wafers/月，2027 產能上看 20 萬片；Rubin Ultra 封裝良率問題再次凸顯 TSMC 下一代封裝的卡位地位</span></div>
+          <div class="chain-rank-item"><div class="chain-rank-num">2</div><span><strong>NVDA</strong> — Vera Rubin NVL72 7/21 量產出貨至 Google / Microsoft / Oracle / CoreWeave；但 Rubin Ultra 因 Kyber 機櫃封裝限制 delay 至 2028，2027 世代效能腰斬風險需追蹤</span></div>
+          <div class="chain-rank-item"><div class="chain-rank-num">3</div><span><strong>AVGO</strong> — $730 億 AI 訂單積壓，FY2027 $1,000 億目標不變，4 月與 Google 簽署 2031 年 TPU 長約；Marvell 競爭壓力上升（2026 ASIC 營收目標 $110 億）</span></div>
+          <div class="chain-rank-item"><div class="chain-rank-num">4</div><span><strong>MU</strong> — HBM4 正式進入量產（2.8 TB/s），與 SK Hynix / Samsung 同步放量，先前 delay 傳聞已消，供給焦慮緩解；需觀察三家並進下的定價競爭壓力</span></div>
         </div>
       </div>
-      <div class="chain-update">🔄 最後更新：2026-07-07 ｜ 每週一更新</div>
+      <div class="chain-update">🔄 最後更新：2026-07-27 ｜ 每週一更新</div>
     </div>
 
     <!-- ── Chain 3: 矽光子互連 ── -->
@@ -3251,6 +3256,44 @@
         </div>
       </div>
       <div class="chain-update">🔄 最後更新：2026-06-23 ｜ 每月第一個週一更新</div>
+    </div>
+
+    <!-- ── Chain 4: 加密價值捕獲 ── -->
+    <div class="chain-panel" id="chain-crypto">
+      <div class="bond-intro-box"><p>🪙 <strong>核心命題：</strong>加密經濟裡真正的「咽喉」不是挖礦或幣價漲跌，而是收得到費、有護城河的軌道——交易所/L2 手續費、穩定幣發行的儲備利差、機構資金入口。本週最鮮明的例子：Standard Chartered 估算 Coinbase 的 Base L2 已從 ETH 主網「抽走」約 $500 億市值的手續費，而 GENIUS Act 正把穩定幣發行方推向清楚的合規分野。</p></div>
+      <div class="chain-tier-grid">
+        <div class="chain-tier">
+          <div class="chain-tier-title"><span>⬆️</span>底層 — L1 / 礦機 / 電力</div>
+          <div class="chain-company"><span class="chain-ticker">MSTR</span>MicroStrategy — BTC 資產負債表代理</div>
+          <div class="chain-company"><span class="chain-ticker">MARA</span>MARA Holdings — BTC 礦企（轉型 AI/HPC 中）</div>
+          <div class="chain-company"><span class="chain-ticker">CLSK</span>CleanSpark — BTC 礦企（低槓桿）</div>
+          <div class="chain-company"><span class="chain-ticker">RIOT</span>Riot Platforms — BTC 礦企（出售儲備轉投算力）</div>
+        </div>
+        <div class="chain-tier">
+          <div class="chain-tier-title"><span>➡️</span>軌道 — 結算 / 交易所 / 穩定幣</div>
+          <div class="chain-company"><span class="chain-ticker">COIN</span>Coinbase — 交易所 + Base L2 + Staking</div>
+          <div class="chain-company"><span class="chain-ticker">CRCL</span>Circle — USDC 穩定幣發行（GENIUS Act 合規）</div>
+          <div class="chain-company"><span class="chain-ticker">CRWV</span>CoreWeave — 礦企轉投的 AI 算力租賃需求方</div>
+        </div>
+        <div class="chain-tier">
+          <div class="chain-tier-title"><span>⬇️</span>應用 — 機構資金入口</div>
+          <div class="chain-company"><span class="chain-ticker">IBIT</span>iShares Bitcoin Trust — 現貨 BTC ETF（機構資金主要入口）</div>
+        </div>
+      </div>
+      <div class="chain-bottleneck">
+        <div class="chain-bottleneck-title">🔴 今日價值咽喉：穩定幣合規護城河 + 交易所/L2 手續費捕獲</div>
+        <p style="font-size:13px;color:var(--dark);margin:0">GENIUS Act 要求穩定幣發行方 1:1 準備金、禁止對用戶付息，USDC（Circle）與 Tether 新推出的 USA₮ 屬聯邦合規，舊版 USDT（市值仍達 $1,841 億，遠大於 USDC 的 $734 億）則須在 2028 年前完成過渡——合規本身正變成護城河。同時 Coinbase 的 Base L2 被 Standard Chartered 估算已從 ETH 主網「抽走」約 $500 億市值的手續費，說明交易所/L2 比底層公鏈更會收費。底層礦企的價值捕獲正在崩壞：BTC hashprice 跌至五年低點（約 $32.6/PH/s/day），MARA Q1 淨虧損 $12.6 億，多家礦企正出售 BTC 儲備轉投 AI/HPC 算力租賃——價值捕獲點正從「挖礦」遷移至「算力基礎設施」。</p>
+      </div>
+      <div class="options-section" style="margin-top:0">
+        <div class="options-section-title">最值得關注環節（優先級排序）</div>
+        <div class="chain-rank">
+          <div class="chain-rank-item"><div class="chain-rank-num">1</div><span><strong>COIN</strong> — 交易所 + Base L2 雙重手續費捕獲，Q2 財報 7/30 公布（市場預期 EPS $0.31）</span></div>
+          <div class="chain-rank-item"><div class="chain-rank-num">2</div><span><strong>CRCL</strong> — 穩定幣發行方，GENIUS Act 合規護城河直接受益者</span></div>
+          <div class="chain-rank-item"><div class="chain-rank-num">3</div><span><strong>IBIT</strong> — 現貨 BTC ETF，7/14–22 連 7 日淨流入 $9.81 億，機構資金回流入口</span></div>
+          <div class="chain-rank-item"><div class="chain-rank-num">4</div><span><strong>MARA / CLSK / RIOT</strong> — 礦企，hashprice 五年低點，正大舉轉投 AI/HPC 算力租賃</span></div>
+        </div>
+      </div>
+      <div class="chain-update">🔄 最後更新：2026-07-27 ｜ 每週一更新（首次建立）</div>
     </div>
   </div>
 

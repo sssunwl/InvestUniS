@@ -27,7 +27,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-28 11:47 HKT",
+      "updated_at": "2026-07-28 11:56 HKT",
       "news": [
         {
           "title": "日韓股市跳水，韓股又熔斷！「記憶體雙雄」暴跌 半導體拋售潮蔓延",
@@ -232,8 +232,15 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-28 11:47 HKT",
+    "updated_at": "2026-07-28 11:56 HKT",
     "news": [
+      {
+        "title": "參議院準備就CLARITY法案進行全院表決，共和黨努力爭取支持",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcTF2NkQ3RjFSU01TUkM5NUxWdTBTZHpwNTJWbnNDei1fTnFWTjNCQ09NZmx5Rl96Rk1CdHVRZElWNzlqVWRWSDgyMVVXMFdibnJheE1zbTlBTFFXQzBTdFNZY0JmbS1hdTNGdUJTNmVKVjJvV044QzVYczJyOF8zTDIzM3F6RF82am42anRJUnRXX3RjYzQ3T1V2Z25zOW92Vl9PMi03cDJ5aEdVUDZabTNqSHFNcTZNU0hzVk5BdENuMUNIdVB1dTA4MHgwbzRGalQ3b1dmWXVoV2ZERnBsVEtsNGVET0JZZHR0ZmtCaHBZc0ZIVy1z0gH3AUFVX3lxTFBxMXY2RDdGMVJTTVNSQzk1TFZ1MFNkenA1MlZuc0N6LV9OcVZOM0JDT01mbHlGX3pGTUJ0dVFkSVY3OWpVZFZIODIxVVcwV2JucmF4TXNtOUFMUVdDMFN0U1ljQmZtLWF1M0Z1QlM2ZUpWMm9XTjhDNVhzMnI4XzNMMjMzcXpEXzZqbjZqdElSdFdfdGNjNDdPVXZnbnM5b3ZWX08yLTdwMnloR1VQNlptM2pIcU1xNk1TSHNWTkF0Q24xQ0h1UHV1MDgweDBvNEZqVDdvV2ZZdWhXZkRGcGxUS2w0ZURPQllkdHRma0JocFlzRkhXLXM?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "07/28 10:32",
+        "related": []
+      },
       {
         "title": "貝萊德2.71億美元資產轉入Coinbase，是拋售還是調倉？ 提供者 智通財經",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmp3QUpGZzhaMGdaV0dnZWRTLWJ0QV9haFdmSnExYzF1M3FqSzlPLWhzT1JHZHdKbzZlcFkwUEJ1Q0FPc0tiSDlEaHpQaU4zYzU5YWtzUmhoZE1FUkg0QlMwOWw4dEpnbDVRc3pQb2lXTEw4Q0tnamJkcjEtY3JRRg?oc=5",
@@ -247,15 +254,6 @@
         "source": "FX168财经",
         "published_hkt": "07/28 08:16",
         "related": []
-      },
-      {
-        "title": "以太坊價格預測：BitMine回購超過600萬股，購入1萬枚ETH",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUTNzQ0FJbDJ6TDd5U3RvU05PN0ktczdvYnExek5QRjFuak0yZk50aWVyN1lpcS1tZlFwaUpUbGNxVmJjWEVQeTVGT1c2MDgyUldiWm50cm5GVzV3RTVFRl91RzBfcl9GZTZhRHAweVIxMmx5b0hQTmJveTNpQk9Zd3Q4NXJlSWY2ODRHWlVwREdlQTF6NXFvYk1xbEdqRGctajUta3kwaDZtWFV2U0xvdE1hSG83ZFIyenNFbTNkSnFFVkUtZFAwN2NCaGpUTFUxbnVqd1hhQnbSAdgBQVVfeXFMTlEzc0NBSWwyekw3eVN0b1NOTzdJLXM3b2JxMXpOUEYxbmpNMmZOdGllcjdZaXEtbWZRcGlKVGxjcVZiY1hFUHk1Rk9XNjA4MlJXYlpudHJuRlc1d0U1RUZfdUcwX3JfRmU2YURwMHlSMTJseW9IUE5ib3kzaUJPWXd0ODVyZUlmNjg0R1pVcERHZUExejVxb2JNcWxHakRnLWo1LWt5MGg2bVhVdlNMb3RNYUhvN2RSMnpzRW0zZEpxRVZFLWRQMDdjQmhqVExVMW51andYYUJ2?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "07/28 05:43",
-        "related": [
-          "ETH"
-        ]
       }
     ]
   }

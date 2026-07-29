@@ -27,8 +27,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-29 11:50 HKT",
+      "updated_at": "2026-07-29 12:08 HKT",
       "news": [
+        {
+          "title": "希捷營收獲利跑贏市場預期、盤後反彈6.6% 儲存類股同步回升",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41VG1ITHc4ZGJ4TFNDMWYzakRuRE9MZTRkQWdfTFZoZS1zYjNUMGdnaUNrX2RPelFhaXNDXzgyd1RQdGJCR2g3bE9OcmlJWWc?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "07/29 11:20",
+          "related": []
+        },
         {
           "title": "美股重挫與中東局勢雙重夾擊！SK海力士財報創高難救市，日韓股市陷劇烈震盪",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMjJRNG5vaGlvVFZMalJNeFZhZXJXbzVHbFA1Vm1FZDZIcm9reVNwSFhDb0QwWVd0QnpYY05VY1VESkRDUU41a2dmVHpCd3p0ZGVJcVJWblJ4TnZQM2NDbjJpYm4xSExrRWFyTU9DV3BabS1jSC1fQlJIS1dNNXpmRXlSd3Y3Xy14?oc=5",
@@ -44,15 +51,6 @@
           "related": [
             "TSLA",
             "QQQ"
-          ]
-        },
-        {
-          "title": "【美股盤前0729】記憶體與光通訊空頭襲擊！蘋果突圍衝5兆市值，聯準會利率決議前夕該注意什麼？",
-          "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxNUmVnaXo5MVUyaUplbzBDbFpkU05qNGpCak9CUjhobWxSLUJTZmt3WTlMeVlVNEpxYkhqQk9XaEk5ZGd2cjA4cFVONm80bUpfdkMyQWlHMFA1aXVTVml1TXd4SkhNaWd0c01BRTBkQllyYm93WkZlOTBjdTk1WS1kUFZiYlUxZndqanJ6V1RYNkxULUltTEpJNTVIbE42M0NVYU1YYUI5TXIxMkRmTWlFUUlwTjMzU2MzYklVVmg0b0NqenVicmJWeF9lTnhaMFhDdDVsODdqM2pQVVRVSmJXN0M2Mlc2djVRbnVYRzMwcVdBUmJWU0h6UkNJdE1EdlZ4ZlA0X0U0SkZwbkR5SHo3QXRaSmhFWUpLdUpMQXpQUGZnNTlxSE1XcVI3ckJYcTZOclJWNE5RaEhlQk45cnNJdV9yUWlaNWszNGE5U2xOOEFjWmthR0p0SGFwc182VkZQMk9NV2JIeFR2blN5MHpKZWQ0QmxmS1BaWGUxM0xTcDlVVjlPSjRyMlpTdlNNWHFHa3hNS2RTaFRidmdfZW5PYW5sLWR1UGF2emkwUldBRjFrZUN2MFhKbHZRRF9SbjU4RThBTkN5cVVkbWF2bVI5SHZmdTI0MkJzNkp3N0NOWUJyVjIxVm1wRmtSXzhBUFJaRFQyUEpuXzJuMzN1SU5OdjcyT3RfUkt1WmdxWXZpcUtCR3hBUm9TM1daa0swcGlLTmhiN2l1NS1GN19CZmM3V3lxa2p0amphWkYtaUFLd1RSOG1TNlE?oc=5",
-          "source": "sinotrade.com.tw",
-          "published_hkt": "07/29 09:14",
-          "related": [
-            "AAPL"
           ]
         }
       ]
@@ -245,13 +243,13 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-29 11:50 HKT",
+    "updated_at": "2026-07-29 12:08 HKT",
     "news": [
       {
-        "title": "Bitmine 沉浸技術（BMNR）宣佈 ETH（以太幣）持倉達到579 萬枚代幣，加密貨幣總額和現金總持有量達118 億美元",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mdW5lQUtkOXRnMVJzNUYxVDVTRzZTcVV3WnpIV0cyUUM2MjNUOVFpdURMbEtKTTY3Z0YtZGg1Mk90QWoyMlZicUxkT1JjVXJSNEE?oc=5",
-        "source": "蕃新聞",
-        "published_hkt": "07/29 09:31",
+        "title": "加密貨幣黑客攻擊在2026年上半年以212起漏洞利用創下紀錄高位",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNzg0aUs5ZHRyTDY4Wi1xdUw3REZVQWJhWWxVdV9MUk01bWdfbnpjQkRkZmkzeWR2NFNmc0FlRmtJRmFtc19pUFA5TXNkU3gyWldLR1U4U3NpZ1lIUUdIUkxFU2FvVHdpYnlyT2NsXzMxVy1BR1NKQmlEbWRoZFBNWElJSjAtczJlVDhnRGhOaGJJRl9qRVh0WXpQdEpFWHhhQXpMeGpkYnlPdGVSTlV6aWRkZGFjalZaaHlab1BtNE9vX0g1ZF9jS1c1eXBDYlhjemtmSjJ5TTc4NnMtZEwyT0VKNTlJYWVxS3gySlloNS1taTQtaF9PTV9MUk93cWvSAf8BQVVfeXFMUDc4NGlLOWR0ckw2OFotcXVMN0RGVUFiYVlsVXVfTFJNNW1nX256Y0JEZGZpM3lkdjRTZnNBZUZrSUZhbXNfaVBQOU1zZFN4MlpXS0dVOFNzaWdZSFFHSFJMRVNhb1R3aWJ5ck9jbF8zMVctQUdTSkJpRG1kaGRQTVhJSUowLXMyZVQ4Z0RoTmhiSUZfakVYdFl6UHRKRVh4YUF6THhqZGJ5T3RlUk5VemlkZGRhY2pWWmh5Wm9QbTRPb19INWRfY0tXNXlwQ2JYY3prZkoyeU03ODZzLWRMMk9FSjU5SWFlcUt4MkpZaDUtbWk0LWhfT01fTFJPd3Fr?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "07/29 10:13",
         "related": []
       },
       {
@@ -265,11 +263,13 @@
         ]
       },
       {
-        "title": "晶片股持續走跌，市場靜待聯準會利率決策和科技股財報",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xaXd1eHpSNGU2OURtMGpjd2ZIOGdOZ0l0YnRwUVR0eFNyQTI5VGtMZkJjMlZKNk9rUVFUMHphTHdKbUxMLUR3VDVldXJEbVplYy1iTHN2R1hRejM4V0lnTThSRQ?oc=5",
-        "source": "鏈新聞 ABMedia",
-        "published_hkt": "07/29 07:22",
-        "related": []
+        "title": "比特幣面臨低迷活動，BitMEX關閉和FOMC不確定性拖累市場情緒",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcnNUNE9RSWN6cTF0aktnTWctaDdwUVhWXzdyVFRkdHV0ZVpHRmRmd2pFanR0Q3BHei1fZzVqb29WYjllcS1ORHI5aFF0M2hYOFhqLTBLMmV5S3FrX0J1S25WNG5LSU52UGVQV3VtZXJncTBub1c1dGlkQmFjMFZGX1BhbW4zMHNWTXhxMzB5Vm9GbWducWJHcmZyRlVDQUVibTBiakxhMS1xODFzSDVaOV81c0VocUZudERuSGRHSGJsLWpaVlYyeXdlejNvazZXeTdXVE9vTzBCU2dXU3htbHJXU1U5el8xZEtQdUJGQWTSAfABQVVfeXFMTXJzVDRPUUljenExdGpLZ01nLWg3cFFYVl83clRUZHR1dGVaR0ZkZndqRWp0dENwR3otX2c1am9vVmI5ZXEtTkRyOWhRdDNoWDhYai0wSzJleUtxa19CdUtuVjRuS0lOdlBlUFd1bWVyZ3Ewbm9XNXRpZEJhYzBWRl9QYW1uMzBzVk14cTMweVZvRm1nbnFiR3JmckZVQ0FFYm0wYmpMYTEtcTgxc0g1WjlfNXNFaHFGbnREbkhkR0hibC1qWlZWMnl3ZXozb2s2V3k3V1RPb08wQlNnV1N4bWxyV1NVOXpfMWRLUHVCRkFk?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "07/29 09:21",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

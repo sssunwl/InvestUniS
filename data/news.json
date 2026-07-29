@@ -27,28 +27,34 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-28 11:56 HKT",
+      "updated_at": "2026-07-29 08:14 HKT",
       "news": [
         {
-          "title": "日韓股市跳水，韓股又熔斷！「記憶體雙雄」暴跌 半導體拋售潮蔓延",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ReUxtR1dqeG1ZVVJWT0djU3F3M242U21wdlJmLTY3eGQwemxhNzZPR29XYS1WNUxPWEdnSl94NnhWdzZOLVBsQw?oc=5",
-          "source": "鉅亨號",
-          "published_hkt": "07/28 11:20",
+          "title": "美股市場分歧 道瓊今創新高那斯達克重挫 特斯拉暴跌7%",
+          "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNYXlFZGxaRkNfaUhnZlh3QXhUQjZBNDI4T0oxWnQ5Z2cwTFFiVHJQbGVtTmF6TlE3WEFMVnJXNmhwZUVlMUxnREZJTkJKY3d0Q29WOFQ4UzlHRDNGeXJZMTZsZjB1TDBoVmRBUE9ody0yV0s1c3NRdjRRWnFaN0xUOGZoNndRMmlmNk9GT3hBSnVjbFhfUktxVW9DZnZDbE9nUWtrakZYaG5TdjA4b3FHUG9TYW1WNm9aWGJNWEg0Ny1GTzg2QUg1WjR4QXNzLUxjMnROQ2RnVnNscGF3SHo5ZnMtaXFvUXpfZFctanFiYWlhMFBoRVdTZ3ZQSE80VjJGLTExU294dk5fVUF4dUM3Q09YN1VienRUcFNzN3dLRE5DQ3dxc3dmOEUtRFpfVmI2TnBOMHkwS1Robm1Ed09vRnEwREFyRXM5LVhfVW45MVdjUjdGSDlfQVQzMm1tN3ZvM1Ewcm1KaFFpR3lnTnd4d2U1NA?oc=5",
+          "source": "Yahoo股市",
+          "published_hkt": "07/29 08:08",
+          "related": [
+            "TSLA",
+            "QQQ"
+          ]
+        },
+        {
+          "title": "美股重點新聞摘要2026年7月29日",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CMmZ4QkdvN2dxREtfdWdZUXY3REVHdkUyMDU1bXBoMTJtNTUwM3FLbGpRRXZRSElqb2xrSEJyMkdLOUhxZDlRbll5NE9HenM?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "07/29 08:00",
           "related": []
         },
         {
-          "title": "美股存儲晶片跳水，中國 DRAM 巨頭攪動全球格局？",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fYldfdS1VQkdCeFNNUXVtMWdfRzNJbE9LeFpUajNQLWpzTUdUcC0ydS04QWxPUFpneGlmeDRhbi0tbnJkQkdpVlg5NFdNRVRmUWF1WA?oc=5",
-          "source": "odaily.news",
-          "published_hkt": "07/28 11:01",
-          "related": []
-        },
-        {
-          "title": "美股收盤漲跌互見！焦點轉向美伊關係緊張局勢緩解",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdklnaUlzTkFwNVdTSmVhREJSbFhEQzZ1Y1VGaXltbjJWTmxYd3ZfMXhRUVpKM0dzdEdpdm92aVIxcnRvQ0pUTEtZNGR6Wk1KSzdCd0ZsQmRPRG1OUHgwSG9NRVF3OGNiV2RYb2ZvUEx4TEpQSU5FM1A3djlmYVpVRUFaVUxWWGpPblUxOHBNN2ZVbGp6?oc=5",
-          "source": "forecastock.tw",
-          "published_hkt": "07/28 10:47",
-          "related": []
+          "title": "美股聚焦超級星期三 微軟、Meta財報接棒 聯準會決策成市場三大焦點",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2ZkhVMlZLWjdiTmpjNVFJQl9KRFoxVWtkaXVRSzJmdzM1cUc5Y3h0LW13Q3FjN1JENTZJQUZxaGdhME95NDVMbDVIalJFbGs?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "07/29 07:41",
+          "related": [
+            "MSFT",
+            "META"
+          ]
         }
       ]
     }
@@ -177,30 +183,34 @@
   },
   "jp": {
     "pre_market": {
-      "updated_at": "2026-07-28 08:14 HKT",
+      "updated_at": "2026-07-29 08:14 HKT",
       "news": [
         {
-          "title": "早安！今日產經早報",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wM1Y3X1BOT2NpT3EtajVjNGNsTTlnMnJpdTJnamFLVVIyX1ZfM1dKeVpMUXg0X0JHWldyTGp6UlVZcXFYcjNzTTExbHd0aTE4QVE?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "07/28 07:31",
-          "related": []
-        },
-        {
-          "title": "日股：油價急挫提振買氣，日經指數週一上漲0.5%、TOPIX急彈1.37%收近兩週高點",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMExCb3JQd2dnV3pja1Z0TFRVOENDTERKYlRDR3Ztc1RuRnpibG9DczVUOEJweFQwZVhXUW5WT3JoLVl0NkFkTzBzT25Zc3Z6cFNUSFE0bWwxcVZQR0c5Q21qVE5pazI1aUFvMFMtcFNnaDJlNWpwTlpERGU4NzZzNFJPRDFJamJr?oc=5",
+          "title": "日股：輝達信用風險與中國晶片競爭夾擊，日經指數週二大跌2,566.27點或3.95%",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTXpkQzBJWXd5TS1UNmNQRlo5RW01NFllY1pSaFRpYmlubHBHX1MtY1RwNFUyVGNrZHlhdXI1aXVVTGNONGxQdHJRSkUzbmtPWEEzX2lESEo4alFvSnR5SnlJcEdnX19TR1l4ajlBbFIybnlXd0Y4M2RGQmpkb2IxRVBMbWVkQTNu?oc=5",
           "source": "富聯網",
-          "published_hkt": "07/28 07:00",
+          "published_hkt": "07/29 07:00",
           "related": [
+            "NVDA",
             "^N225"
           ]
         },
         {
-          "title": "台股量縮下跌20點 留616點下影線",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SUGY5OFI3LTVKSTh2YU5KMkJiNmdaUjQ4WEJOQ3EwS2hhck1rTlpiUVJyd0szdF9xRnpJRGprT1BHWFZSV2hsMEpuTWw2LWRwQVRIRVpCSUI3X0lSVmx2N9IBZkFVX3lxTE85emtRRDZQV285ZjZQVFRmQVctVExINlFSUTNLMzBLaEZEaDJaOXhMNXNFZEVUNlB3Z1B6dE9jNzM3OWN4Y3JZOHFBMHFOOE9BUUNGV3JYbXZSaTROZzhqLVpHb1Z4QQ?oc=5",
-          "source": "大纪元",
-          "published_hkt": "07/27 21:29",
+          "title": "AI支出疑慮升溫 全球科技股大跳水",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5veE0xNVdFTnpyUkFpN2puUVJoMnBQRkJIYTZURmx3VGJad21HVkJ5Y0ttOVhCZFdnak44WHQ3T3JLdnZJZ2x1UHpUOFZ0Y0RRdkF6RVR5TVc?oc=5",
+          "source": "自由時報",
+          "published_hkt": "07/29 04:35",
           "related": []
+        },
+        {
+          "title": "半導體股仍未止瀉！費半跌逾4％、美光跌9％、台積電ADR挫2％",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wVlZHNk5sak9NREFOYjYtR3BUcFVBREp5Y04tY2pYXy10a2lNTm9uMFhNSFB1TWZZbWJkSmxBSnhxYnExV0dVWU5BV196czYwNW9Ub04xOUMwU0RpSUE3elhuZ1E?oc=5",
+          "source": "自由財經",
+          "published_hkt": "07/28 23:55",
+          "related": [
+            "MU",
+            "TSM"
+          ]
         }
       ]
     },
@@ -236,32 +246,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-28 23:23 HKT",
+    "updated_at": "2026-07-29 08:14 HKT",
     "news": [
       {
-        "title": "比特幣急跌失守6.3 萬美元、以太坊下探$1850！全網14 萬人慘遭爆倉逾6.4 億鎂| 動區動趨-最具影響力的區塊鏈新聞媒體",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYUZwRjBlSG1rRzNXbWhyRHVEOUJrMVo5UEt6c2tBbTNUNTdhQm9rUmZJb3pGZTdfYUM4WnVLemR4UTZmMzBMUVM0R2hPUUhXS0hWb2dwQzRqSXJMOHZLY3Fka1FMVzREVWJfOWVOWXVPenRrVU93OFppWTBaU3NlYVU4bw?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "07/28 22:50",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
-      },
-      {
-        "title": "UNI接近200日EMA，未平倉合約反彈",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPd1lldFVsN05kbDNZclBBYTI0WTYxSC01MmtrOFJBR0NpblpOR0Y4T1VMR1hwQURXMHVBZWdpS1kza1otQlYzTGxlMm1WSWJiQ0R1UnRaaUNjbkhZSVlxWTFpdWc2YmtIaHlBZU9Mc21TMWJpcmc0RUNBS01zQVlZQVFjZ2l2VkRZdWFJYnhYOXBVTjVuTlNGNS1fQVpYcTRhV1ZFQzFJeDhQVng2OXpZWFpqUkptWUp1OG13Y3o4YTA2M0NlS0llMVp2N3NXaDU1OHVEQ2JVZmhfa29UYW5lS2kxTnUwNDZ0Wm1GS3B30gHuAUFVX3lxTE93WWV0VWw3TmRsM1lyUEFhMjRZNjFILTUya2s4UkFHQ2luWk5HRjhPVUxHWHBBRFcwdUFlZ2lLWTNrWi1CVjNMbGUybVZJYmJDRHVSdFppQ2NuSFlJWXFZMWl1ZzZia0hoeUFlT0xzbVMxYmlyZzRFQ0FLTXNBWVlBUWNnaXZWRFl1YUlieFg5cFVONW5OU0Y1LV9BWlhxNGFXVkVDMUl4OFBWeDY5ellYWmpSSm1ZSnU4bXdjejhhMDYzQ2VLSWUxWnY3c1doNTU4dURDYlVmaF9rb1RhbmVLaTFOdTA0NnRabUZLcHc?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "07/28 22:06",
+        "title": "晶片股持續走跌，市場靜待聯準會利率決策和科技股財報",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xaXd1eHpSNGU2OURtMGpjd2ZIOGdOZ0l0YnRwUVR0eFNyQTI5VGtMZkJjMlZKNk9rUVFUMHphTHdKbUxMLUR3VDVldXJEbVplYy1iTHN2R1hRejM4V0lnTThSRQ?oc=5",
+        "source": "鏈新聞 ABMedia",
+        "published_hkt": "07/29 07:22",
         "related": []
       },
       {
-        "title": "摩根士丹利资管推出以太坊和Solana交易所交易产品",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kc2JFdWdqYlZJVGVuQURuNDVXa3JYQlJGODVubW5PdGFIRHhTMG9JaUZ3TGxaY3lydFFSdEs4WlFPcE9ZSGRsNjJ5bV9ndzJleE5hX184MnlCYnVRdlhHVk81elJldw?oc=5",
-        "source": "TradingView",
-        "published_hkt": "07/28 21:17",
+        "title": "美國參議員Andy Kim對Bitcoin and Crypto Clarity Act表示擔憂",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Ea2tjWVZQR2RBcThuYnVocWZuRWdRU1ZwWGVRMTk4OXJLZ2p6b0luRllpc192T2toc0Y4QVVGdXNtNFRGbnB6bzhzbm5iWUpEcTE3SGZuOXVNblRtR1NwbU50b1VBMDVuWWpn0gFrQVVfeXFMTkRra2NZVlBHZEFxOG5idWhxZm5FZ1FTVnBYZVExOTg5cktnanpvSW5GWWlzX3ZPa2hzRjhBVUZ1c200VEZucHpvOHNubmJZSkRxMTdIZm45dU1uVG1HU3BtTnRvVUEwNW5Zamc?oc=5",
+        "source": "Bitget",
+        "published_hkt": "07/29 06:26",
         "related": [
-          "ETH"
+          "BTC"
+        ]
+      },
+      {
+        "title": "Saylor出售3,500枚比特幣，DylanLeclair表示市場直到Strategy披露後才察覺",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ERHJITHktWlVXTGlkMi1IbEk4bGdRY05FZnNQWGU0bkw4Tk9GZEMzS216Z0ZfTHBkZVJVN1ZLTHpOWUNqTXg1ZFVVZExrTWUyRVpFTTBmejI2VXhlaFRUVFgxNGt6aVZ5SFcw0gFrQVVfeXFMTUREckhMeS1aVVdMaWQyLUhsSThsZ1FjTkVmc1BYZTRuTDhOT0ZkQzNLbXpnRl9McGRlUlU3VktMek5ZQ2pNeDVkVVVkTGtNZTJFWkVNMGZ6MjZVeGVoVFRUWDE0a3ppVnlIVzA?oc=5",
+        "source": "Bitget",
+        "published_hkt": "07/29 06:26",
+        "related": [
+          "BTC"
         ]
       }
     ]

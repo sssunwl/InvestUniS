@@ -27,61 +27,62 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-29 12:08 HKT",
+      "updated_at": "2026-07-30 08:51 HKT",
       "news": [
         {
-          "title": "希捷營收獲利跑贏市場預期、盤後反彈6.6% 儲存類股同步回升",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41VG1ITHc4ZGJ4TFNDMWYzakRuRE9MZTRkQWdfTFZoZS1zYjNUMGdnaUNrX2RPelFhaXNDXzgyd1RQdGJCR2g3bE9OcmlJWWc?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "07/29 11:20",
-          "related": []
-        },
-        {
-          "title": "美股重挫與中東局勢雙重夾擊！SK海力士財報創高難救市，日韓股市陷劇烈震盪",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMjJRNG5vaGlvVFZMalJNeFZhZXJXbzVHbFA1Vm1FZDZIcm9reVNwSFhDb0QwWVd0QnpYY05VY1VESkRDUU41a2dmVHpCd3p0ZGVJcVJWblJ4TnZQM2NDbjJpYm4xSExrRWFyTU9DV3BabS1jSC1fQlJIS1dNNXpmRXlSd3Y3Xy14?oc=5",
-          "source": "桑幣區識 Zombit",
-          "published_hkt": "07/29 11:12",
-          "related": []
-        },
-        {
-          "title": "討論牆 | 美股市場分歧 道瓊今創新高那斯達克重挫 特斯拉暴跌7%",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tbUZpRXpxM3pjWFBweGRnMDJfc1pvaUFDLVg3TWNCTEdoRlhaNndhT203aDRmUjM0YjZGcGYyTGtjMDl5cWpHWXVoaGE0eUtubVRFRG5kazhPdGtIQjZ6dUFpUUI?oc=5",
-          "source": "LINE TODAY",
-          "published_hkt": "07/29 10:26",
+          "title": "美股收盤：美股尾盤大幅跳水，道指跌超2%；記憶體股再遭重挫，美光跌約10%，閃迪跌超7%；中概股逆勢“三連陽”",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE02SnpDU1k0Y3pBRFdzVTE1UFI4UUFhOVM4cWpzc05raXhCOEEzTDFSaUhCMUNfRkJlTkY2bWItOW5VQU80ajV6Zg?oc=5",
+          "source": "鉅亨號",
+          "published_hkt": "07/30 08:34",
           "related": [
-            "TSLA",
-            "QQQ"
+            "MU"
           ]
+        },
+        {
+          "title": "美股進入期中選舉魔咒？德銀：標普500恐先蹲後跳",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05MW5xR2NFSEtYUFplMXIwbTNWVW9zZFUyWHM5dmV4ejY0dXl0T3FSTmVpdnVQaWwxUHBzQ19TUDYxZVF4VDdsY2pzd3owVGM?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "07/30 08:10",
+          "related": [
+            "SPY"
+          ]
+        },
+        {
+          "title": "川普盼華許降息 華爾街卻聚焦「9月升息」與「全年不動」兩大劇本",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95ci1GN1BVYnJScEUxbHdjbjB5dFpad004d0ZIaFhIMFU4VEt0MFVWazM0QnBBRERSS3lfOXVsTFJNRDFLNHc5NTdrZHNNUk0?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "07/30 07:11",
+          "related": []
         }
       ]
     }
   },
   "hk": {
     "pre_market": {
-      "updated_at": "2026-07-27 09:03 HKT",
+      "updated_at": "2026-07-30 08:51 HKT",
       "news": [
         {
-          "title": "【港股市況】美伊暫停互襲緩和中東局勢、油價跌5% 恒指黑期升197點",
-          "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxQNUZCUVNKbnYxUFgwSm9uaGhtdFg3WTFrUG9HTG8zTTljbVEzRTM0ZWNaeUR6ZnBoVkNnYmJwa1dQckc5ZDV6bmFfcVNKQ1pqSEFPcTRfc0pBbWRJZ3ZQRGo3QnctMXo3THZOLVEtMzJEQkNwbkZ6X0NFSHRCeVFNazZ5QkFTUDZvei1jVnBBXzZ3MUx1cTRjRWlfdVBmWEM2Wk13ZWQwQ01KMXZRd01OYlBlelgzb1p4Slo1SnVrQ1N3eUlxVGlObGVrVkFVdUE3cnBtMFlBbG1iQVdFbmg5NjVaTFJEaWhPbG9pVll0TzFnaTZMdE9fUGMzcGVBYmdZNVl1cGROSGxoMkphajEzUkZiMG40NTlKQ1BKV0ZnQlZIWEI2cjdhUlpZME9XT1ZUcmVQd3c3YklGZ1lQdmRPQmkzMno4NVVpbzZFcWxqcUNzYVUtNG8ydmFqdFBWR3BQbi16am1PQXZFeGFSejlKUEhudVlPX21TYldpU09aVjUxWnJCTU1kQVJ5TndtYTlEVHFUVUdndHBUZWZaOE9RN3AwQkJjeTlOVEtyT1hROXFfVjI4UE1xclNNNENaa2pR?oc=5",
+          "title": "科指8月例淡 下旬恐尋底",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQW5TdnpXbTZTZEpoaFhMQVMxd0NaeFh2ZVpMcDUwc0traTVmOENiTU1kY05YTE9VUVZYWTJTM0ZIMUljT3VuZDQ4T1ZaU3h4OTBpdmdoWVM2eV9DUS1BQmJodVVaVkVrcG1nNkpMdy1aN3YtMU1YS1lGcjhJX0Y4UG5yVG43ZGtzdWF0VWRhTnVreE5kYmZZMEVDY1IxZnlCX3g2azlfa1B3SFlFN19uTWpLSkY2RjVZMnRnMTBOeElwRldPUUpMVTh0aGRzRzg5UWJtY1Q1UHZ1cGRS?oc=5",
+          "source": "hkej.com",
+          "published_hkt": "07/30 07:07",
+          "related": []
+        },
+        {
+          "title": "【港股夜期+ADR+北水】夜期收市倒升177點 滙豐ADR低港2%（不斷更新）",
+          "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPcXhoLWJBTEtXc0ZiRjhnZnUwRWdiVWUyazc0M1NCckxwUkFpU3k5VnBkeVJpQ3NIdFdzQ0JBMlBHdTF2R2xOX0Z2T0NIMF91U3ZISVotRXEtdGVXV1ROVWpOUXdyZWp4V1VIOFloQURfYWJjWkNFdVZkdVQ0M2hnVFdNbzk1MWdZeUFUQWo3X0EwNFZ0dXpVS25NcVY3WEZwTjFzSVp6eHhFQjRPdXhvNTQ3X0MyYUh6aWVjWk9sVnB2Q213dWNzZ1k0azd4enZqak9UeldLaXVKX3Q4b3Vqa081cTc3dlBDNDYzajd3elRWbVNXbkhrMVpxaXlwZmFtZTdFRnZxa0s5MWxuUFZiR2pCNEE2YTl5ZmpQSXhreXZwQy1LTURqaFE4OXNJaTl1X0x1T0REM1hqcktYRVNRVHFvNHVLckcwNjFDVF9PanZIZlhTalliVjRKZmEwdTlaWGQ4cDhtOGRhczhCdVlXZ0hmU0RaYmx6ZWs4emJtWUJTTGdVX25iNnJMRDJwY3I1dVE?oc=5",
           "source": "香港經濟日報HKET",
-          "published_hkt": "07/27 08:59",
+          "published_hkt": "07/30 05:51",
+          "related": []
+        },
+        {
+          "title": "恒指漲497點重上牛熊線 跑贏日韓台股 - 20260730 - 經濟",
+          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOcWdNR29IYk1vLTE0NmFDV2RoaExQX2dYeGk2SDVmLV9FR282MG9TUjVlWUwxNE4zV01Zanc4QmhDTTIyX3plYUtQV1kzTlRxVGNYYVlXcmhreEkwZzhZQ0t2dzBwWHVQZFRBVTgtRHdvWkY4dnFjZ2JIOEhlbl9MSm9YejN1dldFZUtYZWdFZmZTNVpEQ0tnb3JWX21QRGYtUWNyRjZ1dFZPQnBWSjk0WGlmTEZFMXhnTFktc0lGV05wTGpPMEE4cGZZTnRreTFvRmNQYTlSVnI2S1pSaDFVM2FNdU9nUEh4S0NVX29zZEFQTmdzV3hyTTlSU19LdGlKSmFZMGY4T0NTRmtWdU5Mb016QkxjWDhObTBaRjl1TE5DN19CV1lFVDMtVmZXS2U2QXZLTDhWVTFFNnRaUFlDR0RrWHl6R3dB?oc=5",
+          "source": "明報新聞網",
+          "published_hkt": "07/30 04:30",
           "related": [
             "^HSI"
           ]
-        },
-        {
-          "title": "日韓股市早盤小幅反彈",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SWWVicGZpQmQ1MndKeXFsT2U5WDRFTTNyZlh6UnJqb0puTTkteUVQUmhKOVpDY054ck9GXzFHc2ZLUURrSHpnUWVZTS1pNU5nbmpjNmZrTWtzV1I3aUJZU05QZzVYVy1tbHRGOWd1VXRWOHhlbURFV0JIYw?oc=5",
-          "source": "香港商报",
-          "published_hkt": "07/27 08:45",
-          "related": []
-        },
-        {
-          "title": "銀行股發威 港股成交縮動力唔夠？韓股等「去槓桿」後重拾升勢？",
-          "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxPWG9PVnBCVnlVUkx0QkIwdG55WHl6M3lyTzFkbEtzU0JWT1ZabUZka1pCbTdoNnVtaVVWRmM2Zlg1NUtNY053d2swbGdvOV9DdzVtYjZJeFZOUUVxaUtiWU93SkloZ0toTkJ1YWpVVGZNdEh4Y0R3dVdSV1llLUQxT3RaazRteTZkbThtb0JWdDd5ajRuV0pXTlQwMFFVemtEMElmbnJaM3lkNHhVX044cVMtSDZESjRhTUNFeEhCeGp2dGo1VnhZTnJua21qRGY2MFRGcnBjQ2xxQ012XzJJeDRYN2lWYXU1NXZibUwyYmVYX2JsNjR5Y0M3VTZqUDAxZU9SckxyekxSQXlMQTROa0VEOExRQVFZUndtUm9IV2R2UVNRU3JwQlRvNFZidkZxREtDRXpSMElCQUM4TnpHN1ZLeW9YOXFmdUpkb1hzV3JmT0c4ODVsRnBJZ3g0LWwzT0Y3RkttZTR0TnMwUVpjc1BwRXFsRHVlbTlNb2x6TnlVSlF1R0ZrVEtDdVRpUWRIS2p1VFJrQ1pNaXdHX2lxR043aVExOG9ISnpQaUI1eEwzeHpMUGZ1ay1oRmNQMG9tUktPSUFB?oc=5",
-          "source": "香港經濟日報HKET",
-          "published_hkt": "07/27 08:42",
-          "related": []
         }
       ]
     },
@@ -120,32 +121,32 @@
   },
   "tw": {
     "pre_market": {
-      "updated_at": "2026-07-23 08:57 HKT",
+      "updated_at": "2026-07-30 08:51 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數- 稍後8點15分語音直播❤️加入「莎拉好康報報團」免費收聽直播- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nd1Z3SUJYZ3l0NmI1T1hyUTY4VXpqajh3RnFSNE9ESUZSbGNzNFhxNkZpTnA4MmVla2hsS1pta1pXMzBsZXJXdTJNX2VpN09SYXZkbmo2ams?oc=5",
-          "source": "CMoney",
-          "published_hkt": "07/23 07:57",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數- 華郵獨家：川普考慮出兵西非馬利打擊開打分支！ - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44SXJCR29MQmhCaU9MWThhMVI4QVhMWlBTMmhUam14VEQtRE5qMnBWLTZQYjJRb2VRYUU2ZG5zSGNiSTlyYWotT1NhdkVrMVczYWpOTXpXako?oc=5",
-          "source": "CMoney",
-          "published_hkt": "07/23 07:51",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "早安！今日產經早報",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kdzliNXhMM3JZSllmTlQwdV9Cbmg3Q2x4TUJjZDV3d1oyU0RmeGNoeGtBeW9tZDk1RFI2N2lPSmJGSnhsZ1FLUmxJT2VBUXVmWVE?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "07/23 07:44",
+          "title": "《台北股市》台股4天重摔4811點險守4萬關 金管會信心喊話",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTmxMZXJ4VjBzN21uYzZPc1hhNXNXN3NpWHp6Z1BfWFJkc25uSENaZWV4Yk9fUWlaOXNqaVI5ek5zMTBBcGdtV2RCQlVoVk0waDUxYndCaUtpM2hjaUkwUnZQSk0zMFhHVDRqVlNXUDZGUk5wMGxfQU84MGFVYTFQdGprU3UybTAt?oc=5",
+          "source": "富聯網",
+          "published_hkt": "07/30 07:49",
           "related": []
+        },
+        {
+          "title": "TWA00 加權指數- AI淘汰賽⋯火速燒錢🔥🔥⋯看誰撐不住先輸！ - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4weXJKVFQ5bmo1R2xBelhOVjg3NUJEUXdHejNZejBmeFRKUk5fZXVsMkF4R0Q0RjMza01TY2FGeU54emdPQUgxYVdlcUtxM2NSSUJyX1c0OGM?oc=5",
+          "source": "CMoney",
+          "published_hkt": "07/30 07:07",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
+          "title": "TWA00 加權指數- 台股傳融資追繳令萬箭齊發上市櫃融資單日大減521億元2... - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHRDZrR3JwcnUyQVpTWTFHTDgzQV9kUU5vcHlfVzduMFdhZFRUeG5ZM00yZGxiTjZGck93UTdNRHVkdDhhUmxsOFRmMzBMaUtHWGRDLTZ4X2I?oc=5",
+          "source": "CMoney",
+          "published_hkt": "07/30 06:29",
+          "related": [
+            "^TWII"
+          ]
         }
       ]
     },
@@ -245,31 +246,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-29 23:10 HKT",
+    "updated_at": "2026-07-30 08:51 HKT",
     "news": [
       {
-        "title": "摩根士丹利為以太坊與Solana現貨ETF設定0.14%費率",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82U3NvcUZfd1czY3RDOEtrY1NqakI0Vm5aMXpRSDVUN1JLUE13cGZyOGNzVG8xRGVpYXQxR3NzazlzakVHcW00SGRPYy1hSmgxbTdRLURHTHE5UzVpRnR5VVg3TGY4ZHZKWmhEUg?oc=5",
-        "source": "FinanceFeeds",
-        "published_hkt": "07/29 20:04",
+        "title": "主要加密貨幣行情，比特幣跌0.63% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOODFKMWpqTm9UYlIzcHRGMkhidmNmNC0wTm5mYkhneExFV1YyS3F0clZMY3VqVmdTNEtGMi1JdE5heTZGejQ0MGg0bEttUmxPMVk0WU1SaXNuSTFLSk5rS0lMSG9GX3dsMkFVVExnRGN5aE94cTJfQVFKQlJiYUhfby11SzVvaVZ6czlQMWphUkdGbVpkMktpVUU0RWwyRlYy?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "07/30 05:01",
         "related": [
-          "ETH"
+          "BTC"
         ]
       },
       {
-        "title": "今日加密貨幣：在美聯儲利率決議前，BTC、ETH和XRP將走向何方？",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUkpaLVRIblV5WEhJS012LXZyWkJ1Ul9lU3VpZllMdk5LLUt4aW9UTjN2ZWFDcko2VWNscmdPX2JadmFkdFBFQ0wyVnBvZDlfTHFoTktTNlcyUF9sQmZSU1RVellyRWw2S1RtYWd1STJfT3N0dGxhWC00MzQtQkI1WkwtdFEycWE5NHE5Y282SlotR3EyR0dPeWlBczMtelFNdm9xTmUtMmE3eHZtUUZhalQyQ0JCemExX1JfYi1BNGx6MTJNdzROVUFwc3N6R1Y5Zmd4dzhIVmF2MmlVSnY4ZmRGWkwxdkl3dWZQX0NRa9IB9AFBVV95cUxNdmM0Um9IUlNkZU50MEZMTzVrQk4wVjJ4NERlaEItcXhwVzc2RFRaM0pYcFl6MV9wUzU5NDM2U0ZCWjRBQ19QcmxKUHJTR3RTNV9kdHhrdEtMUTk3OXd4cDh1blBleDVKaEQ0bEdvcDk4M0JNWGlna2NtMnlDQW9HQjJ6Tm94RDhCYUptQzk5Y011S3dlc1QyckZKTHVGczJENE5oNWFuZ1dmOVpidktvcEJpUVZhTUkyWkNvcmhsQkFOdmtial8zbU95N2w3MkZBR1VQN0hMWXI2OHU0cWhPZ2htakM0MU9PUFptc0JRNERUSDJx?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "07/29 19:32",
+        "title": "摩根士丹利高管表示，傳統的朝九晚五銀行工作日已正式走向終結",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa20xTlhIcTRhbkQ3SzRHZzMyYkgtR0dlMFM3QmlwNXRIRVBZeWlRcWFkcS1xWHFDSFBfem5vbFp1MkNFQTFnRnp4R0xfaWUtdW12d2tzd3NDTm52UXlZWkh2MGRieHdXcmVkNmNMX1piZ25pNTFueXVPQkNIS3NhOWJ4d0lnWkZGWDRPUkxWSHBrSDFqS1ZjeG1uZw?oc=5",
+        "source": "富途牛牛",
+        "published_hkt": "07/30 03:35",
         "related": []
       },
       {
-        "title": "7月28日加密貨幣ETF資金流向分化：比特幣基金再現資金外流，以太幣延續連漲勢頭",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NOU95QjhzNVFtVFRJekhldHpCNDluNE1JS0ZIeExBOGdwYWJlazJSWndIU25IdkIwNU9PLXowZ3VSemYtRWZ6T1hyWG9fX09HX1ZEZGpTYUdhOGFhOThhS0pJU2RmeDl3UnNzRzZvYWh5MkRYa1dJUjdPQWhUN00?oc=5",
-        "source": "FinanceFeeds",
-        "published_hkt": "07/29 19:29",
+        "title": "以太坊價格預測：美聯儲決議能否打破ETH的平靜？",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeHdPSlV1QmhYTHFiNDVXRHVYSmpDeHZVbnJUSjBYUE1iUnQ2WHRiNEpndmdkU29leHR5LUNKcGF2OFNpS1pCWjI4MDJ3RENKUXMzZXdTZ3R6TDRUTjhxMmNITXp4QzBhSU1pWjh1QjRGMUlET0VuUFZZb3J6S3ZXUUVjLVpHb2w2UzYtaFJpank4SUkzRVZfUm1EVDVITGFLVWpxQ1YyLVV0Ym5ubS1tRG5uMXBTanhWWm1wRW5TQ1dTZmsyMXNGampWT3ZsRW81STRRbdIB1AFBVV95cUxPeHdPSlV1QmhYTHFiNDVXRHVYSmpDeHZVbnJUSjBYUE1iUnQ2WHRiNEpndmdkU29leHR5LUNKcGF2OFNpS1pCWjI4MDJ3RENKUXMzZXdTZ3R6TDRUTjhxMmNITXp4QzBhSU1pWjh1QjRGMUlET0VuUFZZb3J6S3ZXUUVjLVpHb2w2UzYtaFJpank4SUkzRVZfUm1EVDVITGFLVWpxQ1YyLVV0Ym5ubS1tRG5uMXBTanhWWm1wRW5TQ1dTZmsyMXNGampWT3ZsRW81STRRbQ?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "07/30 03:34",
         "related": [
-          "BTC"
+          "ETH"
         ]
       }
     ]

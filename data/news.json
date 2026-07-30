@@ -83,29 +83,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-30 16:36 HKT",
+      "updated_at": "2026-07-30 17:24 HKT",
       "news": [
         {
-          "title": "恒指走勢丨午後跌近百點 智譜挫逾17%",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tZXdsaWJIMzZrYzFCNUZiZDA3T1RYVFJ1WG0ta3I3VDZSTF80SlB6TFBUZmRZZGdrNzJNOFVrZzdRVGVrR1M0cVY1alVjd0JZLWtWbTE2Y1JBS1FwZmtMbTUwZF82UkRzNlkxY1hhYw?oc=5",
-          "source": "信報網站",
-          "published_hkt": "07/30 13:30",
+          "title": "恒指連升4日 成交再逾3000億 海力士槓桿ETF暴瀉22% 專家憂兩萬六點遇阻｜港股開市",
+          "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPNTk4b2EwTXJZNjc0S2tiWWlCMlcySjVzbmpDeFRPYV9CaEo3Z1RNTjEzSm5QbXQ4RlduV2NNVjRrTHcyMTdXbU9ZT3c3VXpyZ1k3S0cwVjdNTDh3VmhKWlVLQWRjSExJcGtTb096dlBpeDdHYVdfSjdHQ04tcmZlVHFzajRDX3FQdVBNaDJBOENFR3ZiaVJSN2M5Y2RlV2UteHRiTnRoQThFZmc0TXdHRndVVnEzN25iUDZBUmFPdUlmSjJEY3ZGR1A5Q0pYQ09wbVBRdDBjWC1kMGRvcjgxaExQeGVTR2ZkbWcwTmR4V0JzRDdFa3R0X0ZERy1KX2JqcUpNVmFaR0RqWVJzU1pSc2QtMFF6ejFjWFpyaGJnMmZoYXo3OVdaWlh6cHBxRHpHallYMWFSMTc1dk0yVTlpcDFVRWlDSlVYbzNfU3Y5cTNGZGJ0UkRqZzRNMC1lZ3lpTUJWalNMcjhXLXNNaGQtdF9WWU14ak16MXhkTmEyaXFHc1hub2M3eDJRQWN6S1pOX2RHbUR1ZGo0a2pmNUpZdWVXYzg2Y3VZVDh0cUluUnJzWEdsX1pQbFkxc1pvYXR6M0t6Tk1JRVhscWVJQ2NYRE82LUpnZw?oc=5",
+          "source": "星島頭條",
+          "published_hkt": "07/30 17:10",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "港股下午初段偏軟",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QVXF6Qk9mMl9neF9pR21XRzYwQUVXV2FYckIzeWFWb2tjaFdMQmFhaHRkbE05QjZaMkdqWDhwTDFWZTFsVURabmZLWHdBeVI0MzhNbFF5enFIYzlLUmItMFBUaGV5LWR4a3ZRdUNZMA?oc=5",
-          "source": "RTHK News",
-          "published_hkt": "07/30 13:14",
-          "related": []
+          "title": "【港股收市】恒指反覆升50點 內銀股撐市 AI及晶片股續捱打",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44ZHgwbWRVdVk4VHBYNTZkdmE5VVY1WnRuUWF3U3pZM2Z4VDdvZWlUdlVRUlhlUlZkNEgwUUxxdVU2dUtKMFhiclRXVDlvOGZGdnJEUzdMaGZkUE1lN0VLRFZ3WlRibjdDZWJIZE9USzljb3ZXSmdheTRR?oc=5",
+          "source": "Now 財經",
+          "published_hkt": "07/30 16:58",
+          "related": [
+            "^HSI"
+          ]
         },
         {
-          "title": "港股午評：恒指微跌0.05%，石油內銀撐市，半導體續跌，新東方績後狂飆17%領升教育股",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wRHROTWwxUEdkaXJMLUpnTC1xYkpCOHliRFlnemp4VXAxRGNJb2ZId1RySHZBNE5TRm9BSThTMk5MeUlzVi12cnJ2R0JoeGR6bjVlUlZGaUNyR3lkQ01sUmV2LUlLbW9qcEE?oc=5",
-          "source": "tw.tradingview.com",
-          "published_hkt": "07/30 12:59",
+          "title": "恒指走勢丨期指結算日再升50點四連升 科指挫逾1%",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GU1d1aE1WcUlYNzhTa2hYRGdVcjBlMUxwbm9FWEpkVzFTTW5pRnd5YTVpWVlkWTdodHNMZV80UTBoQVJYWkpYZl9mZThBOGtOZkNIc0N6MldoWXN1QUVIbnpCNkpYVEZrc2NPQ29GYw?oc=5",
+          "source": "信報網站",
+          "published_hkt": "07/30 16:51",
           "related": [
             "^HSI"
           ]
@@ -145,7 +147,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-30 16:36 HKT",
+      "updated_at": "2026-07-30 17:24 HKT",
       "news": [
         {
           "title": "TWA00 加權指數- AI引領半導體變革：台積復工與先進封測動態- 股市爆料同學會",
@@ -209,13 +211,13 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-30 16:36 HKT",
+      "updated_at": "2026-07-30 17:24 HKT",
       "news": [
         {
-          "title": "「逃命都來不及賣」 韓股開高後希望破滅連第三天下挫、日股收高| 國際焦點",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jTFdHVUdndEs0N2lYN1phZXNfRDc2N1BBY1BVdnpUMFNlS0JGZ3piSkw0VXptcm1SUzUxXzJGS1Z5RWc4X29kOGF2bDl3MURXYVl6alpLU3ZzQWM0?oc=5",
-          "source": "太報 TaiSounds",
-          "published_hkt": "07/30 15:58",
+          "title": "「逃命都來不及賣」 韓股開高後希望破滅連第三天下挫、日股收高 | 太報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VOUNHWDdEc0ZCdWxxN0ctTDdvMWZyZV9WRFdqNmdfY1FtNXZPWkE4dlZZSjZYd0VjVmx3Y3REcWl1cGF6STFrUWZJaUplRkpGdEdpV2Fn?oc=5",
+          "source": "LINE TODAY",
+          "published_hkt": "07/30 16:21",
           "related": []
         },
         {
@@ -238,12 +240,12 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-30 16:36 HKT",
+    "updated_at": "2026-07-30 17:24 HKT",
     "news": [
       {
         "title": "「大怒神」再現！比特幣、以太幣「多空雙殺」清算 2.8 億美元",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83NUtOS3BSZmJxY2NaamVFa1Rob3NrZlRfQUc0WGM2YnFIVFd1NW43WjRaOURwSTJZdWJqV045OGFkUlZxYzItaF9OZw?oc=5",
-        "source": "鉅亨網",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HWlR3VUhJTDU2ZVZkTzdMRjUyZUdESEY5NDhWcUROTjRBd3gxTEVEWUlHQURpQ1FzYm5KeGxVaF9ETERGMjVialZqMGtYeW8?oc=5",
+        "source": "news.cnyes.com",
         "published_hkt": "07/30 16:30",
         "related": [
           "BTC"

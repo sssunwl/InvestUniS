@@ -27,31 +27,27 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-30 08:51 HKT",
+      "updated_at": "2026-07-30 11:42 HKT",
       "news": [
         {
-          "title": "美股收盤：美股尾盤大幅跳水，道指跌超2%；記憶體股再遭重挫，美光跌約10%，閃迪跌超7%；中概股逆勢“三連陽”",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE02SnpDU1k0Y3pBRFdzVTE1UFI4UUFhOVM4cWpzc05raXhCOEEzTDFSaUhCMUNfRkJlTkY2bWItOW5VQU80ajV6Zg?oc=5",
-          "source": "鉅亨號",
-          "published_hkt": "07/30 08:34",
-          "related": [
-            "MU"
-          ]
+          "title": "TechInsights Q2 DRAM市場報告：AI重塑定價與供需 HBM躍居產業新主角",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04YWJFS3JuOTJOczdkM2MyeUM4dHJPSURIaEpSV0g4SGd1bkdVdzF2UHZPUXBqRnBNQm10Tzd5Q3otakt2R1RZWG83VGxpMlk?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "07/30 11:00",
+          "related": []
         },
         {
-          "title": "美股進入期中選舉魔咒？德銀：標普500恐先蹲後跳",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05MW5xR2NFSEtYUFplMXIwbTNWVW9zZFUyWHM5dmV4ejY0dXl0T3FSTmVpdnVQaWwxUHBzQ19TUDYxZVF4VDdsY2pzd3owVGM?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "07/30 08:10",
-          "related": [
-            "SPY"
-          ]
+          "title": "Fed按兵不動卻現罕見內部分裂！3鷹派反對票撼市場 美股、黃金齊飆、9月升息預期再起",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnTGhtbGpSVUtwazM0aUkyb3JJeFFDT0NYcWl6SWItb21QYThnbW9LUDd4NkRRcWVKZTRTNXI5QjBHOEx0NDNuUWRGTjRzTkNaWGQydGhPTEI?oc=5",
+          "source": "梅花新聞網",
+          "published_hkt": "07/30 10:50",
+          "related": []
         },
         {
-          "title": "川普盼華許降息 華爾街卻聚焦「9月升息」與「全年不動」兩大劇本",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95ci1GN1BVYnJScEUxbHdjbjB5dFpad004d0ZIaFhIMFU4VEt0MFVWazM0QnBBRERSS3lfOXVsTFJNRDFLNHc5NTdrZHNNUk0?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "07/30 07:11",
+          "title": "《美股》分析：市場質疑華許升息決心 美股全面跳水",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbm5JVV8xUVlLOWxHTzhOSktwcFhqVS1XUlIzOHpQSmFfbGdFdFp6ZlFoQUliMU9hMThCX1RWcVJSVl85UzZJZ2Njcmk0b0JSZ2IyQU9YSVJCZzdDRzA0YUhQa3VSM1ZraUJNVVozWENoVEVwbDFQdU5idWFNWmN3cUlmX0ppZFJt?oc=5",
+          "source": "富聯網",
+          "published_hkt": "07/30 10:25",
           "related": []
         }
       ]
@@ -246,31 +242,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-30 08:51 HKT",
+    "updated_at": "2026-07-30 11:42 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣跌0.63% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOODFKMWpqTm9UYlIzcHRGMkhidmNmNC0wTm5mYkhneExFV1YyS3F0clZMY3VqVmdTNEtGMi1JdE5heTZGejQ0MGg0bEttUmxPMVk0WU1SaXNuSTFLSk5rS0lMSG9GX3dsMkFVVExnRGN5aE94cTJfQVFKQlJiYUhfby11SzVvaVZ6czlQMWphUkdGbVpkMktpVUU0RWwyRlYy?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "07/30 05:01",
+        "title": "比特幣下探6.3萬、以太坊失守1900美元！全網爆倉3.9億鎂、恐慌指數續回落| 動區動趨-最具影響力的區塊鏈新聞媒體",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdGNFaXdTVVZDMExUOFJoLTU5ajFJMkJzS2JtbWJQNDR1YzlZVHM5N3ZyLXZTZmp2QWhDTkIwMWZPSGktNkFLdVNqcEgyb2ZBQnYyRjNSVmhKcTVyNlA4aE1Kaks2QWhjd1VYaGZFaTVKcG80aFBBMlFtbU03OEszQW0tNjBDcUFnVzJReks5ZTAyRlE?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "07/30 09:24",
         "related": [
-          "BTC"
+          "BTC",
+          "ETH"
         ]
       },
       {
-        "title": "摩根士丹利高管表示，傳統的朝九晚五銀行工作日已正式走向終結",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa20xTlhIcTRhbkQ3SzRHZzMyYkgtR0dlMFM3QmlwNXRIRVBZeWlRcWFkcS1xWHFDSFBfem5vbFp1MkNFQTFnRnp4R0xfaWUtdW12d2tzd3NDTm52UXlZWkh2MGRieHdXcmVkNmNMX1piZ25pNTFueXVPQkNIS3NhOWJ4d0lnWkZGWDRPUkxWSHBrSDFqS1ZjeG1uZw?oc=5",
-        "source": "富途牛牛",
-        "published_hkt": "07/30 03:35",
+        "title": "“传统银行9点到5点模式正在消亡”！摩根士丹利高管：代币化推动金融全天候运转",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDZl9QMzBEVFJoS1RqaUdFd1M4MHliZ2VqRkVjcjJ1bXUyUVZ2bzVtUlIwdWUtclJONzJnRmVrenhHc1hmU3oyc04weDR0RDdNYXZKdGFkQlc?oc=5",
+        "source": "FX168财经",
+        "published_hkt": "07/30 08:42",
         "related": []
       },
       {
-        "title": "以太坊價格預測：美聯儲決議能否打破ETH的平靜？",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeHdPSlV1QmhYTHFiNDVXRHVYSmpDeHZVbnJUSjBYUE1iUnQ2WHRiNEpndmdkU29leHR5LUNKcGF2OFNpS1pCWjI4MDJ3RENKUXMzZXdTZ3R6TDRUTjhxMmNITXp4QzBhSU1pWjh1QjRGMUlET0VuUFZZb3J6S3ZXUUVjLVpHb2w2UzYtaFJpank4SUkzRVZfUm1EVDVITGFLVWpxQ1YyLVV0Ym5ubS1tRG5uMXBTanhWWm1wRW5TQ1dTZmsyMXNGampWT3ZsRW81STRRbdIB1AFBVV95cUxPeHdPSlV1QmhYTHFiNDVXRHVYSmpDeHZVbnJUSjBYUE1iUnQ2WHRiNEpndmdkU29leHR5LUNKcGF2OFNpS1pCWjI4MDJ3RENKUXMzZXdTZ3R6TDRUTjhxMmNITXp4QzBhSU1pWjh1QjRGMUlET0VuUFZZb3J6S3ZXUUVjLVpHb2w2UzYtaFJpank4SUkzRVZfUm1EVDVITGFLVWpxQ1YyLVV0Ym5ubS1tRG5uMXBTanhWWm1wRW5TQ1dTZmsyMXNGampWT3ZsRW81STRRbQ?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "07/30 03:34",
+        "title": "比特幣在聯準會決策前徘徊於6.4萬美元上方，無視AI科技股拋售壓力 作者 Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NakdFYWdsU1JPS1lFN3VEV3BuZWRiUWFjSFotQUtnZDc3YnBhLWhFWVo1emRaOHhxR0p2VVlBSkg5V191OHFBM01iQllMblpBaElMaFJLY3NZUWdBTG85UzVrTU5xS21ranN0TEM2eEpjc3M?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "07/30 08:41",
         "related": [
-          "ETH"
+          "BTC"
         ]
       }
     ]

@@ -27,27 +27,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-30 11:52 HKT",
+      "updated_at": "2026-07-31 08:59 HKT",
       "news": [
         {
-          "title": "TechInsights Q2 DRAM市場報告：AI重塑定價與供需 HBM躍居產業新主角",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04YWJFS3JuOTJOczdkM2MyeUM4dHJPSURIaEpSV0g4SGd1bkdVdzF2UHZPUXBqRnBNQm10Tzd5Q3otakt2R1RZWG83VGxpMlk?oc=5",
+          "title": "微軟財報推動美股反彈",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdHR5V2JkbVp3YTU2TkxGdk4wSF9lTm1uQnhFMGF5SzBnbmxzZjFiZnZuNXljY08wVW1XcjRDN3A5NVR5QUdoWEVRTml2UHlFNVB3YXRXOWZ3TzhLbHpydzg4aDlFSjhXSmVnc25TUERRQ09mcG1SNmdjVVl3dF9odXYwZzFERnVuLXZSNXplZFNMSUhQa0kzQVB0bzQ3YzRFdDNNWVI5YjJBU3NEWFNVX0FrckZiMHpnZFN6NVVHYUFhXzdmU2c?oc=5",
+          "source": "华尔街日报中文网",
+          "published_hkt": "07/31 08:13",
+          "related": [
+            "MSFT"
+          ]
+        },
+        {
+          "title": "微軟雲端業績與半導體復甦動能 帶動美股上漲",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OWHVhUlhyQkJfc2htQllNc2Fzc3ZjSnpGUW9EaWJyamhWZE5ONGNPSmRFZF9LZ3hfaFVSNllLYUpiVkYzd2JxZm5sQkV6cmNJTFE?oc=5",
+          "source": "蕃新聞",
+          "published_hkt": "07/31 08:00",
+          "related": [
+            "MSFT"
+          ]
+        },
+        {
+          "title": "《CNN》分析：別急著對華許「公信力」感到恐慌",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51UVBiZDdQUnZnTmNqUFVQOC1kcUh2VVkyQ0VLaElBVFR2MVktcmlzX2pneWV3X3cwRWxtSkRDdjFzSkxyLWZtcGdOUllPcjA?oc=5",
           "source": "news.cnyes.com",
-          "published_hkt": "07/30 11:00",
-          "related": []
-        },
-        {
-          "title": "Fed按兵不動卻現罕見內部分裂！3鷹派反對票撼市場 美股、黃金齊飆、9月升息預期再起",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnTGhtbGpSVUtwazM0aUkyb3JJeFFDT0NYcWl6SWItb21QYThnbW9LUDd4NkRRcWVKZTRTNXI5QjBHOEx0NDNuUWRGTjRzTkNaWGQydGhPTEI?oc=5",
-          "source": "梅花新聞網",
-          "published_hkt": "07/30 10:50",
-          "related": []
-        },
-        {
-          "title": "《美股》分析：市場質疑華許升息決心 美股全面跳水",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbm5JVV8xUVlLOWxHTzhOSktwcFhqVS1XUlIzOHpQSmFfbGdFdFp6ZlFoQUliMU9hMThCX1RWcVJSVl85UzZJZ2Njcmk0b0JSZ2IyQU9YSVJCZzdDRzA0YUhQa3VSM1ZraUJNVVozWENoVEVwbDFQdU5idWFNWmN3cUlmX0ppZFJt?oc=5",
-          "source": "富聯網",
-          "published_hkt": "07/30 10:25",
+          "published_hkt": "07/31 07:46",
           "related": []
         }
       ]
@@ -55,27 +59,29 @@
   },
   "hk": {
     "pre_market": {
-      "updated_at": "2026-07-30 08:51 HKT",
+      "updated_at": "2026-07-31 08:59 HKT",
       "news": [
         {
-          "title": "科指8月例淡 下旬恐尋底",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQW5TdnpXbTZTZEpoaFhMQVMxd0NaeFh2ZVpMcDUwc0traTVmOENiTU1kY05YTE9VUVZYWTJTM0ZIMUljT3VuZDQ4T1ZaU3h4OTBpdmdoWVM2eV9DUS1BQmJodVVaVkVrcG1nNkpMdy1aN3YtMU1YS1lGcjhJX0Y4UG5yVG43ZGtzdWF0VWRhTnVreE5kYmZZMEVDY1IxZnlCX3g2azlfa1B3SFlFN19uTWpLSkY2RjVZMnRnMTBOeElwRldPUUpMVTh0aGRzRzg5UWJtY1Q1UHZ1cGRS?oc=5",
-          "source": "hkej.com",
-          "published_hkt": "07/30 07:07",
+          "title": "互聯互通強化港股韌性 上半年日均成交增13% 北水淨買港股2.7萬億",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41NUZZT3FqS1pDVGlrWXNodC1jZWZ2UGZjTW1xRnBrT1IzS0FRN3hwLUhzLTFuSUFWX1c0NXdveXJGcGhraDR1UFlaRTYzOHB3UVd0M2lRLVE2Tmt4bkkwcjNkWVdOZ2NJQm00b1dSdC1jYk1tbGpn?oc=5",
+          "source": "香港文匯報",
+          "published_hkt": "07/31 08:11",
           "related": []
         },
         {
-          "title": "【港股夜期+ADR+北水】夜期收市倒升177點 滙豐ADR低港2%（不斷更新）",
-          "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPcXhoLWJBTEtXc0ZiRjhnZnUwRWdiVWUyazc0M1NCckxwUkFpU3k5VnBkeVJpQ3NIdFdzQ0JBMlBHdTF2R2xOX0Z2T0NIMF91U3ZISVotRXEtdGVXV1ROVWpOUXdyZWp4V1VIOFloQURfYWJjWkNFdVZkdVQ0M2hnVFdNbzk1MWdZeUFUQWo3X0EwNFZ0dXpVS25NcVY3WEZwTjFzSVp6eHhFQjRPdXhvNTQ3X0MyYUh6aWVjWk9sVnB2Q213dWNzZ1k0azd4enZqak9UeldLaXVKX3Q4b3Vqa081cTc3dlBDNDYzajd3elRWbVNXbkhrMVpxaXlwZmFtZTdFRnZxa0s5MWxuUFZiR2pCNEE2YTl5ZmpQSXhreXZwQy1LTURqaFE4OXNJaTl1X0x1T0REM1hqcktYRVNRVHFvNHVLckcwNjFDVF9PanZIZlhTalliVjRKZmEwdTlaWGQ4cDhtOGRhczhCdVlXZ0hmU0RaYmx6ZWs4emJtWUJTTGdVX25iNnJMRDJwY3I1dVE?oc=5",
-          "source": "香港經濟日報HKET",
-          "published_hkt": "07/30 05:51",
-          "related": []
+          "title": "騰訊控股(00700)討論區- 股票評論- 股吧交流社區",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wMVNsM2Z4SFpiM3hpVVp2V2tSUlBOZ3JOcW4yQ1BKa1NPZE1IUGhYSG1uQlliQnJDMTAwM0JGUnV6bEZncEx3c0Q3bFBIck9tWXNPeEtZZktFUFRRNURKZ3pn?oc=5",
+          "source": "Moomoo",
+          "published_hkt": "07/31 07:05",
+          "related": [
+            "0700.HK"
+          ]
         },
         {
-          "title": "恒指漲497點重上牛熊線 跑贏日韓台股 - 20260730 - 經濟",
-          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOcWdNR29IYk1vLTE0NmFDV2RoaExQX2dYeGk2SDVmLV9FR282MG9TUjVlWUwxNE4zV01Zanc4QmhDTTIyX3plYUtQV1kzTlRxVGNYYVlXcmhreEkwZzhZQ0t2dzBwWHVQZFRBVTgtRHdvWkY4dnFjZ2JIOEhlbl9MSm9YejN1dldFZUtYZWdFZmZTNVpEQ0tnb3JWX21QRGYtUWNyRjZ1dFZPQnBWSjk0WGlmTEZFMXhnTFktc0lGV05wTGpPMEE4cGZZTnRreTFvRmNQYTlSVnI2S1pSaDFVM2FNdU9nUEh4S0NVX29zZEFQTmdzV3hyTTlSU19LdGlKSmFZMGY4T0NTRmtWdU5Mb016QkxjWDhObTBaRjl1TE5DN19CV1lFVDMtVmZXS2U2QXZLTDhWVTFFNnRaUFlDR0RrWHl6R3dB?oc=5",
-          "source": "明報新聞網",
-          "published_hkt": "07/30 04:30",
+          "title": "恒指夜期丨收報26021 高水162點",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN1ZLSUdMS3lJXzRoMTh3XzNSZGloZlhCZ2xSWENrY3BseFRhRE1HZmJ2c05BSE9hTjZnZEwweEVyU3UwZDZYN0Q5Xy1DRGRUMGlXaEJ3bThVaTloZkpVTlVlWnNvMm5icnBwam9MVkVicktoX3VlMzFndXRrc0tIX0FlQWIxVXJmOUNkNFVvR3A1dDZBRkNja003cTdQV0xnOGRSOGlRNWtuMG52WkhITC1LWlpFRjJROXpIUWU1THRwWXFMMXl3b21mWGtjal8xX0VlU3ZLZmhzQTJMWHY3ejFuZDVzcWZLY2c?oc=5",
+          "source": "信報網站",
+          "published_hkt": "07/31 05:12",
           "related": [
             "^HSI"
           ]
@@ -117,29 +123,31 @@
   },
   "tw": {
     "pre_market": {
-      "updated_at": "2026-07-30 08:51 HKT",
+      "updated_at": "2026-07-31 08:59 HKT",
       "news": [
         {
-          "title": "《台北股市》台股4天重摔4811點險守4萬關 金管會信心喊話",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTmxMZXJ4VjBzN21uYzZPc1hhNXNXN3NpWHp6Z1BfWFJkc25uSENaZWV4Yk9fUWlaOXNqaVI5ek5zMTBBcGdtV2RCQlVoVk0waDUxYndCaUtpM2hjaUkwUnZQSk0zMFhHVDRqVlNXUDZGUk5wMGxfQU84MGFVYTFQdGprU3UybTAt?oc=5",
-          "source": "富聯網",
-          "published_hkt": "07/30 07:49",
-          "related": []
-        },
-        {
-          "title": "TWA00 加權指數- AI淘汰賽⋯火速燒錢🔥🔥⋯看誰撐不住先輸！ - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4weXJKVFQ5bmo1R2xBelhOVjg3NUJEUXdHejNZejBmeFRKUk5fZXVsMkF4R0Q0RjMza01TY2FGeU54emdPQUgxYVdlcUtxM2NSSUJyX1c0OGM?oc=5",
+          "title": "TWA00 加權指數 - 今天要不要先跑一趟😂 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Qc0tSNmZqYV9adm9iWkpzcnltNDJGS0gyTzZibEdqaTV0MzlfaFoxcFZLR1FtNlVXU0hSMUtSWmozN3h0NEdhbTVzQ0NxazRxY2xubmdFRVo?oc=5",
           "source": "CMoney",
-          "published_hkt": "07/30 07:07",
+          "published_hkt": "07/31 08:15",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "TWA00 加權指數- 台股傳融資追繳令萬箭齊發上市櫃融資單日大減521億元2... - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHRDZrR3JwcnUyQVpTWTFHTDgzQV9kUU5vcHlfVzduMFdhZFRUeG5ZM00yZGxiTjZGck93UTdNRHVkdDhhUmxsOFRmMzBMaUtHWGRDLTZ4X2I?oc=5",
+          "title": "TWA00 加權指數- 工商時報晨訊- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ILTFyQU11WktfT2ZEOHF2WTRlV3l1UWJZamd1djBmbGlVNmVfSTdpTlJvUzZkaEJQLVpLcGZMdF9SMnFIWnJqa0N1NnlmOVZkOVFjYU5VMWc?oc=5",
           "source": "CMoney",
-          "published_hkt": "07/30 06:29",
+          "published_hkt": "07/31 08:05",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
+          "title": "TWA00 加權指數- 經濟日報晨訊- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvOU50X2kyb2NZN05XWC1udUJLbW80OWFwOUlxWTNyMkhqaXVDemVnazRDMHNGMmFTU21wZGpRcWhQM25mLV9OejJzMGRjb1h3MkF1TnZQcTE?oc=5",
+          "source": "CMoney",
+          "published_hkt": "07/31 08:03",
           "related": [
             "^TWII"
           ]
@@ -242,31 +250,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-30 23:14 HKT",
+    "updated_at": "2026-07-31 08:59 HKT",
     "news": [
       {
-        "title": "比特幣ETF有望錄得有史以來最小的月度資金流入",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYmszZ0JrSExKVWxacU1XQWxoTGowa3lNTHl2eG14X0k2UXF6Q1Z3OG9oZ1hIX1BKb0o2b2VkVm5FR3VqVlV4ZzdwN3NhUVQzb1BIV242dnNsYTJsQXdOMmY5Sk5qUnA0WTJJOE05U0RBbzNQdi1yRHI4WnJVdmRUTWtBeWlCSXhnWFlTeS1lSndqWlNlTDlsc01MYlpDODJRbTREWXZVNElHQQ?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "07/30 20:45",
+        "title": "麗盈聊幣：7.31比特幣（BTC）和以太坊（ETH）最新行情分析",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHS2JnbHgxUmF1VEpLUlZIcDZ0ODR6NGVlaGJ3UFR4N3ViaWdUWDlkQjRtdnZjeHlQYV9GMjQ1dVhUM0NsR0dJMGswTEdOQTQ?oc=5",
+        "source": "news.cnyes.com",
+        "published_hkt": "07/31 08:30",
         "related": [
-          "BTC"
+          "BTC",
+          "ETH"
         ]
       },
       {
-        "title": "主要加密貨幣行情，比特幣升1.37% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUldwMFpkdTRYYlNkblBEcFZrR0ZpMlpqVVBLY3BHVkJVRDBrUGhNNzdxVmU2M3RmajRhRm8xTnB6VlR4eWZudkotbjM1QVV2SmEwQmpTcmdhS01wZmprMXZPODFSSzdOLWJDWnlQcWl5TlQ4LUpEYWdkeWJ5empROXktcWw2MmxOT3pkRzJjX0kxZ0hwdkY5cFRBZTNZNlB3?oc=5",
+        "title": "主要加密貨幣行情，比特幣升1.24% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMm5FTlFCMVR0enpybFZSeHZlNHhZMWgzekFJRC1YLXR4Z29rclRsZWM0TFJNYkRxQThXNEp2TDRfQUVOWlJ5RV9tUGVGdTUwME9pTjQycnRqQTBuRlNFN0EzZ1o0NEV0dHh5NW1mLW5nNTY4eks4b3ZYY1N5elpIZ3pkSXZleE9SV2wxYlNETlJfenJId0duZ1ZEUFZKWlVk?oc=5",
         "source": "etnet 經濟通",
-        "published_hkt": "07/30 20:31",
+        "published_hkt": "07/31 05:02",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "Real Vision創始人：市場越悲觀，越要看清真相，加密行業的長期邏輯從未崩塌",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb1Fsd1BlWGN5Z2N1VXZQYmJYZ0xkcTJhRHZuMFk3cXhQdFRKOG01dk15MWY3cHJaV3hnRjR0T3ZSalhpYVVKVFNDX3Fqb2k4aU9YdDdoZ2RYUWtSdDM0UGx5WjFZUHYyS3FFV2dVT1c0Mk5ueTZmcVNfeGNCVHlyYWZlTmFIUQ?oc=5",
-        "source": "PANews",
-        "published_hkt": "07/30 20:03",
+        "title": "Aave將停止Sonic、Aptos、zkSync、Scroll儲備，影響9800萬美元供應",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOT2tmU29lX2FMUnFGeFVsVWwxWk8wc3UwcFJNcXg1dy1HTmlERVdmRG1FaG1EQ1Z1VFZtZ1VkMEF0UE5XZHlTQlNyVFN4R2cxSllwN0NueUI0X25aV2Y3Q2xuS1hjdnVLSHRveS04ejY4NkdqNkFUTGdZU3dlQXB6Ti1fYmFib0JHVXlwTzBORjk3UlZ6NlM4R3RmaWU4eEw3NzQtTVlZaHU4VFhHcDcxN0dCQVoxQXRDN3R0MHhtMVJ2Nnp6WXNpVngxeVZOUmlVcjZGVWZsangtNHd4eEpuY1JEU05tRXPSAecBQVVfeXFMTk9rZlNvZV9hTFJxRnhVbFVsMVpPMHN1MHBSTXF4NXctR05pREVXZkRtRWhtRENWdVRWbWdVZDBBdFBOV2R5U0JTclRTeEdnMUpZcDdDbnlCNF9uWldmN0NsbktYY3Z1S0h0b3ktOHo2ODZHajZBVExnWVN3ZUFwek4tX2JhYm9CR1V5cE8wTkY5N1JWejZTOEd0ZmllOHhMNzc0LU1ZWWh1OFRYR3A3MTdHQkFaMUF0Qzd0dDB4bTFSdjZ6ellzaVZ4MXlWTlJpVXI2RlVmbGp4LTR3eHhKbmNSRFNObUVz?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "07/31 04:33",
         "related": []
       }
     ]

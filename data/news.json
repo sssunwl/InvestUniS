@@ -27,32 +27,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-31 08:59 HKT",
+      "updated_at": "2026-07-31 12:01 HKT",
       "news": [
         {
-          "title": "微軟財報推動美股反彈",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdHR5V2JkbVp3YTU2TkxGdk4wSF9lTm1uQnhFMGF5SzBnbmxzZjFiZnZuNXljY08wVW1XcjRDN3A5NVR5QUdoWEVRTml2UHlFNVB3YXRXOWZ3TzhLbHpydzg4aDlFSjhXSmVnc25TUERRQ09mcG1SNmdjVVl3dF9odXYwZzFERnVuLXZSNXplZFNMSUhQa0kzQVB0bzQ3YzRFdDNNWVI5YjJBU3NEWFNVX0FrckZiMHpnZFN6NVVHYUFhXzdmU2c?oc=5",
-          "source": "华尔街日报中文网",
-          "published_hkt": "07/31 08:13",
-          "related": [
-            "MSFT"
-          ]
-        },
-        {
-          "title": "微軟雲端業績與半導體復甦動能 帶動美股上漲",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OWHVhUlhyQkJfc2htQllNc2Fzc3ZjSnpGUW9EaWJyamhWZE5ONGNPSmRFZF9LZ3hfaFVSNllLYUpiVkYzd2JxZm5sQkV6cmNJTFE?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "07/31 08:00",
-          "related": [
-            "MSFT"
-          ]
-        },
-        {
-          "title": "《CNN》分析：別急著對華許「公信力」感到恐慌",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51UVBiZDdQUnZnTmNqUFVQOC1kcUh2VVkyQ0VLaElBVFR2MVktcmlzX2pneWV3X3cwRWxtSkRDdjFzSkxyLWZtcGdOUllPcjA?oc=5",
+          "title": "股價腰斬仍力挺！瑞銀：SK海力士估值遭市場嚴重低估",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nTTM3eXFKSFFoTDFGUFpZcnJHclk1TWt0N3hGUUpINHo0R3hhd2MyMzBPVVlhd0E4cHhpdlVuX082QjdwMGliYmpacS1LRUE?oc=5",
           "source": "news.cnyes.com",
-          "published_hkt": "07/31 07:46",
+          "published_hkt": "07/31 10:40",
           "related": []
+        },
+        {
+          "title": "台股開盤／美股強彈點火！台股報復性大漲逾2800點 AI概念股全面噴發",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nOG12Z0xkTHRNLTJnb0ExeGZCLV84OWt3OWNka21aRVMtTTRBZWNQb2U2a0gyNG5tVTRCZmswU3U2MjQ2U0NkXzBKRQ?oc=5",
+          "source": "三立新聞網SETN.com",
+          "published_hkt": "07/31 09:14",
+          "related": []
+        },
+        {
+          "title": "微軟Meta業績「修復」AI信仰，晶片指數盤中創4月來最大漲幅，資料中心產業鏈爆發",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5zc1VGa21kTnQ2dXRtSU5GSHQ4dGliaWxjOVJIX3lPYzNfVl9rYkV2U185a011czhRdHgza2VUOFVVNkFsRzlnRg?oc=5",
+          "source": "鉅亨號",
+          "published_hkt": "07/31 09:13",
+          "related": [
+            "MSFT",
+            "META"
+          ]
         }
       ]
     }
@@ -250,33 +249,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-31 08:59 HKT",
+    "updated_at": "2026-07-31 12:01 HKT",
     "news": [
       {
-        "title": "麗盈聊幣：7.31比特幣（BTC）和以太坊（ETH）最新行情分析",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHS2JnbHgxUmF1VEpLUlZIcDZ0ODR6NGVlaGJ3UFR4N3ViaWdUWDlkQjRtdnZjeHlQYV9GMjQ1dVhUM0NsR0dJMGswTEdOQTQ?oc=5",
+        "title": "Galaxy Digital：Robinhood Chain能否在Base遇挫後取得成功？",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Vdk02ZEU2SEZMTEdSc1VsUDhya05GRzF5LW1ON1FES3JMZFdSOURJNWhIaUdZSUFscjItcFhGWndsWU5jQ213NlB5MkYyZmM?oc=5",
         "source": "news.cnyes.com",
-        "published_hkt": "07/31 08:30",
+        "published_hkt": "07/31 11:00",
+        "related": []
+      },
+      {
+        "title": "桑坦德银行首次披露持有比特币和以太坊ETF，总持仓规模约785万美元",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RX21odmRvVUFSMVNNcGNYNm1WSGVYSXJVYUF5MlRnclNOWWpxdm5fWTl5QWpEQXJIX0I4SmZDTE9SV2luWDRNRmxoUkdQQUZkYkhWTmFWMUstcS1ERTNvcU05VG80UQ?oc=5",
+        "source": "TradingView",
+        "published_hkt": "07/31 10:38",
         "related": [
-          "BTC",
           "ETH"
         ]
       },
       {
-        "title": "主要加密貨幣行情，比特幣升1.24% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMm5FTlFCMVR0enpybFZSeHZlNHhZMWgzekFJRC1YLXR4Z29rclRsZWM0TFJNYkRxQThXNEp2TDRfQUVOWlJ5RV9tUGVGdTUwME9pTjQycnRqQTBuRlNFN0EzZ1o0NEV0dHh5NW1mLW5nNTY4eks4b3ZYY1N5elpIZ3pkSXZleE9SV2wxYlNETlJfenJId0duZ1ZEUFZKWlVk?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "07/31 05:02",
+        "title": "質押機制成關鍵：Altcoin ETF浪潮起，索拉納、以太坊引領新趨勢",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WcW04NGw5TnVMLUdoUmZpWWRRc2NFTHRSYlJtVnR6UW92WGM0UEtBNkYzQXpEMDVfeE5UbWRVR0dVT3JKRmF2NWNueXpyVmV6eUE?oc=5",
+        "source": "n.yam.com",
+        "published_hkt": "07/31 09:31",
         "related": [
-          "BTC"
+          "ETH"
         ]
-      },
-      {
-        "title": "Aave將停止Sonic、Aptos、zkSync、Scroll儲備，影響9800萬美元供應",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOT2tmU29lX2FMUnFGeFVsVWwxWk8wc3UwcFJNcXg1dy1HTmlERVdmRG1FaG1EQ1Z1VFZtZ1VkMEF0UE5XZHlTQlNyVFN4R2cxSllwN0NueUI0X25aV2Y3Q2xuS1hjdnVLSHRveS04ejY4NkdqNkFUTGdZU3dlQXB6Ti1fYmFib0JHVXlwTzBORjk3UlZ6NlM4R3RmaWU4eEw3NzQtTVlZaHU4VFhHcDcxN0dCQVoxQXRDN3R0MHhtMVJ2Nnp6WXNpVngxeVZOUmlVcjZGVWZsangtNHd4eEpuY1JEU05tRXPSAecBQVVfeXFMTk9rZlNvZV9hTFJxRnhVbFVsMVpPMHN1MHBSTXF4NXctR05pREVXZkRtRWhtRENWdVRWbWdVZDBBdFBOV2R5U0JTclRTeEdnMUpZcDdDbnlCNF9uWldmN0NsbktYY3Z1S0h0b3ktOHo2ODZHajZBVExnWVN3ZUFwek4tX2JhYm9CR1V5cE8wTkY5N1JWejZTOEd0ZmllOHhMNzc0LU1ZWWh1OFRYR3A3MTdHQkFaMUF0Qzd0dDB4bTFSdjZ6ellzaVZ4MXlWTlJpVXI2RlVmbGp4LTR3eHhKbmNSRFNObUVz?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "07/31 04:33",
-        "related": []
       }
     ]
   }

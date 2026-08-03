@@ -27,29 +27,27 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-03 09:00 HKT",
+      "updated_at": "2026-08-03 12:07 HKT",
       "news": [
         {
-          "title": "台股開盤恐慘了？台指期夜盤重挫千點 專家見「這人出手」曝關鍵訊號",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QMlZUU1gzelVTeHZReXQxblRoX0FIX0J0TzQ2UDJhUUtwWDFqbmV2TThXSThHYXVmakM4N0t0NzY0cTBQUmNkaDZVZnZiWm56MGVmTWJtYjc0d0lRWGE2Y2ZMMFZVUQ?oc=5",
-          "source": "民視財經網",
-          "published_hkt": "08/03 08:46",
+          "title": "聯準會升息預期籠罩 美股短期估值承壓",
+          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPMVVXNmxtcHh1djQ5bnB0a3ItMTJHOVMxblF0VjR0NDJMTzZlOWxZQXU2UjUxeEJfc3pGVHRkX2ZZWHIyZ0lFYU9oUjBPdk5pNkNvODhZbG9QU3dWZzh2SEQ0eG5PWjREdDZYaFk2VU1aYTQ3MDZTVkJGS0VERWU3RjY2LTFxT29KOUtuWGxHcnhCcUxwS0dKbkRqU3B1cDNnYWxHS2VnMTV6YWVtR0JxQm1QMUJ1aFBhWXJWN0lrcy1KQ1JXR0MxRndsQjN1S2stcUdSVE1rejctS0lnN2w3NWg3TEhqWWZwcjJXYWxiT0xOdHQ3U1lSbnVYWGFfbi1Zb1M0TmxGY1piTFVPSDUyZElNd25CNWRzcnFZU2ZMZHU4WFFUTmRn?oc=5",
+          "source": "商傳媒",
+          "published_hkt": "08/03 11:07",
           "related": []
         },
         {
-          "title": "蘋果財測不如預期股價挫，美股指數微揚、韓股逆勢勁升",
-          "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPaGhHR3JMclZCMDZ1ZWpxdWszV09xY0ptVTItbDZtdzhKLTk2ZFRKQ0VMbWU1NFo4VHFaajcteGR6UGpvSUpMYjZYWmNCUUlqbWttMFZqVFpZT1RBYkpNY3diUFRWS3dOVWpfTkVmR21tREZuSWRBeDl6LVRYQTc2OHdpY1FsRFFTS2wzdmZ5MWtyUm9XSU1LS3BKang5b2NDSkljMFl2YVQtMGlSWGo2Ql9UVnNTUmdYbFBMUU9seEp1REJjNXczaThfMHZ5aDZuNTJ0NDIzQ3hpMUN3Y2gxWFpVdWNZOUE4a2lTcl9zMXNVa3k1THBIZG11cUFMVmZvUDZjb1lHb3JjY1FTVzZweEE0R01waW1CVktyc3o3ZzlJeGxKbm9SZ0c4eGNuUXloRlJHMXRPc2pCczZJcTQtQnVMZkFoZW5UbmxwUFluaG5tb3N0ZkVwOTZYVVhjU21IOWE5LVU2Mi10bGhZd2x3YTBDWFI1TkZlMkhkNE1mVWZKaHc?oc=5",
-          "source": "商傳媒",
-          "published_hkt": "08/03 08:43",
-          "related": [
-            "AAPL"
-          ]
+          "title": "聯準會升息預期籠罩 美股短期估值承壓",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQcTJpTC1uUV9iS0VsSUduZFFMeTFXekRkcFpGd1RYVG9PU2ZfVUNjbGRhekxhQWRlNnAxTERTWWI2SGkzWEhsME80el9abmZJM0RfdWZLSU5qUTRqclZJTTNHY3QyWEd5aTlISEY5NGcwYlNBcFVQOTVHSHNtYUNyUGYzakZKNUFYdG1KNENyMmlQdnF5dlppNkRuQWpTZE1oQ3MzSXVSY1d4YVg3dldNdU81WGJ5aFFFMTlRQlREalB1YnNCMjBGSUxkLVFrR3VGanJLVWZhOTI3dnBHTzNSZTg3WVVKSi10TnM4XzlYTnRKWkpxOXBNRUFBaDNtbHFNeDBMcElMNUpFUmVBZklOVGs4NVM?oc=5",
+          "source": "life.tw",
+          "published_hkt": "08/03 11:07",
+          "related": []
         },
         {
-          "title": "油價衝破101美元美股急跌 OPEC+增產難解市場焦慮",
-          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQUmItY3Q4M0FFX2ZGbW9KQ1VhNXNieElQM09TaThyMXpZaXBxWkdhVXYxSTVQVXhDZ0UwdnhiQnNmSWVpUzRuLWJfZW5PZEpueW9La2xCbE9zOFdlZi11WmprdmtoOWp5blkyV2QwelEyWWVpMzlrS1I0QTYxQTJIWHZ1WHdBT1BKY09wQmEtUDd3ay1sRFRLb0I5V3R2TkJPOXVncDR2XzJiQ0FhR0h2UjVuOTBPTjhpOGJvdnlwOXQxa05leFY1eFlickZlVkR6cVhPaWVnV3I0S2tnV3RHV3pNNjZHUW9EdnA5UkVtNE5aQ3JWdHFDeVdXaUhGWm5LSWpzd0c5V0haRlNGaTF2T0daLWJtRjZCN28wU0ZpMjFFc256YlZ0WGpTbG5CWjMtRWdwT0plMXB5XzdJSU9n?oc=5",
-          "source": "Yahoo股市",
-          "published_hkt": "08/03 07:47",
+          "title": "AI算力狂潮助記憶體進入賣方市場！美銀：三星長協「限跌不限漲」現貨價格Q4前持續反彈",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlSzJtbERWZGdmTDYyTGZuV01pQ1A5ZUhscnZWQ1FkU05FNVZXUzhKODdRZURwY1pxTkhSYXF5YjdVemE5ZlphU2lzTQ?oc=5",
+          "source": "鉅亨網",
+          "published_hkt": "08/03 10:10",
           "related": []
         }
       ]
@@ -244,29 +242,27 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-03 09:00 HKT",
+    "updated_at": "2026-08-03 12:07 HKT",
     "news": [
       {
-        "title": "比特幣暴跌引發山寨幣拋售，Ada幣逆勢上漲",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pRUxnRGhQWkJTRkNtNVpLYjBJX3VrVG9sSl9YVUszbUltYnJiNzlkWXF6RXlTa3RWV2hpQ3lBei11UVg3RnhBTlVYaFJpTVcta3lUbVhyVFZJQk9OVkZnTnZzajEzeVB2eVBZ0gFrQVVfeXFMT2lFTGdEaFBaQlNGQ201WktiMElfdWtUb2xKX1hVSzNtSW1icmI3OWRZcXpFeVNrdFZXaGlDeUF6LXVRWDdGeEFOVVhoUmlNVy1reVRtWHJUVklCT05WRmdOdnNqMTN5UHZ5UFk?oc=5",
-        "source": "Bitget",
-        "published_hkt": "08/03 06:14",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "麗盈聊幣：8月3日 bitcoin（BTC）及 ethereum（ETH）最新行情分析",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50ZmhQVlFJMlhHTXk4QjJzOUtGa0htb05YZjJWRW9UOW9UWEVxWm80cmZSdWwwd2lOdlNRY0lYNzFPNHhscDlOLUNHb1B5Wm5Tc3B4VjlUOTZ4N3NBV2RaQzJIalpkTlU3UUs00gFrQVVfeXFMTnRmaFBWUUkyWEdNeThCMnM5S0ZrSG1vTlhmMlZFb1Q5b1RYRXFabzRyZlJ1bDB3aU52U1FjSVg3MU80eGxwOU4tQ0dvUHlablNzcHhWOVQ5Nng3c0FXZFpDMkhqWmROVTdRSzQ?oc=5",
-        "source": "Bitget",
-        "published_hkt": "08/03 03:11",
+        "title": "St. Polten vs BSC YB Frauen: Regulation Time Spread",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQamhzSE1TQmVlQmMxMEpseTlDV082V0ZpaVgtNzR3OVhtLXprZXdIVkx5anlXMFZUUS1UcTVkRUd3Z05sWENFSFd3dkhJTFFJaW1fbExBaGl3dzhuMEJsS3VrNi1oQm9SNEZjR3ltc3A0czU3UlVORkZ0eU5BaXJMWQ?oc=5",
+        "source": "Coinbase",
+        "published_hkt": "08/03 11:05",
         "related": []
       },
       {
-        "title": "區塊鏈重點動態2026年8月2日早參考",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UZUlma2laV1NabDY5NHpwLThuS0lSRF9DMW02WVNtV3d0X3BVU3pFSDI4T0ROZW4xRXAwUWFOeXpGSHVoTk1ocDlWTQ?oc=5",
-        "source": "cnyes.com",
-        "published_hkt": "08/02 19:00",
+        "title": "區塊鏈重點動態2026年8月3日早參考",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPZWVGUWVPb2tSQ1NSbHMtQjlSUVdPNkZMQzhxYUNXa0UtZ3I5dEtCbDBnU3pEX3AtSkpnb21qYUFmRU1MeEhWaEJuVQ?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "08/03 11:02",
+        "related": []
+      },
+      {
+        "title": "a16z crypto：馬克安德森對話克里斯迪克森 美國為何需要CLARITY法案",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhU2tpYU1lM2xfaGxQRUVpTG9wekhFWmduR3pPa2RFRkdZcVJXTWYtU0F0YWVaTzdJbTlXMW9HcXVzajN5UmRQVjVxcw?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "08/03 10:00",
         "related": []
       }
     ]

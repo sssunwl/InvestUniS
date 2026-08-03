@@ -27,63 +27,60 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-07-31 12:18 HKT",
+      "updated_at": "2026-08-03 09:00 HKT",
       "news": [
         {
-          "title": "股價腰斬仍力挺！瑞銀：SK海力士估值遭市場嚴重低估",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nTTM3eXFKSFFoTDFGUFpZcnJHclk1TWt0N3hGUUpINHo0R3hhd2MyMzBPVVlhd0E4cHhpdlVuX082QjdwMGliYmpacS1LRUE?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "07/31 10:40",
+          "title": "台股開盤恐慘了？台指期夜盤重挫千點 專家見「這人出手」曝關鍵訊號",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QMlZUU1gzelVTeHZReXQxblRoX0FIX0J0TzQ2UDJhUUtwWDFqbmV2TThXSThHYXVmakM4N0t0NzY0cTBQUmNkaDZVZnZiWm56MGVmTWJtYjc0d0lRWGE2Y2ZMMFZVUQ?oc=5",
+          "source": "民視財經網",
+          "published_hkt": "08/03 08:46",
           "related": []
         },
         {
-          "title": "台股開盤／美股強彈點火！台股報復性大漲逾2800點 AI概念股全面噴發",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nOG12Z0xkTHRNLTJnb0ExeGZCLV84OWt3OWNka21aRVMtTTRBZWNQb2U2a0gyNG5tVTRCZmswU3U2MjQ2U0NkXzBKRQ?oc=5",
-          "source": "三立新聞網SETN.com",
-          "published_hkt": "07/31 09:14",
-          "related": []
-        },
-        {
-          "title": "微軟Meta業績「修復」AI信仰，晶片指數盤中創4月來最大漲幅，資料中心產業鏈爆發",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5zc1VGa21kTnQ2dXRtSU5GSHQ4dGliaWxjOVJIX3lPYzNfVl9rYkV2U185a011czhRdHgza2VUOFVVNkFsRzlnRg?oc=5",
-          "source": "鉅亨號",
-          "published_hkt": "07/31 09:13",
+          "title": "蘋果財測不如預期股價挫，美股指數微揚、韓股逆勢勁升",
+          "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPaGhHR3JMclZCMDZ1ZWpxdWszV09xY0ptVTItbDZtdzhKLTk2ZFRKQ0VMbWU1NFo4VHFaajcteGR6UGpvSUpMYjZYWmNCUUlqbWttMFZqVFpZT1RBYkpNY3diUFRWS3dOVWpfTkVmR21tREZuSWRBeDl6LVRYQTc2OHdpY1FsRFFTS2wzdmZ5MWtyUm9XSU1LS3BKang5b2NDSkljMFl2YVQtMGlSWGo2Ql9UVnNTUmdYbFBMUU9seEp1REJjNXczaThfMHZ5aDZuNTJ0NDIzQ3hpMUN3Y2gxWFpVdWNZOUE4a2lTcl9zMXNVa3k1THBIZG11cUFMVmZvUDZjb1lHb3JjY1FTVzZweEE0R01waW1CVktyc3o3ZzlJeGxKbm9SZ0c4eGNuUXloRlJHMXRPc2pCczZJcTQtQnVMZkFoZW5UbmxwUFluaG5tb3N0ZkVwOTZYVVhjU21IOWE5LVU2Mi10bGhZd2x3YTBDWFI1TkZlMkhkNE1mVWZKaHc?oc=5",
+          "source": "商傳媒",
+          "published_hkt": "08/03 08:43",
           "related": [
-            "MSFT",
-            "META"
+            "AAPL"
           ]
+        },
+        {
+          "title": "油價衝破101美元美股急跌 OPEC+增產難解市場焦慮",
+          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQUmItY3Q4M0FFX2ZGbW9KQ1VhNXNieElQM09TaThyMXpZaXBxWkdhVXYxSTVQVXhDZ0UwdnhiQnNmSWVpUzRuLWJfZW5PZEpueW9La2xCbE9zOFdlZi11WmprdmtoOWp5blkyV2QwelEyWWVpMzlrS1I0QTYxQTJIWHZ1WHdBT1BKY09wQmEtUDd3ay1sRFRLb0I5V3R2TkJPOXVncDR2XzJiQ0FhR0h2UjVuOTBPTjhpOGJvdnlwOXQxa05leFY1eFlickZlVkR6cVhPaWVnV3I0S2tnV3RHV3pNNjZHUW9EdnA5UkVtNE5aQ3JWdHFDeVdXaUhGWm5LSWpzd0c5V0haRlNGaTF2T0daLWJtRjZCN28wU0ZpMjFFc256YlZ0WGpTbG5CWjMtRWdwT0plMXB5XzdJSU9n?oc=5",
+          "source": "Yahoo股市",
+          "published_hkt": "08/03 07:47",
+          "related": []
         }
       ]
     }
   },
   "hk": {
     "pre_market": {
-      "updated_at": "2026-07-31 08:59 HKT",
+      "updated_at": "2026-08-03 09:00 HKT",
       "news": [
         {
-          "title": "互聯互通強化港股韌性 上半年日均成交增13% 北水淨買港股2.7萬億",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41NUZZT3FqS1pDVGlrWXNodC1jZWZ2UGZjTW1xRnBrT1IzS0FRN3hwLUhzLTFuSUFWX1c0NXdveXJGcGhraDR1UFlaRTYzOHB3UVd0M2lRLVE2Tmt4bkkwcjNkWVdOZ2NJQm00b1dSdC1jYk1tbGpn?oc=5",
-          "source": "香港文匯報",
-          "published_hkt": "07/31 08:11",
+          "title": "陸港股ETF 吸金力十足",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TTU85aWlqVmlZc2J1ckV3V0dFZVJOQ0hfcHVZN1E5dFV2ZVlSWllpTlpYdGd2V1FiXzAtSVl1ZHlpMnA5d0FGSkZMdmF3MkVVOUHSAVhBVV95cUxQNHlDcGVYSWdUelJYUHdzQWh3eTF3X25lYlZkX2VCbDRtYmJRUXgxNDRKb21uVzFiZ25nWGNIMVQteWlHZ2plbzRvMU1DdXN2WmhqNkZITVhv?oc=5",
+          "source": "UDN",
+          "published_hkt": "08/03 03:45",
           "related": []
         },
         {
-          "title": "騰訊控股(00700)討論區- 股票評論- 股吧交流社區",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wMVNsM2Z4SFpiM3hpVVp2V2tSUlBOZ3JOcW4yQ1BKa1NPZE1IUGhYSG1uQlliQnJDMTAwM0JGUnV6bEZncEx3c0Q3bFBIck9tWXNPeEtZZktFUFRRNURKZ3pn?oc=5",
-          "source": "Moomoo",
-          "published_hkt": "07/31 07:05",
-          "related": [
-            "0700.HK"
-          ]
-        },
-        {
-          "title": "恒指夜期丨收報26021 高水162點",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN1ZLSUdMS3lJXzRoMTh3XzNSZGloZlhCZ2xSWENrY3BseFRhRE1HZmJ2c05BSE9hTjZnZEwweEVyU3UwZDZYN0Q5Xy1DRGRUMGlXaEJ3bThVaTloZkpVTlVlWnNvMm5icnBwam9MVkVicktoX3VlMzFndXRrc0tIX0FlQWIxVXJmOUNkNFVvR3A1dDZBRkNja003cTdQV0xnOGRSOGlRNWtuMG52WkhITC1LWlpFRjJROXpIUWU1THRwWXFMMXl3b21mWGtjal8xX0VlU3ZLZmhzQTJMWHY3ejFuZDVzcWZLY2c?oc=5",
-          "source": "信報網站",
-          "published_hkt": "07/31 05:12",
+          "title": "伍一山 - 恒指中期走勢明顯改善 | 有錢圖",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPUG1mNnRWOU4zR21HcnlDNXNEaUM1TTVuQ19SM2V1bF92Wll5YmVlSmJIU29fQzUxMTJnT1NVMkZ3Tmh5b3Zxc3lQelNGMHlOcklwX05PaFZmZWxFQXpMaUVveGxDdEljai1BTlVQeTlyMGxvNm5EUjRWM3h3SXhuLVhvZFd1Q0xRY3g4LVlNejBtZWtqSHpWMmdMMnZoOXhiQ2t0TnVLc3pRV3Mxb0psamhzSE5LYjh0NnVXMUNKWXJDclNLd1RHdm0tbUk0ekZOVTBTYkJlU0JodjhRazdEakpuUlNSSzU3YVVrWEROaV9Pam9GNmNqSEY4RjhYS1lfRnZzc0thWnA1UWxuWlAxOXFYbWpvd2tQ?oc=5",
+          "source": "星島頭條",
+          "published_hkt": "08/03 02:00",
           "related": [
             "^HSI"
           ]
+        },
+        {
+          "title": "聞風至 - 西部水泥績優潛力厚可追 | 鮮股落鑊",
+          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPaWhCajNNM3JIQ2ZPb3k1MjZBX1daanVrNlJEN0p2ZlYwUlMtRFBPdlktS2pZdEwya0Q1QVVQYl9fN0xpalNoZGZGWHg0QlNqbGxUWEhvR0VtRllSYzN0RzBPekd6dWRCci1OSXNWNU5hZWdQSWd6ZE9rbVdJV3lMZHNZVl8tT1NWNkd1X1IyZURmd0dJeEQ4WEtacmljcXo5d3MxZnpLczE5ODE2RFVZckpKODFOdUV2ZG9QdnV5Z0J6dzhMU3J4ZHFnYTAwakpVTzRJQWxKZXFmS0RhdXo4QkNwNjRNd2dQSEU3OTZjMHBCZk9SalZCVi1BR0k2cFpLR0VyeXZIdXZXTmxWVmNhWWlhN1JqYzRWNlV2MUQyV2x6ZHNqS1NPZl9EU1RtZ2ND?oc=5",
+          "source": "星島頭條",
+          "published_hkt": "08/03 02:00",
+          "related": []
         }
       ]
     },
@@ -247,32 +244,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-07-31 23:22 HKT",
+    "updated_at": "2026-08-03 09:00 HKT",
     "news": [
       {
-        "title": "Kraken将在欧洲推出受监管的BTC和ETH期权",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xZ09KLVZwejlBWTJ6aEJ0UDROTFlFM2Z4M3Rrbk5nUWF6aWhUdldkUERoXzA4VFNkcm11bnl0TWlYXzlmdTdJUmtOUVdjcWt6X2V1SkdiLWtkZXpmM1lsR3NSZ1ZoZw?oc=5",
-        "source": "tw.tradingview.com",
-        "published_hkt": "07/31 19:51",
+        "title": "比特幣暴跌引發山寨幣拋售，Ada幣逆勢上漲",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pRUxnRGhQWkJTRkNtNVpLYjBJX3VrVG9sSl9YVUszbUltYnJiNzlkWXF6RXlTa3RWV2hpQ3lBei11UVg3RnhBTlVYaFJpTVcta3lUbVhyVFZJQk9OVkZnTnZzajEzeVB2eVBZ0gFrQVVfeXFMT2lFTGdEaFBaQlNGQ201WktiMElfdWtUb2xKX1hVSzNtSW1icmI3OWRZcXpFeVNrdFZXaGlDeUF6LXVRWDdGeEFOVVhoUmlNVy1reVRtWHJUVklCT05WRmdOdnNqMTN5UHZ5UFk?oc=5",
+        "source": "Bitget",
+        "published_hkt": "08/03 06:14",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "麗盈聊幣：8月3日 bitcoin（BTC）及 ethereum（ETH）最新行情分析",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50ZmhQVlFJMlhHTXk4QjJzOUtGa0htb05YZjJWRW9UOW9UWEVxWm80cmZSdWwwd2lOdlNRY0lYNzFPNHhscDlOLUNHb1B5Wm5Tc3B4VjlUOTZ4N3NBV2RaQzJIalpkTlU3UUs00gFrQVVfeXFMTnRmaFBWUUkyWEdNeThCMnM5S0ZrSG1vTlhmMlZFb1Q5b1RYRXFabzRyZlJ1bDB3aU52U1FjSVg3MU80eGxwOU4tQ0dvUHlablNzcHhWOVQ5Nng3c0FXZFpDMkhqWmROVTdRSzQ?oc=5",
+        "source": "Bitget",
+        "published_hkt": "08/03 03:11",
         "related": []
       },
       {
-        "title": "加密貨幣價格預測：Zcash、比特幣與加密貨幣——歐洲收盤綜述 7月31日",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNckpnZW85LUxZRVR5dFppQkxGQWtsMUllN2lfZDlZdlJhMm5zZi1uVTFqbmpnZDRHQ1IwSXVEcGtWd2x0QTBvSTVqd09jRzZHTzg0QUtZcnBFZHpobEdSUGNvUXZRVFA0RGZDSHlWLUM4c1pvMWEwR0FnUHRERmI4Y2I5ZUxlQzlqcFd1WmpGdnBFVHkxN1QyMElhWXVBakZ1VXJVUkZFVVE5VWtyVmhpLTdUcFNfV2dWWXFKX2xfdldUTUtYMk12S0xTbVQtWTl4emdOUlBCN25uNFBRSV9RVVB3VGloQ3htbmVCSkdn0gHuAUFVX3lxTE1ySmdlbzktTFlFVHl0WmlCTEZBa2wxSWU3aV9kOVl2UmEybnNmLW5VMWpuamdkNEdDUjBJdURwa1Z3bHRBMG9JNWp3T2NHNkdPODRBS1lycEVkemhsR1JQY29RdlFUUDREZkNIeVYtQzhzWm8xYTBHQWdQdERGYjhjYjllTGVDOWpwV3VaakZ2cEVUeTE3VDIwSWFZdUFqRnVVclVSRkVVUTlVa3JWaGktN1RwU19XZ1ZZcUpfbF92V1RNS1gyTXZLTFNtVC1ZOXh6Z05SUEI3bm40UFFJX1FVUHdUaWhDeG1uZUJKR2c?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "07/31 19:41",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "比特幣和以太幣下跌，股市上漲，整個加密貨幣市場有望創下一年來最佳月度表現",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNREYwQlF5ckJrbkNDZjJsMWRaYS1oV1UyMTZKY0NHOERXQ2p2QkxBRVRnN21nTVktM25WcmJnbDZJOTJsbnV4bktuaTlmc0dmTmxCdkxkanRwTDdUaERPYkozek5TZ2V0VzRzNktWNmoxTG52d0hSTzRXc0laZGV3ZGJrTHBuNE0yVHBzRmFVQUhhNUwtN01ldXZKYU5aS2hkbHZydUFTVQ?oc=5",
-        "source": "富途牛牛",
-        "published_hkt": "07/31 19:18",
-        "related": [
-          "BTC"
-        ]
+        "title": "區塊鏈重點動態2026年8月2日早參考",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UZUlma2laV1NabDY5NHpwLThuS0lSRF9DMW02WVNtV3d0X3BVU3pFSDI4T0ROZW4xRXAwUWFOeXpGSHVoTk1ocDlWTQ?oc=5",
+        "source": "cnyes.com",
+        "published_hkt": "08/02 19:00",
+        "related": []
       }
     ]
   }

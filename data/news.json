@@ -27,7 +27,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-04 11:49 HKT",
+      "updated_at": "2026-08-04 12:07 HKT",
       "news": [
         {
           "title": "中國銅箔巨頭殺進美股！龍電華鑫估值衝17億美元 成中企IPO回歸試金石",
@@ -246,7 +246,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-04 11:49 HKT",
+    "updated_at": "2026-08-04 12:07 HKT",
     "news": [
       {
         "title": "美股大漲比特幣無感？盤整6.3萬鎂、以太坊回落1851美元，爆倉2.4億鎂恐慌指數回落",
@@ -259,6 +259,13 @@
         ]
       },
       {
+        "title": "貝萊德推出兩款用於現金管理的代幣化產品",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLVBUTUhMYnNXVWdtRDFuWUd2T0UwdFp5NC1YQ29ybWxObTZ4UVAyX3Y5bklpV09qam5qRElkSDA1UFI0MU13ZFdmUFF0UkhzUXVnNmJmdzUta2g0eF9EM0c2blotLUJfZ3VWZ01IWGVVcWNvc0FVRXRPWTNBOE9tSk5nR2doQ2ppU2c2RWd5X0ZWdjhXQ2VPNGVRbmZiT2dCOWJGaFZmbzJEenFjbi1CRC05TldIc21SdHFKY1cxQkg1d3BtdHQzUEhfc1Z4V1pVRXUzTTRkSdIB1wFBVV95cUxPLVBUTUhMYnNXVWdtRDFuWUd2T0UwdFp5NC1YQ29ybWxObTZ4UVAyX3Y5bklpV09qam5qRElkSDA1UFI0MU13ZFdmUFF0UkhzUXVnNmJmdzUta2g0eF9EM0c2blotLUJfZ3VWZ01IWGVVcWNvc0FVRXRPWTNBOE9tSk5nR2doQ2ppU2c2RWd5X0ZWdjhXQ2VPNGVRbmZiT2dCOWJGaFZmbzJEenFjbi1CRC05TldIc21SdHFKY1cxQkg1d3BtdHQzUEhfc1Z4V1pVRXUzTTRkSQ?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "08/04 09:16",
+        "related": []
+      },
+      {
         "title": "主要加密貨幣行情，比特幣跌0.23% | 即時新聞 - 新聞",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTVlvS0NQNGlYcmFUZkxNYUdDNFRqOHlKX3ZhY2RzX0JpbzF2LWFMQWoxMDRvOUJFYmVnYmpyY21Xd0JSVTVBQXlVY0dQYVZsY0dmdDNNVnVmLUtHcU5YOHZ1TmpxalpucWJXZzl6OW1uS0d6Tm94bTBGWm12ZndNRXR6TzA2eXQyYWRodnNJc3ZFVHlUNFVRZWh1eFJKTDJT?oc=5",
         "source": "etnet.com.hk",
@@ -266,13 +273,6 @@
         "related": [
           "BTC"
         ]
-      },
-      {
-        "title": "2026年8月2日-3日區塊鏈24小時最新資訊鏈共識（鏈新聞）",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5X3YweDE3WTdvdkhfX2s5WnJTZFNQV1E1WGgwZkZ0LWZvLTRtT0Y3UXZYWmJEWWF4OS10U19SS3RsSFdCU3BvRGUyMA?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "08/04 08:30",
-        "related": []
       }
     ]
   }

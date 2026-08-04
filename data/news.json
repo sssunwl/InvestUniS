@@ -85,8 +85,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-04 16:46 HKT",
+      "updated_at": "2026-08-04 17:32 HKT",
       "news": [
+        {
+          "title": "【港股收市】恒指跌156點 6連升斷纜 失26000關 藥明康德績後飆11%",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fZGJMbFdNaXNjZjVMbGNqc0N5a2xWdXBvcmlEVzlzVG0zSG4xT19oOEExOHEyaVVyelNZMFR2VE02amVZcTZ2OU9vWHlJQ0t3WXpSNjQ5ajl4OEU0VlExYnhqTy1Wa19zeWlxUTJn?oc=5",
+          "source": "Now 新聞",
+          "published_hkt": "08/04 17:12",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "恒指走勢丨埋單跌156點再失兩萬六 滙控績後受壓",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fSjgydmtCSkxkNmpHX3M1d1daMUlWeHNHQU1Pek4tLWptazRFRmxWQUhUdktlN0FlUTNKQ2RMNW1qcTZtX3RxVER2QmpCZ21LMVM0UXpsV3I2Nmkta1NVTnM0YlVmQzhqdWdCSjNSRQ?oc=5",
@@ -101,15 +110,6 @@
           "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPOE1OQUZGU0JwOTQ2QzE0c2s5MXlVNE1XNWV0MmpmRG5kQ1ItVk9MZnRjQ2hYWmNsUmg0U1QwNV9SMGJQd1hacThiQjBkUE14eUlMcURiSnVCSHJGajd5eF9qbUxDV1RFclpTWGVMNWdWNDloRHhaSFJfT1MwVjNuMVdFNnQtcXFoaWtBTjZZWTRLQndRUkFWX2xQOFVFR05CZGh6QjJISzl6cUlYZDVQSXZEelZxR1NFZVdhUWJEWmRQNE03MVdjc2RHVDZHcm9QbmRoc2Jpd3BHSUdHM2Y5OW5sQ1RQblIxWmhETW1xVEtkOE1nRTRHUHppdHpNZmhFa21nbU9qVXlpdHhjVUlMVEpUZlh5dlVGdy1YVmxDOFBFcDRwQXJhQlNtQVRKZw?oc=5",
           "source": "信報網站",
           "published_hkt": "08/04 16:40",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "恒指走勢丨午市初段跌幅再擴大至近200點",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlTk9PR3phazN3cDhqbzlsSHpNWkM0bENhZHFlbnI2eU1kcXRpNGdWdjYxV21ReXBIajFvTmY5TXpIMkd0TDlYdDdTeVNwdUlyVE1NRG9EZUVNSmpXWG5CYUF3Nm4wNDVESHJXVTZOOA?oc=5",
-          "source": "信報網站",
-          "published_hkt": "08/04 13:28",
           "related": [
             "^HSI"
           ]
@@ -149,8 +149,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-04 16:46 HKT",
+      "updated_at": "2026-08-04 17:32 HKT",
       "news": [
+        {
+          "title": "台股震盪千點終場小跌25點 外資賣超縮手、回補期貨空單2,180口 | Newtalk",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kcTc2ZlNVUE5CZzRaZ2RBLUlIai1SaU5saFpXVTBLNF9OTUU4WmlrbjFuN3U4ckxpMmRUMVFETXN4M0ZHZWx2cnZiNEtNeFlHUDMybEZB?oc=5",
+          "source": "today.line.me",
+          "published_hkt": "08/04 16:46",
+          "related": []
+        },
         {
           "title": "【亞股收盤一手掌握】AI概念股震盪整理 台股高檔震盪、外資回流南韓，日股關注匯率與債市變化",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxVVJuRzVaRzVvSFNucGZoQmU2V1o5eHRLbVhVX3lrbmZyOWt5bWJZZ2JGRlNXYXM0Vy1LLUs0WTlSSU1oVG84R3BUQ2pkSFBYS2FmN3ZB?oc=5",
@@ -159,19 +166,10 @@
           "related": []
         },
         {
-          "title": "台積電下挫拖累台股！群創續吃轉型題材爆量奪成交王「這檔」堅守「相信黃董、年底就懂」飆漲亮燈",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkVDNCTWhzZ0tEbXkyVm13Q3JJbWdLQkc5SjJlMy10ZHpmMXR0bGRMLTdqZnRxMXNFOWtZOGpVRGVqMXNNWnJnVEl2dw?oc=5",
-          "source": "FTNN 新聞網",
-          "published_hkt": "08/04 15:05",
-          "related": [
-            "TSM"
-          ]
-        },
-        {
-          "title": "台股收市跌幅收窄",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQalJnTVA2ODZwYS1fR2xZalFCSDNvSU9OQU5aR0R2OF9ucmtxN0hmTWJKR2ZZSVE4dlEtYzdPSkc1NDlPOFo0aE9WS2czQS1DN2ZYUUUyemRrZjc5ZldUN1d6QmJRSDREMUI2bjRmaEo3bXdGbHNsU3R5WUxZaFYwVkNEaHRyT3M?oc=5",
-          "source": "香港電台新聞網",
-          "published_hkt": "08/04 14:45",
+          "title": "台股4日震盪揭拉鋸終場下跌25點 記憶體族群股強勢翻紅4檔收漲停",
+          "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxQaEtobkZBSDRuTEtuWXFNNlQ5OFVnTnF5c3hLeFNKLTRCNkFrMmR5WjUwUDFzUTktOEUzMVJyUk0tSXA2OUZYbktKdUpBb05RZnV2ZnJqNW52SXpxQlgyMkhhVXdCRWU5aG9ZekdqZHFkUG15NTJyTUgtSHZNVVpLVDdfOGtkMHNvLThwS1I2UlRXcm03YUVNNDhjSUh6M3NXWW9pOUU0UndiVW8yZjl0dlVzWi1PeUlydHZGZ1JDYUt0djlpTVF6ekpTbFNHYjBZV0hkLVJxSEVlQ2VteXBtQmdmN0VGSnlSNTI1Z3RVdWlSSVlTd1lkdEdZc1Fqc2dhb2Y5MUNxbW1qQk43b200Q0pMbHhuRl9pOFJGalNmZWdyREZIa3hENGZhTmQtTTZxTUhRSjZ4NEF4eHBuRWRJTFl1UHNseGhSM2MzSXN6amJOVGFIemxKbDFLSTI5OW44R0xCTmhxNWxjX2I4T2FQR09lTW9xcGhYeEo1SmV5N3ozd2hCMzJGMm82QWtYOGpWQWNRWFl0ZjFnSksyS1h4bkR2Nm5IVVRuMldwVjZSRk9mbEJULTQyLVVEek5CbXhYbUdWczFJVG4zWG80dGpiQTgzVHZERkx6cnc?oc=5",
+          "source": "台灣好新聞",
+          "published_hkt": "08/04 15:31",
           "related": []
         }
       ]
@@ -211,7 +209,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-04 16:46 HKT",
+      "updated_at": "2026-08-04 17:32 HKT",
       "news": [
         {
           "title": "日韓股市集體收漲，KOSPI漲1.62%，日經225漲0.32%，鎧俠大漲近6%",
@@ -240,7 +238,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-04 16:46 HKT",
+    "updated_at": "2026-08-04 17:32 HKT",
     "news": [
       {
         "title": "Aave面臨20%下跌風險，儘管DeFi存款保持穩定",
@@ -250,19 +248,17 @@
         "related": []
       },
       {
-        "title": "主要加密貨幣行情，比特幣升0.42% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY094dUtaY2NiZVV6bzByT2VzdGI0TEhraHl3UUxPdEJLRFZsSkZNUXhwQzhIYXdRd05oaWtNeFV3cUpvX1k0c1hBc2hseF9fMHFRVURqd2EwTmRhaDV2MXp4RW1rU0l6VEViV2NfM0Y5Sjk0ZEJBWjd2dHZ0eHlaRGhWUmJJVmpIU3hzRGxaOWYtWWQtRWlrdjVWNDNUOUht?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "08/04 14:01",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
         "title": "瑞波幣接近三角形形態突破，而卡爾達諾、Hyperliquid反彈",
         "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTm15bnJscGx4UWIyT29VN05WcEZPSWNQb0poTmpJYjBhSGo2Qm5sZEYzRlEyNUdlUTVMUEZCQjBnMDE4R0JYNlZyMkpPMFhxVFFlZ01lelVJZ3h2dmN0OHo2R004bjM3aWIxRWMzS3p2aDlRZFo1NTN2RS1nQVp5b3lZekhpOGNkRVVLOGFWcTlWUkF1WFpieXRGT0FYYWVmUHhoX3ctTWNYbFRYakZfZUw3cDBPbndBQWFSWjBkWldJakJYLVQtcENfM0g5Qmx1TjlUakdIU0kyeXNEeGxGVjVYLXgtT3JNWmRPbFJUV1MtSFE4U0pocW03QXB5cm9ITnRB0gGDAkFVX3lxTE1ObXlucmxwbHhRYjJPb1U3TlZwRk9JY1BvSmhOakliMGFIajZCbmxkRjNGUTI1R2VRNUxQRkJCMGcwMThHQlg2VnIySk8wWHFUUWVnTWV6VUlneHZ2Y3Q4ejZHTThuMzdpYjFFYzNLenZoOVFkWjU1M3ZFLWdBWnlveVl6SGk4Y2RFVUs4YVZxOVZSQXVYWmJ5dEZPQVhhZWZQeGhfdy1NY1hsVFhqRl9lTDdwME9ud0FBYVJaMGRaV0lqQlgtVC1wQ18zSDlCbHVOOVRqR0hTSTJ5c0R4bEZWNVgteC1Pck1aZE9sUlRXUy1IUThTSmhxbTdBcHlyb0hOdEE?oc=5",
         "source": "FXStreet",
         "published_hkt": "08/04 13:35",
+        "related": []
+      },
+      {
+        "title": "XRP和XLM前景：隨著衍生品數據指向下行壓力緩解，走勢保持穩定",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPaUwtczJGQlE5T1dJRU1SU01QOTQ2Q1VxY2k5c0lwSzVhZ1NrTFkzTWpNTVlTRjRTYVBWSmwwMkQxTHFlUHd1bVdyNE5DaXQ4d2luTTFvWHhVVGFpOFJuLWRJRmtaM2l4R3NMUDhSSzE5Q2M2TkhncVVZMTk4TU94UGVncVRjRVd0S2d0YXl2a19kZ2hDWVhsVW9ZZkdPOU1WWmQxUUFZVlI1Z1JkSlk3cVBwWkxpZXlta3ludVNkcGJnWHA0MHpBVWtjVU1oWlBOVERuaFVsSE1SbnQzb2kwSFc2WUNRdnJ5a09QeDVWenRqS2UxajlVSXI4WndKSTl1aTF3d1ljMWV5UUtTeFZjWlU0VjNGV0nSAZcCQVVfeXFMT2lMLXMyRkJROU9XSUVNUlNNUDk0NkNVcWNpOXNJcEs1YWdTa0xZM01qTU1ZU0Y0U2FQVkpsMDJEMUxxZVB3dW1XcjROQ2l0OHdpbk0xb1h4VVRhaThSbi1kSUZrWjNpeEdzTFA4UksxOUNjNk5IZ3FVWTE5OE1PeFBlZ3FUY0VXdEtndGF5dmtfZGdoQ1lYbFVvWWZHTzlNVlpkMVFBWVZSNWdSZEpZN3FQcFpMaWV5bWt5bnVTZHBiZ1hwNDB6QVVrY1VNaFpQTlREbmhVbEhNUm50M29pMEhXNllDUXZyeWtPUHg1Vnp0aktlMWo5VUlyOFp3Skk5dWkxd3dZYzFleVFLU3hWY1pVNFYzRldJ?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "08/04 12:08",
         "related": []
       }
     ]

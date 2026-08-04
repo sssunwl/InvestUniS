@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-04 15:39 HKT",
+  "updated_at": "2026-08-04 19:19 HKT",
   "us": {
     "stocks": [
       {
         "symbol": "MU",
-        "price": "$823.0",
-        "pct": "+0.00%",
+        "price": "--",
+        "pct": "--",
         "dir": "flat"
       },
       {
@@ -38,32 +38,32 @@
     "stocks": [
       {
         "symbol": "0700.HK",
-        "price": "HK$486.0",
-        "pct": "-0.90%",
+        "price": "HK$487.6",
+        "pct": "-0.57%",
         "dir": "dn"
       },
       {
         "symbol": "1024.HK",
-        "price": "HK$45.50",
-        "pct": "+1.07%",
+        "price": "HK$45.52",
+        "pct": "+1.11%",
         "dir": "up"
       },
       {
         "symbol": "9988.HK",
-        "price": "HK$126.0",
-        "pct": "+0.64%",
+        "price": "HK$125.8",
+        "pct": "+0.48%",
         "dir": "up"
       },
       {
         "symbol": "3690.HK",
-        "price": "HK$92.25",
-        "pct": "-1.28%",
+        "price": "HK$92.70",
+        "pct": "-0.80%",
         "dir": "dn"
       },
       {
         "symbol": "1299.HK",
-        "price": "HK$78.00",
-        "pct": "-0.70%",
+        "price": "HK$78.05",
+        "pct": "-0.64%",
         "dir": "dn"
       }
     ]
@@ -140,32 +140,32 @@
     "stocks": [
       {
         "symbol": "BTC",
-        "price": "$63,627",
-        "pct": "+1.68%",
+        "price": "$63,662",
+        "pct": "+1.70%",
         "dir": "up"
       },
       {
         "symbol": "ETH",
-        "price": "$1,858.5",
-        "pct": "+0.86%",
-        "dir": "up"
-      },
-      {
-        "symbol": "BNB",
-        "price": "$589.6",
+        "price": "$1,864.8",
         "pct": "+1.29%",
         "dir": "up"
       },
       {
+        "symbol": "BNB",
+        "price": "$589.4",
+        "pct": "+0.56%",
+        "dir": "up"
+      },
+      {
         "symbol": "SOL",
-        "price": "$73.49",
-        "pct": "+1.31%",
+        "price": "$73.50",
+        "pct": "+1.49%",
         "dir": "up"
       },
       {
         "symbol": "XRP",
         "price": "$1.07",
-        "pct": "+0.63%",
+        "pct": "+0.54%",
         "dir": "up"
       }
     ]

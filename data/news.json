@@ -27,28 +27,30 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-04 08:57 HKT",
+      "updated_at": "2026-08-04 11:49 HKT",
       "news": [
         {
-          "title": "深夜，滿屏飄紅：三次救市，成功了一半| 美股",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1nUUlkNE9mWVNXX0xnbkdONThGbVNpb1hGcFk5VzJmUUd6Q0FzTEloUnBGOUdfQVpIUHdhSVItVU1yQVNvY0lmZg?oc=5",
-          "source": "鉅亨號",
-          "published_hkt": "08/04 08:40",
+          "title": "中國銅箔巨頭殺進美股！龍電華鑫估值衝17億美元 成中企IPO回歸試金石",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10MkltcW9IZUEyU0NCbkwzVFN6aGg3T2Z6QjFYcUtteGhSM0VXLVdBMkp2c3RxaDVHOF9fSWZXNHZfTElCUWZ6LXdnTQ?oc=5",
+          "source": "FTNN 新聞網",
+          "published_hkt": "08/04 11:40",
           "related": []
         },
         {
-          "title": "告別「雙重使命」：Warsh時代的宏觀數據該如何解讀？",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RY0RyTERDZFBITml3Z1lSd0lXSjNoWG1wV1U5WkV0V2tnZ05XQjdOZFlnZEVnQkVWZlN0S0dWdFQ4M2txMGVucQ?oc=5",
-          "source": "鉅亨號",
-          "published_hkt": "08/04 08:26",
+          "title": "反向指標釋訊號 美股牛市有望續航",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYZGlIRmJWZlp1UExZYVdCeDV2cllzVDJaVl9LdUhCQ1gybzY4aDZmSlBnZVZWSjJkdk9pdWp0R1VjaW9aNnBuTnJSQ1N1Wmc?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "08/04 11:30",
           "related": []
         },
         {
-          "title": "油價驟降提振市場信心 美股債市齊揚那指勁升逾2%",
-          "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPQkZyTnE4Vi1FakNBTGgyTTE5eDByV2FiVTBWb3JhWlROT0dSSXFPSGZiZFhYODdLRjZhYzY1ZXA5R2NiT202a0dlTGJxV1JoRlc5bGh4SzV1TU5ORW40TXhDTjlFWmo4cUtVaHFKbS1NZEN0UVRIQW81TzVFREpVZDVvYWZVUWxHM19vbjRiMTF6V0oxTE1wOWhjUEFEdVhTdUFrWkVpYnR1U3p6WDBobUM5d3lvT3l1SWhxQWpwcktma1VYZ1NzNko0WW54S0ozd0NYUEc2emVVMnNUUGc1ZEpreW5ydWtXVHhCNjhDWFBqdGF5RW1ZT2FTcHo4anJiY2R6SFlKbU4yNlFOd3JOOFBkQ3VCWXBoeFBMem9XZEpaUzBXeF9qVEh4TU8tX0hsdEc1LWhsTDBBNjM3R2ZUck1zaGpFdWVYX04yVFU2MVVVdDFGSkdIQ0hR?oc=5",
+          "title": "美股三大指數齊揚 標普500逼近歷史新高 油價大跌提振市場",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQc1l1OEJEcmI1NzZUclgwdzZwdndCM0pkczVEX0RKNU5TakpWdHZPU2RxaFBqWUpQNjdNRVZXOUN4UkRsSkM2emVfaV9wdEd4Q3lKYkh4anc2cjl4QTk1SFZGaWJtdFpmVmxXWGxKTTU3MDRNNXdwQ1N4RHc3YzdfQXQ2QjNrRVhrSFVKYnVrenpZNG96bjVXSGpiVWxPYndZcUFqSnVPSHpZSE5hTGRtVXFKRGFFc0ZzNnoyS21JY01lOE5NdmUxNkxnSzVaVEdlb0FRS0QzbUVlWXBRQ2p5TWtRZmVWZ3U2RWtUMXo0WmNXSWFucXc4MmQ1ajhzTjJsMTNueFAzaG1zTUVqZWdwWUJFbTkxam5LcVVUUzZUSERwWElyMzRmYzZfVFk4TjhIRy1URVpuWXFnWjRsWXhYNjNNQ2RJeFhjQmpZb1FBZXpsTjlLd3drNExMRGFla1dYa1JlakJTcVFGNEotQzJTaURONElQdDdnYmVWT0FSb0pPUQ?oc=5",
           "source": "Yahoo股市",
-          "published_hkt": "08/04 08:20",
-          "related": []
+          "published_hkt": "08/04 10:08",
+          "related": [
+            "SPY"
+          ]
         }
       ]
     }
@@ -244,33 +246,33 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-04 08:57 HKT",
+    "updated_at": "2026-08-04 11:49 HKT",
     "news": [
       {
-        "title": "一覺醒來，國際油價重挫7%，美債收益率全線下行，黃金白銀下跌，加密貨幣走低，中國資產走強；川普稱美伊談判分兩階段推進，伊朗否認| 美股",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnVnNUckM5Z0tjNlVQbl9kZzV4aUotckV4eG5rR1hEQWhpMkVzcDVlUnFmUV9RaFZ3WEVQdTV0LXV2S1hoelJ6SA?oc=5",
-        "source": "鉅亨號",
-        "published_hkt": "08/04 08:38",
-        "related": []
+        "title": "美股大漲比特幣無感？盤整6.3萬鎂、以太坊回落1851美元，爆倉2.4億鎂恐慌指數回落",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY0VBdHVpQ1hxU2hMZTlKMnlCb1MwWlJBWW1EMlR5ODNPRFFYd3JIeEFUQllqYWVzYm0tT0ltODcwZ2c1OVE2ZFI4SnFYTkNCVFBBS05hc3JCb3Vlb09kUUc3Nlk3R0dLRjJkRjRKRDMtcEowcFhMWGNLcmxSUndackVwNUlXTmE3UHd2T0F0RDV4OXFLZGtYbElyTDNRMjI0Mi1OTQ?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "08/04 09:35",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
       },
       {
-        "title": "主要加密貨幣行情，比特幣升0.33% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTFNJQXAzZktOQkRKeUZFdEE2WUJmSlNzc0k0WEFOUElibHpobFZ3OG1xM1BnM0JVc25LOTY4dXl4TTFSN0JOdHFPSzBqUjZzN3BXRndaM0JxNS1fVHhQTElUWEdKSkJjUjVZRmlDMWo0NXU1SE9DamZjbmt2M3pmNUFJdkRjcGcyWC1sWjBwTUItWENaYS1oNUJVYTl2MTBk?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "08/04 05:02",
+        "title": "主要加密貨幣行情，比特幣跌0.23% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTVlvS0NQNGlYcmFUZkxNYUdDNFRqOHlKX3ZhY2RzX0JpbzF2LWFMQWoxMDRvOUJFYmVnYmpyY21Xd0JSVTVBQXlVY0dQYVZsY0dmdDNNVnVmLUtHcU5YOHZ1TmpxalpucWJXZzl6OW1uS0d6Tm94bTBGWm12ZndNRXR6TzA2eXQyYWRodnNJc3ZFVHlUNFVRZWh1eFJKTDJT?oc=5",
+        "source": "etnet.com.hk",
+        "published_hkt": "08/04 09:03",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "麗盈聊幣：8.4比特幣（BTC）和以太坊（ETH）最新行情分析",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YVnFTeWZCQnlpV2NZMldUZ0JnQm5ZQkE0ZUFfaFMyalU0QlRSbVdBSXhKZmJ4bUloOWRKSHhlWXNfcjl1WmxPZ1oxMkYxTUp2ZERoa3JxVm5FdEhyU051RGgxT05lQlMyUlRn0gFrQVVfeXFMT1hWcVN5ZkJCeWlXY1kyV1RnQmdCbllCQTRlQV9oUzJqVTRCVFJtV0FJeEpmYnhtSWg5ZEpIeGVZc19yOXVabE9nWjEyRjFNSnZkRGhrcnFWbkV0SHJTTnVEaDFPTmVCUzJSVGc?oc=5",
-        "source": "Bitget",
-        "published_hkt": "08/04 03:08",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
+        "title": "2026年8月2日-3日區塊鏈24小時最新資訊鏈共識（鏈新聞）",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5X3YweDE3WTdvdkhfX2s5WnJTZFNQV1E1WGgwZkZ0LWZvLTRtT0Y3UXZYWmJEWWF4OS10U19SS3RsSFdCU3BvRGUyMA?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "08/04 08:30",
+        "related": []
       }
     ]
   }

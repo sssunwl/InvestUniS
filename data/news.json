@@ -27,7 +27,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-05 11:45 HKT",
+      "updated_at": "2026-08-05 11:55 HKT",
       "news": [
         {
           "title": "Citadel證券：美股7月暴跌不是牛市終結，而是一次「技術性重設」！基本面重掌主導權",
@@ -39,7 +39,7 @@
         {
           "title": "美股剛創新高，卻將撞上最危險的3個月！專家建議別急著清倉，3大理由曝轉機 | 林彥呈 | 財經",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzb2JxUFVCQ1l1dkZmLTNycGd3OTNmS2F2MGJsY2x4STRUNk5pMGliVzR6MXZ5N2h2R2wzazIwWFFseFotQW9TYlNrQ0tvZw?oc=5",
-          "source": "風傳媒",
+          "source": "storm.mg",
           "published_hkt": "08/05 11:24",
           "related": []
         },
@@ -242,7 +242,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-05 11:45 HKT",
+    "updated_at": "2026-08-05 11:55 HKT",
     "news": [
       {
         "title": "主要加密貨幣行情，比特幣跌0.17% | 即時新聞 - 新聞",
@@ -256,7 +256,7 @@
       {
         "title": "區塊鏈重點動態2026年8月5日早參考",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6Mzh0UjJrQWF6Y0tCc2xfcmVmSndUd0FUUk1kN05zV3pMeDZMcXdiX0hqaHFsYzRrV0tpdGZIWTNDYmpFWWREOHVmWQ?oc=5",
-        "source": "cnyes.com",
+        "source": "鉅亨網",
         "published_hkt": "08/05 10:00",
         "related": []
       },

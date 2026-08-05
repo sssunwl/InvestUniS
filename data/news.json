@@ -87,31 +87,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-05 17:28 HKT",
+      "updated_at": "2026-08-05 18:57 HKT",
       "news": [
+        {
+          "title": "【港股收市】恒指升62點 AI股買盤勁 壁仞飆近13%",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tenN1UWx1Y1BQVjFFR3dLUFFzR0I0NUkxd3dCV0h0MUwwRU9EQUUxT0NaX2oxZlhCUlV3d2F0Tl9QZVVlVHNBMkU0Nkt6X3M5LWVBbS15amJoYVhnNlRDSGtWVXlOekxGbVo0QU1R?oc=5",
+          "source": "Now 新聞",
+          "published_hkt": "08/05 17:46",
+          "related": [
+            "^HSI"
+          ]
+        },
+        {
+          "title": "【港股收市】恒指升62點 AI股買盤勁 壁仞飆近13%",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yZG02Y1BWb0ZyaVk1aVJuWmtwMlFWM2pkV0hpREw5RXRxRFV3R0Z3ME1oRjlpRFRXLTBMNVdGbWx1M0tadHZlLWpZWnRZTWMzODZDOTV1VjdTbWs?oc=5",
+          "source": "Now 財經",
+          "published_hkt": "08/05 17:26",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "恒指走勢丨全日升62點北水走資 滙控再跌2.6%藍籌最傷",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tUU9VTlhNWkYzR2djRFE2X1l6LV82Y1M3WjJHS0VPSS05U01WWFVkTWx3R1k5T3pNRVFkX1drcDVzai1iZ25TQVhZU1ZidGtYYXd3NjFCSXNsOFJrUC1OSndOdU1ZVDhBVGUzX2RFUQ?oc=5",
-          "source": "信報網站",
+          "source": "hkej.com",
           "published_hkt": "08/05 16:49",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "恒指升62點 滙控跌2.6% 中際旭創挫半成",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS1BIUEFnN1RkZFAwdm1KaXZHbDdCVFhZTERsM2FiREVxUGlIb28xLXpac0xmNl91QXdvWmt5R0kwNjZ3YXUwanJTcHR5LVZsSDlHWHUyaGRWeVUtZk1JTHFWWURyS19BeDZVTGRPOW9zLUg2Z3VvR25UMVFQV0pXNUJ3ejI4dDlTcTNj?oc=5",
-          "source": "hk.on.cc",
-          "published_hkt": "08/05 16:34",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "恒指受制兩萬六 滙控偏軟 中際旭創續挫",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQam12eEhCTkZTZXpsajRzZWFiSWxUZlNzblJhZmZlQWpmTkVReUJqX2NHLTIxRG9QN3NvcGwxNVJ2OW5PbG00cnQ0WWl5YmN2WW1iWnliemdTb0xiQzcyQXhnbVc3WFpWZVVGLU84UE9XTDZuNUJrVUtIVV9wZDJBZ2pQbHFXZw?oc=5",
-          "source": "hk.on.cc",
-          "published_hkt": "08/05 14:07",
           "related": [
             "^HSI"
           ]
@@ -149,8 +149,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-05 17:28 HKT",
+      "updated_at": "2026-08-05 18:57 HKT",
       "news": [
+        {
+          "title": "外資買超903億史上第三大！台積電、聯發科領軍衝 台股收復4.4萬",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvOTZwSUJSd0NPSV9QZjcxNVpFOXlrNFRXRHdEUFhKOW1Wc2J5algtZTJrTUNxbUZNOEdadGJSLVFOV0lzTTF4TmJxQ3U5MUV0Ymh4cXI4NFR2UHR0WG5QbzNGVDE?oc=5",
+          "source": "民報",
+          "published_hkt": "08/05 18:47",
+          "related": [
+            "TSM"
+          ]
+        },
         {
           "title": "台股報復性反攻！狂飆1251點、4萬5只差一步 台積電重返2400元 | 太報",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CYUgzQmZ4dkszamJwN2M5VzJYdElPdmlUUnU2QUlVdHVZUWQ2cHR5ZnhaWEx1Q3ZQSmtjY3BXQVlva09YYjR2UlBSVG5zM2FPX21ybWhR?oc=5",
@@ -165,13 +174,6 @@
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QZEJsRW9OY3dOejVNQlM5M1FSZUduWlRNQmFIT1U0czlwTDN1WnppcHlOSktLX2xpUmM2V01ZekQycFBacVNEeE52UERHTTVrdnc1Z2JOR2tEeXJRR3RxVUs4bUNqVUtmZWF5UURwUzduaUxuU2JhV1BR?oc=5",
           "source": "華冠投顧",
           "published_hkt": "08/05 15:36",
-          "related": []
-        },
-        {
-          "title": "台股高收近3%",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVGpUaV9lR1c5bmxoa1MyOWpaci12Vjc2RWVEN285ZlpVNTFkNzZwQWthbE01blU5UVMwLW9xb3VrMmM4VWFTRzNkaDk3V0ozZnRSUXcwOE5Gek1rNVlSQjM3V2RkcVZVRkQ0ZWxGSEU2Q0JIbXlWYm5XS21VV2VqSDZzZDZGa3c?oc=5",
-          "source": "香港電台新聞網",
-          "published_hkt": "08/05 14:40",
           "related": []
         }
       ]
@@ -211,44 +213,44 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-05 17:28 HKT",
+      "updated_at": "2026-08-05 18:57 HKT",
       "news": [
         {
-          "title": "企業級應用營收與自由現金流（FCF）的驗證",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85V2tEQ1g1SjZBMzFEY1BmSXBpeG11Q0dQR0NaM0hJV01KYW4xeW9OVk0yODhDY0dra0oxd3ozTzhsVDlnNFJabUFEdDJ6eGVPMXc?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "08/05 16:10",
+          "title": "《日股》AI、半導體領漲，日經收漲3.66%",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU3BUekNLYWJOaWtxOWg1ZTdHd19vNFB4bjd5RDdMaTNIWEVjQkFDVTJWOEZnSk5FVldwTkJLLVVIejZkT09laXIxbVZmZi1IUV9WNU5IRkVLalI0MzJEWGliSEQ3M05rZzZmQUQ5MDhZdWxrQ0F2enR5NXc3M1EwclJWbkFlS3pRcU56MlUxVW9fMUoxTFppaUdqNmc?oc=5",
+          "source": "台視全球資訊網",
+          "published_hkt": "08/05 18:36",
+          "related": [
+            "^N225"
+          ]
+        },
+        {
+          "title": "日股狂飆逾2300點！AI、半導體股領軍 日經收漲3.66%",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81OGtTZ3h5VFhmZDdka2ROVmJIRWgyZktSRGNHNVlUeDFhbGg1Q2NFTENHMlJOcjdhajZ4aHk1eDBMa2RZLS1ObzFnUExNOFJ3Tlh3aA?oc=5",
+          "source": "新頭條",
+          "published_hkt": "08/05 18:15",
+          "related": [
+            "^N225"
+          ]
+        },
+        {
+          "title": "影音／韓健身網紅股票慘賠千萬台幣！政府2招打炒股 交易量跌3個月新低",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oalowdlpHcjNHYm1ra1ppTHk1NzdHNjNuaHg1RUhsbmRFSkoxLTFmMXZObkI4Vk04c1MyRkhUNEdudlFvTG12TVdWcnlnVFE?oc=5",
+          "source": "TVBS新聞網",
+          "published_hkt": "08/05 18:09",
           "related": []
-        },
-        {
-          "title": "AI題材買氣回溫 日股勁揚日經大漲3.66%",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQREFJV2FncDBEOFZnWTJBWUNnb0NZcEVrRi1EQ0k4SUxsbmExa3dhZThTMk0wbDlOYzYtSy1NemstalNBYl9nblBmY2JlQWM0NVEtTm14cDA2QUhvRXJPXzhDbUZsU01EU3l0Y3hjNGtaaWtWZDVmUmQ1cTM1TGFxdw?oc=5",
-          "source": "udn",
-          "published_hkt": "08/05 15:37",
-          "related": [
-            "^N225"
-          ]
-        },
-        {
-          "title": "AI題材買氣回溫　日股勁揚日經大漲3.66%",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lOTlUaTdjcVYwQ2dTQ3B6V0VaRXR3bkQ5Nlhfel9ETE14M2wtNXI4elRwS0pLYmdHZlJBMXRvM0RSSHpCajVKcm9oaXZMUjVLVWJIeGVnQllYVWpQUkhv0gFfQVVfeXFMTmU5OVRpN2NxVjBDZ1NDcHpXRVpFdHduRDk2WF96X0RMTXgzbC01cjh6VHBLSktiZ0dmUkExdG8zRFJIekJqNUpyb2hpdkxSNUtVYkh4ZWdCWVhValBSSG8?oc=5",
-          "source": "經濟日報",
-          "published_hkt": "08/05 15:31",
-          "related": [
-            "^N225"
-          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-08-05 17:28 HKT",
+    "updated_at": "2026-08-05 18:57 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣升0.34% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbzRLbnJQa3ZsVEhFVE1hMWNaR3Y2S1dXZkp3MkZpa0NEOXNkRGw0dFVtbDE4eTctc2VNSElUeDRCLTZycnNmSFdweFRoRGN6Sll2NWl5VlFTNlhpS1prWUhCcjJDRmFXazJJeHBNRkR6dXl2cmQ4NnJpaHhPWFN4Z3BfQVYwTVEwWEhhTGJ2NkJwQkFGblFiUVppZXZaeElN?oc=5",
-        "source": "etnet.com.hk",
-        "published_hkt": "08/05 17:01",
+        "title": "主要加密貨幣行情，比特幣升0.13% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNHJMX3o3NG5HamxRakZ2LXFUdTdqd1VBb09mNktnYjZnWk5TcHI2b3pOY094M3E1V0VLRDdwdldfdGdQdVlJMVE4bGJGRXBUOGhieTFEM3B6VG81a1FUT1ExOGhGUE1KMmpiMzdmVTdCODBpQ2VxUXBzaU12bDFIelFsUlEtQ2RSSlI0TkEza3JvLTlYd0Rqck85cTZ0bHdr?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "08/05 16:02",
         "related": [
           "BTC"
         ]
@@ -263,14 +265,11 @@
         ]
       },
       {
-        "title": "前三大價格預測：比特幣、以太坊、瑞波幣 – BTC瞄準突破，ETH盤整，XRP尋獲穩定",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSUF6WkpRcmpUZ2p6Y1pabV9YdHFRQUNvZ0JDbzJWTjIxQXhudFFIdTZJU09yVXhEM3dxcG0tWmozVWk1NEpkOFBXc25uUk0xZWlVWmhVamMtbmVkU1JOOU1LSUNNb2hqQTJiM1ZHT1NqcUZvd19NdzJPeUd5VFBEWDBIcnN0TlZGUlV4NHVlTTYyZllINlBSMVZIMVJaTnVkdTlEUV9aZE53OXdhcmFLYXNkZWFfd1IxOVd2RHQxNXVFa21hQ19rYzZGMl9kUjN2aGpiX2ZQLTZ6TV9yVVhySVhEbHhidXhHSUJmQUJXeHF0enozZ1RqdXcwTGpQQ03SAf8BQVVfeXFMT0lBelpKUXJqVGdqemNaWm1fWHRxUUFDb2dCQ28yVk4yMUF4bnRRSHU2SVNPclV4RDN3cXBtLVpqM1VpNTRKZDhQV3NublJNMWVpVVpoVWpjLW5lZFNSTjlNS0lDTW9oakEyYjNWR09TanFGb3dfTXcyT3lHeVRQRFgwSHJzdE5WRlJVeDR1ZU02MmZZSDZQUjFWSDFSWk51ZHU5RFFfWmROdzl3YXJhS2FzZGVhX3dSMTlXdkR0MTV1RWttYUNfa2M2RjJfZFIzdmhqYl9mUC02ek1fclVYcklYRGx4YnV4R0lCZkFCV3hxdHp6M2dUanV3MExqUENN?oc=5",
+        "title": "Cardano受限於0.20美元，面臨15%的下行風險",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPampCczl5R04wUHFEa1pUQm1lUDMtQTMxQlZORGJNbWZpaUhfaHU4alQ1a1UybHVTWlF3YXN2VlRNemtOQlJJdm5XOHlMS3BwbXhVMmhpZF9zLXBjVjl2bFZZSWIwN2kycXBQNGRCOWVockxLNFV5Vmc2cThQR2lSdUdOLU9EQXhzNXJ1cHd1eHJycEdwaGxpcGdIcWhvTUZOU1dtTHVreUtrNW5OQUYyeF9XN0hGT1ExcUg1MFRFWnFHbG5LTTVScGdCNldtTW9kOVVPTGUxONIB1wFBVV95cUxPampCczl5R04wUHFEa1pUQm1lUDMtQTMxQlZORGJNbWZpaUhfaHU4alQ1a1UybHVTWlF3YXN2VlRNemtOQlJJdm5XOHlMS3BwbXhVMmhpZF9zLXBjVjl2bFZZSWIwN2kycXBQNGRCOWVockxLNFV5Vmc2cThQR2lSdUdOLU9EQXhzNXJ1cHd1eHJycEdwaGxpcGdIcWhvTUZOU1dtTHVreUtrNW5OQUYyeF9XN0hGT1ExcUg1MFRFWnFHbG5LTTVScGdCNldtTW9kOVVPTGUxOA?oc=5",
         "source": "FXStreet",
-        "published_hkt": "08/05 11:46",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
+        "published_hkt": "08/05 14:17",
+        "related": []
       }
     ]
   }

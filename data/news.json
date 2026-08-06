@@ -27,29 +27,27 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-06 08:14 HKT",
+      "updated_at": "2026-08-06 11:50 HKT",
       "news": [
         {
-          "title": "標普500創新高！《大賣空》原型示警：美股恐重演1987年股災 | CTWANT",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00bmlTOFN0OWtiYVhOMWtUNVlPUGVVdTluN29XRElrUHVYeUY5ZzM4N0txeWZaQjNkY245eGR5UEdiTm9renUzZW1wM0dXZ0pQWXlLRTRR?oc=5",
-          "source": "LINE TODAY",
-          "published_hkt": "08/06 07:42",
-          "related": [
-            "SPY"
-          ]
-        },
-        {
-          "title": "AI熱潮早已見頂？「估值教父」警告：真正危險的不是七巨頭而是「這類」AI股票",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0dnRaSVo3NXB1QVZDZFVIekU4d2E3LXFDVm5qcHh1a3pIS0NGSjRPaDdzd3JvTTZ1NENwanE5NTVLSzFIYVhaaHRqeVpjRkk?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "08/06 06:40",
+          "title": "盤中觀察：晶片股逢高回吐與美股回檔拖累 亞股行情分化：日韓港整理、台股急跌後回穩",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jY2lmQURXbjkzOFhYdFpLS0hrR2NPdmNXSTRxZmtYSkhaajYwREhNQjEzQS1sVjZOMDJwV0laTWItUTZEVy1JLWdGWEE0Xzk4QVE?oc=5",
+          "source": "蕃新聞",
+          "published_hkt": "08/06 11:16",
           "related": []
         },
         {
-          "title": "美股漲跌互見 SpaceX市值蒸發2250億美元 | NOWNEWS今日新聞",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4bU9sOHdNSXAtM0ljNTRYcS1NOTJFWEJCQ2wyb1Yyal91NFg5dnJXMUFnbWRraEpfd1BONFpSNDZqbXJvR1ZsQk1yakF5WjhQZmlwTThB?oc=5",
-          "source": "LINE TODAY",
-          "published_hkt": "08/06 06:36",
+          "title": "《美股》分析：地緣政治因素退位市場關注企業基本面- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBveTY1RlkwN0FuLUNfendpTURpU1ExVFdrZmNkcHFUWDN3eVlsQUw5am40Sm80NkVfWlRmQ25DaXh4WDZvcXFJVTR1ZGFRWHBEejctNlJabVQwS0Z5VzRJ?oc=5",
+          "source": "工商時報",
+          "published_hkt": "08/06 10:23",
+          "related": []
+        },
+        {
+          "title": "美股丨沽神布瑞:已近重大頂部 或現1987年式大冧市 美國大選選情追蹤 - 專題",
+          "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPUVJVNllCZDNHQ3NNSm1BQTJWN0J2QUp4YkdwbDYwQTlrNUt4VTFIcWNyOU56cDl6ajFqbHVwMUNvRF9MeTNEX3hWZFZZcnFzaTl1ek53UjZ1akdvYXFJM2V2YWlXZ3dJVzJmTzRzQnRwVFg3elBlR3poZXh3dkctTVo2dG0wMndRbExsbi1nOEIzbjZpM0I1bFkyeDJORm1lRjZVa1l5UGlMSTZVanA0V2piUG9oNW1XZDRRY1QzeGdRSnJ2MWlfSFBuNGtmMEtLbXl6YWNZWG1SMWFPTXVMQTNONzJZbk53UEdqNm44cjBLMUVRWnhBSnktbDVrRjRBMVRTLTU5M0kzbkZiVnhEaWZMbHhYSWg2R3lDQjh1VTZYWFllRXp6cXhGV0diY0tMV1Q4Ymk2V0syd2VhX1JtbWtuYXZpazNmVXZlQmRJWXE0RlFvMEhWUU5zNmkybGxMdFJtcWswQlJuOWNSQ1huc0hIUHpoWkIycmlrS3Z1TXNaV3lJMGVTZUNJd0kyZUpKeDZ3OTF3aVMzdVVlbDVWcDdLTDZ1ZjJVS1FrMzVmc1dZNWVyUXNB?oc=5",
+          "source": "信報網站",
+          "published_hkt": "08/06 09:18",
           "related": []
         }
       ]
@@ -244,29 +242,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-06 08:14 HKT",
+    "updated_at": "2026-08-06 11:50 HKT",
     "news": [
       {
-        "title": "俄羅斯實施全面加密貨幣新規 禁國內交易卻開國際貿易大門",
-        "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPNnBJUDlNS0R3a1VPdHVxdE5SaXJqZnlaQklWOXdURjA3cWNXWjF3TVZUR25CQWRKVnp0aFJBQXNlMTJWRkhLZDVFdFlGOE1kMUJSU0FzNE9zT0RJSmpad1AzdzdIYVhBLUNCMXVpbVQ1YWJrVzR6V1FpWGo1VnBpSkdHN0d6WGJkUS1tNXZ6ZWpWcnFGcm1KMWlJcEJGZUJjN1hEZHlWWVhqakpOS3RtOVo3LVRkSVFsT2QyN0d1ck9QbV9QUVhyYUF0OGVyNjUwODlYejNaRVJJdWFDU1htZTJKZW1YTndDZFdacGtoRk5pTmxuU3lXRk5Mc1JDR1duMHNpcmxjWnpOaUUwYU1ydGdKa3ZGTjRWSV9xc05LSTlONDE5V3RtdDZ6eEZxaGhiX29QaW5PSHJmb3dRNFhpTDhWeUJMM1RuZ2dsUWFZMlJHZFpBY3otRTlacDduQkJodEFJLUYyQS1NeWt5eF90WHRzaXVqMlJ4M2NXRkpKQkZDWS1UX0dSWVFadWpCYlJGY20w?oc=5",
-        "source": "商傳媒",
-        "published_hkt": "08/06 07:42",
+        "title": "區塊鏈重點動態2026年8月6日早參考",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90R3c0VEp1eDRTbnpzeXJpank4SmZaS3B5NXd6YWFyNVRuOThJdjJBc3dFcFc0OEZ6RG14WkZzcldad2R6cFVhWEVmQzhQa1k?oc=5",
+        "source": "news.cnyes.com",
+        "published_hkt": "08/06 11:00",
         "related": []
       },
       {
-        "title": "主要加密貨幣行情，比特幣升1.12% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY2ZXM2VyLVQ4N1R1X2xnLVdKcXBuMENPa2I5b2p2OVpoTVMybWFRX0VCUzNMNzF2VVF3cTFSY1lzVHhDUnpCMzhhM1BVVVQ3VWhRM18tdC1LOUl4dUZWRnFCSGpWWG5xMjg5Mmpib2F4c0gzaEV6T0FjQmE5SVRTZ2hNT3BoQ0lZRkczaUIzTHMtSGtXNEJSUmo1ejFyWHl6?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "08/06 05:03",
+        "title": "比特幣回穩 6.4 萬、以太坊站上 1910！爆倉 2.5 億鎂、恐慌指數續回落",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNck5jSnpoTk43Y2d5RlpKT01aV2VYSFBsN2EyN1dPSHFyT0NqTkdZSDN0dXZLMndZYTRDUW1laWRzWFJDVXcydTVLVnYzTWtqVEF0cXFVQWJQT3FzaFJLcjhmYnFzRHBmZzVLbTJuOVJ0RERiWmxDNFdDZTVVXzk0aF91UzdQVGlKMnQ0?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "08/06 09:21",
         "related": [
-          "BTC"
+          "BTC",
+          "ETH"
         ]
       },
       {
-        "title": "黃金與比特幣價格預測：在市場寄望荷莫茲海峽協議之際，突破動能正在增強",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWnpvWktpLU9qUmR5U3VaaWdDbEJ0c3RCVnNxc1JsWXFUTUU3R2h4MzdqWnRvVXh2bFB6cmcydlJOT081RFF6azBkajAxNVhoRjEtdXhYRy1maUdqeVJVRzM1QjBPZVR2SEdoRXRaOTNhWWJrbnprdUtKZ2FWTEpBUFRwWm9qNnQzUmZURXJNRmVlSXRuNnFVUmZ4ZWpHNVBrSmN5NEVFeG5ETkY4QXFCTDVOUWh0TWZqQU9mV0hoTkZaeFo5VXpDLVVwZWZFSlBCRWpuV05Fa1pabE44T0ZkdHdfNE5xM3BmWHZr?oc=5",
-        "source": "TMGM trading",
-        "published_hkt": "08/06 04:49",
+        "title": "主要加密貨幣行情，比特幣跌0.05% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzAwTEg3cmVkOHBEeEtnWjBHM3ZLSlRTSnl2X3RydWd4RkxMUFl1MXFxRGZOelo0Y0R1d0hzZEJCYXZDUkRvTVQ5WnpIM0dyR1lpV2dWbnQwdWVmZm1UVmxXeDBPeVJRZlRPVkpxT2tvTkZ0VGFxYzU0b3BVQmtVOGtWYU94LXU0R3FoemhybkZOelpxLVJwMnFDb3pVVVc3?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "08/06 09:02",
         "related": [
           "BTC"
         ]

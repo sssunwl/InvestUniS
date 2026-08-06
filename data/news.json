@@ -87,12 +87,21 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-06 16:45 HKT",
+      "updated_at": "2026-08-06 17:33 HKT",
       "news": [
+        {
+          "title": "恒指走勢丨埋單跌385點再失牛熊線及10天線 友邦插6%",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxNWpXVnoyZjlKb2V0OHRUeFJwMEZSMkc1MGlHOUxLNjlHeVNXeGpFR25vY2t6Uy1qM1dWcXFvclBmRW12WnFHbEt2M0tmZFg1UEJrRmpPOTYzWnRsZlNNeUFlVjVJaTFaUlUxbzZHVQ?oc=5",
+          "source": "信報網站",
+          "published_hkt": "08/06 16:47",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "恒指跌幅收窄至385點 友邦跌近6%",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95Nkp0ZmNIWU1QX1JUX1NQZElvX2hFamREODRLSzhMZ245VjNqN1dmNXNod1pNX1RhM0Z1enBDZ3NkSmRaN2RoTXZWRmFJVUhibVFQTzJfVWN5ZmJPWVRiZzhTVzlnM0RDeF9iU09uYw?oc=5",
-          "source": "news.rthk.hk",
+          "source": "香港電台新聞網",
           "published_hkt": "08/06 16:35",
           "related": [
             "^HSI"
@@ -103,15 +112,6 @@
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWcmhGZlJENnF0VkxkQVpfVmt2SjF0RnJlTGVPdHhqTEtVZ1c0ZmFLM2NOM0FFdmJNTTM2b05GRThTTzA3dk92LXhvRWdzdmM?oc=5",
           "source": "news.cnyes.com",
           "published_hkt": "08/06 16:33",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "港股收評：恒指低開低走跌1.49%",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BOUluRWVEMDB6ZWFUUGE2bzF5YlpVZzRuT1hUZ1pVN3lpODNuYUprRXJlSlFoYTZXMEE0cGc3NUdNb3k3YzBybWZXcFRGOFJUSW1Nc2ZqazZHeVBRb3RJQ1J2aTdRNXRGbDF1ZnRTQ0JwOE1iTGM4Y3ZaUQ?oc=5",
-          "source": "香港商报",
-          "published_hkt": "08/06 16:25",
           "related": [
             "^HSI"
           ]
@@ -149,15 +149,8 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-06 16:45 HKT",
+      "updated_at": "2026-08-06 17:33 HKT",
       "news": [
-        {
-          "title": "AI高峰獲利結算與資產重組",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvWW9PMFBXZ2pQQ2cwYlpoUmZEUDllaTJSUG5fb2tJb05BLVZENUVrVGgtVG1kSWQ2OHhYTm5HMjhsZ0xjQ2Q1TXVNMHo3SE5iVUE?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "08/06 16:03",
-          "related": []
-        },
         {
           "title": "台股震盪收跌214點仍季線有守外資、投信連二日站買方| Newtalk",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZWUxheDJNN0dwVXl5a2M2b0NCeW5WZG9QM29RN0toVUduMzhkOGxfOEwwU2FOblV2RnNyLWZaRmEybkFzdE85c1Z1TFhlVGNDZV8temtB?oc=5",
@@ -168,9 +161,18 @@
         {
           "title": "台股收市跌約0.5%",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vMTV4Um91NzU1NjNyeEJsbERGYWc0M19QcE5RUkJBY0Y5c3V5dVlEUnN3dnJoRGNWSUpPd2dzN0VnZURBdmhyTGViZlFzcktZczkzN2NxOHczV05wSmJqNkdOVjNOelNldTFnemFSZw?oc=5",
-          "source": "news.rthk.hk",
+          "source": "香港電台新聞網",
           "published_hkt": "08/06 14:23",
           "related": []
+        },
+        {
+          "title": "台股收盤／台積電跌40元走弱！大盤收黑214點 櫃買逆勢漲近2%",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tV01ONmNBR3ktbjQxc3M1ZG1NTEtHU1FkMzdBdElVQmVwUDVjT21oNDBtZnVUVThrUHBkQnBFRkJLdTR3aWs2anFaZw?oc=5",
+          "source": "三立新聞",
+          "published_hkt": "08/06 13:57",
+          "related": [
+            "TSM"
+          ]
         }
       ]
     }
@@ -203,8 +205,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-06 16:45 HKT",
+      "updated_at": "2026-08-06 17:33 HKT",
       "news": [
+        {
+          "title": "《台股盤後》量縮收跌214點，季線失而復得| MoneyDJ理財網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iX3Q1WVJiMk01Zy1LczRwY05FcWtmTGVyQWtnUWRfUkVUZ1A5LUJodF80WFhWR1BTWVQzWUpCQ2NSdzdFMk1Qa0pLdVh1NDhGb1B6T3JB?oc=5",
+          "source": "LINE TODAY",
+          "published_hkt": "08/06 16:24",
+          "related": []
+        },
         {
           "title": "AI高峰獲利結算與資產重組",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvWW9PMFBXZ2pQQ2cwYlpoUmZEUDllaTJSUG5fb2tJb05BLVZENUVrVGgtVG1kSWQ2OHhYTm5HMjhsZ0xjQ2Q1TXVNMHo3SE5iVUE?oc=5",
@@ -218,25 +227,18 @@
           "source": "點新聞",
           "published_hkt": "08/06 15:59",
           "related": []
-        },
-        {
-          "title": "AI獲利疑慮再起　亞股早盤科技股領跌多數走低",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdDhnWEliUnBFdkRCT29HWVhfNGhuZGJsbm5pVFBvWUpnMWJHNHVzSW1HVWI1TTNZOFNMRmdqYkhOQUh3bjB0bEpSbkVvZ1o2bll3WHk3cFczMVVialRSS1NIWmpqMVE2b3RyRTF1M1l2X0VTeEZMZE03MHZ4V2RoWnBqOEFaWEx3V1FMZHFUZHfSAV9BVV95cUxQRnhteHlGTnRfYjhnY3dycHFjbElOT1R3R1RxMURfRlZnVE1nSkxic0NkQ2FDT0l4YkFXdXpsekt5b1IzdWpRdjd6UG01eFV4cTRKWFhUaFEwWDRveG5YMA?oc=5",
-          "source": "經濟日報",
-          "published_hkt": "08/06 13:08",
-          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-08-06 16:45 HKT",
+    "updated_at": "2026-08-06 17:33 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣升0.27% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVVhEcDRMcUZuSExQVVRRREZYUjczLTRqazF1bWt1WmxvTDZoa3NKcGUxX1dmckdrOGN2RVdCbTVLMjdFTGhFSEFoR1lBTXc2WUhqQ2h3dEpqSTJUQU5tZkg0alN0cjVaOGp3U0cyd3lrWDRkaTM5UU0xN1M4blJ5TEVWb2ktLVljOTM2RTR6NWVhUU9DOVJEa3FudTFTTTVa?oc=5",
-        "source": "etnet.com.hk",
-        "published_hkt": "08/06 16:02",
+        "title": "主要加密貨幣行情，比特幣升0.33% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2RWcHlzbi1IRzk4dklOaG1jazRqOUNPTlg3Q3NGbzRhOGUxN09kekpELTQ1TDQyYzhFTFprSWZ2NHdrQjFVd2w5YXY0NjMtYUhKLUhleHJXRUYtaktpWFZ3ZE01TjF2eVFZVXRxN0huR3hZTGtucS1mVnNGcGZjbmc4b2VweDc3cGQycTR0QnFQVHJtRjZpOWFXZkNBNmRv?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "08/06 14:02",
         "related": [
           "BTC"
         ]

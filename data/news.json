@@ -27,7 +27,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-06 11:50 HKT",
+      "updated_at": "2026-08-06 12:07 HKT",
       "news": [
         {
           "title": "盤中觀察：晶片股逢高回吐與美股回檔拖累 亞股行情分化：日韓港整理、台股急跌後回穩",
@@ -242,7 +242,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-06 11:50 HKT",
+    "updated_at": "2026-08-06 12:07 HKT",
     "news": [
       {
         "title": "區塊鏈重點動態2026年8月6日早參考",
@@ -262,13 +262,11 @@
         ]
       },
       {
-        "title": "主要加密貨幣行情，比特幣跌0.05% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzAwTEg3cmVkOHBEeEtnWjBHM3ZLSlRTSnl2X3RydWd4RkxMUFl1MXFxRGZOelo0Y0R1d0hzZEJCYXZDUkRvTVQ5WnpIM0dyR1lpV2dWbnQwdWVmZm1UVmxXeDBPeVJRZlRPVkpxT2tvTkZ0VGFxYzU0b3BVQmtVOGtWYU94LXU0R3FoemhybkZOelpxLVJwMnFDb3pVVVc3?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "08/06 09:02",
-        "related": [
-          "BTC"
-        ]
+        "title": "俄羅斯實施全面加密貨幣新規 禁國內交易卻開國際貿易大門",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tWEVTUEtpalZpRk5XQlVEdjRybDViR2R4Y3BzcENUVktoME8xajJUYktsWmRGRGpfMDAxRTNDY2VGOXRJZWotSjBPTjdrNUladnc?oc=5",
+        "source": "蕃新聞",
+        "published_hkt": "08/06 07:42",
+        "related": []
       }
     ]
   }

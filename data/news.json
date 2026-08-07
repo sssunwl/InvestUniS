@@ -151,30 +151,30 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-06 18:58 HKT",
+      "updated_at": "2026-08-07 15:24 HKT",
       "news": [
         {
-          "title": "台股6日隨美股回檔44000點面臨考驗 光寶科逆勢反彈上漲2%",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Rdk5GV21WUkdWcGpzdmtULUtCVlZyY3hUSzdkVWc3S212SDhzYVN2NHp0RWhrbEI5NXdiaWlOaWpzejBpcmdETU1ITFFiZEdqQWc?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "08/06 18:16",
+          "title": "台股7日不敵賣壓季線再度失守 長榮航買盤積極股價逆勢收漲2.66%",
+          "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOQTdaTFQ0dHVpb25NbGpLMU1pV29QS3E3X1FYSTRtTGVCbGZVQWFKVjc1N1prVGl2UlZsVWZzV2YxRWZXZndGbHVNbi1kZzJuZ295M3ctMnJoUnFfV3hhejFLUVRmMGZ2eWYxXzlWekp1VmFUSXdnR3ZHQmhzd292N185bDB3NUhhYVBkalNhVUdjLTRtZHJCaEhmanQ0ODUxTnhuZTJtYXZXeGVXVnNtOGs4NGZnc3daeWtxWElmZzBrSGo4ckZ4c3lnc0JEamVXSkNiYjZMNUdmQ0NmcDVCdEtNemUtSHJzQldDelRpZ2JNVW5IRFl1SVZFS0ZzNUF6bmVtenFQWEN2cTF5eVhmZndUWWUtUHM0VmhfMm5lRE5teGxBdlo0cmIzVG0zYnRjWFliQVpVYmZaTFFDcTlyeDRWaEw5X3l6dl9ZTkcweDBHNHdsU0I4WWpCNGJFY1ZjVmxFT0dyVGd5dVo1akhNYVF3UzFycDEzT3ZyRlMxYW9IU0tWdmNkVFVsNDJ1NGFLQjVfVFR3?oc=5",
+          "source": "台灣好新聞",
+          "published_hkt": "08/07 15:00",
           "related": []
         },
         {
-          "title": "0806台股盤後｜營收創高模範生【聯電、穩懋、威剛】加權指數站穩均線守季線！AI概念股爆發 記憶體與散熱強勢上攻",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HRS1VMkFyVTBQWm9mc2JiaXJrTHF6Nm5DNDEya3ljdkwyQl9udWNjOUVzdE5Ud1FDbEtWT1R2d1BlSU9CZU1CMkhIWnZ5T0k?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "08/06 18:14",
+          "title": "台股開高走低！收跌170點守住4.4萬 - 財經新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMWlkNGl5YnhrUVQwdlZ4bE9uTVM4VUxsQVlZc2xhcW9PRE9oYnBoOG0wQjBpd0p5QU1BWlpSTUtxRTVBVlJ6d2dsenVodGxRY2tKRjFpU1VCR3c2NkhZdVBLVGJNZ0pvZ1F5NUhoWXFoWTI1WXpxVmg0YzBlT0tkN0JUSFZReDktdXZR?oc=5",
+          "source": "PChome Online 新聞",
+          "published_hkt": "08/07 13:54",
+          "related": []
+        },
+        {
+          "title": "台股收盤／台積電小紅獨撐！台股跌170點 中小股殺聲隆隆",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GLXBadlA5OE1UZlRZclFjZzJSSkF5WGM1bEgwTGJWT2lBX2JOaTVuUkpza2ZpMG90T3p0ZllrT0o2RWczZzlVQjh4Yw?oc=5",
+          "source": "三立新聞",
+          "published_hkt": "08/07 13:50",
           "related": [
-            "^TWII"
+            "TSM"
           ]
-        },
-        {
-          "title": "台股震盪4萬5關前卻步 資金急湧「這板塊」當避風港",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YcWRkT3pLX29KNVUtNVU0aEFsZEFVaHRPcEJVdU05YTJiUXBlTU1zdGw5NlZjTWJXbElSanZlSm9fWnBvd1RpdnVyOXc0NnlQcWtKSGRsNjEzb000MEtVXzJPd2RzOVE1dTRqQU5rc3BMS0k?oc=5",
-          "source": "民報",
-          "published_hkt": "08/06 18:12",
-          "related": []
         }
       ]
     }
@@ -207,37 +207,55 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-06 18:58 HKT",
+      "updated_at": "2026-08-07 15:24 HKT",
       "news": [
         {
-          "title": "《日股》AI/半導體股見賣壓 日經收跌0.93%",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNengtX2Zja2hEZkt1UUZ4anJqQXpQX20yc3JOcFVBdTNkZFRWZEpSVGxvb1pMekdXZG8yWElBaTRjeW9mM0p5Q29ZQVE1ODJEVG95SWV0MTI1Z3hUMHdjaEVCeWwzajFGQVlEbHV2bTRDelNPRkdMcHNySmRBY2ZEY3M1MTVBNW9QcC1xN3I2dm9yNzB2U0NvMnd3Y2s2QlNHd0VwRVI3dFdfUk0?oc=5",
-          "source": "台視全球資訊網",
-          "published_hkt": "08/06 18:21",
+          "title": "日韓股市皆熄火！日經一度跌逾1000點 韓股開高走低翻黑",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOVzRlNXJDeDhZcTl3YWtCT2hYTzM1c3laVHRKdXlGRTR0R1lWV29obFh2UHh2U3VPQjcxeGRvOU9lRVh1S0M5Ni1aV0lIdFU?oc=5",
+          "source": "TVBS新聞網",
+          "published_hkt": "08/07 13:19",
           "related": [
             "^N225"
           ]
         },
         {
-          "title": "【美股盤前】勞動數據今晚登場，科技股能撐住估值嗎？（2026.08.06）",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeXNERkVqRmtMMkVjSjhmWUJyajVZZ1RIOWRMRldXZkNHVHNMZDNhWmpXWlI1clhqNkxYZ3p6Uzc2OGJFMG5NUlJBM2VOSG5zcE9JckVGLTU2WHpqUGNubWd2dlRteDc2d0gzUEtacjZ2VXpyaUlSRkg3OWw3b1VJMGZ0S2E1NDRQZnJvMllB?oc=5",
-          "source": "CMoney投資網誌",
-          "published_hkt": "08/06 18:03",
+          "title": "盤中觀察：地緣風險與AI觀望氣氛交織 台股震盪 陸港低檔拉回 日韓震盪走低",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80X1FxQVN1N1U4YWZ3MUZyZGN1R1ZvNUVualM5dmF4MzVmcl8tUXBNSkt0YmU0QlYxQ1ZaWVA0Uk1ZRFNMU3JISTkxWGkyeDR0T2c?oc=5",
+          "source": "n.yam.com",
+          "published_hkt": "08/07 12:17",
           "related": []
         },
         {
-          "title": "韓股震盪引爆危機？惠譽曝真正衝擊 「2大產業」恐承壓",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiQlBZOGtnSmRER3BTVEVSQ09Lb2xlOWdDUjlvNUY1Q0FuY0hmQVJ1Mm1zaHJZVHZ5ejlkWTFLSklGNnJaa2R2TTF2TzA5Nlk?oc=5",
-          "source": "TVBS新聞網",
-          "published_hkt": "08/06 17:48",
-          "related": []
+          "title": "日股：中東地緣政治局勢不明推升油價，日經指數上半場震盪走跌0.98%",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdUFSRVdTTkIyX0w0ZVVlTzJzcDB4ZUtBdEhBZUVMMGFDZU5FNDJhelhvTHdKWDZ6TUgzTTM2WVBOLUJuUnVRQ29rVXQ1ODBhb0swTzMxRjFIWXppZVJiNGs3b3BRVE9UNUpsVnh4bkoteTVMM01HUVUwVDdKTkM0VDRWV2lkMEJp?oc=5",
+          "source": "富聯網",
+          "published_hkt": "08/07 11:03",
+          "related": [
+            "^N225"
+          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-08-07 11:45 HKT",
+    "updated_at": "2026-08-07 15:24 HKT",
     "news": [
+      {
+        "title": "主要加密貨幣行情，比特幣升0.02% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORVM3V0tzNk85Y09rNnpWSEdCaWVUWFU5R2h3Ulh6X29vYWw4akpFWS14aE1jOHg2RFotSTUzT1VxejJWYzNSUWJJYVpsbnlJMG1OS0lEdHBsQV9VZ2ptRENDNlVRSDhkN3pIell1Q29XcEdubmJZTEJ4dHc3YkdVTnlCTkVEOGp4cnkyM29wVFhzcndCcWJNSG1CUTdlOG5z?oc=5",
+        "source": "etnet.com.hk",
+        "published_hkt": "08/07 12:03",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "代幣化RWA在DeFi中獲得進展，儘管更廣泛的市場放緩——CoinShares",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMG04OFVTVktXLUEzNHM5aGRwc0NZcS1nTW9XdDJMSmZLcnFGbnoyM1EzcW5zTFRKeGlKVk9EVjFsOUc5NmFpRUxqYTZVNG1OMUo2TFdZc1FYWjUxdjBENUNuRXdWUG5fOE9vUGZKNTdpNkdHY0k4QlVkYU1EVTk0T0prcnFMdy1aSFdnYlBFeGlDUEE5b1ByY1NjUWhhenNZOHRBa3N6TEtsRVkwSWYzTEVTam1RTlk2MWcydVdybko5MHZ5eGFhTjJaUnBuLU9PWnV6SDc4NWFQZXVPdG44SGRFYnpVOEhXYnppR3Y2X0M5aWJMbklZ0gH3AUFVX3lxTE4wbTg4VVNWS1ctQTM0czloZHBzQ1lxLWdNb1d0MkxKZktycUZuejIzUTNxbnNMVEp4aUpWT0RWMWw5Rzk2YWlFTGphNlU0bU4xSjZMV1lzUVhaNTF2MEQ1Q25Fd1ZQbl84T29QZko1N2k2R0djSThCVWRhTURVOTRPSmtycUx3LVpIV2diUEV4aUNQQTlvUHJjU2NRaGF6c1k4dEFrc3pMS2xFWTBJZjNMRVNqbVFOWTYxZzJ1V3JuSjkwdnl4YWFOMlpScG4tT09adXpINzg1YVBldU90bjhIZEVielU4SFdiemlHdjZfQzlpYkxuSVk?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "08/07 10:53",
+        "related": []
+      },
       {
         "title": "比特幣震盪微跌守6.4萬美元、以太坊力守1,900關，爆倉1.55億鎂續走低",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWGdaTHhCTUVDck9idzdhZFBGR0VLcGYwYUZxdlMtREFvRTFBWXA2bVVjMFJJZ0dfYkRSZjk3SjlVajg5SlREWW9aSDVURTBiU0NvVUswSXJQVWJDV2N1dVFNYWhBbE0zZmFlRjRfQkIzZmZHa0J1dDFWTUFpdTBZU2dOTXlxYnB6a1cwa2wwMkxITHJRbFoweDd3?oc=5",
@@ -247,22 +265,6 @@
           "BTC",
           "ETH"
         ]
-      },
-      {
-        "title": "主要加密貨幣行情，比特幣升0.10% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORWtrNHZKTTNNWmQ3UHQ3MUhsWExkdTlPUGhrdE5kckRneDFtSDZISlVaekFwamF4enVaYzdNNFRfVW8xdVg1YVFuS3BlRXpKQnYzZVowU2duc0lvSWotb2ZiVEI5cW5xSjV1blVRTnRWcHhVQmhqa2VwRVJKSnM0STE0cXdfRGRocjZVcUFValg4MVlzbUtMcHQ2STNDQVRS?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "08/07 09:02",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "地緣政治、監管與量子威脅 2026 年加密市場挑戰重重 - 財經新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcDdSaUpuZXl2X0xqMG5ET1pQbVp3eVc4QkZ6ZDVDSnF4eWpQdGlQU2p2NzJSVVRZMVNpSFFDSF9tMTdtRFFSNFZWOHh3TUlsbUR5LWpyQ0E5djF6WlN4NE84REJETmEzbnFlb1BvcXNNQURfWEpXX2JiZG56S3dES01BUHBoaWI2UXlYbQ?oc=5",
-        "source": "PChome Online 新聞",
-        "published_hkt": "08/07 07:48",
-        "related": []
       }
     ]
   }

@@ -151,7 +151,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-07 15:24 HKT",
+      "updated_at": "2026-08-07 16:04 HKT",
       "news": [
         {
           "title": "台股7日不敵賣壓季線再度失守 長榮航買盤積極股價逆勢收漲2.66%",
@@ -168,10 +168,10 @@
           "related": []
         },
         {
-          "title": "台股收盤／台積電小紅獨撐！台股跌170點 中小股殺聲隆隆",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GLXBadlA5OE1UZlRZclFjZzJSSkF5WGM1bEgwTGJWT2lBX2JOaTVuUkpza2ZpMG90T3p0ZllrT0o2RWczZzlVQjh4Yw?oc=5",
+          "title": "台股收盤／台積電小紅獨撐！台股跌170點　中小股殺聲隆隆",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0b19KN3JITXJucmNndHpHeHo2cFdDOEh6SlFuOFZjZW5vdVBEbG1wMUJJaDBaVU1XUXhGZXhWbHFVZ2F1aTZhdmJkQU_SAUxBVV95cUxQdG9fSjdySE1ybnJjZ3R6R3h6NnBXQzhIekpRbjhWY2Vub3VQRGxtcDFCSWgwWlVNV1F4RmV4VmxxVWdhdWk2YXZiZEFP?oc=5",
           "source": "三立新聞",
-          "published_hkt": "08/07 13:50",
+          "published_hkt": "08/07 13:44",
           "related": [
             "TSM"
           ]
@@ -207,8 +207,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-07 15:24 HKT",
+      "updated_at": "2026-08-07 16:04 HKT",
       "news": [
+        {
+          "title": "科技股財報不如預期、油價走高日經指數連2天下跌| 全球財經| 全球",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9od05CS1c0eXNJdE42QUd1eXBUV3g5OEcySWcwb3A3ZDZJQlVSQ2Z2Zy1UQ3NkWWIxSkRwTEM0dFJDanczaFpKOVJIVXhGUmVj?oc=5",
+          "source": "UDN",
+          "published_hkt": "08/07 15:38",
+          "related": [
+            "^N225"
+          ]
+        },
         {
           "title": "日韓股市皆熄火！日經一度跌逾1000點 韓股開高走低翻黑",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOVzRlNXJDeDhZcTl3YWtCT2hYTzM1c3laVHRKdXlGRTR0R1lWV29obFh2UHh2U3VPQjcxeGRvOU9lRVh1S0M5Ni1aV0lIdFU?oc=5",
@@ -221,40 +230,31 @@
         {
           "title": "盤中觀察：地緣風險與AI觀望氣氛交織 台股震盪 陸港低檔拉回 日韓震盪走低",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80X1FxQVN1N1U4YWZ3MUZyZGN1R1ZvNUVualM5dmF4MzVmcl8tUXBNSkt0YmU0QlYxQ1ZaWVA0Uk1ZRFNMU3JISTkxWGkyeDR0T2c?oc=5",
-          "source": "n.yam.com",
+          "source": "蕃新聞",
           "published_hkt": "08/07 12:17",
           "related": []
-        },
-        {
-          "title": "日股：中東地緣政治局勢不明推升油價，日經指數上半場震盪走跌0.98%",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdUFSRVdTTkIyX0w0ZVVlTzJzcDB4ZUtBdEhBZUVMMGFDZU5FNDJhelhvTHdKWDZ6TUgzTTM2WVBOLUJuUnVRQ29rVXQ1ODBhb0swTzMxRjFIWXppZVJiNGs3b3BRVE9UNUpsVnh4bkoteTVMM01HUVUwVDdKTkM0VDRWV2lkMEJp?oc=5",
-          "source": "富聯網",
-          "published_hkt": "08/07 11:03",
-          "related": [
-            "^N225"
-          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-08-07 15:24 HKT",
+    "updated_at": "2026-08-07 16:04 HKT",
     "news": [
-      {
-        "title": "主要加密貨幣行情，比特幣升0.02% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORVM3V0tzNk85Y09rNnpWSEdCaWVUWFU5R2h3Ulh6X29vYWw4akpFWS14aE1jOHg2RFotSTUzT1VxejJWYzNSUWJJYVpsbnlJMG1OS0lEdHBsQV9VZ2ptRENDNlVRSDhkN3pIell1Q29XcEdubmJZTEJ4dHc3YkdVTnlCTkVEOGp4cnkyM29wVFhzcndCcWJNSG1CUTdlOG5z?oc=5",
-        "source": "etnet.com.hk",
-        "published_hkt": "08/07 12:03",
-        "related": [
-          "BTC"
-        ]
-      },
       {
         "title": "代幣化RWA在DeFi中獲得進展，儘管更廣泛的市場放緩——CoinShares",
         "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMG04OFVTVktXLUEzNHM5aGRwc0NZcS1nTW9XdDJMSmZLcnFGbnoyM1EzcW5zTFRKeGlKVk9EVjFsOUc5NmFpRUxqYTZVNG1OMUo2TFdZc1FYWjUxdjBENUNuRXdWUG5fOE9vUGZKNTdpNkdHY0k4QlVkYU1EVTk0T0prcnFMdy1aSFdnYlBFeGlDUEE5b1ByY1NjUWhhenNZOHRBa3N6TEtsRVkwSWYzTEVTam1RTlk2MWcydVdybko5MHZ5eGFhTjJaUnBuLU9PWnV6SDc4NWFQZXVPdG44SGRFYnpVOEhXYnppR3Y2X0M5aWJMbklZ0gH3AUFVX3lxTE4wbTg4VVNWS1ctQTM0czloZHBzQ1lxLWdNb1d0MkxKZktycUZuejIzUTNxbnNMVEp4aUpWT0RWMWw5Rzk2YWlFTGphNlU0bU4xSjZMV1lzUVhaNTF2MEQ1Q25Fd1ZQbl84T29QZko1N2k2R0djSThCVWRhTURVOTRPSmtycUx3LVpIV2diUEV4aUNQQTlvUHJjU2NRaGF6c1k4dEFrc3pMS2xFWTBJZjNMRVNqbVFOWTYxZzJ1V3JuSjkwdnl4YWFOMlpScG4tT09adXpINzg1YVBldU90bjhIZEVielU4SFdiemlHdjZfQzlpYkxuSVk?oc=5",
         "source": "FXStreet",
         "published_hkt": "08/07 10:53",
         "related": []
+      },
+      {
+        "title": "主要加密貨幣行情，比特幣升0.02% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORVM3V0tzNk85Y09rNnpWSEdCaWVUWFU5R2h3Ulh6X29vYWw4akpFWS14aE1jOHg2RFotSTUzT1VxejJWYzNSUWJJYVpsbnlJMG1OS0lEdHBsQV9VZ2ptRENDNlVRSDhkN3pIell1Q29XcEdubmJZTEJ4dHc3YkdVTnlCTkVEOGp4cnkyM29wVFhzcndCcWJNSG1CUTdlOG5z?oc=5",
+        "source": "etnet.com.hk",
+        "published_hkt": "08/07 10:32",
+        "related": [
+          "BTC"
+        ]
       },
       {
         "title": "比特幣震盪微跌守6.4萬美元、以太坊力守1,900關，爆倉1.55億鎂續走低",

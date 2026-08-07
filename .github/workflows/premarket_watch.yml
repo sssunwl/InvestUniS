@@ -1,4 +1,4 @@
-name: Premarket Watch (30min before US open)
+name: US Premarket Watch → Discord
 
 # 09:00 ET（開市前30分鐘）= 13:00 UTC（夏令 EDT）/ 14:00 UTC（冬令 EST）。
 # 跟其他 workflow 一樣先用固定 UTC 時間，冬令時間會有約1小時飄移，
@@ -27,7 +27,5 @@ jobs:
 
       - name: Run premarket watch
         env:
-          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
-          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
           DISCORD_WEBHOOK_INVESTUNIS: ${{ secrets.DISCORD_WEBHOOK_INVESTUNIS }}
         run: python scripts/premarket_watch.py

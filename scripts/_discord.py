@@ -41,16 +41,24 @@ def notify_discord(text):
     url = _webhook_url()
     if not url or not str(url).startswith("https"):
         return
-    body = _html_to_plain(text)[:1900]  # Discord 單則上限 2000 字
+    body = _html_to_plain(text).strip()
+    if not body:
+        return False
+    # 保留完整內容；舊版直接截斷，會讓策略的風險提示或結論消失。
+    chunks = [body[i:i + 1900] for i in range(0, len(body), 1900)]
     try:
-        req = urllib.request.Request(
-            url,
-            data=json.dumps({"content": body}).encode("utf-8"),
-            headers={
-                "Content-Type": "application/json",
-                "User-Agent": "SolBot (https://suniverse.local, 0.1)",
-            },
-        )
-        urllib.request.urlopen(req, timeout=10)
+        for i, chunk in enumerate(chunks):
+            prefix = f"({i + 1}/{len(chunks)})\n" if len(chunks) > 1 else ""
+            req = urllib.request.Request(
+                url,
+                data=json.dumps({"content": prefix + chunk}).encode("utf-8"),
+                headers={
+                    "Content-Type": "application/json",
+                    "User-Agent": "Sterling (InvestUniS)",
+                },
+            )
+            urllib.request.urlopen(req, timeout=10)
+        return True
     except Exception as e:
         print(f"[discord] 通知失敗(不影響主流程): {e}", file=sys.stderr)
+        return False

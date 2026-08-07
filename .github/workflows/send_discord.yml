@@ -1,4 +1,4 @@
-name: Send Daily TG Digest (4x)
+name: Send Daily Discord Digest (4x)
 
 # 每天 4 次播報（所有時間以 HKT +8 標示，cron 使用 UTC）
 #
@@ -65,10 +65,8 @@ jobs:
             git push origin main
           fi
 
-      - name: Send TG digest
+      - name: Send Discord digest
         env:
-          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
-          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
           MSG_TYPE: ${{ steps.msgtype.outputs.type }}
           DISCORD_WEBHOOK_INVESTUNIS: ${{ secrets.DISCORD_WEBHOOK_INVESTUNIS }}
         run: python scripts/daily_tip.py

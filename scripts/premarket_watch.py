@@ -12,11 +12,7 @@ import html as _html
 import os
 import sys
 
-import requests
 import yfinance as yf
-
-BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
-CHAT_ID = os.environ.get("TG_CHAT_ID", "")
 
 
 def esc(text):
@@ -73,22 +69,10 @@ def format_message(gainers, actives):
     return "\n".join(lines)
 
 
-def send_tg(text):
-    try:  # 同時鏡射到 Discord #n-investunis(失敗不影響 TG)
-        from _discord import notify_discord
-        notify_discord(text)
-    except Exception:
-        pass
-    api_url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
-    r = requests.post(
-        api_url,
-        json={"chat_id": CHAT_ID, "text": text, "parse_mode": "HTML", "disable_web_page_preview": True},
-        timeout=20,
-    )
-    if not r.ok:
-        print(f"TG {r.status_code}: {r.text}", file=sys.stderr)
-    r.raise_for_status()
-    return r.json()
+def send_discord(text):
+    """Discord 是唯一通知目的地；不再依賴 Telegram 憑證。"""
+    from _discord import notify_discord
+    return notify_discord(text)
 
 
 def main():
@@ -98,10 +82,8 @@ def main():
     msg = format_message(gainers, actives)
     print(msg.replace("<b>", "").replace("</b>", ""))
 
-    if BOT_TOKEN and CHAT_ID:
-        send_tg(msg)
-    else:
-        print("\n(TG_BOT_TOKEN/TG_CHAT_ID 未設定，僅本地輸出，不發送)", file=sys.stderr)
+    if not send_discord(msg):
+        print("\n(Discord webhook 未設定或發送失敗，僅本地輸出)", file=sys.stderr)
 
 
 if __name__ == "__main__":

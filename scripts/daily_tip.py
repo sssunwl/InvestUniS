@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Send 4 daily TG investment digests:
+Send 4 daily Discord investment digests:
   00:00 UTC (08:00 HKT) — 美股夜盤後總結 + 加密市場
   01:00 UTC (09:00 HKT) — 亞洲盤前合集（港/台/日）
   09:00 UTC (17:00 HKT) — 亞洲盤後合集（港/台/日）
@@ -20,8 +20,6 @@ def esc(text):
     """Escape HTML special chars for Telegram HTML mode."""
     return _html.escape(str(text or ''), quote=False)
 
-BOT_TOKEN = os.environ.get('TG_BOT_TOKEN', '')
-CHAT_ID = os.environ.get('TG_CHAT_ID', '')
 ACADEMY_URL = 'https://sssunwl.github.io/InvestUni'
 
 HK_TZ = pytz.timezone('Asia/Hong_Kong')
@@ -264,31 +262,12 @@ def build_us_pre(data, now_hk):
     )
 
 
-def send_tg(text):
-    try:  # 同時鏡射到 Discord #n-investunis(失敗不影響 TG)
-        from _discord import notify_discord
-        notify_discord(text)
-    except Exception:
-        pass
-    api_url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
-    r = requests.post(api_url, json={
-        'chat_id': CHAT_ID,
-        'text': text,
-        'parse_mode': 'HTML',
-        'disable_web_page_preview': False,
-    }, timeout=20)
-    if not r.ok:
-        print(f"TG {r.status_code}: {r.text}", file=sys.stderr)
-    r.raise_for_status()
-    return r.json()
+def send_discord(text):
+    from _discord import notify_discord
+    return {'ok': notify_discord(text)}
 
 
 def main():
-    if not BOT_TOKEN:
-        print("ERROR: TG_BOT_TOKEN not set", file=sys.stderr); sys.exit(1)
-    if not CHAT_ID:
-        print("ERROR: TG_CHAT_ID not set", file=sys.stderr); sys.exit(1)
-
     now_utc = datetime.now(pytz.utc)
     now_hk  = now_utc.astimezone(HK_TZ)
     utc_h   = now_utc.hour
@@ -320,7 +299,7 @@ def main():
         msg, label = build_us_pre(data, now_hk), '美股盤前預覽（手動）'
 
     print(f"Sending: {label}...")
-    result = send_tg(msg)
+    result = send_discord(msg)
     if result.get('ok'):
         print("Done!")
     else:

@@ -27,8 +27,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-07 11:30 HKT",
+      "updated_at": "2026-08-07 11:45 HKT",
       "news": [
+        {
+          "title": "《大賣空》原型再示警：美股恐重演1987年股災 續放空輝達",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xdnBDTmRYSXYtVmc3WDg0MnpUWUV5Z1VmamZTdmo2VVBjNndORWRjZ25SV2hnb2l0Tk9RcnJIMkVFcDRfX1JzZlYycFNqR1E?oc=5",
+          "source": "news.tvbs.com.tw",
+          "published_hkt": "08/07 11:36",
+          "related": [
+            "NVDA"
+          ]
+        },
         {
           "title": "非農報告公布前市場轉趨保守：美股收黑拖累亞股走弱，中東局勢推升避險情緒",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT2ZiQll6em9iUHVjWlhOSEdBUTVOOUVQamttMXdBRHR6SEhVZGJxVjIzejJaWDh6SGZCVy1POVRiandpRFZYTVV6a2w2eU43UVk1bEVzN09sY1ozdmw3bFgtcnpLX1VseUR3TjRrU0Q1RV8xTjBWQmdsY0kwZ21mLWE1eTR2cHFQWDlZRS1acl9ZTEhBcUp6Mk9R?oc=5",
@@ -39,15 +48,8 @@
         {
           "title": "TradingKey 每日市場簡報：中東局勢緊張拖累美股，布蘭特原油飆升逾4%，SpaceX解禁日逆勢勁揚逾6%",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNanNWNEtCcmNVQmoxTG1EcDNtbVQzM2hZYWFsMjg2LUhNWV9HVk5HNFFSMDdwaDEzdTktU2txMEdTeWRmRXZ0Y0V6TlhZaFV3b2FpbUo0UHZmYS0xdDdOcFBtNkZISF9IcTNYUFJPTGZTWUsyREtTVmFvVTNhN0NmNXp4UUlkb2ZCRHB6YURYc2VxU0FqWUFjN2pXaGlkWEZuYTBRTWNBeE40ejYxQi1rUUNTQWQ2VmJGWDBabDZJcU4zTXo3eWhNaEdtSGY1YU43cGt3dG5mRmltVnVV?oc=5",
-          "source": "TradingKey",
+          "source": "tradingkey.com",
           "published_hkt": "08/07 09:22",
-          "related": []
-        },
-        {
-          "title": "美股盤後｜市場靜待非農就業數據公布，四大指數漲跌互見0807｜豐雲學堂 2026 年 08 月",
-          "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNTjFGTkRYVmN1V21Vbk5pVTRtRFZoUnBvMTZkRXpuR1dVNHJZR2NFRzJaZFlBSFFrNEQzdkZCekhwQkphdmp6U2lqWE1BNFRyb0FLV2hXd1RqOXF3UXBDOUNxcWRXRHhpcWpEemFJRk5Xb011ZldwdmFoMHdHdHRPaUZzWVlHVk83VUdCZ0VibDZ2MHBjX1BOV0FiQWMxeDAyY0hicWRnNTV6SzJveDRabTFmM3JHRld5TUF6VTFoWnJZZ0xTeTBwVlRCRXktbzNTVUxZWlBGWGZTS05NbXFYalNxN2pnYm9lTDdvWERSQkV4QTdWVXdOTHpTR05qbjllTXc5LWIxU3lUZDJBUlh2Y2I0Qjc2WUJiUVdkUnB3dVlMb2RwcmtCRTRzaGNRcGRGd3dwSEpLVHRaVmFYMjE2M3hqR1llQ1NueTM2R2duV1JJbUNZZFpSanNXZnJwNHdGcWtQYmN2eGFhb09DQjhXbjJkRDdJeG9sVklJNjhDdWhDV1YtajFwVTRxY1JpcjNWa1FfZXVFbnZnRHVITjBMRUh1dXE?oc=5",
-          "source": "sinotrade.com.tw",
-          "published_hkt": "08/07 08:56",
           "related": []
         }
       ]
@@ -234,7 +236,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-07 11:30 HKT",
+    "updated_at": "2026-08-07 11:45 HKT",
     "news": [
       {
         "title": "比特幣震盪微跌守6.4萬美元、以太坊力守1,900關，爆倉1.55億鎂續走低",
@@ -256,9 +258,9 @@
         ]
       },
       {
-        "title": "地緣政治、監管與量子威脅 2026 年加密市場挑戰重重",
-        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOQ3o2TE5FYVViamZJME1VVGRibDlEYWRJTkdjdjY1OWtob1pZWUdkZkt6VWJIUHY5ekVYTnc5ZVBBVk1LVzNZSlR2ckt5djdnVF9KVzNCM1BpWHQ2dF92RXhhZEFFZUJOdlhjcVc2czk2M1R6TlV0bTFjV1ZpZ01Pam0yTGFpNUlVYUpUQXJ6YU9qbG4zNm5PV2FWaGZfeVo4TXV5bFQ0UHJCa2V3QWFfMUVnVEJwaE14Ynk3U3M4ZFJJRUNUQmEyZ2FPNFpQU25aMVRURm9LN2IwTHlhU1JqZ2pFdE8xSnM2Zm12Z3J1S1VHUGd2emR2eEJmVjBvMEc0UXFBdFRJODNQRnVTNi0xSUJad0JGTHFCajlPTTZfOXdsRUI2X2U4RTdwYnF3cEF1NWRCYU1vaVVjN3dZRi1OZg?oc=5",
-        "source": "life.tw",
+        "title": "地緣政治、監管與量子威脅 2026 年加密市場挑戰重重 - 財經新聞 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcDdSaUpuZXl2X0xqMG5ET1pQbVp3eVc4QkZ6ZDVDSnF4eWpQdGlQU2p2NzJSVVRZMVNpSFFDSF9tMTdtRFFSNFZWOHh3TUlsbUR5LWpyQ0E5djF6WlN4NE84REJETmEzbnFlb1BvcXNNQURfWEpXX2JiZG56S3dES01BUHBoaWI2UXlYbQ?oc=5",
+        "source": "PChome Online 新聞",
         "published_hkt": "08/07 07:48",
         "related": []
       }

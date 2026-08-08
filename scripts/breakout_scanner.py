@@ -15,7 +15,6 @@ Yahoo 限流/擋掉，若某天發現候選數異常變 0 或整批失敗，先�
 篩選邏輯壞了。
 """
 import html as _html
-import os
 import sys
 import time
 from pathlib import Path
@@ -23,9 +22,6 @@ from pathlib import Path
 import pandas as pd
 import requests
 import yfinance as yf
-
-BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
-CHAT_ID = os.environ.get("TG_CHAT_ID", "")
 
 NEAR_52W_HIGH_PCT = 0.03
 BATCH_SIZE = 300

@@ -27,29 +27,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-10 11:08 HKT",
+      "updated_at": "2026-08-11 07:55 HKT",
       "news": [
         {
-          "title": "科技股回檔、Fed利率再起波瀾 美股2026下半場該怎麼布局？",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN1UtR0lESUZGNnJOSjZtTEpsbFdVQWRvYVFaUUxfWUpDbDVqcXJWdDdiX1NqdE9hXzdfb08xcFlDMzBoZlRaVHA0bm04bEpYN3pmMFBQNjBLbVl3Z1hfS3hLZXBBN0ZmY3dycGFoNmNDUjVObWJ3Yl9FQndBbG5HRzNYbkpiOUNhZkRwcTJEQ3BHdw?oc=5",
-          "source": "MoneyDJ",
-          "published_hkt": "08/10 08:45",
+          "title": "美伊緊張局勢推升油價衝擊市場 美股週一全線收黑",
+          "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPb2Q3QTB1YjZGR1RFa1pNNlY5YWxNaUhVNVpkeHJPeU91a2doMXB5QlZXQ2ljcURaTHl1TFVwbzk4SXFmeDJDdjJpbXFzQjhXQUU1Y2NKUVNkS0FzYmY4UHdZV2RyRmhDaTA3S1ZpYWxUOTZaODZ3MUtVNDlSWEk1OFpIc1VXd3VYYWxYX2J2NmRTbnM2eEpVckNPU2VNUnpXdjVjaFk2WHhnWjlLMkI4NklYQ0FyOGNTczdZTlJEdEJ3Y0NZQ21DeEZqMmtiSzJfLVNreWtwd1ZFOTl0TWhNNmxJd3Rudnl6eFVieFZfNTJRa2RsYS1sbU5XUUp6VEcwNWNLa0RJMDNfT2oyY0l2QTVvYkFYVzR5THF5QXZad0lZeHI0bWZVR3ZsYlU4M1lrbGtvc3FuWjRreWtEQ1dmUWp6MHdPQXZiVkNEa2poWmt4clBaTEZxSDJ3?oc=5",
+          "source": "Yahoo股市",
+          "published_hkt": "08/11 07:23",
           "related": []
         },
         {
-          "title": "美銀Hartnett：「戰術」看跌，但「戰略」看漲，因為政策制定者不會允許市場崩盤",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1rd3BPYzItOFlsdmlINUxrZmo4elM1N2tiX2JIcVNLN3V2QXBDVEpHSXMtamZMQTJDU21FZHJWWVY4cldjXzVJWg?oc=5",
-          "source": "鉅亨號",
-          "published_hkt": "08/10 08:34",
-          "related": []
-        },
-        {
-          "title": "《美股》升息預期減弱 標普500指數創新高",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUkdzRXNhRkFOZ21FcTBZV2RwWjl1eDJQUEI4TWR6MVBqY2lCWG9SeG5PWXhuSWxMSTgwZDBWSVBNd1d6bUQ0ei04cnBIV2lrVEFNMzFjOEhTUVRETDNORnRZRGJZUWl5M2xyT0N2QXFCYzlMbVN0YW5iaWNSOTRrNXlIN2sxZGVGUWM4S2FrYzZDQQ?oc=5",
-          "source": "台視全球資訊網",
-          "published_hkt": "08/10 08:20",
+          "title": "美股轉弱引發避險情緒 那斯達克挫跌0.44%",
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQdFRuUU9yZlZONVZjQXk5NFppVFZwSU1OaUNZX3RzbmV4RndSMFJ4aGJhTzZENVFFT0dPbFJZQV9KcFdfVTZGZUZxdE9NMEl0anJrZ2xtMlRIN1h0ZGNVVllodU1wZGFkT1dVS0JwVno0RUdWZlIzM0lRZV81cEQ5V1dxYU9PU0V0Y2VyaEs0RDZrLVF0dEhDTjRxTFZKekhtVkg1RkhzVHZLWWdzck5iWEZrbjEtSHRfLUk5THh0U3pDSmlUaVdvYkFFTzdsQUtvR3dxOENBZlJhSUk3VEtPR0E5c3JwWkVld2wzSmtFRGh2ZHJQOFdRR043NmJLVnJBbVYwUFlqQkk0YldybzkzX1lCNzZCSG13OVRyMW9FUXBxWWto?oc=5",
+          "source": "商傳媒",
+          "published_hkt": "08/11 07:23",
           "related": [
-            "SPY"
+            "QQQ"
+          ]
+        },
+        {
+          "title": "美股收盤》美伊僵持油價飆 美股震盪費半重挫 台積電ADR跌0.37％",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ndm8xNlJDOVJqcjhHb2hWNnBscjk4OG1kcnRxR2ZzRkVYZWk2cE1kaTNrWUtFbVMtTV9kZmFNWHNjaGlBMWdiU0I1cUp6djhLcmV2eDFxNTdIbk4xQUhB?oc=5",
+          "source": "自由財經",
+          "published_hkt": "08/11 06:26",
+          "related": [
+            "TSM"
           ]
         }
       ]
@@ -181,14 +183,30 @@
   },
   "jp": {
     "pre_market": {
-      "updated_at": "2026-08-10 07:53 HKT",
+      "updated_at": "2026-08-11 07:55 HKT",
       "news": [
         {
-          "title": "日股衝破歷史新高 新手怎麼買？掌握3大產業、2大指數 補足配置缺口！",
-          "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPR01GdVdBczZ6cFFoQWJWYnJGTHd2cEZHNDNzRmVYYW85b2RDR1d2bmxrNXFMY2RGYlFKcy1HY280UkswZ3RjUGNTNlpMVXBGT2FadDYtOGJockl5U1A2aUhfd1ZUbnVFb1hqVFdxZEh3OWwtM0FsMk9UbEZZTXpLTHpuV0x0NUl1MWRVaFhYcm5NajNfc29MUlJRQ0xuWGZCbGhIdVZNWFRHbVpfSXFiS1R1OWFRUXl4VzJ6SEFna290aTBQSlc4SFFFcXFaTnNqeHhwcG1hRVVzbFU3bW5wYkFrSzljb3MxaW5VVHpzbVdpZkdXMjBkelVvN0JEdXg5YjhDVE5jODAwWXVSYUJycEFFSTF5MzhmSVVCeUI3RGFfMG4xUFlEYm5Rd3VRVUZvYW5uQTl3OTE1dkJ1bmRKTDRJX2NEdjlZdzlya3E3cDJUUUJNUnVmYUZWZi0tOEkweUJQbTZZcjhpSEttbDQ2WktmNjZjLUQ5TloyS05DT1hSVWF1bjE1U0I0aDdITzVkdnVQZjMxaVVFMGE2LW8w?oc=5",
-          "source": "Yahoo新聞",
-          "published_hkt": "08/10 07:08",
+          "title": "早安！今日產經早報",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLWVoyMTFPWkRjd1o5V0NxZ3BLT2tmTGJseEJScG93X1dXXzNLZ2pwSkdNQ09XN1o5a3RmWlQ4Mmx2NDlBN3VHVEdBbGhCWC1raWc?oc=5",
+          "source": "蕃新聞",
+          "published_hkt": "08/11 07:34",
           "related": []
+        },
+        {
+          "title": "日本股市今日因「山之日」休市一天- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdkFMLWZRcWlQQ3lMSlFuTlNiRS0tUFcyV2FTcHgzb3dVaWNSc1hoQmYyTUd4RU5MSjBOY0VBZG9PYXk2elRnVXB6NnBYSVkxYkdDMmRmYlV1QjdjR1RfazlLV0tmcjJ4dFp2NWNZbWZPTEloQXQzdmVXTHF6dk5ycU9aM0ZYbWJSUjM0MzNweVUydw?oc=5",
+          "source": "MoneyDJ",
+          "published_hkt": "08/11 05:44",
+          "related": []
+        },
+        {
+          "title": "JPN225│日經平均指數 | 日經225指數即時│日經指數價格圖表",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkS3hNSnRBcnlrazRLeWJ1Y0x4bFpKUTB1cFpoY2RvYTN6WUF1aVVvT2VSWEJ2OW5kRGFuWExhdThZajRpcFVuXzNkcXlwNmNNWW95VElmWGhMMUxTYzQ3blhfODJuaHVjZ2c?oc=5",
+          "source": "Mitrade",
+          "published_hkt": "08/10 20:04",
+          "related": [
+            "^N225"
+          ]
         }
       ]
     },
@@ -224,27 +242,27 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-10 22:21 HKT",
+    "updated_at": "2026-08-11 07:55 HKT",
     "news": [
       {
-        "title": "BitMine上週增持7391枚ETH，總持有量升至5,805,238枚",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44UGcxNDY4OUxhZ2Q3eWd0dFN2ckkwb0hGYTEwYUJXRnVLeXBNOEVpY0pMUnZ3RmJzME9VN1hoZXZ5YllmSUhJX3lucw?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "08/10 21:00",
+        "title": "加密貨幣與華爾街領域的焦點動態 📌 由 Tom Lee 領導的 BitMine 上週購入了價值約 1,420 萬",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13cEtvZjBlRnBvaDI2OEtGQ09tbWJqazV3a3hZanMxcDNpenhVQWdVdFpjS1ZtdG56dGRvUnZtZllYOVpyZGJwS1pydU1SMmxaQXB0TkYzSEU4YVY0dUZQeFdEX19uQllIejR4Zm9zMnNtZXdZeEdhVlcwZw?oc=5",
+        "source": "KuCoin",
+        "published_hkt": "08/11 04:02",
         "related": []
       },
       {
-        "title": "Bitmine Immersion Technologies（BMNR）宣佈其持有的ETH代幣數量已達581萬枚，加密貨幣及現金總持有量達$116億",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUGVDM1RiS2Rzd0FTbVpXa1hmeklXOGVoeklZQ3ZxaEdlUUJLNlRPNm9YMnBaVngzOTU1czcwcTFfQ1pjODZFRThfU29KVjEyd1JSR2swN2FYTXp2ZnlDQ01kVEtOOHF1N29sSXQzOGhfclFnaVRFeHBnU3ZWWmxnWVZsa28wd3dPbGJ1WHE5eWhkVmtSSEl4VkxCZ1dZaHVXbUNZSjJOUXptdHJINTRN?oc=5",
-        "source": "富途牛牛",
-        "published_hkt": "08/10 20:30",
+        "title": "ADA、DOT、HBAR 價格重挫後 Grayscale 撤回三隻加密貨幣 ETF 申請",
+        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOZFViV2xydkJDcGhXQjY5MG1vWmoteHRWcGJERHl4dTFnMk5pMkpiZDFlWmRhOXpudEo2eFYzTmRWYWhXQW5QakV2bzlFTE81RlVJQ0QzQ3h1QURhdnRPakNDTWZnNDNUbk05VExBSHo1c1M0U1Z5UVVVOF83aXRPMEo1OEt4a1lZNmlEWVBMWlRjOHduM2FpWDVWd3p5WlNEc1UtLU5oU256VnN6YmR1UnJBY0E5ZjBzUFZlUzd6TnJmM21QMi1oLXMtMHhYazZua3M2ajVlelBDcFFzQzRoVkhaN3EwVk1YU056OExqc0FPNVlrT3JmSGs5RGVrZ3JMTTdPckVUMWtXamZGLUw3ajlncEJlUmtzV0Nla0owdkMtdnoxZ05id3ZZdVFTdTFWaWpDZQ?oc=5",
+        "source": "Yellow.com",
+        "published_hkt": "08/11 03:01",
         "related": []
       },
       {
-        "title": "Bybit將統一賬戶借貸的免息借款範圍擴展至24種資產，助力提高交易資本效率",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UbG9Hc1pfWHJ2c0lSMkVONndmVzdtazV0LUNNTGNkSFRDTWFtX1JhZDJ3aWhrNWZudTdFWXNyUlVERTViMV9OQVN4dUhRd0VxcWc?oc=5",
-        "source": "蕃新聞",
-        "published_hkt": "08/10 20:30",
+        "title": "黃金測試突破，BTC下滑",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ1l0X01kdE1hRkk0YVNoVEZ5d3pRUno1MDJ0U0p3dUtXV21BTVJnQ09BUHVhSWFhVUNXam9EbXdCQ3AyRjZnQzlfdHRjQWkwclBZSXB5Z09KbTFKcjQzQjlKNC11bVp2NmVRMC04bVZldFd2eUEzcUNvNnJJbnJYSUk0MmgyZ25Qb1JkcXFseEY2MTZic2dqcTN4X1lwb19vcDI5Rl9yaFdBdW9NeVhBMnRXTGJSVHEzeUlnLW5CZlFxV3FpeU5iVlVWdXlaOEUyZXVuSi1DS2FQSzdna0FHbzFUbFB0Z2VXay04a9IB7AFBVV95cUxQZ1l0X01kdE1hRkk0YVNoVEZ5d3pRUno1MDJ0U0p3dUtXV21BTVJnQ09BUHVhSWFhVUNXam9EbXdCQ3AyRjZnQzlfdHRjQWkwclBZSXB5Z09KbTFKcjQzQjlKNC11bVp2NmVRMC04bVZldFd2eUEzcUNvNnJJbnJYSUk0MmgyZ25Qb1JkcXFseEY2MTZic2dqcTN4X1lwb19vcDI5Rl9yaFdBdW9NeVhBMnRXTGJSVHEzeUlnLW5CZlFxV3FpeU5iVlVWdXlaOEUyZXVuSi1DS2FQSzdna0FHbzFUbFB0Z2VXay04aw?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "08/11 01:03",
         "related": []
       }
     ]

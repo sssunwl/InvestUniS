@@ -27,7 +27,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-10 10:41 HKT",
+      "updated_at": "2026-08-10 11:08 HKT",
       "news": [
         {
           "title": "科技股回檔、Fed利率再起波瀾 美股2026下半場該怎麼布局？",
@@ -45,7 +45,7 @@
         },
         {
           "title": "《美股》升息預期減弱 標普500指數創新高",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmNySkVpcjBRcElSM2lkNVNBaVFybmdpMDdlbDBOUTdhU1BDWDRZcHhNZDlYbmQ0UjhmcS1GRC1XX0tST1RBbVJjaVZqTnRXUkZEZ3ZtN29GZDlfaFNvRTlyUmM5TXF4OGJ6cjVFZWtrWGcwNTZIX29LSnIxR3JWYTdwbUhDU3RCb0hDckNOYV9DVk5rUXMtdmhiSkk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUkdzRXNhRkFOZ21FcTBZV2RwWjl1eDJQUEI4TWR6MVBqY2lCWG9SeG5PWXhuSWxMSTgwZDBWSVBNd1d6bUQ0ei04cnBIV2lrVEFNMzFjOEhTUVRETDNORnRZRGJZUWl5M2xyT0N2QXFCYzlMbVN0YW5iaWNSOTRrNXlIN2sxZGVGUWM4S2FrYzZDQQ?oc=5",
           "source": "台視全球資訊網",
           "published_hkt": "08/10 08:20",
           "related": [
@@ -224,8 +224,18 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-10 10:41 HKT",
+    "updated_at": "2026-08-10 11:08 HKT",
     "news": [
+      {
+        "title": "前3名價格預測：比特幣、以太坊、瑞波幣 – BTC多頭增強，ETH瞄準突破，XRP反彈",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVEdNRnBMaHR5STFGMjdDQ0ljT3ZxNVlTUzRiMkZsXzlIbUY4aUVudVNabzRkelEtNHF5TmJVY0ZPOG50R2hUeTRNMldMejhDVUtiNXluUjhaSTBkRHluQ2ljeDIzZjBoQk9HenRQcDMyZnJKMkRvLTI5dkFENkNWZUp3S21aMlV2OUUtRnVIWUV2Y1ZxeUZfU05yaDVPdlc1aW12MEp2ZU5PMDlnZUhZSTFPMjlYc3JrTE9SZUttZGZLQnlWLWlMNmRPVXR3RGptNWJMYkNMemlITEptZldRbHBUWFR2bk5WTFB0TTBENnlzdnIzZXMtY9IB_gFBVV95cUxOLWR2VktuOUFHNHhTVFBneFQxV3BvZHZieDdTaDN6blkteFNIY25sWWtibjdBUzJlOUxEeEJpcmc5dVFlUFp2WlNBSDhLby0xOUtDYmQ3ZHFiVnVKMVJGd01uMHdpYzQzWjVBdy1kam45QlRjYXVPTzV4RXZmb09Qa0cycUd0NGRiUnB1dllvOWhhaTZ0RG5JVFI1V084RTk5RDAxZElaWGVoNktrTVh5bVY2dVhYZHFVbWJNSWdlZ3R0a01SUXV6WlZ4YjlQTU10VjkwcXZlZnhPNVcwOEhxdEc2QVU5ZGpMb0VOS004cXVWal81MUJvRWFQd1g3UQ?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "08/10 10:33",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
       {
         "title": "比特幣橫盤 6.5 萬、以太坊近 1,900，非農爆冷美股創高爆倉 1.71 億續走低",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16QzdOWUdEdGIyOVktQ3lxQ2VaOVVRQWZnek5MbU9VYjIzd3NfUUNnaHZOODlCeWs3ZkVxckVFY3ZuYzdFOGNQeUNZellaSU1QbkVoRjg3QWZFbVg4VV9XeUdKYkFWZUVUMnE0ZVl3QTZLNXFMM3llckVjY3ZRQU0?oc=5",
@@ -239,13 +249,6 @@
       {
         "title": "波場TRON行業周報：CPI登場BTC關注$65400阻力 詳解構建AgentFi身份與支付設施Sealcoin",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXMk5KMXBCUTFxc1dfUk95dDVucTBZcFZITVl1czZKanlNYVZsV1JsZ1U2ZHVzUEFXdEYwQ2ctRGZRY2hnZTNneTdnSjBHUW8?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "08/10 09:31",
-        "related": []
-      },
-      {
-        "title": "區塊鏈重點動態2026年8月10日早參考",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1NVNsTnYxeE1faDZpVXhkU240bVRnRnJtYkdSRExjelY3N1piQ3YzOVZxRVM4aWM5MFdJYTJEbEQ1VmxoYTBkUC1vM2YzeEk?oc=5",
         "source": "news.cnyes.com",
         "published_hkt": "08/10 09:31",
         "related": []

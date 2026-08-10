@@ -89,34 +89,32 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-07 22:14 HKT",
+      "updated_at": "2026-08-10 17:54 HKT",
       "news": [
         {
-          "title": "恒生指數 本周累跌216點：8月開局首周終止之前五周升勢",
-          "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOUHNxdGE0ekdxOG1mZFNZdEEzOGlRTTdVVTV6alEyVWNBcWZJeHZYcFhoWWs4TE5mTlljem03Y2VIbWVNeWFyRWpScGF0bHkxNV9zLXZRbWktLUo1R1EzZXoxTXV0T1F4T3JNLW95QzdsbjVyQlFSQWQ0bWpZQ3dmN1ZVU2VTQjJwSjBtM3Z5bF92TkIzdEpUVEJyNmNseTlqOWpkQUduV19QOWMwVWNibUVwNEp6ckQzVjhBTzE3WkMxLWV1S0loRFhaLUxHdUFsaTVzd1pmU0xIdFVGdkw3TUpDWjJaWXBSWWhNU1NzcmF4SXM1eTVBZk1Ld0ZXY3dKR3hIdUtjaTBOTVpWa0M5cGdYQzBNRmVJM0xQVVVLQkZtYV9RTF83TEtRRW9zOHNEcWlQZEFmNlh6ZS00YWt6S2pzRldtQ0NkQi02bDJFNEc2ck1SZjlVbVhGZ1lfWmdCQUtV?oc=5",
-          "source": "香港財經時報HKBT",
-          "published_hkt": "08/07 21:35",
+          "title": "【港股收市】恒指升269點 收復牛熊線 老鋪黃金炒高12%",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlcnRxaUgzWUlhQ3JmVEdNcm1hRXRjbnQ5S2JGR21GeHlYVU9ZdE1EekYzS1VHQ2dvVGNUNHVrSDZSa1Z1Q2hzeUFyNkFnMkNzbTdlMmhhM3lHX01XZ2R6dElob0psZ01GMTFpczNn?oc=5",
+          "source": "Now 新聞",
+          "published_hkt": "08/10 17:17",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "恒指好淡爭持 滙豐友邦靠穩 九置績後做好",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMEJaWmZCQUFjVjRsT2xaNTVqRmZsLUh5ZF9COWhUVWhkd3E1V2ZkWnY0aHJUUFdTRTJua3Z3U3Zmc1BiWmRQZXJnTGcyd2ptUlBkR2dRbkFiNWhCa0MwNzVaUXVGTDFSd25BVS1tZU82dDdpampNUmUwVnhTU3FqaUZXSjZlaEl3akJUZ1NXbw?oc=5",
-          "source": "hk.on.cc",
-          "published_hkt": "08/07 20:25",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "恒指走勢丨埋單漲137點 8月開局周累跌216點",
-          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQMGs1bTA5UDlBaGlDQjR1Yno1Z1AwZ2NmUTBwWXIyclZFLUNVM0p5dndtcEMtb1ZGNnRoU2NYWjNyMTJlSm82YnJsN2paVlpGUnlhN3AxaER4QnlZbDQtRUc4NVZiT2I2RmE3OHJ6bWQzTDFwQlpMZ2hkLTFiNHBRTHB2UGo3OWFDNkdkUlRIUkJMOVBvMDZmWFgwQTFXUFJkelJ6bk9PQUtkQ05odWdsWXF4eFcwQWY0Q1MwZGhtbjFseFdkXzF1U09ETjVHX0tWSFc2aU5DTjJVX19Icmg4azVRdDhmbjY0ZlM3SV91TWZTdUxiNzVjSFozNG5iNDkxNXoxN3lUeTh6NkVCUzIxUkZISEV0SEJmZWgyeGY2M1JtZ2w1a0YwdndaY3hJajU0?oc=5",
+          "title": "恒指走勢丨埋單升269點返牛熊線 老鋪黃金飆12%",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPcVctRGZMUE9qNjI1QzJuM0hld1BEcURkR1lOQ0l0NTRwX19DT29pOE5ETWlnN3ZJWm1wV2lUOUd2SHdiRTN4WGRaQ1ZhaVhXbDBySHdxWUZqU2ZzMXh1OGpQakVmdHROUmRVOUxaLURaaUdYeFhwNmExdUtGQUdUSWMtVkp6RmtCQzFkRWFwWElkLUg0ZWdTcWdNNjN2bDRpY2gwbDV6U1VtaVZFMV9EZXlDQ05NdXZRZ2ZLVzYyM2oxV0RlOWVxQTVQSWwycEV1YWU3c1ViVWFiY2hXSWhTTGE3LVotQnVZZzZvNkNXa3RaU3FQYjdQenFFeVBZYUU4bXl0cTNmSVJyWGkweUNOMkxfTWduSGtHRjR0eGdObzZGeUZsLXBCc0FuMmk4SDhzLU1idGR4RU5xU3VXb1hJVjc1RQ?oc=5",
           "source": "信報網站",
-          "published_hkt": "08/07 16:59",
+          "published_hkt": "08/10 16:54",
           "related": [
             "^HSI"
           ]
+        },
+        {
+          "title": "港股收市升逾1% 科技股上揚",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rVFNOVGw1RFNFZWRqVTBjNkRsdVBJT3hrdXV6ODJPcUU4enNTOHhQSUROTWxHbVdxUThoUHcwVzVnX05ucmJaQkdhcGE3bUpsUjV1NkJvRTVYdnlTdFVqN084ci04N2FpeWtobVp1aw?oc=5",
+          "source": "news.rthk.hk",
+          "published_hkt": "08/10 16:49",
+          "related": []
         }
       ]
     }
@@ -151,30 +149,30 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-10 16:19 HKT",
+      "updated_at": "2026-08-10 17:54 HKT",
       "news": [
         {
-          "title": "台股站回季線帶量反彈，買氣能否延續到下週？-許明哲",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSTVxOWlsdjdyTUdOcHVkN0djZk0xeXRlTTc2bEt1aTdTVDhsTi1EWmRwSHBsVjduWF8tM3lOaXVKY1p6aFFyRlliRWlUaU1CYkZjWnlNQTA0R3BnaGtvVkdYdzZuVkx3UUNPT1EtTzdkSHdqeW9PR1pDLURpOEQzekR3?oc=5",
-          "source": "CMoney投資網誌",
-          "published_hkt": "08/10 16:15",
+          "title": "9400億量縮藏玄機！獨家數據曝賣壓轉折，兩大霸主營收創高「這時機」發動？",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XR1ZfM284R25DWTVqb2xkY19QTE1wbkk2TWloaFJCdnc3aEhneEJ2RkN6Z2tiOV9ZMHU5MGs2VnhEcl9FQnplMW1nY1lzd2M?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "08/10 17:16",
           "related": []
         },
         {
-          "title": "外資回頭大買517億元！三大法人同步站多方 台股狂漲703點逼近4.5萬 | Newtalk",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIMkhsYnFUX3FhWWltS0lNSnlELWN3RjhyUGdDdWwyTndUMEhLbGNKMURLQXh6WmdRRFdwWGNvYmJubm9RdGpWeHQ2c1lhem93cjEydzNn?oc=5",
-          "source": "LINE TODAY",
-          "published_hkt": "08/10 16:11",
-          "related": []
-        },
-        {
-          "title": "TWA00 加權指數- 國票金副董年薪兩千萬惹議，一銀出手促檢討- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14OHlLWGthbkZPc3lFc3U1TkJfc0lvT1ZpaW9GZ1hSNjAyTlBYSmNpN3V4T2ZOUGZrQ1J5b3dhUnNDNmFheGIyZ2QyZl9ycGoybUxDSWtPc2g?oc=5",
+          "title": "TWA00 加權指數- 盤後紀錄及早盤當沖選股補充！8/10 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HeFMyV2xLSHIwRHZOODNrTlZMcC04TGtpeUFqSkNVc29wNUhCMFZWT3ByWVVRVTRzdGNTN1A3SXN1ZHFTVkk3RTdfZGdmUDNnZDBvLXhtV1Q?oc=5",
           "source": "CMoney",
-          "published_hkt": "08/10 16:02",
+          "published_hkt": "08/10 16:36",
           "related": [
             "^TWII"
           ]
+        },
+        {
+          "title": "台股站回季線帶量反彈，買氣能否延續到下週？-許明哲",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSTVxOWlsdjdyTUdOcHVkN0djZk0xeXRlTTc2bEt1aTdTVDhsTi1EWmRwSHBsVjduWF8tM3lOaXVKY1p6aFFyRlliRWlUaU1CYkZjWnlNQTA0R3BnaGtvVkdYdzZuVkx3UUNPT1EtTzdkSHdqeW9PR1pDLURpOEQzekR3?oc=5",
+          "source": "cmnews.com.tw",
+          "published_hkt": "08/10 16:15",
+          "related": []
         }
       ]
     }
@@ -193,13 +191,13 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-10 16:19 HKT",
+      "updated_at": "2026-08-10 17:54 HKT",
       "news": [
         {
-          "title": "《台股盤後》收漲702點、日K翻紅，45K得而復失-新聞內容-基金",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYVVKRFRCQVExYTVuZXV4TFp1OFRXS3dXdTB6VHVGUGxZWk9RLVRWRXNIZElHSWctTWFReVlwaV9tWUVuTmZ3T1NZNTJYZU1mVGtzdmJhRDJsVHBHRXZhZlBHRFY3SC1Wd3hiNl9VWEJuUGFqSU9tc1lnMDhORkkzSk1BeTBMY2Q0VnNTb3R5eEs?oc=5",
+          "title": "《台股盤後》收漲702點、日K翻紅，45K得而復失- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVGF4dUZHMC1Sam44Sjl5eWdoRFBrUkxQNmZodmVzbjdYbUpQTDFqYmFaM0VkNk44Z2JHZ21ORDFSeFY2OThNNDh3eFc2aTdIakQzUHBPNmJwNTgzMmdaeVdJM1dDQ2g3WHgxRGZidjI0STN5YVNqU3l0bF9Za3Mwa0RUZGZ3R3Z3di0xVTM4d3VJZw?oc=5",
           "source": "MoneyDJ",
-          "published_hkt": "08/10 16:10",
+          "published_hkt": "08/10 16:07",
           "related": []
         },
         {
@@ -212,7 +210,7 @@
         {
           "title": "極致震盪後 亞洲市場迎來強勁反彈",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FMl85SkRWS1ltSXNaMkdmeTNESzBhTG9hU05xa3lXTVM5dkNUMEpwLXFpeUFTTUpJZXlocnR3UjJOcE5yTVQwV25qMVVTSEQtLXc?oc=5",
-          "source": "蕃新聞",
+          "source": "n.yam.com",
           "published_hkt": "08/10 15:56",
           "related": []
         }
@@ -220,8 +218,17 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-10 16:19 HKT",
+    "updated_at": "2026-08-10 17:54 HKT",
     "news": [
+      {
+        "title": "主要加密貨幣行情，比特幣升0.50% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYm10TGtmTUR1U05mZlNkX0pFcWV2VDgzd1NhdDYyOTNBa2NVcEgxell6RFdlQzhILW9SR0lzdVNBMktzN0NDZ1ZuRGhGaG5LYUUyQ1ZWQk01cHp1QklBNlRQQWRNWmxJd3dlQU9FdUJlN3VVcnlDUUtvZUNuNkJKaDZuWFRPaFE4eW8tTWlwN09FMGdiZE51aDgtbl9RS3Ja?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "08/10 16:03",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "港股異動| 映宇宙(03700)盈警後跌超8% 上半年淨利預降超30% 公司所持加密貨幣減值大增作者智通財經",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xRzF0YkJBc2hCTUE4eWhsTmtybWpuV1VCS0xMUVc3ZnRRbzk4RW93d09FODhfeV90dy1xQTlBRW9TNUpjTTNwNTcxSXJvLVlfX2JYZXhOempXZ3p6amZPUkZ2RzNtYkJiTWxNVi1FQXI?oc=5",
@@ -230,17 +237,10 @@
         "related": []
       },
       {
-        "title": "2026年8月8日-9日區塊鏈24小時最新資訊鏈共識（鏈新聞）",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SbUpxY25HX1NXTTNyMzVGTmxpYTBsSzV6dDNha05vVXlYWjd5cVVOYW1USXJhTFhZSlBPTFhucTFuYWg0Z1BMeHlQMVFBeXc?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "08/10 15:30",
-        "related": []
-      },
-      {
-        "title": "比特幣穩守65,000美元關口，美國通脹數據與伊朗局勢成焦點 作者 Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mQzFMUHRIMTUzV2ptYWJNeFpXZ0RFM3NLTnVwYnBpNk94dEpFSmtnQnVERThlVjF5RUhiaDlFaGl1WlpnNUprVGh4bnppT1FOUnZod2VycWMyd0ZobXF6UC1NWGxraXJQQzdBdlZ4d0lsOTQ?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "08/10 14:54",
+        "title": "加密貨幣週報 | 比特幣攀升至$6.5萬；美國比特幣ETF吸金$8.65億；礦企創始人稱44000爲底部",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFlTSVpxQkNuMU96MFZOdkU5NFpnT1lCU1FheGNKWS1WQkdnc0JFeF9oWkd3el9mVXo2enpFQW9ycl9jOU1OTkFDdjVhOTZ2eU02aG1UZkhBN0ltWlllaEVfdmJCVkRwOGhqUVJxNFJKQTlzcHBQRkRvWlY4UWpOWXRLM1hrNzNnMUNqR1RUUEJScDdxcGJSXzlDaGxkVW80dkQ4RlVJeUR2ektEaFB2VHBTaw?oc=5",
+        "source": "moomoo.com",
+        "published_hkt": "08/10 15:37",
         "related": [
           "BTC"
         ]

@@ -155,8 +155,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-11 15:16 HKT",
+      "updated_at": "2026-08-11 16:01 HKT",
       "news": [
+        {
+          "title": "台股45K失而復得！「這檔PCB」7月營收年增56％創高猛亮燈 禾伸堂處置出關連炸2根齊發威",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84bjdlSV92Q1I5ZnFRVkUyVmJTQU9XVTVaR2lUTFo0cjVRRkdFdDlTRkoyYjBIaHA1b3VCVDdVem4xOTVrQ2VsY1NfWQ?oc=5",
+          "source": "FTNN 新聞網",
+          "published_hkt": "08/11 15:10",
+          "related": []
+        },
         {
           "title": "台股ETF績效前10強出爐！00947年漲172％居台股主被動ETF之冠",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrNmZHMlY1LWJQT1RaYTJWOFZ0NGxTbkdkWkRJV1k5OWV5VWlFcGs1cTRtSXc5MnluN3JVYWpHOHoxdEtBcFdsMEg5bjBObXcwakJGNDdwekxGX0NuajZR?oc=5",
@@ -172,13 +179,6 @@
           "related": [
             "TSM"
           ]
-        },
-        {
-          "title": "盤中觀察：台股震盪走高 日股休市 韓股微幅走高",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTQkNiWlZnV1pWY2p6bzFMaWFTVHVsM1B1NFpVLVVUOVlCZU9haURxSi1zUTFZTjAtZkluMXg2Q3RlckNEWTR3UDRtY1V3X01EZ3c?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "08/11 12:04",
-          "related": []
         }
       ]
     }
@@ -213,8 +213,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-11 15:16 HKT",
+      "updated_at": "2026-08-11 16:01 HKT",
       "news": [
+        {
+          "title": "韓國KOSPI收漲0.73%，三星電子漲逾4%，SK海力士小幅走高",
+          "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQUW8xMWlLc0s4VjV3aHVTa1lpR1o2dWpVSHpGNllJWG9pNmY2NUtuNHJ5QW9xVDJTTkZaMU1oUkFVcWd2anM4WG51ZjRiX0Q1MGZuN1V2WU8zaEZjX0JOV3hsLVhZYjVyWGE2Q0hpdzBOb2ppSmFqbTVsVDRGbm50N0ZNclAzQXlPSmpsbTFnaWFGRkxER0JxV2dSRjdmaldZMDM0dHNONHlJV3Fhb1ByWXh0N193Zy1fbTBqa0Mxdm81NEtfU3hoZXIzMFlXeDRnbG9yLWg0bk9aMll1SmxJYXV3Mk5CcnRlVmZ3bTJ4RVZraW91WGkxX0FvMl9OTTRQMFpyRlJqSV9wRE01RF9Tclc4WHRtd1BGMnNMWU1YU0tfMkVYVkN0RC1hbjlDcWF5THVGdjg1eE5RR1Qyb2pmZVdVRTdIdw?oc=5",
+          "source": "HK MoneyClub",
+          "published_hkt": "08/11 15:44",
+          "related": []
+        },
         {
           "title": "凱基期貨拓全球商品版圖 「股農金能」四板塊微型合約齊發",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93NDEzb0N3cEs2XzY0SWxEUElVSDViVmNLRmtIR0VtMXVmdHBSd09JY0VsVzliQ19zNkk2Q0lpMkpRRXVjYThKQnJjMA?oc=5",
@@ -228,19 +235,12 @@
           "source": "idn.com.tw",
           "published_hkt": "08/11 12:24",
           "related": []
-        },
-        {
-          "title": "早安！今日產經早報",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLWVoyMTFPWkRjd1o5V0NxZ3BLT2tmTGJseEJScG93X1dXXzNLZ2pwSkdNQ09XN1o5a3RmWlQ4Mmx2NDlBN3VHVEdBbGhCWC1raWc?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "08/11 07:34",
-          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-08-11 15:16 HKT",
+    "updated_at": "2026-08-11 16:01 HKT",
     "news": [
       {
         "title": "狗狗幣價格預測：看漲背離能推動DOGE走高嗎？",

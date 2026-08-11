@@ -27,8 +27,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-11 10:35 HKT",
+      "updated_at": "2026-08-11 11:01 HKT",
       "news": [
+        {
+          "title": "輝達攜六大金融巨頭簽署五千億美元AI運算融資備忘錄，市場憂心循環融資風險｜美股觀察｜豐雲學堂2026 年 08 月",
+          "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxNZXF0c1hweHpJMHdFZGRkNEI3SVdBSG5tT016QXZQMmx4VnBMT3lGRVhna25ENUZXTDJfNDhMWFBQN0R1MUs3WXdsOGI3UWlvYXFzX3VGUWhCMmFZU1ZyMWtDT0JzY3BvalJiY1BSdDhjcFJra1g1Mno3WnY5dkdnZnNCY2hHcGJrTnhxQkFfbXJ0ZGVZenJYOVZqZEhfM0xhUFRMa28tdHF5Zmpwd2F0TENoM2UxVkpmMWhXSnRXemhhaW1Lby0xOUxkLXVDUmRlZmlaQkJZSFVrNk1CQ2hVR0Y5OWc2RWNzYVdiSEJidGZuWDBfS2ZYZFlkNnE4TGdEamxlekg3R3BDS29YVGtwZUg3TUQwN0VtWkJNWlQ2c0t0c0w0QVJ4MFBzLW9pLWxpVjVTS2lMR0pRUDFmdFhxZDBXY20wcWxwU0VLSlFyRHd1N1VfVUJkOUQxdTZUV0VtYXlvamxOLVF0bGVWWlNOWVN0eEh1Tml6VE94OFdWVUxzZGlJdU84VVdFcHV1WjNMVEVndWpxeHY5YjUxQWtqei1LSmhYTTRHYXJXVE9sMUo3d0YyZ2JuaGVieWI5c0ZNQWszeXpabFJndi1wWWMxbHl2R2puaTJ2NFVhTWZheU1yNkFnamRHcXFrSDdoZVlHdXA4RGtzQ1lhZXFVZjZ5NTRxV09WYWFELUpxeXV2QllkVzJkb0VwbTNVWWRYU1pvRkNiSF9sRGxNVU5ZaTlmVlRZN0dKdnJxeTNYbTB3?oc=5",
+          "source": "sinotrade.com.tw",
+          "published_hkt": "08/11 10:50",
+          "related": [
+            "NVDA"
+          ]
+        },
         {
           "title": "就業市場壞消息就是好消息？分析師喊標普上看8500點",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92eHJMOENiWWRvb3ZrS0RIeGVobktfSXRTSDRpWjVsbXJIZDBKal9UYnY3NVZJX3FPWHVfeG9fZmJCNFRIR1UtNFo3RldXUDQ?oc=5",
@@ -42,16 +51,7 @@
           "title": "荷姆茲海峽重啟協議卡關！美股費半重挫近3% 台積電ADR跌0.37％ | Newtalk",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zNXF5R0FBcUJtWEFjT1VJQ0NXekJyd09UQ3R6MWdfd05TM0tDdUVMVEdzY0RCcnJKeVZDMFdLYVJRZzBCYlNEXzNlMGgwNU83aVRIcHVR?oc=5",
           "source": "LINE TODAY",
-          "published_hkt": "08/11 08:55",
-          "related": [
-            "TSM"
-          ]
-        },
-        {
-          "title": "美伊難停戰！美股4大指數收黑 台積電ADR跌0.37％ - 財經新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTFBpNXlaUFlqYS1HUmtfZFBhNmpWM0dSdFRYUjFCVnpid3VRbk4yNVJjcm9RUDRiQjZZV1BhTHBrTWIzM3p2V3JoUGVRZkZnOEFHRkVUOGc1RHktX3B2QjgwVGFpUEh6cVBXaDlRc2tRRFczODVRdG5CdzZIM3psaUZiWjZmbWpaRmc?oc=5",
-          "source": "PChome Online 新聞",
-          "published_hkt": "08/11 08:01",
+          "published_hkt": "08/11 09:02",
           "related": [
             "TSM"
           ]
@@ -244,8 +244,17 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-11 10:35 HKT",
+    "updated_at": "2026-08-11 11:01 HKT",
     "news": [
+      {
+        "title": "比特幣下跌2%，MARA、Strategy報告BTC拋售",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYzBPMjBScW84NldyT3hiODgtRW5GYUlqLS1icng1SGFsNzA3cThTdDVPa3BOWWVEeGxyYU55S25HSkJyQnNNTG5MLWdWNzZzVVJLVUotdjY3enV6RlRFblFRbFhzTk83bklrV0U3MUZheE9ZcWU4VGQtR29kbi1DR1pZUEZoUlFxblY1ZjZMVEVnMC1HY0RpVzBZdnhPU3ZEdXYwSlBVN2lld1JtaU04THBYTTDSAbQBQVVfeXFMUGMwTzIwUnFvODZXck94Yjg4LUVuRmFJai0tYnJ4NUhhbDcwN3E4U3Q1T2twTlllRHhscmFOeUtuR0pCckJzTUxuTC1nVjc2c1VSS1VKLXY2N3p1ekZURW5RUWxYc05PN25Ja1dFNzFGYXhPWXFlOFRkLUdvZG4tQ0daWVBGaFJRcW5WNWY2TFRFZzAtR2NEaVcwWXZ4T1N2RHV2MEpQVTdpZXdSbWlNOExwWE0w?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "08/11 04:39",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "加密貨幣與華爾街領域的焦點動態 📌 由 Tom Lee 領導的 BitMine 上週購入了價值約 1,420 萬",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13cEtvZjBlRnBvaDI2OEtGQ09tbWJqazV3a3hZanMxcDNpenhVQWdVdFpjS1ZtdG56dGRvUnZtZllYOVpyZGJwS1pydU1SMmxaQXB0TkYzSEU4YVY0dUZQeFdEX19uQllIejR4Zm9zMnNtZXdZeEdhVlcwZw?oc=5",
@@ -254,17 +263,10 @@
         "related": []
       },
       {
-        "title": "ADA、DOT、HBAR 價格重挫後 Grayscale 撤回三隻加密貨幣 ETF 申請",
-        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOZFViV2xydkJDcGhXQjY5MG1vWmoteHRWcGJERHl4dTFnMk5pMkpiZDFlWmRhOXpudEo2eFYzTmRWYWhXQW5QakV2bzlFTE81RlVJQ0QzQ3h1QURhdnRPakNDTWZnNDNUbk05VExBSHo1c1M0U1Z5UVVVOF83aXRPMEo1OEt4a1lZNmlEWVBMWlRjOHduM2FpWDVWd3p5WlNEc1UtLU5oU256VnN6YmR1UnJBY0E5ZjBzUFZlUzd6TnJmM21QMi1oLXMtMHhYazZua3M2ajVlelBDcFFzQzRoVkhaN3EwVk1YU056OExqc0FPNVlrT3JmSGs5RGVrZ3JMTTdPckVUMWtXamZGLUw3ajlncEJlUmtzV0Nla0owdkMtdnoxZ05id3ZZdVFTdTFWaWpDZQ?oc=5",
-        "source": "Yellow.com",
-        "published_hkt": "08/11 03:01",
-        "related": []
-      },
-      {
-        "title": "黃金測試突破，BTC下滑",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ1l0X01kdE1hRkk0YVNoVEZ5d3pRUno1MDJ0U0p3dUtXV21BTVJnQ09BUHVhSWFhVUNXam9EbXdCQ3AyRjZnQzlfdHRjQWkwclBZSXB5Z09KbTFKcjQzQjlKNC11bVp2NmVRMC04bVZldFd2eUEzcUNvNnJJbnJYSUk0MmgyZ25Qb1JkcXFseEY2MTZic2dqcTN4X1lwb19vcDI5Rl9yaFdBdW9NeVhBMnRXTGJSVHEzeUlnLW5CZlFxV3FpeU5iVlVWdXlaOEUyZXVuSi1DS2FQSzdna0FHbzFUbFB0Z2VXay04a9IB7AFBVV95cUxQZ1l0X01kdE1hRkk0YVNoVEZ5d3pRUno1MDJ0U0p3dUtXV21BTVJnQ09BUHVhSWFhVUNXam9EbXdCQ3AyRjZnQzlfdHRjQWkwclBZSXB5Z09KbTFKcjQzQjlKNC11bVp2NmVRMC04bVZldFd2eUEzcUNvNnJJbnJYSUk0MmgyZ25Qb1JkcXFseEY2MTZic2dqcTN4X1lwb19vcDI5Rl9yaFdBdW9NeVhBMnRXTGJSVHEzeUlnLW5CZlFxV3FpeU5iVlVWdXlaOEUyZXVuSi1DS2FQSzdna0FHbzFUbFB0Z2VXay04aw?oc=5",
+        "title": "加密貨幣價格預測：XRP、Strategy 與加密貨幣——美國收盤綜述 8月10日",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUjJEQkFQZktfbDk3OEVrN1NQejQweGN6YkRIQlJZS1FaSGctbTQwTUdEUFNaYnB2RldJOHJ5VmhoZ09rVThqV0syTm1PelJOdWR5RnN5Vm1scXpad0tSenZTUl9zQnRqcDU0dWhIb3QxaXE5ZkVqeWlueGszdHNEVG9DSUtwRHNSZzlpWXc0UHp4bmFkVFUwYzd2YVVVcEZyYXUtamVYTWhPSHM4ekNzN0t1OFdOZHRmNDFsVXlkMzgwcGNDNEh6N01yV1VQTS1wMzU5Q2pJZjZsTkpaMF96eXAyeFlPOUVZN0VF0gHrAUFVX3lxTE1SMkRCQVBmS19sOTc4RWs3U1B6NDB4Y3piREhCUllLUVpIZy1tNDBNR0RQU1picHZGV0k4cnlWaGhnT2tVOGpXSzJObU96Uk51ZHlGc3lWbWxxelp3S1J6dlNSX3NCdGpwNTR1aEhvdDFpcTlmRWp5aW54azN0c0RUb0NJS3BEc1JnOWlZdzRQenhuYWRUVTBjN3ZhVVVwRnJhdS1qZVhNaE9Iczh6Q3M3S3U4V05kdGY0MWxVeWQzODBwY0M0SHo3TXJXVVBNLXAzNTlDaklmNmxOSlowX3p5cDJ4WU85RVk3RUU?oc=5",
         "source": "FXStreet",
-        "published_hkt": "08/11 01:03",
+        "published_hkt": "08/11 03:02",
         "related": []
       }
     ]

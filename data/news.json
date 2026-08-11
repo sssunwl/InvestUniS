@@ -93,33 +93,34 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-11 17:27 HKT",
+      "updated_at": "2026-08-11 22:21 HKT",
       "news": [
         {
-          "title": "【港股收市】恒指跌284點 科指挫近2%跑輸 金股沽壓大",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XU2ZlTlVTOHJjVDBhYTN1Um9GLVJudFlNWTZ1eU9Sc29ReHJhMGYzUHBhZ1lNckZzNGV0RndoUjBva1JTOE41VVNpUHZ4VGtWWlNiNkdDd3JTZ285SXI1Y1pmaW9OR3JPdlNJMDF3?oc=5",
-          "source": "Now 新聞",
-          "published_hkt": "08/11 17:08",
+          "title": "港股短期內若無重大利好消息：恒生指數或需回踩兩萬五水平尋找支撐",
+          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQSnBmdmJWRGRZOTkwV1JDSlVXWHVJQzJXNEFVeTNGQ2RUSGs3eWRCQS1ScWhhdXNVRFdqWW0yYzBiOC1zY3g1dmx1NjdLd3didnpQcVdQck5icHZBSUxFU1R4Ukd4MUlqNHQteldjMF9vaUduRzRORHQtRGJaUDVZWXd4MHM5M094T29RUGtVSGFlcUhoVmpMNnZuMzhzSmRoQjYtdDFsZnBDLXpEZ3hpcEx1YTd4dnBkYWpUYzdVQXBrNzNrSDU1UEhvRWg4NjcyUUlmZ3o1aWNLOTg1Y09reTFNU0ZYZ01TdWZGVVFWQTUtWnlLMTBCNzVKdUtzc1QySzA5MlpBSzkxd1NmR2RFOUIxUmVLdF9WQ2JHYmREbG9Xdk9EbWVWQUxmUGQ2a2xtMnNRY3NhLVEwMUtPZ3ctVGRCTlg2WXc?oc=5",
+          "source": "香港財經時報HKBT",
+          "published_hkt": "08/11 18:03",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "恒指走勢丨低收284點兩萬六得而復失 再失牛熊線",
-          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNV2pRVURWZEFyQUNuY0J6b1hLc2E3bUdZN1VjRmVvTUlHeGtZNFV4ellwMzNKNVFQeXN0T1FYZlZYbHlQSjRyam14U2lydHMtV0hfbUY1RkR0UDBoQ3NzRkNtMzdjZGhMMldmVnlPMHhkS05OSGdGaTFjUmxWUFlzZHRZaDZvc1F5SUhIcHQ5S0tEaVg3ZE9xeEE2SFZHMUc0YzlMNlh5UzFwbGN2QjduckhsQUZGRVZMX21Rck1WTTJudEs1akRYbkNRdFQxVHB2UGVzTTV2dnlYalduSVVqOUpaQXNGc0E3N0NqRUNMT0ZJandNMUpWcW9kTFpTMjdBM2VVdDNDVjJqTUlaa0ZzZUtNWXF6d1FQRThRbmtCVHJIODNoRjZaT2ZKMXNvM2E4RTJSSF9zX3RpZ21VOGF1STM5Tk5zOEtBNVZ5NkhEZTF4N0FzdjZF?oc=5",
-          "source": "信報網站",
-          "published_hkt": "08/11 16:55",
+          "title": "【港股收市】恒指假突破真回吐 科技巨頭放榜後料「見真章」",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zNlVrLW9iOGI4c3pSeXU1VDVOcjhFYlFWSk1lTk1KOEFHZFNDSjAyb1NGb2JJaDQ4VHJHd3B6RnY1QkdqbEZhRzBtaWdaVXEtSzYxV1lDTGVVcUhvSTQ5TmRvLVJmaXlRUWxiZGVhTS1wVW5KVHlz?oc=5",
+          "source": "香港文匯報",
+          "published_hkt": "08/11 17:49",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "港股收評：恒指跌1.1%，科網股黃金股領跌，石油股逆勢走強、豬肉概念股普升 作者 格隆匯",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhQWI5ZGRKY0l3T0J5dzdkZHVEbGlPT2lzYTh3M0VTdUozRkUxbVA0SDlaT210aENqRlhhWHdQWS1vUktmd2tMbkhiVWx4RmFyMml3T21rMmV6RlJBaHZUMUF5dDM5WUI3RW5TY2EtWnQ?oc=5",
-          "source": "Investing.com 香港 - 股市報價& 財經新聞",
-          "published_hkt": "08/11 16:51",
+          "title": "恒指觸兩萬六後倒跌 騰訊偏軟 三桶油上揚",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ2lIcG94RE5idWxuYUtXTFVha2s1dHpURi00czk3a1BDekU2Z1BCMENrMlFwdzZUTTZmaW9wWnRWanJmS3R5NXJzaGhDcmJvNXI0MGxQdEtSRFFIRC16eUE5dmY3S2FrTTJtWHpkLVhYM2JScWlTWThRemdtY2NEc29BSnlsOW5IdnZGSTI0QQ?oc=5",
+          "source": "on.cc東網",
+          "published_hkt": "08/11 17:45",
           "related": [
-            "^HSI"
+            "^HSI",
+            "0700.HK"
           ]
         }
       ]
@@ -155,34 +156,32 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-11 17:27 HKT",
+      "updated_at": "2026-08-11 22:21 HKT",
       "news": [
         {
-          "title": "《台股重要指標（3-1）》加權指數 6日ＲＳＩ為54.89",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeDVQT3ZWdlJITXl4RXNFU3VCQmNUZTlXbi1TWjhDcTNtMExWU2xhS1NvSERmNEJ2WXRKYWE0dXFYbXRmc3FNNk5McXlaS09nVGNpVjdmamdmdk1HUHpNRjBZSUhLMnVhN2hvbjVZeTdrM29Ebjk3a2ZjYkVnTWI4U3AtamwwUlFq?oc=5",
-          "source": "富聯網",
-          "published_hkt": "08/11 16:35",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "《台股重要指標（3-2）》加權指數 9日Ｋ值為85.65，9日Ｄ值為70.91",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTGhaQjVTbU95a001aVo3ZUpZaWRHelBuZEx4a2xfQU8xZktKWEwzWWZMd3FDTE1QWnhjOWZnQlJ2QTBLeHQ4bGRNNldPUjR2YTd4UVZGZTY0c1lqelN1b1BEM2tOSHoyaVJ0c3FyVVg0cHJEX0xnVTN3T3I2ZWVVSC1VLWU0WUFT?oc=5",
-          "source": "富聯網",
-          "published_hkt": "08/11 16:35",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數- 今日大盤籌碼- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MTnFqZGhXSTVUVUtfNmd4U1hQSnFsZS1GdkdORC1jWWJtYnhMaHhpTThpeVJudVktZXEyT0hxemRXalZNdDA5M1BGbkNXbklBUFBiblVGNms?oc=5",
+          "title": "TWA00 加權指數- AI及記憶體需求強勁，半導體網通營收創新高- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4ybDRXREtKSnA1Q00tZ3AtRE43QVEzcUNxTTFDS01FclpRX1pSQ18xNXJYMHJKZHYtcTc5ZGdERjB1d2tyV2pLQzQ2X2h5bTREdnZHMTd0SlU?oc=5",
           "source": "CMoney",
-          "published_hkt": "08/11 15:17",
+          "published_hkt": "08/11 20:32",
           "related": [
             "^TWII"
           ]
+        },
+        {
+          "title": "TWA00 加權指數- 半導體擴產潮！先進封裝與代工鏈營運報喜- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5idHJCeVVNOFhKcEc2NDNLajk0bjhFSFBWVDROdDY3a0lNZ2RYWlF1RFcxNkxLdlI4R01Wc05ZMXNpYTE4aVVBTlR2WjVEcHZ2dUVhWWxxVUw?oc=5",
+          "source": "CMoney",
+          "published_hkt": "08/11 18:31",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
+          "title": "台股11日反彈無力再陷回檔修正 光寶科股價上沖下洗一度創新高",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtYmh5X2VfQVNva3h1ZjNaY1hmSTU5QWY3Z0pTc0lGZEZoUTh2Z0h1VFkyZ2NKcTNPaXlydm05eS1CUzV5VUtTbTU2Z0xCVEhTNHc?oc=5",
+          "source": "蕃新聞",
+          "published_hkt": "08/11 18:14",
+          "related": []
         }
       ]
     }
@@ -217,7 +216,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-11 17:27 HKT",
+      "updated_at": "2026-08-11 22:21 HKT",
       "news": [
         {
           "title": "台股震盪 日股休市 韓國小漲 中國股市小跌",
@@ -236,7 +235,7 @@
         {
           "title": "韓國KOSPI收漲0.73%，三星電子漲逾4%，SK海力士小幅走高",
           "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQUW8xMWlLc0s4VjV3aHVTa1lpR1o2dWpVSHpGNllJWG9pNmY2NUtuNHJ5QW9xVDJTTkZaMU1oUkFVcWd2anM4WG51ZjRiX0Q1MGZuN1V2WU8zaEZjX0JOV3hsLVhZYjVyWGE2Q0hpdzBOb2ppSmFqbTVsVDRGbm50N0ZNclAzQXlPSmpsbTFnaWFGRkxER0JxV2dSRjdmaldZMDM0dHNONHlJV3Fhb1ByWXh0N193Zy1fbTBqa0Mxdm81NEtfU3hoZXIzMFlXeDRnbG9yLWg0bk9aMll1SmxJYXV3Mk5CcnRlVmZ3bTJ4RVZraW91WGkxX0FvMl9OTTRQMFpyRlJqSV9wRE01RF9Tclc4WHRtd1BGMnNMWU1YU0tfMkVYVkN0RC1hbjlDcWF5THVGdjg1eE5RR1Qyb2pmZVdVRTdIdw?oc=5",
-          "source": "HK MoneyClub",
+          "source": "hkmoneyclub.com",
           "published_hkt": "08/11 15:44",
           "related": []
         }
@@ -244,32 +243,33 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-11 17:27 HKT",
+    "updated_at": "2026-08-11 22:21 HKT",
     "news": [
       {
-        "title": "狗狗幣價格預測：看漲背離能推動DOGE走高嗎？",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSmNER1RUR0pDZ3JTSWRaeTFrbkd3ZV95SmVUMUw4eWtOd1VSdDNaalJMZEhpMHdMMVVZZktseU13c29ZV0VuTDN0WXdQN3dxTlhzdFpNZ21HR0lNZi1vcEJuSGpZVlNuOG1VSXZmNmZuMDhPSWNLTFlBb3JkLVdmZXlva3pwOXRoT3N2N1hBbzU2Q0lGUGJrdmVNNi1MYk1PYUx3c2Jrb20wdFgzQUN1Vk1pcWJEM1pPMzl5UjZJczNjcjVRM09UQjZJY1pyc3lEQl9jeERRaW1UQdIB2gFBVV95cUxPSmNER1RUR0pDZ3JTSWRaeTFrbkd3ZV95SmVUMUw4eWtOd1VSdDNaalJMZEhpMHdMMVVZZktseU13c29ZV0VuTDN0WXdQN3dxTlhzdFpNZ21HR0lNZi1vcEJuSGpZVlNuOG1VSXZmNmZuMDhPSWNLTFlBb3JkLVdmZXlva3pwOXRoT3N2N1hBbzU2Q0lGUGJrdmVNNi1MYk1PYUx3c2Jrb20wdFgzQUN1Vk1pcWJEM1pPMzl5UjZJczNjcjVRM09UQjZJY1pyc3lEQl9jeERRaW1UQQ?oc=5",
+        "title": "比特幣、以太坊盤整，瑞波幣延續跌勢",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNnNKMjU0bHBmM1RlSkF4N0dJeG5iTTFjVlVOaVBQWldFZHRJQzJOSlJXSHpxTDFhLUJuUnN1RjY3cEdqSVZWN3dxNUpfLXpRX3dzQnI0ekNmZ1BwNFAzWFJJZE5aa2QwUkJ4TTVlQkdRQklYUEEtVjRzdE52SWFlOUc5UG1neTdUYjFETGo5akx5U1BtTUR1TmlveElKbVphQk5qX2VfZzJGUHlaSHBrN1g2UFp4SlZXWXFRcVhBeVpaaGpmU1h3VzVsOU1JZG4td0p6UEZvQnN3Zkx6eTVaamZSeVVEMmsydVR3dzF0SEFKR1FXWm42QkJTdWlJUlBnWGx0ZTNzZVNTTGhVNHg40gGPAkFVX3lxTE02c0oyNTRscGYzVGVKQXg3R0l4bmJNMWNWVU5pUFBaV0VkdElDMk5KUldIenFMMWEtQm5Sc3VGNjdwR2pJVlY3d3E1Sl8telFfd3NCcjR6Q2ZnUHA0UDNYUklkTlprZDBSQnhNNWVCR1FCSVhQQS1WNHN0TnZJYWU5RzlQbWd5N1RiMURMajlqTHlTUG1NRHVOaW94SUptWmFCTmpfZV9nMkZQeVpIcGs3WDZQWnhKVldZcVFxWEF5WlpoamZTWHdXNWw5TUlkbi13SnpQRm9Cc3dmTHp5NVpqZlJ5VUQyazJ1VHd3MXRIQUpHUVdabjZCQlN1aUlSUGdYbHRlM3NlU1NMaFU0eDg?oc=5",
         "source": "FXStreet",
-        "published_hkt": "08/11 13:05",
+        "published_hkt": "08/11 19:01",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
+      {
+        "title": "加密貨幣ETF資金流向8月10日逆轉,比特幣基金流失1.45億美元",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xYkJnbU9zUkxaZFNrc1ZmQU5FN2M1NEo2MkVHNi1TUGRmYjhRU0UtMVp6YTdnSUVfZFBsMGxpcFM0Rk1Xb21vQ3Z4MWJzRG1PR3dCWFpRLU9maVRRV3M4dktpU0o5cElqOEU1RC15STVULURNekxR?oc=5",
+        "source": "FinanceFeeds",
+        "published_hkt": "08/11 18:28",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "Pump.fun因穩定的收入、回購和銷毀而上漲",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN01vRjREMVY5d0NQaWxyTGNVemxWbmhGNHdab1YwNE1sYkxrVWlBMkdwUk1QWHIzSF80TmE3bUZPQUJsX3JKTmtDdHdFOHJrRGsydUtHbk1LTV9sclNnTlA3SFprZ2JjMkdwYld3Mld1Rm9jaXFCUDl0ckRhOTByajZTd3RGa29VZmJNVTczdVJWYktSaElBWEdTdlFwUTlib09NQzdBZFRMZTVMcm5zLXNDTC1IbHVDZXp2OE5VQ1VkTkJXM1ZtSkwwYW82MzQzblY4Rl9lUmwtX0hhNlHSAd4BQVVfeXFMTTdNb0Y0RDFWOXdDUGlsckxjVXpsVm5oRjR3Wm9WMDRNbGJMa1VpQTJHcFJNUFhyM0hfNE5hN21GT0FCbF9ySk5rQ3R3RThya0RrMnVLR25NS01fbHJTZ05QN0haa2diYzJHcGJXdzJXdUZvY2lxQlA5dHJEYTkwcmo2U3d0RmtvVWZiTVU3M3VSVmJLUmhJQVhHU3ZRcFE5Ym9PTUM3QWRUTGU1THJucy1zQ0wtSGx1Q2V6djhOVUNVZE5CVzNWbUpMMGFvNjM0M25WOEZfZVJsLV9IYTZR?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "08/11 18:04",
         "related": []
-      },
-      {
-        "title": "比特幣因機構拋售而走軟，而CRV、ICP表現優於大盤",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNTR5dS12QnNlS1YyalRQUVpLVDkxclJpcWFiNzN6RWIyeG9yRlREVE1SZW9XN01mR25YZ3RNWU9IXy1hMkRwLVJGTGpZVmlINHhYUHdmNHNkTldFalBwWXNXMWY3Y2VuZGFiT2ZIVmtoVjB0MmJvTUFzeWY1LWVUZy1rUGhhMVd1Z1lCN2dMNktkMEZmS3F3eVNGMlVhSkczQW1SUlBmUXlZSVJqdU9nc2k0SlI1RVFicXpyaDFUOHVrbWNuYlk3QXlWLVJvTzYybEhlVGFRTjVpbDZXeXBLNUI2eElIal9MVkdjY3dpRHnSAfABQVVfeXFMTTU0eXUtdkJzZUtWMmpUUFFaS1Q5MXJSaXFhYjczekViMnhvckZURFRNUmVvVzdNZkduWGd0TVlPSF8tYTJEcC1SRkxqWVZpSDR4WFB3ZjRzZE5XRWpQcFlzVzFmN2NlbmRhYk9mSFZraFYwdDJib01Bc3lmNS1lVGcta1BoYTFXdWdZQjdnTDZLZDBGZktxd3lTRjJVYUpHM0FtUlJQZlF5WUlSanVPZ3NpNEpSNUVRYnF6cmgxVDh1a21jbmJZN0F5Vi1Sb082MmxIZVRhUU41aWw2V3lwSzVCNnhJSGpfTFZHY2N3aUR5?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "08/11 11:23",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "貝萊德將比特幣ETF實物轉換最低金額下調至100萬美元",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNU01TQnF5YzYxeDFLbkUtdEhTdkxnREVGRWxkMzVYYzdkT1dwd0h6cHNMNFRwbTlkZU9vWTFVdE5zLWVHbnAxdGFBZnM4VHNyOEtjbnFHbEhpeGVFZUwyaDZ6dE9xUlU5NS00Sms1Z3AyRUdqVm1GTmMyQkNLdWpaRG9rN29BZVk3N01lS0hWZDBMWk1od2R1amNZRDhscU1zNUdkQjFSTHlHRjFiNTRtb3U1WUIycm93OHpBLXZuSWJVNmRFdTFfb3pBdXJNRFl0TFV6MGw1a1dob3cwSnloa0hUbVdfZ9IB5gFBVV95cUxNU01TQnF5YzYxeDFLbkUtdEhTdkxnREVGRWxkMzVYYzdkT1dwd0h6cHNMNFRwbTlkZU9vWTFVdE5zLWVHbnAxdGFBZnM4VHNyOEtjbnFHbEhpeGVFZUwyaDZ6dE9xUlU5NS00Sms1Z3AyRUdqVm1GTmMyQkNLdWpaRG9rN29BZVk3N01lS0hWZDBMWk1od2R1amNZRDhscU1zNUdkQjFSTHlHRjFiNTRtb3U1WUIycm93OHpBLXZuSWJVNmRFdTFfb3pBdXJNRFl0TFV6MGw1a1dob3cwSnloa0hUbVdfZw?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "08/11 09:01",
-        "related": [
-          "BTC"
-        ]
       }
     ]
   }

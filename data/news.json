@@ -27,29 +27,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-11 07:55 HKT",
+      "updated_at": "2026-08-11 10:35 HKT",
       "news": [
         {
-          "title": "美伊緊張局勢推升油價衝擊市場 美股週一全線收黑",
-          "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPb2Q3QTB1YjZGR1RFa1pNNlY5YWxNaUhVNVpkeHJPeU91a2doMXB5QlZXQ2ljcURaTHl1TFVwbzk4SXFmeDJDdjJpbXFzQjhXQUU1Y2NKUVNkS0FzYmY4UHdZV2RyRmhDaTA3S1ZpYWxUOTZaODZ3MUtVNDlSWEk1OFpIc1VXd3VYYWxYX2J2NmRTbnM2eEpVckNPU2VNUnpXdjVjaFk2WHhnWjlLMkI4NklYQ0FyOGNTczdZTlJEdEJ3Y0NZQ21DeEZqMmtiSzJfLVNreWtwd1ZFOTl0TWhNNmxJd3Rudnl6eFVieFZfNTJRa2RsYS1sbU5XUUp6VEcwNWNLa0RJMDNfT2oyY0l2QTVvYkFYVzR5THF5QXZad0lZeHI0bWZVR3ZsYlU4M1lrbGtvc3FuWjRreWtEQ1dmUWp6MHdPQXZiVkNEa2poWmt4clBaTEZxSDJ3?oc=5",
-          "source": "Yahoo股市",
-          "published_hkt": "08/11 07:23",
-          "related": []
-        },
-        {
-          "title": "美股轉弱引發避險情緒 那斯達克挫跌0.44%",
-          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQdFRuUU9yZlZONVZjQXk5NFppVFZwSU1OaUNZX3RzbmV4RndSMFJ4aGJhTzZENVFFT0dPbFJZQV9KcFdfVTZGZUZxdE9NMEl0anJrZ2xtMlRIN1h0ZGNVVllodU1wZGFkT1dVS0JwVno0RUdWZlIzM0lRZV81cEQ5V1dxYU9PU0V0Y2VyaEs0RDZrLVF0dEhDTjRxTFZKekhtVkg1RkhzVHZLWWdzck5iWEZrbjEtSHRfLUk5THh0U3pDSmlUaVdvYkFFTzdsQUtvR3dxOENBZlJhSUk3VEtPR0E5c3JwWkVld2wzSmtFRGh2ZHJQOFdRR043NmJLVnJBbVYwUFlqQkk0YldybzkzX1lCNzZCSG13OVRyMW9FUXBxWWto?oc=5",
-          "source": "商傳媒",
-          "published_hkt": "08/11 07:23",
+          "title": "就業市場壞消息就是好消息？分析師喊標普上看8500點",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92eHJMOENiWWRvb3ZrS0RIeGVobktfSXRTSDRpWjVsbXJIZDBKal9UYnY3NVZJX3FPWHVfeG9fZmJCNFRIR1UtNFo3RldXUDQ?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "08/11 10:30",
           "related": [
-            "QQQ"
+            "SPY"
           ]
         },
         {
-          "title": "美股收盤》美伊僵持油價飆 美股震盪費半重挫 台積電ADR跌0.37％",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ndm8xNlJDOVJqcjhHb2hWNnBscjk4OG1kcnRxR2ZzRkVYZWk2cE1kaTNrWUtFbVMtTV9kZmFNWHNjaGlBMWdiU0I1cUp6djhLcmV2eDFxNTdIbk4xQUhB?oc=5",
-          "source": "自由財經",
-          "published_hkt": "08/11 06:26",
+          "title": "荷姆茲海峽重啟協議卡關！美股費半重挫近3% 台積電ADR跌0.37％ | Newtalk",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zNXF5R0FBcUJtWEFjT1VJQ0NXekJyd09UQ3R6MWdfd05TM0tDdUVMVEdzY0RCcnJKeVZDMFdLYVJRZzBCYlNEXzNlMGgwNU83aVRIcHVR?oc=5",
+          "source": "LINE TODAY",
+          "published_hkt": "08/11 08:55",
+          "related": [
+            "TSM"
+          ]
+        },
+        {
+          "title": "美伊難停戰！美股4大指數收黑 台積電ADR跌0.37％ - 財經新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTFBpNXlaUFlqYS1HUmtfZFBhNmpWM0dSdFRYUjFCVnpid3VRbk4yNVJjcm9RUDRiQjZZV1BhTHBrTWIzM3p2V3JoUGVRZkZnOEFHRkVUOGc1RHktX3B2QjgwVGFpUEh6cVBXaDlRc2tRRFczODVRdG5CdzZIM3psaUZiWjZmbWpaRmc?oc=5",
+          "source": "PChome Online 新聞",
+          "published_hkt": "08/11 08:01",
           "related": [
             "TSM"
           ]
@@ -242,7 +244,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-11 07:55 HKT",
+    "updated_at": "2026-08-11 10:35 HKT",
     "news": [
       {
         "title": "加密貨幣與華爾街領域的焦點動態 📌 由 Tom Lee 領導的 BitMine 上週購入了價值約 1,420 萬",

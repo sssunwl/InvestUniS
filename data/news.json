@@ -150,32 +150,34 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-11 22:21 HKT",
+      "updated_at": "2026-08-12 15:40 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數- AI及記憶體需求強勁，半導體網通營收創新高- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4ybDRXREtKSnA1Q00tZ3AtRE43QVEzcUNxTTFDS01FclpRX1pSQ18xNXJYMHJKZHYtcTc5ZGdERjB1d2tyV2pLQzQ2X2h5bTREdnZHMTd0SlU?oc=5",
-          "source": "CMoney",
-          "published_hkt": "08/11 20:32",
+          "title": "台積電領軍走高 台股收漲397.35點",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFSkU2OWJKQkFaZzdwWTExWWF1amFNWEttalB4ZEJQYzU5d2Nfc0FXa3E2SU80cHFLZ1RobkdDQVEtZF9aN2hDTzVfNno0ZWxERnc?oc=5",
+          "source": "美麗島電子報",
+          "published_hkt": "08/12 14:15",
           "related": [
-            "^TWII"
+            "TSM"
           ]
         },
         {
-          "title": "TWA00 加權指數- 半導體擴產潮！先進封裝與代工鏈營運報喜- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5idHJCeVVNOFhKcEc2NDNLajk0bjhFSFBWVDROdDY3a0lNZ2RYWlF1RFcxNkxLdlI4R01Wc05ZMXNpYTE4aVVBTlR2WjVEcHZ2dUVhWWxxVUw?oc=5",
-          "source": "CMoney",
-          "published_hkt": "08/11 18:31",
+          "title": "台股收盤／台積電漲20元撐盤！台股上漲397點 CPO、矽晶圓跌深反彈",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LUkVKdHNqclFUMXlPNjh4Sk5EY3phb2hJNGhETkZfUXdmczlmeEhFLTJyNU1ZV2hDLTg2UlRnampDRkFmbXZGVnRvZw?oc=5",
+          "source": "三立新聞網SETN.com",
+          "published_hkt": "08/12 13:52",
           "related": [
-            "^TWII"
+            "TSM"
           ]
         },
         {
-          "title": "台股11日反彈無力再陷回檔修正 光寶科股價上沖下洗一度創新高",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtYmh5X2VfQVNva3h1ZjNaY1hmSTU5QWY3Z0pTc0lGZEZoUTh2Z0h1VFkyZ2NKcTNPaXlydm05eS1CUzV5VUtTbTU2Z0xCVEhTNHc?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "08/11 18:14",
-          "related": []
+          "title": "台積電最後一單爆1.7萬張拉漲20元收最高2415　台股收漲397點",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTVGREQl9pc0dST0VRZWNncFhaM3RkTFFyR0JPeWl4b2tlcHk5SWNBbFhXRjFKbWxncmFFaXlfTUtQMHZhcFhjakgyOHM5LTFaN2fSAVBBVV95cUxNampoSXVoNExfT2djSzNENkRRU1hGUlEta2c4b0hFQTlBQTVPX3pZNHh3eEVobENoeWRDMFJtdEQtVFpFa1hFX2ZkbFFNVjRpaA?oc=5",
+          "source": "ETtoday財經雲",
+          "published_hkt": "08/12 13:34",
+          "related": [
+            "TSM"
+          ]
         }
       ]
     }
@@ -208,60 +210,61 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-11 22:21 HKT",
+      "updated_at": "2026-08-12 15:40 HKT",
       "news": [
         {
-          "title": "台股震盪 日股休市 韓國小漲 中國股市小跌",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjVThCZHNZUUdhaTdHbW9oNE01UVBDclJHT18wbkwyOTVreUc0THlmVElqYVp0V29rSkladUNyOGprWWRHb3U1UEZ1cUhUNVRFRWc?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "08/11 16:05",
+          "title": "日銀升息預期帶動金融股走揚　日股收漲",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZeWYxdTRPZEd5cUdhNG9Kcjh4cVB3eEhZOVQ1S0dXRl9mMF9CcEZHZFMwSk9tTnlYVElmUTYtbDg0OERSUkppU2pIVjNWUDRIaWxsT0lyLXdvd9IBX0FVX3lxTE9PMDZhTTU3NXU5QVZfZThiaVZCTlIzenRlY1BzNzJUdU45UC1iNDYwNTBmNVoweTIzRjNOM01YakhTckEwU2x0TGxHQ3BVN0x2SXV1STRMV05ld3JSWHNz?oc=5",
+          "source": "經濟日報",
+          "published_hkt": "08/12 15:21",
           "related": []
         },
         {
-          "title": "迎戰行情震盪！凱基期貨擴大全球商品版圖 「股、農、金、能」四大板塊微型合約齊發",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44Y29aYno1Zlp6VFhHcU1aQmFrMjhPQ0lHVXAtdVBzT2lQQ0w0Q1BXdUhBcVpZN2ZEeGFFNWM2MndmNnlwOEIzX3l1VmU3dml2M1E?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "08/11 15:58",
+          "title": "日韓股市收盤走強！KOSPI漲超3%，三星漲超6%、SK海力士漲逾5%",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWWtCZ09LZmpma0JZYm91Ny1RWk95YVQ5UE55REd4R3lTOGtwOUR3aFJIdnRXanlybE5HTWFSd1pwVVNCOThSNFVFcV9DUDh2Sk1wc2VDUWYzYVdGT1FqMEVHRGZ4ckZoUG5DcDlmeHNSWHV1WmhfVVpCdmVfX2tETkhFbjlSX0ttS0J3WkFsa0JMRFRVX0M1bGp5MGVNOXc5ZmJNRkI2QmczOXI2eDJuNkk3SldPZ1NWRUJsRFZoN01WdG1qenN0bmI1amduMkE0VmNYV0I4S1R1U0ZvMmU1Sg?oc=5",
+          "source": "TradingKey",
+          "published_hkt": "08/12 15:04",
           "related": []
         },
         {
-          "title": "韓國KOSPI收漲0.73%，三星電子漲逾4%，SK海力士小幅走高",
-          "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQUW8xMWlLc0s4VjV3aHVTa1lpR1o2dWpVSHpGNllJWG9pNmY2NUtuNHJ5QW9xVDJTTkZaMU1oUkFVcWd2anM4WG51ZjRiX0Q1MGZuN1V2WU8zaEZjX0JOV3hsLVhZYjVyWGE2Q0hpdzBOb2ppSmFqbTVsVDRGbm50N0ZNclAzQXlPSmpsbTFnaWFGRkxER0JxV2dSRjdmaldZMDM0dHNONHlJV3Fhb1ByWXh0N193Zy1fbTBqa0Mxdm81NEtfU3hoZXIzMFlXeDRnbG9yLWg0bk9aMll1SmxJYXV3Mk5CcnRlVmZ3bTJ4RVZraW91WGkxX0FvMl9OTTRQMFpyRlJqSV9wRE01RF9Tclc4WHRtd1BGMnNMWU1YU0tfMkVYVkN0RC1hbjlDcWF5THVGdjg1eE5RR1Qyb2pmZVdVRTdIdw?oc=5",
-          "source": "hkmoneyclub.com",
-          "published_hkt": "08/11 15:44",
-          "related": []
+          "title": "恒指半日跌300點 港股見逾兩周低 北水流出13億 (12:07) - 20260812 - 即時財經新聞",
+          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQeG15RlVYTFBPeU5TMVNfUWdETllPS0pmNVMwWlM5eVAwNDQ1SzJYc01BX1FfMGpnNDJxS1FkcmNRVjBIenllY29nSE44endDZEVEbDRicHJNaDRNRklDWHAyY2NaV1dEVWJtNmc1cXJIbWlrYWpoYWdfVG1WX1NoLXJRUzlNaDBjbmJvRUpacWh1RVYycG5aMmlTNEg1dThYMlVoRkxBRWVEaXlWVG9jNFpZTkdIZTFCQzRYTjZPUnY4SWVvdmVoZU5WLXFjc2xBU09VY1V6MWpPWF9IRi1TaDVNYkFmc1M0SWF6STRsbVVzMTdtUURxQlRnTkRORmdURXZZdG1KRTNDamVYYURXTFRfRXhucGI4UHBaemZqUk9YdUVBT3RrZFlZVUY2WllJLWt4Z0otUHp0SXpqSGU5UGNXaHZzM2l1aEhEdExlQU5RLXc?oc=5",
+          "source": "明報財經網",
+          "published_hkt": "08/12 12:12",
+          "related": [
+            "^HSI"
+          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-08-12 11:19 HKT",
+    "updated_at": "2026-08-12 15:40 HKT",
     "news": [
       {
-        "title": "比特幣跌破6.4萬美元關卡 美國證管會將推動加密資產新監管",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3c0wxQWVLd184TV9ITXpVNU1tOC1ReHh1akh1WXNEQ3ZHMkV3dmFTWHBsVDdaVXE2MWNqR0cxODhvOGVJTkp4QmFPY3RDNVpoekE?oc=5",
-        "source": "蕃新聞",
-        "published_hkt": "08/12 07:18",
+        "title": "主要加密貨幣行情，比特幣升0.31% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTWlwUDlfY2kyZ0xKb0ladmY0cUtaSF82U3Iyc2QwTmlsN3NVaDBndEsxM1RYZExzUUhjTUNhcTQ2cS0wUDI4ZDhvN0Q0OU9WRGhMaHRQOEQyYXhLU0FBTGFXVGZXVV9nWVRzZ2twNG1aOGJuMy1WRDJuX1BvUGZXd3JJa3RPQVZTLWU2R3ZqMzgxUEM2d1FoUnlQdFNmYUdu?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "08/12 14:45",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "EIP-8363能拯救以太坊的超聲波貨幣論點嗎，還是損害已經造成？",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMW5vbXEwRVA5SmJZOGJ6RjUxM0EwR3YtbEVDX1g3WWRKMzkzc1pLSGRnV09jTFVKTlpFMlZmSnc0QnR0SlZYNXIydWxtbzUtN0ZSRVdNa29OSUFnTnM1ay05QnJIbzBtQTNfUGppWWVyalBwN3czb3dxLVViT245U1ZObzN0bnRkZUx3SE83dUZvZ1hITGkwRWZGcVhNUkRmR1Rxd1FoVS02YVpVU0wwUWtuZE9QU21XS05seTNTWk83MlplaUxuVmctV0xkczNoS2VCd0V1dTlvZEtTX29EWkpsWlplTGRfZ2tBRGNfeU1GdnVKc1NV0gH8AUFVX3lxTE42QzNMWElQOEE0U0JjbWJBUWtMdkx0VkJsRXVvamExREdycnhDeHRsY2pESFpNbTNBaUNsbWJFTFRjUjFxRzMtd2gwRFNOS1hfQzNWS3B6cWtFVW5ZeHBwc095b1M3RjJVV0hiUFFrMENOU1dmblNLSFJ4dzZybGhlbkUwVlZTV3I1ZkVvbTNfT2NnUmtxaGk3cENsWktvUmg3RUk2eEJWcnl6b2hYTlZMQjg3SE5JTFBwS1RSanZrdnItQm5XZDhQUlo3ZlhOemt5ZUN4djBCcEstcDNsNy1nbUF3cXlKVnE0bjBxRzZwV3dZS2M4ZHl5bTBNRg?oc=5",
+        "title": "Solana是否正為進一步上漲做準備，ETF資金流入和MoneyGram整合推動看漲情緒？",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMG1PZ2ZiZlo1TU1la0xhY3ZOTEt1TEtNZF82QjlkeTQtTi0xSnkzX2hVVXVJTndJRHZ5SDFleF9aMjVCdllDTXROV2tQYnR3SUdrTG85QXFoTE5ZS0xSSE11QWpjQUZDbHlha1ZrdkRGUDZVOFhTRjFZZjZUMzNNeUFsZm5FZ2d6Z2hFUU5BVmQ5Sm5FbWhLbkxZSFVsV1RfWUxheEdnOTFMSUQ1T2RMUUh3WlhOdG5qVFFPVUQtSTRoN1BhOXlqZ2YzVG1rX0hNSnpRWnRoVHktU2hOUHFRT2pIVHVRaXJ2c0I2M3NQQXlPNUxQQ2NJcVhBdml4QdIB_gFBVV95cUxOMG1PZ2ZiZlo1TU1la0xhY3ZOTEt1TEtNZF82QjlkeTQtTi0xSnkzX2hVVXVJTndJRHZ5SDFleF9aMjVCdllDTXROV2tQYnR3SUdrTG85QXFoTE5ZS0xSSE11QWpjQUZDbHlha1ZrdkRGUDZVOFhTRjFZZjZUMzNNeUFsZm5FZ2d6Z2hFUU5BVmQ5Sm5FbWhLbkxZSFVsV1RfWUxheEdnOTFMSUQ1T2RMUUh3WlhOdG5qVFFPVUQtSTRoN1BhOXlqZ2YzVG1rX0hNSnpRWnRoVHktU2hOUHFRT2pIVHVRaXJ2c0I2M3NQQXlPNUxQQ2NJcVhBdml4QQ?oc=5",
         "source": "FXStreet",
-        "published_hkt": "08/12 04:34",
+        "published_hkt": "08/12 13:27",
+        "related": []
+      },
+      {
+        "title": "昨日美國比特幣現貨 ETF 淨流入 780 萬美元，以太坊現貨 ETF 淨流出 170 萬美元",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11MGZIRm9LX0Y2Ty1QanpvN1FxaTBsQXdnbHBORFktS3RibTlQdWZEdEtrM2swbFZJM25FejVxemtZLUZMUmJqTGFtRzdjZ2s?oc=5",
+        "source": "news.cnyes.com",
+        "published_hkt": "08/12 13:00",
         "related": [
+          "BTC",
           "ETH"
-        ]
-      },
-      {
-        "title": "比特幣在市場冷漠加劇之際面臨清算驅動的飆升風險",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQ1NhX1NWVVdWYTRNZ2l0ZWo4UnF3clVLekh4SU9xV2hJQ0E5clZ1Nk12aHhNNjB6cFZlRW91VmJnWlpvRE44WlRmOGIwaTRBcTdTNXdZZVNESUJLeTZfY0FqN0FZQUpLdmhHN1hab25hWnMyajRQQURDR1c1QWhOUnRuTTNmWHVSVjZyNUxvRXBKWkxiSWF6VUg4ZFczdjZQdGNXUnVoYkF6ZXJtLU96UFVlRW50WVNwYkxRTlVrM004SkJvNjQ4QzV0S2UtaE5XeHU4RWxycjl6Q3NvS0R1RlU0Z3FWRlFJMU5Hcm5tY9IB7wFBVV95cUxQQ1NhX1NWVVdWYTRNZ2l0ZWo4UnF3clVLekh4SU9xV2hJQ0E5clZ1Nk12aHhNNjB6cFZlRW91VmJnWlpvRE44WlRmOGIwaTRBcTdTNXdZZVNESUJLeTZfY0FqN0FZQUpLdmhHN1hab25hWnMyajRQQURDR1c1QWhOUnRuTTNmWHVSVjZyNUxvRXBKWkxiSWF6VUg4ZFczdjZQdGNXUnVoYkF6ZXJtLU96UFVlRW50WVNwYkxRTlVrM004SkJvNjQ4QzV0S2UtaE5XeHU4RWxycjl6Q3NvS0R1RlU0Z3FWRlFJMU5Hcm5tYw?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "08/12 04:21",
-        "related": [
-          "BTC"
         ]
       }
     ]

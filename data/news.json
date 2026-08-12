@@ -150,8 +150,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-12 15:40 HKT",
+      "updated_at": "2026-08-12 16:07 HKT",
       "news": [
+        {
+          "title": "台股收市升近1%",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcnBOQjdDSzBQcjNFTnQyYzVmUDF2MmJfYWhMRlRrTUo3S2J0Y2JhekY3c1g3Z2F5ZXowc1JHZUg5UVE3bk1YclVlUHRZMWg0ZmdPdGRIREZQT2JZNmp1VmZGaExCQkFzSTljRHJ4MHMwR1YxbzNDQ1VlVE1hTDM4VHBGeXJydXc?oc=5",
+          "source": "香港電台新聞網",
+          "published_hkt": "08/12 14:30",
+          "related": []
+        },
         {
           "title": "台積電領軍走高 台股收漲397.35點",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFSkU2OWJKQkFaZzdwWTExWWF1amFNWEttalB4ZEJQYzU5d2Nfc0FXa3E2SU80cHFLZ1RobkdDQVEtZF9aN2hDTzVfNno0ZWxERnc?oc=5",
@@ -166,15 +173,6 @@
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LUkVKdHNqclFUMXlPNjh4Sk5EY3phb2hJNGhETkZfUXdmczlmeEhFLTJyNU1ZV2hDLTg2UlRnampDRkFmbXZGVnRvZw?oc=5",
           "source": "三立新聞網SETN.com",
           "published_hkt": "08/12 13:52",
-          "related": [
-            "TSM"
-          ]
-        },
-        {
-          "title": "台積電最後一單爆1.7萬張拉漲20元收最高2415　台股收漲397點",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTVGREQl9pc0dST0VRZWNncFhaM3RkTFFyR0JPeWl4b2tlcHk5SWNBbFhXRjFKbWxncmFFaXlfTUtQMHZhcFhjakgyOHM5LTFaN2fSAVBBVV95cUxNampoSXVoNExfT2djSzNENkRRU1hGUlEta2c4b0hFQTlBQTVPX3pZNHh3eEVobENoeWRDMFJtdEQtVFpFa1hFX2ZkbFFNVjRpaA?oc=5",
-          "source": "ETtoday財經雲",
-          "published_hkt": "08/12 13:34",
           "related": [
             "TSM"
           ]
@@ -210,8 +208,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-12 15:40 HKT",
+      "updated_at": "2026-08-12 16:07 HKT",
       "news": [
+        {
+          "title": "美股震盪 亞股走堅",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FRU53S09xZlRPMU4zOHN6dUZZSmpObUtxRENIYk1pWEhKeHo2bENSUHRfemlFSW9HSUZFZTJBeGlsb211Y00zSmdnLU4wMkRSV3c?oc=5",
+          "source": "n.yam.com",
+          "published_hkt": "08/12 15:46",
+          "related": []
+        },
         {
           "title": "日銀升息預期帶動金融股走揚　日股收漲",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZeWYxdTRPZEd5cUdhNG9Kcjh4cVB3eEhZOVQ1S0dXRl9mMF9CcEZHZFMwSk9tTnlYVElmUTYtbDg0OERSUkppU2pIVjNWUDRIaWxsT0lyLXdvd9IBX0FVX3lxTE9PMDZhTTU3NXU5QVZfZThiaVZCTlIzenRlY1BzNzJUdU45UC1iNDYwNTBmNVoweTIzRjNOM01YakhTckEwU2x0TGxHQ3BVN0x2SXV1STRMV05ld3JSWHNz?oc=5",
@@ -225,21 +230,12 @@
           "source": "TradingKey",
           "published_hkt": "08/12 15:04",
           "related": []
-        },
-        {
-          "title": "恒指半日跌300點 港股見逾兩周低 北水流出13億 (12:07) - 20260812 - 即時財經新聞",
-          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQeG15RlVYTFBPeU5TMVNfUWdETllPS0pmNVMwWlM5eVAwNDQ1SzJYc01BX1FfMGpnNDJxS1FkcmNRVjBIenllY29nSE44endDZEVEbDRicHJNaDRNRklDWHAyY2NaV1dEVWJtNmc1cXJIbWlrYWpoYWdfVG1WX1NoLXJRUzlNaDBjbmJvRUpacWh1RVYycG5aMmlTNEg1dThYMlVoRkxBRWVEaXlWVG9jNFpZTkdIZTFCQzRYTjZPUnY4SWVvdmVoZU5WLXFjc2xBU09VY1V6MWpPWF9IRi1TaDVNYkFmc1M0SWF6STRsbVVzMTdtUURxQlRnTkRORmdURXZZdG1KRTNDamVYYURXTFRfRXhucGI4UHBaemZqUk9YdUVBT3RrZFlZVUY2WllJLWt4Z0otUHp0SXpqSGU5UGNXaHZzM2l1aEhEdExlQU5RLXc?oc=5",
-          "source": "明報財經網",
-          "published_hkt": "08/12 12:12",
-          "related": [
-            "^HSI"
-          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-08-12 15:40 HKT",
+    "updated_at": "2026-08-12 16:07 HKT",
     "news": [
       {
         "title": "主要加密貨幣行情，比特幣升0.31% | 即時新聞 - 新聞",
@@ -253,7 +249,7 @@
       {
         "title": "Solana是否正為進一步上漲做準備，ETF資金流入和MoneyGram整合推動看漲情緒？",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMG1PZ2ZiZlo1TU1la0xhY3ZOTEt1TEtNZF82QjlkeTQtTi0xSnkzX2hVVXVJTndJRHZ5SDFleF9aMjVCdllDTXROV2tQYnR3SUdrTG85QXFoTE5ZS0xSSE11QWpjQUZDbHlha1ZrdkRGUDZVOFhTRjFZZjZUMzNNeUFsZm5FZ2d6Z2hFUU5BVmQ5Sm5FbWhLbkxZSFVsV1RfWUxheEdnOTFMSUQ1T2RMUUh3WlhOdG5qVFFPVUQtSTRoN1BhOXlqZ2YzVG1rX0hNSnpRWnRoVHktU2hOUHFRT2pIVHVRaXJ2c0I2M3NQQXlPNUxQQ2NJcVhBdml4QdIB_gFBVV95cUxOMG1PZ2ZiZlo1TU1la0xhY3ZOTEt1TEtNZF82QjlkeTQtTi0xSnkzX2hVVXVJTndJRHZ5SDFleF9aMjVCdllDTXROV2tQYnR3SUdrTG85QXFoTE5ZS0xSSE11QWpjQUZDbHlha1ZrdkRGUDZVOFhTRjFZZjZUMzNNeUFsZm5FZ2d6Z2hFUU5BVmQ5Sm5FbWhLbkxZSFVsV1RfWUxheEdnOTFMSUQ1T2RMUUh3WlhOdG5qVFFPVUQtSTRoN1BhOXlqZ2YzVG1rX0hNSnpRWnRoVHktU2hOUHFRT2pIVHVRaXJ2c0I2M3NQQXlPNUxQQ2NJcVhBdml4QQ?oc=5",
-        "source": "FXStreet",
+        "source": "fxstreet.hk",
         "published_hkt": "08/12 13:27",
         "related": []
       },

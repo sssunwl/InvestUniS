@@ -87,32 +87,34 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-12 17:36 HKT",
+      "updated_at": "2026-08-12 22:21 HKT",
       "news": [
         {
-          "title": "港股收評：恒指跌0.83%，科網股疲軟拖累大市，內房股與半導體板塊強勢領升 作者 格隆匯",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qb0ZjWVFMVklNN1BVTlh3T0trd09Cb2VvdDVKVjd5UERENzYydEVmc3ZQcWF4a3AtTWFnVU1yMjF5M3g4cW5UU3pEQnV4N0VfbGlMNDRJNzJ4SnZZQnlfRllfaG1xc2Vyc2pPbG0ySkk?oc=5",
-          "source": "Investing.com 香港 - 股市報價& 財經新聞",
-          "published_hkt": "08/12 16:54",
+          "title": "港股收評：恒指跌0.83% 科指跌0.99% 科網股普跌 光通信、內房股強勢",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xUDNmdU1qdkZiMVBEQ2lzbkpoblN6ZEdaWmZSXy1kYncweXZsMjZLQnY1a29SRlRERkk1YVVIY2h3d3ZZUV9VdE92V2pYbkMwLW5ERUU0aEpYYjdCZjV0STRtLWRkLU1VNXlWU3BzamFKWkw1?oc=5",
+          "source": "flamingwheels.online",
+          "published_hkt": "08/12 20:35",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "恒指走勢丨兩連跌再跌212點 失守20天線",
-          "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxONzN2UlBWcmhYZzI5LU9Rd2VQTVNhcjNVTVlrX0JGalNRam9Ya3lfeDFXdTVRYnBzbVNtbm5vcEp3WnV6ZDZGZnlxYW9FeEtPOXVTSG91b3lXeDdQQWYwbUVmR29vUFZTYjJ6R2pua18wVDEyNkYwYjhYV0J3cWRZSDNYdTNUNXlxUWk4TkhYLW1aLVQ0U2RwWkFnSFVBLVNSelZRTHVVa1ZTeXV3amZFT2NJQUFXanJVLXBsRFBVSTdPQWhKOHh2OE9IMDhaUW5ZWS0zNmhMUjBFbEVkNnFncVhydGlhV25SbGV1ZE1jWExuS3dVQnZySVc4eUYzam94cDVoMHByeGNIQi1GRnRwaXhmVkJDandKM2dpWHF5YS1uZ1h3T25nTTRDRVgyUHdFdkl2b09kZXF1ZVFhLXZOWHQ4MVM0SUpULWg1MVpEZWZjNFdZTWFPUDFIZ1ZXZXBLMzA4bVVMZVNjMUtJdUR3cGMwOFdjaXMwQzAybHdwaVdLT1A5VUZ0LUVNMEo5QVhPeXV6b3dTaUE?oc=5",
-          "source": "信報網站",
-          "published_hkt": "08/12 16:52",
+          "title": "港股收評：恒生指數低開低走跌0.83%",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aNTFYRnN0MXFSWVE1MXNPOHdsTXlvTEFwR0ZWT3BKVWQ5ZnJGNV8tY2MzaUMxazNULW8wbHNfWnByU3ZfLVpJd1lqTndod3JRUUxTeFJkTnJhOFpodjdZN1NERjJFMEZUMDRj?oc=5",
+          "source": "香港商报",
+          "published_hkt": "08/12 19:54",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "港股低收212點 內房及晶片股逆市升",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCcVhyeHhVazFzU1ZMdUd2U1kwRTh5VzA0UWw0OWVyT0R3ckc0RHA4ckVJX01wZ1UycUhOZkdGTl9aZ3pyNmxldnRBbm1rWEs3Wmp1c2NrMWxWeXZ1VnpSNDRLd0kzakFJMTY2cm5KMA?oc=5",
-          "source": "香港電台新聞網",
-          "published_hkt": "08/12 16:40",
-          "related": []
+          "title": "恒指低收212點滙豐降恒指年底目標至兩萬七- 有線寬頻i-CABLE",
+          "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOYlFsWjlNOXQ1M21jdWJzUDQ2XzJmWjRtRDROS0RPR2pRT0RnNGRMMFN5TTdkMzR2Zk5idmxZNldLMWZrWG50S0lCejctOGFsX0tlQkllQWViQ0NzMTM1WEFBM3ZLT2N3QUp6MkRZdlhqNFQ4VEZWSUtISHNpNDhpWU1TcC1qV3o2LWJuQkplSHFOTUFtakt5N0o4eUdlYXBtMlB4RG1weGZ5UXVqbHlsTU52VkM2ZERsT2Y3NzNISFYzMHBPWkxjVXpacXBXR1NGRnJqUXpjUlNmNVJLSXZKRlYzSVZfWWpUc3d0VTNLelFmYzJsUy0zTzBRQVBwLUFDdnV6bzc5R1czSFFVSWdRQldRNERsY3l6MkpGb2xHZDhIOGxJM2h1RUJ0azVRVmxPVE53cGFOTzdPdnFwV3RpOVBTZ042bkxlczlRZVhlM0ZfNjUy?oc=5",
+          "source": "i-cable.com",
+          "published_hkt": "08/12 18:11",
+          "related": [
+            "^HSI"
+          ]
         }
       ]
     }
@@ -147,31 +149,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-12 17:36 HKT",
+      "updated_at": "2026-08-12 22:21 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數- 今日大盤籌碼- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02c3lxdmVYaGlrbFNxOEk2WVVoZ3VGYk4wNlhjWFplQVBsRU9HeHlUQ1dDb0twRUJTTHFHZEQ3a2xEeHUzQlpnWFBGRjVnUHNqTDNBRjJ6djY?oc=5",
-          "source": "CMoney",
-          "published_hkt": "08/12 15:27",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "台股收市升近1%",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcnBOQjdDSzBQcjNFTnQyYzVmUDF2MmJfYWhMRlRrTUo3S2J0Y2JhekY3c1g3Z2F5ZXowc1JHZUg5UVE3bk1YclVlUHRZMWg0ZmdPdGRIREZQT2JZNmp1VmZGaExCQkFzSTljRHJ4MHMwR1YxbzNDQ1VlVE1hTDM4VHBGeXJydXc?oc=5",
-          "source": "香港電台新聞網",
-          "published_hkt": "08/12 14:30",
+          "title": "外資吸血金融股！國家隊2.6億護這檔官股",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YdzhRLU5PUHplS01nZjZOekNseXR3eXdSUkdrVlI5dzEtYm4wMFNjU3Bnb1RWbzdaYV9YSUFRX3JLeDh0UkpLbHN2XzF1ZnlWc0E0OERHUXFwaElPV282R1VR0gFiQVVfeXFMTlh3OFEtTk9QemVLTWdmNk56Q2x5dHd5d1JSR2tWUjl3MS1ibjAwU2NTcGdvVFZvN1phX1hJQVFfckt4OHRSSktsc3ZfMXVmeVZzQTQ4REdRcXBoSU9XbzZHVVE?oc=5",
+          "source": "鏡週刊Mirror Media",
+          "published_hkt": "08/12 18:45",
           "related": []
         },
         {
-          "title": "台積電領軍走高 台股收漲397.35點",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFSkU2OWJKQkFaZzdwWTExWWF1amFNWEttalB4ZEJQYzU5d2Nfc0FXa3E2SU80cHFLZ1RobkdDQVEtZF9aN2hDTzVfNno0ZWxERnc?oc=5",
-          "source": "美麗島電子報",
-          "published_hkt": "08/12 14:15",
+          "title": "台股12日開高後呈震盪走勢 仁寶Rubin伺服器亮相股價攻半根漲停",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xQXpnYVZGMGd6dGVzcHFIaDFsZWVIU0VPeFRRdHFJSFRLem1mZnhhc043ZFZzY2dnSGtKZk05LUxFV3ZXRGtHREFPUXlxd0k2c3c?oc=5",
+          "source": "蕃新聞",
+          "published_hkt": "08/12 18:12",
+          "related": []
+        },
+        {
+          "title": "TWA00 加權指數- 機器人產業鏈2026Q2財務數據評估- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Yc1kzQUIyVFZ6UjdFOUxRRmlrZjE5RWxWaHgyYjVjMFBQVU5vd21SV3ZIZUZLTVRrWktGM2pLWWRtZVdHaUtkRVZvMTdlUmJ1TGUtSy1NM0w?oc=5",
+          "source": "CMoney",
+          "published_hkt": "08/12 18:06",
           "related": [
-            "TSM"
+            "^TWII"
           ]
         }
       ]
@@ -205,62 +205,59 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-12 17:36 HKT",
+      "updated_at": "2026-08-12 22:21 HKT",
       "news": [
         {
-          "title": "恒指收市跌212點 北水流出29億 騰訊音樂跌12% (16:23) - 20260812 - 即時財經新聞",
-          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQRDB4TkxsWkpJWG1hM2VpdHV1eUVNVTFFcTVvdzZNdUl0YmlsTk1SNWZzYkV0QmFJNFY2VUFQX05zYUlIZXdDVE94RHZfbUFack04RGpHckxjQnlNSkw2RG56UnBzeWtaSkV2bFlsZXhYUEp2eGRsT2toWG5ndkFxc00zMzlCZFhnandTSjhNNWdDM25vUEZWbk5uZkVfQjhqN2N2VTRrWVdxY1ZNeVhGLUNyTVd6cXBDRmhpdWZuM0w3Y2dMTUZGb0dhclNpMXl6SkFsa05qcVdaU0VMTm0zVVdITi13YklBMjdXVEhfT196bjliV25PZXpGUVUzNWhKcDZCSXFnZUZJd0pvU2U4dkNVcDVlcVJJSnFnZVFyRGo3c1hxdXphOGxFLXBIdmp0MEFYa2tiY3R6NTdMcmc?oc=5",
-          "source": "明報財經網",
-          "published_hkt": "08/12 16:29",
+          "title": "“AI先知”持倉引爆太陽誘電股價大漲! Situational Awareness折戟槓桿，卻揭開AI基建關鍵瓶頸之一——MLCC",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONHJBQnVnbnpKeEl4OWhSWHRRTE54VXVBQl9vcXd3czdMOWdmbVBCWm9JVFhmdldNZHBRX0tOOGdpcnhaUTVfc1VHdW53QU1FX2RyUHZXRFhnT3ZQZUNFaElEd2NhbEYzVElwLUJNa2plVk9fTG5Vc3d5eFRIWEZ2SQ?oc=5",
+          "source": "Investing.com 香港 - 股市報價& 財經新聞",
+          "published_hkt": "08/12 19:49",
+          "related": []
+        },
+        {
+          "title": "《日股》AI推升，日經漲0.83%、TOPIX創收盤新高",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcjdMS3VpZlo1UTROdnZhbWVwSElLLXZsVE1kS25xZDhMSU9oY0k1QkR0emxMdHlJRElzRktqMDM1LXN6Q09xa2FSNDh4c3hhdzVrRUoyXzlwbFJ0dDExVW9aczR2S2RUMTRPbkhfdE9OSnZscmtWclRkelJRU193ajJQU19hak5zaHBfR2w2elZMQQ?oc=5",
+          "source": "台視全球資訊網",
+          "published_hkt": "08/12 18:50",
           "related": [
-            "^HSI",
-            "0700.HK"
+            "^N225"
           ]
         },
         {
-          "title": "恒指收市跌212點 北水流出29億 (16:12) - 20260812 - 即時財經新聞",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcmxneS1fcTBfaFB1c0NxVzR1SVlnd0dsODZHTzZraDdicWZVdFJrTkFtbDBXNFVNZUlCRUV5Z0g2aGJDODNUdzVkcmxxc2sySnFKcEhoTjNOTkdNQTd5ckpHUGRpc1c0dVUyZ3FtcDVFUTZ2VnBnOFpQaURsRFBjd3IwNzFyRnl0MlcydnNON1Jrbm5lV0QwbW5mQThxR2pVMlU5UzdSN1NUdzR6WjdoY1BUQ3lSOW9Jekppc09ES083dkIyR3VSZ19GU29lUk1sRDFxcXlCYzBidVpQY292WV81UzZZYTAwZjNkdjUxNExSZDVmX0s4OERDWGw5dw?oc=5",
-          "source": "明報財經網",
-          "published_hkt": "08/12 16:19",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "美股震盪 亞股走堅",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FRU53S09xZlRPMU4zOHN6dUZZSmpObUtxRENIYk1pWEhKeHo2bENSUHRfemlFSW9HSUZFZTJBeGlsb211Y00zSmdnLU4wMkRSV3c?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "08/12 15:46",
+          "title": "新加坡股市下滑，富時新加坡海峽時報指數因銀行股下跌而下跌0.6%｜長橋證券",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YSndoYWYwS0hoR05MZDVJb0k1X2VCRDVjUnJrU01FVVlMVUwyS0pkR1dhb3lrTmxiMkJRX0otTHRpc016SURtYk1ocG5RZXZfN0FXQTB3?oc=5",
+          "source": "Longbridge",
+          "published_hkt": "08/12 18:26",
           "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-08-12 17:36 HKT",
+    "updated_at": "2026-08-12 22:21 HKT",
     "news": [
       {
-        "title": "Sun vs Kawahashi | 預測市場",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqZnBXSC1lTHpyNml4ODVCVm5hSFppX24tcF9ubXo3MTZzdGpLRnpvMXBTRENURGlKZE5IcDViTGZNdG8ybDdQVW45eXpuVkVWaURnVTR1emNUV2l3b1E5WnVpbXNZcm1yNkJLdEIyckpkVGkxNDNrSGNnU1Y1dw?oc=5",
-        "source": "Coinbase",
-        "published_hkt": "08/12 16:18",
+        "title": "為何XRP在1.00美元支撐位守住的情況下仍落後於反彈？",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNzBJSFZwdlNWQWlnYUNhWkM5MExCSE1mcExKTnVyUmZxOVQyeER5YWtaV0tueEpWRVdabzU2Wi1RNEt6Umxwa3NWR2swZkRNWTBVZnBwOURBXzRaR2RlWFpoSXlCWjVhWXZMTVFXaVdDNjVob2pLLVhSUUZxQ1J1X0dQTVR1WkNFRjlvNFdISDhrWnBuREQxaHowUlpHblVKbDJXVmQ0a3J4LTQzQWdVQTllQnQ0QmczdExHYnBMbmNSQVhJaHhDeVUwMjdRS3dLLThaM21qaGdLV3gy0gHcAUFVX3lxTE03MElIVnB2U1ZBaWdhQ2FaQzkwTEJITWZwTEpOdXJSZnE5VDJ4RHlha1pXS254SlZFV1pvNTZaLVE0S3pSbHBrc1ZHazBmRE1ZMFVmcHA5REFfNFpHZGVYWmhJeUJaNWFZdkxNUVdpV0M2NWhvakstWFJRRnFDUnVfR1BNVHVaQ0VGOW80V0hIOGtacG5ERDFoejBSWkduVUpsMldWZDRrcngtNDNBZ1VBOWVCdDRCZzN0TEdicExuY1JBWEloeEN5VTAyN1FLd0stOFozbWpoZ0tXeDI?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "08/12 20:34",
         "related": []
       },
       {
-        "title": "Catherine McNally vs McCartney Kessler: Set 2 Winner",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM0hSZHFhaVpxM3F2YUhHSEJwYk9ualU1b1hoRHV5WGZjZUZwdHRjbm5HWE9uM3pMSWdmdVhjSEtwLVdNRGZhUjZuWEtPS3lMSGJvajRzUGhpdFo5QzhrOGFkTnR5TkRaZWJmaUMyU2JYX3hmd1hlRUpweVUtanRMaVJBcnFOZw?oc=5",
-        "source": "Coinbase",
-        "published_hkt": "08/12 16:18",
+        "title": "CPI報告發布後，XRP交易可能變得激烈，因期貨押注達到自10月以來的最高水平：Crypto Daybook",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHF6OS02Q2huUFJHWi1wMFoyaDZndmNsTFlFMTFRWFZHSHpZZzFvN1hfVFFheWVIdGdfUlhzc1V4OVBfSFJNVlFGYnJoRU13dkZEOGNDY1BZUUtuLVJOdDFMRElNTGY1RElWc0ROTGtLemRhMWsyYzVnY3hYSHNsU19DSjhqUEZkRXhSWmphZVB6Nl92czBRMW9Yd2lVZUNpamVGaQ?oc=5",
+        "source": "Moomoo",
+        "published_hkt": "08/12 19:15",
         "related": []
       },
       {
-        "title": "鴻海的英偉達時代：人工智能服務器如何改寫這家蘋果代工廠的收入結構| MEXC 幣圈脈動",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOWJ0TUloWlBySi1NM09TVE4zdUhzeER6MHc1NDZ1QjdkallGNVMzaHdTVjJLMHRwY01EMHltelpjUGxKTTBpa0kzRnR6T1hHS0IyTmpEWDVhWXdLYmo1eXRsNmRka0xENEFYU2dJWVUxRkRZUm1yczhwY1VwbGoxLQ?oc=5",
-        "source": "MEXC",
-        "published_hkt": "08/12 15:58",
+        "title": "比特幣、以太坊和XRP將走向何方？",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVEg4RGRmdVhjMXZRQmNpUkY5bEhSTFRidUdiTjNtQXJ5R3g5N2pia0RYdHVMZlNhOU9aLWVrWUNxSUgzOVBCT3hZdlhoY21HRDBHejBkeGVLRlcwYUpFU3BXa3BMclVac1lLN2VBMld1UllnWUFNQTVjbVk1R1pwTjlvSTVEYW5zUFpBWExEalBIWmNxTnJhOUhKd1hhODlUWXA1WUYyYllDdUVfR0ttUTFEWnY2Z1Y4djhwcGt6MEM1dTlRTFRkRUEzRGdxMzZMb3FyblFNRF9YV0pROGRRWXZVdUdCNnl3SElNVERlSUhqRWZ2NkJXT29Ba3FmY25oeFRmZkxkOHfSAYgCQVVfeXFMTlRIOERkZnVYYzF2UUJjaVJGOWxIUkxUYnVHYk4zbUFyeUd4OTdqYmtEWHR1TGZTYTlPWi1la1lDcUlIMzlQQk94WXZYaGNtR0QwR3owZHhlS0ZXMGFKRVNwV2twTHJVWnNZSzdlQTJXdVJZZ1lBTUE1Y21ZNUdacE45b0k1RGFuc1BaQVhMRGpQSFpjcU5yYTlISndYYTg5VFlwNVlGMmJZQ3VFX0dLbVExRFp2NmdWOHY4cHBrejBDNXU5UUxUZEVBM0RncTM2TG9xcm5RTURfWFdKUThkUVl2VXVHQjZ5d0hJTVREZUlIakVmdjZCV09vQWtxZmNuaHhUZmZMZDh3?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "08/12 19:07",
         "related": [
-          "NVDA",
-          "AAPL"
+          "BTC",
+          "ETH"
         ]
       }
     ]

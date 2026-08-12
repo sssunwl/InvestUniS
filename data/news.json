@@ -27,8 +27,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-12 11:04 HKT",
+      "updated_at": "2026-08-12 11:19 HKT",
       "news": [
+        {
+          "title": "美股夏季派對遇亂流 美債殖利率飆升成最大威脅",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wcFl5ZkxQUDBYa0JuZmFyaWttVDlUTU4yMGFlSjItelNNTzFFZXhGeHhYMk1henoxV3lHOUlzZHpUUTlYVnd2ejNoakpFWU0?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "08/12 11:10",
+          "related": []
+        },
         {
           "title": "晶圓大廠募資200億美元",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9kd2VpS1I4TDJzWGhXczBBdzA2R204M3luckJzaEhhVUZPM1NmLUJ3azNCZHhGeng5ekVhTDdGeW9kYzJBczF6Sw?oc=5",
@@ -39,19 +46,9 @@
         {
           "title": "美股財報遠超華爾街預期 本益比修正長線買點浮現",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SQzdBR1R3ZXlIa2RxdUE0SS1HYmctMjV4cnEzOGpOWlR2d3BydHFVdS1DN09SQWRGYjVGVzJCLW1MSDIwcm15ZmEyZ1o2aHdkS1NMVlRqcjU0d9IBX0FVX3lxTFA3bjFPZW5NWVFINFJvczItdGZCMTF1eWNKU0ZzdWdkdHpCRnVNSi1PUS1sYzMxUjhFMElJaGFWMUh5WllDV2hFc0RxQ196SXdGamRROG9DYXlnd1V2RUdV?oc=5",
-          "source": "money.udn.com",
+          "source": "經濟日報",
           "published_hkt": "08/12 09:19",
           "related": []
-        },
-        {
-          "title": "【美股盤前0812】輝達5000億計畫市場不買單？美光記憶體缺貨直達2027年 ? CoreWeave 爆 1,040 億訂單，光電大廠Lumentum 營收翻倍爆發！｜豐雲學堂2026 年 08 月",
-          "url": "https://news.google.com/rss/articles/CBMigwVBVV95cUxQUjJxRW9XOWJGT3BSUHgzdXF2YnZ5MEtZM3NoaDJnMGNfR2p3ZkliaXk1SnV0Z0VDcERXVmZ3RGNmeTZ4eVZ3VVBnRkFKWVNDWVVrV0syVXRaNkxqTVNIZWJQTFY3OE1vUFpTZFhWVzRRcVJjOEFmRGlTcEJRRW14b0pWX0hXYkhfeU81aE9jX1VzMHhPRDZ0M1VXak45b2R6ZE9iTDZ2aGxrM0V5Mnh0dmFuaVpVRWx5bXNfS3lrYTlSdm9jd0cwaDBxNnI1MEpRUW9UeWRBRVQ5QjM3RUt6SUFJN1l4RF92eW5vQzhBR1VYVXlLMDduS1VVWldGaHhvS2ZDWC0wTjEtWFEwZlNMOV9Xb1dKUks1aFpOeVlmdXNOenVGTjJfV0NjdFFXbXdNMUJoYjNMNW1DVG82TDlhbWpaVUlTV1ZaYWtsTGNpVWJ1VlE1RVdiSFhBOHFvMUhrekRKZ1dwcGh1eHJMQnhCQWh5QllQay1YUjFCX3NEVXhxYkJnSmQ0LXA5a2JZZF9RaXBmWVJEZVpfTjVFbWx3U1ktZWw4X3RUQ19fcmZTTFQ5WlJfU1ZCZW50M2o5blNudTZnRVVwa1BZTy1QckdSWWdsU0tLLVR6LTZXZ29XNnlXdnhtOXJoYVBsSzVxdER5WUNfYTJER0hyOUR1X01Jc1RqSTZXcjZBSExsY2h1dWctLVdiMTR1LVdnWTBKNjJjRFFpeEh0M3dKUHpaRzVqQ3JnalhRWHU1RjJkeEdPNEtkYWM5aXFKZWxMNzNOTjA2ekVxV2JpX01GR0tBckt4Wk5Hd29acEJnT1hPeHVOV1JTanlSSmNDRzZoa1dNM1ZZVUNZ?oc=5",
-          "source": "sinotrade.com.tw",
-          "published_hkt": "08/12 08:58",
-          "related": [
-            "NVDA",
-            "MU"
-          ]
         }
       ]
     }
@@ -238,7 +235,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-12 11:04 HKT",
+    "updated_at": "2026-08-12 11:19 HKT",
     "news": [
       {
         "title": "比特幣跌破6.4萬美元關卡 美國證管會將推動加密資產新監管",

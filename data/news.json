@@ -27,27 +27,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-12 11:19 HKT",
+      "updated_at": "2026-08-13 08:03 HKT",
       "news": [
         {
-          "title": "美股夏季派對遇亂流 美債殖利率飆升成最大威脅",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wcFl5ZkxQUDBYa0JuZmFyaWttVDlUTU4yMGFlSjItelNNTzFFZXhGeHhYMk1henoxV3lHOUlzZHpUUTlYVnd2ejNoakpFWU0?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "08/12 11:10",
+          "title": "「輝達親兒子」創AI新希望！美股費半漲近3％　台指期夜盤漲601點",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsU1hyM0c2M09zd3dJSGRjNmtKNXhKZzBMSjMzU2c2MDZyZXhidE9UT3paU0NiX3J0Z0IzaUxFeXRrTGNGZXUtQ3dWZk0xSjNhbVHSAVBBVV95cUxNN1FsNk5McGd4N0xicHlpdFlDclFFcVdkZlZPNWUxMFZaeFNPb3ZFRk5pWDhuNEFkeXVKVUVGYWh1UGlyY0dRZzlLYTNkZE1uaA?oc=5",
+          "source": "ETtoday財經雲",
+          "published_hkt": "08/13 07:44",
+          "related": [
+            "NVDA"
+          ]
+        },
+        {
+          "title": "拍板了！美股有重大變動 新制「這天」上線",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kUi02dDBReFQxTDVNNFdNUXFMX0VkREo0MExoMG91d1RzckxvNHYxemg3R2dua25iNFNZajh1a05OWHBKNXYyajI3aTRqSHRHZVI4SnRQaw?oc=5",
+          "source": "東森新聞",
+          "published_hkt": "08/13 07:04",
           "related": []
         },
         {
-          "title": "晶圓大廠募資200億美元",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9kd2VpS1I4TDJzWGhXczBBdzA2R204M3luckJzaEhhVUZPM1NmLUJ3azNCZHhGeng5ekVhTDdGeW9kYzJBczF6Sw?oc=5",
-          "source": "鉅亨號",
-          "published_hkt": "08/12 10:28",
-          "related": []
-        },
-        {
-          "title": "美股財報遠超華爾街預期 本益比修正長線買點浮現",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SQzdBR1R3ZXlIa2RxdUE0SS1HYmctMjV4cnEzOGpOWlR2d3BydHFVdS1DN09SQWRGYjVGVzJCLW1MSDIwcm15ZmEyZ1o2aHdkS1NMVlRqcjU0d9IBX0FVX3lxTFA3bjFPZW5NWVFINFJvczItdGZCMTF1eWNKU0ZzdWdkdHpCRnVNSi1PUS1sYzMxUjhFMElJaGFWMUh5WllDV2hFc0RxQ196SXdGamRROG9DYXlnd1V2RUdV?oc=5",
-          "source": "經濟日報",
-          "published_hkt": "08/12 09:19",
+          "title": "【美股巨頭】美超微Q1指引爆衝150億美元，憑什麼股價飆19%？",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZVd1NTk0cklxbm1aYWZ1VllmR1JJRWR2eW1NOS0zTkROd2JWNDdHZ2p3Y09VQ0s5Nm1GRjlUQjZVbzlHMllqWUlRbTlCYVE0UHFLYnVmb0FkUEx2bGVJMlBjMzRCalpoOEsxYXBRM0hQT21oY01hRFhLbk0td242ZmF3NFhnZmd3NXhaYkxn?oc=5",
+          "source": "CMoney投資網誌",
+          "published_hkt": "08/13 06:21",
           "related": []
         }
       ]
@@ -179,27 +181,27 @@
   },
   "jp": {
     "pre_market": {
-      "updated_at": "2026-08-12 08:03 HKT",
+      "updated_at": "2026-08-13 08:03 HKT",
       "news": [
         {
-          "title": "首檔台日多重資產基金8/31開募 野村：台美配置已無法有效分散",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNbDlVTlE0ZERNYjdqX2VUSkxvMWZFUF9TWnpJMDJkQzVvbVlpN1RnN2JRRW5EcGQwanZwSWh4cjY5eU5oOFRpdGxfWXdxUnJQQWRiTFlR?oc=5",
-          "source": "Business Insider Taiwan",
-          "published_hkt": "08/12 00:45",
+          "title": "早安！今日產經早報",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmUWt0QndiemRGQVlIb2c0MTlyRl9PZGswc19JNTJmeVh3X3ZHUDk4ZzRkUldVbjhlNHMtUU5FVzVtYjZSc1Y4Z1NDQ0thYXVHUnc?oc=5",
+          "source": "蕃新聞",
+          "published_hkt": "08/13 07:50",
           "related": []
         },
         {
-          "title": "【美股盤前】SMCI財報今晚登場，AI伺服器供應鏈誰最受惠？（2026.08.11）",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORjBiMVNXdmg3cmJGcVZHTURnMk13U09kRFNIdXlVcGlyMFk3TnR4WVVuU29wQ2ZWeHBrOFdVeFZ4ZHppLW9uMm1MSFR1RTJ2SGdwR2tIWkhEMWJUX0RYRmhEd0IwenRwNG41QTZRVEtJQkZZV0JSUzdDd0NfSDAxSjVFMEtqcFREd3M3NUln?oc=5",
-          "source": "cmnews.com.tw",
-          "published_hkt": "08/11 18:03",
+          "title": "資金持續流入半導體和人工智能相關股票",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORmNyU1FBSUNDR0poX0FIUDdIOWRQMWRwMjI2c2tQemlhWjZsaDRnenlMdVFxT0VZMnNyT0NQSXctcGlKeWRPVHFXM2U1TW9EYmFzNUdyRUVVdUZSQmNIblp4MzhrT1pIdko1eXk1YUllQVFSNHUxRXBsOHRnRkhBX1RQZ0d5MVlqa3FYLVhzSjFaNXQ3R3VQSllzWkozcVNMU3VPSFFDOTlOUQ?oc=5",
+          "source": "富途牛牛",
+          "published_hkt": "08/13 07:48",
           "related": []
         },
         {
-          "title": "凱基期貨拓全球商品版圖 「股農金能」四板塊微型合約齊發",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OOFhFYURYNjZRWU8tSEZFU0tZRGdDLWV5OVp3UXMwampqZ2Z6YnktakduSHBCSjV2V1dLcTZzamFoRmZSQm16WWtVSkFOS2JhTF9ycmhn?oc=5",
-          "source": "優分析UAnalyze",
-          "published_hkt": "08/11 17:06",
+          "title": "大幅增持後被迫砍倉，AI「神童」折戟日股MLCC龍頭太陽誘電",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORVZuM2RvdDFtSW15VGc2YUU2YWFFOTlJd1JBNnpGV0doa1ZXeXpGRnlobndKdVRIR2w4SWtCQXFKTTF1eC1hNmJTV0xyUHhCazlEYXZIXzdYaXlNeC12d3Q4OVV5U1FKM3AxNV80Ymx5bS1zNTRSUHhsZWJDV1pRSmJOSVpma214RlQ2Q0hKU3BtcFU5UUNyM1NtejlxV09kaFk2dDJsOXo0bTFuWjgtVg?oc=5",
+          "source": "富途牛牛",
+          "published_hkt": "08/13 05:03",
           "related": []
         }
       ]
@@ -234,30 +236,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-12 22:21 HKT",
+    "updated_at": "2026-08-13 08:03 HKT",
     "news": [
       {
-        "title": "為何XRP在1.00美元支撐位守住的情況下仍落後於反彈？",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNzBJSFZwdlNWQWlnYUNhWkM5MExCSE1mcExKTnVyUmZxOVQyeER5YWtaV0tueEpWRVdabzU2Wi1RNEt6Umxwa3NWR2swZkRNWTBVZnBwOURBXzRaR2RlWFpoSXlCWjVhWXZMTVFXaVdDNjVob2pLLVhSUUZxQ1J1X0dQTVR1WkNFRjlvNFdISDhrWnBuREQxaHowUlpHblVKbDJXVmQ0a3J4LTQzQWdVQTllQnQ0QmczdExHYnBMbmNSQVhJaHhDeVUwMjdRS3dLLThaM21qaGdLV3gy0gHcAUFVX3lxTE03MElIVnB2U1ZBaWdhQ2FaQzkwTEJITWZwTEpOdXJSZnE5VDJ4RHlha1pXS254SlZFV1pvNTZaLVE0S3pSbHBrc1ZHazBmRE1ZMFVmcHA5REFfNFpHZGVYWmhJeUJaNWFZdkxNUVdpV0M2NWhvakstWFJRRnFDUnVfR1BNVHVaQ0VGOW80V0hIOGtacG5ERDFoejBSWkduVUpsMldWZDRrcngtNDNBZ1VBOWVCdDRCZzN0TEdicExuY1JBWEloeEN5VTAyN1FLd0stOFozbWpoZ0tXeDI?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "08/12 20:34",
-        "related": []
-      },
-      {
-        "title": "CPI報告發布後，XRP交易可能變得激烈，因期貨押注達到自10月以來的最高水平：Crypto Daybook",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHF6OS02Q2huUFJHWi1wMFoyaDZndmNsTFlFMTFRWFZHSHpZZzFvN1hfVFFheWVIdGdfUlhzc1V4OVBfSFJNVlFGYnJoRU13dkZEOGNDY1BZUUtuLVJOdDFMRElNTGY1RElWc0ROTGtLemRhMWsyYzVnY3hYSHNsU19DSjhqUEZkRXhSWmphZVB6Nl92czBRMW9Yd2lVZUNpamVGaQ?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "08/12 19:15",
-        "related": []
-      },
-      {
-        "title": "比特幣、以太坊和XRP將走向何方？",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVEg4RGRmdVhjMXZRQmNpUkY5bEhSTFRidUdiTjNtQXJ5R3g5N2pia0RYdHVMZlNhOU9aLWVrWUNxSUgzOVBCT3hZdlhoY21HRDBHejBkeGVLRlcwYUpFU3BXa3BMclVac1lLN2VBMld1UllnWUFNQTVjbVk1R1pwTjlvSTVEYW5zUFpBWExEalBIWmNxTnJhOUhKd1hhODlUWXA1WUYyYllDdUVfR0ttUTFEWnY2Z1Y4djhwcGt6MEM1dTlRTFRkRUEzRGdxMzZMb3FyblFNRF9YV0pROGRRWXZVdUdCNnl3SElNVERlSUhqRWZ2NkJXT29Ba3FmY25oeFRmZkxkOHfSAYgCQVVfeXFMTlRIOERkZnVYYzF2UUJjaVJGOWxIUkxUYnVHYk4zbUFyeUd4OTdqYmtEWHR1TGZTYTlPWi1la1lDcUlIMzlQQk94WXZYaGNtR0QwR3owZHhlS0ZXMGFKRVNwV2twTHJVWnNZSzdlQTJXdVJZZ1lBTUE1Y21ZNUdacE45b0k1RGFuc1BaQVhMRGpQSFpjcU5yYTlISndYYTg5VFlwNVlGMmJZQ3VFX0dLbVExRFp2NmdWOHY4cHBrejBDNXU5UUxUZEVBM0RncTM2TG9xcm5RTURfWFdKUThkUVl2VXVHQjZ5d0hJTVREZUlIakVmdjZCV09vQWtxZmNuaHhUZmZMZDh3?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "08/12 19:07",
+        "title": "主要加密貨幣行情，比特幣升0.03% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGVXbm1xcW1YRTBZX1J4VXdBTzlqZXltNERlZHZkRWRrZkNvZHgwRVZXQ2VDT1g2RUlVYUhHLWZUcjQ4N3Z5SnVtMEpvaE1IZFRKOWJJRjNUYnpoQjV5Y1ZpVFlFSWhBam9DbnA3RElXWmVHSEZodzNTTDVFQ0FkMWp1N3RwYUdiSjg3TlF1b2tFMHhQUG90QzJCOElQaHQ3?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "08/13 08:01",
         "related": [
-          "BTC",
-          "ETH"
+          "BTC"
+        ]
+      },
+      {
+        "title": "美國CPI數據公布後加密幣市場震盪 分析師指更廣泛力量驅動",
+        "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNVl9Lb044VzJKdlhrOWxEMTEwdEZBUFgzN2JIU1FkNkV3b3d5a2F2ZXZ0OV9SREpJOGNQbHZOdU5neWJZR0ZCM3VHMEd0RnlkbXlHOGhCbGJXRXhMV2JJVGczQWxVTHlOa0ZYX2dMSlp3MEJPanUzTFBlXzFMbEM5QjJxZEFrUTJ1YWRwUnBFMklpVXNqVlNmX05RWng3WXEwVThxMWJxSlhuVDRxZWZ3UjNBTVVTMW9VcFRfTnFIZXF4MmNxTjNHTXZ2UzhyV2JkaHg2LWtnWnBaeGFDTVNQeDdKUE9neUtMbEJqVWJ3bjBFR0lwZ3NGYkJ3blZKQVJwS2JfQlFuNzVTbFktQ3doN29aS2ppNmJOQ0VqWlc0ZGVJUV9HbE4zRDhEQ1hHSVFsNXNvTnFFa2ltdnJQOUwzTnpkZFlQQTJ5elZfWlo2ZU5YMHh3d0RHaE5FV0tBeUVkTDE3UE1mSDZkeUF3S2VLLWZkN05lZDlYbVc0SF9WWjN4amFTcWFuTDJfTQ?oc=5",
+        "source": "商傳媒",
+        "published_hkt": "08/13 07:46",
+        "related": []
+      },
+      {
+        "title": "比特幣ETF資金流回正 IBIT單日增持5019萬美元",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43ZnZRcVNhWnBfTlAySEhRYmxvTC1lSVAxVXpIQmlZUXBsVzJtdC1JalFJbzBMT1RBNFJXZGRPWmppOU9wM3F0eUpWUDFFZmQtRTUzeC1icEhRU2xzRHZUWjBzaFBuSnhIU2s3TE5IMA?oc=5",
+        "source": "FinanceFeeds",
+        "published_hkt": "08/13 04:39",
+        "related": [
+          "BTC"
         ]
       }
     ]

@@ -152,29 +152,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-12 22:21 HKT",
+      "updated_at": "2026-08-13 15:41 HKT",
       "news": [
         {
-          "title": "外資吸血金融股！國家隊2.6億護這檔官股",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YdzhRLU5PUHplS01nZjZOekNseXR3eXdSUkdrVlI5dzEtYm4wMFNjU3Bnb1RWbzdaYV9YSUFRX3JLeDh0UkpLbHN2XzF1ZnlWc0E0OERHUXFwaElPV282R1VR0gFiQVVfeXFMTlh3OFEtTk9QemVLTWdmNk56Q2x5dHd5d1JSR2tWUjl3MS1ibjAwU2NTcGdvVFZvN1phX1hJQVFfckt4OHRSSktsc3ZfMXVmeVZzQTQ4REdRcXBoSU9XbzZHVVE?oc=5",
-          "source": "鏡週刊Mirror Media",
-          "published_hkt": "08/12 18:45",
+          "title": "【台股115/8/14(五)盤前分析】",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHM1cXA3TDN3U3RzOEdoTHVDeGp3S0l0bndxMkFuak9zelRLTFVXdkxKTlgwV0s0V3NBY29pdnVTMUpjTG0tRnp0bHN5bE9JODRBdEJjWGp1bEREdG02dzlNYkNTN1VrdjNhckxGUzRQbWNONVB4LWF6V0tSV2RIaExWczVsY2l5UlBwZ0xha19SWWpPdmxmTUtuTXlrb2x2UFRMMjlRaXRYYkgyYWpRY2Y3Ym1BZGwtT2Zxck9KT0Rma3R4RUI5NlBYbXRSZzA?oc=5",
+          "source": "台灣好新聞",
+          "published_hkt": "08/13 15:01",
           "related": []
         },
         {
-          "title": "台股12日開高後呈震盪走勢 仁寶Rubin伺服器亮相股價攻半根漲停",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xQXpnYVZGMGd6dGVzcHFIaDFsZWVIU0VPeFRRdHFJSFRLem1mZnhhc043ZFZzY2dnSGtKZk05LUxFV3ZXRGtHREFPUXlxd0k2c3c?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "08/12 18:12",
-          "related": []
-        },
-        {
-          "title": "TWA00 加權指數- 機器人產業鏈2026Q2財務數據評估- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Yc1kzQUIyVFZ6UjdFOUxRRmlrZjE5RWxWaHgyYjVjMFBQVU5vd21SV3ZIZUZLTVRrWktGM2pLWWRtZVdHaUtkRVZvMTdlUmJ1TGUtSy1NM0w?oc=5",
+          "title": "TWA00 加權指數- 8/13 收盤分析- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qYTNaY3lQakh4amNvbjdhVWQ4ZENkcWVEM1otQXIwNXhsUmsyaVBySkNFQmFjOVQyNXZBdlFQSkdUZFdNS3p2aTFERm5hSUx0MEdTV056YVo?oc=5",
           "source": "CMoney",
-          "published_hkt": "08/12 18:06",
+          "published_hkt": "08/13 14:20",
           "related": [
             "^TWII"
+          ]
+        },
+        {
+          "title": "台股收盤／上漲503點站回46K 台積電漲20元、記憶體勁揚",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCOFdjTTJxUm1BLTc2c3VQWlFNa1pHNzFCZHduVGRtWTZJUHNXRVAtekFQeHJyR2FLclRXV3p1cHRsUG52YTUwSDV3WGtoYlU?oc=5",
+          "source": "TVBS新聞網",
+          "published_hkt": "08/13 13:50",
+          "related": [
+            "TSM"
           ]
         }
       ]
@@ -208,60 +210,61 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-12 22:21 HKT",
+      "updated_at": "2026-08-13 15:41 HKT",
       "news": [
         {
-          "title": "“AI先知”持倉引爆太陽誘電股價大漲! Situational Awareness折戟槓桿，卻揭開AI基建關鍵瓶頸之一——MLCC",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONHJBQnVnbnpKeEl4OWhSWHRRTE54VXVBQl9vcXd3czdMOWdmbVBCWm9JVFhmdldNZHBRX0tOOGdpcnhaUTVfc1VHdW53QU1FX2RyUHZXRFhnT3ZQZUNFaElEd2NhbEYzVElwLUJNa2plVk9fTG5Vc3d5eFRIWEZ2SQ?oc=5",
-          "source": "Investing.com 香港 - 股市報價& 財經新聞",
-          "published_hkt": "08/12 19:49",
+          "title": "【即時新聞】避險基金曾重倉16.6%！AI伺服器供應商太陽誘電(TYOYY)股價狂飆逾7%",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR3l4VDZELWt4NUpWMHlBR0FXQlpHT096SUZmR0ZCWGxIQlN4bVpNcEVXcTZ1aGc0Y1VpNzZ4WGp1OXZrOWZ5SGRPU0lWMXN0ek9lN0hrQnNoQmhuVjFwX0lBNzNHYVFzNDlUQ3NEOUp3QXJnQ3pxWXNVdDJLT3hBOHNOOVFxYk83MUNtQTRuQm4?oc=5",
+          "source": "CMoney投資網誌",
+          "published_hkt": "08/13 15:09",
           "related": []
         },
         {
-          "title": "《日股》AI推升，日經漲0.83%、TOPIX創收盤新高",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcjdMS3VpZlo1UTROdnZhbWVwSElLLXZsVE1kS25xZDhMSU9oY0k1QkR0emxMdHlJRElzRktqMDM1LXN6Q09xa2FSNDh4c3hhdzVrRUoyXzlwbFJ0dDExVW9aczR2S2RUMTRPbkhfdE9OSnZscmtWclRkelJRU193ajJQU19hak5zaHBfR2w2elZMQQ?oc=5",
-          "source": "台視全球資訊網",
-          "published_hkt": "08/12 18:50",
+          "title": "日韓股市收盤走強！KOSPI漲超3%，SK海力士漲近6%，三星漲近5%",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSkgzS2pVZjlZRkFfcDNjMHgzNVlwQzBUX3JpN3FZeTF3ajRuVERwekUyNHoyU1hrbUJDUmZBMXhQU2RVRS1Gc1lFR3pTUDNBODZRVHRUNkNyaDVKTzNUZ096TnpPc2FlZFZOTVM1MlNzX25ETWNUSzlfcHhqc3Zrbkczc0lVVVYwVEZZT3g5WHBvVWdCRHdVTVppUUU5Rkd6Q185TDJ5U2Rmck9EOUdDWkVKM1lMM2FtWWxkdkFjZVZSbExqQlZEYXY3UGo2cTU4YWRsVjV1NzRULW5yTXNvWQ?oc=5",
+          "source": "TradingKey",
+          "published_hkt": "08/13 15:04",
+          "related": []
+        },
+        {
+          "title": "日股：日經指數週四大漲784.53點或1.16%，愛德萬、三菱日聯金融集團股價靚",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS1VfMnVuMnN5NU1Xd1NENnZWTGFRVUpQZG5oV1BZOUNVaTdYWFVOTkVab2ZHZlJDZ0FyYVBIUE5PeEpGWnZzd040dmhpUjdIM19SUUM2RkNyRHBmRXltRWtDbm1mQ0NDNFd5eDJGR2xteHZxQ1hJd2RTeE1UR0hDUGZ5akdGc2dX?oc=5",
+          "source": "富聯網",
+          "published_hkt": "08/13 14:53",
           "related": [
             "^N225"
           ]
-        },
-        {
-          "title": "新加坡股市下滑，富時新加坡海峽時報指數因銀行股下跌而下跌0.6%｜長橋證券",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YSndoYWYwS0hoR05MZDVJb0k1X2VCRDVjUnJrU01FVVlMVUwyS0pkR1dhb3lrTmxiMkJRX0otTHRpc016SURtYk1ocG5RZXZfN0FXQTB3?oc=5",
-          "source": "Longbridge",
-          "published_hkt": "08/12 18:26",
-          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-08-13 11:23 HKT",
+    "updated_at": "2026-08-13 15:41 HKT",
     "news": [
       {
-        "title": "22.5億美元豪賭：高盛(GS.US)收購NEOS重塑加密期權戰局 作者 智通財經",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Fc09vdTNLNEpfQTN2VDJteFFXdGRhR2w0bnN0bHVRUERMLTFyMmRrSHZiNk54WEtBa2Q2ZlpGLVNGSnNLSHBxTVdwcXAzU1BEYmNaTnF4ZFI2UGFVak42Rk9lUzRCc3N1OFVxdE5ZeVU?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "08/13 11:17",
-        "related": []
-      },
-      {
-        "title": "22.5億美元吞併 NEOS，高盛(GS.US)加密版圖突變 作者 智通財經",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05dnpfSXY3RlNjeEtBQUo2Z25yWEt2X1E5YXpEX09UclVhWkF5Y215Z3lSbDFSdlZSaVhuYmlSc0VaVENlUDFpa2ZMOEVFZ1ZYSXhkeWlGSjlGRlFaeGZGV1lwZ19NTDdtcXpoR3Vyc0U?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "08/13 11:17",
-        "related": []
-      },
-      {
-        "title": "比特幣守6.35萬、以太坊1879美元！CPI降溫恐慌回升至29，爆倉1.76億續走低",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd21MckNxUHdPRG1PUkFEZVZtZ1FMYTdLY1BWZGRsQi1aTjJmZ0ZuOVBuZWxHLUdxUE9Jdk1JVU5ZaGZnWGpKZkNjWEhVTUZqZ1FaSEtpN2lYcmRFSnlBYkVpbjlLLURlWThWT2E4cUZsQTYtRm8zT2RpUXhURElMQw?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "08/13 09:29",
+        "title": "專訪Bitwise CIO：壞消息已嚇不動比特幣，未來牛市機構主攻主流幣，鏈上資本深耕應用層",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQXY4cGprN0swb1V4Q0ZnVEZncFhxUFZHTGI2T0tWaTlSWUhMNzM3WHFNV2FYeVVsOWxPUkNGakRMWnAwY19iTGVvV1RjOHQxSjJMLVdDOVBtUHFzS25XTFdhQVBrZGJWSUVFNEhUdVV0Q1gzLXNhM2h6NWZGVEVyYmFpUEl1Zw?oc=5",
+        "source": "PANews",
+        "published_hkt": "08/13 14:22",
         "related": [
-          "BTC",
-          "ETH"
+          "BTC"
         ]
+      },
+      {
+        "title": "加密貨幣價格預測：門羅幣、瑞波幣和比特幣——亞洲盤13日8月",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM2dRQ0lXVlRpaFZqRVM5VlJTcGRsekxWbWxQLVhIZjR5OHJ3NmhYM3cwdU9SMDg2SWJHMG4wVHBGX0lHVHVjSHowVVNiWnBpMnJud3hTaS1NQW5hT21yUVpPRDVvR0d4SGxFZl9KZU5ZU1dmVy1YcjJIZWxDMVE0WURCdkpRb3h6bTBuWWM0NGZOTEVXcXFJejkteS1sTzMtLTN2dzJjS216djU3Q2pzd3NrSEtnX0ZfN05uUVIySWZpVHVoMFVjamQ1blNxOU1yUU41SDJFdEl2ZlJn0gHcAUFVX3lxTE0zZ1FDSVdWVGloVmpFUzlWUlNwZGx6TFZtbFAtWEhmNHk4cnc2aFgzdzB1T1IwODZJYkcwbjBUcEZfSUdUdWNIejBVU2JacGkycm53eFNpLU1BbmFPbXJRWk9ENW9HR3hIbEVmX0plTllTV2ZXLVhyMkhlbEMxUTRZREJ2SlFveHptMG5ZYzQ0Zk5MRVdxcUl6OS15LWxPMy0tM3Z3MmNLbXp2NTdDanN3c2tIS2dfRl83Tm5RUjJJZmlUdWgwVWNqZDVuU3E5TXJRTjVIMkV0SXZmUmc?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "08/13 13:29",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "門羅幣價格預測：XMR是否準備好再度上漲？",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOVDluaEcxdnU5ZURpcC0xMGpkVklFcTBUMnFQM2l3YlA2TFZrYXp5RkNfR0YzSVV3WGNtbnFhUmdfOUpZOXRBaHV1cmpOU3RLeW5GU3RJN210TWEzNjk3ZkFTU3RDcmlTUWVLbGFuRzlZS2hjbmRnSGgyUXJLSmlMUUd1OVZ2Q1M5cG5PeHpOR0l2blFZNDJMVUQzWVVQdk1WXzhXd2J2NDhkUlRGUXB0QzZQdFpPVHNDX3gzbXJ4TWMxdUkzc3FBaEoxUV8wTTFpa2hXLVNwd005WW1SSnl1UXhnb2wzbmZueTNZMmxpWjY1UkU4NjcxeFg4UjNFSU56ZGlrRkRfT0hab2vSAYsCQVVfeXFMTlQ5bmhHMXZ1OWVEaXAtMTBqZFZJRXEwVDJxUDNpd2JQNkxWa2F6eUZDX0dGM0lVd1hjbW5xYVJnXzlKWTl0QWh1dXJqTlN0S3luRlN0STdtdE1hMzY5N2ZBU1N0Q3JpU1FlS2xhbkc5WUtoY25kZ0hoMlFyS0ppTFFHdTlWdkNTOXBuT3h6TkdJdm5RWTQyTFVEM1lVUHZNVl84V3didjQ4ZFJURlFwdEM2UHRaT1RzQ194M21yeE1jMXVJM3NxQWhKMVFfME0xaWtoVy1TcHdNOVltUkp5dVF4Z29sM25mbnkzWTJsaVo2NVJFODY3MXhYOFIzRUlOemRpa0ZEX09IWm9r?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "08/13 13:06",
+        "related": []
       }
     ]
   }

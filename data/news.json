@@ -90,33 +90,34 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-12 22:21 HKT",
+      "updated_at": "2026-08-13 17:37 HKT",
       "news": [
         {
-          "title": "港股收評：恒指跌0.83% 科指跌0.99% 科網股普跌 光通信、內房股強勢",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xUDNmdU1qdkZiMVBEQ2lzbkpoblN6ZEdaWmZSXy1kYncweXZsMjZLQnY1a29SRlRERkk1YVVIY2h3d3ZZUV9VdE92V2pYbkMwLW5ERUU0aEpYYjdCZjV0STRtLWRkLU1VNXlWU3BzamFKWkw1?oc=5",
-          "source": "flamingwheels.online",
-          "published_hkt": "08/12 20:35",
+          "title": "恒指走勢丨埋單跌43點20天線得而復失 聯想績後爆升兩成",
+          "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOS3JqM1BhOW05XzZSRGRWMktiXzQxVXEyNjJNV3lZWU1LdXVLLUtZWDBGTjVXRXlacHZpS0hZdlFBTEg4VV9PQ3hEMlBSTWpEa3Z3RXNqaEVUOTk3NTBldFR1SzVFMGNJNE5IT2locEpCd1JmdjlRYTZwbXY1TmNBc1RHS2ZUNjcybkVDNHFaSkZ4ZGhlT2xNSUc2Zmhqd0RxLTlMa1RXQjJIcmtwc1MxRTVDbHhVQkVPTDZkS3VoaWhJMEl3elRKb2RMSkx2MWtqOWc5bUR1N3RSb2lUazRyQldEV3U1SmNhZnpXaU5NTGZ6em9yRVhtel9xQktDMkQ5d1dSb0RRZzl5SW1UMmdoOFJ2WEcyaXhTdWVvY2Q1ZFI5UHZSMUMtcXBWOWZvRGF6T1U0eWFnMVktbktORGRCMFVjN1huSzNWQXFaRkQ0V04zeWYwSHlhcGdXSGpJR3ZmUEVsWGpSSE1jQlV1dHk3N1FleEl6N3dRYXhCYjNlWng?oc=5",
+          "source": "信報網站",
+          "published_hkt": "08/13 16:41",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "港股收評：恒生指數低開低走跌0.83%",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aNTFYRnN0MXFSWVE1MXNPOHdsTXlvTEFwR0ZWT3BKVWQ5ZnJGNV8tY2MzaUMxazNULW8wbHNfWnByU3ZfLVpJd1lqTndod3JRUUxTeFJkTnJhOFpodjdZN1NERjJFMEZUMDRj?oc=5",
-          "source": "香港商报",
-          "published_hkt": "08/12 19:54",
+          "title": "〈港股盤後〉恒指震盪微跌0.17% 聯想財報出色逆勢飆漲 20% 創歷史新高",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMdkVBdGhmME4wVE56T2Z2T1dMWU42X1ZQQk1rbFJtZ0Q4TmkyWV8tZHlBSVVRUjlhTUhOUTVyb05jOVp6d1BrZHV6WEJJVEk?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "08/13 16:40",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "恒指低收212點滙豐降恒指年底目標至兩萬七- 有線寬頻i-CABLE",
-          "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOYlFsWjlNOXQ1M21jdWJzUDQ2XzJmWjRtRDROS0RPR2pRT0RnNGRMMFN5TTdkMzR2Zk5idmxZNldLMWZrWG50S0lCejctOGFsX0tlQkllQWViQ0NzMTM1WEFBM3ZLT2N3QUp6MkRZdlhqNFQ4VEZWSUtISHNpNDhpWU1TcC1qV3o2LWJuQkplSHFOTUFtakt5N0o4eUdlYXBtMlB4RG1weGZ5UXVqbHlsTU52VkM2ZERsT2Y3NzNISFYzMHBPWkxjVXpacXBXR1NGRnJqUXpjUlNmNVJLSXZKRlYzSVZfWWpUc3d0VTNLelFmYzJsUy0zTzBRQVBwLUFDdnV6bzc5R1czSFFVSWdRQldRNERsY3l6MkpGb2xHZDhIOGxJM2h1RUJ0azVRVmxPVE53cGFOTzdPdnFwV3RpOVBTZ042bkxlczlRZVhlM0ZfNjUy?oc=5",
-          "source": "i-cable.com",
-          "published_hkt": "08/12 18:11",
+          "title": "恒指跌43點 騰訊挫逾4% 聯想集團大升20%",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONm9HTmZZaTZmeVlEQ0E5VGFPZDY3Vm1XbjVWTUtpQ3Q2TUJFVjd5ekFPOVpHRGFVU2QwcWZFeE9xdlh1aE5YN0xkMlEwQnMxMUkzbHhLN092Vkd3eS11WXlpNU1YZmtWNWd3Q19USlB6Nmxza0lENGEycXVOUzZIaGlOWWRMeFhRUUVN?oc=5",
+          "source": "on.cc東網",
+          "published_hkt": "08/13 16:26",
           "related": [
-            "^HSI"
+            "^HSI",
+            "0700.HK"
           ]
         }
       ]
@@ -152,30 +153,28 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-13 16:09 HKT",
+      "updated_at": "2026-08-13 17:37 HKT",
       "news": [
         {
-          "title": "【台股115/8/14(五)盤前分析】",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHM1cXA3TDN3U3RzOEdoTHVDeGp3S0l0bndxMkFuak9zelRLTFVXdkxKTlgwV0s0V3NBY29pdnVTMUpjTG0tRnp0bHN5bE9JODRBdEJjWGp1bEREdG02dzlNYkNTN1VrdjNhckxGUzRQbWNONVB4LWF6V0tSV2RIaExWczVsY2l5UlBwZ0xha19SWWpPdmxmTUtuTXlrb2x2UFRMMjlRaXRYYkgyYWpRY2Y3Ym1BZGwtT2Zxck9KT0Rma3R4RUI5NlBYbXRSZzA?oc=5",
-          "source": "台灣好新聞",
-          "published_hkt": "08/13 15:01",
+          "title": "MSCI調整助攻！國巨漲停、南亞科噴6%領軍 台股攻克46000點強漲503點成交量突破兆元",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iZ2JrR2Y0QjUzZGJXN1Y0UHBka2tSS3pGR01sUTlWaFZlX1pEdWVYSmdVaWN1Q1gwMW5OaGp6WXN4SWtTSV9CakExSQ?oc=5",
+          "source": "FTNN 新聞網",
+          "published_hkt": "08/13 16:40",
           "related": []
         },
         {
-          "title": "台股高收逾1% 連升4日",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVlOd1pCRDcxMUJzeDE4S0otcW9GSEU3Tk84cGdpUXBpbGl6LWpIRU41dkVhN2xJeXlRVDR2VlRGd2dzY2R5aUx5RG9BX2ctenV1LVdjaEdrM3UwOFFlRzdaajJvbHJ3Y3FQWkRMdHRfTkJyMzJjalpPS3pXdXBpU2pQeVE0bzA?oc=5",
-          "source": "香港電台新聞網",
-          "published_hkt": "08/13 14:33",
+          "title": "《台股盤後》電子權值股領軍 收漲503點/重返46K",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSjQ5UDdzVlR2ajhtWUpJbkZlYnpmRDRObjdLaDNFMm1FSGVTb1JSMFZUYTRUbzd2QTJxYjJaTWtVbXoxVUc0ZjdjLXdvbmNQM0o0eEVwckNSYTJyX1N6bTdUSWZBa21pWGpMT0ZOc3BfSXBQVm40NFZXZlJzcms3bTQzTFhlZFA1ZXRaYWswdFlzUQ?oc=5",
+          "source": "MoneyDJ",
+          "published_hkt": "08/13 15:45",
           "related": []
         },
         {
-          "title": "TWA00 加權指數- 8/13 收盤分析- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qYTNaY3lQakh4amNvbjdhVWQ4ZENkcWVEM1otQXIwNXhsUmsyaVBySkNFQmFjOVQyNXZBdlFQSkdUZFdNS3p2aTFERm5hSUx0MEdTV056YVo?oc=5",
-          "source": "cmoney.tw",
-          "published_hkt": "08/13 14:20",
-          "related": [
-            "^TWII"
-          ]
+          "title": "台股大噴503點重返46K！力積電除息利多助攻爆46萬張奪成交王「這檔記憶體」晉升MSCI名單激買氣",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TUUtYVmN4Tk1TaGVkVzJyd2ZDZXhPWWkyRkg1QmtIRlFQbHlUZDlsRUJENTlHVTNEbVBVOVM3QngxRXhFTHdhU2VFNA?oc=5",
+          "source": "FTNN 新聞網",
+          "published_hkt": "08/13 15:10",
+          "related": []
         }
       ]
     }
@@ -208,36 +207,34 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-13 16:09 HKT",
+      "updated_at": "2026-08-13 17:37 HKT",
       "news": [
+        {
+          "title": "通膨降溫與AI算力狂潮雙輪 驅動全球股市上漲",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiczgxVkZsZS00WlhjNFFzaFE3d1VPQzJNMlk2QzJxZHdyaTVPaDhmUDlHVXk0QjAzbkMwSXZKM0s4RXR2WmVOeXNLRlVsSV85dkE?oc=5",
+          "source": "蕃新聞",
+          "published_hkt": "08/13 16:15",
+          "related": []
+        },
+        {
+          "title": "《台股盤後》電子權值股領軍 收漲503點/重返46K",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSjQ5UDdzVlR2ajhtWUpJbkZlYnpmRDRObjdLaDNFMm1FSGVTb1JSMFZUYTRUbzd2QTJxYjJaTWtVbXoxVUc0ZjdjLXdvbmNQM0o0eEVwckNSYTJyX1N6bTdUSWZBa21pWGpMT0ZOc3BfSXBQVm40NFZXZlJzcms3bTQzTFhlZFA1ZXRaYWswdFlzUQ?oc=5",
+          "source": "MoneyDJ",
+          "published_hkt": "08/13 15:45",
+          "related": []
+        },
         {
           "title": "【即時新聞】避險基金曾重倉16.6%！AI伺服器供應商太陽誘電(TYOYY)股價狂飆逾7%",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR3l4VDZELWt4NUpWMHlBR0FXQlpHT096SUZmR0ZCWGxIQlN4bVpNcEVXcTZ1aGc0Y1VpNzZ4WGp1OXZrOWZ5SGRPU0lWMXN0ek9lN0hrQnNoQmhuVjFwX0lBNzNHYVFzNDlUQ3NEOUp3QXJnQ3pxWXNVdDJLT3hBOHNOOVFxYk83MUNtQTRuQm4?oc=5",
           "source": "CMoney投資網誌",
           "published_hkt": "08/13 15:09",
           "related": []
-        },
-        {
-          "title": "日韓股市收盤走強！KOSPI漲超3%，SK海力士漲近6%，三星漲近5%",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSkgzS2pVZjlZRkFfcDNjMHgzNVlwQzBUX3JpN3FZeTF3ajRuVERwekUyNHoyU1hrbUJDUmZBMXhQU2RVRS1Gc1lFR3pTUDNBODZRVHRUNkNyaDVKTzNUZ096TnpPc2FlZFZOTVM1MlNzX25ETWNUSzlfcHhqc3Zrbkczc0lVVVYwVEZZT3g5WHBvVWdCRHdVTVppUUU5Rkd6Q185TDJ5U2Rmck9EOUdDWkVKM1lMM2FtWWxkdkFjZVZSbExqQlZEYXY3UGo2cTU4YWRsVjV1NzRULW5yTXNvWQ?oc=5",
-          "source": "TradingKey",
-          "published_hkt": "08/13 15:04",
-          "related": []
-        },
-        {
-          "title": "日股：日經指數週四大漲784.53點或1.16%，愛德萬、三菱日聯金融集團股價靚",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS1VfMnVuMnN5NU1Xd1NENnZWTGFRVUpQZG5oV1BZOUNVaTdYWFVOTkVab2ZHZlJDZ0FyYVBIUE5PeEpGWnZzd040dmhpUjdIM19SUUM2RkNyRHBmRXltRWtDbm1mQ0NDNFd5eDJGR2xteHZxQ1hJd2RTeE1UR0hDUGZ5akdGc2dX?oc=5",
-          "source": "富聯網",
-          "published_hkt": "08/13 14:53",
-          "related": [
-            "^N225"
-          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-08-13 16:09 HKT",
+    "updated_at": "2026-08-13 17:37 HKT",
     "news": [
       {
         "title": "專訪Bitwise CIO：壞消息已嚇不動比特幣，未來牛市機構主攻主流幣，鏈上資本深耕應用層",
@@ -249,20 +246,22 @@
         ]
       },
       {
-        "title": "加密貨幣價格預測：門羅幣、瑞波幣和比特幣——亞洲盤13日8月",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM2dRQ0lXVlRpaFZqRVM5VlJTcGRsekxWbWxQLVhIZjR5OHJ3NmhYM3cwdU9SMDg2SWJHMG4wVHBGX0lHVHVjSHowVVNiWnBpMnJud3hTaS1NQW5hT21yUVpPRDVvR0d4SGxFZl9KZU5ZU1dmVy1YcjJIZWxDMVE0WURCdkpRb3h6bTBuWWM0NGZOTEVXcXFJejkteS1sTzMtLTN2dzJjS216djU3Q2pzd3NrSEtnX0ZfN05uUVIySWZpVHVoMFVjamQ1blNxOU1yUU41SDJFdEl2ZlJn0gHcAUFVX3lxTE0zZ1FDSVdWVGloVmpFUzlWUlNwZGx6TFZtbFAtWEhmNHk4cnc2aFgzdzB1T1IwODZJYkcwbjBUcEZfSUdUdWNIejBVU2JacGkycm53eFNpLU1BbmFPbXJRWk9ENW9HR3hIbEVmX0plTllTV2ZXLVhyMkhlbEMxUTRZREJ2SlFveHptMG5ZYzQ0Zk5MRVdxcUl6OS15LWxPMy0tM3Z3MmNLbXp2NTdDanN3c2tIS2dfRl83Tm5RUjJJZmlUdWgwVWNqZDVuU3E5TXJRTjVIMkV0SXZmUmc?oc=5",
-        "source": "fxstreet.hk",
-        "published_hkt": "08/13 13:29",
+        "title": "主要加密貨幣行情，比特幣升0.62% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUEsyV05RUFJvQnFpUVJ0bmhRM1hPaFlQd1ZZSDNVc2NKY0dWdUc2Z2poZ0N1MUlRMjZ2bFhjZW5rYzI3a1ZqQkd1VDlSaHd0VW9adzJmcGVKQUExWjFyVWllcnVNY0l1OWFwcFVMVjNTRTJlRnVfejFKekx0MUhPTWhpQ3VRWUl6cTVXcEFHNXRvQzhxTEFKLWVxVWJOV0g3?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "08/13 14:02",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "門羅幣價格預測：XMR是否準備好再度上漲？",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOVDluaEcxdnU5ZURpcC0xMGpkVklFcTBUMnFQM2l3YlA2TFZrYXp5RkNfR0YzSVV3WGNtbnFhUmdfOUpZOXRBaHV1cmpOU3RLeW5GU3RJN210TWEzNjk3ZkFTU3RDcmlTUWVLbGFuRzlZS2hjbmRnSGgyUXJLSmlMUUd1OVZ2Q1M5cG5PeHpOR0l2blFZNDJMVUQzWVVQdk1WXzhXd2J2NDhkUlRGUXB0QzZQdFpPVHNDX3gzbXJ4TWMxdUkzc3FBaEoxUV8wTTFpa2hXLVNwd005WW1SSnl1UXhnb2wzbmZueTNZMmxpWjY1UkU4NjcxeFg4UjNFSU56ZGlrRkRfT0hab2vSAYsCQVVfeXFMTlQ5bmhHMXZ1OWVEaXAtMTBqZFZJRXEwVDJxUDNpd2JQNkxWa2F6eUZDX0dGM0lVd1hjbW5xYVJnXzlKWTl0QWh1dXJqTlN0S3luRlN0STdtdE1hMzY5N2ZBU1N0Q3JpU1FlS2xhbkc5WUtoY25kZ0hoMlFyS0ppTFFHdTlWdkNTOXBuT3h6TkdJdm5RWTQyTFVEM1lVUHZNVl84V3didjQ4ZFJURlFwdEM2UHRaT1RzQ194M21yeE1jMXVJM3NxQWhKMVFfME0xaWtoVy1TcHdNOVltUkp5dVF4Z29sM25mbnkzWTJsaVo2NVJFODY3MXhYOFIzRUlOemRpa0ZEX09IWm9r?oc=5",
-        "source": "fxstreet.hk",
-        "published_hkt": "08/13 13:06",
-        "related": []
+        "title": "加密貨幣價格預測：門羅幣、瑞波幣和比特幣——亞洲盤13日8月",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM2dRQ0lXVlRpaFZqRVM5VlJTcGRsekxWbWxQLVhIZjR5OHJ3NmhYM3cwdU9SMDg2SWJHMG4wVHBGX0lHVHVjSHowVVNiWnBpMnJud3hTaS1NQW5hT21yUVpPRDVvR0d4SGxFZl9KZU5ZU1dmVy1YcjJIZWxDMVE0WURCdkpRb3h6bTBuWWM0NGZOTEVXcXFJejkteS1sTzMtLTN2dzJjS216djU3Q2pzd3NrSEtnX0ZfN05uUVIySWZpVHVoMFVjamQ1blNxOU1yUU41SDJFdEl2ZlJn0gHcAUFVX3lxTE0zZ1FDSVdWVGloVmpFUzlWUlNwZGx6TFZtbFAtWEhmNHk4cnc2aFgzdzB1T1IwODZJYkcwbjBUcEZfSUdUdWNIejBVU2JacGkycm53eFNpLU1BbmFPbXJRWk9ENW9HR3hIbEVmX0plTllTV2ZXLVhyMkhlbEMxUTRZREJ2SlFveHptMG5ZYzQ0Zk5MRVdxcUl6OS15LWxPMy0tM3Z3MmNLbXp2NTdDanN3c2tIS2dfRl83Tm5RUjJJZmlUdWgwVWNqZDVuU3E5TXJRTjVIMkV0SXZmUmc?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "08/13 13:29",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

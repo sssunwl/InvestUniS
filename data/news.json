@@ -149,7 +149,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-14 15:39 HKT",
+      "updated_at": "2026-08-14 16:05 HKT",
       "news": [
         {
           "title": "TWA00 加權指數- 8/14 收盤分析- 股市爆料同學會",
@@ -163,7 +163,7 @@
         {
           "title": "台股跌近0.5%收市 本周累計升約4%",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ3VPSXRhMExDZUtPWGhRRVRsN2lrLXd3RXZFNGpPYmY0eV9SaHhBX3BOWUhxRkNleENtMmYtM1NVQ2lxQnVfNjAxWEl1VDI1ZEJVN0tzOWFOWGxwenJjSVM4cTdvUkRhQjBveFBrbEpmUTViUEhaZ3k0ZmhCbjZyZ2wyLWtxTjQ?oc=5",
-          "source": "香港電台新聞網",
+          "source": "news.rthk.hk",
           "published_hkt": "08/14 14:28",
           "related": []
         },
@@ -207,39 +207,44 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-14 15:39 HKT",
+      "updated_at": "2026-08-14 16:05 HKT",
       "news": [
         {
-          "title": "日韓股市週五走強，KOSPI漲超2%，週漲11.5%結束跌勢，SK海力士、三星、鎧俠齊漲",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQ2RzSFZqd3hvZ0FlR04yNEdMR3QzZ2hzVE05WkJJVXJaY0VBNW5SLWp1YlRha0xIODZZdURQT29NMHA0Z0hVQkJ1d3VWc2Z2WHl5NVdSR24tY3FRQm5RS0pac0pJVHZuTmQwNTdjUS1ybll2ZjRwRnBPTXpXWTFvY2pfMnR0VlA2R1ZieFptby1OUXNSWUxhcHR4RnhxSUY4cW9feEZsVlhZamVoTlYyVDNkXy1NRWItSjg1UVl3TXdwdlBRSVpaay1rMFcxczlTSThCUXVDQmpieEVydDNfdw?oc=5",
-          "source": "tradingkey.com",
-          "published_hkt": "08/14 15:07",
+          "title": "《台股盤後》收跌210點、5日線有守；周K連二紅-新聞內容-基金",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPelJmNl96MXdMS0ZVdzlpeVZXZURZbWpyQmtMLXI2bGJTcF9pV05wVkotY1Vudm1fcEt2Ulh5R3I3U1hDb0luUkVralhXYlJldDhxUnFDa2cxU3Y1NmNMUV83cVpUT3I1dHF1UEJHUlVCTHlYanhMTUlhZVVNTTljMFpwMDBoenZ1cUZvNnpLZW0?oc=5",
+          "source": "MoneyDJ",
+          "published_hkt": "08/14 15:55",
           "related": []
         },
         {
-          "title": "今日日股牛熊榜 | 樂線娛樂上升19.85%，領升日經成分股，鎧俠成交額佔據榜首。",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSVpOWmdHNE1TbkZDVFdTenduMGU0V1hzN2Q3WURNTlNYeWtYYXJEUERuQ3VOR3Q1bm1kRlpxZXhTRzEteTdNeE85VnpGT2ltRkpYam03eWgxNVFvTnVnZDQ5S25DaUlTZEV5c0NDVGFDMmR0M09Zb0R5LTNUTTM0M3hOVWVTR0RoV0lEYVp0dk9sMXNJeXVFaG54cHJkdw?oc=5",
-          "source": "富途牛牛",
-          "published_hkt": "08/14 14:52",
-          "related": [
-            "^N225"
-          ]
+          "title": "美通膨減速緩解Fed升息疑慮科技股領漲、日股走揚| 2026九合一選舉",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DbWtGRE5xS3dJUkl0VXc0SXVBcjdiYmZMc2t0aERBdTlyOFdqZ19uaDhHVTlxb2d1bEJCTzRUai13cTZzTEl6bFp6WlZ2a2N2ZHlzQzFR?oc=5",
+          "source": "udn.com",
+          "published_hkt": "08/14 15:46",
+          "related": []
         },
         {
-          "title": "《日股》美股漲勢外溢 日經晨盤收高580點",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaUlOU3FDaTh5b3FFTFFnNzhxN0tNQ2pJa3UxeDg3UnRzUU11QzkwSjBvUkpoQTJpai1kR25DVy1fS1BZbXJheHFFd1FQODhwd2pBNFAyUXlWc3J4TTBOdFVFMEFJTlFVUHdhU2NEdTh6d1FacFROQ2duamRnSkU1RG1DaEdXMHM5?oc=5",
-          "source": "ww2.money-link.com.tw",
-          "published_hkt": "08/14 12:23",
-          "related": [
-            "^N225"
-          ]
+          "title": "美通膨減速緩解Fed升息疑慮科技股領漲、日股走揚| 全球財經| 全球",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ERTU0UnNQZm5WNTRJSHdKQmZ3T3B2aGRTcHVnbGpuT04wckVwSTlzSnNudFVxaHpieHRjQktOSXIwY3ZReUdsdmo3b0pZLWRs?oc=5",
+          "source": "udn.com",
+          "published_hkt": "08/14 15:46",
+          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-08-14 15:39 HKT",
+    "updated_at": "2026-08-14 16:05 HKT",
     "news": [
+      {
+        "title": "多重逆風因素打壓比特幣。XRP在$1附近徘徊。",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQUlGNEpwM29SREYzNzJQRXRYc0gzQldXMjhSdkJKNWx3RDJvT0NRcWhsampCb0ZtY2NDRG5Fc0tVaXJNVUJ5YnpMN3ctZmgxbUtWeU1fcWNJQXg3enlvbzlSZWhmYXdnVVNFSVJxTGk3dURQR29yanBzRFUwOE96ckdkd3NLbGtHOUxsYnFnZEc3akh6QkZ1ZVdGTGxrQ2dLTEcyWmFB?oc=5",
+        "source": "Moomoo",
+        "published_hkt": "08/14 15:40",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "燧原科技是英偉達的真正競爭對手嗎？深度解析中國AI芯片挑戰者的全棧算力佈局| MEXC 幣圈脈動",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdzgzcTRSLTRTNFFZMFA3QlkzRGptNi00MXBRdHdoZFFRY3RUTHU1Y2dmcEFBZXYtTzg3TlA2enZhNkZzZ1hteXhzWTRkWGZJU3VuaFU4UkQwaGczV0ZFTG1zcXR6dk1pS0FpM2NuRTZTVWFzUkVVZzdZWjh5X04wbE51M1BRU1E1WUhaTHlmMTltVUFLdjV4VUh2bVpvTnVaUEZmd3hEU0RYblFiQmZMbTJzQl8yX3dQWFpKTw?oc=5",
@@ -257,13 +262,6 @@
         "related": [
           "BTC"
         ]
-      },
-      {
-        "title": "XRP準備反彈——原因如下？",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNNGN5djl1R25ZZlEzLWVtMFRqWVVlQmFuYmloSDc2VDRHWm1vY0Jwck1iU0hoQnQwU25jUldsVlh3OFhuazB1MkFXNHRnWTFjeV9PRjNZVWhlN3MzUTE2RUZGQlNESHRvVktaNURUYWRUUE43VnFXajFxUHVsc05nbWE2Wk5tZVBuMmVTYzVmY2dXZEpTY29vTFB5bHdjUWN6UXVEVW8wYlh1NEplS2ZwWXJoTUkwX21tMnB5N1FpVTBJZG95aHVUMkN5c3BaLUwyX3BSd1VoUUxlYXFJcVAzLWZ5dlBfQ0g3VndQdnczcURITzVDbEQ3TEpXSGdSWkxpOEh5SzBOc2U5WHNC0gGMAkFVX3lxTE00Y3l2OXVHbllmUTMtZW0wVGpZVWVCYW5iaWhINzZUNEdabW9jQnByTWJTSGhCdDBTbmNSV2xWWHc4WG5rMHUyQVc0dGdZMWN5X09GM1lVaGU3czNRMTZFRkZCU0RIdG9WS1o1RFRhZFRQTjdWcVdqMXFQdWxzTmdtYTZaTm1lUG4yZVNjNWZjZ1dkSlNjb29MUHlsd2NRY3pRdURVbzBiWHU0SmVLZnBZcmhNSTBfbW0ycHk3UWlVMElkb3lodVQyQ3lzcFotTDJfcFJ3VWhRTGVhcUlxUDMtZnl2UF9DSDdWd1B2dzNxREhPNUNsRDdMSldIZ1JaTGk4SHlLME5zZTlYc0I?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "08/14 13:38",
-        "related": []
       }
     ]
   }

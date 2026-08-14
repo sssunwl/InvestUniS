@@ -27,7 +27,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-14 11:07 HKT",
+      "updated_at": "2026-08-14 11:21 HKT",
       "news": [
         {
           "title": "eToro收購TradeZero！砸超2億鎂加速進軍美國本土美股市場",
@@ -39,7 +39,7 @@
         {
           "title": "美股勁揚！台指期夜盤大漲364點 專家曝「台股上攻關鍵」",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VVVZfTlI3XzlDcE13REk3YU54VVhxclRUd0V6SWZSZl9mY2JCYnoxYkJlZUF3RGV3bVVvX2xKRm9JYmZLemkzWWl0NDhPV3c?oc=5",
-          "source": "TVBS新聞網",
+          "source": "news.tvbs.com.tw",
           "published_hkt": "08/14 09:07",
           "related": []
         },
@@ -238,7 +238,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-14 11:07 HKT",
+    "updated_at": "2026-08-14 11:21 HKT",
     "news": [
       {
         "title": "韓國交易所 Delio CEO 判 15 年！高息吸金，受害者損失 700 億韓元難追回",
@@ -248,10 +248,10 @@
         "related": []
       },
       {
-        "title": "Bit Digital (BTBT.US) Q2 增持 2000 萬 ETH，加速多元化轉型",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbk81d3Z2NjgwRzdiT0JXVkNwb0RCbzRGLWpraWxuX0FVejUxNHNZQ2UwbWdtdnFqZXZnUWpNUEZwanVjdFV5VDczMGljS3dyNW9MaGYtSmpIV1lQZDZ1QnRDdUJDQWRUQnA1OVdsZ3NRdmZFZjk3YjV4SEZJYTlKb2lDNDdRelRrUlJ6U1Y1QnFLRFB5dEJVNFdxRHo4azYtU3FKcA?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "08/14 09:37",
+        "title": "Bitwise擬與Superstate合作，將Solana質押ETF BSOL代幣化",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JcUNnT3p6UUxGd1pRaE56dU5zWE5qQ3F5eEpwWDF2QWJHTm53SEs2LTAzMDRRVW1yUjlPMktEZEVoNHo4ajJocGo3OA?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "08/14 09:30",
         "related": []
       },
       {

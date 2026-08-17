@@ -27,15 +27,8 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-17 10:04 HKT",
+      "updated_at": "2026-08-17 10:17 HKT",
       "news": [
-        {
-          "title": "美股期貨平穩，加息憂慮緩解，企業財報提振市場 作者 Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fM2tTUklSVEVOWGlTOXdRT2x1NmZUVy1TY1ZZMTAzRDhoaVJLVmdVV2JGTnN3Tm44ZHl1cnd5Y2o4UUY3RUxkWkV0aE9iUS0yTGVxZ0FwWHpDd0ZOb2poVllyakNNZzNwYk9jZWpyZkU?oc=5",
-          "source": "Investing.com 香港 - 股市報價& 財經新聞",
-          "published_hkt": "08/17 09:16",
-          "related": []
-        },
         {
           "title": "美股4大指數全跌 台股上漲逾300點 - 財經新聞 - PChome Online 新聞",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWXhQVGFHdHpKa2lKcnZNMkI2S3VZNUFYMElXU2tmSU82eGYxVC01aGVDcUIxT2lQZmljM2pjRGJ6RzIyU29GT3pEN053YVpNNldNYkJtWUQyQnIxSk9CanQyR2YzZXlWU2VfUW1td2lYeUZHbXl6VTNyd21KTjhydHlwZUFKQnEtd3Y4?oc=5",
@@ -44,13 +37,18 @@
           "related": []
         },
         {
-          "title": "零售銷售意外下滑，美股上週五小黑，標普、那指週線連三紅",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhNUhvSlhRMW1LTmgtMkkwQ29nSE9aYzF1VS0wYnlMbldCUjY4Y2l0NU41aWwzcUdoMEM5ZDZoSjFuV05KSm5Pa1pNREFaTXRjUmxDaG1FSWVva1hGUVhoU1pmZ0hYS3c5U1dnWnJSMmt1YU5Fa1h6OXFrVXRaSlk?oc=5",
-          "source": "investor.com.tw",
-          "published_hkt": "08/17 08:45",
-          "related": [
-            "SPY"
-          ]
+          "title": "TradingKey 華爾街週報：PPI 溫和且 CPI 符合預期，但零售銷售疲軟限制美股漲幅",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb1ZJMEFyYkxldUl5OUdKS3cxMnF4N0ZGd1B5ekFucDRoVmJqUHZLcDVlejNVMjVaaUNUcU9pZDZuYUZKYmNwenJEVHlhQWpaZjlwZXRYX3VNaHljenp4VFF3ZnpVMnlWM0M2Umw4dXFOOTBZZW1XUXdmNElROVpIR09iSGlia0M1SnNqRUpyYlNTWVVJcE1zTVlTRFdqWUc2T1hUdFpDWXlWZUcwdGJyYVZqcXZ2V05nZVc3dmJGTl9ZQUluSjc4?oc=5",
+          "source": "TradingKey",
+          "published_hkt": "08/17 08:37",
+          "related": []
+        },
+        {
+          "title": "美股迎“零售財報周”：沃爾瑪(WMT.US)領銜登場，市場押注美聯儲9月按兵不動概率超70% 作者智通財經",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SSlpUQ2xaeTVRNXRMN1M2X1I4cFg5eXItaUk4ck1xbnRaUXluWk1zbVU5R29ST3QwRzVXT3g4NW1UNUpvNjVtaTZ5YldwdVM1aUx0Sjg1bXhZRURIVDJRR0xoX2ZNMUx6YzRXbE50ZmM?oc=5",
+          "source": "Investing.com 香港 - 股市報價& 財經新聞",
+          "published_hkt": "08/17 07:50",
+          "related": []
         }
       ]
     }
@@ -224,7 +222,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-17 10:04 HKT",
+    "updated_at": "2026-08-17 10:17 HKT",
     "news": [
       {
         "title": "Lowest temperature in San Francisco on Aug 16, 2026?",
@@ -234,16 +232,16 @@
         "related": []
       },
       {
-        "title": "聯準會高利率、監管不確定性夾擊 主要加密貨幣市值重挫",
-        "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOSEdDNFdRdThZbGFucjVPTS1hZFhmcUEtMnQ2bUx0dUJmX29wb1RSaXNYZHU5RnFoOVdqdU90Ul8tQm9WS05yb0drTmN6Yk1FdUFIM2JmTE9PQWo2bVRoNm9hNjQ2elpHOEdFbk5MSVpzWTNHYjZOUzE5R3RHUG9lWjc5N3VqZ0JrSGhITldjN3lWQm9vd2huNVhCZmNQbW9JN0VxY2JWNmJxS2w1eDRzOHJNc2hyT2dIQU5OaFFPQlRfYXJ6Y25EVXpJUGJRTVo1aDd0aEhxbG9jRy1Db3FubTRiWXNBLWtBN1dfTTFvU0RwdkdIcmNVenJhSGl5Q3dTVlB6Zlo3azRCU0ZEcXdMZW5XRGstcVExcGMtWV9xWi01YUVfLWtGcmZOMnIwSXhQWGhfRzBRYjFsY1hXSFR3NG52UDdEcVhvZUx0cGVGUUtMbUt1c0x3Vjd1MFZjS3hYLXNjZGFSQ0dqRU45QnhMaTVzMFJ3elhIQmt2WG53?oc=5",
-        "source": "Yahoo股市",
+        "title": "聯準會高利率、監管不確定性夾擊 主要加密貨幣市值重挫 - 財經新聞 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ0lmNkxLZm5fdC1nMzJSYnowdUpDejFMX2dfeThKNG9rdDRJUnFCSGZqNTRvSXZWWDZGV2JmemtvYWF1cjRJVWRXV1FZaF9WVVR2M2FOQUwzQ3Rlc2xldzNzbHRLZVJFbG53TVFkeWMtUnNXX19xQmU3YWRMRFA3ZEVhNTBsOFpxNGZCOA?oc=5",
+        "source": "PChome Online 新聞",
         "published_hkt": "08/17 06:54",
         "related": []
       },
       {
         "title": "比特幣巨鯨看漲現貨卻冷 稀缺性下散戶面臨持有挑戰",
-        "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQUllweFRvaVlQNFRzRlNlMUlfZWhOeUd3LUNiejdERlR0QklOUk9TX1pzTnZmUUg3dWplLS0tOU12UkZlOWdHMGw3SzhiZ3hPYmJnOE9YbF9uX3N3cm41ckhxaTkzclJkNWQ2VXlJb2E4c21FX1NoOFVBekFTRTYwRnFjOXU4aG5teVlVbWRDbmhCaUFtM1BObW8wMExQVFpFS0IwNXBBbWNMU1laMUxHcTk0N1ZianZPWnVZMXNhWDVadDJib1ZDdW5VV1lpQm81djZBQ2xiS3BRZE1tamF0MXAzWUtkZm94UV9BZ1ZSZk9sdjQ1SkFvWmtDQkwwN2NNbFMwZnZMcWNoVEZ1LVl0RUtoR2kyb1BGeWJGRTM1ZFN4ejhEWWhqT0YtZVZXdGhobU80empoMU5HWFdselBVdHBhNy0wZkpua1AwdjZOTVRZMGFnSE5nOTBmM1B2dnV1aHkxVWgxS21HUGVONlh5eQ?oc=5",
-        "source": "Yahoo股市",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2amFhbXJ4Y1BWYW4wZE1tNjJ6SUJfXzIwZXl6MklJeFZxNFI0cE95bVJYSDJicWxCaHNSNThxZUpXOFVyM0NvaS1OUW5pZFFiaGc?oc=5",
+        "source": "蕃新聞",
         "published_hkt": "08/17 06:54",
         "related": [
           "BTC"

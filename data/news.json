@@ -87,31 +87,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-17 17:06 HKT",
+      "updated_at": "2026-08-17 21:41 HKT",
       "news": [
         {
-          "title": "恒指走勢丨埋單升336點重越100天線 吉利績後彈高半成",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GTVU3T0h6R2pHcHhFbjZubjhwWWpCODFIOHVHeXRKbGNsekhNZDRuMlZwNFAyc1ZWTjdoY0s3X0M1eFgzQmFjbWR2WWc4M3YzaEY2YXdhQWhKbExPdy0wak5yVTFLSE5NN2lQd3gwRQ?oc=5",
-          "source": "信報網站",
-          "published_hkt": "08/17 16:45",
+          "title": "港股午評|恒生指數早盤漲1.61% 存儲概念走高",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44MjczT0ZLTVNObzVYeUUtZGNvOWZCMWZIQWx1TXVSLTVEQjhuZEdxMlQxOHdXY2lDWm1KQ29OSVJVdG9UWko5NlZOMjV5Q195T2RCb2l1dEdUdw?oc=5",
+          "source": "Moomoo",
+          "published_hkt": "08/17 19:20",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "〈港股盤後〉晶片與光通信板塊強勢領漲 恒指漲1.34% 突破2.5萬關卡",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuT0N0UmRKd2R4ZEVDdnd5WkRkbFNKU0R1eFI5Y0ZzSzJtQ0ZFZXdKaGRSYUhmZ3BIQ0gzNzJramdrd2RXRzJGZFBsTmlQYVE?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "08/17 16:39",
+          "title": "恒指重上100天線高收336點終止四連跌- 有線寬頻i-CABLE",
+          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOVG1OVERTcXJ0bmREVGRTS0RCMVdHeWdSZEhBeTNQak96VXA1RlRWX01aWHZnUHZlRjE0VUk3U3M0UFJWSDQ0SGprWnViOVpvVllxbFdCSGFPQ2Y5bEZTNGJFMTlubDNxd1dBUDNQMlFLVER2WS1vWF9OaEVCMDFqSGlkYk83QjdhX19DWXppeVJLeFR0ekhQWTZIbDBhUm4tZzU3YnZINDFfTzBlWl9QOUw2UEhGWnU1by1xUExVS3pWcTNoMVVHTmFlVHpqdHVFRjFRYlpNTnhaTmZqM1pNRm1pYnJrRkZDWXRkR2V6X0hBNnoyMlFKMWM2Z1pKR0VlZEQtaFk4RUZHQ1B6cGVJLWR4OS1iVG9rajFDcnlfR0Q2a1hKS05J?oc=5",
+          "source": "i-cable.com",
+          "published_hkt": "08/17 18:07",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "恒指收市升336點 恒指國指創近一周高 北水流入31億 (16:21) - 20260817 - 即時財經新聞",
-          "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQaExoSVZPMXl1M3B1VnZJRkJTSE9SNVR3M29hM0UwYzhtdmMwMlZDMDBCUmd0S01ub3dERDdmLXNEbXBMVTUyS3ZTRjJQRk9uaERheVJwLXJKcEgwUTlQVm03ZDVtWmVKZlFHbXloT1R0Smcwd0gwTUVISEt5TXdtd2cxV0F0N1JHRF9yaWZmM2RiNkJoanBWMVF1M21BQ080eHhub3Nzdkt0akw1WFNwSzhsYVNtYkoxelN3dncwQ2U4UXNscWlTaThSakM4VzhlYTlvaE5hcXNJUWtBcktqZUcySkI2LTRoNTdMWi0xSGdUYnFMbl8zVjlTZ0pwRXY0S09UV0liOHVwR1hiNXY5bngtb055ZU9zM2NtYTJnYkw5Zkc5QlRaYllMUVJnamNUTzZMV1JOb3N3NWVpTzAzdDgyQW1tQTE1OHF3Sld1VHNOalA3eVNfbnNtZkdvSTdubjRTTlh0VzRKcDg?oc=5",
-          "source": "明報財經網",
-          "published_hkt": "08/17 16:23",
+          "title": "【港股收市】恒指彈336點 吉利放榜後炒高4% 小米業績前有得升",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZVWc3TV9kbWJ6T05FbldaM3UxNWhqZ1lmTUZjN0s2ZlBPUDhMLWhmTUxRUG5iVUFSaXRaX2x6anF6czlUX1hGNUVSR3BpRzFoVTRNc1pmak1ldmJOTnRBOGhONnJEcTg?oc=5",
+          "source": "Now 新聞",
+          "published_hkt": "08/17 17:39",
           "related": [
             "^HSI"
           ]
@@ -149,8 +149,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-17 17:06 HKT",
+      "updated_at": "2026-08-17 21:41 HKT",
       "news": [
+        {
+          "title": "【量大強漲股整理】自動化工業展登場下，黑馬股如何掌握?!",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tb1YzQUo2YVluTjJXODB3b1lqZjJzNzJVOUx4cjhIXy1pQlJabHAyaXk4LU5nQVhYczVBS21qRy1FdVZvOXlnVzFKMUN5cFE?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "08/17 18:10",
+          "related": []
+        },
         {
           "title": "《台股重要指標（3-2）》加權指數 9日Ｋ值為85.54，9日Ｄ值為84.76",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVUxTOHZlbWFtYjF1OTM3X2N5OG11SHlfYWljaDAtcmRiUnZGWGR1LURPaHlTSF9WZmpBUkJYX1FYMW1TM3UzOUF1OHh0RFk1S1drRU9mMEJoQ2JWZFZBdGY5U25YakhNcktVSDMzQnNQRUVQUTNkQXNJRXNTc1gyQXpMSUhHUXBW?oc=5",
@@ -165,15 +172,6 @@
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR1luWHJlcDVPYWg4eHU4dXFaUUtHeHRoMlhiZVBvdWZBMk83Y2owNWVKNVBSd3RIQndzMW1kTk1fb0pNUUFDWVVOQ2lQX2t4bVMtT1E4VHlvQ08yTS1UX0U2dWNwZ2g3c0pqSmNpb21EdTZRQlRJSW1TYjNOVWFrUzlTcFo2aEt6?oc=5",
           "source": "富聯網",
           "published_hkt": "08/17 16:48",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "加權指數失守四萬六，強勢族群能否擴散？-孔明投資長",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WV250VlAtdDZhVWp5TF96VkdhcXdYTnBkR0ZwMWE5aXRSRFNNT2lFTE9kUE44REIyeldNb1NBcW84NEd5NHZ1Wk54NGpJOHhoSVVmSWZGRmVaOXNhc0pKMGY4VEp5TmpPNEltdS1MclItYWJsNlVWRGJ0RFZBLUk?oc=5",
-          "source": "CMoney投資網誌",
-          "published_hkt": "08/17 15:39",
           "related": [
             "^TWII"
           ]
@@ -195,7 +193,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-17 17:06 HKT",
+      "updated_at": "2026-08-17 21:41 HKT",
       "news": [
         {
           "title": "宇樹科技新股現「暗盤」收購，最高報價520元每股，約為發行價3.45倍",
@@ -205,49 +203,50 @@
           "related": []
         },
         {
+          "title": "亞洲股市普遍上漲，中港科技股領漲",
+          "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOYm1xc0Z2bEpNNE9VMVpUSzRESEdiSjUzNDFCN1RtSVhmTUpuWVIzcGdpUy1lTXI2U1hEd0hibjRTek1fU3dON2hPQk9CNDJIMFM5SzRva241dXB6NjZjUGh1d3RRY3hTV0Q3NFFHSmFSTjBqX2wxZVlmV2dCb0llUVg0TTVqNV9PcC1NMXdKczBseHp1ejJBSnl6WUE4UXlRcWdDMEl0aHNLSElRbXRKekloLTVpRF9ZazhIWVV5Y0doMkppNzZQUTZPUWlVSERVa01iS19melFXUG9sbEdLRVZ2NUo0LWZRZFZPb0xNcnRReXRQLTBIV1AteXJ6OWJTTDBONUw3ek5WaTFwZFFOWkpMX1BmNUo3RldLcWF0dXZkdHJlNm9fM2lDYnA1anUzSnJZSjRSSVBLNVB1OE54U25qd0ZTck9pb1F0OU1RMFpCR0l3cWQtS2trbmIycnZFSEl2bnV4cFl2dw?oc=5",
+          "source": "Yahoo 財經",
+          "published_hkt": "08/17 16:56",
+          "related": []
+        },
+        {
           "title": "今日產經摘要：台日中港走堅 韓股休市",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GQ1d4ZjJvMWJxMEMzVVFQOF9HRkRVTTRUOWFodUdxTkM0NmtiUS03LXprV2VqRUJtdy1zRmlwUDhSVEtfMWE5VDVyQ0Q5N0QxWXc?oc=5",
           "source": "蕃新聞",
           "published_hkt": "08/17 16:48",
           "related": []
-        },
-        {
-          "title": "恒指收市升336點 恒指國指創近一周高 北水流入31億 (16:21) - 20260817 - 即時財經新聞",
-          "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQaExoSVZPMXl1M3B1VnZJRkJTSE9SNVR3M29hM0UwYzhtdmMwMlZDMDBCUmd0S01ub3dERDdmLXNEbXBMVTUyS3ZTRjJQRk9uaERheVJwLXJKcEgwUTlQVm03ZDVtWmVKZlFHbXloT1R0Smcwd0gwTUVISEt5TXdtd2cxV0F0N1JHRF9yaWZmM2RiNkJoanBWMVF1M21BQ080eHhub3Nzdkt0akw1WFNwSzhsYVNtYkoxelN3dncwQ2U4UXNscWlTaThSakM4VzhlYTlvaE5hcXNJUWtBcktqZUcySkI2LTRoNTdMWi0xSGdUYnFMbl8zVjlTZ0pwRXY0S09UV0liOHVwR1hiNXY5bngtb055ZU9zM2NtYTJnYkw5Zkc5QlRaYllMUVJnamNUTzZMV1JOb3N3NWVpTzAzdDgyQW1tQTE1OHF3Sld1VHNOalA3eVNfbnNtZkdvSTdubjRTTlh0VzRKcDg?oc=5",
-          "source": "明報財經網",
-          "published_hkt": "08/17 16:23",
-          "related": [
-            "^HSI"
-          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-08-17 17:06 HKT",
+    "updated_at": "2026-08-17 21:41 HKT",
     "news": [
       {
-        "title": "加密貨幣週報｜加密貨幣接近突破形態，人工智能股票維持市場風險偏好堅挺",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSlpFY094enJoN2tjYUdtYmVwdXZhR3I2cjQ5MkU4YzZIUms3VGlYRHJhM3JoYzlLRko4bEtMeDF6LXBqRUVQTlRLOGdSTndTcFloaW8xeklCcUxLUDNzVnlhMEZkazRiUFFoRnItV1g4ZXVJVGhUM3djVV9VRmlibjEtSnNkMlZLR3gxMkhkWjFwbVEwWUp3Y2hRV25IYjFjT0lpbWIxQ19BMTctWVJ1bjg5amkxMEU?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "08/17 15:50",
-        "related": []
-      },
-      {
-        "title": "比特幣穩守63,500美元關口；伊朗局勢與美國監管動向成焦點",
-        "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNd0hOTDQ5LXphcUVpcldFdVJvaXlHUmJSQlBwODNXZWJPM3NCZUp5ZWtTVWszOXhUdGQ4MHh5ZnVjOEdGMkdKLVBWeU1vUFVjWUpxbWFlNDhTejVwTENMRFNBbzN5SG1IQllDZjFIVFBDaTdCdHFpLUZlYnNucTBVNV9QbjZGMXRtbVRVOER0cXNudUhsb0lBOHVVT3dvcXltSFBZa1RUWjJad0ZGclhzWGtvbnJaRGpWanUtV2FPVnN2VEpmMHdxTTJiY2VnT2E1eVMyZW04TG5tQlYyOU5OeVpSMERFR29iQnlTeU5zcmRrZlc0VGgzRUNrQktwdWF3OVhOXzhRRWRGTUVtM2tJamRaS0VYdWVkSzdxby1ZRnI3RmFvb0tQR1JZQ050R0h0eWxTT05rRVhnOW80RmVpa2pOZThkZ19KQ1BWc0F2SVBJY0thVmVQOGUzcHhNSlByT0s4ZWVwY3I5MlpLVlQzVHBqbTg2OFFJbkRR?oc=5",
-        "source": "Yahoo 財經",
-        "published_hkt": "08/17 15:47",
+        "title": "Bitfinex：比特幣浮現「晚期熊市」訊號！美股創高為何帶不動幣圈？",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZHAwQ2lWSl9INTJobXA3eGNYSW9CbzZxOG9mYTZFT3lPcE5Oc1hxR0UwTGQ5QURVRUduRWpqMHYxbkdlbE1ZXzFNOV9CWHZkRU9hQmJ6bjJLZlJCZmtwQXNIQlBQbnFJRmhxOEpVSGFHNHVMRE1NSWJHdHVNWkhuV0NneTV1XzBqaHVWVmVJcUVXaGJC?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "08/17 20:38",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "主要加密貨幣行情，比特幣升0.97% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzJjSnE2UEU2LXU3RVlVZ1lfLTRfV214SF94SGlYTVJpeTNhVjA2aUFFNEljUUdyZkVvSlNEaGJYSEJpMnNhajA4al9peWN5NDdjVWlCbjRXMFZfQVZpd0dTR2R1eVpYYlFoRlhjQWswMWswemlQWU5JMTFrSTVxZ1ByN3ZCaGgxSDVsZGZPVU41UHVWYmpoRlpfYXVaQjZU?oc=5",
+        "title": "主要加密貨幣行情，比特幣升1.17% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM2NaZjFya3pYYk9GQ1FSRUNfdEJzb1dwRFVQaFhlYUMtdlU4Z0ZleW5DMVJnTXhnSVU2RmRhSi0tSkpiQU1OdXRsZ1BHdGFiajZIOTB3RFlSZFZNX05GRnlKZmg1enRHb2tkM1Bhb3cyN1VvazNuUGl5WkpWUFRKZzZ3YUVDV2NIbzdFVjBTM1ozWkxaVzFFZkkxS3p3bXFN?oc=5",
         "source": "etnet 經濟通",
-        "published_hkt": "08/17 14:04",
+        "published_hkt": "08/17 20:36",
         "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "比特幣的最大持有者Strategy和Metaplanet押注的是數學，而非價格：《加密日報》",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb0prTGV3czZnaGhxT09IOHdtR1g3X19UdThpcFF5YmlKZDdZMjY5WmpzSEliNTJlNW05SEdwaE84MDZrcEZyNjVkN2RJVUV5blJnbGR1bXpBQTF0RVpqTDF1YmloOEpVWnlreWljUVVmZ2VhUEFDVFV4S25ORDFzSG4wUldWZFA5clNWT0hUbDkzSUUxSmJfVDhVa2MzU01nY3hqc1NEbWo?oc=5",
+        "source": "富途牛牛",
+        "published_hkt": "08/17 19:39",
+        "related": [
+          "META",
           "BTC"
         ]
       }

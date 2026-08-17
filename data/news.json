@@ -27,28 +27,30 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-17 07:39 HKT",
+      "updated_at": "2026-08-17 10:04 HKT",
       "news": [
         {
-          "title": "Yalla Q2財報即將揭曉，市場期待再創佳績！",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZzN0dTJYVnRnN2x3Nk5LNGxZRFlCWnhoTVFYTEdfVUJpVDVEbTFNOUlUamlpcS1UclhYX25VSDJjVUN1UmVLRVFIYmZyc0JXWjFwMkMySnZ4cGZIOHFhSXpLdGFHQ2R4VjJmSThzOXIzQUNsVjFtaVh2RENGNVppNGN6aVJHdVk0SGVUa2lrVmNGZ0ho?oc=5",
-          "source": "forecastock.tw",
-          "published_hkt": "08/17 07:02",
+          "title": "美股期貨平穩，加息憂慮緩解，企業財報提振市場 作者 Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fM2tTUklSVEVOWGlTOXdRT2x1NmZUVy1TY1ZZMTAzRDhoaVJLVmdVV2JGTnN3Tm44ZHl1cnd5Y2o4UUY3RUxkWkV0aE9iUS0yTGVxZ0FwWHpDd0ZOb2poVllyakNNZzNwYk9jZWpyZkU?oc=5",
+          "source": "Investing.com 香港 - 股市報價& 財經新聞",
+          "published_hkt": "08/17 09:16",
           "related": []
         },
         {
-          "title": "零售財報與美聯儲紀要登場 本周美股迎雙重考驗",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yalczUDdSUGVWRFItS1B4eGI1Z2dOc0o0TmhHSk92VER2U250X2tOaFlHbG5Yc1gxam9RTFdLeXhsRUdDVjUyX3dCTURiSGlDSkpR?oc=5",
-          "source": "exmoo.com",
-          "published_hkt": "08/17 07:00",
+          "title": "美股4大指數全跌 台股上漲逾300點 - 財經新聞 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWXhQVGFHdHpKa2lKcnZNMkI2S3VZNUFYMElXU2tmSU82eGYxVC01aGVDcUIxT2lQZmljM2pjRGJ6RzIyU29GT3pEN053YVpNNldNYkJtWUQyQnIxSk9CanQyR2YzZXlWU2VfUW1td2lYeUZHbXl6VTNyd21KTjhydHlwZUFKQnEtd3Y4?oc=5",
+          "source": "PChome Online 新聞",
+          "published_hkt": "08/17 09:11",
           "related": []
         },
         {
-          "title": "《美股》應材、博通拖累費半 Sandisk、無人機嗨-新聞內容-基金",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLU5HTUFsb2oySVpSck1uSmdlNlpTUDFjZVo3VGYyTFltT1RyY25YOGhEdGpWNFl3M2xVZVBMenMxNktnMTVvWEU2ZXNUUVRWdzIxSEdGZlNKVWp2TnVYNzFSV2k4aEYyYnBiam0zaHhQYzJZQVRUdXB0dndwRDhHcnRRblJrWUJBSUJBMEtUYkM?oc=5",
-          "source": "MoneyDJ理財網",
-          "published_hkt": "08/17 06:59",
-          "related": []
+          "title": "零售銷售意外下滑，美股上週五小黑，標普、那指週線連三紅",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhNUhvSlhRMW1LTmgtMkkwQ29nSE9aYzF1VS0wYnlMbldCUjY4Y2l0NU41aWwzcUdoMEM5ZDZoSjFuV05KSm5Pa1pNREFaTXRjUmxDaG1FSWVva1hGUVhoU1pmZ0hYS3c5U1dnWnJSMmt1YU5Fa1h6OXFrVXRaSlk?oc=5",
+          "source": "investor.com.tw",
+          "published_hkt": "08/17 08:45",
+          "related": [
+            "SPY"
+          ]
         }
       ]
     }
@@ -222,15 +224,8 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-17 07:39 HKT",
+    "updated_at": "2026-08-17 10:04 HKT",
     "news": [
-      {
-        "title": "Baniyas vs Dubai United",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UME4tMWw1UDFPSkNLLW1ZTUlFd1FmNUVuVHhHTnp1RU5MTG45eFJyQktBeXAxYkdtSWR1dDRndDd4aVN0cG01cUhjdjdWdkZsalNPcWtuYm5GNTNZQ2hnNlZNR18tTUMxLXRxS3JNT0NGLUJVUjBJNVdzN2x6UTA?oc=5",
-        "source": "Coinbase",
-        "published_hkt": "08/17 07:16",
-        "related": []
-      },
       {
         "title": "Lowest temperature in San Francisco on Aug 16, 2026?",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xclZKZTJmZ0VRRy1PM0dyTDlTcEhMLWtsbFlCYXhCNm9raTc5RlV0OGJ2TUhlekVRV3NZRlQ1cHhULUxMQzV2SThFMVpESTNZVFZ4aWRpaWpwV2VycERmOTAxNVEzSEI1V3BXekdtaFl6T2gw?oc=5",
@@ -244,6 +239,15 @@
         "source": "Yahoo股市",
         "published_hkt": "08/17 06:54",
         "related": []
+      },
+      {
+        "title": "比特幣巨鯨看漲現貨卻冷 稀缺性下散戶面臨持有挑戰",
+        "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQUllweFRvaVlQNFRzRlNlMUlfZWhOeUd3LUNiejdERlR0QklOUk9TX1pzTnZmUUg3dWplLS0tOU12UkZlOWdHMGw3SzhiZ3hPYmJnOE9YbF9uX3N3cm41ckhxaTkzclJkNWQ2VXlJb2E4c21FX1NoOFVBekFTRTYwRnFjOXU4aG5teVlVbWRDbmhCaUFtM1BObW8wMExQVFpFS0IwNXBBbWNMU1laMUxHcTk0N1ZianZPWnVZMXNhWDVadDJib1ZDdW5VV1lpQm81djZBQ2xiS3BRZE1tamF0MXAzWUtkZm94UV9BZ1ZSZk9sdjQ1SkFvWmtDQkwwN2NNbFMwZnZMcWNoVEZ1LVl0RUtoR2kyb1BGeWJGRTM1ZFN4ejhEWWhqT0YtZVZXdGhobU80empoMU5HWFdselBVdHBhNy0wZkpua1AwdjZOTVRZMGFnSE5nOTBmM1B2dnV1aHkxVWgxS21HUGVONlh5eQ?oc=5",
+        "source": "Yahoo股市",
+        "published_hkt": "08/17 06:54",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

@@ -149,13 +149,13 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-17 15:05 HKT",
+      "updated_at": "2026-08-17 15:41 HKT",
       "news": [
         {
-          "title": "台股收市靠穩",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSnNhQ1Q4Q1Y5Mzg5QWVrWmF6Z3Nva3M2WEs1UXdUM2lBNHFEOENoRDl0R0ZLTC1UeHN5UjQ0MGZ0bmtkRkxSVGFZckNZN1NsanQxM0M1TFprbXJjTklGWVd6VTB0M0VZQzlsdVlRcmNld2tsZU02d093ekhKZXBCVG1hcUlSZEE?oc=5",
-          "source": "香港電台新聞網",
-          "published_hkt": "08/17 13:47",
+          "title": "【台股115/8/18(二)盤前分析】",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQN0pBcWxkZVMxUUhvM1pvbzA4RjFpVkowc3l2SUJ6dzJCWk5IZl9nSTVBem5kaU1HbUIwNkNMRXc4dVZXVmFwU0IwMmZ1WjEyR2ZIa0VTSUc3MVpVTk42SHRrbzdFejduUFhWVHpJUU5hU1FRYmZUdF9pTEZaNG9DVWUtel9tQktmQ2s0RzhtTFZFSXg0VUktRUphRGNvRzNlUUR6OUZ1LW9ibEQ5Z1VmNnBJM0RqZTA4TUw1c0FWSVBEVlhVYUVEVjIyN2FLeFhLWHltVzlDeFJvLUVhazZMUVNsYlBYYk5Jc1V0elkyajVGZ0FX?oc=5",
+          "source": "台灣好新聞",
+          "published_hkt": "08/17 15:31",
           "related": []
         },
         {
@@ -191,7 +191,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-17 15:05 HKT",
+      "updated_at": "2026-08-17 15:41 HKT",
       "news": [
         {
           "title": "日經225收漲0.74%，鎧俠大漲15%，韓國股市休市",
@@ -204,7 +204,7 @@
         },
         {
           "title": "日股：日經指數週一震盪收漲0.74%，GDP、資本支出雙弱，東證指數走低0.31%",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZjRUN0hSa3F1NE52c2RHZjluYlkwXzJvT0NJNnd6dzVjeU5NQjV2bGFNUm9CUTBtWGczQlhRNF9NZGN3elh4dTZmZVo2SWI4bHV2Z3l0WE0tMDUtSTBHd3pheGtwSVF4ZzZ1QU5WeDRCR2VIaDR1WVVBejI5Q0hDbVcxMlYtdE44?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVmpfM2hTVm5PNENsNThyMGZxWFJaQnpYU19pcEJvN0J1ek9reGJhRDVheG0xdUNkQVRyNUFrX0h1ajBFaVJ4ZG5yYWtDdmJuSHU0S2d6VHRPQk9JT2RCVF9hOFZnMjg5THJaLTkxakFxVlB5Q3NtRzlha2gyNml5WTJNZjczOVg5?oc=5",
           "source": "富聯網",
           "published_hkt": "08/17 14:58",
           "related": [
@@ -222,8 +222,17 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-17 15:05 HKT",
+    "updated_at": "2026-08-17 15:41 HKT",
     "news": [
+      {
+        "title": "主要加密貨幣行情，比特幣升0.97% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzJjSnE2UEU2LXU3RVlVZ1lfLTRfV214SF94SGlYTVJpeTNhVjA2aUFFNEljUUdyZkVvSlNEaGJYSEJpMnNhajA4al9peWN5NDdjVWlCbjRXMFZfQVZpd0dTR2R1eVpYYlFoRlhjQWswMWswemlQWU5JMTFrSTVxZ1ByN3ZCaGgxSDVsZGZPVU41UHVWYmpoRlpfYXVaQjZU?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "08/17 14:04",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "傳統金融巨頭加速擁抱數字資產！比特幣與銀行對立時代宣告結束",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45Y1E2Nng3WVNXN3hHQ0VCbUctblNhUVRNdFI4SUJaOG1FM0JFUS1uenRBMTlfZ0ZJWHNCUWVFdDFwb2VCWEJvUmFkODRldlpBWEluNGFzTi1ycjVNMThla1NLcEs?oc=5",
@@ -242,13 +251,6 @@
           "BTC",
           "ETH"
         ]
-      },
-      {
-        "title": "BRNX股票價格,趨勢圖,資訊,股價分析預測",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HcHY5TEZmdEtQdmt3ZV9nMVQxRUlELW90VENqZ1lLZFRUS0luSTR3bW9QOElBRnBNWll4eVpCREJjeGZnRndnS3prMjBjZHpYeER6NTNB?oc=5",
-        "source": "Markets.com",
-        "published_hkt": "08/17 10:00",
-        "related": []
       }
     ]
   }

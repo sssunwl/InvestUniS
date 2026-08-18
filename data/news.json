@@ -27,29 +27,27 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-18 10:12 HKT",
+      "updated_at": "2026-08-19 07:41 HKT",
       "news": [
         {
-          "title": "南韓散戶轉戰美股爆買45億美元 專家：並未放棄AI題材",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxLWNLazdyQ1FmREJsZUVhMkpfWi1JTTdFWkxyYmlPd3l3WUtZYXExZHoySTFLUkdoNE9KUFdpbEcwbmJUVi03QlROLWVBZGc?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "08/18 09:45",
+          "title": "《美股》全球殖利率跳高 記憶體/光通訊/費半摔-新聞內容-基金",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR2RtdVJXaXZteExKUGV6bVZMN3RwMGpVREd6NUM3bTYxTkt3a1duY2VqUENGZmhZdk5FZkc2czIwRmlRTWcxbm9pcHhORzZsTkJ1LXdHOGV2OFhOQUlZaXJSN2lCUUhjUnJLU0szYW5RenBUdHQ5SEVLUnRJM0FHWW9NSkJuZlFNY1U4dXc2SFE?oc=5",
+          "source": "MoneyDJ",
+          "published_hkt": "08/19 07:17",
           "related": []
         },
         {
-          "title": "大摩評輝達下周財報：可能又是「超預期」但市場未必滿意",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pa2lWNTVPRlVDTThWcDBHYThOaUVKLU1xR1NHTWRiemFmS1FtNjN0clJGSkExRVV1LVh2bDMza2lBV2MwdXhfSTd4WXIya1U?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "08/18 09:10",
-          "related": [
-            "NVDA"
-          ]
+          "title": "【美股盤勢】費半暴跌5%，AI股全面潰退（2026.08.19）",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORWJYQVZOR2tteGJnd0hBczBTdERNN3pEU1dQOUZkVnQ5TTIwZUdBOGZSbFdlUE1ic0M0QVVjVWZPQ3hXYkZOM1BVM01WRHhPU2FoS3VkT3BQU2hCdUlFLUFtT3RsZEI1dV9FSi13WlVObS1YdjNtRG14T3NTdkpDZ2txa3lpSkM5a0NkcWZwLXFObkY4cWR5a1RIQTZXREJaZVQ4NG1YZFRXdS00R1QwMWFmRTJEODZQZzY5YUN5aVZJY3FsRGJ5TG1kNXRfTFE?oc=5",
+          "source": "CMoney投資網誌",
+          "published_hkt": "08/19 07:02",
+          "related": []
         },
         {
-          "title": "AI熱潮退燒警報響起！華爾街大空頭：美國明年恐陷衰退、美股恐迎震盪",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLOXV3WWZrSHdPRi1MYWgtOHRfdWNhZGhuckFvcG1Ob05TSjh1X2t4UGF3cHI0VDd1cUxpdEhHQVdlLTNSUks2S3hwTDk1S1E?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "08/18 08:50",
+          "title": "今年來已飆3成！海外能源ETF大啖接電紅利 美中AI競賽升級「電力成主戰場」",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Wekt5S05xRmVDR1dNSE9tdlRwZ2g0a3BoWVF6bDl1cVllQlprRjA4NklwQnJMNzJmRUdqTThpRGhkWG1xMzVjSDNLRQ?oc=5",
+          "source": "FTNN 新聞網",
+          "published_hkt": "08/19 06:45",
           "related": []
         }
       ]
@@ -183,27 +181,31 @@
   },
   "jp": {
     "pre_market": {
-      "updated_at": "2026-08-18 07:42 HKT",
+      "updated_at": "2026-08-19 07:41 HKT",
       "news": [
         {
-          "title": "早安！今日產經早報",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fX09ORXZaNDVtZmJmcmRiSXRDNVlvclgzOVpMeG1ZYzJ4RlpSNEJGMFhEQlJDaktBREU3dDBGLXh2YkRha3pOVGtUTzlWYURyVGc?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "08/18 07:02",
-          "related": []
+          "title": "國泰日經225(00657)-同學風向與貼文摘要 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11dk9PNm1lb2w4TU9VTS1uVkZFY2dxWTRiMVZTWmhaemR3MjRXRHYtXzhnZE40YU1JVERhb1VWZmNyQWppZWpNWWZtUkJWaEZuWTFtVEVrSzEzYTVHV2ZBYS1TOA?oc=5",
+          "source": "CMoney",
+          "published_hkt": "08/18 18:45",
+          "related": [
+            "^N225"
+          ]
         },
         {
-          "title": "亞洲股市普遍上漲，中港科技股領漲 作者 Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FcThscU9Bay1sMTlRV2Z5dnZLbzBOS2lKT3JkSUhyM0xCWUNCekk1NjJoUjNLZ3NYUno0N3lCMW5Kdk0wcW55MXloTHlqcWk1OWNqOFU4UFNWMFJaVGxLYjRpX0tRQ1dpU1pSQUFHd3I?oc=5",
-          "source": "Investing.com 香港 - 股市報價& 財經新聞",
-          "published_hkt": "08/17 23:19",
-          "related": []
+          "title": "恒指收市升17點北水流入140億創一個月最多科指逆跌見三周低(16:21) - 20260818 - 即時財經新聞",
+          "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxORVhCSmNEN2pWZEsxdUNQUk1ucWZ1Tng3U1hWeWlGM1M5WlV1Qlc1ME5DamlyaW9kZ0VVbHBzVHFDN3FrNmQ2cUVqM0gwTjhqcGMtWE1LRFY2LU4xM3ZDdDhBbzNJaGZkR3FPeldYcWp0YnpnWW5taFV1Nzk0aXJOei16ZjVHZzlqem02bW1VdFJzZE81bm9aX0dfZWJxQ25WOEE1UEhHbENDZ1ViU29KTlc4RlJYVWU4ZUMwOVk1NWhtcHJlc2pISW5OdDhjQTBWUjQzSGp6TzExakRvZVNVWTBHNGVOcmJHd2dBWWR1MG5Bc2VJWk1vZkpYUk84YnVnVlVjQ19MRkNmNnBoWVhRQ1JpTTB5R3BPMTkwSE90SGVUY2VlaWJQbVJEcFZJbUFPTVhLejk5TGlBdU9sdUlvdzNfZ2tPMzYzWXd6VFZKU2hreHhmWjRGM0w2VTl2M2Rhckx2MThoaV9DczFRdlk3bkdLR1V3Z3hUekpDUnozVHVDSnJuX3NRRWNkR1BleWZ6RjR4ZEtad2ZtaG9qRU4ycGJrTXE2NkE?oc=5",
+          "source": "明報財經網",
+          "published_hkt": "08/18 16:28",
+          "related": [
+            "^HSI"
+          ]
         },
         {
-          "title": "日本Q2經濟成長放緩 東證指數收跌終結8連漲",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Yb05oZzJSOEMtMTRUWjBIU1czc1NTNDFteDhsZi1sNUJzeXFIeGEteHJ4WXJnSHlKNlpUR1pCU1BCNVFkbm00eg?oc=5",
-          "source": "news.houseprice.tw",
-          "published_hkt": "08/17 17:10",
+          "title": "【日圓定存】日圓定存息最高5厘 花旗料圓滙短綫或在161有支持",
+          "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQUFQ1SVBYNXZkSUpBWXlNNUlLTGw5U2pyMUo3VFVKOGJNSXFOcXBYNGNlUDFweW5DOEluN0h0dzFOamR4dW9idldkRG9XZkVQbmUtamdraFVLZDBndjUwQ0dKNWZxSWg5WHd3bG9Ib0VYME1RTzNISkIxcGJNX3FZazl4ZGJNMzNVZnp6SDF2SEttMWowbzZiTWlCRVJUN19LZHF2VnE5NjU2UHhOVnNjM1dPMTZfNW5ud2VOUHRtcmswR0pUODF5ZjZJMjc5UU1XcnhWQS1odml1bW9lbGxwQ2tBZzNwTmIyTVltVlRQaDNyLWctS2pSNVcwaDJmZmpDSWk3S1p1MzE1OEw5NWVLMGlua2pVeTF2azRXSWFFN2dlUUV3TVhObW4wRWtiRUh0MF9YSThBeEg4dEZPR1VoclNKdGdka011eVpCSE1Ea29xVE1USzI4WlZIS0lvMGxpSTI0TFhIRGttNlpIMmtZNkRrcnNJSmQ3SUpHT2ZMajdleHVBWFVSRXRQdTNPM3R4Q05BS05PZnNxV2JYaklz?oc=5",
+          "source": "inews.hket.com",
+          "published_hkt": "08/18 16:25",
           "related": []
         }
       ]
@@ -240,34 +242,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-18 21:45 HKT",
+    "updated_at": "2026-08-19 07:41 HKT",
     "news": [
       {
-        "title": "比特幣在$64,000處暫停，因收益率上升和油價拖累股市走低",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZFd3NWl4aEVtdC1oMTQzX0pjZTltVy1wSF9kbDhzZGxEOHZVTmlXMzJvaks3YkRxVWk5aXJxb2RNRTJXZHhEQ0NtN0pnb0JQR2hBSjJzeDgxb3BLRkYzUmhPRVliYWFpY1dxU1FtWE4weVpqMF81bXdDYnRkOFAweXJYc045a2xIZjNZaWJlWENCRG16YUVpT3loRjhZYnIyOExxOVJfY1I?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "08/18 19:10",
+        "title": "加密槓桿回落至 2020 水平 市場解除負債未再重演 2022 式信貸危機",
+        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQdjNISTRueTBmc3ZuNWxyMVBpZjhoUUlCcmdoTzYyYjZGMUNvdEw0TE1zV3M1aWlXcWtRWlpYRXplRS1kREU4ZF8zZzZDRi1DOGJxOWZib3IzdkVlVFpPZENKV0Nwek54UmtjNkdsQV9HRkx0LUhmbUxPa0psSHhhVHR6LVNxZDVkUk8zQnBENUY2blprajlSSlRrdnZabEM0U3NXaG5sb0hYbkp5Y0l4OV9nMThTUGFtLVBFMlZDdzRWc25qMzZWTVhOak5QTnB3UWhHc3h5clRlSW1GQTJSbE8zTWx3N1BjaUMxNWFodmZWbUczRGJCX3VpZ3F2RjJvNmtIdFhUR3g5bnBVVVJ1Y0N6TkNmN0RtaC0xbFZja0RlNFVEeVA1N05XenhWZXJiUzl3bjM2ckx6RVRtLWdJTkZwa2wxWFpaN2FGSEhnYkt5U0pjNm1EZzZGenhZcnJTWlpxWndLbTNCbjZLbVV1MEdpcWhmQQ?oc=5",
+        "source": "Yellow.com",
+        "published_hkt": "08/19 05:27",
+        "related": []
+      },
+      {
+        "title": "主要加密貨幣行情，比特幣升0.08% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUmJTTVd3clNIdVNickpUbHV6eUZ4QW1tSXU4OHBfR1VkUGVPcXl4YUtZeHhMbEp4dUdWc2RaLTNFQ2d3Umk4UXV5bHd3bmlHcGJ1djNFRnpXc2hoRU1iODJoelhMSXZPUkYzSGw5b2dYQ3VrVzBLdFZDRXdwOTc0M1I3dmxIVjVJaHB1b25UNHpPblllTGdpVG5hamx0aGRM?oc=5",
+        "source": "etnet.com.hk",
+        "published_hkt": "08/19 05:02",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "加密貨幣價格預測：比特幣、PI和Chainlink——歐洲收盤綜述 8月18日",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV1Q1bEZQQTlDOHUxY1JPeDVOelQ5VExfSi1tWUM3Uk1BZE9rOVJRaTZCczNWYVZ0MGlBYVp6RFp2dDkza1hMVDRMRUNidFFSM1R3akVDcjhoRkZhSTI0dW81Qjc1clc3MnU3YlNvTDdfbG5kdy1NRHk0eFgtYlBiZmFBZmdESHBkd3hpRlpNRm5XakdKai02VUVXRmV3YWVuOVA2TC0yYl94WUdLZ19WR2tJeG9HQzl4VnJIR1N0OVM1QTJCeG1xR053UDRpOEtWbE96QldBRHM5VDg3cXRCVjJKTdIB4wFBVV95cUxQV1Q1bEZQQTlDOHUxY1JPeDVOelQ5VExfSi1tWUM3Uk1BZE9rOVJRaTZCczNWYVZ0MGlBYVp6RFp2dDkza1hMVDRMRUNidFFSM1R3akVDcjhoRkZhSTI0dW81Qjc1clc3MnU3YlNvTDdfbG5kdy1NRHk0eFgtYlBiZmFBZmdESHBkd3hpRlpNRm5XakdKai02VUVXRmV3YWVuOVA2TC0yYl94WUdLZ19WR2tJeG9HQzl4VnJIR1N0OVM1QTJCeG1xR053UDRpOEtWbE96QldBRHM5VDg3cXRCVjJKTQ?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "08/18 19:08",
+        "title": "Intesa Sanpaolo砸9.66億美元押注SpaceX 比特幣ETF持股大砍94%",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQ1VRWUExeGgtVFN0a0FZVFdiaG4wQnJlOWdTR3FRVDNxWWtZeFVOZ2VBLWlYMExPWURKOXpFME5ZdGp4MUN5MXl6VTdvWjdocFVIM2Q2Q3JINHcwZ0dyZ1FERldVd3FGV3dZd05zTkpzaTJqR284WTZ0V0Rfa2dQYmJFYUdzRElPaV9Cd0JfUHZEd29UTkQ0QVZvTWRrOHFfLVBXejJkZ2lEeTdVQkhWY1JfcXVWMm1MV09McUgySWdYYmtoX0pYbkpmMU0wZk9VeWZRZXpRUlhTNDhVcnhrOS00X0RiTmoyYW5IX2lBRURnUlprblIzV1FwWkRxZFlGUUlQWHlXc0Q?oc=5",
+        "source": "Yellow.com",
+        "published_hkt": "08/19 02:22",
         "related": [
           "BTC"
-        ]
-      },
-      {
-        "title": "在中東緊張局勢升級之際評估比特幣、以太坊和XRP前景",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMU44NThtSjZFcy1tSlpTUGc3MXpLQkxpa29vUG1Jak9iQWZodWdMak50RUdPaUk4aTM0T1ZQdjNOMWN3OU05cWQ2X0ZPUE9sMGRVcktWYjU1NFhVTWFaTnNaQXR6aHNpeHoyMU9vT0JNVzhsWUlTVlJubkZpYngyQ2VJT09OVVhxVTYtU3Y4MXIzSlY5R19PTzBvS2RhbTN0X0VXMF9JYnJLU1lHa2kweEtPWEJ0d1RvRWstZnUwdnd0VTBsTUpjVWNtZEptZkhvMmVrOXNjcVgxNVRZRGdJUnpBQXFQVGNWZlFUdWlFeHnSAfABQVVfeXFMTzFOODU4bUo2RXMtbUpaU1BnNzF6S0JMaWtvb1BtSWpPYkFmaHVnTGpOdEVHT2lJOGkzNE9WUHYzTjFjdzlNOXFkNl9GT1BPbDBkVXJLVmI1NTRYVU1hWk5zWkF0emhzaXh6MjFPb09CTVc4bFlJU1ZSbm5GaWJ4MkNlSU9PTlVYcVU2LVN2ODFyM0pWOUdfT08wb0tkYW0zdF9FVzBfSWJyS1NZR2tpMHhLT1hCdHdUb0VrLWZ1MHZ3dFUwbE1KY1VjbWRKbWZIbzJlazlzY3FYMTVUWURnSVJ6QUFxUFRjVmZRVHVpRXh5?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "08/18 19:02",
-        "related": [
-          "BTC",
-          "ETH"
         ]
       }
     ]

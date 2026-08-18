@@ -151,13 +151,13 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-18 14:52 HKT",
+      "updated_at": "2026-08-18 15:27 HKT",
       "news": [
         {
-          "title": "台積電最後一單4015張跌20元收2380　台股跌548點46K得而復失",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yTlM4V2wyNWhwSW5mN3RDNWRfSElWbjViVWVUYmpHWXZUMVBQdS1vSGtRRVZ5NWpXU1JzX29aRm5kbkVFV1JvMjFFa0oxbExyLXfSAVBBVV95cUxQRG9BSURYUWVfaEtKY3FaM1RQb3djblUwOXJGRm0tcG4weElGNUZ5RmNIWXB5UEZEb3J1WUllM2ktQkhkclJKV25NblB4SDdTLQ?oc=5",
-          "source": "ETtoday財經雲",
-          "published_hkt": "08/18 13:35",
+          "title": "台股收盤／翻黑跌逾500點 台積電尾盤遭狙擊4015張、跌20元",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpQklJa1FCdVAzczJGME9wZEo3cHo4dGdTTU5kVVhfemRqcmJpSHdvZF8zdXNEb1g5bXl4aVBwaUlDNDdOUVFhblgwOHIzcVU?oc=5",
+          "source": "TVBS新聞網",
+          "published_hkt": "08/18 13:42",
           "related": [
             "TSM"
           ]
@@ -209,34 +209,36 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-17 21:41 HKT",
+      "updated_at": "2026-08-18 15:27 HKT",
       "news": [
         {
-          "title": "宇樹科技新股現「暗盤」收購，最高報價520元每股，約為發行價3.45倍",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xSlBYU042WGlUMTNDWUJSenJ4dDNDTVRUZ0MyWEtlaWhuOW1FSU9VbWJGcTJiZHB4S1JxbjBHYWVUajF3YWRIUTBXRQ?oc=5",
-          "source": "鉅亨網",
-          "published_hkt": "08/17 17:00",
+          "title": "中東終戰前景黯淡　日經指數收挫逾2%",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSGlRTHBiME05cE53OGE3bVF5UzZtYUg0dFpjTWlzdFdTbXBWLVRzYkhCSGZxSUtwR1JwbWQyUHl3bUs3VUpuaEg3OGp2TmtoVmVmYy1FWFpZN0llYmNqUFE2WnkzV3ZCRUNqSHRILVBqYW5saUtHV241OHVCYUJCWtIBX0FVX3lxTE9HcGtRcG9JQlU0ZklOT2RQdi0xell5SERIQzRiSVlmNG0tX2pkOTBONDVFaGktS0tRZ2NKRVI5Q1kzVk4wbWdYclZzYzkxNk1abDRRdTh4WlZxanlXQ3dB?oc=5",
+          "source": "經濟日報",
+          "published_hkt": "08/18 15:21",
+          "related": [
+            "^N225"
+          ]
+        },
+        {
+          "title": "美伊停火失效！美債殖利率創20年新高 亞股重挫油價續漲",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oYTdJRXR2TmYwV05BX2ktYm5WMlRWOVN1YTZ0VkxQMHZZdW5iOG5LajF4NUx2SXNBRm1CX25xY2hYTVdVT0ktcWpNTTVCS2ZtaU1YN3J4N0l1WXVWSzVzcExGd0hHdw?oc=5",
+          "source": "民視財經網",
+          "published_hkt": "08/18 15:16",
           "related": []
         },
         {
-          "title": "亞洲股市普遍上漲，中港科技股領漲",
-          "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOYm1xc0Z2bEpNNE9VMVpUSzRESEdiSjUzNDFCN1RtSVhmTUpuWVIzcGdpUy1lTXI2U1hEd0hibjRTek1fU3dON2hPQk9CNDJIMFM5SzRva241dXB6NjZjUGh1d3RRY3hTV0Q3NFFHSmFSTjBqX2wxZVlmV2dCb0llUVg0TTVqNV9PcC1NMXdKczBseHp1ejJBSnl6WUE4UXlRcWdDMEl0aHNLSElRbXRKekloLTVpRF9ZazhIWVV5Y0doMkppNzZQUTZPUWlVSERVa01iS19melFXUG9sbEdLRVZ2NUo0LWZRZFZPb0xNcnRReXRQLTBIV1AteXJ6OWJTTDBONUw3ek5WaTFwZFFOWkpMX1BmNUo3RldLcWF0dXZkdHJlNm9fM2lDYnA1anUzSnJZSjRSSVBLNVB1OE54U25qd0ZTck9pb1F0OU1RMFpCR0l3cWQtS2trbmIycnZFSEl2bnV4cFl2dw?oc=5",
-          "source": "Yahoo 財經",
-          "published_hkt": "08/17 16:56",
-          "related": []
-        },
-        {
-          "title": "今日產經摘要：台日中港走堅 韓股休市",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GQ1d4ZjJvMWJxMEMzVVFQOF9HRkRVTTRUOWFodUdxTkM0NmtiUS03LXprV2VqRUJtdy1zRmlwUDhSVEtfMWE5VDVyQ0Q5N0QxWXc?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "08/17 16:48",
+          "title": "《台股盤後》電子股熄火 指數翻黑收跌548點-新聞內容-基金",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ3UxQzNlejlPekZpOGtteGhMSlJUUXo5N2FGX1UwVHNBdFF2SzVTQmhMOG03d3NIVG1YdjdPM0V4dy1zaC1zR21mWmtoWEFtUVdpWklCNkNVRVpQb0x1bVVZWG02NUpSR3FTWEUzMlpkMmFwRUZBZXRQSU5wYW44MDJZNTc0eGRXcEtVTzNFd2s?oc=5",
+          "source": "MoneyDJ",
+          "published_hkt": "08/18 15:16",
           "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-08-18 14:52 HKT",
+    "updated_at": "2026-08-18 15:27 HKT",
     "news": [
       {
         "title": "XRP和XLM前景：隨著看跌信號增加，仍然脆弱",

@@ -27,7 +27,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-18 09:58 HKT",
+      "updated_at": "2026-08-18 10:12 HKT",
       "news": [
         {
           "title": "南韓散戶轉戰美股爆買45億美元 專家：並未放棄AI題材",
@@ -46,10 +46,10 @@
           ]
         },
         {
-          "title": "【本周陪你追市況】阿里、小米、泡泡瑪特、Walmart陸續開估，四大投資機遇，點樣部署先最穩？",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9rYlFRbW1ORzFMN0ZiN0dST3pyOXJSYVo4U3BoSG9tMFhYTm9Tckd6SHhKT3ZhSDV0ck9tYTh5dmhHYmNrMm1vaQ?oc=5",
-          "source": "鉅亨號",
-          "published_hkt": "08/18 09:08",
+          "title": "AI熱潮退燒警報響起！華爾街大空頭：美國明年恐陷衰退、美股恐迎震盪",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLOXV3WWZrSHdPRi1MYWgtOHRfdWNhZGhuckFvcG1Ob05TSjh1X2t4UGF3cHI0VDd1cUxpdEhHQVdlLTNSUks2S3hwTDk1S1E?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "08/18 08:50",
           "related": []
         }
       ]
@@ -236,7 +236,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-18 09:58 HKT",
+    "updated_at": "2026-08-18 10:12 HKT",
     "news": [
       {
         "title": "莫斯科交易所拟为专业投资者推出比特币和以太坊永续期货",

@@ -151,20 +151,22 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-19 14:52 HKT",
+      "updated_at": "2026-08-19 15:28 HKT",
       "news": [
+        {
+          "title": "台股收盤／下跌589點失守季線、4萬5大關 台積電跌30元",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xUVItLTczcEI1SnA5c282bjBSZ1lFdDZBT1NiaUhLV3hodVlQZm5YdGFuckQ4T001dnUwSTVoQ1BFanNyc2w1c1pUQnpXS00?oc=5",
+          "source": "TVBS新聞網",
+          "published_hkt": "08/19 14:26",
+          "related": [
+            "TSM"
+          ]
+        },
         {
           "title": "台股2個月飆40%似曾相識？老經理人揭38年前「台灣錢淹腳目」瘋狂歷史",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OMFBHU29DRUI4cC1teGNycmZJb1lzSkRwY3NoOVl2SU05cnlJdlY4QkhXb3RxM1N6ekRBc1c4WUMxSlc0YWdBZVhndk5qU1pWcWhubzJuT09oeF9OZFNadjJMekZFQQ?oc=5",
           "source": "民視財經網",
           "published_hkt": "08/19 14:22",
-          "related": []
-        },
-        {
-          "title": "台股45K沒了！兩天跌逾千點「真正訊號」曝光 | 民視新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YbFFVdFcxRVNHeHlfby1rTkRvUWdBaFZvV1hvN1JlYUJHY3dZRHNfU2dfMG9VakZxT1NsWC0xWm9CYXNjdGRSLUVYZnJ5MUlybkVaU1NB?oc=5",
-          "source": "LINE TODAY",
-          "published_hkt": "08/19 14:18",
           "related": []
         },
         {
@@ -209,38 +211,36 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-18 21:45 HKT",
+      "updated_at": "2026-08-19 15:28 HKT",
       "news": [
         {
-          "title": "【日圓定存】日圓定存息最高5厘 花旗料圓滙短綫或在161有支持",
-          "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQUFQ1SVBYNXZkSUpBWXlNNUlLTGw5U2pyMUo3VFVKOGJNSXFOcXBYNGNlUDFweW5DOEluN0h0dzFOamR4dW9idldkRG9XZkVQbmUtamdraFVLZDBndjUwQ0dKNWZxSWg5WHd3bG9Ib0VYME1RTzNISkIxcGJNX3FZazl4ZGJNMzNVZnp6SDF2SEttMWowbzZiTWlCRVJUN19LZHF2VnE5NjU2UHhOVnNjM1dPMTZfNW5ud2VOUHRtcmswR0pUODF5ZjZJMjc5UU1XcnhWQS1odml1bW9lbGxwQ2tBZzNwTmIyTVltVlRQaDNyLWctS2pSNVcwaDJmZmpDSWk3S1p1MzE1OEw5NWVLMGlua2pVeTF2azRXSWFFN2dlUUV3TVhObW4wRWtiRUh0MF9YSThBeEg4dEZPR1VoclNKdGdka011eVpCSE1Ea29xVE1USzI4WlZIS0lvMGxpSTI0TFhIRGttNlpIMmtZNkRrcnNJSmQ3SUpHT2ZMajdleHVBWFVSRXRQdTNPM3R4Q05BS05PZnNxV2JYaklz?oc=5",
-          "source": "inews.hket.com",
-          "published_hkt": "08/18 16:25",
+          "title": "油價、債息夾殺！日股狂瀉逾2100點、韓股跌逾5% 晶片股成重災區",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rLV81VVYzQ2NkaG1VUFVpMnphN19VZEFvRnpveTZGeGN4aFNuc1NtUnN5Z2cyb3BBYU9aN3VUQ2RLaElibjQtdGNUZ1pDdVE?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "08/19 15:17",
           "related": []
         },
         {
-          "title": "油價與債券殖利率上升，亞股回落；日經指數與韓國綜合指數跌幅居前",
-          "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNQV8wOUQ1SnZRckVUQ2thOWEwNmxTa0JjZUdTVUNOdHNKX2RnV18zZjdQZHBXNUFWcVFrU1FJNjlJM0ZaSnI5UHNfalluTUZpM3N4UjFtUG1ORzJxYzFVeGxpN2ZHNF9ONFRWZG1Pb05YVkdFdDRyQ3RzWXhZbTlNeWdyMmUzSno5Z3BYT2w2clNLMEJIQTVvd0ZzeUUyVFJRWlhLZXBoRUtWTDZyU0VUX1lCWFFqRHY5WlF3TkhWT1dRSkk3SkwxaThEcU1aYjZrYVRPTjE0YXdZNU41dVlCb0lUMlBpWThNdUZyOEY3S2pQQlFySU5La1VKUFRtY2dsQW5xRjNLM3RwQmhEejJzY3hrM0FvZHM3ZVdWc1BJV1dfa0hVenRUZDJYcXZaYnhzd2ZHbExsc0p1N3dyT0pTSm1oMFlrSkVSaXE5UC1IWVJ0UzdUSlIyN3VrNEdoekNNZ3g4WHZpTQ?oc=5",
-          "source": "hk.finance.yahoo.com",
-          "published_hkt": "08/18 16:20",
-          "related": [
-            "^N225"
-          ]
-        },
-        {
-          "title": "影音／台股閃現4萬6！台積電低點2375元 川湖早盤飆逾9%、再2根停板封王",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vbEpYanRTX2NUUXo4U3NmZ1I1VWJnX0lpa2E3eDBXQWpnWUYzV2FjM2gwQlpLa29hSlRIRzREZ1ZrM0VCVm1COFY2OWZMTXM?oc=5",
-          "source": "TVBS新聞網",
-          "published_hkt": "08/18 16:13",
+          "title": "法人砍708億！台積電跌30元、大立光漲近5% 台股收黑589點拉出400點下影線",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDZFVtbmpPRFdUZ1N4WFhweTYxZ2U4RWJyT0MzdTdGbVB2anhkT0laNEotYmdVMkNSZ3QxM1h4amVabE0wSkV5ZnJSZUxSMFdPOXNPTm9yV1NJcWFOOWF2Rm1lQXFiUTZtREh6NEowUQ?oc=5",
+          "source": "知新聞",
+          "published_hkt": "08/19 15:08",
           "related": [
             "TSM"
           ]
+        },
+        {
+          "title": "科技股跌勢拖累 日股收盤重挫逾3%",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81Sll1MG9SR1pLdFpkZzVoYkRLRFlVQ3hSU2RfNDVuZUd0Qk14V3lMTVZSZWdSWWFIMG9xWWFLSDAycW9jaXNMTzZqOW9NaTcw?oc=5",
+          "source": "UDN",
+          "published_hkt": "08/19 15:04",
+          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-08-19 14:52 HKT",
+    "updated_at": "2026-08-19 15:28 HKT",
     "news": [
       {
         "title": "主要加密貨幣行情，比特幣跌0.74% | 即時新聞 - 新聞",
@@ -254,7 +254,7 @@
       {
         "title": "美國證券交易委員會提議“加密資產監管條例”，以明確加密公司融資規則",
         "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNUVVrc2ZCR2txRmZJdl9ma2p6OTU2RzN1T29PSFAtZExnMnR5SXljNF95dXlFOE1lRTV5cVNxX041VDZ5UzM1SVpYRDhFOGE1YWxvZTlBczVGZVFSbUw4ZHdTMjd5VlFhbTZKV2JuZWk0Qzd3MDZHblBqWHJ2b2ZmTzByaE5CT19Hd2UtTjU0eDlybXY1eno2aWpyX283bHlQVHlIYXVyd3RLTHNOM3YzY2NieW5KdVRPZUxfZTBxQ1dyM3dfYmo1anRJclZVcDFUaGtiZEJMLW5ha2ZYZU5fWVBiZ0ZONGRwVkNoZmdvWTYxcGNsa2R1cDVrWHVYcE5EM2RDdWo2QXg2T0QyZ0J4NNIBkAJBVV95cUxNUVVrc2ZCR2txRmZJdl9ma2p6OTU2RzN1T29PSFAtZExnMnR5SXljNF95dXlFOE1lRTV5cVNxX041VDZ5UzM1SVpYRDhFOGE1YWxvZTlBczVGZVFSbUw4ZHdTMjd5VlFhbTZKV2JuZWk0Qzd3MDZHblBqWHJ2b2ZmTzByaE5CT19Hd2UtTjU0eDlybXY1eno2aWpyX283bHlQVHlIYXVyd3RLTHNOM3YzY2NieW5KdVRPZUxfZTBxQ1dyM3dfYmo1anRJclZVcDFUaGtiZEJMLW5ha2ZYZU5fWVBiZ0ZONGRwVkNoZmdvWTYxcGNsa2R1cDVrWHVYcE5EM2RDdWo2QXg2T0QyZ0J4NA?oc=5",
-        "source": "fxstreet.hk",
+        "source": "FXStreet",
         "published_hkt": "08/19 10:46",
         "related": []
       },

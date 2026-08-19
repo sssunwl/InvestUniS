@@ -151,31 +151,27 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-18 21:45 HKT",
+      "updated_at": "2026-08-19 14:52 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數- 俄10大秘密基地曝光！北約斬首計劃曝光俄本土全面拉警報；俄... - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlalVlOHAyTkxxM3pGT1M3X3ljY3RpanZLb3Qza000UzhTR1ZLVDJ0WVRGb3lUR01DV01zR2NhNVE3WGFRdTFDOWxqdjVwUTRDVXFxVXV3VUI?oc=5",
-          "source": "CMoney",
-          "published_hkt": "08/18 18:49",
-          "related": [
-            "^TWII"
-          ]
+          "title": "台股2個月飆40%似曾相識？老經理人揭38年前「台灣錢淹腳目」瘋狂歷史",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OMFBHU29DRUI4cC1teGNycmZJb1lzSkRwY3NoOVl2SU05cnlJdlY4QkhXb3RxM1N6ekRBc1c4WUMxSlc0YWdBZVhndk5qU1pWcWhubzJuT09oeF9OZFNadjJMekZFQQ?oc=5",
+          "source": "民視財經網",
+          "published_hkt": "08/19 14:22",
+          "related": []
         },
         {
-          "title": "TWA00 加權指數- 為什麼很多人一買就跌、一賣就漲？ - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04RkxSeHU3VVNnMnkyeDJCbkJDU1FTbHJKdWRJckVxRmZlQXdhazVCSzY3cW5LUjRTWkJrUXNjZHBoblZiOXJLbWVUM0x2bnNKOG01MjlGUnU?oc=5",
-          "source": "CMoney",
-          "published_hkt": "08/18 18:21",
-          "related": [
-            "^TWII"
-          ]
+          "title": "台股45K沒了！兩天跌逾千點「真正訊號」曝光 | 民視新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YbFFVdFcxRVNHeHlfby1rTkRvUWdBaFZvV1hvN1JlYUJHY3dZRHNfU2dfMG9VakZxT1NsWC0xWm9CYXNjdGRSLUVYZnJ5MUlybkVaU1NB?oc=5",
+          "source": "LINE TODAY",
+          "published_hkt": "08/19 14:18",
+          "related": []
         },
         {
-          "title": "台股18日開高後震盪拉鋸 華邦電業績亮眼反彈走高成交量奪冠",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8ySjVLSG1MWjlmTElEUWlCbS1iclBHMUF3ZWtoZDBUdkF0MjZhbWhKTVgtWWJyY0pRSW1ic2dtUDJmY25NUF9Eamd3a0J0cUJfMHc?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "08/18 18:17",
+          "title": "致茂慘崩8%、南亞科跌6%！台股重摔589點「4萬5千點、季線都丟了」 健策、聯詠逆勢噴半根",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YVGZadlhvLXlVeXNudUtUcUxpSTlEOW5zUXBOT1B4aE5YUXFjajI3YUhMek0wTllJQkdPcXpZWE5kSS1DNHk3elNjSQ?oc=5",
+          "source": "FTNN 新聞網",
+          "published_hkt": "08/19 14:10",
           "related": []
         }
       ]
@@ -244,33 +240,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-19 10:15 HKT",
+    "updated_at": "2026-08-19 14:52 HKT",
     "news": [
       {
-        "title": "Bitwise：當前加密投資者認知與現實間的三大誤區",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zdnluQk5JUkRjalBFWS1qOWQ3S2IxSmozUFZMVjZvYXRWQ0dWMk9WOW8wclcyODlPLVZ1WGRxck0xZTJPbjFJaG1Ldw?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "08/19 10:00",
+        "title": "主要加密貨幣行情，比特幣跌0.74% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMG5JQUdCZFlVajhGaWpZNUx3VXJaTkNBaENWTEpBU084cVhNdFppQUlHazd4UlpDN3RDQjd0SFQxcHRJenRObDRTWW4tM0Z2OEUtZ1NTSDFwVUtycGJpeGcxN1pmeElDdVljbHY0UVZ3anhvWHlYN2FXbGdvaURiTmtWeE04UnJFckh5Ym5IS0YwanR0cjdLQ05oTDBCSWFt?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "08/19 11:33",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "美國證券交易委員會提議“加密資產監管條例”，以明確加密公司融資規則",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNUVVrc2ZCR2txRmZJdl9ma2p6OTU2RzN1T29PSFAtZExnMnR5SXljNF95dXlFOE1lRTV5cVNxX041VDZ5UzM1SVpYRDhFOGE1YWxvZTlBczVGZVFSbUw4ZHdTMjd5VlFhbTZKV2JuZWk0Qzd3MDZHblBqWHJ2b2ZmTzByaE5CT19Hd2UtTjU0eDlybXY1eno2aWpyX283bHlQVHlIYXVyd3RLTHNOM3YzY2NieW5KdVRPZUxfZTBxQ1dyM3dfYmo1anRJclZVcDFUaGtiZEJMLW5ha2ZYZU5fWVBiZ0ZONGRwVkNoZmdvWTYxcGNsa2R1cDVrWHVYcE5EM2RDdWo2QXg2T0QyZ0J4NNIBkAJBVV95cUxNUVVrc2ZCR2txRmZJdl9ma2p6OTU2RzN1T29PSFAtZExnMnR5SXljNF95dXlFOE1lRTV5cVNxX041VDZ5UzM1SVpYRDhFOGE1YWxvZTlBczVGZVFSbUw4ZHdTMjd5VlFhbTZKV2JuZWk0Qzd3MDZHblBqWHJ2b2ZmTzByaE5CT19Hd2UtTjU0eDlybXY1eno2aWpyX283bHlQVHlIYXVyd3RLTHNOM3YzY2NieW5KdVRPZUxfZTBxQ1dyM3dfYmo1anRJclZVcDFUaGtiZEJMLW5ha2ZYZU5fWVBiZ0ZONGRwVkNoZmdvWTYxcGNsa2R1cDVrWHVYcE5EM2RDdWo2QXg2T0QyZ0J4NA?oc=5",
+        "source": "fxstreet.hk",
+        "published_hkt": "08/19 10:46",
         "related": []
       },
       {
-        "title": "比特幣徘徊 6.4 萬美元「爆倉逾 2 億鎂」貪婪指數回升 46， 市場仍陷觀望",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWmxYQWVSaEdqamhNaWRtUnhFTDROcUZCd0dRdnFhVGM4SmZWd0xCWTRraF9wN1JCM2JEc2FhaDdDYjdvZ3NOUHlGYmdCMEZzZC1pZncyOEk2YVRWaVQtd0lyendVR3ltRmttWTZrRl9WSlZ2WjVDVFpwZmtPZWRRdUt2QWtZS3NxOGxVaHBB?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "08/19 09:25",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "Metaplanet 戰略收購 2,100 枚比特幣 股價應聲漲逾 5%",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZlhwX3R4bFFWY2xvdk9pRDBSc0trV18wMTRlaVlRdHRHUi1wbTZXVUlkUGJLaFllV1pDaVdTZUVGN2ZMX1RVRkcxZG5LbTFXeFE3UGR2NlY4VldjUm5zVUJsS0pIN0d4aGVzaEF5VVpHcFhvcHVJVVlvOVBqSEFaN3d5TmU3bnFTVzBGcjZSMjFDMmMwajRZYTJwOUVYUVpkbzdDTjRfcWVyM0Z3MlVlNy1YMUd6cEVIcHNUVHNuQTlEXzBFVWctZzNUSGMxZnFvNTA3RlpPR0xYYjN5UFVLMUxuQ3IyUU9ScHg3SVdHOA?oc=5",
-        "source": "Life 生活網",
-        "published_hkt": "08/19 07:50",
-        "related": [
-          "META",
-          "BTC"
-        ]
+        "title": "以太幣區間震盪 突破 $1,920 有望挑戰 $2,000 關卡",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rVVdKY2w5TnZNM2V1UzlaMzRTQ2UzdS02WlNZQ3d4SUZvdmE1S0ZabjZELVZ0Qzg0NjYyNGFGSDc1VVRBX2w4TVBMeExvYTRLc0E?oc=5",
+        "source": "蕃新聞",
+        "published_hkt": "08/19 10:42",
+        "related": []
       }
     ]
   }

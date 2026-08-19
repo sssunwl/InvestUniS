@@ -27,27 +27,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-19 07:41 HKT",
+      "updated_at": "2026-08-19 10:03 HKT",
       "news": [
         {
-          "title": "《美股》全球殖利率跳高 記憶體/光通訊/費半摔-新聞內容-基金",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR2RtdVJXaXZteExKUGV6bVZMN3RwMGpVREd6NUM3bTYxTkt3a1duY2VqUENGZmhZdk5FZkc2czIwRmlRTWcxbm9pcHhORzZsTkJ1LXdHOGV2OFhOQUlZaXJSN2lCUUhjUnJLU0szYW5RenBUdHQ5SEVLUnRJM0FHWW9NSkJuZlFNY1U4dXc2SFE?oc=5",
-          "source": "MoneyDJ",
-          "published_hkt": "08/19 07:17",
+          "title": "Kraken 歐洲開放美股交易 逾 7 千檔資產一站購足",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41R1BiY2pNY2l1Q1ZYaThnN2xaWWFWWUFna2c1OW5yRlkwU3Zza1ItMXZnMTUwenlqVHo5RE50bWZQUEF5MkNwbm5PZlBhcmJfYVE?oc=5",
+          "source": "蕃新聞",
+          "published_hkt": "08/19 09:37",
           "related": []
         },
         {
-          "title": "【美股盤勢】費半暴跌5%，AI股全面潰退（2026.08.19）",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORWJYQVZOR2tteGJnd0hBczBTdERNN3pEU1dQOUZkVnQ5TTIwZUdBOGZSbFdlUE1ic0M0QVVjVWZPQ3hXYkZOM1BVM01WRHhPU2FoS3VkT3BQU2hCdUlFLUFtT3RsZEI1dV9FSi13WlVObS1YdjNtRG14T3NTdkpDZ2txa3lpSkM5a0NkcWZwLXFObkY4cWR5a1RIQTZXREJaZVQ4NG1YZFRXdS00R1QwMWFmRTJEODZQZzY5YUN5aVZJY3FsRGJ5TG1kNXRfTFE?oc=5",
+          "title": "【即時新聞】美光(MU)迎AI記憶體強勁需求！市場悲觀情緒蔓延反成買點，卡位跌深科技股",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdTRORENTTGM4dFJ5d1JTVkFjMmk4T3VTbFozaWh3UVJ3emNwbm5iRnBqZTY5Y0dneE9rSlpBc3YwUjRtT2cyVjA5RzFtcEZQVGxmdWF2QkpRMnBzRHBLc0c5MTdfTFNlbG5QZThxS3Z2TV9YaEZjZG5uZ2U4bFdmYlpFazNhUU9GWE8wYTdXTEs?oc=5",
           "source": "CMoney投資網誌",
-          "published_hkt": "08/19 07:02",
-          "related": []
+          "published_hkt": "08/19 09:05",
+          "related": [
+            "MU"
+          ]
         },
         {
-          "title": "今年來已飆3成！海外能源ETF大啖接電紅利 美中AI競賽升級「電力成主戰場」",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Wekt5S05xRmVDR1dNSE9tdlRwZ2g0a3BoWVF6bDl1cVllQlprRjA4NklwQnJMNzJmRUdqTThpRGhkWG1xMzVjSDNLRQ?oc=5",
-          "source": "FTNN 新聞網",
-          "published_hkt": "08/19 06:45",
+          "title": "TradingKey 每日市場簡報：美股連續第三天收跌，晶片類股重挫5%, SK 海力士與晟碟暴跌逾9%",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeFAyeDVrSW5FMU0tWnNEX0N2SGptN3J3TUhScUI0WGJnd2I1aDVSVnRrSFdSYXZRcHQwcWVrV2tjVU94cUdqQ1N3N0xyOXdPc0hZRUstRVJCaldrcnhOSmV0ZFFLYXhmU1E0aGx3MzlvR3FyS1ZneVFVN1QzdTBleG5nNEpNcENxRWxTbTlRNjFzRnBXZmRzbllNU0V0ZmFDRnQ0SmZpMW1CRnJwQ2s1UWJQMG91WWgzZXJGaDlraVRqUkJRb3pya0hEeEQzVjlRal9JZkZYMmYzR1k?oc=5",
+          "source": "TradingKey",
+          "published_hkt": "08/19 08:57",
           "related": []
         }
       ]
@@ -242,32 +244,33 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-19 07:41 HKT",
+    "updated_at": "2026-08-19 10:03 HKT",
     "news": [
+      {
+        "title": "比特幣徘徊 6.4 萬美元「爆倉逾 2 億鎂」貪婪指數回升 46， 市場仍陷觀望",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWmxYQWVSaEdqamhNaWRtUnhFTDROcUZCd0dRdnFhVGM4SmZWd0xCWTRraF9wN1JCM2JEc2FhaDdDYjdvZ3NOUHlGYmdCMEZzZC1pZncyOEk2YVRWaVQtd0lyendVR3ltRmttWTZrRl9WSlZ2WjVDVFpwZmtPZWRRdUt2QWtZS3NxOGxVaHBB?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "08/19 09:25",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "Metaplanet 戰略收購 2,100 枚比特幣 股價應聲漲逾 5%",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZlhwX3R4bFFWY2xvdk9pRDBSc0trV18wMTRlaVlRdHRHUi1wbTZXVUlkUGJLaFllV1pDaVdTZUVGN2ZMX1RVRkcxZG5LbTFXeFE3UGR2NlY4VldjUm5zVUJsS0pIN0d4aGVzaEF5VVpHcFhvcHVJVVlvOVBqSEFaN3d5TmU3bnFTVzBGcjZSMjFDMmMwajRZYTJwOUVYUVpkbzdDTjRfcWVyM0Z3MlVlNy1YMUd6cEVIcHNUVHNuQTlEXzBFVWctZzNUSGMxZnFvNTA3RlpPR0xYYjN5UFVLMUxuQ3IyUU9ScHg3SVdHOA?oc=5",
+        "source": "Life 生活網",
+        "published_hkt": "08/19 07:50",
+        "related": [
+          "META",
+          "BTC"
+        ]
+      },
       {
         "title": "加密槓桿回落至 2020 水平 市場解除負債未再重演 2022 式信貸危機",
         "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQdjNISTRueTBmc3ZuNWxyMVBpZjhoUUlCcmdoTzYyYjZGMUNvdEw0TE1zV3M1aWlXcWtRWlpYRXplRS1kREU4ZF8zZzZDRi1DOGJxOWZib3IzdkVlVFpPZENKV0Nwek54UmtjNkdsQV9HRkx0LUhmbUxPa0psSHhhVHR6LVNxZDVkUk8zQnBENUY2blprajlSSlRrdnZabEM0U3NXaG5sb0hYbkp5Y0l4OV9nMThTUGFtLVBFMlZDdzRWc25qMzZWTVhOak5QTnB3UWhHc3h5clRlSW1GQTJSbE8zTWx3N1BjaUMxNWFodmZWbUczRGJCX3VpZ3F2RjJvNmtIdFhUR3g5bnBVVVJ1Y0N6TkNmN0RtaC0xbFZja0RlNFVEeVA1N05XenhWZXJiUzl3bjM2ckx6RVRtLWdJTkZwa2wxWFpaN2FGSEhnYkt5U0pjNm1EZzZGenhZcnJTWlpxWndLbTNCbjZLbVV1MEdpcWhmQQ?oc=5",
         "source": "Yellow.com",
         "published_hkt": "08/19 05:27",
         "related": []
-      },
-      {
-        "title": "主要加密貨幣行情，比特幣升0.08% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUmJTTVd3clNIdVNickpUbHV6eUZ4QW1tSXU4OHBfR1VkUGVPcXl4YUtZeHhMbEp4dUdWc2RaLTNFQ2d3Umk4UXV5bHd3bmlHcGJ1djNFRnpXc2hoRU1iODJoelhMSXZPUkYzSGw5b2dYQ3VrVzBLdFZDRXdwOTc0M1I3dmxIVjVJaHB1b25UNHpPblllTGdpVG5hamx0aGRM?oc=5",
-        "source": "etnet.com.hk",
-        "published_hkt": "08/19 05:02",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "Intesa Sanpaolo砸9.66億美元押注SpaceX 比特幣ETF持股大砍94%",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQ1VRWUExeGgtVFN0a0FZVFdiaG4wQnJlOWdTR3FRVDNxWWtZeFVOZ2VBLWlYMExPWURKOXpFME5ZdGp4MUN5MXl6VTdvWjdocFVIM2Q2Q3JINHcwZ0dyZ1FERldVd3FGV3dZd05zTkpzaTJqR284WTZ0V0Rfa2dQYmJFYUdzRElPaV9Cd0JfUHZEd29UTkQ0QVZvTWRrOHFfLVBXejJkZ2lEeTdVQkhWY1JfcXVWMm1MV09McUgySWdYYmtoX0pYbkpmMU0wZk9VeWZRZXpRUlhTNDhVcnhrOS00X0RiTmoyYW5IX2lBRURnUlprblIzV1FwWkRxZFlGUUlQWHlXc0Q?oc=5",
-        "source": "Yellow.com",
-        "published_hkt": "08/19 02:22",
-        "related": [
-          "BTC"
-        ]
       }
     ]
   }

@@ -89,34 +89,32 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-18 21:45 HKT",
+      "updated_at": "2026-08-19 17:01 HKT",
       "news": [
         {
-          "title": "恒指走勢丨埋單倒升17點 140億北水撐市",
-          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQNFVhTXdUNXJMZjBtQXdHRjVuU3kxZ29NSmxTWlpDNVRQdVdpMVpZaDdkV1Nacmd5SS01UEN4RzdDOWEzTlNqNUpjRFNEdU9UOGR6ZjItc3E1UUMzTDZQOS1JRkZ2aVJ5R2htNExyWnVMdW5MbUR4bzMyRlVKMFZhQ0xhcm5LRXVGWTlnSmRYM0h3ckM0eXNsakp4WW40M296Y28tdlNEbTlxS3AwSFNhZDhkWWptSHF5TlFZWHU2Zm5nMlUxMzg4SFlqc3g5b19IcEpPUktTcHlvVWJNU0VPN245cWFMRGF1emdNdFh0cWt6Z0o4NVd0azNIRmUzMjM2ejBFNHZNNFFkc1gzeVBsY3FpbnBjM3kyOTVZOUZB?oc=5",
-          "source": "信報網站",
-          "published_hkt": "08/18 17:10",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "港股收評：恒指國指午後轉升，豬肉、海運板塊全天活躍，阿里盤中急升5% 作者 格隆匯",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkbHpfSVh4dGR5S2FFZ25UdFhOdHR6VUV3RGp3RmFiaUhQb3BSWkstOW9mZmlhYTlWY1Q0dkxkTW5WbTJ6NWRCbUc3a1dwcWdFeG15b2dXcjFBQWY3NGVaN2pxWjNrSEJ0MmpQaVhxdmU?oc=5",
-          "source": "Investing.com 香港 - 股市報價& 財經新聞",
-          "published_hkt": "08/18 16:51",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "〈港股盤後〉權重股拉升帶動恒指午後轉漲 收盤接近平盤",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wVGlDZmhCVnIwUU9LU09WTXlpLW5FY2FabTJuLVZzbHBOMDg1dU02XzNEWmg0bFdIYlZmZUM2MFVWOUVlZmttUk9ITGVOSVU?oc=5",
+          "title": "〈港股盤後〉科技股受挫下跌 金融與公用事業撐盤 恒指微漲",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5La3l6b2RUS1doaEpuc3p1YkhOejh6cEtBQV83SnZxcnFGUk8xb0N3LWtBODlwd3p3NmQ2aVpXTy1ZUXdUaUFTQnZTTl9lM1U?oc=5",
           "source": "news.cnyes.com",
-          "published_hkt": "08/18 16:40",
+          "published_hkt": "08/19 16:41",
           "related": [
             "^HSI"
           ]
+        },
+        {
+          "title": "港股收評：外圍重挫港股韌性十足，恒指逆勢3連升，石油股內銀股攜手撐市！ 作者 格隆匯",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0U0FzSGF1SFhrQnFCVFY4YklyRXgwc0U3dkRudGhuWk1vc1hreGZ2Wnp6Undsdmd0REFpRU9GVk5BVGtxM1B6MW5lLWNCa1QwNHREWGo0WS11aTRQS0xHLUw2SFNlLVdycmlFeTF5NXY?oc=5",
+          "source": "Investing.com 香港 - 股市報價& 財經新聞",
+          "published_hkt": "08/19 16:37",
+          "related": [
+            "^HSI"
+          ]
+        },
+        {
+          "title": "港股收市升23點 科指跌逾1%",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTeXlnZmU0Mk9zcXA3UjJ0ekZLMDNoNkM4MF9GOXQxQUdCM3h4a1ZOMWdGNGpsQUl6cVFzR0dlQWxkYmxzV2JlelpuN19KdGFVN1Z2ZjZRcVdycmU4djRVNUZHRUJ0VTk1Tk1vRHVyZw?oc=5",
+          "source": "香港電台新聞網",
+          "published_hkt": "08/19 16:28",
+          "related": []
         }
       ]
     }
@@ -151,29 +149,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-19 15:28 HKT",
+      "updated_at": "2026-08-19 17:01 HKT",
       "news": [
         {
-          "title": "台股收盤／下跌589點失守季線、4萬5大關 台積電跌30元",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xUVItLTczcEI1SnA5c282bjBSZ1lFdDZBT1NiaUhLV3hodVlQZm5YdGFuckQ4T001dnUwSTVoQ1BFanNyc2w1c1pUQnpXS00?oc=5",
-          "source": "TVBS新聞網",
-          "published_hkt": "08/19 14:26",
+          "title": "TWA00 加權指數- 盤後來看，傑克真的是太神奇了！季線又要回歸囉！！！ - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXY1BrUHBCTmR3dTlUVXB4UFVuZ1RVbkFRaFB6eXNhb0ZZdHZsWlZRQnBySFZSMW1uSmdtbXRCV0FBZ3N2TzhNUDJCUUYxTUp1d2lrdUhTVGQ?oc=5",
+          "source": "CMoney",
+          "published_hkt": "08/19 16:46",
           "related": [
-            "TSM"
+            "^TWII"
           ]
         },
         {
-          "title": "台股2個月飆40%似曾相識？老經理人揭38年前「台灣錢淹腳目」瘋狂歷史",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OMFBHU29DRUI4cC1teGNycmZJb1lzSkRwY3NoOVl2SU05cnlJdlY4QkhXb3RxM1N6ekRBc1c4WUMxSlc0YWdBZVhndk5qU1pWcWhubzJuT09oeF9OZFNadjJMekZFQQ?oc=5",
-          "source": "民視財經網",
-          "published_hkt": "08/19 14:22",
-          "related": []
+          "title": "TWA00 加權指數- 機器人非紅供應鏈成形！台廠大啖美轉單商機- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zTjBCbjJIQnRQNXlfdnhCNnA1c0t3OHBZcHMzVzhkQkhZN3VOQlBJRWNBNGs0VklsTG1kVGdGSTdQZ19aZ3VDbmRaTWUtZmYwUGV6Ry1lczU?oc=5",
+          "source": "CMoney",
+          "published_hkt": "08/19 16:31",
+          "related": [
+            "^TWII"
+          ]
         },
         {
-          "title": "致茂慘崩8%、南亞科跌6%！台股重摔589點「4萬5千點、季線都丟了」 健策、聯詠逆勢噴半根",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YVGZadlhvLXlVeXNudUtUcUxpSTlEOW5zUXBOT1B4aE5YUXFjajI3YUhMek0wTllJQkdPcXpZWE5kSS1DNHk3elNjSQ?oc=5",
-          "source": "FTNN 新聞網",
-          "published_hkt": "08/19 14:10",
+          "title": "台股將下修3000點？他示警1情況「恐被殺多」 揭大盤行情天花板",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tQW9BalNQcVh0eWZIang3THRGd0VlNkduYzZMMUZycWZNZ0VEdlBsQzR0c1dDc2tmemozdW1vQU5kTVJtMGt5NTNpR3Z6QQ?oc=5",
+          "source": "TVBS新聞網",
+          "published_hkt": "08/19 15:58",
           "related": []
         }
       ]
@@ -211,7 +211,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-19 15:28 HKT",
+      "updated_at": "2026-08-19 17:01 HKT",
       "news": [
         {
           "title": "油價、債息夾殺！日股狂瀉逾2100點、韓股跌逾5% 晶片股成重災區",
@@ -230,23 +230,32 @@
           ]
         },
         {
-          "title": "科技股跌勢拖累 日股收盤重挫逾3%",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81Sll1MG9SR1pLdFpkZzVoYkRLRFlVQ3hSU2RfNDVuZUd0Qk14V3lMTVZSZWdSWWFIMG9xWWFLSDAycW9jaXNMTzZqOW9NaTcw?oc=5",
-          "source": "UDN",
-          "published_hkt": "08/19 15:04",
-          "related": []
+          "title": "日股：日經指數週三重挫3.16%，債券殖利率飆升打擊AI交易",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR2dRTHA3dXpQVGRYMkJqMTBZNmNzVHM1VDhidGFLMGROTGZRWl9hMmFCc0EzU1JxYkROYnppSDBNYlVxRmhJNnlvZDNmbXlvUWNfMnIxMUpFNFJjYzNCRHJPeWVfU1N2dVZoNFo3LVE5QmR0SkVQLTFvXzMzTTBPa3ExVU9UTWFwZkhYYkdRVQ?oc=5",
+          "source": "富聯網",
+          "published_hkt": "08/19 15:05",
+          "related": [
+            "^N225"
+          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-08-19 15:28 HKT",
+    "updated_at": "2026-08-19 17:01 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣跌0.74% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMG5JQUdCZFlVajhGaWpZNUx3VXJaTkNBaENWTEpBU084cVhNdFppQUlHazd4UlpDN3RDQjd0SFQxcHRJenRObDRTWW4tM0Z2OEUtZ1NTSDFwVUtycGJpeGcxN1pmeElDdVljbHY0UVZ3anhvWHlYN2FXbGdvaURiTmtWeE04UnJFckh5Ym5IS0YwanR0cjdLQ05oTDBCSWFt?oc=5",
+        "title": "Q2 華爾街加密調倉： BTC 持倉逆勢增 7.5%， ETH 敞口全面領跑",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrcTdKaGc5NWNaX2F2VHFPZHVuakc4UndXMDZkMVBhRm9PZzhJQ0w3cUJaSFNPOVY5QXVUWW85SGNpSHdjczlkcjBBeVhjVjBMem9XTQ?oc=5",
+        "source": "odaily.news",
+        "published_hkt": "08/19 16:48",
+        "related": []
+      },
+      {
+        "title": "主要加密貨幣行情，比特幣跌0.40% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZHlxZ1AxVlprcWU4TGxtc1BvczdxQmxvaEpSSU0tTGhlcUJyX09CcGNJRnktOTVZMmhuOHlnZ0FRb3k1NmJfRW1SVzJFZ0xUOXBnLVZTTDM3RENDbURHeUtMa3dNbkpLdWZUMTFoa1JaTDZ4LU9UdkRlbm9pYXBYQ3VfdDk5Z3JpTnNIb1UySUYtTjBkSHpCbEV6SVpSaGdL?oc=5",
         "source": "etnet 經濟通",
-        "published_hkt": "08/19 11:33",
+        "published_hkt": "08/19 15:38",
         "related": [
           "BTC"
         ]
@@ -256,13 +265,6 @@
         "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNUVVrc2ZCR2txRmZJdl9ma2p6OTU2RzN1T29PSFAtZExnMnR5SXljNF95dXlFOE1lRTV5cVNxX041VDZ5UzM1SVpYRDhFOGE1YWxvZTlBczVGZVFSbUw4ZHdTMjd5VlFhbTZKV2JuZWk0Qzd3MDZHblBqWHJ2b2ZmTzByaE5CT19Hd2UtTjU0eDlybXY1eno2aWpyX283bHlQVHlIYXVyd3RLTHNOM3YzY2NieW5KdVRPZUxfZTBxQ1dyM3dfYmo1anRJclZVcDFUaGtiZEJMLW5ha2ZYZU5fWVBiZ0ZONGRwVkNoZmdvWTYxcGNsa2R1cDVrWHVYcE5EM2RDdWo2QXg2T0QyZ0J4NNIBkAJBVV95cUxNUVVrc2ZCR2txRmZJdl9ma2p6OTU2RzN1T29PSFAtZExnMnR5SXljNF95dXlFOE1lRTV5cVNxX041VDZ5UzM1SVpYRDhFOGE1YWxvZTlBczVGZVFSbUw4ZHdTMjd5VlFhbTZKV2JuZWk0Qzd3MDZHblBqWHJ2b2ZmTzByaE5CT19Hd2UtTjU0eDlybXY1eno2aWpyX283bHlQVHlIYXVyd3RLTHNOM3YzY2NieW5KdVRPZUxfZTBxQ1dyM3dfYmo1anRJclZVcDFUaGtiZEJMLW5ha2ZYZU5fWVBiZ0ZONGRwVkNoZmdvWTYxcGNsa2R1cDVrWHVYcE5EM2RDdWo2QXg2T0QyZ0J4NA?oc=5",
         "source": "FXStreet",
         "published_hkt": "08/19 10:46",
-        "related": []
-      },
-      {
-        "title": "以太幣區間震盪 突破 $1,920 有望挑戰 $2,000 關卡",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rVVdKY2w5TnZNM2V1UzlaMzRTQ2UzdS02WlNZQ3d4SUZvdmE1S0ZabjZELVZ0Qzg0NjYyNGFGSDc1VVRBX2w4TVBMeExvYTRLc0E?oc=5",
-        "source": "蕃新聞",
-        "published_hkt": "08/19 10:42",
         "related": []
       }
     ]

@@ -27,7 +27,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-20 10:01 HKT",
+      "updated_at": "2026-08-20 10:14 HKT",
       "news": [
         {
           "title": "【0819台股盤後】台指期結算壓低大盤跌589 點收44,719 點，台股夜盤收漲302點！三大法人狂砍708 億，震檔盤勢中被動元件異軍突起【3090 日電貿】【6173 信昌電】【2492 華新科】｜豐雲學堂2026 年 08 月",
@@ -44,10 +44,10 @@
           "related": []
         },
         {
-          "title": "美股重點新聞摘要2026年8月20日",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wZWNwM0VIM00wbmF6aGpVOW51ZEJHTk1hMHgtZEpGWXhtV0RxU0pXS1lYOHcyUUlFZHowUFpJOW9IdlFZaTREbGtWdkQ2V2c?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "08/20 08:20",
+          "title": "美股全黑台股拉回！資金狂湧主動式、槓桿ETF 00406A年化配息17%衝出20萬張大量| 2026九合一選舉",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40Q1NSYUxLaXdNenowMUdaa0IzRTZSZ3BCWFY3aXlERHZTU3FfcHQxYUNhWFVWY1BnXzQ0MEZOT0tnZ29DSlo5c1FGM2JhN1ZibzZjMlJGSGw?oc=5",
+          "source": "UDN",
+          "published_hkt": "08/20 08:45",
           "related": []
         }
       ]
@@ -238,8 +238,18 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-20 10:01 HKT",
+    "updated_at": "2026-08-20 10:14 HKT",
     "news": [
+      {
+        "title": "比特幣飆破69K、以太坊狂漲18%衝上2,264美元！全網爆倉30億鎂屠殺空單",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdVFRTGdwY1JwYmwtenFNSllsUkNrMF8wb0JJNHJUMDVYN3labDh1eUNNNWhUZFlmSWd6OHkzTTg4SVVybXBkSGM3T0ZTaGZybXVpWVNELThpOWp3bDhPMUl5M2FMektCM2dXSU54c1Z5U3RMUldhal9xOW5udDFIa0V6OEs3UndyVnR3?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "08/20 09:22",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
       {
         "title": "24H 热门币种与要闻｜美联储会议纪要没有降息意见；比特币时隔三月重返6.9 万美元（ 8 月 20 日）",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nLXloTVVBV2lGODRJa1laQ1RsVkYwOVRaQ0FRb2NjdGRnRVNQVlBkMVBOMzRKMkJ3RktGdDJtTzN6SHVOOTRadTlpNXN5MElVb3Q2TQ?oc=5",
@@ -252,13 +262,6 @@
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5WGc3b1RDT1FHMFhTcnpONlhqTlFSb0dxc01UQ1llUHQweFB2czViU3dtdm9tUm52ODJqYml6OThJanNtOXhieFdzLWZ3MF9lRHBucg?oc=5",
         "source": "odaily.news",
         "published_hkt": "08/20 08:21",
-        "related": []
-      },
-      {
-        "title": "一小時強平 11.8 億！高槓桿引爆加密血洗",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1Q2ZWa0RGNHdlRkVRODZjZGoyU2RSclZYczlVVk1LN0xZN0tkQTcyWmtaTzd4RVlUcE9PeFlDbTNycnozN29WOA?oc=5",
-        "source": "鉅亨號",
-        "published_hkt": "08/20 08:17",
         "related": []
       }
     ]

@@ -27,29 +27,27 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-21 07:45 HKT",
+      "updated_at": "2026-08-21 10:08 HKT",
       "news": [
         {
-          "title": "【美股巨頭】亞馬遜狂發債2,230億美元，AI帳單誰來付？",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU1RyZGItUFh6VnlSQ29idGNXeXNTWGpmckNrdHFlQjdPM24xSWdOaDR6aTlzSXlNaHRIQ2xHV2VBUUV4a29pLVZkWkhYUVlLdTlGZTY2alVSU0E3ZTBmYzNVLVRQYjdWOC1mTWNlRV9ac2Rjd0xVUzh5Z1h3MWZGZ2NKSWpRMll3ZUoyZkV3?oc=5",
-          "source": "CMoney投資網誌",
-          "published_hkt": "08/21 06:02",
-          "related": [
-            "AMZN"
-          ]
-        },
-        {
-          "title": "〈美股盤後〉貝森特干預美債曇花一現、油價再飆！道瓊急瀉超700點 沃爾瑪崩逾9%",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zTkdRdWtUbXFkSFpCQ0NtRTl3LXo0TUxGbFQ0RTZzcjRlblRZYVVFYXJWeVhsd1RocWRiaHRDNzlCbUtWenJ0cW1BSldqUEU?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "08/21 05:31",
+          "title": "風暴突襲！凌晨，全線大跌！美國財長，重磅發聲",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbkpWNXp1N2dZZFB1em9LR2ZxbzVpY0hrVHY5cXotajNwcDhuYi01Zi1hQVFtTzA1V051UFJJT2U0d0pMTElzSGl4ZE92cFJid0Fra0xoNWxLVWVEYmdkZFNMVFJJaTF2OG5TZUdXLTdOSDNXTUJFWTdhY1BiRFdfV0hHNk9MNDFJMUhaRTA1Yw?oc=5",
+          "source": "鉅亨號",
+          "published_hkt": "08/21 09:38",
           "related": []
         },
         {
-          "title": "COTY第二季財報揭露：市場份額策略、品牌簡化與利潤壓力的挑戰",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMGRKdEhRRWxVZmx5bjhBUU9YWElWb3BpUmZDZ0M5RWNGRUhjNTlScThudFpkSWJQZnVnb255X05SQ0hhRHI0d0JGLXRSOE41T01RazdVRUJ5MGQ5bkF4U0hxbmhBVWdrdkN0cG9uRWdrQ0Z6aE1femR3VUF4SHVkSkUxb1J2ZkhfSTA3WTJ1NENCYWVHa0hINVl2ekVrMEM3Y3d0M3h3LW1Xdk1RUnBNRm5lWXZvRTE2RTZEQ0g3cHNvN1FoQzZtWkRPb09ac1E?oc=5",
-          "source": "CMoney投資網誌",
-          "published_hkt": "08/21 05:06",
+          "title": "美財長開始慌了，市場一片歡騰",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zWFBUb3UxckFXYWJReU9qNEVVWDNza1dVdkZNZi1zTU5JVllhd1ZPMS1WREc2bkxzdDJZamJscGpuWjZJeWdsRw?oc=5",
+          "source": "鉅亨號",
+          "published_hkt": "08/21 09:24",
+          "related": []
+        },
+        {
+          "title": "單日暴漲177%！莫德納逼空行情震撼市場 AI晶片熱門交易意外成提款機",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wSVpJTVJ2MEktOTRTZEphZG5QcDJKRW1CNUFMaEY0b0ZIT2t6ZUN5VzRBLXJGeGJPb3lfeFYwTy1tLVU1b2oxeGxVdnhOSFE?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "08/21 09:20",
           "related": []
         }
       ]
@@ -240,13 +238,22 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-21 07:45 HKT",
+    "updated_at": "2026-08-21 10:08 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣升4.81% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT0E2a3ViUXp1aEo4QlJDNFF0aVM1NHU1MU84ekhoMTRDZjNqQVMydFFyQlBKd0NtYW1BSFItNmdHTWt1dV9zWktSRGRZS0dxclA4TmZ5YUpIWDI4SHNneDRPVGV5aEhMaVdTZEdKWEl3Ulg3QV9xcDdlN1pBWTV6NWZCU0RCMks2Y3lYbGx6N1RPOGNMY2o0SlE0MkNKb3hV?oc=5",
+        "title": "逾 30 億美元空單被爆，加密熊市真結束了？｜加密市場, 比特幣",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtX2F6bmVmVURBMHlVMVRQNGotM0hoT0g3UUhzUGQ2RmdvVGhSRTdBNHE1ZWUzdTJ6MEZMM2J4NEM4bjFHamNOcUhoZ0tZaWN1WEpRbjhLTHc1Q1NtYmxJ?oc=5",
+        "source": "ChainCatcher",
+        "published_hkt": "08/21 09:29",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "主要加密貨幣行情，比特幣升0.90% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV1YxYjJQMzdOM3FOelh2aXJzUC1JRnFvQ2FsRk96QWllblF3SzltdlNtZTQtTTFNR3lGdVMxU0FFMkxMWXZRNjY2UEF3cGhjdHJTanVmZTd5RHR4THp5N1FKNkJUODBjbVhnSHBxZ19oWFFMTExzM251ZURSMmNnRkxLQ1pnNVhESjJGeThMT2w3VXdDYWlSaW1ZUERqRk5T?oc=5",
         "source": "etnet 經濟通",
-        "published_hkt": "08/21 05:01",
+        "published_hkt": "08/21 09:02",
         "related": [
           "BTC"
         ]
@@ -256,13 +263,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQQWFpQWxfcUFrS3RBN0hkQmVkcHhwcG5zWWZCMC0wUVJwUFVleThIQ245VTczb2ZxbFk5dGx3ejh4bk9WVXU5c2dGRVA0V1dpd1c5Z1ViUzdtSkJxQUVwOEd4Y2Fxd0tseXlOa2l0Ri1zNE5Tb1J5eGQwZ1l2bjVkdzNON2t2c2FGUjRCcm1NOEQ4VlJuOUJQTWltbGY3YVZ4OU9lV25aUWVHNHpzNXExeERSTldmVmRHOGV6bzN2Z2FGVHlvZ2ZLTFNDSzk4YlYzNVliV1RkXzhRem1pRTFvcFQ1VUx1V0NRSXhXdVRuRkZwM1d2RmtVajlfT0YtQlc0UmdyaDdfUHFiajBEbFpDTVRiVy1NOUpJZENtN19BeVpwSS0tTzc3UnlhWW1DZEw0bzBhc2JXQndkWHI2REJVSkFB?oc=5",
         "source": "Yellow.com",
         "published_hkt": "08/21 03:04",
-        "related": []
-      },
-      {
-        "title": "以太幣逼近2,500美元 主流交易所現貨成交激增4倍",
-        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQWk50bjVleG1hVF9SRjhyY0QwR1dXMUF3Sk54S1ZJU2NKS0tubm5wV1hQaHhETnFLNGJQaV8xcFpiejMwZE1xOXFlQ3d6UncyWko3aDBYOXNaU19VcVItc2NLZVB0aVdQMS12WGsxRk10U3dhSVlWeXF4aVp3WnhHUEhnUnVBZ3ZHbTNLa3dKWW5GQWdMbnlLQ05RTDV2RWlwN2JYUlJDVkhiTjNnN0ZIdU9YMG9LZVl3dTdiWGRhdm5VOTluREhQSHZ5bjhDOWd2cVlPeDhtXzN1UkpYSnJ2MHF3Z096MUY0dXl2Q0dxdDROcHlrMlFSeFhaV0o5eGx2UFJHd1NBSUNuVGFjd3Q5TDJRUDktZkdDNGEtd0ItTTZMWnBUVm45MzgwV29vRjkw?oc=5",
-        "source": "Yellow.com",
-        "published_hkt": "08/21 03:03",
         "related": []
       }
     ]

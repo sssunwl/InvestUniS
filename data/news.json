@@ -27,7 +27,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-24 10:08 HKT",
+      "updated_at": "2026-08-24 10:20 HKT",
       "news": [
         {
           "title": "標普500恐跌15%至20%？策略師警告：美債殖利率逼近5%恐引爆股市「去風險」",
@@ -39,20 +39,18 @@
           ]
         },
         {
+          "title": "美股盤後｜美經濟不著陸？加密貨幣與銅概念股領跑大盤 0824｜豐雲學堂 2026 年 08 月",
+          "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNalBMYVZKUXZGNTF5bXEwZWxfeEF4MDc1MzRrT3ltWlhBRHFnRVd4SmFIQUJ6Sks4dHZaOTBsZnlwcFZUT3lFbGtPc1BnTHJsU01zUmJQZXhvc2ZUVVRXM2NqS3RPeVlUYWdNNlpMXzNJSm41U3J5ek5Hb0JQTHYzY2dSeUM2MGdXcURTTkt6bENlX2wzZ1V4OUhuTDJKcUlLcGIyVTQ2RWxNRk5hblV0MU1CaEJJRTUyUy1ibFpKQnJfdVFyNkZ3OXUxV0x2NDVKakpWTjY0QXdoaDB3S0RxWS0wcDhWb2VXcmVRREhHbWJYZWhOM3h1Z1pkYlEyMXBKWndYcE91azNaYkpjZzcxMHB0amFjSkRQNVYwOVIwQk84Yk5wWVoyTXFUTkN5VVJtaEZjZEZzenBhMVliY3JYSnRyOHg5NjRlTnRWM2ZFb1pwanBFZ2tXbjc3RkhFSlJPUWNwT1lZRjNnRXhfQnQweXlBOHM3UlczbS1qMzJsVHNWOGp6ZDdlMDZxTHdpbVEyVmRJQ3hkeS1MZkRPUHI3VG13?oc=5",
+          "source": "sinotrade.com.tw",
+          "published_hkt": "08/24 09:07",
+          "related": []
+        },
+        {
           "title": "【即時新聞】拼多多(PDD)與小鵬汽車(XPEV)將發布財報，週一盤前這3檔業績受矚目",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZHlPV3I2d2traEduaFVWNnlhR0t6ZF9BSUtPNUd6TmRpYnBubXhBa05nOXdkV2RBTDZKWFdScmtQb0hJWkZOM3dHNTMtYkhRZzY3RjQ3UjZWcUVBM21uVzFUVzhBbURmcmVMQlZYd2VyazFINnFucU4zQ2Z3c0p3WUdfS3U4cE1ZSENtZVNhaFg?oc=5",
           "source": "CMoney投資網誌",
           "published_hkt": "08/24 07:47",
           "related": []
-        },
-        {
-          "title": "輝達財報、聯準會論壇與地緣政治牽動美股本週動向",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1INjNVd0NZQkVlMk4wYU5sUE9PbzRrZzZYWHQtMGdQUW5EbzlFVzcxem0zLVhDRFZjaVY0SVZ5OVZZWkR2VEpwaTJLMzIwVkQ2aFE?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "08/24 07:38",
-          "related": [
-            "NVDA"
-          ]
         }
       ]
     }
@@ -244,7 +242,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-24 10:08 HKT",
+    "updated_at": "2026-08-24 10:20 HKT",
     "news": [
       {
         "title": "比特幣站回7.7萬美元、以太坊漲幅領先！全網爆倉3.9億鎂，恐慌指數續回升",
@@ -257,18 +255,16 @@
         ]
       },
       {
-        "title": "比特幣跌破6.4萬美元關卡 美國證管會將推動加密資產新監管",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZZnd4TFNUSjhtSmQ5QjFwTXdmWEZuTUY1V053M202R2pIOVJ1SU5SNE91dThQdnZpS3NzRUJBOW55RTY2Wm05aHA4cw?oc=5",
-        "source": "樂聯網",
-        "published_hkt": "08/24 08:15",
-        "related": [
-          "BTC"
-        ]
+        "title": "Coinbase股價單日飆漲11% 美國證管會政策轉向大利多",
+        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPQWo4TWRlRm9BbHhjSVpfOGRZSGVTblFaMDR0ZzZDU1VYalo5TjNibnpxUEpSZUhBcVpudnRxeVNUTDlua2pqb2xGbUtYTHN3SW5rNVVrek1RMVNMZlZ3MlZGeHFDRFMxZmhRMWRoOC1xSnBKR1JaY3FiZlZMY2FyMGJBaTVxY19iZE5weVoxZzJwSGUtZmtGdTBlY25pTWhINnBfTVJtM0RfOUo4TzNvR2ZNQm0yeHpLV0hQVmdVcjg1elNaOWszbG84TlRPQnJybEVoRzFwMmZQWkYzUnFNeWJlY0pTdHJ4SjE2d012TV82NEJsOG1qV2F6QnJIWndfOUdkLUpmaE5wS3lQZ3ZqU3lNQWt1MkczUUtVSGw1UFBmOHFqaklYUTlFVkRGQQ?oc=5",
+        "source": "Life 生活網",
+        "published_hkt": "08/24 09:11",
+        "related": []
       },
       {
-        "title": "金色早報丨OpenAI查出3處Codex額度額外消耗 內蒙古烏蘭察布規劃12.5GW數據中心",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95XzFkMDg5aExxWWFIdDU2c1dnOWxzMVlZTl9tWUI1dXhfOWZsOFNYWFpZNWx3c2MxcGtFclBiZmZNTVNRLUVjUW1jN2F0dVk?oc=5",
-        "source": "news.cnyes.com",
+        "title": "CONK 今日價格：台灣的 CONK 兌 TWD 實時價格圖表和市場數據",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFYjMxRWtXY2RsdUJRa1RXV2F0TmRFcGRWQ0o2eTRLZE1nTnIyZlVPNnMyOEItNzgwVmFyZEhsMUZ4ZWRLSEVQTF9LZi1jZw?oc=5",
+        "source": "MEXC",
         "published_hkt": "08/24 08:00",
         "related": []
       }

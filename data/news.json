@@ -89,31 +89,32 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-24 17:11 HKT",
+      "updated_at": "2026-08-24 21:54 HKT",
       "news": [
         {
-          "title": "港股低收492點 阿里巴巴急挫近9%收市",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oWVpXbVJnYWJUbEQ2UllvQWdoMkZnZURNeXEyeHVreko0YnRRZWVxUnl6WDJWZHVyYVJET0lmUF9ORUM1Zm1pODljRjlwRTI1WE5Mc3o3a2xqdXVJV3ByczlHbVVVOFFzWkVBeDdHbw?oc=5",
-          "source": "香港電台新聞網",
-          "published_hkt": "08/24 16:49",
+          "title": "【港股收市】阿里巴巴股價大跌逾8% 恒指跌492點智譜、MINIMAX跌挫一成（不斷更新）",
+          "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxQdFp0RGVzcG9icEhTNXpUZ2RZZmxEdkpsT2M1MmRpbTNUeENicjNnZjQ4Qld2dl9BUk5QNmZjTVNVV0R1cmFyQ01KcEc2VDFwR00tSU9wZ3RJZ1pCQWxSTlBjenZ1em9DcDdjVlFYTWdodkF4bEZ2X0pqczgwZ2d1V3ZZWkVfbDFHRjFwWk9RRHE2WWxad3U3QXpkaE1VZFdIN2hua1JCVEVrTmdndWYtSUlKa2tXd3I2YVZhRzc0WlF6TDkyUG9NampJcG1aMVE4ZndzVzVIQ1lUU2VOZnBfT3lyVjlsZXYxSktHalB4WmVfWmdNMG4zekEtdE15cnhOWjMzYkxKRjFsVDdUNkVVNnRxNmxSUUlzUjJVRGVFTzJiRzU3bmRNU1VWeDc1aW5hMnd0RVQyTzJTbWNGQXN1RGtGXzZ2Unh6cG94NEg2REZ6U1ZKMm5BLV9ZME1JVTVjQzhTOUI2WGU0N29xckFtQkF3bFlGZmdJbHpZNVZmTU0td1VzdDBMaEo5UlpwY19vNnc5YmQ5Y3NBSmx1dW8wdUxYRDV1SDBDbmU2SC1jNjJOUElOcHZaLU4tZEVEZFZ6M3FHSlVsYUNLOE03bGk0TE0wVWJ6Z1FFNHdTYUlyMDlFbUp6S3VIdktHVThlaDI1Qnd3Y1I1TzA?oc=5",
+          "source": "香港經濟日報HKET",
+          "published_hkt": "08/24 19:04",
           "related": [
+            "^HSI",
             "9988.HK"
           ]
         },
         {
-          "title": "〈港股盤後〉阿里重挫領跌 恒指低開低走下跌1..89%",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10bk8xNmlqUGhVUkxTRkNzZnBqdkNrZ2x5VUZFdGtDNlN0WFdUc2dwVm40RXh4WjV4NzFIaHh3VTVMd1BHZ1RWaDB4UmdJMmc?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "08/24 16:43",
+          "title": "HSI港股一手好牌被打爛 阿里「處暑」抽水累街坊|香港經濟日報",
+          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNcl9INUVHMDl1c0JMZUk0eG1EWkF0alhOM0w2cDAyb0dQOURlbEV5aFZFenFpVjVGbkhWeWtud3otWDlMVTlGM3dqWTMzeUJJQ0dQWUM0WkZ1dXlPT1dEZnpialNNWnhDZnBTNy1GS2dCYWFqVGpPOG9HR3BpSlYxeFdFWlhMZlhxQkR6TDdCVTBEdGgwWng5bDRpTk5tODBWRXB1LUpmVHdfYVp0eDgzSUFPcUxGbm9hdkRycEs1QzNtR1NwY2EyMDI4TVlpbk1IU0hqeWhGUVBEWjVueDlWMlh0dVlweENOS2RXLWdyWUdHYk1fd00zYjVBWnh5SkpHUUxLNFpjVUVaVXJPdllOQlJDZk1ReS0ycC0xVkh6YkgxcUtzWkszeWRmZ243YjZzZWdCN3lsallQMWJPbjh2eVlmemU4WHFkM1E?oc=5",
+          "source": "香港經濟日報HKET",
+          "published_hkt": "08/24 18:29",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "恒指走勢丨埋單跌492點 阿里挫8.5%藍籌最傷",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UVkFnX3BUdGZfY1V4Y3VZVGVld1JRQWpxeW1tVHhsbFc1cVl1dmJZWUxYdlpmLUZERUVyTVpxVlNZUVlRdzlRR0Y4MXZJY3pBNENDOU9iMnVCNU1kWnVKZkdGQ3QzV0JRTkd0SWFTdw?oc=5",
-          "source": "信報網站",
-          "published_hkt": "08/24 16:40",
+          "title": "【港股收市】恒指退守25500點水平阿里抽水影響需關注- 投資",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZNkVJcXNweERMRWllaW11d1JNVzhwOVphTVVZNDh2eGR5ZS1QVG56U1pianBrSzBmZlhvTEZkdzc3a2wyd2ZrUVpHalh6MEdjdEQ3V01LZHFLaGw0bUtIc3Nwa1JTSUVGakZmV1RKQzl3NkhUZ3pv?oc=5",
+          "source": "香港文匯報",
+          "published_hkt": "08/24 17:44",
           "related": [
             "^HSI"
           ]
@@ -151,32 +152,30 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-24 17:11 HKT",
+      "updated_at": "2026-08-24 21:54 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數- AI終端應用爆發，引領台廠高階硬體升級商機- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlbHRXTEk2LTFwZ1Y1MGplOWlYMDJseGl1UHg0ZTZrOUs2RUdEbHM3b2FaT0dCeFB3QmFXVzQzdzBlbnFteFc1RTlqYnN5emo3bE43QlFzeFI?oc=5",
-          "source": "CMoney",
-          "published_hkt": "08/24 16:32",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數- 七月鴨仔不知死活- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRdy1ZNk1MUDJuNTR0ODF3VGdIaU14VzcxOHRnMlZuVHNXeFdxekhYanl6anJrMkZXLTBMVV9ZeGozYTdYb2xqUnA0bjlBZjhIZlVVSGtXRzI?oc=5",
-          "source": "CMoney",
-          "published_hkt": "08/24 16:24",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "台股資金退場跡象曝光？專家示警1狀況比暴跌更毛：曬對帳單的人開始少了 | 張庭維 | 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NbTZDczhCSEJNVmFEWE1ldHdpa2R5UHpScExyaVZoa3p1LUlXOU03Vy1JMFQ0RV8tdnJ0LWNiX3JCYmsyN1lTUW4wSnJXdw?oc=5",
-          "source": "風傳媒",
-          "published_hkt": "08/24 16:11",
+          "title": "台股ETF上周受益人再增14萬！這三檔各據山頭| 2026九合一選舉",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WMUN4ZmpWRHdVZTROano1RWIxOTJfWUpfUUFWcUE1Wm0wZHROOU5WTVU4dGhaWjRXMDhyVC1OaTYzSHF6UWp5MDV4cHo4RExvMEM2bXZB?oc=5",
+          "source": "UDN",
+          "published_hkt": "08/24 19:25",
           "related": []
+        },
+        {
+          "title": "台股跌逾460點失守季線、成交量創8月新低 一族群逆勢走紅",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qQkl2Q0pZTnltVmlIWms3c29TZFZ2WXkwaG05VFEyWl9UaFpHQnNMN0pHdVVLaUhQVXIzQmJJRk5HbzB2YzdjeXJBNndZenB5UkNsenhJWXBSRkh1bThqNVpHV2xjbmh1ckNoNEMzOHVnMU0?oc=5",
+          "source": "民報",
+          "published_hkt": "08/24 18:44",
+          "related": []
+        },
+        {
+          "title": "TWA00 加權指數- 〈台幣〉量縮狹幅震盪貶值0.6分收31.854元 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lSjJUaGZ6dHpfWTFsTkYxMGw1blVHcG5Denp2YWotbHhTb180V2l2bm5vNURXckU5NjAwWERNNWhoSzloa3VuVXo5bUw0cUQ2cldYenBWRmM?oc=5",
+          "source": "CMoney",
+          "published_hkt": "08/24 18:40",
+          "related": [
+            "^TWII"
+          ]
         }
       ]
     }
@@ -209,17 +208,8 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-24 17:11 HKT",
+      "updated_at": "2026-08-24 21:54 HKT",
       "news": [
-        {
-          "title": "恒指收市跌492點 北水流入116億 阿里跌8.5% (16:12) - 20260824 - 即時財經新聞",
-          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOdHF4M3J1LVB5ZnVDVzhjcmVBaEtaQ19oWWtCTF9EMGFFTENjbWo0bWNOdVlNdWV2bXhWUTBmWU5oVHhwdmNxQmFqeVZGTVBJZ2hRRXJsZ2pWNFprdmZrUDdIOVN1MjdKN3FzWkpxdmxzZjk1VUFSY1NqMFB1d0VxUk5odzBpaG00Vlg3R2hKbU5yWVpRS0ExMmNabUM0a2NZYzZLblh4NldSbjA0QnJKVkpFT3U0UUpFSWF6LUdTRDNNMDI0LWtaczFLa09lVldPWGZCX0R5SVlKR1YybzA1UFh4aUdPT3JwYngyZmJfUXBJUnZlRERjRWZGdGVmZzhuVFRSQ2R3empmVURFb3ZsUGstUXMwbk1JdkJNNDZJd3FqWGhLTVhEZw?oc=5",
-          "source": "明報財經網",
-          "published_hkt": "08/24 16:19",
-          "related": [
-            "^HSI"
-          ]
-        },
         {
           "title": "《日股》AI股遭拋售 日經收盤跌0.73%",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV05RTnV3T3RCclAta3F0QzF5NEpVc2RNcy1MeWtUM2pEMjdoU2NxMGtFZG56RkMxTzI2c1BJa1lIbkF2US1VZ200bExzUE5kdWZMb1VNUmJMakU3dEhLc09jOG1UUnhuTzNCdEtXVWo0dmRqTnBMbzlYNE54VDBIcy1tT0g2b0xn?oc=5",
@@ -230,42 +220,51 @@
           ]
         },
         {
-          "title": "《台股盤後》量再縮、收跌461點，季線又失守- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUVl3UmVZakZza3d5cmZVUWp6WVkyNFNSeUNlUjhnX3hQek9RbktMTGczLV9EMXlyM0RKVFNwSDRQalhZQlFyT2NOWDBNc0s1T3UzcmZpVWhpcHJQZ2xZM0RxRGU1NXRnd0lWZEhiZkM0WUxfblI0OE9GVFVyR0lVYUFXcGVkdmFmR0VVaWhqdzJVQQ?oc=5",
-          "source": "MoneyDJ",
-          "published_hkt": "08/24 15:50",
+          "title": "美經濟數據佳但科技股承壓日股走勢分歧| 全球財經| 全球",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10SmduUjFYVFF6cVplMFpoUmF5S1JfWmNfMndkbHN2NHBTWm5hQlp4Wkw4YkRPWkRUQVE3MkI5SDdPRkRkdWowYjlpZnhxLXhw?oc=5",
+          "source": "UDN",
+          "published_hkt": "08/24 15:47",
+          "related": []
+        },
+        {
+          "title": "美經濟數據佳但科技股承壓日股走勢分歧| 全球財經| 全球",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrYTBwOHM1d3pScElIZFVpRi1IMTlFWTdJRGdGNHdlZ2lrbmdxOVZaMllKQWI0MWE1NjVhcDM5NUxzaUpvcFZVMlFuYkdRTG84ZHd3S2xwalhPYWdhYWhOVlhwLVNKVFdfbUU2Z2NoVTk2UQ?oc=5",
+          "source": "UDN",
+          "published_hkt": "08/24 15:47",
           "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-08-24 17:11 HKT",
+    "updated_at": "2026-08-24 21:54 HKT",
     "news": [
       {
-        "title": "以太幣急升多日後受阻 2,550 美元 升勢首迎關鍵考驗",
-        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQY21adFV1ZFVuR0xvblNIcmpRbHowOUY4N1EtOGd4UGlabjJxMEVHMUYzVEpBVG9CY1ZfZ202UkQ4UUxiQjI0TW53NGx6bXBQM3pJVHQyOFR2VHlmQ0Z3QVdtS0hSVWR2Z1dTS1hhV3J0VnM1ZEh3dHV0WlZBRi1hOEl6VmRYMlo3RGlEaDFXelBSXzd1V0dtR3dVYm5GbDNjck9lZ1p2eGw2VHZpWG5ORkU1SFN0c2xHcWdvbW96UXo0aE1BREYtUnVHanR4REgyUktOYzQ5dWhZME1ON2w1RUZxbGFYNldmT1VMSlpJaGhXS0J1WTlUa2RGalRlVVZ2V2hWUHF1UjB6dzByZDJ6T2hLbU9TODJ3VWtQZzh1akpuUEE0OGNPV2REVXAwWVV2ck1CZVdNQl9tQmZUa3c?oc=5",
+        "title": "比特幣短線突破 7.9 萬鎂、以太坊站上 $2500！全網 24 小時爆倉近 3.8 億美元",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3lONnlpSGdpanQwOEc1UXM5VXdLbUN2UzJFWk5uZlN2cFIxRGc2eDBSdmpycmV0eDF4ak5kQ3R1LXJJSHE5V3ZEUVdNdmNwd0lIT0hhcndLMkVrczg0ZEY5LTVwWEpjOTFIcW1XckVZTXg5QkVVT0NzUEtUNDdka1N5dFo?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "08/24 21:17",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
+      {
+        "title": "貝森特盯上萬億美元「應急資金池」擬為美債買單，市場短線提振，比特幣、以太坊、黃金，美債全線上漲",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04SjlOdTdQUzhPcE94WkplLWM3Nm1nd0FnU3FkSVpmOWhwWnNkSWlITW13WXFOVTUzNjBhYlRzWE12MEZ6SGYzOVlITQ?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "08/24 20:30",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
+      {
+        "title": "Cardano審議CIP-0197方案 為ADA錢包預備應對量子風險",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPRTFybTlHVXNhY3E2aHFuUGQ2STJnanFReVM1WmloUTZrMkh4bmpWc3VhUWJGSXc1Q3VTTlRpYnhnT2VpRHVzUzh3UXNDY2FBZTFPT0hPUlNtSW9RbjFWbG9RVk9kYVl4YjBjUDVLNFlfSWJCYzF1OU1EMjdBeWtoSkxlR2c2b01QQ2EtNXJLZmc4emRCUGM3R2gwOXVlOVdGNl80clBQdlktblRzRl9Oa2NjNDVTNmg3eXFiUnhoTXVjZHBJRXVBZFpwT1EzVWxUQVY5Yl9JN0NjeG1hemNUdHVESTFmWFdYTzlFZGF6RlpHOGV5aVhIT1BwWE9wWVF3RUdSbFNOQldRSjUtODZldjB3?oc=5",
         "source": "Yellow.com",
-        "published_hkt": "08/24 15:51",
+        "published_hkt": "08/24 19:15",
         "related": []
-      },
-      {
-        "title": "比特幣價格預測：BTC衝破8萬美元大關，意味著什麼？",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa0JjYnlZRjdVRTJqSGJWVXBoclIybFlxOEFqNVVfZGJhdGdVLWNuNVJfRXgxN2F4cmo2YlFldjVsV2hUUnc4LU9LNHYyZmxFSzd2dUVGeGZWZE9samVtM2I4TjAycy1QRjNoeDhvbEJ3VGw4bUpoMnZOd1hMZFdXTmMwTWpBdXRabUE5YVhrQWQ3UlB5NXh3VGE0V3h6aGhudHpldXhjYkFuR1RzZko3QmFQNEF0WDRNT1ZtcU1rVTRLdzA1ZjVHOHV1N1RVbnYtelE?oc=5",
-        "source": "TradingKey",
-        "published_hkt": "08/24 15:31",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "加密貨幣週報 | 比特幣大漲23%至$7.76萬；創紀錄的$27億空頭擠壓；美國監管突破在即",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZzZmY2pzVUQ1ZHJUX01NZ3Z6NW1OUzBsc0hMYl9XUEdSV3luYWxSbWh5dV9oaHRLc09DZ0lWaE9nOWkwOXhELUpuVVE4S2dhWUhmX2t0ZDVPemVoRnBzMEFmRm1OdzB1alRhTGdFTTItb1FyYlVoZ2JBaFZyTEFySlZsXzhfdmJOMTc1WTRlejJ6cC1QZkFaM3RKTjFtNld6M1RLTHItNEZFZnJiOExyR1FHNA?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "08/24 15:17",
-        "related": [
-          "BTC"
-        ]
       }
     ]
   }

@@ -27,31 +27,32 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-25 07:41 HKT",
+      "updated_at": "2026-08-25 10:03 HKT",
       "news": [
         {
-          "title": "市場準備迎接輝達財報 美股漲跌互見、台積電ADR跌2.11％ | 中廣新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnN0puOW44XzB2eHUzdTNHRk13SXlVSm9wRWdMd0NQeTMtQnpfUkgzUHBsTFJOUno4N1Q0Q2sybGNKV1FRQklhNmNzQkVvclFIajFFNGlB?oc=5",
-          "source": "LINE TODAY",
-          "published_hkt": "08/25 07:26",
+          "title": "快新聞／美股走弱！台股早盤下挫358點 台積電開盤價曝光",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iLXFkQkh6ZzN2amVrTHNteFlWZ3Brb3RVTHlvd0dVTTc3c1hNcEY3RHlPR25xa0c5clFFczF5Sy1yTF9RemhFaGZGUDBGa0FvMzM1Zzh5S0dFSi04TjVxcjEta2FYUQ?oc=5",
+          "source": "民視財經網",
+          "published_hkt": "08/25 09:08",
           "related": [
-            "NVDA",
             "TSM"
           ]
         },
         {
-          "title": "總能源公司揭示：以折扣油運輸霍爾木茲海峽獲利，市場反應不容小覷！",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcEV1RWxiTkE4VS1SaUJYeGV1OWZ2Yl9Pbk5lc2JySXNhU0tvZDRaTVZ4cVhnblpyU1luWndBcFJnaENWOWlPQTNLRGFyQVRJOTh0OEwzS09BSGp0Sk5objVOSFE1eldsVkh2Qml6WEpkNHAxT0xIOFM3Qk9Hc2VqV3JxRzlXZ2RHeURHOGx5WWFhbUVBTlZnM2VIdDRaVnNic3R2VkZmSXlEUTVQUHpVOG1taHAyb2pCSDg4MVIyUUpIMlBvV0VHbTRxZHZhcVU?oc=5",
-          "source": "CMoney投資網誌",
-          "published_hkt": "08/25 07:22",
+          "title": "《金融》助攻美股投資 兆豐證券開放「美股盤前交易」功能",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQnVkQkNyYXVEVXdmLXh5ZDJCNWlhN1dBM19yQ1Fka0g4WDM1QTJrWkRPLUFDNk5fakY1MFloSmJpMXVwTmxRYlp6RDRxM1hEbXdneDVnVkRZRXVnMHdTV0NfZDZXYmM1S1JPX0VtUXR0TWZ1REI2ek1LOTYtTHFNSkYwTlk0Ymtv?oc=5",
+          "source": "富聯網",
+          "published_hkt": "08/25 08:54",
           "related": []
         },
         {
-          "title": "美銀警告美股恐回檔逾10%！民主黨若奪參院「AI」與「金融股」將成避險焦點",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2S3lVbVpRVy01S25wQ3FsMkpINVhJNlk3d0MyenZuMnFJVmNiSWtESnRZU3p4Z3l3dWp1cy0wWTMyd3Q5RmhYVkxDZUgtd2c?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "08/25 07:14",
-          "related": []
+          "title": "市場權衡美經濟施壓伊朗! 美股主指多收跌、台積電ADR下挫2.11％",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yUWkzcHNkTDJVM0IyM21uWjdKUkxLZGlQM29uNmVscElHLXNjejJGWk13RXRGM0xlaXFQNkdtVVRtUVZGN09SMXdadDlub3F6eHc5SlFsYVluR2s?oc=5",
+          "source": "Newtalk新聞",
+          "published_hkt": "08/25 08:31",
+          "related": [
+            "TSM"
+          ]
         }
       ]
     }
@@ -240,32 +241,36 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-25 07:41 HKT",
+    "updated_at": "2026-08-25 10:03 HKT",
     "news": [
       {
-        "title": "比特幣逼近 8 萬美元大關 劇烈波動下崩盤風險受關注",
-        "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPWE1McU01X0VENzRjNFdDc1VjMzREU0NYMVNEaERHcVBueGVCQXI2ZTIwZTZGNTc3bEl2QVpIWE56QVdFblpvWWo3VVU2WktKVjdkVmFZam5UOTBKb052Tk83YmptNklCWHF6eVlJUWdaemljSDBaakxYSEVSQy1seEVuaDRZN18zMmk4RWJrMW0zaHAyOEZSNmxiaTZYV0dnSVBISjA3aDNxYnFyVWZOZ1lSV05lZkdvUmFtQmF4WFFpYWZQMUUtLV9rMDRUN004VnhsMjI0QVZyVDNsNkowWjkxaHlmckxqU0VoVUZqOTRaQWo2dXZKMDNMRVNYdGZQeHF5YWxrYjlmNFNnRFRNQmxxR2t5aUJqblJvRGt0X2ZrR0lydk9PQ0RoMngtNmhTT0doanBGZnJVUC1uODVGLUNPN1EySkNlV0RlVTBfRHdaX3E3R3Q4Y2g0VmtDUG85blZvMlZHcExyQlNHZ21zbldPdmE?oc=5",
-        "source": "商傳媒",
+        "title": "比特幣逼8萬美元大關、以太坊站穩2500！全網爆倉4.22億鎂、貪婪指數續回升",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMnFGOVBkUmhCbG0zekplLVQ2bTZydnZKX3pGcW1ld1BZbkVWZF91OHdqRVZ0TDNvR29JMHgyeDM0Qzhyc0U5TXQ1NzRMUVhieGluMVZHOUgwM3BCRHhpbGlGckZCU3lWYXJVOUhEN1RrbEdFc0ptRXhBd1lCcXQ2akJB?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "08/25 09:22",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
+      {
+        "title": "比特幣逼近 8 萬美元大關 劇烈波動下崩盤風險受關注 - 財經新聞 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQWE4ZlFFMUZRUUlqeHJBb254enRmREhtMUlDVU5uYWpXMWIxTDIyZS1vTzY4M0hEZGxNb3RvWVlReDV6ZkVCMkRVMVNTVGQ1ZVRmLVBMTU12Tk1EdEdaclZ0LVM5QldQNm5PTGRCdW8xdTVROTBkTkZNLXlTVENCWUFNb2V6ekc5SlB0YQ?oc=5",
+        "source": "PChome Online 新聞",
         "published_hkt": "08/25 07:37",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "Strategy籌集20億美元，暫停比特幣購買",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbWlNZTVNdnZ4RXV0WmF5ckJFaldkbGF1OXE2MlkxcTRpQmFfMkNjYTdxRDdKVFdUaDh0WWVQMFFlMFlYQVptWkRHMjlkNUtxU3lQalgyODNwOUxuUGE1ZVFKWDhzVm8td3FlTWNJbWkwZnFxWWJOcGFzd21Ma2Jyd1pndnFtbHQ1NEJubXRNMzQyZVZrckdyM1U5c1NnYlkyWEVkRERvMFZmVlR2ZWRLU2ZPZ213QTBQaUHSAboBQVVfeXFMTW1pTWU1TXZ2eEV1dFpheXJCRWpXZGxhdTlxNjJZMXE0aUJhXzJDY2E3cUQ3SlRXVGg4dFllUDBRZTBZWEFabVpERzI5ZDVLcVN5UGpYMjgzcDlMblBhNWVRSlg4c1ZvLXdxZU1jSW1pMGZxcVliTnBhc3dtTGticndaZ3ZxbWx0NTRCbm10TTM0MmVWa3JHcjNVOXNTZ2JZMlhFZEREbzBWZlZUdmVkS1NmT2dtd0EwUGlB?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "08/25 03:46",
+        "title": "隔夜美股| 三大指數漲跌不一比特幣、黃金延續上週漲勢英偉達(NVDA.US)跌近3% 提供者智通財經",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR3VYYklOUFE3TFBBYTFkSVU1alZTQUJjNzBjNzhYeHV4STd3ZHd1bld3ajU2NXpaa1pYbTFSSzZFUExiNGlLaml3enVFUHQyTzJaWkxxZXFwN21fMkdCeEVrQ0JsODlVYjlEYlNxZGJtQnotLUJkUEpwUFhfWkZBTA?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "08/25 06:49",
         "related": [
+          "NVDA",
           "BTC"
         ]
-      },
-      {
-        "title": "這是XRP的最終底部嗎？",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ0ZkWGVLWENWaHpwUENkZHZsMElOUzZmSjM3eWxYclJlcnBOMXR6ZmJqSlQ3a3dfOXA3dmw5RjAtM2tETmRmV1E1dmhhNzFxUE4zZjlYR3hGcHFDLW5MN1ZGZG9ZWTFJZnVodl9pOE9JNTZ6XzNCRjdmcC1ucXJCMWVmMXJuc2pKR3RWMy1vX1hldkFObkxLdVJfQ1loRmxzb1NfOG9sVks1X0liRXlEMkVUSzVVcWxMc3hWaEpEYW9FUUJNTmF6VtIByAFBVV95cUxNZ0ZkWGVLWENWaHpwUENkZHZsMElOUzZmSjM3eWxYclJlcnBOMXR6ZmJqSlQ3a3dfOXA3dmw5RjAtM2tETmRmV1E1dmhhNzFxUE4zZjlYR3hGcHFDLW5MN1ZGZG9ZWTFJZnVodl9pOE9JNTZ6XzNCRjdmcC1ucXJCMWVmMXJuc2pKR3RWMy1vX1hldkFObkxLdVJfQ1loRmxzb1NfOG9sVks1X0liRXlEMkVUSzVVcWxMc3hWaEpEYW9FUUJNTmF6Vg?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "08/25 01:01",
-        "related": []
       }
     ]
   }

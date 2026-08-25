@@ -154,27 +154,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-24 21:54 HKT",
+      "updated_at": "2026-08-25 14:56 HKT",
       "news": [
         {
-          "title": "台股ETF上周受益人再增14萬！這三檔各據山頭| 2026九合一選舉",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WMUN4ZmpWRHdVZTROano1RWIxOTJfWUpfUUFWcUE1Wm0wZHROOU5WTVU4dGhaWjRXMDhyVC1OaTYzSHF6UWp5MDV4cHo4RExvMEM2bXZB?oc=5",
-          "source": "UDN",
-          "published_hkt": "08/24 19:25",
+          "title": "星期五適合賣股？抱股過週末，勝率竟高達7成？",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqaU5EOUhpaFV5YnFkd096VDcwTW5jX09DZTdqSFpreWo1T21oRnhCdmdJTkhOMjBiT3B2azBDMmhjQmZoQjhTMzgxQjlWdGF3SEFmbTZOMUR2YlRMYWZsX3ViZFlaR3p0V0k1QmJrUzhBX3pmQjNfZUtuakw?oc=5",
+          "source": "Smart自學網",
+          "published_hkt": "08/25 14:19",
           "related": []
         },
         {
-          "title": "台股跌逾460點失守季線、成交量創8月新低 一族群逆勢走紅",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qQkl2Q0pZTnltVmlIWms3c29TZFZ2WXkwaG05VFEyWl9UaFpHQnNMN0pHdVVLaUhQVXIzQmJJRk5HbzB2YzdjeXJBNndZenB5UkNsenhJWXBSRkh1bThqNVpHV2xjbmh1ckNoNEMzOHVnMU0?oc=5",
-          "source": "民報",
-          "published_hkt": "08/24 18:44",
-          "related": []
-        },
-        {
-          "title": "TWA00 加權指數- 〈台幣〉量縮狹幅震盪貶值0.6分收31.854元 - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lSjJUaGZ6dHpfWTFsTkYxMGw1blVHcG5Denp2YWotbHhTb180V2l2bm5vNURXckU5NjAwWERNNWhoSzloa3VuVXo5bUw0cUQ2cldYenBWRmM?oc=5",
+          "title": "【即時新聞】最新加權指數重挫逾300點，這「4檔權值股」同步遭調節！",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TbDR6SFNVWGJlZFRGeWZwYV8wN2JWN095dFpGWXNUUDFSREdxT3I0OXNyYXJPZllCZkh5X0FfMWhLU3VTQWgwb1gtRHBNMEJLZDNFSjhobmI?oc=5",
           "source": "CMoney",
-          "published_hkt": "08/24 18:40",
+          "published_hkt": "08/25 12:18",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
+          "title": "【即時新聞】最新加權指數重挫逾300點，這「4檔權值股」同步遭調節！",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb0NWb01wdFhPanVuSDFROFJqM2tfYkFjNFJEU0I4cVdHRmktSEZoakxZcWZaRWY5QmFhQnlWMkFEeFZpenJFUDNiY2hYbXJ2d3V5bHJXVWJFOXFrVENaLUdKUEV5WE9RaEcxRzdIeXRZUXJTY3ZEakRqeXBRekNuNGQtWDlwQVNFQU0xeVBYd1I?oc=5",
+          "source": "CMoney投資網誌",
+          "published_hkt": "08/25 12:17",
           "related": [
             "^TWII"
           ]
@@ -241,32 +243,29 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-25 10:15 HKT",
+    "updated_at": "2026-08-25 14:56 HKT",
     "news": [
       {
-        "title": "比特幣逼8萬美元大關、以太坊站穩2500！全網爆倉4.22億鎂、貪婪指數續回升",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMnFGOVBkUmhCbG0zekplLVQ2bTZydnZKX3pGcW1ld1BZbkVWZF91OHdqRVZ0TDNvR29JMHgyeDM0Qzhyc0U5TXQ1NzRMUVhieGluMVZHOUgwM3BCRHhpbGlGckZCU3lWYXJVOUhEN1RrbEdFc0ptRXhBd1lCcXQ2akJB?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "08/25 09:22",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
+        "title": "狗狗幣將走向何方？",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTHA1YUtfWW1kOE5BdlhkcVllMTR6b0prMWxpMGZpNGpPN2VoRWtzamhUY1R0OGQ2TGRMNXl5LUtLNm1xQjJaYnlRU2tlblRvcUt1MDlJelNNTDZHdnVGNEd2Ti1tdWFwOW1leTR6d3dQaV9LcXVwcTRHTUhPR2JJdnlROWdWcXR0QnpHQjZCem5FVXAzWXB6bVkxbEFuTnpMMThiX0Q5YXhxWW8tTmRhcXJuOXc2REp6WTJTc2JRbllOMmdsZk51bng0a01LUGlzSzFEMjFlT3Z6SUdVT1I1djNIVjVJbFhMS2RDQkM5QWVyY05FcWVfTnE3aDhKNTI3VzBCWEVKUFBEREZocDYxV9IBkAJBVV95cUxPTHA1YUtfWW1kOE5BdlhkcVllMTR6b0prMWxpMGZpNGpPN2VoRWtzamhUY1R0OGQ2TGRMNXl5LUtLNm1xQjJaYnlRU2tlblRvcUt1MDlJelNNTDZHdnVGNEd2Ti1tdWFwOW1leTR6d3dQaV9LcXVwcTRHTUhPR2JJdnlROWdWcXR0QnpHQjZCem5FVXAzWXB6bVkxbEFuTnpMMThiX0Q5YXhxWW8tTmRhcXJuOXc2REp6WTJTc2JRbllOMmdsZk51bng0a01LUGlzSzFEMjFlT3Z6SUdVT1I1djNIVjVJbFhMS2RDQkM5QWVyY05FcWVfTnE3aDhKNTI3VzBCWEVKUFBEREZocDYxVw?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "08/25 13:54",
+        "related": []
       },
       {
-        "title": "宏觀轉向引爆加密資產全面反彈 比特幣三日狂飆逾20%創2023年來最大漲幅 提供者 智通財經",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWXM0bVhZZHU3QnBkWGtnSWs1MmpkYmFYSTl2aVhLRVJiOUljb3VXdUpfUU5qS1gtR3RGSWdyS3pXalBwQ1cwc1JZUnhybHpRamxjNlZ0NVpGYTJJRHNFc3JPZmMzSE54czA4bXducmFFVGExRnpNNlhtdHdqTEstSQ?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "08/25 09:20",
+        "title": "比特幣大漲超4%！價格突破8萬美元！突破10萬美元關口指日可待？",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1cFVUNGwtRElhdkUzZEtjbVJDMWJPRVdkQUU3WGgyejNGb1ZpVFVBQmhMZk1CZ05PYjE1Ylp3dG5XcXhsdTJYeGpWaEt2a2dRWThTakxn?oc=5",
+        "source": "TOP1markets",
+        "published_hkt": "08/25 11:22",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "比特幣逼近 8 萬美元大關 劇烈波動下崩盤風險受關注 - 財經新聞 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQWE4ZlFFMUZRUUlqeHJBb254enRmREhtMUlDVU5uYWpXMWIxTDIyZS1vTzY4M0hEZGxNb3RvWVlReDV6ZkVCMkRVMVNTVGQ1ZVRmLVBMTU12Tk1EdEdaclZ0LVM5QldQNm5PTGRCdW8xdTVROTBkTkZNLXlTVENCWUFNb2V6ekc5SlB0YQ?oc=5",
-        "source": "PChome Online 新聞",
-        "published_hkt": "08/25 07:37",
+        "title": "比特幣牛來了，人沒了？帶你看2026幣圈的四次人口遷徙",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjMkpBNnRBY2EtXzJTdHRVeUQ1TXdwelFlNEFiUlVNYWpVbExhQWgyUnlRR1BZZHg4YUktbmZxRWpuUUgyenkxU3FCZGszTFVTclFlanZFSUZKcDlESGgwYjlNQWZFYTRvSjZPT3hDR2FxQnoyR2pkQg?oc=5",
+        "source": "加密城市CryptoCity",
+        "published_hkt": "08/25 11:07",
         "related": [
           "BTC"
         ]

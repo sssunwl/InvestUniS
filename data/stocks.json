@@ -1,36 +1,36 @@
 {
-  "updated_at": "2026-08-26 17:34 HKT",
+  "updated_at": "2026-08-26 22:41 HKT",
   "us": {
     "stocks": [
       {
         "symbol": "MU",
-        "price": "$933.0",
-        "pct": "+2.48%",
+        "price": "$935.5",
+        "pct": "+0.27%",
         "dir": "up"
       },
       {
         "symbol": "NVDA",
-        "price": "$213.1",
-        "pct": "+2.19%",
-        "dir": "up"
-      },
-      {
-        "symbol": "AAPL",
-        "price": "$309.9",
-        "pct": "-0.14%",
+        "price": "$210.7",
+        "pct": "-1.09%",
         "dir": "dn"
       },
       {
-        "symbol": "TSLA",
-        "price": "$350.2",
-        "pct": "+0.37%",
+        "symbol": "AAPL",
+        "price": "$312.4",
+        "pct": "+0.80%",
         "dir": "up"
       },
       {
+        "symbol": "TSLA",
+        "price": "$346.3",
+        "pct": "-1.12%",
+        "dir": "dn"
+      },
+      {
         "symbol": "SPY",
-        "price": "$765.9",
-        "pct": "+0.32%",
-        "dir": "up"
+        "price": "$765.4",
+        "pct": "-0.07%",
+        "dir": "dn"
       }
     ]
   },
@@ -140,32 +140,32 @@
     "stocks": [
       {
         "symbol": "BTC",
-        "price": "$78,532",
-        "pct": "-1.71%",
+        "price": "$78,136",
+        "pct": "-1.24%",
         "dir": "dn"
       },
       {
         "symbol": "ETH",
-        "price": "$2,451.0",
-        "pct": "-1.54%",
+        "price": "$2,449.9",
+        "pct": "-0.97%",
         "dir": "dn"
       },
       {
         "symbol": "BNB",
-        "price": "$695.6",
-        "pct": "-1.06%",
-        "dir": "dn"
+        "price": "$698.3",
+        "pct": "+0.09%",
+        "dir": "up"
       },
       {
         "symbol": "SOL",
-        "price": "$96.35",
-        "pct": "-4.03%",
+        "price": "$95.91",
+        "pct": "-2.20%",
         "dir": "dn"
       },
       {
         "symbol": "XRP",
-        "price": "$1.42",
-        "pct": "-5.03%",
+        "price": "$1.38",
+        "pct": "-6.21%",
         "dir": "dn"
       }
     ]

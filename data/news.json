@@ -155,7 +155,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-26 14:57 HKT",
+      "updated_at": "2026-08-26 15:35 HKT",
       "news": [
         {
           "title": "TWA00 加權指數- 看到大家都解套了- 股市爆料同學會",
@@ -217,34 +217,38 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-25 21:53 HKT",
+      "updated_at": "2026-08-26 15:35 HKT",
       "news": [
         {
-          "title": "金融股扛起多頭大旗 富邦金飆7%國泰金漲4%",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZeW5YSTRsUGpsNHhneVV6Z1pKZXp3dXRNV0xYNmREVE5RQXB5UFJQVUZJUTFSTjlOQkRPdkpxaW5LM1VwUlZXRW1xQXVwVklnaXB4V2o3b3pVVTg?oc=5",
-          "source": "非凡新聞台",
-          "published_hkt": "08/25 18:00",
+          "title": "輝達財報將公布！市場指望「救全村」 法人關注這幾大重點",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QR09EcHZOQXZxZDZQbXFxekdjOVFob2I3eWR6ajZHNXpwMmVORWl0YmduSm9HU3IzT0VfaUVucFVtaE0xVWFwTG1fVlI?oc=5",
+          "source": "TVBS新聞網",
+          "published_hkt": "08/26 15:22",
+          "related": [
+            "NVDA"
+          ]
+        },
+        {
+          "title": "日韓股市震盪收高！三星電子與軟銀領漲，鎧俠逆勢下跌",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOY0Q2c0x1LXQyU3hybS03Qm5JWUlKazFpSUNxcnBfRExjYWUzODgwbDJuUUdPWElmNGVRNWJjS1ZYVU5hS21fdk1fbWw0SGMybUw0RFRlTzRhU1B2bG9Kb0Vaa05iZmhRb3Y1clZ0LVg5YnBFNzB1UG1jVVV1N2t5c3BFaW9uSUVVRWRDcFlyZlpnN2FPVlZFMkhwSkZ1SUZJc2lyZEVtYjJIaHBWZjVKYXdqSm5IQ1Z5eGxnMHU5a2VjRnRQT2xjVHdiMjJtcHdnVV94a0lvNjZ5b0l3V2RBN1d2d0hJRHhMbVFiblh6VDZWTlc4SFE?oc=5",
+          "source": "TradingKey",
+          "published_hkt": "08/26 15:06",
           "related": []
         },
         {
-          "title": "AI、半導體股一度遭拋售投資人逢低買進！日股收高| 全球財經| 全球",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DSUxIdzFQWXF1eFJkRFRxYW90NDF1ellNT3hqNWpOSFpBdVgwVWYzb0IzNWwxSGpzQ1M0VjQzalhCYy1hQ2NvX0RPU3ZoWS1fVVBiMHZkdWNJZkpxczZyZGpiOWZaTWhXMGp1LUZQLVZoV1lsRmdMcGN5VUk?oc=5",
-          "source": "UDN",
-          "published_hkt": "08/25 16:00",
-          "related": []
-        },
-        {
-          "title": "《台股盤後》開低走高、收漲407點，月線失而復得- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMThHRWpkUXpHVXU2S0hFdzNWQWlZVDRCT0g2OGladFhuYXo2czBTUDVhSjQteE41dDBDYWtVZVRtRlRzVWZVdkJ1bWNPaDM3aWpfZFoyeFlLNDFYck5OQ1gxMURVallTTVg3SUMtS0ZYSkxEYXpndlo2bExEcG9XVWNKSm52ZVQzekpjQ2I3VXo3Zw?oc=5",
-          "source": "MoneyDJ",
-          "published_hkt": "08/25 15:49",
-          "related": []
+          "title": "亞太股市承壓，韓股領跌、SK海力士一度跌6%，Bitcoin上破8萬美元，美債高位震盪",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FRUFVRWlLbTRXRDUyd0U1NFlWb0JaaVpqbVF6RHlNUTNEWjdYRjd4LXlqZTRqUjIyMWpNV2Zra1lya0poQWZHRWlodXAyWDk2M1hnZ3Y3R3A3ZkwyV1pUMmVvNzBFekkzTXRv0gFrQVVfeXFMT0VFQVVFaUttNFdENTJ3RTU0WVZvQlppWmptUXpEeU1RM0RaN1hGN3gteWplNGpSMjIxak1XZmtrWXJrSmhBZkdFaWh1cDJYOTYzWGdndjdHcDdmTDJXWlQyZW83MEV6STNNdG8?oc=5",
+          "source": "Bitget",
+          "published_hkt": "08/26 13:23",
+          "related": [
+            "BTC"
+          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-08-26 14:57 HKT",
+    "updated_at": "2026-08-26 15:35 HKT",
     "news": [
       {
         "title": "狗狗幣、柴犬幣和佩佩幣價格現在將走向何方？",

@@ -27,8 +27,26 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-26 10:09 HKT",
+      "updated_at": "2026-08-26 10:21 HKT",
       "news": [
+        {
+          "title": "美股科技股帶頭上揚 公債殖利率下跌 輝達財報前市場屏息",
+          "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPQ1g1WFlGTmFnVmszTXdCMlFpaTVDOGhnM0dJSnJ1cUVmSGlsdWF6dzViMGJMTmJHOWFLUm5QeTI5QXFkMzhmS3FnbWc2cTNOaDFERmNvTXV2TjNyS2xuRmtjTjc3Y0hPSVJZd2EtbFN4VlBvM2E1M1g2Uk9HQVY0NWQyS0hySS1fZmhqNEZRQzItaktnUzg4aDNQVDNVXzN1QVJ4a0FyNlpNNW5JekE1VkdrLWVSMW9iTlpmVnB3RWxLaHUzaHk2SnRRcDZzZFFvdkROWHBVckw3QzVYQnNiZTJIVk5oanNxU0ZxT0F1WGVnSS1VOVNrYWlrczVoWHQ5V2tTbllRbXhnWTZiaDBXMjNQSl91cHlteGd5LTliN3hLYWlTa253TkxybjNHN21Rb0V1MFpqUjFsckU2S3UyZHJ4Zm9NQmN3NXVpQkp6UVpadUlBN3NlYWVnWWFiUUhlT1BfY2pNVmJxRGkydjZKLTdkWUFGbTgzLVppajkteVB1d2tPV29NaEdYWQ?oc=5",
+          "source": "商傳媒",
+          "published_hkt": "08/26 10:17",
+          "related": [
+            "NVDA"
+          ]
+        },
+        {
+          "title": "輝達財報前科技股反彈 美股三大指數收高、費半漲1.4%",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85cGZBVlB4VWp6RVpxZmYwZ3JyVzZaNlBQcFJpV00xYlVOYlQxajduYk1jUVZZZXE2ODQxMkF5MW5kdDhfWUxYWVllWkNLNmxnaEEtZ0Zlb0g?oc=5",
+          "source": "科技島",
+          "published_hkt": "08/26 09:46",
+          "related": [
+            "NVDA"
+          ]
+        },
         {
           "title": "美股全紅台股卻開低 台積電跌20元至2380元 - 生活新聞 - PChome Online 新聞",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdThCemFkSmlRdkdQMjNIWTh2ZS1STllHa05KdTdpRnF1UmlaZFZXQVZFQmNwZEYwR1g3bXJKMUdVbjY4UlZpbDFXU0oya2hCbUhyaGNJUXVYb3ZhalF5bjM0WmdkZVUtY04xcnhCZGNVWHYzc183VnpQNTlkS21ZRGU0Vy15bzgyZ0E?oc=5",
@@ -36,22 +54,6 @@
           "published_hkt": "08/26 09:07",
           "related": [
             "TSM"
-          ]
-        },
-        {
-          "title": "油價、美債殖利率雙降助攻 美股全面走揚科技股領漲",
-          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNOWx6cXlIM3dDbzE0WmF1a0s3UTVfdmU2eklLeVU5WWRSNGY5eWVnTzNmOFRqclMwU0xtVUpZRVhrbEk5VV9XdFZlRDUwOWxReGRpYlduVHdrc2w4TFRtMGp6dnliTjQ1QVE0UzNUdHlCS0d0Q01WcXNNZmFWN1kzNzM1T1JQaXFycE1nbFZzeklNRjNsV3psY01oTW5fWllTa1k2eTIycDlodXRRZ1dMOEg1bFhtZW5BUVdOejFYVGR2ZEx0LW5iMEVEVi1JSktELWlpcmZqemxYLVhvUFdxa0wyV3VuRlFPVVBWTl82Ymk4bW9wVmZFd1B3X094ZUI5QzRaeDdCdHZpY2U5VkMzYUpuVHZzVnpJUFN2MzBSV25faUdOWlNuN1h3dmtrYUtUdklEMXVWeUhKUUhiZG5uNEN2RnZIQ0NuMTNvQmJqUjJEdw?oc=5",
-          "source": "Life 生活網",
-          "published_hkt": "08/26 09:00",
-          "related": []
-        },
-        {
-          "title": "美股三大指數齊揚 那斯達克漲0.66%領跑",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fU1d2eFprLVhEeUdBZXFQTFgwVTJuVGRFVEZIWlpNSGU1Mk5oZmlNc2MteXY0bzNHZkVrMWNGTHgtZEE1eUhYTVlaOXJjT0I4VUE?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "08/26 08:58",
-          "related": [
-            "QQQ"
           ]
         }
       ]
@@ -242,8 +244,17 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-26 10:09 HKT",
+    "updated_at": "2026-08-26 10:21 HKT",
     "news": [
+      {
+        "title": "徹底“殺瘋”！比特幣狂舞，近2000萬豪賭！發生了什麼？",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9qRTZrdkhRa29zU0NVc3MzV0J5MFA1QnFkME9Kd2xmNENaY3U3VGJZZ2N4TjVqbHdkWWoxMnBJSlpGMFk3X2pCUw?oc=5",
+        "source": "鉅亨號",
+        "published_hkt": "08/26 10:03",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "需求增 22% 卻難改負平衡，加密復甦信號存疑 作者 智通財經",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTeFNzV25pVkpxcm1HWDF6QmwwNWdoc1h1VXVVazFFZS03NFpxZm9OeEFHTk9HcElqdjRTSXVZZlY2R1Q5THp3blVyZFkxLVh0djM0aHZmSWZfVkU0cDJ6MGZtNFFxcFJEWWpyRXlOQVg?oc=5",
@@ -256,15 +267,6 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb2tiejJ3bzhJSGNFZGVGSUFqWDJJWkdzalpzeHVQU0JQUnhRUnIzUnhGZ0tGSWhpVGN6YU5fYkN3ZlptZUEzVzlWcHMwWHhBZ0RhOXBZX25KY1cxUWt3bXR1NDE4Q0FJb3liVGZZbUJxY3lKQ1VQbE5KaXFVZVdvcUhxRlJwNGE4U2V1NXptLWNBR3gyUFdTX3Q0elBRSG9McEJRVmZrTVRzdFZZbTdPQ184LVd6TGlaZkVLeklrUUR1RkY3QkE?oc=5",
         "source": "TradingKey",
         "published_hkt": "08/26 09:14",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "700萬枚比特幣面臨量子威脅 美國財政部啟動小組應變",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DT2VCOTJaVVZXSkRlQ2ZhdTNwTDdJV3NEbExzakNZdWZCcW1VbEFyQ0c2ZkQ5MW9xMkkwYnpTUXpGRVFsUjlXMHJybnpDdXhTNlE?oc=5",
-        "source": "蕃新聞",
-        "published_hkt": "08/26 08:58",
         "related": [
           "BTC"
         ]

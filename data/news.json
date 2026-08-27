@@ -27,34 +27,30 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-26 10:21 HKT",
+      "updated_at": "2026-08-27 12:34 HKT",
       "news": [
         {
-          "title": "美股科技股帶頭上揚 公債殖利率下跌 輝達財報前市場屏息",
-          "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPQ1g1WFlGTmFnVmszTXdCMlFpaTVDOGhnM0dJSnJ1cUVmSGlsdWF6dzViMGJMTmJHOWFLUm5QeTI5QXFkMzhmS3FnbWc2cTNOaDFERmNvTXV2TjNyS2xuRmtjTjc3Y0hPSVJZd2EtbFN4VlBvM2E1M1g2Uk9HQVY0NWQyS0hySS1fZmhqNEZRQzItaktnUzg4aDNQVDNVXzN1QVJ4a0FyNlpNNW5JekE1VkdrLWVSMW9iTlpmVnB3RWxLaHUzaHk2SnRRcDZzZFFvdkROWHBVckw3QzVYQnNiZTJIVk5oanNxU0ZxT0F1WGVnSS1VOVNrYWlrczVoWHQ5V2tTbllRbXhnWTZiaDBXMjNQSl91cHlteGd5LTliN3hLYWlTa253TkxybjNHN21Rb0V1MFpqUjFsckU2S3UyZHJ4Zm9NQmN3NXVpQkp6UVpadUlBN3NlYWVnWWFiUUhlT1BfY2pNVmJxRGkydjZKLTdkWUFGbTgzLVppajkteVB1d2tPV29NaEdYWQ?oc=5",
-          "source": "商傳媒",
-          "published_hkt": "08/26 10:17",
+          "title": "震撼！Avalanche Treasury Corporation 第二季虧損達 -$1.54，市場波動影響嚴重！",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd0xhUmNzSVBJZjdPaUgweWdtU3EwbHNqc1Y1MnVrQkJPT0RBMTRCN0pLYk0yUU1xZUVVQ0RTbjZxTWQxTXJrbk56bGxLVGxFaUtFR29qTldfTGVxUDIydTd0X2o3ZjdxZEhUdXYwdXZJMVdNVjlUZjJyUTVodnVZNU1rSGtzZWUxWUpnUm1Bb2RMbmdWM0VzNEgwQXFKNkd0QkRNYnNOYnVIbmNGemhLZjFaVDJGVzdlc28tRFNJSklYT3J2Y2pZa0tKWUNxMjA?oc=5",
+          "source": "CMoney投資網誌",
+          "published_hkt": "08/27 10:13",
+          "related": []
+        },
+        {
+          "title": "英偉達業績超預期提振AI前景，美股期貨走高 作者 Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55LWZJTmQtRGFjcVlsUUp0ZFNVSkVEc3dUWEhYMGc0MUJTQXplNVNqczYwa1lZdFBHd3JGMjgyenAtS3VLWmxSSUNTOGxubDBDZk1YYno4ZENVSEhzZHl2T3pJS3FEaDFhVFhDRzJTeFA?oc=5",
+          "source": "Investing.com 香港 - 股市報價& 財經新聞",
+          "published_hkt": "08/27 10:10",
           "related": [
             "NVDA"
           ]
         },
         {
-          "title": "輝達財報前科技股反彈 美股三大指數收高、費半漲1.4%",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85cGZBVlB4VWp6RVpxZmYwZ3JyVzZaNlBQcFJpV00xYlVOYlQxajduYk1jUVZZZXE2ODQxMkF5MW5kdDhfWUxYWVllWkNLNmxnaEEtZ0Zlb0g?oc=5",
-          "source": "科技島",
-          "published_hkt": "08/26 09:46",
-          "related": [
-            "NVDA"
-          ]
-        },
-        {
-          "title": "美股全紅台股卻開低 台積電跌20元至2380元 - 生活新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdThCemFkSmlRdkdQMjNIWTh2ZS1STllHa05KdTdpRnF1UmlaZFZXQVZFQmNwZEYwR1g3bXJKMUdVbjY4UlZpbDFXU0oya2hCbUhyaGNJUXVYb3ZhalF5bjM0WmdkZVUtY04xcnhCZGNVWHYzc183VnpQNTlkS21ZRGU0Vy15bzgyZ0E?oc=5",
-          "source": "PChome Online 新聞",
-          "published_hkt": "08/26 09:07",
-          "related": [
-            "TSM"
-          ]
+          "title": "AI安全狂潮席捲資安與雲端軟體市場：CrowdStrike、Salesforce領軍新一輪成長戰",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWmpzc1NjV3JnTDZkbFVWZWdnV1NUOTJtS1pUMW02QXhudDZBNnpLcnpENVhFbjNPREJFSWNKS3piTENhM1ZIdW9jRkczUDdNQ1lub1lSTGhQbjY4ajE2bjNaeVk1R3k0cUpUM2xxb0JGR0Rpb3lBb2t0YUtzZXZUZW40aTJBTU1COFZVRmFIZFpQOHhIcWFpX05ETUxXTzZWUmFOcG84NEhIRnZGcjl1THVEOXEyWFMzbGtmcnZWT0o3QmVmTXVYTmgyS2J6UFk?oc=5",
+          "source": "CMoney投資網誌",
+          "published_hkt": "08/27 10:00",
+          "related": []
         }
       ]
     }
@@ -244,29 +240,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-26 21:57 HKT",
+    "updated_at": "2026-08-27 12:34 HKT",
     "news": [
       {
-        "title": "加密ETF單日吸金逾5.5億美元 BTC、ETH領漲",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KY2JMTmttNEMwbFM0N040amVsOWZ3RFZGOVhfYjdCaXVTZHhGVm11WHJPUkREVTF0MWVrVkNfc2tSWXZDUDBfQkhhejYzYk16WDFiWGNxUVVZb0pRYTMtSmszaGljbXp4WTl6LTdn?oc=5",
-        "source": "FinanceFeeds",
-        "published_hkt": "08/26 20:41",
-        "related": []
-      },
-      {
-        "title": "神魚最新訪談： AI 時代人的意志更重要，比特幣是更好的黃金",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yOXBldVdTMks4Z1NLLTJ3S3djbUgyRThya2VaN0ZLOTJZaldKNFF5bW85dm9waDVkQUpUUjU5TUkyRXNXWVE0S2RLYlpoYmNYeHE2NQ?oc=5",
-        "source": "odaily.news",
-        "published_hkt": "08/26 20:09",
+        "title": "歷史性一刻！首筆抗量子比特幣被挖出來了，專家用的QSB方法是什麼",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUEc3OGZhODV2RTU4NFBxaDZhUjdBdzBjX0syWHE2bDg4UkplSTJGM3p0bi1ST295ZWJLU0g0SF92SmNIejJhZ3N3NG1Eakk1UFF0eUJiQUpKZndXMk9nWWxmUXlFWUJLYU9walBzMEg2UE4wY0g3WEs1NFl2VDZEck1BUmhUTXJsX1JlZWRTdw?oc=5",
+        "source": "加密城市CryptoCity",
+        "published_hkt": "08/27 11:31",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "比特幣會將漲勢延續至80,000美元上方嗎？",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOcE1CTWtYVUlnU0lrTVN1cTBpV2FLUnpJa2FLYTVCVVdBOHNnMTJsblRhN19oZFJNOTBMd1RrWF96UnlScVcySXl6czNUWXl6cFdTWkRCRWZLcWRuZmd4X2Z2Z001R0JpMGxGVUE0eHpLTWFzbFpDX1hzTmVLSnRlWGUyYzRHQ3FEd3haREcwYTdOUXRjN2M0U1I0cnNJWFNncndyOTFfMlJPOHdCMVA4dm9VV0FnNU92NkpVeHlMUUN6VWRVcnRPLXA2MWtqY0JVaXNCTi1XNGtJSmJVd1A2R3NzT25zOHNsVUwtajBfbWdRMGpocE0tTEZYX0RqYk5oUXNlcTNlYVRsLUw0cWZqclk2Tlh0a1Ba0gGYAkFVX3lxTE5wTUJNa1hVSWdTSWtNU3VxMGlXYUtSeklrYUthNUJVV0E4c2cxMmxuVGE3X2hkUk05MEx3VGtYX3pSeVJxVzJJeXpzM1RZeXpwV1NaREJFZktxZG5mZ3hfZnZnTTVHQmkwbEZVQTR4ektNYXNsWkNfWHNOZUtKdGVYZTJjNEdDcUR3eFpERzBhN05RdGM3YzRTUjRyc0lYU2dyd3I5MV8yUk84d0IxUDh2b1VXQWc1T3Y2SlV4eUxRQ3pVZFVydE8tcDYxa2pjQlVpc0JOLVc0a0lKYlV3UDZHc3NPbnM4c2xVTC1qMF9tZ1EwamhwTS1MRlhfRGpiTmhRc2VxM2VhVGwtTDRxZmpyWTZOWHRrUFo?oc=5",
+        "title": "Gate 最新動態：機構資本回歸，Gate 在比特幣和以太坊價格排名全球第二，SpaceX IPO 前交易解鎖，DGAI 上市，WLFI 持倉量達70 萬。 Airdrop 上線",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBvY2Zya2F0d29GbGZ0NFFpUndudkpzUVJiVVhHbFVHRnExREVuWE1oSTdNall4M1QwZUYtOFJIal9JcU5yMTJXVEVB?oc=5",
+        "source": "区块周刊BlockWeeks",
+        "published_hkt": "08/27 06:08",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
+      {
+        "title": "貝森特的債券舉措和美元武器化強化了比特幣的理由——Bitwise",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWWVGSTBvUzZmRS1YX3c2bk5QTGVFcEMxblBfWjdha0FTUUJ6SDZsM2htZm1nblk3U2dlZWhscU9BNGJfSnVHLTN5bXBuandhVTFVT1lmYy1JMk9LQS1samJmRDFGdnN1d09nVDlEU3Y4ZDQxd3paUVpZNzBYNGhocHVCRVhuTksxTU9YTjJydUxBWE1NbjdRUmZVbHo2MFNGdjBuSW1MWFhMSVFHYmtEcEppSFdRVlVDY19aWWNlR2dqa0hyejVoNGhaZWtfOWdIeHZxNUQ1QzdGLUg2eVdsYmYzQkY3TFBCUWdNSEpn0gHuAUFVX3lxTE1ZZUZJMG9TNmZFLVhfdzZuTlBMZUVwQzFuUF9aN2FrQVNRQnpINmwzaG1mbWduWTdTZ2VlaGxxT0E0Yl9KdUctM3ltcG5qd2FVMVVPWWZjLUkyT0tBLWxqYmZEMUZ2c3V3T2dUOURTdjhkNDF3elpRWlk3MFg0aGhwdUJFWG5OSzFNT1hOMnJ1TEFYTU1uN1FSZlVsejYwU0Z2MG5JbUxYWExJUUdia0RwSmlIV1FWVUNjX1pZY2VHZ2prSHJ6NWg0aFpla185Z0h4dnE1RDVDN0YtSDZ5V2xiZjNCRjdMUEJRZ01ISmc?oc=5",
         "source": "FXStreet",
-        "published_hkt": "08/26 19:43",
+        "published_hkt": "08/27 03:44",
         "related": [
           "BTC"
         ]

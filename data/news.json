@@ -244,34 +244,28 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-27 18:50 HKT",
+    "updated_at": "2026-08-28 01:30 HKT",
     "news": [
       {
-        "title": "Bitcoin 閃電網絡確認現有安全漏洞 修補更新數日內推出",
-        "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQZUFoRkRQS042ZUhrZWtrNDlqc3E1RThaYXpRQXJZR1VZblVGRnpjMlBFbEl5TlI1bW51ZlZqR3NrN0JmWERjYUdnZkhHRzhCTXhlUXZOLUV1YW1BTEpWNzFVUXhVZHY4enZSMDA3UjctRWxQZE4zMmY2ZmVLNFV5OWljM2RuZXlHbnlZNkhZLUo3QVZCVGd5ckctZmMzeER5Y0ZPeC1JTjNSUl93NEZ0VnVaU2h3eVJNT0I1MXREV1Jub3Y3b0Z5VUhhUVJIWlFsRDJDc21lOEQtNEhRYXF1VmNZSVY4Q0VyRjF5LTY3NENESmtIeEUzOThtaUNqWFgwZV9UUHVhSEtIRTlTSG02aGlpOFBBMzlsWHlhaVU2TFNHWWJrTE9wZmk1VHVjYllsSGFIWTQxV0hLVnR4RUVtZ2poaXp4TVpjNWVETTQwOGloSU5YcEQtM2tJWTc3eXVzOURSM0J1NmxUMDZXVXg3V2d3?oc=5",
+        "title": "以太幣急升35%逼近2,500美元關口 超買風險升溫或觸發回調",
+        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPa25LUFFIOEEwb0pSUjdsREs2RDZnQXJXVU5qZThUT0MwaUxnZEhDV25UU2NmaEZ1TkRvcU9XOWYzX1J2WEpERnlkUTQ4MUV2cEFiT1JZZnh4OFpJa0pSTExOZkpXQkpfV1dYdFZlbG9pVTdUNXZwWjFkaVJ3dFNPdkFxV3ZZa1NjenFUbTU5VTVTWlo2YjIxSUk4UjdiRDM1UnJQUl8yRUdfeDExSW1QVXBDamxnTHhETldpTmRnLWYwVjVsT09PVHdLWG03SFFIZTdOZFdad0U4ME9JMTNBMW15eG5HLVh4VV9wMGJ0aGlFeWRBU0R4VXVIVG55Nk13dTY4M3JFODM5QjNscEk3Njc2TFhjX1daSUdPMlpVbkpGa2NFRjFwZ2VCYnZHenJYLUV1OGNMWUdUOWFVMkhSU0FVWUx5bHlSUk52SUdkdEVSTUVzcGc?oc=5",
         "source": "Yellow.com",
-        "published_hkt": "08/27 18:10",
-        "related": [
-          "BTC"
-        ]
+        "published_hkt": "08/28 01:01",
+        "related": []
       },
       {
-        "title": "CZ 比特幣亞洲 2026演講摘要：比特幣市值在下一次牛市可能會趕上黃金，不應將該行業視為零和遊戲",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYVG9lSXl6WDRxeW9KTUItOUpyX2hDOXNkYXJXeEhWZnZTU0tTV3ZEN2hZT0xxb05LbUxjZVZyVkUtMGhIbllKYk9HVQ?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "08/27 17:00",
-        "related": [
-          "BTC"
-        ]
+        "title": "Solana 能守住105美元關口？關鍵驗證者表決或成定局之筆",
+        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOekIyelRpRWdzZS1vQTBjTUxSbUt2QnZiUXluR09SLU9IZk0xbEhVQlhneC1QODRuQ1MzaG04eE90UXd3cFB4eTRuc29md1FGbDZDYzlpNGNSQm90TXFEZ3c4NDZmZlJFYjI0eUFoaGI2dGtlTUtjeHc5TC1DSEdMU3JGTDR5Ulc4ZzNzWnJaM3F3TmFsUzhEYUUtcUdGcXNMUEhld1NnUTF3Z3BTS3JqZkVJdjl2Z2lTeEIteTlVV0oxaFF0Q0NMMnU0MlFLa0NVZnRUT0N2U3Z6bDBLcEN1VDNxLXhCbER0S05Ndkl3VFc2SjVuT2U2ZmlLUElhN2xQNGhnT2szREZGdUJRYTVDd3pXUUxrV0RoQ0JlYXo4M0pCdHdJZGhJWWdXWGNHVVNfWU41REhzS00?oc=5",
+        "source": "Yellow.com",
+        "published_hkt": "08/28 00:05",
+        "related": []
       },
       {
-        "title": "比特幣現貨ETF連續8日淨流入：爲何BTC依然難以站穩80,000美元大關| MEXC 幣圈脈動",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR09zUDQ3UElCM2VEMS1DcnY1a01VaEFtNVVmLXY3TGVZam9zNGp0aXRwaEVfbG5PRzY1NFE1Q0tUU1pfUTM0cUxiUC1mQngxaGRCOFh1WGhveE1ld2pJZDNsUnNibEIzNm5WVG5lT183bnk3SmYxdUhvZFRpV19rYWN1aEZ3NTgyMGxTQVNUVVU1a3d1em93Y2J3?oc=5",
-        "source": "MEXC",
-        "published_hkt": "08/27 16:03",
-        "related": [
-          "BTC"
-        ]
+        "title": "ETH 質押從散戶玩樂變成機構主業！Bitmine 98% 營收來自鏈上收益",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVkxJaUQ5LTVEdkVrRlF5YTJRZXI5dFZ4TThlUGtsaXljWkN0aEUybko5OXZVZEN3VmhrWndNekhXU3QzRnRwblJtdl9NNzh4SFE0U0piTllRQmVLXzFaTjlKM2w0MHdxUGdrS2pHejhrM3NZcUwyVVotdzZabURydUI5MmRXenh1SHZGV2VhUUZoNTRFRGlWSG44aWRabWVWMFFVbQ?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "08/27 23:40",
+        "related": []
       }
     ]
   }

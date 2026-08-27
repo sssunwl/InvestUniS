@@ -89,32 +89,34 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-27 18:10 HKT",
+      "updated_at": "2026-08-27 18:50 HKT",
       "news": [
         {
+          "title": "港股收市 ｜ 恒生指數 跌87點：資金集中在AI主題及少數防守金融股",
+          "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQSVI2MU40X3BhTF95VmhQMFZtRk1hWkM5a3ZkN2NnczNOZ2VQNXRIVnplZDJnaW13TjZDbVgxdE5LV3pSbnY2cm5KcWpGNXRCNGpjZldPUDVXT1puSG1ZcHRUTzVaUDhuRDlIR2xVVXBzdGNkYWhOTWNoVkQzVGpBZ3VBT2NIZXFYbmxKNHNSWEtUNHB4NFRVbHBfN1lLQXgxdnI0SU92SGMzbmxNeWFBZ0RJVTFVaE5YYXNTTmFzSjN4SUdRVnluWGxTemdFRU01TDBuVG1lMFgzUHlQclFXa0NsQXBQWjBPMnB4NFMwY01OTnMzemVMVXJpX25ESVBTZ2psclNCTFNIeU1paWEwWHlUS1NkUXNGNm9lOGFneUgybWJPMVp4dy1ReUlCLXdyNTVSYTd2Q0ZqMGVCT3d5Vm1ZNV9DeVE3eDlzOE5B?oc=5",
+          "source": "香港財經時報HKBT",
+          "published_hkt": "08/27 18:12",
+          "related": [
+            "^HSI"
+          ]
+        },
+        {
+          "title": "HSI港股牛熊綫壓力山大|香港經濟日報",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQmpKYi1oUXozZFlZbUdjaVU5bmxNWXRobUtJUzNRMFhYNDZodmUyT01MZUFsTTg2eTdqQVdIS2ZOQURVT1ZTdExvdHI0YmhjRlVMVTFrVllOQjdzOGI3NzlWYVZWNGN1TmpkNHd4djhpNzFNa01GUnVnaGEySl96MXIzME43aXhJZkwzSjJIbWZPV0hjXy1FYzlsb3kyaWhwOTVNTE1uYUMzUk9qeURNOVFOeDlCaWlHQjEzM040ZFpBUQ?oc=5",
+          "source": "香港經濟日報HKET",
+          "published_hkt": "08/27 17:22",
+          "related": [
+            "^HSI"
+          ]
+        },
+        {
           "title": "【港股收市】恒指跌87點 Nivida指引炒起成板AI股 百度炒北水憧憬升5%",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94U3lpLUpJdG9lc3d0U0dIU3B5MWNId08tMEYwZTlRVHpxRDZ2SVhnSUJkbmlUZkpSc1FVWUJQZnVZLXdWSkNmZ3Y3MVpxSXRrb0tRakhiQzhQVjVxVVk2SkY5WjktWjQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XNFgteXN0Z0taaHdtU3E1dl82VDE3MDc5RzF3UklNeTQ2aE1ZeGxsb0QxQmxvN01TaUxsbWpSTUpjbTdWcXozVFNxLVlaTFFRMXhQZEpxRzhsRnU0eVpCaERoelc?oc=5",
           "source": "Now 新聞",
           "published_hkt": "08/27 17:08",
           "related": [
             "^HSI"
           ]
-        },
-        {
-          "title": "恒指走勢丨埋單跌87點續受制牛熊線 百度升5%",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PaDIzR2ZGV2ZGbzNwb2x0X0tUYk1hRVQwRlpucmlqTlNYZ2ZhSjQ1ZkNNUHdlQXpZUDNXOTJkM0Y4N3JUbnltQWF1WXFBbmJmU1pvRm9VeUg1MWpwTXc4emtrUkN1YmxLSTJZSm5DRQ?oc=5",
-          "source": "信報網站",
-          "published_hkt": "08/27 16:55",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "港股低收87點 科指反覆偏軟",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DMGx2amY3ZWJoWFJIc05ZQkNiZ3Q1VnJBdGUyMG9ISjV1Z19WZFFBLWxtd0NvdEdOSDVOUF9HT2tBYnRWM3hjYm9aTjZTSXYtOVFENEViaG9DZkNVSjZYX25jd3ZUUVNmSENFMm8zNA?oc=5",
-          "source": "香港電台新聞網",
-          "published_hkt": "08/27 16:42",
-          "related": []
         }
       ]
     }
@@ -149,8 +151,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-27 18:10 HKT",
+      "updated_at": "2026-08-27 18:50 HKT",
       "news": [
+        {
+          "title": "台股站四望五 台中銀投信：告別單一AI獨大 資金轉向這2類標的",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wbUg2RTZQOUZ5NUU0YzNVb2RIWHA0WEx1TTAwcDh2SkVwT1oyM2FnUnZFM0xpSVQyVEdxMWhLSktGZk5kSlhQQ2tmNGw3SUE?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "08/27 18:18",
+          "related": []
+        },
         {
           "title": "加權指數開高走低留上影線，收盤小漲142 點收45,975 點！三大法人買超728 億元，外本比鎖碼[【8103 瀚荃】]、[【2351 順德】]、[【3376 新日興】]｜豐雲學堂2026 年 08 月",
           "url": "https://news.google.com/rss/articles/CBMipwVBVV95cUxOQVlvRHd3a0ZqLWJOZ3pjVW1vQmd3dFVxUlBCQmxtSjRneHo4empVWHZQVE5UOFBRbWEteEVVdjFSNG55VC0wODI2aEdiVUlfcERjRjZZMUh0SlJmSTlNQWpmTzY5bVVtdFJPSDJhNjRVMHBjNVg2ZlhZVzRSV0FWY2tHU2ZhM2dXVi1zcTZucDcwNzBrNl9xR1k2TnhQLXJDeEZ1ZnFWNUxpbXlrWHhLRmk2N3RmZDZPVjlNQ0J6Y05jV01QUUc0OXowWEQ0RzE2elB1SGJLWGh1a3EyOVZvUjFKU2tDbmk4OU1wSTJFM0VyT2U1Uk13UTRnLUcwaFlXb0pMaHNfbElJTW1IMHlsaEhBTmNwZFVGY2s4TmkyUktZMEVvSWVZRTkxUXd6cGdGWlJqVC1YaDh5dWNSaFVwdHE0QzJDQWtheTVZZU5pQTZabHQzalgzMTlQR0lHQUZOWE9QV1Z1QmRnVVQ2VG5DQV9ValFMc3dPODQyWUNYbFhRczg0N3lZU3BIcURpSm1sQnNGS2NfQU41akxSb09FZnloekdrQVZHeUtjXzB0Y1l5U0w3OEJ5MmhUclNnNXlBemRQOXB4dkpsSW5qRDdoLTlTWWFNQ1M0MkFielRpeURIX1BxMXJPanFYdVBWNVNvM0JJaXlWV0dEdjk1YWd3eG9pVV9mVGVuQlBfY1lzLUNTVlVwZDBGX3dtOXgwd0pydHUxaHFMVnJQQjViU1JGeEpmVkIxcjdIblRzYXl5V3N1RXA5Y1dvblB0QldTVDRCUm1rT0lvZFRwM0VKeFJzY2FIeGdiUDRmWW9OQWlLR3N0YXdGTDl2OU1ka050bDlEaHFDd19WYmdBRFpwd09SbmVzZUZObXd2cnU5ekpjbmV0MjhOY3lF?oc=5",
@@ -161,19 +170,10 @@
           ]
         },
         {
-          "title": "輝達財報估明年營收成長70％ 台股開高走低收4萬5975點",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sdW01MXV4a3pYVmpmNDBwaTdnZkhxVFVyN3dnRXlmTHBIQUk4MW5NajM4UWcyRlFoMGdBRkRtZ0lLLXZyelhsOXJOMVgxQkE?oc=5",
-          "source": "公視新聞網PNN",
-          "published_hkt": "08/27 17:30",
-          "related": [
-            "NVDA"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數 - MLCC產業邁上升循環 被動元件再起漲風 時報新聞2026... - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14clF0V0daY2ZMTTFlSm1BYlFjc1FmeUtLNjFqYVItWks1NkNzaGVDd2pYNkIzZmItcjFZQXh3MG9RYmlVLXY5WHJaTjl3amFIM3RRNnZrS2c?oc=5",
+          "title": "TWA00 加權指數- 547%太驚人！009821值得買嗎？ - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpclVjWFNDYjd3Q1UyeUU0TUdYUnUzQlhMMkgyaFNsU2NaOENLODZSYkgyZ3Fsc2wxdUp6VHlJakY0NGdzYjd4V0hDX1owaDh0RGNYZC1SQWo?oc=5",
           "source": "CMoney",
-          "published_hkt": "08/27 16:27",
+          "published_hkt": "08/27 18:09",
           "related": [
             "^TWII"
           ]
@@ -211,7 +211,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-27 18:10 HKT",
+      "updated_at": "2026-08-27 18:50 HKT",
       "news": [
         {
           "title": "蘋果股市穩定，Nvidia前景提振科技股反彈！-CMoney 研究員",
@@ -244,8 +244,26 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-27 18:10 HKT",
+    "updated_at": "2026-08-27 18:50 HKT",
     "news": [
+      {
+        "title": "Bitcoin 閃電網絡確認現有安全漏洞 修補更新數日內推出",
+        "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQZUFoRkRQS042ZUhrZWtrNDlqc3E1RThaYXpRQXJZR1VZblVGRnpjMlBFbEl5TlI1bW51ZlZqR3NrN0JmWERjYUdnZkhHRzhCTXhlUXZOLUV1YW1BTEpWNzFVUXhVZHY4enZSMDA3UjctRWxQZE4zMmY2ZmVLNFV5OWljM2RuZXlHbnlZNkhZLUo3QVZCVGd5ckctZmMzeER5Y0ZPeC1JTjNSUl93NEZ0VnVaU2h3eVJNT0I1MXREV1Jub3Y3b0Z5VUhhUVJIWlFsRDJDc21lOEQtNEhRYXF1VmNZSVY4Q0VyRjF5LTY3NENESmtIeEUzOThtaUNqWFgwZV9UUHVhSEtIRTlTSG02aGlpOFBBMzlsWHlhaVU2TFNHWWJrTE9wZmk1VHVjYllsSGFIWTQxV0hLVnR4RUVtZ2poaXp4TVpjNWVETTQwOGloSU5YcEQtM2tJWTc3eXVzOURSM0J1NmxUMDZXVXg3V2d3?oc=5",
+        "source": "Yellow.com",
+        "published_hkt": "08/27 18:10",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "CZ 比特幣亞洲 2026演講摘要：比特幣市值在下一次牛市可能會趕上黃金，不應將該行業視為零和遊戲",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYVG9lSXl6WDRxeW9KTUItOUpyX2hDOXNkYXJXeEhWZnZTU0tTV3ZEN2hZT0xxb05LbUxjZVZyVkUtMGhIbllKYk9HVQ?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "08/27 17:00",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "比特幣現貨ETF連續8日淨流入：爲何BTC依然難以站穩80,000美元大關| MEXC 幣圈脈動",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR09zUDQ3UElCM2VEMS1DcnY1a01VaEFtNVVmLXY3TGVZam9zNGp0aXRwaEVfbG5PRzY1NFE1Q0tUU1pfUTM0cUxiUC1mQngxaGRCOFh1WGhveE1ld2pJZDNsUnNibEIzNm5WVG5lT183bnk3SmYxdUhvZFRpV19rYWN1aEZ3NTgyMGxTQVNUVVU1a3d1em93Y2J3?oc=5",
@@ -254,22 +272,6 @@
         "related": [
           "BTC"
         ]
-      },
-      {
-        "title": "CZ：加密資產多元化發展將更有利於比特幣",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUWlRWbW1RaXV0bkRnYjFuYk44UmROYVRPZUVlRlFFdWlQcTBZMjMtRnFPOUxrb0JJUzRpOGF2dE9FeEJqa1RTdk05a20yZG8?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "08/27 16:00",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "CZ：AI和加密集成將從穩定幣開始，AI代理交易優先級遠高於AI支付",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wNnVfVkdqdXRfR3ZrZkd4bjc0UXdXeWVKX1RXcWF0TTZjajVxbTRiTzN0d3pYSXQzRXlfZjgzblQtUVNnd21qNERjaTI1T00?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "08/27 16:00",
-        "related": []
       }
     ]
   }

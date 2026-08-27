@@ -244,30 +244,28 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-28 03:10 HKT",
+    "updated_at": "2026-08-28 06:52 HKT",
     "news": [
+      {
+        "title": "Solana、Avalanche、Chainlink上漲，因嘉信理財計劃推現貨交易產品",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYi13NkFFME5jQW5fNnNWd3pjYm5yMkhMLW92QUM2VW1lOEFvZDVYQWswTUhfUGJhenlPMjlQekJVVE8zdGRRUnNMNDhpOURYdzhkaTVON2laRkJicDZuWlp3eVZucFhpTm42UnYtTU1SdjkyVk1yQk5UMkNhRkpUV0pSLWFvQVlwUVlSSjNMTFhWMERpNFBmdU5HQ3VaVmJBUi1lTm11VnpfXzhqX0w4dFA4VVhLQklJbnp5SHhxNDdwWWJFQk1XMExTZjg4VExhMWdzd2RDQzBjaFNVQU1ORlhMQm1DOW_SAewBQVVfeXFMT2NOMGExNTlLcEVUS3p3bktvN21LYVdOSHBhZGZTa1BRQ0VZdWlqY3FWVE5PVnluc0ZJSHRGNVdZT1NzM1p2SUp5ZGRKWmwtdzBVblhIR1hYblZpVHQ5YlBYOEllbTJicFdva09XU1VuUC1Ec2Z0OFpvdVd5My1sQTltTEpfbEZfemFFdDdRa1dWX3BFNGJDOTE1TDRWdHBmUXR4U21LWG1qaUE0S1dXVDlfZUFGZWg3MjhjTk1BOFI2UWRraEVHVHpiNzV2UmhuRnRRUVlKaVVsMjMwc2owY09IRnhZU3lkemNYZ3E?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "08/28 05:27",
+        "related": []
+      },
+      {
+        "title": "Solana、Avalanche 及 Chainlink 登陸嘉信加密平台 面向近4,000萬帳戶",
+        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOZ2lPb0NZa2JodlJySVZ5VVVmMzVlX0x3blUyWGdKQ1NJSHRzOEtMZ1d1cDJSRjFaSnJJaFN3S1VpbGFQSERETV82aGx2UnhTNzh5ZE1sb2JRV0JhcHUtS2M5VGJ4cWkzbDB3dl9vaDlobU9UZUJ6QUVoc2dHdXMxaXBoeWtOSzZPSmV0Rml0cWk3MGRBSTVmQU40WnRrNksxQ2lDLTZrSVFkXzJlSzU5d01wT0k4VjA1NmRkZ3VrNE4xZWZsbkRyZWcxNVBaS1dvUVN5ZnVlY1lEWHZvM2wzMjVuQ2RBUzdSeFNPd3ZvSHFNQ2JqWlo1ZkF3M1B6VmVMYnR5SEUzVk1VQUR5Vll1Sjc4ZEUwczNFQUpPa1JvZVFCRTVJdjFxUzIxYXRyZkk?oc=5",
+        "source": "Yellow.com",
+        "published_hkt": "08/28 03:04",
+        "related": []
+      },
       {
         "title": "以太幣急升35%逼近2,500美元關口 超買風險升溫或觸發回調",
         "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPa25LUFFIOEEwb0pSUjdsREs2RDZnQXJXVU5qZThUT0MwaUxnZEhDV25UU2NmaEZ1TkRvcU9XOWYzX1J2WEpERnlkUTQ4MUV2cEFiT1JZZnh4OFpJa0pSTExOZkpXQkpfV1dYdFZlbG9pVTdUNXZwWjFkaVJ3dFNPdkFxV3ZZa1NjenFUbTU5VTVTWlo2YjIxSUk4UjdiRDM1UnJQUl8yRUdfeDExSW1QVXBDamxnTHhETldpTmRnLWYwVjVsT09PVHdLWG03SFFIZTdOZFdad0U4ME9JMTNBMW15eG5HLVh4VV9wMGJ0aGlFeWRBU0R4VXVIVG55Nk13dTY4M3JFODM5QjNscEk3Njc2TFhjX1daSUdPMlpVbkpGa2NFRjFwZ2VCYnZHenJYLUV1OGNMWUdUOWFVMkhSU0FVWUx5bHlSUk52SUdkdEVSTUVzcGc?oc=5",
         "source": "Yellow.com",
         "published_hkt": "08/28 01:01",
         "related": []
-      },
-      {
-        "title": "Solana 能守住105美元關口？關鍵驗證者表決或成定局之筆",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOekIyelRpRWdzZS1vQTBjTUxSbUt2QnZiUXluR09SLU9IZk0xbEhVQlhneC1QODRuQ1MzaG04eE90UXd3cFB4eTRuc29md1FGbDZDYzlpNGNSQm90TXFEZ3c4NDZmZlJFYjI0eUFoaGI2dGtlTUtjeHc5TC1DSEdMU3JGTDR5Ulc4ZzNzWnJaM3F3TmFsUzhEYUUtcUdGcXNMUEhld1NnUTF3Z3BTS3JqZkVJdjl2Z2lTeEIteTlVV0oxaFF0Q0NMMnU0MlFLa0NVZnRUT0N2U3Z6bDBLcEN1VDNxLXhCbER0S05Ndkl3VFc2SjVuT2U2ZmlLUElhN2xQNGhnT2szREZGdUJRYTVDd3pXUUxrV0RoQ0JlYXo4M0pCdHdJZGhJWWdXWGNHVVNfWU41REhzS00?oc=5",
-        "source": "Yellow.com",
-        "published_hkt": "08/28 00:05",
-        "related": []
-      },
-      {
-        "title": "主要加密貨幣行情，比特幣升1.64% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHBYRWh1MlF3NmtPemYtTFhXT3FLWjV0cTZ0MGdzQlFCS09PSVowRFlwRW5zWE5xZlpTd3dYOTBDRGJweWd0OWNzelEwWWlkd2VKVk13bkR3bmZKb1ZTTGJ6Z09fWG84Wk1TV2hVZlB0VEs1OEhOZWNxWVdERkUyWWN3dG1OdTMwT3VBRHBJWVo4Z2RjaXpnbzFCUUxGTUFm?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "08/28 00:01",
-        "related": [
-          "BTC"
-        ]
       }
     ]
   }

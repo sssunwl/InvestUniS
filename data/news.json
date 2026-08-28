@@ -242,33 +242,28 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-29 03:07 HKT",
+    "updated_at": "2026-08-29 04:16 HKT",
     "news": [
+      {
+        "title": "華爾什警告引發位元幣暴跌！市場反應強烈，未來走向成疑",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMmJFS2ktcDhPZXhOZW4yc0plSHNYQUozcDVBLUxHTm5jV1ZMVG91UU1vT2g4MTQzVkpFazRqcmttNXQzbHcxbEZjUU1vaWo4WGV3YVI4N0pwa24yczdtdWJudW5NN0h2SVJldXdJSWh0U0dHMzRUV284TmVpNG1CaGU2VnN0T0s3bnc1Uzd3?oc=5",
+        "source": "CMoney投資網誌",
+        "published_hkt": "08/29 03:32",
+        "related": []
+      },
+      {
+        "title": "薩爾瓦多推美股代幣化服務 Monetae 攜手 Alpaca 開放 70 檔標的",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9aTHlWb3B4Vmt1MFBHY3Nxdk5wZndRTmZHUXp0TUgxN2I3VHB1THdjU1ZUUXlNbFpHRkpjTjh0U0VfRlB3?oc=5",
+        "source": "民生電子報",
+        "published_hkt": "08/29 01:08",
+        "related": []
+      },
       {
         "title": "OneKey 重現已修補以太坊漏洞 Ledger 反駁遭「駭入」指控",
         "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQbzZxUFB4S0pOdGJnQWRnYk1NVTRWZks1NU9KbnhsOWlkbU1jUThqaGFPVlNrQzhjQVRSNnFaYWNiNHNLRDR4LW1aUmZQWGd2UkxQOUtpVHlVUzJWd0RzOVZfeDI4c0FodTlMSWFIWWJKV1FKVGxJZVlFaUFfV2tvX2ItZ1FYNG9jLXVEWFZsUmR0Qm9ENkFwNG91TGlKUGJWTENtRUYyOXFRQXZld1E2MUc3dmlIdGdWUFFZQjNBY0gzVkpWaVhyb3FTanlaRU5lUC14WXJGR2hlRU92aDJjU29jb0JYbmFnWGxGTV8yZ3FTZ3JxZ1NzNmlBSHRGRzY3OEFla2U1MXIxa2F5YTFLd2VxSC15M3J1dTgxUVNkNkJyTHYxY1lMWngwNmtvTUhmZktGYUNaSkVfejBy?oc=5",
         "source": "Yellow.com",
         "published_hkt": "08/29 00:59",
         "related": [
-          "ETH"
-        ]
-      },
-      {
-        "title": "比特幣和黃金下跌，焦點轉向傑克遜霍爾研討會",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQ1k2dm9qODRUZmxmZVJGR0lWQ3BuejFjX2lORDRZZjNBZzRNY2wyYms4eU1pN092U0JqMnZkTENNX2gtNkIwRlpOQ0VsMmZWX2tDbGlYRVlkRW9XMXlOc09FRUkzeDIxdUhrQ3VjTWp6bFVKUmpYaHlYMXI4OVJHNXZUV2VzWVZ2ZG9WbUVSb3Vpc2REMVRNOXhPV0prclpfMXRMTkpRaHhGNHp6LVIzbERIWmVqQW5CY1JtYlNNcWtuRmpHMFBtLVFpRkZla1A2a0xLSk8tUXdDZXE4dTBQUTZ4RmI1WGFmUGhyeVJSeEIyd9IB8gFBVV95cUxPQ1k2dm9qODRUZmxmZVJGR0lWQ3BuejFjX2lORDRZZjNBZzRNY2wyYms4eU1pN092U0JqMnZkTENNX2gtNkIwRlpOQ0VsMmZWX2tDbGlYRVlkRW9XMXlOc09FRUkzeDIxdUhrQ3VjTWp6bFVKUmpYaHlYMXI4OVJHNXZUV2VzWVZ2ZG9WbUVSb3Vpc2REMVRNOXhPV0prclpfMXRMTkpRaHhGNHp6LVIzbERIWmVqQW5CY1JtYlNNcWtuRmpHMFBtLVFpRkZla1A2a0xLSk8tUXdDZXE4dTBQUTZ4RmI1WGFmUGhyeVJSeEIydw?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "08/29 00:38",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "比特幣跌破 7.8 萬鎂、以太坊失守 $2500！Fed 華許講話發威",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSktzVUxfNF9HVndUTldOWUJCSjBuZXhJMkUtSHdDYTVINlR3Vm5EbVpta2VkRGoxMXkxc0JYVmd3UlJFQmJVTTY2aHdBcmNYNUxNOWstLUFramIwXzlXTVN5d0FrU0ZzM1BSejlYekVvd0RqZmxGU0VYNDlCdEh4M3djQV9QSGJKUWNj?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "08/29 00:29",
-        "related": [
-          "BTC",
           "ETH"
         ]
       }

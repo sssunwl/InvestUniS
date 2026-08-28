@@ -242,32 +242,34 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-08-28 20:26 HKT",
+    "updated_at": "2026-08-29 02:26 HKT",
     "news": [
       {
-        "title": "比特幣市值將超越黃金？幣安創辦人趙長鵬CZ：AI與穩定幣開啟下一輪牛市",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfLWJYbXNQOXlWa1VLenk2ZmxtUlRWTFFiUjZYQ0NETVdTbF9Va18tSzdCU1Q5cWRfLV9zM2RnVGRRaUQzU3dBTw?oc=5",
-        "source": "鉅亨號",
-        "published_hkt": "08/28 20:18",
+        "title": "OneKey 重現已修補以太坊漏洞 Ledger 反駁遭「駭入」指控",
+        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQbzZxUFB4S0pOdGJnQWRnYk1NVTRWZks1NU9KbnhsOWlkbU1jUThqaGFPVlNrQzhjQVRSNnFaYWNiNHNLRDR4LW1aUmZQWGd2UkxQOUtpVHlVUzJWd0RzOVZfeDI4c0FodTlMSWFIWWJKV1FKVGxJZVlFaUFfV2tvX2ItZ1FYNG9jLXVEWFZsUmR0Qm9ENkFwNG91TGlKUGJWTENtRUYyOXFRQXZld1E2MUc3dmlIdGdWUFFZQjNBY0gzVkpWaVhyb3FTanlaRU5lUC14WXJGR2hlRU92aDJjU29jb0JYbmFnWGxGTV8yZ3FTZ3JxZ1NzNmlBSHRGRzY3OEFla2U1MXIxa2F5YTFLd2VxSC15M3J1dTgxUVNkNkJyTHYxY1lMWngwNmtvTUhmZktGYUNaSkVfejBy?oc=5",
+        "source": "Yellow.com",
+        "published_hkt": "08/29 00:59",
         "related": [
-          "BTC",
-          "BNB"
+          "ETH"
         ]
       },
       {
-        "title": "什麼是 Revolut 歐元穩定幣 EURR？歐洲金融科技巨頭推出自家歐元穩定幣",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdHVPbzhlQTlXOE5qWUlOVlNKVEFBYURYSU1GWk94enZEZlcwLXpJamtmeVctVjh0elJWZ3JGS3hsdXVNMU9MV1lPTFNJSWlYT01DelJFM2NDS1VHdE1kZUlNMGFWVTFGZkRhSDFOZDNrQm90V2hESmhrOFZLY1UtVG1Ma1ZKMWxycTctWVVvOHhBQ3JUZkdrd3lXNFRnM2RRZ09LSW9pczNPUDJJNXN3OEJxaklwd3lFbnc?oc=5",
-        "source": "MEXC",
-        "published_hkt": "08/28 17:20",
-        "related": []
-      },
-      {
-        "title": "比特幣周度預測：數十億美元ETF資金流入推動BTC邁向關鍵突破",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZl9QSUVnbUFsWGZKODRsNEdCTXFqUHdZUGV6ZThEMXZpeHFucm95YlVNZ2VLaVlmOEtmZVd6bWF4OVRGaGpoSEZsbU0za1JNUWpHR3E3U05QYjhoZ3MtdElBUk5OVldvWnpRa21ubXRtcmFhWkJHOENPZTU4MkJNZWZyUjZmNzE2WllhM1RMaUNCNU1lNGpOY3FENlRVYnN5U3Q1dld5Mk5NdHlfMXpxLUlaTG1VUVlhZHo0Vk5XZHRYRUhEWl9zbHpvX2JKSVlWZ2IwdHRCWFR4R3BVUHhlSElrdy1TYk5Gbkh0QWZBZDhyZ9IB8gFBVV95cUxOZl9QSUVnbUFsWGZKODRsNEdCTXFqUHdZUGV6ZThEMXZpeHFucm95YlVNZ2VLaVlmOEtmZVd6bWF4OVRGaGpoSEZsbU0za1JNUWpHR3E3U05QYjhoZ3MtdElBUk5OVldvWnpRa21ubXRtcmFhWkJHOENPZTU4MkJNZWZyUjZmNzE2WllhM1RMaUNCNU1lNGpOY3FENlRVYnN5U3Q1dld5Mk5NdHlfMXpxLUlaTG1VUVlhZHo0Vk5XZHRYRUhEWl9zbHpvX2JKSVlWZ2IwdHRCWFR4R3BVUHhlSElrdy1TYk5Gbkh0QWZBZDhyZw?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "08/28 17:07",
+        "title": "Capital B完成2100萬歐元融資，以加速比特幣金融公司戰略",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xUUpTcDVYcFhQYWpfMHVuTkpYUjhVbk1XOEdtLTNUSm1NbzZpQnB0RVFlRUJwVlkxc2Y3TFdFVUlOQmpXZEFjOTEzWQ?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "08/29 00:41",
         "related": [
           "BTC"
+        ]
+      },
+      {
+        "title": "比特幣跌破 7.8 萬鎂、以太坊失守 $2500！Fed 華許講話發威",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSktzVUxfNF9HVndUTldOWUJCSjBuZXhJMkUtSHdDYTVINlR3Vm5EbVpta2VkRGoxMXkxc0JYVmd3UlJFQmJVTTY2aHdBcmNYNUxNOWstLUFramIwXzlXTVN5d0FrU0ZzM1BSejlYekVvd0RqZmxGU0VYNDlCdEh4M3djQV9QSGJKUWNj?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "08/29 00:29",
+        "related": [
+          "BTC",
+          "ETH"
         ]
       }
     ]

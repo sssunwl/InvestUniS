@@ -242,31 +242,29 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-01 00:14 HKT",
+    "updated_at": "2026-09-01 03:26 HKT",
     "news": [
       {
-        "title": "1500 英鎊買比特幣卻遇交易所倒閉！英國男苦等 12 年拿回 Intersango 遺失 BTC，現值 330 萬英鎊",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRUF5VFotSWloNm9BaW5peVVFOE5NUW9JYjNydTVpSmQ5WWxDbUVEUXBsTFQtV1BKMF83NS1SSmxxY3R3T1ZOSFVyXzdXajA1cTdvMEtLMTgtSGdudGxVYkMtSm55bjdoLXNWUG1UNGYtbTd2MjctS0RhcWZEeTJaTXYzZm9IN2NBYlJhQkFzWU90N1l1dzQtYmln?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "08/31 23:50",
+        "title": "麗盈聊幣：9.1 bitcoin（BTC）與 ethereum（ETH）最新行情分析",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92T0EtMVNyRVAtVWJSRHJpckhidDV3bkRYQzk5TEJSb3hSd1hubXZGLXY1bU5LTXJaTU9vUlhfSlJKNndQNldTLUpTVE1mQlUwRzFUdGI3WVdPaWdZblR6cmI4dXM0OWVqYWJZ0gFrQVVfeXFMT3ZPQS0xU3JFUC1VYlJEcmlySGJ0NXduRFhDOTlMQlJveFJ3WG5tdkYtdjVtTktNclpNT29SWF9KUko2d1A2V1MtSlNUTWZCVTBHMVR0YjdZV09pZ1luVHpyYjh1czQ5ZWphYlk?oc=5",
+        "source": "Bitget",
+        "published_hkt": "09/01 02:05",
+        "related": []
+      },
+      {
+        "title": "9月1日張歷輝：今日Ethereum（ETH）行情分析及操作建議參考！",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ic1FXMnZBdU4xTjRzN3NkSGoybzFqemlPcU1ZaDl2aG56U3BXY2dIclZkRXVKODFkVVBQdlB3RGc4dV9vSDh4S05xVVJsRGQwOGh0MWtfaFdRckhZc2V3VTJiRHZxMHp1R0FF0gFrQVVfeXFMTWJzUVcydkF1TjFONHM3c2RIajJvMWp6aU9xTVloOXZobnpTcFdjZ0hyVmRFdUo4MWRVUFB2UHdEZzh1X29IOHhLTnFVUmxEZDA4aHQxa19oV1FySFlzZXdVMmJEdnEwenVHQUU?oc=5",
+        "source": "Bitget",
+        "published_hkt": "09/01 01:25",
         "related": [
-          "BTC"
+          "ETH"
         ]
       },
       {
-        "title": "BIT交易時刻：比特幣震盪磨盤，阻力牆、宏觀與歷史規律預警9月下探風險未除",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN0h3STdscU1xQmRJMEFLMWsxT04zSWdRM0hjQTJhNzZaV2YzNmZRbGJwa2ZXR1hoZkZIU3BPTjI4ZGxQWXluaDVxN2p1d2pLM3MtR2s4Y3JHdDdTZDdOaTZHVzJiR285VThDWk5vdi1jdE52aWZod1FXb3M4Y2Q2Mng4UEs2Zw?oc=5",
-        "source": "PANews",
-        "published_hkt": "08/31 23:35",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "比爾蓋茲稱絕對不買加密貨幣！重申比特幣是「狂熱驅動資產」，社群笑喊：我們還很早",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQmJwWHhtTC00Q3RTUDkxYWtfa1hYV3hIUlRidUxjWWNyVXZIOUI5dVRKWXBCanNqMW5hSjJPYUFSYjI4cGUxMUNzeVU2YnljOE55YmlDcDRLazhoczZERS12SkVaZkZlcy1SSUdRN0lrZm1OWkdCczdzUVdHS21fWXkwV0x6dlEyRGVIVjZKZXJCMGs?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "08/31 22:45",
+        "title": "2026 年接受比特幣和穩定幣的十大加密賭場",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Ya1BIanV5a014R3JiTWpyMm90d2lGZVlLVFBja3pMQk9fLXhPN2hiajJwQURxMmRWRGtNSktaV1ZYTHh4Z3dyNTJn?oc=5",
+        "source": "区块周刊BlockWeeks",
+        "published_hkt": "09/01 00:19",
         "related": [
           "BTC"
         ]

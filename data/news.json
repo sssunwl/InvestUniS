@@ -85,7 +85,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-01 19:26 HKT",
+      "updated_at": "2026-09-01 20:11 HKT",
       "news": [
         {
           "title": "【港股收市】恒指9月首日退守25300關 100天線支持迎考驗- 投資",
@@ -147,7 +147,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-01 19:26 HKT",
+      "updated_at": "2026-09-01 20:11 HKT",
       "news": [
         {
           "title": "台股全面走強，九月份直接挑戰歷史新高",
@@ -206,39 +206,51 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-01 19:26 HKT",
+      "updated_at": "2026-09-01 20:11 HKT",
       "news": [
         {
-          "title": "日本10年債殖利率破3%！日圓套利平倉風暴來襲，美債、科技股與台股影響全解析",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xQ2tiUGwtNVA0N0VqMDlwMXNiX216R0o0MFFrU1N4aDQ2OVhmR0JFUDhzOGxtX0FNUTVLbXh2SWdUNjRCX0oyS3NYMG9NbHlUeU5yMlB3djl3eWZNQjQzdEVrX3hvc0kwejhWWTNkZw?oc=5",
-          "source": "理財周刊",
-          "published_hkt": "09/01 16:57",
-          "related": []
-        },
-        {
-          "title": "恒指收市跌237點 北水流入78億 新股Shein跌0.12% (16:28) - 20260901 - 即時財經新聞",
-          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQWTVJMGFwdzZKNjRraHFFc0NSb3BHdFFkdmpxenVTa0FCYlZCVkp2U2hnNUk1cGE5cW5ydVlQb1U5R0RMQWU3dWxLSUVKcENNU1BUUlpvb3FNRTdQQzhMTVozMXVlc1ZWb2d4eWJBWVBzOHVLWmdtaXVWd292bEg2ZGNGbk9ocTlMYjRxZEFFQnhhTTFlMVFfRFUtWWctYS1CMWVKNW5EQi1jYkNaUnJuS1VaMWh5NHQyQVB6Y2plaWFUZnlDOTFRX2VZMWtDSm5DN1kxU296VDRvbm9GaER5NjY1Q0lOUlEzY0htV0VMdDAzNkJUUGxMR1c3ejdya04tZ2xWZnFsNm81QzAtOTJaVVRPQ0Q4cEk5Z2dzc0FEOE12WUFvNVlMVFNHcElTMzg?oc=5",
-          "source": "明報財經網",
-          "published_hkt": "09/01 16:30",
+          "title": "油價進一步走高…中東衝突升溫添不確定性日經指數微幅收跌| 全球財經| 全球",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CYmhNdkkwU1ZhcEhjaU9RM1RFbDcxcEdMTU5uSW45aFVyV3BkbjdFcTBJWWQxZ2FJTnlmSTE5UHJ2azBET1M0QThkTE1MZ0l2?oc=5",
+          "source": "UDN",
+          "published_hkt": "09/01 15:29",
           "related": [
-            "^HSI"
+            "^N225"
           ]
         },
         {
-          "title": "恒指收市跌237點 北水流入78億 (16:12) - 20260901 - 即時財經新聞",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVURQeldZR2o1RndiVXlseFVYdkR2alQydEdTVWtPajZ1ck1WSGJPUFFyU3dqNTdLTnpMQjJacUEzUkNULVJHS2RHTk41S3FqeUN4U2xQU1o2VHhzZDlJbGhGWGxJMjB0M18wQjNaUXZYMXB4Mm9BcWNSYlkzbkZETXUtNVhkX2VsUnNheEh4WFZzZ29DQkV1aFBYRjBxMndWdDJudUp1NGVVUExjQnUyekJxMFVXODd5VG5FaklaeTRvb2dnbzNjeGY0TUlXTFEzWVBtY3RTWVZIQnZEMjd6NlVKZEg4Qm93Ukg1TzM4eVgzNmZ3YlhfdUtWcVFHdw?oc=5",
-          "source": "明報財經網",
-          "published_hkt": "09/01 16:23",
+          "title": "中東衝突升溫添不確定性　日經指數微幅收跌",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IQkRwQmItZ1ZsbjZRVGRFd1ZOT3NTcXlaT3lTNTU4cm04djduQzRpSTl2U2drcUZsYVU1WFRnc0EySjcwR3M4dEsxdGtveWRtdTl4OVVxc3pUZ9IBX0FVX3lxTE95RFRQdk5Jck9rRl9qWE9pWjNVSlRVX0JsWVIySEg0YWMwZ3ZVWFZSN1FxbU1WaTljZmFvTk5FWUo0WTByTjBDV0RKR2NrODhObHBYWmFBcV9sRG9sM1dV?oc=5",
+          "source": "money.udn.com",
+          "published_hkt": "09/01 15:22",
           "related": [
-            "^HSI"
+            "^N225"
+          ]
+        },
+        {
+          "title": "日經一度重挫逾700點後收斂至跌0.15%，資金從AI半導體轉向金融價值股",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hb1FHNGtUZnRMNXk3RFVOVXY5eHZ4N2hrWUtwdE8wMmxaaDRvSTZ2bVhZOW5KTGx0YjZuYTdHVUlKYUhLYWwzVFU1VDYyel94RktIVlJ3?oc=5",
+          "source": "優分析UAnalyze",
+          "published_hkt": "09/01 15:20",
+          "related": [
+            "^N225"
           ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-09-01 19:26 HKT",
+    "updated_at": "2026-09-01 20:11 HKT",
     "news": [
+      {
+        "title": "早報｜比特幣現貨 ETF 終結九日淨流入，以太坊 ETF 延續流入勢頭；英國央行行長貝利警...",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vYWJlYVUxeG5yMWh5VEt3dlJONVhhbkN0Wmh4VWRYWlg2N1VOdjE5VWotcnVxMG8wXzQ4QlN0SXJVUGxaMkM0bW81aFRiNGd1QzluRHRCTmhaaDFUY1FF?oc=5",
+        "source": "链捕手ChainCatcher",
+        "published_hkt": "09/01 19:59",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
       {
         "title": "Robinhood Chain單日應用收入超越以太坊：550萬筆交易與8.75億美元DEX成交背後是什麼在驅動暴漲| MEXC 幣圈脈動",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSXFfYUplVVBBM3BnelZmZ3RvLTU5akJRcEF4VDRPaU5lbVZFbGRVWVprNmYtT3VhRjZieFV1Zm9tRTNYMmJBeHBMa2VPMkg1NTdyMjRPdUdweEpwRmJVR1J0cVBlVjQ1azZwYnAwTjB0QU83VkhBUjdZclRxNU1KWnZtZG9Zb2lHUGJfUVEwTVB0aXpVZWRxSTJmcThaYXpGS3FkM1pZZmJaUQ?oc=5",
@@ -253,15 +265,6 @@
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR3llV2RHWlRMWUdCTlZqcHVNZGF2eXE2RHpoQWRsY1d3R09tTzBGNDZnd2xuYVFoRVR1ZDNCSzdqMXlmQU1jVldXWWM5dDg5UWRocnVQME91N2V6ekdReEQtUjB0V0RYTXhIVEZta2NoRVp2TkhzM1RqMmxQTDhPLVZOM0hpX0lNLU9pbGpNTlpCclFtYlpMc1h1U2dUQnJ4RkFpcG1UTi1tN2Q1TVhvaFVCZjgyaVVxZGZOQzV5V1FkQ3A3bTljaWl1bmJ6WnRDa2lYTg?oc=5",
         "source": "TradingKey",
         "published_hkt": "09/01 16:55",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "Tom Lee：比特幣上漲很多人沒上車！第四季會有大行情，BTC 15 萬美元不遠了",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbnU5NmFoNUlvLTRXcWFxeC1TMEtYV3ZySndVWWQ2a0pPWnRaczhQZTdpc1NqdDFvNGJwLVZzRXkwWlRac0o2VzYtM04xRlZBWkIxNUhWU2gxRVdvZVZqMnlHODZpRkJlcEZuOFEzLXhLYllaWnd2QWVtdThNallVajFCQzVzUnpJcnZRaGQzNWJyWEk?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "09/01 16:44",
         "related": [
           "BTC"
         ]

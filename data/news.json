@@ -27,32 +27,28 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-08-31 09:24 HKT",
+      "updated_at": "2026-09-01 09:53 HKT",
       "news": [
         {
-          "title": "幣安「美股轉倉獎勵」：流程、投資人動機與幣安背後金融戰略",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05cFoyZnZKUWl6RDREaDNPNzNMSjNSSmkwVnRGTm9PMWhfT3lsVlVTYkVYYUt4UXhNX3JoY1lTRTBqZndWTlROVHpxaXZaN0xhTDhqcktwM1E?oc=5",
-          "source": "鏈新聞 ABMedia",
-          "published_hkt": "08/31 09:11",
-          "related": [
-            "BNB"
-          ]
-        },
-        {
-          "title": "美股出現罕見背離 費半摔入技術熊市！ 阮慕驊揭關鍵時刻",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XVmxmNDRhYlVZWm9mQlZqUWdfd1AyTEU0dmxhTTBFUWZoUkNPaGxPOXFCSkJzb2RKd2dyX3NNWDAtUE1XV3dtOGxqWFNaSUVEZWJGNXdB?oc=5",
-          "source": "東森電視",
-          "published_hkt": "08/31 08:48",
+          "title": "美股盤後：美伊衝突升溫、油價急漲，市場重新評估Fed利率調整 | 江勳紘 | 風生活",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xQnZnRDI3ck9KSWJNclBaanYybkRsNE9KYU5sdUQ5V3pIbHR1cEM0QTd5Y2ZoNnpQaElJLVEwcDN4R3I1YVFrUjNwblBHVFMw?oc=5",
+          "source": "風傳媒",
+          "published_hkt": "09/01 09:37",
           "related": []
         },
         {
-          "title": "FORTUNE雜誌—輝達CUDA版圖的大裂痕",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jX0VjZjQtSDIxRF9mSjlHMkRrbTFnQW1DOEVmTjI3SVJEUnIxV0IyYThjX0RRa0Z6UEZnOTNPVVdtZ0lKcWIydA?oc=5",
-          "source": "鉅亨號",
-          "published_hkt": "08/31 08:25",
-          "related": [
-            "NVDA"
-          ]
+          "title": "台股、美股恐震盪？學者示警「3大壞消息」：市場風險將暴增",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DaW10eUdqMVI3dk5lMl9DanVtQUV1aHhkejNpaUFPUVdmQ215bEktNUw0LUgzNlIzQkVyRlhhOHpGdzg5dnZ2OV9fekpiRG8?oc=5",
+          "source": "TVBS新聞網",
+          "published_hkt": "09/01 09:14",
+          "related": []
+        },
+        {
+          "title": "法人觀點：小摩撤回短線看多美股立場，9月16日Fed會議前轉為「戰術性謹慎」",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLW8zeFR2VndZeEU0QWdWZ3lWbUU1ZW1WVXliMFBqSEpBV3djWmlfRnhvcThNQjJNanFrb0M4WkR0XzN3ZW5xcTJvMm53WGYzd0xhUlVNaWtxR2pFM3BkMWR6VnZrSTI2aFpreGZWenNBbkZRN2c2M0xYNGpXRmtVZFM1MTJwTlYz?oc=5",
+          "source": "ww2.money-link.com.tw",
+          "published_hkt": "09/01 08:56",
+          "related": []
         }
       ]
     }
@@ -242,32 +238,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-01 03:26 HKT",
+    "updated_at": "2026-09-01 09:53 HKT",
     "news": [
       {
-        "title": "麗盈聊幣：9.1 bitcoin（BTC）與 ethereum（ETH）最新行情分析",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92T0EtMVNyRVAtVWJSRHJpckhidDV3bkRYQzk5TEJSb3hSd1hubXZGLXY1bU5LTXJaTU9vUlhfSlJKNndQNldTLUpTVE1mQlUwRzFUdGI3WVdPaWdZblR6cmI4dXM0OWVqYWJZ0gFrQVVfeXFMT3ZPQS0xU3JFUC1VYlJEcmlySGJ0NXduRFhDOTlMQlJveFJ3WG5tdkYtdjVtTktNclpNT29SWF9KUko2d1A2V1MtSlNUTWZCVTBHMVR0YjdZV09pZ1luVHpyYjh1czQ5ZWphYlk?oc=5",
-        "source": "Bitget",
-        "published_hkt": "09/01 02:05",
-        "related": []
-      },
-      {
-        "title": "9月1日張歷輝：今日Ethereum（ETH）行情分析及操作建議參考！",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ic1FXMnZBdU4xTjRzN3NkSGoybzFqemlPcU1ZaDl2aG56U3BXY2dIclZkRXVKODFkVVBQdlB3RGc4dV9vSDh4S05xVVJsRGQwOGh0MWtfaFdRckhZc2V3VTJiRHZxMHp1R0FF0gFrQVVfeXFMTWJzUVcydkF1TjFONHM3c2RIajJvMWp6aU9xTVloOXZobnpTcFdjZ0hyVmRFdUo4MWRVUFB2UHdEZzh1X29IOHhLTnFVUmxEZDA4aHQxa19oV1FySFlzZXdVMmJEdnEwenVHQUU?oc=5",
-        "source": "Bitget",
-        "published_hkt": "09/01 01:25",
+        "title": "麗盈聊幣：9.1比特幣（BTC）和以太坊（ETH）最新行情分析",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QLXVvZ0JSb0pXS3M3NlNaVXFUbXE5SlFuSEpic3RJenBsVXBuaEN2LWdxY1Z1YmtDd0E0LV96MExIblFvOVZINHBRV0dhM0E?oc=5",
+        "source": "news.cnyes.com",
+        "published_hkt": "09/01 09:00",
         "related": [
+          "BTC",
           "ETH"
         ]
       },
       {
-        "title": "2026 年接受比特幣和穩定幣的十大加密賭場",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Ya1BIanV5a014R3JiTWpyMm90d2lGZVlLVFBja3pMQk9fLXhPN2hiajJwQURxMmRWRGtNSktaV1ZYTHh4Z3dyNTJn?oc=5",
-        "source": "区块周刊BlockWeeks",
-        "published_hkt": "09/01 00:19",
-        "related": [
-          "BTC"
-        ]
+        "title": "BitMine再次增持51,000枚ETH，約合1.26億美元",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CTVRGMUoxOEZINnJNcnlQNEI2UWZqdjdTeDlNMzZsTlA2dW5ZYzVMdU9aeTE2d251dzZBa0d3MF95WkJMOTB0UVBFMkFaLXc?oc=5",
+        "source": "news.cnyes.com",
+        "published_hkt": "09/01 09:00",
+        "related": []
+      },
+      {
+        "title": "瑞波 ETF 九個月吸金 5 億，機構信心超越 BTC 作者 智通財經",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ob2hOX0RvY3lHQ2IyRDdFY0cteUNDS2l3ekxxLUdIRjNtUF81TXdDa1NyNHlSY2ViUjJ6cDVvUjFrLWF1MlZKOWEwQmN1OXVlei1GS0tvbkszNldyYmhCbUpXdm5BYm1kVE5qQUNxdTQ?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "09/01 08:46",
+        "related": []
       }
     ]
   }

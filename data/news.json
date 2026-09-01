@@ -239,37 +239,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-01 21:35 HKT",
+    "updated_at": "2026-09-02 01:14 HKT",
     "news": [
       {
-        "title": "比特幣 ETF 迴流 2.17 億鎂！以太坊 ETF 11 連陽創史上第二長",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYlpWU2pQOXl0Y3ZPd2N1M2J6YVotX2tSQWtyZ1dEZjBNUGxSVmRSczJrd0xrSGZmcWxqb2NnYjA4U2lNSFA3enJ4OURKMWRsbjlZUXRCRlNWTC0tY1k1X1kxRHlHTTRmUmVEVGVPeWJqWUN3cE1XbEUwSGw5eF9hckV5SmU1aVhHdUtJRXMtTnBheGc?oc=5",
+        "title": "XRP回吐升幅逼近1.38美元 華爾街8月掃入16.7億美元ETF資金",
+        "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOLW82bzBDVkhqTnJBZ09DYXhKZ2ljbkQ0WGp0NkdvbDVKRENUak9TaXBYaDJQaE9yQUdRSzluN1YtSVdLSmFXVHhMMGcyM2NacWM1UFVDSi1VN0ZoajE4YW5OYmxQdFlHd0lvZDAxWnQzV1hWSXgwdlNSMUNNbXNsX3Z5T3ZhdVRaSUpsaU9hMjRVSHpIdXpLS21CN3hlaXhicTl2WEpXLW5ldXpZTWpNOXp6UFNpTU9KVFVZWTYxQWxnNzN4a0pHV19xN3VtOHlaYmI0N1Q4U1lLQnlQbUtkcVJkdi1fOXJ3dkM0N0F5MGdSSjBRQ3lieFpXOWZVWnRFTkRDNjFBXzhLVjY0N29kQVBOM2NNdkx4LTI5NGx3RVlTNnI4VUxWb09veEtrWEF5aUFLZ1FFVWN3M0E?oc=5",
+        "source": "Yellow.com",
+        "published_hkt": "09/02 00:10",
+        "related": []
+      },
+      {
+        "title": "比特幣與黃金鎖死同步！90 天相關性創歷史新高，牛市前兆再響",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcU4zWGNvRTdWZi12MFM3RE9LUE11YXVETlZYYXAwOTNGVExaQXh2ZGxtYVItN1ZlTHB3YXlIMUFaTmNXeUl2aFZScHBlQjk3OGNvSndQX1kxMGVVc0dFNTJtcVA0QTRFTUIwSzdrRnp3Wk1nX0l6Q3lhemt3NWRNbFdEZmpwUzI2QXdlWkk4VVhhaHBERnFJRVVsMnBrVkQ0RElMZ1BCWEZteFk?oc=5",
         "source": "動區動趨",
-        "published_hkt": "09/01 20:17",
+        "published_hkt": "09/02 00:06",
         "related": [
-          "BTC",
-          "ETH"
+          "BTC"
         ]
       },
       {
-        "title": "早報｜比特幣現貨 ETF 終結九日淨流入，以太坊 ETF 延續流入勢頭；英國央行行長貝利警...",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vYWJlYVUxeG5yMWh5VEt3dlJONVhhbkN0Wmh4VWRYWlg2N1VOdjE5VWotcnVxMG8wXzQ4QlN0SXJVUGxaMkM0bW81aFRiNGd1QzluRHRCTmhaaDFUY1FF?oc=5",
-        "source": "链捕手ChainCatcher",
-        "published_hkt": "09/01 19:59",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
-      },
-      {
-        "title": "為什麼比特幣、以太坊、XRP難以延續漲勢？",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOU0E2NjhOZVZTc0NHdHQ4WWNYVUNrMnFLVU4yRlo4cDRkZzRxZ0pyeG9oNlpKamVHMkVQdFFLU0M2NjVLYWJyLVBKMXRfMXBPMG5rUE9BVGNRc3ZBa0JNcEw5dGthbUl2WUstanBkLUNscDIzb0VXNzVtd0dGZE9tTHJtN2w1RDQ0V1JPTzBKXy1XSFpuSGVsZFdpeVJ6WXd4d1BuZk9KTW9oQzdKSlctaUcwMDNWeXVyOHItUGhWRzhfZF96UnFsRG0zSUEtMWFDVXdTYlE4ZV9tMnRjU3BBdFYyVjhtT1oyOXFLUVpvY9IB9AFBVV95cUxPM0Z1ejlYUVBxSGVtZU4xZ3pYb2o1TEpOWUlBUDl1RjVmSGdFdVE4TFpOcXNwX0hLOHY2NHJoNWVwd2xQRG1fQ1N2akRpLWk0SFI1QWp0b2pNVVV4M01mRGprZHJEMWdhYmxMemJybjNRQ0pWWEM4em1XZXdGZXpLSkxWLUVTbXdDY3JGNUdoTXQycjB1VEEwM0JhOGtXT0NkTGdfYy1sVXdOckVINjhlLUw5Z25hR2FSczllWlhuV2N5ZExNQ1UxZHJIR29YSmlDalFwYkdUSG1tckdlbzNNRHg2SjJCX2pMNUtNZUpGZl9lNjl3?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "09/01 18:23",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
+        "title": "Circle Internet股價今日為何下跌？ 作者 Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSTURCUFNTaVFtM3JNTW1GWk9UU2NQWncwYkpFSXg3bjYybXpIRmNvQV9GRmZYc1UycEwwVUZXUC02aUlST3hqaUhIUC10MmkyNlpJRGJKbXVqUmN0c3Y3cmI1T2p6WmZtRTU3UGxBS3hVa1NsaXdF?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "09/01 21:57",
+        "related": []
       }
     ]
   }

@@ -238,30 +238,29 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-01 09:53 HKT",
+    "updated_at": "2026-09-01 13:30 HKT",
     "news": [
       {
-        "title": "麗盈聊幣：9.1比特幣（BTC）和以太坊（ETH）最新行情分析",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QLXVvZ0JSb0pXS3M3NlNaVXFUbXE5SlFuSEpic3RJenBsVXBuaEN2LWdxY1Z1YmtDd0E0LV96MExIblFvOVZINHBRV0dhM0E?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "09/01 09:00",
+        "title": "#美国加密关联股指8月涨8.81% 社群見解與市場情緒 | 幣安廣場",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeVVQNnIxenpYczBrTHVlajdmRkMxcmg5LTBuT2hiaVFGc0VmaWNyQzl6bXZXcWNqZk5BeGlWbmEyMTVZdU10VVR6VEd6N1R3S2JxZVQ0WDVXR1licmhETkdLUHpMdmRuVXlHd3BuNXV0MThHTTZlTXdSREhJdnY4NXFscTZIemQ3SnNNd0o4TU5Vci1Yd3l2OGdkeHZjUnRKUHY4c1lUZ1ljTGFWajZOYzc1RzBGX0V6OTh6cDVRcVlDWUZ4dG1Uai1DT1Y3S21kbEhSdTJiY1dpUVE?oc=5",
+        "source": "Binance",
+        "published_hkt": "09/01 12:18",
         "related": [
-          "BTC",
-          "ETH"
+          "BNB"
         ]
       },
       {
-        "title": "BitMine再次增持51,000枚ETH，約合1.26億美元",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CTVRGMUoxOEZINnJNcnlQNEI2UWZqdjdTeDlNMzZsTlA2dW5ZYzVMdU9aeTE2d251dzZBa0d3MF95WkJMOTB0UVBFMkFaLXc?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "09/01 09:00",
+        "title": "周耗 5 億美元：財庫巨頭重啓買盤背後的資金閉環 提供者 智通財經",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOckVNTERNdEJrekRQemlBVEttdFFpYzdYaUVzU3ptLVVkSnRCbXJHdzN3eGc3d2tvbXRocjVzQThLTXZMU1NQektOVXREWGpJcDdQamlqVmZ3Ql9yaXR0bXg4bWJTWHYwU1R3UHVHWkoxd0YtRmxsZFl4LUpKNjN5cQ?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "09/01 11:49",
         "related": []
       },
       {
-        "title": "瑞波 ETF 九個月吸金 5 億，機構信心超越 BTC 作者 智通財經",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ob2hOX0RvY3lHQ2IyRDdFY0cteUNDS2l3ekxxLUdIRjNtUF81TXdDa1NyNHlSY2ViUjJ6cDVvUjFrLWF1MlZKOWEwQmN1OXVlei1GS0tvbkszNldyYmhCbUpXdm5BYm1kVE5qQUNxdTQ?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "09/01 08:46",
+        "title": "從 Pay 到一站式資產管理， BiyaPay 拓展全球多元金融服務邊界",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LS0pVT0kzVHVTMF9lcXBwRkl6R21nU29xeWdpUWVYLUh5TW0yOGk5cHNseUZIYnJFNHlSM0JkOVVGUjJWWWxPak5hQ0tnRE56UElEbg?oc=5",
+        "source": "odaily.news",
+        "published_hkt": "09/01 11:35",
         "related": []
       }
     ]

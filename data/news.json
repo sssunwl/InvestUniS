@@ -84,7 +84,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-02 18:59 HKT",
+      "updated_at": "2026-09-02 19:48 HKT",
       "news": [
         {
           "title": "【港股收市】恒指跌18點 跌少一大截 寧德時代挫逾4%",
@@ -146,8 +146,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-02 18:59 HKT",
+      "updated_at": "2026-09-02 19:48 HKT",
       "news": [
+        {
+          "title": "百萬股東崩潰！外資撤913億砍這檔4.5萬張",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wZWRnOHJQeHpScFF4S1RmXzVzMTlCV0dGOFZNU2UtOHdtdGgtb250SFBkdGNLSVlMZlpVaG5kUmZUcXEyd282Vlh2WnBLbk1neDdOS1ZZOUl6blowZXNFdWt30gFiQVVfeXFMTTBlZGc4clB4elJwUXhLVGZfNXMxOUJXR0Y4Vk1TZS04d210aC1vbnRIUGR0Y0tJWUxmWlVobmRSZlRxcTJ3bzZWWHZacEtuTWd4N05LVlk5SXpuWjBlc0V1a3c?oc=5",
+          "source": "鏡週刊Mirror Media",
+          "published_hkt": "09/02 17:45",
+          "related": []
+        },
         {
           "title": "TWA00 加權指數- 盤後紀錄及早盤當沖選股補充！9/2 - 股市爆料同學會",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LM1NjVHNuLVFXVWJ3YjgyTnYtZmN3Qk9nWnM3aTZzYmNCRVp6YmpRMFM3cFhaNld4UlRqVGxHYUZtTzJrMlhObS1vTm8zT0ItcmJJRU4zOEs?oc=5",
@@ -158,20 +165,10 @@
           ]
         },
         {
-          "title": "TWA00 加權指數- 8成員工支持！台灣美光罷工危機一觸即發- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nN1cxaTNuRzFucUk0TUpsQ3UxZVFzVUdQRUlFSWtWMjRPMWpISHRhekhIMV9mSEtWZ2pJVFNXcktkclg5Mk5ZVkhMOEk3UHF2WURDc2t3TUg?oc=5",
-          "source": "CMoney",
+          "title": "加權指數跌破五日線，電子賣壓何時止穩？-孔明投資長",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wX0pWZ1hKM3liSF9Gb3Y0UzFlZE1Zb0U4YUpwNUlZay1DeHBpNkVLZmZTb1hPLWdfVUdseHNyclpaOE84ajBSM0dPTFlIS0ZtTG1hSkRqXzVQSmVUdDl6Tks1b19DbnBXcjFxNDliQ1Eya1V4MFZtWHZEYVNsSnM?oc=5",
+          "source": "cmnews.com.tw",
           "published_hkt": "09/02 16:59",
-          "related": [
-            "MU",
-            "^TWII"
-          ]
-        },
-        {
-          "title": "加權指數失守五日線，電子賣壓會繼續擴散嗎？-基本面選股技法 - 邱柏",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdE9NbmFUallwN0RIZXZxNEJjbWppMXRZeW5CdUtYbUo4aTYwSzMxaFYtWkZGa2Q4dEtKbzVjbTVUS19yc3lVcnBxQXRKMG95VDhyZzJQR1RhRFBVcXRuZmstRWhJcXdHeFBWbXUtcFZnY0FDMnRwZWxBWmktU3ZjSkRB?oc=5",
-          "source": "CMoney投資網誌",
-          "published_hkt": "09/02 16:51",
           "related": [
             "^TWII"
           ]
@@ -209,36 +206,36 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-02 18:59 HKT",
+      "updated_at": "2026-09-02 19:48 HKT",
       "news": [
         {
           "title": "美伊衝突升溫油價飆升 全球股市下挫美債殖利率創高 | 民視新聞網",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNMnpfbzhHdkdqc3VoUmJDa3N4SFdKUHF5aTl4aUlOZXk5YmFiX1pNQ2xHbnJfY2tvTzlBMGE0d3hpOWtxUXlRekFRaDZZMDlUS25oYWpn?oc=5",
-          "source": "LINE TODAY",
+          "source": "today.line.me",
           "published_hkt": "09/02 17:50",
+          "related": []
+        },
+        {
+          "title": "《台股盤後》重摔784點、日K翻黑，跌破5日線- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWGVZYzhJUmkwUXN0US03bmNhcWhOT2RPbjRRc2wtS2Y1SERzUm5nSHZqeXJBVVYxalhfUThtVVpFUmV3QVJJUjJCd0lWSHZyRWVhZFloYzVTTXVaNmtFS1pEUUJJZktXRmt3WWo4bktDNlB4eFJaNlZMZjZOcVlJS1NCM1VaS1Bid1VId3ptTzhpdw?oc=5",
+          "source": "MoneyDJ",
+          "published_hkt": "09/02 16:10",
           "related": []
         },
         {
           "title": "【即時新聞】華爾街血洗拖累亞股跳水！那斯達克(IXIC)期指走弱，油價飆升加劇通膨隱憂",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSlZwVnNINGxWNUpRYi16aTJ0SDJUX0FDaW9STmpfY1pGSmFudXM4NU1xNWlVdmxRTVVtUE5jdE1WdHMwWkFWY1A4bU5kUEM5cXRaR3lqbndHZ2xRMmo0QVJGV2MtQ04zVF9DMEV4OUY3dTBHcUJDd20tYVZ6TGZiSHc0eTlTeVVnaVZObGZtQk0?oc=5",
-          "source": "CMoney投資網誌",
+          "source": "cmnews.com.tw",
           "published_hkt": "09/02 16:06",
           "related": [
             "QQQ"
           ]
-        },
-        {
-          "title": "日本宮古島爆發嚴重流浪狗危機！60隻山羊遭咬傷 當局緊急應變",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJM0M0MGRyS2U5NkI5Sm1jQ0p1Z3M1YzkzcUQxeHZaWlhVWUJYbTVFOG1tMGltSjI1aDVfOVNrQ1B2eE95eVAzUmJiemlfNDg?oc=5",
-          "source": "TVBS新聞網",
-          "published_hkt": "09/02 15:46",
-          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-09-02 18:59 HKT",
+    "updated_at": "2026-09-02 19:48 HKT",
     "news": [
       {
         "title": "比特幣價格預測：當前BTC回調是暫時性修正嗎？",

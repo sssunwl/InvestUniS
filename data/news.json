@@ -235,31 +235,27 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-02 20:51 HKT",
+    "updated_at": "2026-09-03 01:04 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣跌0.62% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMnNZMlc5U2l5LTMyVFFJYVlxbVpJMUFzazY5QXFpTHZQUUtuR2F1MnFCWFZkd2tKYU5Ja1J2U0p6ZWVQVTdQdDlyT2hHVjhHTDk5OE84ZlFpVkJlUmNzQ2ZzWlZVYWFBTEtuQUFDWkJVMmxjVU9aZ2pvamQ3SUp1ZjlWNnl1c0RYeEh1NnIyYThEazJSa3YxV3FqNXZTcnN6?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "09/02 20:36",
-        "related": [
-          "BTC"
-        ]
+        "title": "Robinhood 迷因幣熱潮兩面刃：信用卡結帳惹合規爭議、鏈上疑現 2,000 萬美元巨額滑價",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QWFdnRnVmaGJUOGVXQkRGaFBCNWRIMGMyZWdFMnpMeWMwanMxXzFNakZ3UUxmR0dsSEwtb2dtUUdNbmZHUXZkcVNVUQ?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "09/02 23:00",
+        "related": []
       },
       {
-        "title": "日本比特幣財庫公司Remixpoint 清倉山寨幣！只留1,506 枚 BTC 單押| 動區動趨-最具影響力的區塊鏈新聞媒體",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOGNsTzFFVHJPQlJVQmdxMi0tZzYzaTBUZWo3c0pBbFg0Z1hXOEUzYmxOQ2lEYUVnaGxPclVtenVNZFphTzVRY2M2Y2hIWGRLa2x0WlNTSmdJbDBoMGd0MEZCZmttd21FMy1ySDY4V3ExYVRVSnNxXzV3c2FMY2poM3Jzaml0cVc1RW9lanBGMTgyTVB0bTJoMkR6YjdMQjBrZ3c0?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "09/02 20:28",
-        "related": [
-          "BTC"
-        ]
+        "title": "從 Meme 到金融資產：BONK 的金融化路徑正在如何形成？",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mUjhmUF91dE1hRG1lVkRsTHNvTjJhR1pRWUlMZi1nZGhSVU9OQ0UzREJ0c1o1bVpGRmhHQVhkWjBkMWdacGlTWkRWejlKekE?oc=5",
+        "source": "news.cnyes.com",
+        "published_hkt": "09/02 22:00",
+        "related": []
       },
       {
-        "title": "以太幣槓桿倉位急增 大戶逾2.53億美元轉幣往交易所",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQNlVia05ObGtBdklkNXhuUGFDZ040SWdqUlYxcDJHNHhTcTlCN1ZqWnpKTmxzYXdJMjBSTjhmYW4zMjAwdVNGVUtUdnZaV2VsdmtpZUlKOFdpLTZNejR4TEw5SUMxc1loMEVVMjVaVEVCc29FeXc1b3JGbUVOUjQzenJjMjVpdkVHdElzTDNqa1ZxZ0JTNUdUbEhEQTNrTXM3U3hPejlTYnU2MVNMb185VVpaZ3dvMTBuSTRLblYxMEt0Zm41eTJUVXZJa2plRXlGNWpqZk41TDhZN1BZN18xTXFwZW93TUNTdWZhN25Pb0I0VkhwOTNYRzhTb0dfZXVYUEIzMU9GZ0E0Q2sxbWhpQ19GdWk5RDM3alhHTzRfWkozWDRKNnFsdzhEYjN4N1Fwamk3N3U1SDF3b2RNcTNxNkdqR2ZlZw?oc=5",
-        "source": "yellow.com",
-        "published_hkt": "09/02 20:25",
+        "title": "8 月加密貨幣領域因安全事件損失約 2.15 億美元",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPQXhWYXVZdWxvellVbzE5ZWRTUzN0NkhLNV91UmhiNGZwbWZNcGZ0d2hkVDRpTHdEY0VPbXlfWHZ6ZnNxUGxyRGh1aXNpZ2s?oc=5",
+        "source": "news.cnyes.com",
+        "published_hkt": "09/02 22:00",
         "related": []
       }
     ]

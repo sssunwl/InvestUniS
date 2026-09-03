@@ -85,7 +85,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-03 18:58 HKT",
+      "updated_at": "2026-09-03 19:48 HKT",
       "news": [
         {
           "title": "HSI港股雙頂雙底之爭",
@@ -106,10 +106,10 @@
           ]
         },
         {
-          "title": "恒指倒跌97點 SHEIN插近9%、交銀降蔚來目標價",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkbWw3dmh3YkljRzB4SUFTRUJVNERBX2hNWXk2MEozamNxVy0xaU1Ob2FtbGRyNFRKRFE0M0dHRXV0WEpLRjMtQ1FDMEhvRjBSS2J6dVNaakk1R3VubGZn?oc=5",
-          "source": "hk.epochtimes.com",
-          "published_hkt": "09/03 17:12",
+          "title": "恒指收市跌97點北水流入34億成交跌至1993億元近4個月最少(16:29) - 20260903 - 即時財經新聞",
+          "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPWEM0UlM2bm9vRy1BS3Vnd0VqbzlCcmdzOTgteEZRQ3E1U2JCZ1RfbXdmQ0hLaG5QV190ZDB3Um9QczBTZnE4YktVVU5oU1RJU1B1aGJGS2ZTUmtwLTJDWnJYbTh1X05KNzhva1ZyZDlWZF82bXM5eF9qNHIxRU5vWnRsTVo0blRpT2pnQWJwSG93b0tTNElReW54X2ZJeERydlVoYmVIaUo3dWZkWk9SanJ4WldlWHNqN25Bb1B4V0QzV3VWdHh0V0tIaXdnVUpmeDcwbTNadTNIY1FYR1B3MTJuUnl2RUdlU2swZlpGM1R1V0x0eFREc1NmdUNWdnlfbGxtby00bjJhSWhXWHJsSEtIRUNpNzF5U3ItQ3NvRE1ta09EVm9aMmU0a0V6YjRqODNHWU1PcUVFWENsNjhoUUxIU0NKdjNaa01BYVVTLTdLZTRqVmNocExTM2I5SVp4UUVXMVN5UGlqUVdURmFrVS1DeWd3RGdSZkxYckFpWHdWZzFuYU1NWE9n?oc=5",
+          "source": "finance.mingpao.com",
+          "published_hkt": "09/03 16:58",
           "related": [
             "^HSI"
           ]
@@ -147,8 +147,26 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-03 18:58 HKT",
+      "updated_at": "2026-09-03 19:48 HKT",
       "news": [
+        {
+          "title": "TWA00 加權指數- 後方連環爆！炸癱俄第二大城、軍工廠突發大火；烏祭空域絞殺戰；... - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTQmJJcmdia0lwaS1aenJaRzZsUTROTGFlcTFTcjg3VUlqbFpCNlc0OV96cHB0OHlZS2Vja21mRFB6S1NpMHJNb3hNcUMzdkFTZk1fQkhQTjU?oc=5",
+          "source": "CMoney",
+          "published_hkt": "09/03 19:18",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
+          "title": "TWA00 加權指數- 普京公開力挺伊朗，俄伊秘密研發超音速導彈！鋯石被烏克蘭實錘造... - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzZXhpcjlpVHo3bUF4bEdXMVQ3SVZGN0tVeFJyQW5Uc0g5OXU4VEgyVDBvUG14bmpmZHhUb2ptOHNOSkpoVW9BVnZsU091cG9yc0tqR0NWSWo?oc=5",
+          "source": "CMoney",
+          "published_hkt": "09/03 18:46",
+          "related": [
+            "^TWII"
+          ]
+        },
         {
           "title": "加權指數跌破四萬六，資金轉進金融與綠能能續強嗎？-基本面選股技法 - 邱柏",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY3d1X1Z0NzNBeDVpUE9UWGwwQS1IT05SQ0FaUlpoZ0RQYmM1ZV9uNUhvSzdDcDRkbUJEdWRqem50MDlXa1BLY3NKWXFuYWlxa1Y1bzNabUtHcG9vU0pnU29ONk1GSWRhQkVSd09SX3NLaE5vR2JOdEVTNE5hd0k4aHl3?oc=5",
@@ -157,22 +175,6 @@
           "related": [
             "^TWII"
           ]
-        },
-        {
-          "title": "TWA00 加權指數- 楊爸用真金白銀換來的5個股市真心話- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oTHA2MEJLbkpCdVhMdi05NWpOQV80ZkRDT1luWE5NZkZDaEVUeEpnM25sRFEzTnRwRXc1RVFjdS1HaVZzWkZqSjJ1blg0RExwb2pWMjd4N3E?oc=5",
-          "source": "CMoney",
-          "published_hkt": "09/03 18:06",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "台股破線引爆9月震盪？ 這族群「底部訊號」悄悄浮現！",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvaXozRzRKejNLcGxoZzZfWHVWWWVWRmhCdDg3WHcyODlTRWR1TFp3MjNvSnJWSzRHZDZUZEpBcWlPVGVDTEJyX0xPblBHeUNXNjFWYXN3?oc=5",
-          "source": "優分析UAnalyze",
-          "published_hkt": "09/03 17:06",
-          "related": []
         }
       ]
     }
@@ -207,7 +209,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-03 18:58 HKT",
+      "updated_at": "2026-09-03 19:48 HKT",
       "news": [
         {
           "title": "【即時新聞】標普500(GSPC)與科技股強彈！川普發言帶動油價跌破91美元，亞股走勢震盪",
@@ -240,7 +242,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-03 18:58 HKT",
+    "updated_at": "2026-09-03 19:48 HKT",
     "news": [
       {
         "title": "渣打銀行擴大加密佈局：在阿聯酋推出機構級比特幣和以太坊現貨交易服務",

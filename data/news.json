@@ -236,8 +236,15 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-03 12:53 HKT",
+    "updated_at": "2026-09-03 13:25 HKT",
     "news": [
+      {
+        "title": "ALD (ALD) 價格預測 | 2026、 2027、2028、2030 及未來走勢 | MEXC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0TUhfTWxTMHdoNnZzQXBLckpLWmg0bmZDbHpkVm1IcjVIVUt1bzFKS3Q5U2pCZ0s4NGpHaXBQU2xVY3NncGo2bEo3dE9kYnd5bTdxRm9RZWdlUDA?oc=5",
+        "source": "MEXC",
+        "published_hkt": "09/03 13:13",
+        "related": []
+      },
       {
         "title": "比特幣跌至77,300美元，美伊衝突與利率憂慮打壓市場情緒 作者 Investing.com",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBheVVDa1BZalRKRVZxNVcxM1FRZ0xDV1Y4M3BqZXhubzBGaEo3TXYzaXZXdGhqY2tmUGx1bjZNZEdNSkdLSzJnbi10bkhDMzNjdzZkZ2xLYi1tTHk5VGtfNG1EZVR4S29vWmRJbDV4SXc0aWs?oc=5",
@@ -255,13 +262,6 @@
         "related": [
           "ETH"
         ]
-      },
-      {
-        "title": "9月2日：BTC、ETH、STAR、DOGE、BOME、Robinhood行情分析",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kX1NTV0lpNVd6YUVnYkhjam8zdTA4VjN5a3dhS0ItWUNPRmhWSDlLOEhIeWVqZ1NTY0RhVS1hdWdZRlp2M1kyX2pjbHhmVjA?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "09/03 10:00",
-        "related": []
       }
     ]
   }

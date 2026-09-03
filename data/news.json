@@ -27,27 +27,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-02 12:56 HKT",
+      "updated_at": "2026-09-03 09:13 HKT",
       "news": [
         {
-          "title": "道瓊跌破關鍵支撐 技術分析顯示美股修正壓力升高",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wSWdBX2hzWVl6d0QzbGw3NHltZlVPWGdVTHhMZ3JSNlhSRXJNc3RRLUxDSFF4SUtHQkRyOU1jWmtsWU9Ra0JZSkJodEc4eUU?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "09/02 11:35",
+          "title": "美股反彈道瓊收漲近300點 債券殖利率隱憂仍存",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPSzlwZ0lkWXh6YURfS1RxeUo3c2FoVFVycC1oamV0d3pHX1E4TE1PQV8wMF9RVDVTTnYwa0RvVlhUdWdKM2ViSTEzVklqMzNIckNSMTc1NlNTWVJCd1gxMUxoN19fVVRoQVBGaFlDWHZIeVZtcGphWVlJdV83MERNX2c3anZjRzlXSmNxUjBUVlRoXzlFemVzV0RRTXloTXJPMm9HRFlUTWFKczF2VmgxZmVLdHNIRm1ERk9yOV9QMXIzNHJoNGJ4S3hzaTh2cWJxNTdGcERqZEg3T2RsR0l1LU1CTlhza1p2a0RWVUIzZHJLajh5dWlIU0ptMzhXQVZ6eFpoNE9weUw5RWhnQm5OekxmaTMtQUdPS2JFTmJDNlFOMFUzOGtVakQwbEtzakpzNFBkRlB2dlVxTUo1OHRvb21INA?oc=5",
+          "source": "商傳媒",
+          "published_hkt": "09/03 08:31",
           "related": []
         },
         {
-          "title": "【即時新聞】中東衝突拖累美股收黑！戴爾科技(DELL)財報超預期盤後飆升逾10%",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZnZBcV9lMUZmTHBxUjlVWGc1ODR6MlRHMnJNdHpsS0pKS2owLU1ha1h4SHlnZlFublBIZGUtUm1Za19mcWJRNnRXeVFRTE9sUnN2TDd3U1ZidnlSU1pmc1MxYlVQRnF1bV9oOW1hYWkxVFBnVUNkcVBFTm1KRVdaNUEzRXNXZzlrWnhUd3RvMmo?oc=5",
-          "source": "CMoney投資網誌",
-          "published_hkt": "09/02 10:51",
-          "related": []
+          "title": "輝達財報、財測雙報喜！00924吃到AI紅利 近月績效稱霸美股市值型ETF",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hSktublBtbXZaNko2TmYzbkpVMVVpZzlNbXZreHEwZmFjdVRtUEViT3A1NkxBc3NEZk5aLXFYTHF6UWdjZFc5M3poUmZoZUtkRlE?oc=5",
+          "source": "n.yam.com",
+          "published_hkt": "09/03 08:20",
+          "related": [
+            "NVDA"
+          ]
         },
         {
-          "title": "討論牆 | 美伊衝突再起！市場憂通膨美股多收跌、費半逆勢上揚 台指期夜盤微漲",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13c2FLbkxBZDlVQW9OY1NZT2pIMWxpMTFQWXFrUHlsSmNHTVZVUnNCRFNndW8ydUhBWUUyUHFiWUZxMUNyTzFlaEJwb1pfakdxZHJxN3NNZlU2ZktSbWtRTC1mNWY?oc=5",
-          "source": "today.line.me",
-          "published_hkt": "09/02 10:41",
+          "title": "隔夜美股| 特朗普安撫市場後油價漲勢暫歇，三大股指普漲戴爾(DELL.US)漲超15% 作者智通財經",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6THh1Y1FrNnVuRFhaYUJlVWtOUy12WmFkclVwQ0JRbTFuT0RxRkN5LVg1TnVra2ItZUhReUE1R0VJYnI0MDZiR0Fsc0NNeG5Wb2pFdG10QXktWlNjUHhSbTBvRzE1Zkd1UGVFU1lDUjY?oc=5",
+          "source": "Investing.com 香港 - 股市報價& 財經新聞",
+          "published_hkt": "09/03 08:19",
           "related": []
         }
       ]
@@ -55,30 +57,31 @@
   },
   "hk": {
     "pre_market": {
-      "updated_at": "2026-09-02 09:07 HKT",
+      "updated_at": "2026-09-03 09:13 HKT",
       "news": [
         {
-          "title": "交易所買賣基金的交易資料",
-          "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPMjF2akZURjZJRnVuU0Z0a3ZmTFF2clRBQWluMDM1NlFqaUVKSlV4ME5FLVJCY2FRbTNyUUtpc3luWEpVSWVzWTdacWdueWdGd2JBUmEySGdTSThVbk1JekZZVUlheUJJeWtKMEZPZlJ0MVpPSllQclFBZ0tBUzZBeGdtcEZ6RFVFU29Wc0MtUUtJLWdlSVpQV0dnUE9LT2Vab1FkNGVldmw0OEotS2pKVkZadlplemRTemtpYTJxWHppNUxlbGgyM1d0dVV5c3RmQk1wcHQ2blZpX1c5VW5ONVZ1X3laSTBMZlJTcDN2YjgxMXhDZU0wcWJjYXh1U0ZJMnBlWEZ4MXB2ZGRydU9PQ1pwWHVJckQ5Q2NSNllCb001Wk5Idmh5QW1nWFc3Q3dwamFvam4tbkxxV3N5Mzk3cEV5SFRmZUZKSk41U3lOYw?oc=5",
-          "source": "信報網站",
-          "published_hkt": "09/02 08:54",
-          "related": []
-        },
-        {
-          "title": "EJFQ信析丨內地貨幣供應停滯 恐拖A股後腿",
-          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQRGhYOFgzX1JTem9VWHBwNDVuUUlwanlOc1Y3ODJPZlZoeHR2MndOelhjRVBlZXg1UlB0TFFlbmZXOW5lcktibjR5akgwLWV0WnRUWEMxbWdteVU2TUp1dE5xbFlmU0Q4U0pzclZoNnRmWXQ5T29aZ19DLXRqREZVNHhSbGV4aHNzSV8xejVPS1RpMlZwejI1c2JWRWZLckxPSWotM21nRlg1LUo5ZmVUZVhPZFJmVUpiWGVPRlZkQVh6QVFNd2t2VVJZcDlLS0NFYVhvOGRYYWNlSkgxQVZGWTlVcWg2akVIQ05sM2RNTW03MGFsMy1NdWJ2akY5MmZaaTJGTnNrWW9xQVg2LWNvTjhJb2Q2LTBIcDZWcWhyQ3o1Y0JGYlpYRUhJRklRWUE?oc=5",
-          "source": "信報網站",
-          "published_hkt": "09/02 07:19",
-          "related": []
-        },
-        {
-          "title": "【港股收市】恒指9月開局跌237點阿里巴巴跌3%、快手逆市升3% 蔚來公布交付數後績前挫6%（不斷更新）",
-          "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxNX1NrYi1wWVlQYXA5c1g0Q2tuaGpzeEpFNlpKZWt1UlBkQ2l4d0llaHp5T3ZCbXhvYW9PNXViOWdnQmE2VW5GLWFwWkx1U3dBU085RklrbHNPdXllLXJZRDNpYnpwV2NONi1QTWJ4NS1QSndCSUp1djYzRGlId05YMWtJSF96c3BHSnBpczQyS1lPNjhIbGE5T3l6UzN2Si0ySHNtM0gwQWdGTk92UHhSb29Kb0Nsd2U3N3BKVmxSLXFHUnlualZERkNpY0VRY2NnUVlfMlIyRlJFMGRxNTVMM2M1RGtMSGF0Qk16V2IteWc2MUVrbGtkU3lzYW9mVXdJWFpwX3NKWkI4ODEzNEVidThEQWk5ck1iNkVrdmVqdW1TMUwxVkJlRkh4R2U5bkdkNnpTN1hpck4teTJ0ZWozRWlBUkxFaldsR1BadjYtSzJjM0t0S2x5N1JOWmNLSHpBNWExc1dUaGtJVHRUSjhnXzJ4aThqMHNUNFBOdkhEOGZtb1lUUlduYktPUXlhNFRyakFBWlFMNjdRUXdRSGxkNURBc0tNTFZFQ29sM05kX19QX3Y1U2ZlVF81bEJfcUF0dFo4T3JPUGhjbl9SSWtVTGROTzdkdjVmeGJPRk0wUGc3UjFGeWJaS1lmbGVqQ2pmTUhVZ192blZEM1M0TmFVTkpsU29jd1hqOThVTEQ3NzcwRkxFbG1qeDkyWF9VR1MtZENtaEZ0U2N6Y0hiZ1kxWlJUTkI0REFMcGszaUR5YlY5LXFad1I1elBTaHU3VW9zSlFTZGFPQklfU0V1MWNmb2R3?oc=5",
+          "title": "【港股市況】恒指黑期升約136點 滙豐ADR再高港1%（不斷更新）",
+          "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPRGVrT0pPRUZtR21vcTZpNVdZSUxRbFZuWE5oUU9Oay1HZzJfdS14UjVVa2ZzQTJsdXNkMnlfdWs2TXRLY0JGNlYzeFNLaHA1N196eWppVE44RnBSVmhwaGxuM2VJNExSOXpyeVoySzVaVFdmLVVVakdsRTBtSEpRMmZ0Q0RJSlhHeEtLdnRfUEtFRHlpbllBSnp4ZHZILWRfa3ZBdHNlczJ2RXdMNmZxc1FCMTIwaHFINkRqUzhyMGdjQm9kT1FDNm5vUDRyTTNJVm1BSVJpV2RWSUJGbU12WnBHdVd5ZllvNE8xYU40cVU0bmFzaHR2NXFPSlVXc29KcVVDTjV5VExrN0N5bEl5bnBLT29odk9wZ3lDYkZleHVRM1F4UVZZQl9NdlcwU2F5QVRpTURaVTdsVlJIN3EzWXR4LWFocmV5dlZHYm9lenBJbldIeXRCV0RKMkpLOTBub3dqeVNsSVdpSDV1VGJKeGlyQXdGUXZfMXc2U2dKSDJpQVUyYm1iNDc2eVFKcC0zbU40Ug?oc=5",
           "source": "香港經濟日報HKET",
-          "published_hkt": "09/02 06:21",
+          "published_hkt": "09/03 09:07",
           "related": [
-            "^HSI",
-            "9988.HK"
+            "^HSI"
+          ]
+        },
+        {
+          "title": "中國黃金國際(02099) 海外監管公告-其他",
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPa3FndlRGREVZT3pCbTk2UjVpV2oyYjFNb01LODQyWEt5TklseFRWaE1PREI0ejUwN2VBUVpMWllERkY4b2VLZmNSWVpRQms3UHNyYVNtZk13Y0J3STFXVXdjQWowRFFLd3VQOWlIRW9zNTVEbUVTc0Q5Ykk1M2tjdkpSR25pQk0yc1gwenpScTJpVkxDZDgzaElxN1B1Z2N2RVpOU1JFc2lsTjRJbnNYcE9JZmNSS210ZnVlSFplOHZSeDJSQ08wdHZaVjFld21KbGhvTUNlbXM0alctSnpnUF9MNHJPQWtfOGtPZzkxdFd3N0ZTTWU3OElSSE1Lam5BbHUwT09kVGxXOGl2alZBZnZzYzBiQmVXMm51YzFFSQ?oc=5",
+          "source": "hkej.com",
+          "published_hkt": "09/03 07:35",
+          "related": []
+        },
+        {
+          "title": "中國黃金國際(02099.HK)入選恒生增幅指數和恒生港股通央企質量指數",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92VU5aMWd1YzRPUVNPSWk5WWhjRXluYk0zekU4eXo0SGNlb19oMm55WFVRQmZUazJ2a2x6dTNkUlBsbE9oV1MtSW4zS19XV1R5RXJaRXBybTEzNHZXTHk4Q3I1UmhVVkgwLXc?oc=5",
+          "source": "TradingView",
+          "published_hkt": "09/03 07:05",
+          "related": [
+            "^HSI"
           ]
         }
       ]
@@ -235,27 +238,29 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-03 01:04 HKT",
+    "updated_at": "2026-09-03 09:13 HKT",
     "news": [
       {
-        "title": "Robinhood 迷因幣熱潮兩面刃：信用卡結帳惹合規爭議、鏈上疑現 2,000 萬美元巨額滑價",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QWFdnRnVmaGJUOGVXQkRGaFBCNWRIMGMyZWdFMnpMeWMwanMxXzFNakZ3UUxmR0dsSEwtb2dtUUdNbmZHUXZkcVNVUQ?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "09/02 23:00",
+        "title": "主要加密貨幣行情，比特幣跌0.34% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM1NkMzhLcEd2aUl4MDM0QXd2bExia09CQ2I1OGIyRVo1WVZEM0NEdXBpS2JWUWlpeXdYMDhwZEdpS1dEQVlIQ3VwQ3RDbzV6QW8xZmdRRkllYmY0ZmlONEx1MDRMdDhNRkpyZDdZNlRzbmdjTlVkcV85VVM5MW9qWHBBcDRNNlpCWU9qdXVRWUh2WldvemZULTFFR0RnVXpT?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "09/03 09:03",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "Crypto終將融入AI finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaG1HemNQNndyUE5sTVJUNmlqMjY1LTNSV3hDR0kydnFmcWdidk1MLVlZUVRxUjh6X3FqOXNYUmZjRHJhbTFuQmVONE5oVkZqTnBiUERNbUd2akEwcHBOVjNxVXZILUdzOHVrQ1NaRm9iSnFmelFHWVVqUWdVLVpUNm9xQWtHdw?oc=5",
+        "source": "panewslab.com",
+        "published_hkt": "09/03 08:37",
         "related": []
       },
       {
-        "title": "從 Meme 到金融資產：BONK 的金融化路徑正在如何形成？",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mUjhmUF91dE1hRG1lVkRsTHNvTjJhR1pRWUlMZi1nZGhSVU9OQ0UzREJ0c1o1bVpGRmhHQVhkWjBkMWdacGlTWkRWejlKekE?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "09/02 22:00",
-        "related": []
-      },
-      {
-        "title": "8 月加密貨幣領域因安全事件損失約 2.15 億美元",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPQXhWYXVZdWxvellVbzE5ZWRTUzN0NkhLNV91UmhiNGZwbWZNcGZ0d2hkVDRpTHdEY0VPbXlfWHZ6ZnNxUGxyRGh1aXNpZ2s?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "09/02 22:00",
+        "title": "隔夜美股| 特朗普安撫市場後油價漲勢暫歇，三大股指普漲戴爾(DELL.US)漲超15% 作者智通財經",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6THh1Y1FrNnVuRFhaYUJlVWtOUy12WmFkclVwQ0JRbTFuT0RxRkN5LVg1TnVra2ItZUhReUE1R0VJYnI0MDZiR0Fsc0NNeG5Wb2pFdG10QXktWlNjUHhSbTBvRzE1Zkd1UGVFU1lDUjY?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "09/03 08:19",
         "related": []
       }
     ]

@@ -86,8 +86,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-04 18:58 HKT",
+      "updated_at": "2026-09-04 19:50 HKT",
       "news": [
+        {
+          "title": "【港股後市】聯儲局議息前恒指或區間橫行",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rOS04N09xTGdNZHlYcGZ3Z2kxMWJISHZuU0JXQ2ZLZUVITHJOWFdKMWwtaTFUU1dXRWRQZjVpVE1UZjluX21ROUJHdnRWNnF0dEVLLVhNb3lFLU14bktMU0Y1eFpBSFU?oc=5",
+          "source": "Now 新聞",
+          "published_hkt": "09/04 19:21",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "港股大升437點 大摩調低恒指目標、聯想漲逾6%",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1taWJ4bkRsTFJfTnpCeW54SFJqMTlDc1NEMk8zQ21PN1ZPZXYyVlZQM0NIQ1VxeE5PaUl5OFFrdXJDdFNUM043REFRVjJYOG9IZU16S3ZLS2Nrcno5Y3Vn?oc=5",
@@ -102,15 +111,6 @@
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWTWpjOXl4OWt4X2RseDRBakxlVVU5WExKc2l2MWw4Y085QmxPR2pvZGxlYnFIOGg2Q0lZWFVsTENDbXNvUDNjM1pQemU2ekVLWEVHdnVhSFlBbHA4bDBzR0tZVWkwV0tOajZqOWQwY2NTd05TREE?oc=5",
           "source": "etnet 經濟通",
           "published_hkt": "09/04 17:19",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "【港股收市】恒指彈437點 華虹「染藍」前瀉逾8% 希音再插9%",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HdVZBUUo1ejZxdmFHRnE4UzdWSVEtazRKVjhMOWJRdkxQMzZUNjBVdGR1TW9XUzlhOTZhTkgwbDMtQ1h4NWRWc2s0cmJKNW1veW1tYjlhcnBkUHUyMlRCU1VYaURzbzg?oc=5",
-          "source": "Now 新聞",
-          "published_hkt": "09/04 17:06",
           "related": [
             "^HSI"
           ]
@@ -148,7 +148,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-04 18:58 HKT",
+      "updated_at": "2026-09-04 19:50 HKT",
       "news": [
         {
           "title": "台股站回4萬6！被動元件多檔攻漲停 外資狂掃「這檔」近7萬張",
@@ -158,20 +158,22 @@
           "related": []
         },
         {
-          "title": "TWA00 加權指數- 有錢能使鬼推磨- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JbFdBdl8yNFY1bF93a0kxSjJfbGdmeV9RZ2hVN2llX1FKSU95dktlUlBGcHNPZGFuNlRkWkk1ZXVHNGh5NVRFd09ZQkV2aFc0emtvWFhzek8?oc=5",
+          "title": "TWA00 加權指數- 2500名俄軍被困金伯恩沙嘴，補給線慘遭切斷！普京親口承認將... - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TMlRiMnpHNVRLaFJYc3prOGNvOWFXTXI0YW1ONHVKRU5La2tueVhJT2FIY2ZmVEpja3lEcjN5QTNBRkhRcXBIbWlGaUJaUUdGMHV0ZF9scU4?oc=5",
           "source": "CMoney",
-          "published_hkt": "09/04 17:34",
+          "published_hkt": "09/04 18:44",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "【量大強漲股整理】【非農數據震撼彈襲來！】台股要大修正還是噴出前夕？九月「鑽石股」曝光！",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04SlRGUHhITWRUNmllSzJCa29nbE44d1hpY0xGc3ZhcmswVndibTA4ZlhfOUh3MW4tWFRNYV8xNHdueXNUWlNWZ3NfWks5Mm8?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "09/04 17:33",
-          "related": []
+          "title": "TWA00 加權指數- 看跌又漲- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DZVZObnV1cExDUmdmM0tIZXEzZUpKc1MxQnZWRTM4bWl3UDVzR0hMSXhkVlc1WE93VFVGdFA3bTlJR29mQ3F1MTVTcFBldmg1TTM1TkkxZTE?oc=5",
+          "source": "CMoney",
+          "published_hkt": "09/04 18:44",
+          "related": [
+            "^TWII"
+          ]
         }
       ]
     }
@@ -206,7 +208,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-04 18:58 HKT",
+      "updated_at": "2026-09-04 19:50 HKT",
       "news": [
         {
           "title": "Fed理事改藍儂名曲：給通膨一點機會 徐千婷：美唱鴿日放鷹讓日圓走強",
@@ -237,35 +239,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-04 18:58 HKT",
+    "updated_at": "2026-09-04 19:50 HKT",
     "news": [
       {
-        "title": "比特幣突破8.1萬美元，加息憂慮降溫，監管前景改善 作者 Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FT0IyWDJ4bmlLS29nZ1FHME5uNFpuWFhIRjlHNVhSMmhjWDBmaDhZazcyNDdHU0Vwako3b2VuQWw0UnduT0VVYjUtYTNKQ2t1U0F2V093X3Z4VjJ0VkhUUGlLZ3ZFLWxMSEhpYVBianRuNVU?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "09/04 14:33",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "前3名價格預測：比特幣、以太坊、瑞波幣 – BTC、ETH和XRP等待美國非農就業數據以決定下一步方向走勢",
-        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNT0ZiRnBjeWFPYWxVR2RVZmpNOEhRWGFjUzQzenhwaHNyOTQ1LUstMVFtQVc2aXo4X09zVXExeG5rakpXZmdtWmREbkdYSldQeW9KYS1FajBzRmdRMGo0ZFFKWUdRbC1HSkJRUEhHUmtUN2pnRl9kTlF1S1paVzZ1OXJaUVBTanlvVHVyYTVtNlVCTHljdUFUanFPUnl5WkdBd2NqRzVIUDB1N0Z4SnFNX1ZHdzQ3dmUwN2l0OU80ZXl6M2VWSVFpLXBmWWVNRENNcWxIT0ZzOGZvTE4taHU2MGxkQUhwdHdHOG1RX00yeWxoTmZBR0NoRndiazV0bHBtRGtlVHBocVh3M09pTVkxWmZwNXZhcHdzS1VpbU5jUjRVRkdFV2hnaF9EdXgtYXA2cmfSAbICQVVfeXFMTU9GYkZwY3lhT2FsVUdkVWZqTThIUVhhY1M0M3p4cGhzcjk0NS1LLTFRbUFXNml6OF9Pc1VxMXhua2pKV2ZnbVpkRG5HWEpXUHlvSmEtRWowc0ZnUTBqNGRRSllHUWwtR0pCUVBIR1JrVDdqZ0ZfZE5RdUtaWlc2dTlyWlFQU2p5b1R1cmE1bTZVQkx5Y3VBVGpxT1J5eVpHQXdjakc1SFAwdTdGeEpxTV9WR3c0N3ZlMDdpdDlPNGV5ejNlVklRaS1wZlllTURDTXFsSE9Gczhmb0xOLWh1NjBsZEFIcHR3RzhtUV9NMnlsaE5mQUdDaEZ3Yms1dGxwbURrZVRwaHFYdzNPaU1ZMVpmcDV2YXB3c0tVaW1OY1I0VUZHRVdoZ2hfRHV4LWFwNnJn?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "09/04 11:34",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
-      },
-      {
-        "title": "比特幣飆升至$8.1萬以上：更大的加密貨幣漲勢才剛剛開始？",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMVh4Zm1ZM3Vnd3lVTWIyNkdIV1BVOGJfbEg0TVozUEhOUDNlYVVJMVV3TEdTZlI5QjYtV2pvNGo0RDE5U3l6T1BsalZ6ZlJpQ1FiMnhDaGlNSk9oVmgwVTVIc0tLOFM1ZDhfQzdMbUE4QnpEdVBHVEZwZEphYllUbG9zcXl0SXhSaGFNREE4eFc3SHkyYy1adUxDbDU2azNNcjlzVjdiTlFEQ3pNaEYxMEZSU3E?oc=5",
+        "title": "比特幣突破$81,000，隱私幣領漲整個加密貨幣市場",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZWdyWUpjOU9oUUZ2UWlkc01Qc050UjJ3NjRUblZUdjQyemNIQkV6Z1ptMVhIbFNndzdWdUNuR0l3RWh0czRaSER1cHE0V3JRR3UwUjExTFNucV9tUlVBc294b3doZ05DNno2dUhUX0tEOXFWbWVJaHFYYXl5a2ZOYUFZR1l5d29TZkNIWmZXdmxucWU1LWhNSnVhMUVuZV9Yd2hoZ1JCcw?oc=5",
         "source": "Moomoo",
-        "published_hkt": "09/04 09:53",
+        "published_hkt": "09/04 17:57",
         "related": [
           "BTC"
         ]
+      },
+      {
+        "title": "HyperHood（HH）代幣經濟：市場洞察、代幣供應、分配與價格數據 | MEXC",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95LV9HRnNQUklTcHVBemFKN3d2ZmpvRk9EdkNMS01zUXlJVmU4QmtxWkVIUUdUQlRxWWVhSUQtRURWZW1fUEJkenZNWmRqUzdFSEZUOU5LZ3lrRnczZzRCLTNVZw?oc=5",
+        "source": "MEXC",
+        "published_hkt": "09/04 17:00",
+        "related": []
+      },
+      {
+        "title": "加密貨幣6.38億美元回購熱潮可能並不像看起來那麼看漲",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOelAtYlNROGpneS1NQk41TWRKYnFXaFFNZmFQRlQxay1Vd2ZtbWxmeUpyQlZsNVJYd0syRmFxWWJELWdfZlNLSnJvNzBfZWJGWGFpUFBNQ0RjVGoyYmhyRkJyMXF4NlZJalg2bkxJRUgxb0hVLWZRWUtzU2EyR1F3MWJwSEc0ZDdfUkhJUUZnblpsVHhzWlVxc0xMbTVBczQ1V2E2OHl1N3hNZ0wxWGd0OGg0b0piUFRVSDR5SUZ3aVp5N1RBTVpVbHJPeWI2QjZjanNkOTdsRXBDMG5YQVRMaHlUd3lVeXNwYWhsR9IB7AFBVV95cUxOelAtYlNROGpneS1NQk41TWRKYnFXaFFNZmFQRlQxay1Vd2ZtbWxmeUpyQlZsNVJYd0syRmFxWWJELWdfZlNLSnJvNzBfZWJGWGFpUFBNQ0RjVGoyYmhyRkJyMXF4NlZJalg2bkxJRUgxb0hVLWZRWUtzU2EyR1F3MWJwSEc0ZDdfUkhJUUZnblpsVHhzWlVxc0xMbTVBczQ1V2E2OHl1N3hNZ0wxWGd0OGg0b0piUFRVSDR5SUZ3aVp5N1RBTVpVbHJPeWI2QjZjanNkOTdsRXBDMG5YQVRMaHlUd3lVeXNwYWhsRw?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "09/04 15:35",
+        "related": []
       }
     ]
   }

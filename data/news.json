@@ -243,8 +243,18 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-04 12:58 HKT",
+    "updated_at": "2026-09-04 13:21 HKT",
     "news": [
+      {
+        "title": "前3名價格預測：比特幣、以太坊、瑞波幣 – BTC、ETH和XRP等待美國非農就業數據以決定下一步方向走勢",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQYko1VlliSGFOLURTdlV1alVmaUtYa1VLSGYyVEtVbmFHQlNoajI4djd3Yjd5cm5RTHozeTdrZTVHRlhBU0xyeTcwSXRRYXRBT3lnbE9uTDFKMDhoc1lkNkxseENkc1VjVnU4Z1I3Wm1VUnRJMHhHX1hoLXUzTVMtYVhvekJRUWJNY1RsMUtTSVdWM0VXU1hpb25xeDhyR0Z1dmhNUHJxWndBR21QOGxWM3oxbFhqeWM0T04yckxzY2JSRVFzb2NyQjRzc1ZUSW9aZi1GYmt2VXRXRVZXVGgyLWU2VjAxemhzcVR6LXROR1JLV1VtUWN2ckpXYnFudExZd0d1dEczZXRwUzJ4aVVDM2g4Nk1YcVloTWE3R3pGUTViRDg2MVA3bGs2RHLSAbICQVVfeXFMTU9GYkZwY3lhT2FsVUdkVWZqTThIUVhhY1M0M3p4cGhzcjk0NS1LLTFRbUFXNml6OF9Pc1VxMXhua2pKV2ZnbVpkRG5HWEpXUHlvSmEtRWowc0ZnUTBqNGRRSllHUWwtR0pCUVBIR1JrVDdqZ0ZfZE5RdUtaWlc2dTlyWlFQU2p5b1R1cmE1bTZVQkx5Y3VBVGpxT1J5eVpHQXdjakc1SFAwdTdGeEpxTV9WR3c0N3ZlMDdpdDlPNGV5ejNlVklRaS1wZlllTURDTXFsSE9Gczhmb0xOLWh1NjBsZEFIcHR3RzhtUV9NMnlsaE5mQUdDaEZ3Yms1dGxwbURrZVRwaHFYdzNPaU1ZMVpmcDV2YXB3c0tVaW1OY1I0VUZHRVdoZ2hfRHV4LWFwNnJn?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "09/04 11:34",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
       {
         "title": "比特幣 ETF 資金震盪，山寨幣 ETF 首現流出 提供者 智通財經",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd1NRUmdyY0Nnd2tqTXo1WUx0SzdXUmdCbVFpOFJoSTJVVEhPaVdqclpSbFBuM0RsUUhCUmFsZmUzQzl0LXhiYXM5WWtHVkJ2eVdjSE9hMGpxcVNia1RfNi1TdGphRkpCaHdmZ2E3OGVNNE9YTGl2ZnkyZDRKNzdTRg?oc=5",
@@ -261,16 +271,6 @@
         "published_hkt": "09/04 09:53",
         "related": [
           "BTC"
-        ]
-      },
-      {
-        "title": "比特幣衝破 8.1 萬美元、以太坊站上 2,500，全網爆倉 5.5 億鎂、恐慌指數回升",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjbVdCYjJrMjRsWHpqUWhpaUMzcVd5bVFuT3lnUUNxek9wTzd6MWMyZHQ3MVo3TTBlMXJZSFlWZ0N0eGlrdHE1SEI3S3JOTW1TOFpPcE5xV0huZWdpcHZPNjJkQ2NyQUtuSkk0SktXRHVaTk1P?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "09/04 09:30",
-        "related": [
-          "BTC",
-          "ETH"
         ]
       }
     ]

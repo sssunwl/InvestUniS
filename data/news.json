@@ -236,29 +236,29 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-07 13:06 HKT",
+    "updated_at": "2026-09-07 13:35 HKT",
     "news": [
       {
-        "title": "比特幣逼近 8 萬美元大關 企業加碼與美國監管政策成關鍵",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoUVVGaXJHNTM0Um84N1JHMUJGQ2tuTEdXYlYwUzV3UXhLYk5IMkVJVGlDUDJDd0dFRExBLWZJTDc2c1pjYXg1SGl6NW40RmFaOWc?oc=5",
-        "source": "n.yam.com",
-        "published_hkt": "09/07 12:06",
+        "title": "2026 年加密貨幣市場報告",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRkJwM2JSaE8zQ3NjRXQ4TWtvaVQ5WVZpeFZwMU43Vk9ZX1U0a3o1TEJEZnFPd0Z4cHhmd2NUQy04a0pFQWxVeWlmdkllb2hPVU5LNV9odjkyWFNVdlE4VGtlS2NQcjJteEIyOGVlZkF4dUJzMjl3NVZyVU15SUplU2J6VjZ3V3NZaUJPaGd4eER6QQ?oc=5",
+        "source": "KuCoin",
+        "published_hkt": "09/07 12:36",
+        "related": []
+      },
+      {
+        "title": "比特幣、以太幣現貨 ETF 連三週吸金！SOL 曾締 11 日連續淨流入",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVk1hV0FZeTZrc0swNFY2TFBNeVRDcHVFOGVBb0ZzcUVGS2N5b2xBamJVZWRUaWF2Mm9Nc25FX2dNT3Q3QkZmeWJSWmx0VGFrLUFOSk8tTWU3WHNrOEU0cy1teThPUVRyTWVRQzlacVNEbHQ0S3E1RUVLcmpSbi1oSTNaZENTeVkxMjJJVmZXSW9oVlVXTm5oU1pBME1ZU1FOc281TlNHdXRQTmJ6ZUxCV3JB?oc=5",
+        "source": "區塊客",
+        "published_hkt": "09/07 12:30",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "Bitmine Immersion Technologies（BMNR）宣佈 ETH 持有量達 590 萬枚，加密資產及現金持有總額達 156 億美元",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Cd25rdW96clZCVDFtR1FheHlQcjBHVVkwamVycDdTb2M1Si1mWGw3dlhnM29ocFVOX3dQeE5ZUW5aY2NMck5HN0g3UFBCb1R3bzVYRENLWHVFYV9L0gFiQVVfeXFMTklzTmx1YUdXZk5ieFpCbnVTTFctZnl0Y1NZZzFHQVlEdzVldXpGUTQwbVdGRVZxT3BzLUdDSXpZNFR4WDF0UGZMdkZtQ0tUaWcxSGhLbTdjN2pCTXBYMWd2YVE?oc=5",
-        "source": "經濟日報",
-        "published_hkt": "09/07 12:01",
-        "related": []
-      },
-      {
-        "title": "「獲利千倍」的加密投資大佬重磅調倉：賣出Solana，轉向重倉比特幣",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNmkxOVVfcTV0d282OWRJQlN5VUhmWEkxc1B0UVRmQVI0LUE3MzRBTlFsc1NrTjJSQmJFNm12SmMyWkFMbGxQbGs3NVN5TVIwaXpXRl9SSGR6WGw1V0hXWktsMl9CeGNIZC1XTnZHQi1pQzUyTVNCcEdqUk5iVmVtZm1FNVJQWFZicXpZbEpYUDJ0RGxOaFBGRmxNZGRhZ09JU0pLbE9NWHEzb0M4X0tFWmZhVncyZ2NHbnhV?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "09/07 11:57",
+        "title": "比特幣逼近 8 萬美元大關 企業加碼與美國監管政策成關鍵",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoUVVGaXJHNTM0Um84N1JHMUJGQ2tuTEdXYlYwUzV3UXhLYk5IMkVJVGlDUDJDd0dFRExBLWZJTDc2c1pjYXg1SGl6NW40RmFaOWc?oc=5",
+        "source": "n.yam.com",
+        "published_hkt": "09/07 12:06",
         "related": [
           "BTC"
         ]

@@ -236,32 +236,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-07 09:08 HKT",
+    "updated_at": "2026-09-07 13:06 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣跌0.24% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb19SaWVBUGJMcjNxSThlVlRDTmdOQTRNai1RMG9zckNrSG1CRWdaUDIyZkVHaWNjRlNJUE1yTDJFLWtjeXp3RVpPOEZjSXdZQVY1dFhVV3NwX2JfLWR6dnAxMTJyWXBQQjVYMnRkSHRNRl9iOWxfd2JoTk0ybS1ndVhCeTVRVVN0RlQ2d3plYlRodUZFVWVvbzZONkJRTHhz?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "09/07 09:03",
+        "title": "比特幣逼近 8 萬美元大關 企業加碼與美國監管政策成關鍵",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoUVVGaXJHNTM0Um84N1JHMUJGQ2tuTEdXYlYwUzV3UXhLYk5IMkVJVGlDUDJDd0dFRExBLWZJTDc2c1pjYXg1SGl6NW40RmFaOWc?oc=5",
+        "source": "n.yam.com",
+        "published_hkt": "09/07 12:06",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "13F 文件揭秘：機構增持比特幣 ETF 與礦企，AI 資金並未撤退",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wUkUwaG5MMjJ5MVNCWnBlYnB0bjQ3dTJCcGdvNzgxMlNRS3dfeDdJWXpsQkh0U0pQUGRwQ2t3bU9Oc2V2WEpPWU03WG83Y1ZGblhSX0FXNThEQQ?oc=5",
-        "source": "moomoo.com",
-        "published_hkt": "09/07 07:49",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "以太幣(ETH)股票股價, 市值, 即時行情, 走勢圖, 財報",
-        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOUmthQWNYalVhNW9KMy1Vdkdya2s3MXJad0Q5M18wbWpNaV9ZeUlvci13UG5EbEZyOGd1MmhuVktIdWFCa1V6VXVxcHYzLUxqWEo5eUFkNTlVaFlJUjk0bGxpeElCZW5mbnZSdERTTURZRm9kU0MwdkdIbkR5YVhKUnZaM283QzJYQVIyM2J1WEVfazdJbE5tRHBXNl9nWFFiQkFQWU53MXcwNDBWUEk0dkhSOWFzLVI4V0ZFdlB0bXdDek9IYjhaUjVkVnJBWDVkZ3hwc1pjaXM5QU5oMWZzLWdtbklkTVc4b3ZfT3B3NHFWcEFFM3NaMWdLXzBsS2t2TTlDTHYxa0tma2tTQUxJcnZFMDFtOFlFNEhENFpseERzVzVzZzZXQzV6YW0?oc=5",
-        "source": "moomoo.com",
-        "published_hkt": "09/07 06:11",
+        "title": "Bitmine Immersion Technologies（BMNR）宣佈 ETH 持有量達 590 萬枚，加密資產及現金持有總額達 156 億美元",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Cd25rdW96clZCVDFtR1FheHlQcjBHVVkwamVycDdTb2M1Si1mWGw3dlhnM29ocFVOX3dQeE5ZUW5aY2NMck5HN0g3UFBCb1R3bzVYRENLWHVFYV9L0gFiQVVfeXFMTklzTmx1YUdXZk5ieFpCbnVTTFctZnl0Y1NZZzFHQVlEdzVldXpGUTQwbVdGRVZxT3BzLUdDSXpZNFR4WDF0UGZMdkZtQ0tUaWcxSGhLbTdjN2pCTXBYMWd2YVE?oc=5",
+        "source": "經濟日報",
+        "published_hkt": "09/07 12:01",
         "related": []
+      },
+      {
+        "title": "「獲利千倍」的加密投資大佬重磅調倉：賣出Solana，轉向重倉比特幣",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNmkxOVVfcTV0d282OWRJQlN5VUhmWEkxc1B0UVRmQVI0LUE3MzRBTlFsc1NrTjJSQmJFNm12SmMyWkFMbGxQbGs3NVN5TVIwaXpXRl9SSGR6WGw1V0hXWktsMl9CeGNIZC1XTnZHQi1pQzUyTVNCcEdqUk5iVmVtZm1FNVJQWFZicXpZbEpYUDJ0RGxOaFBGRmxNZGRhZ09JU0pLbE9NWHEzb0M4X0tFWmZhVncyZ2NHbnhV?oc=5",
+        "source": "Moomoo",
+        "published_hkt": "09/07 11:57",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

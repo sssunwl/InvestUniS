@@ -234,31 +234,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-07 22:20 HKT",
+    "updated_at": "2026-09-08 02:10 HKT",
     "news": [
       {
-        "title": "Chrome Cat 價格、CHROME 價格、即時圖表和市值",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MNWtZT3BzMlBuMl9SczJpWXE5X2N1blFCNDVXX3V5LWx5RGtvUHVDYkZSQkhlQ09iVjR5UDV4ZTI0VHpqbUJWay14SUQwY0NpenhUcUdSUXNGU2M?oc=5",
-        "source": "Coinbase",
-        "published_hkt": "09/07 20:55",
-        "related": []
-      },
-      {
-        "title": "儘管核心團隊擴展開發者能力，Pi Network仍舉步維艱",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdC10NU5kMEFoZ2t3emJwOTJIUERuYzBxYXgtQWNtTlBFOWNqWXlDeUtXWHcxaUFidEFVa2JjbkxUMm83cDN6b19DYzJadEpQVVZqYlo2SjFSX1JjRkE4WC1Ebnkwc0pDZUwwN0lZa0JsYi1TM3lRTmRUdllsYWhBVk1kOUhaX1JhRmRzWDF3UEFTUEpJVGpLY3lnZWVINXFJS2J0NDRvNkFhVWJwaWpkTDVfZGtwR1BaQ0pQNkZ1NmN3UDVNc0U3UHZxRTZJQlVTQlg2M0ZyYllfQ3RsdVI4QWNtWi1IVXg4dU00dnF0TERWd9IB8gFBVV95cUxNdC10NU5kMEFoZ2t3emJwOTJIUERuYzBxYXgtQWNtTlBFOWNqWXlDeUtXWHcxaUFidEFVa2JjbkxUMm83cDN6b19DYzJadEpQVVZqYlo2SjFSX1JjRkE4WC1Ebnkwc0pDZUwwN0lZa0JsYi1TM3lRTmRUdllsYWhBVk1kOUhaX1JhRmRzWDF3UEFTUEpJVGpLY3lnZWVINXFJS2J0NDRvNkFhVWJwaWpkTDVfZGtwR1BaQ0pQNkZ1NmN3UDVNc0U3UHZxRTZJQlVTQlg2M0ZyYllfQ3RsdVI4QWNtWi1IVXg4dU00dnF0TERWdw?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "09/07 18:18",
-        "related": []
-      },
-      {
-        "title": "加密貨幣週報 | 比特幣回落至$80047；非農數據引發$2億爆倉；巨鯨拋售$3.45億枚以太坊",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWpJWnJrWjU3NU9aM1l3YjlNZmhTZm0wUllTOHpZX1BuSzhhNzktOHdjUktIOXlVZXhVc21jbUNUNDBVaVhJNHpVUjdBbzZ2dmhvdlY1bTFaYWFUQ19ra1huamgxV21UTkgwVHZjSHNNZDVTcUl5bXM2UC12dmJ6LTZnWU50cnh0S0FQbFpHQXpiNGJ6TFRvS0FvWkJFUUltYjdZOFZFN2VxV2w3TFFDcG5qbGplYXA0bWhtaA?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "09/07 18:01",
+        "title": "以太坊計劃於重大 Hegotá 升級引入 64「框架」交易設計",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQbk54TjdaT1ZkdmxJNFA0RXhiQ1RLeTY3VE1jQUVDbFctd1dELTMtd01aZ2J2ZEttRlN1R1ZUTFMzYjA4aTNjQ092dWR3bXBWQ00zZW1yMEN5X1pzMTNGY0pubE93YzZBbDJCTXdQY2RyNE13MktVbnA3a2VhRTk2dlhhQUhqMk1mVE50YVhoemx3d0JiZy1HVEk0dUlyZW82T2x0SU9uRnZnYzdqd2dKZU5LMU5TYkZ2WnROYkEtQ0VQRU14RkhFZFo1ak5scW9NMU1jZzkxc3FJSGZrbjhZeV9SclJTS3RDRGt4dUh0Q09BVGtCXzFRS0JHSGl4SHoxa0pja21RNzNqZkc4bjcyUVRhUkh0T2dzWmxBbWVNZ1ZTczB5RGR3WkNYYWZwQjI2ZV9JMHRJQUdTckRhNzNiOTJaUEFJYkM3QWc?oc=5",
+        "source": "Yellow.com",
+        "published_hkt": "09/08 01:10",
         "related": [
-          "BTC",
           "ETH"
         ]
+      },
+      {
+        "title": "8萬美元又丟了！比特幣下一波行情要看這組美國數據",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xckphNUFDTWtRbnNCTGMzLUsybjR1QXdCLTdOM1o3MzVwU0NLVFd4VHpZdllPVnNEczhqZlN4Z0VrQnhScHlYTzRBeUFScHF2RW56NWVhZlRLZFZ3OTZwM1l5WTI?oc=5",
+        "source": "TradingView",
+        "published_hkt": "09/08 01:02",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "史上最大山寨幣牛市啟動？4張關鍵走勢圖齊齊突破",
+        "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNSnlsZUZtNzhqRHZzcjFTV2k2RTFNV1ZyVjVaajJELW40STZxV0xjSFR3MDhGemRVVUV1V0RGRzV2TDZRYTQtT2VCV1VsRkxnSUlad1BrQ3Y1RDRVQ0xOV251RGhKTmtrcmd0WVV0SGxZQklZd3VGLUVEUlUyNUVudkw1VHRldkpqTnVrOWhIM2JMMTRscU1mQzRhTUkydG1wMzJXSk1Gbi1laG8tUTJBRnVTQTNvbnpGOXZVWjhUSC03NWZ3UUQ3Rld1UloycGl6bzM2TEplY3didVExMEZVZndjdDViSFBOOWtNeV9hcUJMdFh3bldDVVZPTnZ1TzhiR2trRENmWTAyaUJwNkhtT015MDZ0TVRxMlVKc0Z0eU4wN1pSZU5rWTh5Nnl5RURBVUVVRGNZaHBubmQ3YXQxRG5tbmRLRnAyc3ZfWE53?oc=5",
+        "source": "Yellow.com",
+        "published_hkt": "09/08 00:18",
+        "related": []
       }
     ]
   }

@@ -1,27 +1,29 @@
 {
   "us": {
     "pre_market": {
-      "updated_at": "2026-09-04 20:48 HKT",
+      "updated_at": "2026-09-07 21:05 HKT",
       "news": [
         {
-          "title": "Fed升息穩了？美國8月非農超預期新增16.2萬人 美股期貨嚇跌",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxZEtsSmdzQkFEc25aVGJBTmU4RmxOcmNJTnBWZmlsYkdILVFWWEt6LV9EVkg5MzFBdFJUNS1zaHFLd1BGOUFJTU9MVQ?oc=5",
-          "source": "鉅亨網",
-          "published_hkt": "09/04 20:41",
-          "related": []
-        },
-        {
-          "title": "【即時新聞】最新10檔低於10美元高評級美股名單出爐，Netlist(NLST)奪得近滿分",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVFRyNTl2LVZydzJMQmxTc255S2gtVkJ3WGxJOXpNQXQzVVViMzZ0NDBQOFpheHV0YXRwRXZCNEVMcy1GRGxGWjUyb2ZaOEdkbHNGSk01MzFpMmxDNG1qZXFiN1ktZTBHcVd0dXBrZEtKTXIza1dGYVVGUWJjZjgyYjRhMGlFczBsS0gzVzc3Y3E?oc=5",
+          "title": "S&P 500防禦性板塊權重逼近歷史低點，市場動盪引發關注！",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLVQ2dmMtaGlBQTBpR1ZXNm1iWDJxZHVSV0FNVS1jVldfS3hZRUd3V0ZaVERHUHptQWhyTmJyZDVyTDNfUWdzSmFMX2l3YmlseXRKaml6d0xHenVWenZQNkV4Rm5MbVZ6azF4RVA3dzU5Znc0bXNhY3UzbUdnQlpfa0p4MXBSVnl4cXFBVEtDY09ZME9kYzkzV3RySm01MGF0d2FFbU9Ea285MXRCMUpocUhvZmQzUDlxNGotV1djZmpJLVFlMC1kRlFXZHNVRDA?oc=5",
           "source": "CMoney投資網誌",
-          "published_hkt": "09/04 20:20",
+          "published_hkt": "09/07 18:17",
+          "related": [
+            "SPY"
+          ]
+        },
+        {
+          "title": "美股休市，今日因勞動節全天休市，投資人需要注意什麼？",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wdWhpSk04ajk3dzlwb016MjlPRWw5VjluZVBXZzZCd2R3NGplNXkyMGFIeFZYWUpvckM5VlV2T0Ryd20zSjl0VEtWdVhKdHpGc2kxMFR3cEplSXd2aUQ1ZjZMMkVmaGlUcF9LMEtMdVp1SnZjTU1MR2R3?oc=5",
+          "source": "TradingKey",
+          "published_hkt": "09/07 18:05",
           "related": []
         },
         {
-          "title": "美就業報告將出爐... 這種結果將擊中市場甜蜜點、激勵美股攻頂| 全球財經| 全球",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80b3R5bE9hQndLVnBIb3g4aDVNdnFxYlM3am5jWnJCdEJjX2pBZFhHRlY1MDdiQk9zQ3JIOVVFVGp2R3RORThVZUpNZWFFVDlT?oc=5",
-          "source": "UDN",
-          "published_hkt": "09/04 20:18",
+          "title": "震撼！歐洲市場小幅下滑，ECB決策成焦點！-CMoney 研究員",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdjE2Z2ROQk1jYjRYY1Z3VzROUlRwUmYxV2xWdUhRWWFJaWpYVThfRzF6U0sycXdtQl9wT0NGbVVZV3hwSkZGRjFKLXhjanpBa3ZYb05qcHRlRWg5c3Jud3dUQ090MDJZdzBMYjhmN3YxU0VlX3NqUEwtUFIta1E1aHpjbTd6b0JiX0IyVDdyNnA2ZTlCX0h6VmR4VkFibmYzcjVIaDhlS3dUR1RZSk5tSXdoRWZ2ci1fT2FrdGdmM2o1S0N1TktkUmtMeXFYWHM?oc=5",
+          "source": "CMoney投資網誌",
+          "published_hkt": "09/07 16:18",
           "related": []
         }
       ]
@@ -83,7 +85,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-07 20:06 HKT",
+      "updated_at": "2026-09-07 21:05 HKT",
       "news": [
         {
           "title": "【港股收市】恒指再退回25400點水平宏觀數據出爐後或見真章- 投資",
@@ -145,7 +147,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-07 20:06 HKT",
+      "updated_at": "2026-09-07 21:05 HKT",
       "news": [
         {
           "title": "TWA00 加權指數- AI視覺與穿戴需求升溫，台廠8月營收亮眼- 股市爆料同學會",
@@ -208,7 +210,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-07 20:06 HKT",
+      "updated_at": "2026-09-07 21:05 HKT",
       "news": [
         {
           "title": "日元闪电拉升逾 2%：日本央行转鹰、美日汇率再现“默契”，一条通向美股 AI 科技股的传导链",
@@ -235,8 +237,15 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-07 20:06 HKT",
+    "updated_at": "2026-09-07 21:05 HKT",
     "news": [
+      {
+        "title": "Chrome Cat 價格、CHROME 價格、即時圖表和市值",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MNWtZT3BzMlBuMl9SczJpWXE5X2N1blFCNDVXX3V5LWx5RGtvUHVDYkZSQkhlQ09iVjR5UDV4ZTI0VHpqbUJWay14SUQwY0NpenhUcUdSUXNGU2M?oc=5",
+        "source": "Coinbase",
+        "published_hkt": "09/07 20:55",
+        "related": []
+      },
       {
         "title": "加密貨幣週報 | 比特幣回落至$80047；非農數據引發$2億爆倉；巨鯨拋售$3.45億枚以太坊",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWpJWnJrWjU3NU9aM1l3YjlNZmhTZm0wUllTOHpZX1BuSzhhNzktOHdjUktIOXlVZXhVc21jbUNUNDBVaVhJNHpVUjdBbzZ2dmhvdlY1bTFaYWFUQ19ra1huamgxV21UTkgwVHZjSHNNZDVTcUl5bXM2UC12dmJ6LTZnWU50cnh0S0FQbFpHQXpiNGJ6TFRvS0FvWkJFUUltYjdZOFZFN2VxV2w3TFFDcG5qbGplYXA0bWhtaA?oc=5",
@@ -256,13 +265,6 @@
           "BTC",
           "ETH"
         ]
-      },
-      {
-        "title": "聯儲局或加息下以太幣何去何從？交易員押注2,500美元關口",
-        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPdEFjcEdEU2l3N2RRU2hKN0JtZFp0V0FaTGFkYUR4OHNDcXVFblhfSTN0TE9rNXdQVXFaOWFncWV3ZHU3U09mSlBKbTN4NXp6S0I5WndjUWNLMDdJeF9tV0xidThrYzcxYWpXcm1ZR050dzFWUFZyQUNYRzNYdWxmcDFsd1JxZzFsWlV4NmVkZi14emZtMjRqU3BaUS16bjVNMDAxcGZQOE5KclZ0NnQxVnBHenJtZDdpX01fY0NZQ3RzbHNiVGVfZnMwZ18wZDNFTVc1T21rSkhMZWt3aW9QQTBKMWVoNS1IY1NSTTZxVFRuWUt2TlZhSTdZTzk2bmlMbnBoVmx1RFM2M05oRGZFTF9mbXcwUFBabW50LVhsbnUtZ1RGTG9TLWtTOWRqYlBBZzZIVlphV01URDR1bHZLY25ndk5YeE8wWUFFakdmNjNNRk50VW9UZGszR0k4VnBRbzY2NVA3di16QQ?oc=5",
-        "source": "Yellow.com",
-        "published_hkt": "09/07 17:36",
-        "related": []
       }
     ]
   }

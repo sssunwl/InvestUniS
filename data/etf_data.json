@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07 18:02 HKT",
+  "updated": "2026-09-08 17:27 HKT",
   "tickers": {
     "NVDY": {
       "name": "YieldMax NVDA 期權收益 ETF",
@@ -293,16 +293,16 @@
       "currency": "HKD",
       "series": "CSOP",
       "tax_note": "港股 ETF，不適用美國預扣稅",
-      "price": 8.355,
+      "price": 8.345,
       "price_1y_ago": 8.9514,
-      "price_chg_1y": -0.0666,
+      "price_chg_1y": -0.0677,
       "freq": "monthly",
       "freq_cn": "月息",
       "divs_per_year": 12,
       "recent_div": 0.15,
       "total_div_1y": 1.72,
-      "annual_yield": 0.2059,
-      "net_1y": 0.1393,
+      "annual_yield": 0.2061,
+      "net_1y": 0.1384,
       "health": "green"
     }
   }

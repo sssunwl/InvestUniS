@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08 02:35 HKT",
+  "updated_at": "2026-09-08 14:26 HKT",
   "us": {
     "stocks": [
       {
@@ -38,32 +38,32 @@
     "stocks": [
       {
         "symbol": "0700.HK",
-        "price": "HK$438.4",
-        "pct": "-0.99%",
+        "price": "HK$436.2",
+        "pct": "-0.50%",
         "dir": "dn"
       },
       {
         "symbol": "1024.HK",
-        "price": "HK$33.98",
-        "pct": "+0.95%",
-        "dir": "up"
+        "price": "HK$33.56",
+        "pct": "-1.24%",
+        "dir": "dn"
       },
       {
         "symbol": "9988.HK",
-        "price": "HK$109.6",
-        "pct": "-0.45%",
-        "dir": "dn"
+        "price": "HK$109.7",
+        "pct": "+0.09%",
+        "dir": "up"
       },
       {
         "symbol": "3690.HK",
-        "price": "HK$80.05",
-        "pct": "-2.08%",
-        "dir": "dn"
+        "price": "HK$80.70",
+        "pct": "+0.81%",
+        "dir": "up"
       },
       {
         "symbol": "1299.HK",
-        "price": "HK$77.10",
-        "pct": "-0.52%",
+        "price": "HK$76.95",
+        "pct": "-0.19%",
         "dir": "dn"
       }
     ]
@@ -72,33 +72,33 @@
     "stocks": [
       {
         "symbol": "2330.TW",
-        "price": "NT$2,460.0",
-        "pct": "+2.07%",
+        "price": "NT$2,470.0",
+        "pct": "+0.41%",
         "dir": "up"
       },
       {
         "symbol": "2317.TW",
-        "price": "NT$256.0",
-        "pct": "+0.00%",
-        "dir": "flat"
+        "price": "NT$251.5",
+        "pct": "-1.76%",
+        "dir": "dn"
       },
       {
         "symbol": "2454.TW",
-        "price": "NT$4,760.0",
-        "pct": "+7.81%",
-        "dir": "up"
+        "price": "NT$4,710.0",
+        "pct": "-1.05%",
+        "dir": "dn"
       },
       {
         "symbol": "2382.TW",
-        "price": "NT$347.5",
-        "pct": "+0.72%",
-        "dir": "up"
+        "price": "NT$328.0",
+        "pct": "-5.61%",
+        "dir": "dn"
       },
       {
         "symbol": "2308.TW",
-        "price": "NT$1,850.0",
-        "pct": "+1.37%",
-        "dir": "up"
+        "price": "NT$1,805.0",
+        "pct": "-2.43%",
+        "dir": "dn"
       }
     ]
   },
@@ -106,32 +106,32 @@
     "stocks": [
       {
         "symbol": "6758.T",
-        "price": "¥3,780.0",
-        "pct": "-2.70%",
+        "price": "¥3,673.0",
+        "pct": "-2.83%",
         "dir": "dn"
       },
       {
         "symbol": "7203.T",
-        "price": "¥3,096.0",
-        "pct": "+0.49%",
-        "dir": "up"
+        "price": "¥2,981.5",
+        "pct": "-3.70%",
+        "dir": "dn"
       },
       {
         "symbol": "9984.T",
-        "price": "¥6,217.0",
-        "pct": "+11.22%",
+        "price": "¥6,620.0",
+        "pct": "+6.48%",
         "dir": "up"
       },
       {
         "symbol": "7974.T",
-        "price": "¥8,750.0",
-        "pct": "-1.01%",
-        "dir": "dn"
+        "price": "¥8,817.0",
+        "pct": "+0.77%",
+        "dir": "up"
       },
       {
         "symbol": "6501.T",
-        "price": "¥5,358.0",
-        "pct": "-0.35%",
+        "price": "¥5,197.0",
+        "pct": "-3.00%",
         "dir": "dn"
       }
     ]
@@ -140,32 +140,32 @@
     "stocks": [
       {
         "symbol": "BTC",
-        "price": "$79,103",
-        "pct": "-1.04%",
+        "price": "$78,426",
+        "pct": "-1.63%",
         "dir": "dn"
       },
       {
         "symbol": "ETH",
-        "price": "$2,487.8",
-        "pct": "-0.39%",
+        "price": "$2,467.9",
+        "pct": "-1.48%",
         "dir": "dn"
       },
       {
         "symbol": "BNB",
-        "price": "$738.9",
-        "pct": "-1.39%",
-        "dir": "dn"
+        "price": "$747.0",
+        "pct": "+0.00%",
+        "dir": "flat"
       },
       {
         "symbol": "SOL",
-        "price": "$103.6",
-        "pct": "-2.66%",
+        "price": "$102.7",
+        "pct": "-2.38%",
         "dir": "dn"
       },
       {
         "symbol": "XRP",
         "price": "$1.39",
-        "pct": "-1.48%",
+        "pct": "-1.70%",
         "dir": "dn"
       }
     ]

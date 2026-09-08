@@ -238,32 +238,33 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-08 09:15 HKT",
+    "updated_at": "2026-09-08 13:03 HKT",
     "news": [
+      {
+        "title": "區塊鏈重點動態2026年9月8日早參考",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LZ3NsUHFJN25qR1NaZkhpQmhQZzluQTQ1Nkl1R2sxT0JGQnI2YkJOc3dWakNTNEgxanRGVzRfYlYweWhORWZjVGhQRQ?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "09/08 10:00",
+        "related": []
+      },
       {
         "title": "主要加密貨幣行情，比特幣升0.25% | 即時新聞 - 新聞",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWnRaTlVwVGJETlpBQ3hOSVdkSjRnT0hzSkN0UW0yWmc1ODVOSmFYT19jZVR1NXdZem9lWWhpNDNBelB0U25wWmJhQWFiUnNTeXJuMVVFUW9MSWJEVlp6Z0MyeVJSaDV0ZFl5VWRNWms2MlZxMF81OXZqS1VVZ1EwQ2lIQ3NIVmZvVFZ5dWxTMzdWTmpSWTdNOENhTS10Z0tZ?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "09/08 09:01",
+        "source": "etnet.com.hk",
+        "published_hkt": "09/08 09:45",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "美國現貨比特幣ETF單週吸金近10億美元，三週淨流入達38.2億美元",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KZ2NHYTZpMjQ5YUUyVHEzWjZJaDRncDRVRUxnM1VHU2JDS2s4UWp5VFFySU5vWlpqcWhYMHc5SlVEMDF1RUhJT241aE1NNW1sUUMzTFZIak9rWmxKZnlYRTFvek8?oc=5",
-        "source": "TradingView",
-        "published_hkt": "09/08 09:01",
+        "title": "比特幣回落 7.9 萬、以太坊測 $2,500！全網爆倉 1.79 億鎂續走低",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaWZEeWxOUHBIMWRmOTQ3TFlkMlRuNW42cjBaTlBEOS1maUw0cUJFT3JGVk5kT1NjdTZBV1JCTF9pRk1zVDFybXk3QzVjMXBQeEZtb3g4SS1aeG1MMldqcTVKMWlHNFE4cmN4a29RS0cySVRoNWlVWEhGU182bEt1WFFpWXFuNS1OT3EyQmNqUTV0eDhsczVV?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "09/08 09:21",
         "related": [
-          "BTC"
+          "BTC",
+          "ETH"
         ]
-      },
-      {
-        "title": "Kraken 搶攻美國加密衍生品市場 申請受監管永續期貨",
-        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOQm5BY2tnQUhKZWMxTk9Qb1o1d2h4MFV0bHlYT1Zvdzlka0VxcFdzYTJsZW9qTFphVXpkR291NTRGbktES1dVV0l5cmVtUjkwRk5OWlJhU3kzeDE2ekNLR3lNZlJuWDBpSUpncUIxeWhWTDBUNDk5ZVV4MEdLNzFTX2RpYnZEckRTeS1jVWNaWjcxa0VXT2NNNUg0NF9NZUlwd0czUGgxaVpRSmhUdDlUVUlRdE9VQkxrYUo1VTluRWIyVnplNnVKMWd2NFlOQlZxR1k2R3lKU2gtQ2xzMDh4RVlCbFp5THhzTjlRVVF0NnlPMmVYVWgzeUl5bTIzZjg3ODd1bVRuWE1oenJtTHdkMFdkTnBWQ0dYd1U5cmcxbkxNdGhGNjdJR1F3VjJqc2MtZ2FBQVU0Tk5ubWFabXJUNjdB?oc=5",
-        "source": "Life 生活網",
-        "published_hkt": "09/08 07:41",
-        "related": []
       }
     ]
   }

@@ -89,7 +89,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-08 18:58 HKT",
+      "updated_at": "2026-09-08 19:50 HKT",
       "news": [
         {
           "title": "【港股收市】恒指跌95點 聯想瀉6% AI大模型孖寶被質低",
@@ -151,33 +151,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-08 18:58 HKT",
+      "updated_at": "2026-09-08 19:50 HKT",
       "news": [
+        {
+          "title": "TWA00 加權指數- 0908股市全威盤後選股- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FaEFuTGhXY3dLay1nbFR4RXhsRmFLbjh3RU5jYTI1NUh6WktmWk5sZ3BydjRKbUpiVU5IUllNQ2FGNTljS0dfY3BnU29idjRDeGhDYk9uc00?oc=5",
+          "source": "CMoney",
+          "published_hkt": "09/08 19:04",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
+          "title": "台塑四寶「新大哥」南亞發威！劍指前高250元、投信連2買加碼近萬張 「這檔」連11買登榜首",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kVEZCQU5TbkFJOVVUYUYyWmVLUGN1MUxlS0E1SU1IWDk2V3Y1X21hME9hQ2lIUUxjX29sUkhiZjBhNUhiQmpYWkxvZw?oc=5",
+          "source": "FTNN 新聞網",
+          "published_hkt": "09/08 19:00",
+          "related": []
+        },
         {
           "title": "加權指數尾盤拉回 220 點收 47,105 點！權王台積電逆勢撐盤，營收創高模範生鎖碼國巨、全友、矽統｜ 2026.09.09 #台股 盤前解析｜今天 Shot 這盤｜豐雲學堂直播",
           "url": "https://news.google.com/rss/articles/CBMiqAZBVV95cUxOd2M5dDc5ek55RGxQNG5raFZnTDhhM01iUkFxWjQ0dTJOQmhBZ29WVGctLUUzYnVnUVBWWXZlc0xQclpUX0lZUXVfb2JBdkJSNFFtZV93Y1MwUEwwVGZQazN3c0VmWjR0akgtY3JPNExKN1NsYlpUSDlwdlFZY0N1Z0lnTWZkNXY5TUZJYzJkckg2ejE0OGs2SnFPWUxhNFI2aGZtTGxraE04NDlqek9lTUgyOW14N2VxYXF6NWI4R2ZiSkJqVDhrTmhNY2Y2bWNwYnZiMlBFNGJydDBnLWZsRUhUenVKY1pQcmNvZHdnNFNNS0lSSWNhajRQTXRwUnBVa3BVQWxNLVdfN0U5MEZCcW0xNEthdnNWMTUwU01ObVliV1JVOEVmUm1ZMkF5UnB4NFpsVkVEbm9jOVZ6Y05aUFFkSXRYX2pVU2hUN1M0Z0wtV0JCQmtXYTQ5NGhaUlM3OUpDZDdlUFVlM05FS3Nsd09ZckZKQUl4MEdkdnZZRG82OEV6VEdzWWlGRFplbzg5NHo5NnRoWS1PWVZrM1hCcEwxbXNqcWgyeEN4ZzBtSC1SUUdGZmRCNE1LLW1iQ2VndXpfendXZTZ4N0tCTUJ5MXRmVEU5d2xiYV84cUJscGtuUEJGODNMUDNyYm9rU3hSVmQ5QWQ3OUkzUjBVSk1KVkhzaTZlLUtLTGQ2Q1NxT0d4NzJQbnI5N3VRejBWdER6ZFFoYU41Qkdwcmo2NU5Va3F3c0g4WkQxSVBTanFDd3UyV3BBT0RDeXoyVVNRdFFXZUotSDd2VzAtdGVSOXlNcGlRZHBMOEtFOUlSbnc0Q0x6aUJyQ2ZWaWlTWl9ZTEVjTXFaSEtLQmVaMUpENzFwektMem15YWZINmw2NkJxVWZZYm5VR18xbkN4N0dQaFJVYVBFUjVkMVBHalFGQ3laQzZqYkhSUVE2SVJPd3JqZnR3R29pNFNiM0dMb1dEOW5SWlhXWkozemhZZnZNYkhtcVVZdV85cHNuZzYwZG9wTFVwZkN2M0Z2REk5UGpPV09FbTFmQ3BwQlk5aUNYOHNxMkdoMmVUYWlu?oc=5",
           "source": "sinotrade.com.tw",
           "published_hkt": "09/08 18:09",
-          "related": [
-            "TSM",
-            "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數- 蘋果首款摺疊機將登場法人這樣看出貨量！按讚二台廠經濟日... - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mS0ZIdjE3ZTNMRWdjd0hCS292WDR2YjJrRnNGNjlyYVlLSDRocGZwUFcyQ2NvT2JNS1E3dU9KanFlUFVCUWY2YWRvVDRBd1VTNUgyYkFNYWw?oc=5",
-          "source": "CMoney",
-          "published_hkt": "09/08 18:08",
-          "related": [
-            "AAPL",
-            "^TWII"
-          ]
-        },
-        {
-          "title": "【0908台股盤後】加權指數尾盤拉回 220 點收 47,105 點！權王台積電逆勢撐盤，營收創高模範生鎖碼國巨、全友、矽統",
-          "url": "https://news.google.com/rss/articles/CBMi9ARBVV95cUxQVHJLWDRSNHZ0bktJcEhVd2Q0dE5oWjdLX2JDNUo3WDlkV2JkaXlJSFFEV3RLX2l5c0JHczZUT2dFZ3FHbElyVWdhWFAtZkU2Z01PVkFyRVRmaTAzeWcxTGFoN1BmXzRXekZVSTBrdzA0T0xsc0N2OTRoSWlaUXNBeF9PMnBtNkRwX2xOY3gybnVqWlpNVDVpeFV5UExIM1VRaldVOEFZWHlBMDh1akpKb3VqREVvbmNSaU1BODlCakYzLWdIRzlyUHhSckdZekNCbjVGNzY1SWJMRzJmVk96X3kydnhFRnNuVDhuWFdaZ01xQTZ0MTJkODRMcGJzdFZHUVFiLW5RZHdlMU1QUk5JLWJhai1ORzdfeG40bGI5dVVJT0tXeVRQQzl6M1M1dGh0MXBvS3RBbmhDeG5DMmdBMm5lZ0owSDFtVk5paHg3Y29EUlRTWV8ydTUzTEhuNDk2OHBXTm1EX3o3VUlMWnVuUUlnOFVMb1htNVpYWmZvYkZ6akdzTTcyV3JMb0I5TmZMNFN5RUdROVl2amNad3p3SHA0RC1ONC1SWTUxNzJDb09WV2ZQZ2JySXItSmFLNTYyT0NVTEV4U1gtWmlrOFdrLXk0Q2RuMHNiamxyUFNiM21Ld1AzSFVSd0dnY1FSVjZmWV9KbnZIV1BsYmVsZHNiUEd6X3ZBNUU0TFRKS0xiZl9VbnZjbms4M3h6bHh3SWNJb1JWRlFnM1FKOFNfckxYLWlONU5FYlI4a3VPbmFFRFVIa3RkZjc5d0lWcEV5My1HaVFESWItYjU4emxaWENxemFtOVYwa0o1elRPOG9tTHp5bFJ2?oc=5",
-          "source": "sinotrade.com.tw",
-          "published_hkt": "09/08 17:54",
           "related": [
             "TSM",
             "^TWII"
@@ -216,12 +212,12 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-08 18:58 HKT",
+      "updated_at": "2026-09-08 19:50 HKT",
       "news": [
         {
           "title": "【美股盤前】指數期貨分歧，那斯達克逆勢走強能否延續？（2026.09.08）",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS01jcmRYM2hKdktRV3F2VkVET3NHXzVjQXZZVmstQUhxX3dZU3JRMGs1YmVQUmtKNTB3dkZjS3N0M0g4T2pKVHBIVHNxNDFDZnNFX3BTSUZiaS1EenpfS2tidDM1YkVsNDN6UEJtME1odC1YMzBfSjRBU01CQkE4ZkUyTEk4b0wwcWttSlpn?oc=5",
-          "source": "cmnews.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUDYwS2R1VUszWWM5NU9IMEozM3NEcDdrV2ctdTJGWmo5bEFuSEFab2xDVFF3cGVCNHhfbDJEeVdSLVlWZHMzajJzM1Y4cXJoTTBRRTJ1VkNDclhBU1FYZ1VZTWx1R3l6OWxrYkdUc25xc0ZJbVU0UTAzakViOVREWTZ4TDZuMDdXR2JXX2FSZ3NyTGNmZ3dwSXQtQWVvc3I2Mi1rUFd6YzRyM3NiR1JCZVhCZmlON0NnXzA5RTUtNjU5NEJKT3ppQm0xa3dqcEk?oc=5",
+          "source": "CMoney投資網誌",
           "published_hkt": "09/08 18:03",
           "related": [
             "QQQ"
@@ -230,7 +226,7 @@
         {
           "title": "《日股》「雙利空」夾擊 日經重挫1130點 AI晶片股遭血洗",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMFZCbFdaeDdGUW9FQlhfNC1iZllpWGJtQjBUdFowVVJzc1MzcHlGQzZRem5tcjhaSGhvUE1lTFdTcEJXSmdWZ2NYcjhKdmE0VFZ6V2xFRkc0MHY3dnl5bUNheHh6clZpQmNpNVpvejRVQS1Zdnl6eVk4ZlhBVlJ6aFo0aHlhWTVr?oc=5",
-          "source": "ww2.money-link.com.tw",
+          "source": "富聯網",
           "published_hkt": "09/08 16:27",
           "related": [
             "^N225"
@@ -247,8 +243,18 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-08 18:58 HKT",
+    "updated_at": "2026-09-08 19:50 HKT",
     "news": [
+      {
+        "title": "為什麼比特幣、以太坊和XRP在回調後仍維持看漲前景？",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOYnltVVBacGJLVVRFYm12R185Q01oZHZ1M2tGQWhDa3dWVzBFVldOOU94SEtBRXNVWXRaTkNNVy01dXd4WkdOdTNmLVdCZHladVBxaksybEZBS3ZIbk5IaVZEOGgxVjJIaHdSOUNqRGw4ekhMYVNXWEk3WVNrN1RkMDZpazd5bkZIc1N4dVZSaGNSZDlZY3A3alpNbGRxMm9rdXB6bVRvWG9rd25fdlVjVU1GVk9wcFFxNkUyTFNvTzZaMTlFTWtPUDdUR0FQUE9VQzRIT0hhY2xrdlhjTXZPLW1mZFVCUE9xcWx4dGVnempJOWhpVnRWSlVXRGUxaE5lWkxVOGJ4dk1YX2cwaTFJdlRReEdaR0lsYV94SVdMTWvSAaYCQVVfeXFMTXJmVDEzZjRxaVlKb253cHVFcm1PSUN3V2txOC1tbGRkQlRfYnpnakxXTXItX2E0UlI3NlMtbDR2QVVCemJlSnBDVGdEeHNRNFpoOXM2SGw5dXpLaFNLb0dyZFpxR1FQMVdRS2lKWWxkU2VUZG0wdmxHeDdPUnpHVV9iWmUyM2MtS3pfckg2ZGRWX2pDS1Zyd3lzbmVod0FoVTJMTzl0TmVlY3FwUVRKTDZ6NUV3dzBzdjlkN0o2UWZpMUJ6WEJnNXd5VzU5MHdtWUxaaTZhaUJLcXNWdmotRTFPUWlFZWs5WXI1RXJJeTJ5MUxSek82TDJHemdhWGxmVl9oNUo3Qk9yU2FJOEJvc2hmaTV0OWJ6cnFtSVUyRENyVjdhckRR?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "09/08 18:01",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
       {
         "title": "Independ. Santa Fe vs Vasco da Gama: First Half Spread",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTmk0UWhydGtucEFYTlQ0TnhRbWRwWUY3RjB3c2l1WURTdzdVOTBUbkdhVXdRcG1GdFhiSmZCOWtIUjh0ZW5iT2VQaFBQV2ktQ25BYkpvcm5Xa3d2MEVvUHphSVJ0S1VQY3ItVFRNMDNIWUU4aEFYUlduMzZBc0V3U2Z4LWptcEo3b2V1Nw?oc=5",
@@ -257,17 +263,10 @@
         "related": []
       },
       {
-        "title": "專家一致認為：BTC前景仍然樂觀，但尚未得出定論",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQ3ZUSkdfN1lJNWFoOFd1RExtZGVfVlliV1UxOE9vcjF2Z3VKUV9HMmk3MEZwUFhOZEpzTnJpMzJwR0ltcjlROW9hWlQxenpOYzlrWTc5S1JCeE9iOHduZUp1ZTczeGVaS3ZPZXlUck4tZlNlMUZtRjlJd3RrZ1hqWDNwdkVuS3pmUDhfVkdObkJEVkNHczZ1T2lSRUVZMzB1c3lWN1VQZ2gtdV9OUzJEeWN1bml6VnBWWVVsM1pFLVd2ekRvRmV2bFJCZW1McFFsaFpWZHlxMWMzdXdN0gHcAUFVX3lxTE5DdlRKR183WUk1YWg4V3VETG1kZV9WWWJXVTE4T29yMXZndUpRX0cyaTcwRnBQWE5kSnNOcmkzMnBHSW1yOVE5b2FaVDF6ek5jOWtZNzlLUkJ4T2I4d25lSnVlNzN4ZVpLdk9leVRyTi1mU2UxRm1GOUl3dGtnWGpYM3B2RW5LemZQOF9WR05uQkRWQ0dzNnVPaVJFRVkzMHVzeVY3VVBnaC11X05TMkR5Y3VuaXpWcFZZVWwzWkUtV3Z6RG9GZXZsUkJlbUxwUWxoWlZkeXExYzN1d00?oc=5",
-        "source": "fxstreet.hk",
-        "published_hkt": "09/08 17:28",
-        "related": []
-      },
-      {
-        "title": "Pi Network是否已準備好迎來看漲趨勢反轉？",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWXNDRzJpLXVVMXJZOUZlQ2diMl9JVFdBQ1dFd3RnTFRrdnFDMWdPc0lVM0EwdHQyYUdQdlNIaVZfYVpHcUVfNVhqcHRWRmEzMFE0M2hxMDE4WXJmOEgtYk5wcWcycEV4ZzJRWHVoZ1NKbVhGTUdlc1NDX1hpWm1DUGIxNmlIUmlMYlRBM3Z6NGw1Z05wM09teU1jbkhqblJGaklBa2lEM0FUd2FIQlpDdjY3dVpSVTdVaEszTVFqU1ZsY2dlTTVCLUFBcEE2WV9kMGQ0eEM0d0RFLTg3VnFETFRNcEYxalZTRG1JUXVTUXZxenVtYkNV0gH3AUFVX3lxTE5Zc0NHMmktdVUxclk5RmVDZ2IyX0lUV0FDV0V3dGdMVGt2cUMxZ09zSVUzQTB0dDJhR1B2U0hpVl9hWkdxRV81WGpwdFZGYTMwUTQzaHEwMThZcmY4SC1iTnBxZzJwRXhnMlFYdWhnU0ptWEZNR2VzU0NfWGlabUNQYjE2aUhSaUxiVEEzdno0bDVnTnAzT215TWNuSGpuUkZqSUFraUQzQVR3YUhCWkN2Njd1WlJVN1VoSzNNUWpTVmxjZ2VNNUItQUFwQTZZX2QwZDR4QzR3REUtODdWcURMVE1wRjFqVlNEbUlRdVNRdnF6dW1iQ1U?oc=5",
-        "source": "fxstreet.hk",
-        "published_hkt": "09/08 17:07",
+        "title": "以太幣(ETH)討論區- 股票評論- 股吧交流社區",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05QkJEdVdoWWpua2R4MFpNZkpKSVJzWUdhczY4Z2NGNVNzVDRvVEs0VzhvZHpzWk1rQ2xoQVJGYzdTeDdFZnE2MnotcjdmRFcxRjNKSTc2dFAwNzJBNThZUg?oc=5",
+        "source": "Moomoo",
+        "published_hkt": "09/08 16:09",
         "related": []
       }
     ]

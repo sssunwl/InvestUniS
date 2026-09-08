@@ -29,27 +29,27 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-07 09:08 HKT",
+      "updated_at": "2026-09-08 09:15 HKT",
       "news": [
         {
-          "title": "巴菲特18年前爲何敢在崩盤中買入？如今美股再現不安，這篇舊文突然被翻出",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jbVdTN1JVX2VIRnd5X2pCVWhwamR4dkZDZlpNUnBLMmFVZEdkdnJnZUN6WkdwWlY2alB3ejYxM3pIbkUzWmo1QWFmcHFZVFg1dXpFQi13ZjdtSVJSRTVrNUIwTHo?oc=5",
-          "source": "TradingView",
-          "published_hkt": "09/07 09:03",
+          "title": "基金：大華美國MAG7+成分股換血，引進AI時代關鍵護城河新星",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYjM2Z1N3bUFUMVp6T2dkblpZcTRZeUVGREFfdkUwbkhHRFEtdGxDZXFkOXduMUtNRzhYTU5ZdGpVOVh5bGNRWEI0VG0yU1lVNVF3cjFrU1E4OURyRU9RQlRDQTBzc2VqYXM4UE9iNWxSMmZLYUs1anJOYWtRYWQ2dWN3OXlQMW56?oc=5",
+          "source": "富聯網",
+          "published_hkt": "09/08 08:39",
           "related": []
         },
         {
-          "title": "美國拉高太陽能進口門檻 全球市場恐分裂成兩套價格",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qU2k2RWpfcFlRUmNfOGRPajVJLTE1X0tkSmF3LURoMU5wU214WjhCTFlZUEtmWWRJbGh6ZkRUZnE3eklkQnhRc3dBcDRZYWs?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "09/07 08:30",
+          "title": "《研究報告》9月魔咒 美股震盪加劇",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdngyaUJlTmxWUWx1STJTOWsyZDhqalZTVnNpbUN6RUgwX2tid29hUVA1WVNXWnBuNTA1eEo4bHhET3M1V2Z4YkszV3UtbTByMGRWTU9odjlZZC1od2EtQ0ROV2dWM1RBUVVHMml3dkNycDY2WUZSUWpTd1Z1X2hjZU5EcjJsZzE0?oc=5",
+          "source": "富聯網",
+          "published_hkt": "09/08 08:36",
           "related": []
         },
         {
-          "title": "美股財報強勁推升展望 政府債務隱憂浮現",
-          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOMERfMFpwMlpaaEFpc1dfYjJtTnBNZjdLY2VZUkdsVVN1cTk5Nm9KTTdBaWZpT0Qza3dUcklFaUphVWd0VmZya2hSeTliUGphYkVtZi0wN0ZhRDRabHNuU1FWRVIzNVBmUVhRcHJHYVdFcnphNmZoLUJWRDN3V09RSlktVHVTWGpTNnl3d19sT1E2SEozMHlxTkMxWmNQV1F2ZnVrWmN1VXZQSGpJWjJXUFlGVkJIYWx2Tko0Nk1rcXRHaXZpTE9UTVNwYWhzZXlWcGItUjFDa0h4ckdiVmxkZTZJNXg2UG1naFJCZEFvSlNDRHFwLXp0M0RRUUFTOEpOWXBWeTNVYWFLeVlYVGVpSDdGRDRGdDRkUmZKSnp1c2FqX3hlWGJiODdEb1A1Z2Y4RHU0d0hsRnFUSE0?oc=5",
-          "source": "sunmedia.tw",
-          "published_hkt": "09/07 08:10",
+          "title": "《證交所》證交所：台股擁三優勢",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYmhTSE5rc0NCd2toMXljeGdiZmo5T04tZ3luS2FsSi1TR3A2aDc5ZFZiM3hqcm8yQ1ZDaGctTkJEV3dtUndHRE9IWTZRMWRvRk1GZmw3WktDZ2xxc00ybEtwV1ZHNnplRy03LUJvSkJJN0Z0Nl9iWERjTkh2VC1UVTNoM1BORWN3?oc=5",
+          "source": "富聯網",
+          "published_hkt": "09/08 08:15",
           "related": []
         }
       ]
@@ -57,30 +57,34 @@
   },
   "hk": {
     "pre_market": {
-      "updated_at": "2026-09-07 09:08 HKT",
+      "updated_at": "2026-09-08 09:15 HKT",
       "news": [
         {
-          "title": "一周部署｜內地公布通脹外貿及貸款數據，蘋果秋季發布會三大亮點|香港經濟日報",
-          "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNdHZkNzlQY3F0UTZBT2FUdlNTckF4a1B3V0w5QWIxUXN0YjRKSklmcWdPZE9OdHFuN0lYakdWejVRRGc4VUdWN1RaMUt4TTRUbGJEM3REVzZxMDZ5Ym56UzdxVEx3UWliSU0zWGJmR1lUcW9BNWdoZzNBWE4zV3RlNExpdWVPSVlyZGViV2gyZC1YOVA4NTZfbzJidUdVaF83elIzejFaOUU5NlZhbWdmY0lna1UySWFxcEp2cENELWtOekhWRy1CNWdibnV6SVRVbjhKWG1MaENTTDNDMnFXTXZ2VjRaRGFMVVptNFlsdnpYMTVmU3RRMmhJTlBMSnZqZFZmRF9pXzJVOW15UjJqZnFBb1B0Szg3bTNlRzhUMjVEZFBHTFVZQVdPOS1hQXNCaW9qSG16NEkzVVdoMnh0VTlvWDZ6UGFtQmRJaWo0ckdCS0RpSzFyQ2puSkl2VHdXVk1tYzM4cmlzWXNKUm1NcTNNVTNlbmI3ZDRmZS10aFhYY3gydU5SLVZxcnc0RUpYMWdZVHRFQlJUODZXS3dPSlJ5Qi1lYzhsNG9BMU5SNGZZTUR1dWt0azBR?oc=5",
+          "title": "【港股市況】恒指黑期跌83點 滙豐倫敦低港股收市價0.2%（不斷更新）",
+          "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNVjZ6SGpXUk1wYlk1dFA0OFF6WEJDc2VHMUZ1N1VhQWh5U0luTHVQNTFzVDduY2NXZ1gwTGJQRlpCUTNZOTMyUnJTNW40c3ExQmV1NHFSX2FrbW9ZNEtGaGgzYk40TEVaSndrT1Y5cldnaGg4WTdZaHR4RzEzYUZGb1BWblJDVEVsY2NrQXdWUDR4NFBsSHRBN2pmM0FJbmFpTmdNRHlmOUJkUm9VakpqNWptQVo2OXFZLXFSTjM0Qk1tSWF3RDRlTlVER1lVT3BqaXNIQVBkaVVIVHFEcm1PVjItb19PcjZpUUNwcDJPSVktQ2RnYmNaRllZX3NiMTVPOEpYNi1zNkZJT25XUG9nUnVXUjkwR3cwY2NWamtCWl9LWFdaX2xlY0FuLUQ5WXdjUkNlVHl1bVlheFkxUTd4N1dSMy1yUTlMNUVJcF9LZTFQR1gyOTFucUdhSjdUQUw0bTZxZjhrN0h6bHVPOVd6UElfd001LUtpbzdoNkM4WHpwb25manB0UXlOOWlET0hWYzM2SVlob2lLRWFkZFF3WjNEZmZsNHNKRUs0WG5aYURvbFBJ?oc=5",
           "source": "香港經濟日報HKET",
-          "published_hkt": "09/07 09:00",
+          "published_hkt": "09/08 09:05",
           "related": [
-            "AAPL"
+            "^HSI"
           ]
         },
         {
-          "title": "夜期高水16點 麥科田上市 美期個別發展 亞股升 (08:24) - 20260907 - 即時財經新聞",
-          "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOSGtON2p2Y2VnNjl5MkpZY3RsUHB3UEE2d0psd3h5N3lLenhpOUl3VEg0QnZhMTMzLVhkcjE3S2dES3JlTmFGMXRKUWtPX3hrT21EQXJ3d1hOLU03UHc1UmF5cW1mSzJWY3gtOHdIQ0l0VGh2TWRtMk5laWhXUFNSa2EzbFpnSUNTUzNmRHQteGJ6NFh5VzRBN04yMTJURHdhVHNuZFhYNkZkN2tHWVhBRmNVdV94bHZqMF8wNGpRdFdOU2MycHluMUwtQkV1OWhZcEpxeWMtWUJuYy1JSjhkZmdQblEzRkE5a0Q4cmYtc1h1VGJ0cDNWOUd0ckEzeERDb0t6cjZCMmJFQUNPUGxGdEJKZjhEQXUzb2VnNmU5ZFVPdXJBWlVYN2Z6QThFWC1EMHo0YTg1clJBZDM4OTlzZzdqRVRZRjRheHBRaklCMld0RVc4OGxOY1pvYVk?oc=5",
-          "source": "明報財經網",
-          "published_hkt": "09/07 08:26",
-          "related": []
+          "title": "恒指回吐 百度納港股通反冧4%",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPamFYMk9OREhFUkNOUmN4aUpSeElGYTNHTnlzWHlNYTFlVlUzQzRhdmIzODFSX0YyWW05Zk1oaTUtQlVTckVraHBQajFaZ0t5dEpmNTFfQk9OemdheENDMWtrelFuN19HcTBVZzBmbGR4eW1xaGJseTlYOVNXZkd1cFIybnZhVlJFejliN2VraHFNZlFGT1FTT05TUWpYNWM2YnhSNXA1U3ItTWZwdDEyZklvZlNjU05EMWpuaTQ5MXpROGN5bXRwY3pGc2ljVWY2a0xDYllMLXl2SWpsYmFjeUk3WFhsME5JYTFFWnRiV01hRGZwcGpzaXRERnhkd2stZW41U3RQY1VnRXRKcmgxN3FzS00zdUZpc29JTTBKVl8?oc=5",
+          "source": "東方日報",
+          "published_hkt": "09/08 03:34",
+          "related": [
+            "^HSI"
+          ]
         },
         {
-          "title": "中金：誰是「聰明錢」？",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa1VaTE5zVDZRYzdTal9fRGhWUkFwRTNFa1JjcGFSUXBLWUZJeHB0UjhVdTNaZ1Z1UEZoS0xaUllrRi15TDJGREN4c0xuTGQwUXg2UHpZU3JqekZSVXVUdVB3a1FiM0FaTVRlczFjbE5lYUl0N2NFR3JnaFNxc2FGVkRLUTNMZw?oc=5",
-          "source": "富途牛牛",
-          "published_hkt": "09/07 07:58",
-          "related": []
+          "title": "恒指夜期丨報25266 跌70點",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMVJjdVJzOFVMbEY0Y09yU2ZkZUhLalNXc0VMdGZvRkZBZ3pJRWcycEFidlpNV1JsekxLUW1xTU5RbTM0Zk5KMWpSV0p2NHZ0WWJlZUVZSkhjWU5BZm9McmtyQXBidmZvMzY4WDhDeVZWR0pObzN1UlJwXzRQTGstV1U1Z0lzYTRRZDQ5X0txbWV0dVFaRzQ1VzVzbWQ0d29Rc0RJbUJPSGliYzBNWmRhR2FFMGFmc1VVaFl1b2ppX2Q3UDc0bHNyd3d4VU9uVjl0?oc=5",
+          "source": "hkej.com",
+          "published_hkt": "09/07 22:39",
+          "related": [
+            "^HSI"
+          ]
         }
       ]
     },
@@ -234,31 +238,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-08 02:10 HKT",
+    "updated_at": "2026-09-08 09:15 HKT",
     "news": [
       {
-        "title": "以太坊計劃於重大 Hegotá 升級引入 64「框架」交易設計",
-        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQbk54TjdaT1ZkdmxJNFA0RXhiQ1RLeTY3VE1jQUVDbFctd1dELTMtd01aZ2J2ZEttRlN1R1ZUTFMzYjA4aTNjQ092dWR3bXBWQ00zZW1yMEN5X1pzMTNGY0pubE93YzZBbDJCTXdQY2RyNE13MktVbnA3a2VhRTk2dlhhQUhqMk1mVE50YVhoemx3d0JiZy1HVEk0dUlyZW82T2x0SU9uRnZnYzdqd2dKZU5LMU5TYkZ2WnROYkEtQ0VQRU14RkhFZFo1ak5scW9NMU1jZzkxc3FJSGZrbjhZeV9SclJTS3RDRGt4dUh0Q09BVGtCXzFRS0JHSGl4SHoxa0pja21RNzNqZkc4bjcyUVRhUkh0T2dzWmxBbWVNZ1ZTczB5RGR3WkNYYWZwQjI2ZV9JMHRJQUdTckRhNzNiOTJaUEFJYkM3QWc?oc=5",
-        "source": "Yellow.com",
-        "published_hkt": "09/08 01:10",
-        "related": [
-          "ETH"
-        ]
-      },
-      {
-        "title": "8萬美元又丟了！比特幣下一波行情要看這組美國數據",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xckphNUFDTWtRbnNCTGMzLUsybjR1QXdCLTdOM1o3MzVwU0NLVFd4VHpZdllPVnNEczhqZlN4Z0VrQnhScHlYTzRBeUFScHF2RW56NWVhZlRLZFZ3OTZwM1l5WTI?oc=5",
-        "source": "TradingView",
-        "published_hkt": "09/08 01:02",
+        "title": "主要加密貨幣行情，比特幣升0.25% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWnRaTlVwVGJETlpBQ3hOSVdkSjRnT0hzSkN0UW0yWmc1ODVOSmFYT19jZVR1NXdZem9lWWhpNDNBelB0U25wWmJhQWFiUnNTeXJuMVVFUW9MSWJEVlp6Z0MyeVJSaDV0ZFl5VWRNWms2MlZxMF81OXZqS1VVZ1EwQ2lIQ3NIVmZvVFZ5dWxTMzdWTmpSWTdNOENhTS10Z0tZ?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "09/08 09:01",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "史上最大山寨幣牛市啟動？4張關鍵走勢圖齊齊突破",
-        "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNSnlsZUZtNzhqRHZzcjFTV2k2RTFNV1ZyVjVaajJELW40STZxV0xjSFR3MDhGemRVVUV1V0RGRzV2TDZRYTQtT2VCV1VsRkxnSUlad1BrQ3Y1RDRVQ0xOV251RGhKTmtrcmd0WVV0SGxZQklZd3VGLUVEUlUyNUVudkw1VHRldkpqTnVrOWhIM2JMMTRscU1mQzRhTUkydG1wMzJXSk1Gbi1laG8tUTJBRnVTQTNvbnpGOXZVWjhUSC03NWZ3UUQ3Rld1UloycGl6bzM2TEplY3didVExMEZVZndjdDViSFBOOWtNeV9hcUJMdFh3bldDVVZPTnZ1TzhiR2trRENmWTAyaUJwNkhtT015MDZ0TVRxMlVKc0Z0eU4wN1pSZU5rWTh5Nnl5RURBVUVVRGNZaHBubmQ3YXQxRG5tbmRLRnAyc3ZfWE53?oc=5",
-        "source": "Yellow.com",
-        "published_hkt": "09/08 00:18",
+        "title": "美國現貨比特幣ETF單週吸金近10億美元，三週淨流入達38.2億美元",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KZ2NHYTZpMjQ5YUUyVHEzWjZJaDRncDRVRUxnM1VHU2JDS2s4UWp5VFFySU5vWlpqcWhYMHc5SlVEMDF1RUhJT241aE1NNW1sUUMzTFZIak9rWmxKZnlYRTFvek8?oc=5",
+        "source": "TradingView",
+        "published_hkt": "09/08 09:01",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "Kraken 搶攻美國加密衍生品市場 申請受監管永續期貨",
+        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOQm5BY2tnQUhKZWMxTk9Qb1o1d2h4MFV0bHlYT1Zvdzlka0VxcFdzYTJsZW9qTFphVXpkR291NTRGbktES1dVV0l5cmVtUjkwRk5OWlJhU3kzeDE2ekNLR3lNZlJuWDBpSUpncUIxeWhWTDBUNDk5ZVV4MEdLNzFTX2RpYnZEckRTeS1jVWNaWjcxa0VXT2NNNUg0NF9NZUlwd0czUGgxaVpRSmhUdDlUVUlRdE9VQkxrYUo1VTluRWIyVnplNnVKMWd2NFlOQlZxR1k2R3lKU2gtQ2xzMDh4RVlCbFp5THhzTjlRVVF0NnlPMmVYVWgzeUl5bTIzZjg3ODd1bVRuWE1oenJtTHdkMFdkTnBWQ0dYd1U5cmcxbkxNdGhGNjdJR1F3VjJqc2MtZ2FBQVU0Tk5ubWFabXJUNjdB?oc=5",
+        "source": "Life 生活網",
+        "published_hkt": "09/08 07:41",
         "related": []
       }
     ]

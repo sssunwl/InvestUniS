@@ -239,32 +239,27 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-09 09:18 HKT",
+    "updated_at": "2026-09-09 13:02 HKT",
     "news": [
       {
-        "title": "幣圈院士：9.9比特幣（BTC）反彈動能悄然衰竭 大級別趨勢是否已經埋下隱患",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PaU5vOUkwYXVWUU8xSWtlbk1BTFJpdl9BMXk0bjZEb3F5eGVzTVdYdVVzNUxyQ0o2TmV4OVJ2Sk9ZT2wxb1pVRHktNA?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "09/09 08:30",
-        "related": [
-          "BTC"
-        ]
+        "title": "史上首檔 Tron 質押 ETF 上市！程式碼 TRXS，Sun 強調 TRON 支付基礎設施地位",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFFJRG45WWNJTERsLXJBbzdiZ0xua0hlMzZQSnZlU0lWaTJsR0E3X0NJeF82T0JEWXhJdnJ5Nkg0eXFYYVpkT2xpMEtVS21uMldUN05kb3hkd2FoZU90ZDJNMm04WXkyTWx4djJGRkRmUGFoY3oyZ0hzeFMxc1NJR2pER05OdURENWhmbEdKMzZmWXBTdUpzX21nUFc?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "09/09 12:48",
+        "related": []
       },
       {
-        "title": "麗盈聊幣：9.9比特幣（BTC）和以太坊（ETH）最新行情分析",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RUGF2WnBtY29zcTBjYTg0LTBPaXRPZTEtMWZzQU51S0lSRlN6MXVzSVpnQmRHMDdLMUtZeG5ENm44U2NVTUJGc3BodVNLcVk?oc=5",
+        "title": "Robinhood Chain 七日手續費暴增逾 17 倍！StoneX 首評 HOOD 看漲 45%",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Rb0c1a3ZBZkFzVGV6RXFFZmQ2MTF0dk9CVlN6LW5aSnBOY1Q3RFVxSFNOVXFqX2k3NEZGN01WdGt1RFI2TWEzak5oZV81cG8?oc=5",
         "source": "news.cnyes.com",
-        "published_hkt": "09/09 08:30",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
+        "published_hkt": "09/09 12:00",
+        "related": []
       },
       {
-        "title": "隔夜美股 | 三大指數下跌 道指跌超600點 SK海力士(SKHY.US)漲4.8% 作者 智通財經",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsOFZfSHB4RGRucFFlMXYyWUFQX1ZCV2NnN2NwUzJQdnltMEdXUVRYSWFYdWNIaTN2aF83S1l5OFJkdS1LUHhUS3ZmZzBTd3VfT3o5cUJDdHdIRlZCTGMzRGVidHZrVlhxcXR1ZXU5ZGI?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "09/09 06:52",
+        "title": "以太幣(ETH)股票股價, 市值, 即時行情, 走勢圖, 財報",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPLVpBMkFWTlUteWpHSTg3TG1VbG9OLW04d3hnXzRPX3dvVlB0R0J5Y25OQ3lQR202bWw2U0VRdFBUdU5aTmdub2lmUW9KSFZTdmdiblFDbWw5LUtNeV9IbG1tN0pEQWVDY1VaSklvNlhMX1VRaW9OdVNmdnRhMmg2T29udjZkMzIwVUpJMlo3TE14MjNtbk04ZFd5a3JwQ28wUjhPdDJETVBMMHU5dHJfVjJFSFJKcXQ0cW1oeWZDM1VzeEVpeGZYYXlFQ20xVFItZlJxbjdTanBreGM1dnRhNlZOVk1SQVRFRmd0anVmUnhmM0paZERra2F3UU9CMHgwdEhNUkVqSDBwRmg3RmQ5WXJHYjgzbXYycHU2Z1YxSUpPWktVTDh1SXpWYXFCVDJBNHUtLWRHcWduUkJGLW9vbA?oc=5",
+        "source": "Moomoo",
+        "published_hkt": "09/09 11:24",
         "related": []
       }
     ]

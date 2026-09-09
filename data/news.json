@@ -1,29 +1,29 @@
 {
   "us": {
     "pre_market": {
-      "updated_at": "2026-09-07 21:05 HKT",
+      "updated_at": "2026-09-09 21:02 HKT",
       "news": [
         {
-          "title": "S&P 500防禦性板塊權重逼近歷史低點，市場動盪引發關注！",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLVQ2dmMtaGlBQTBpR1ZXNm1iWDJxZHVSV0FNVS1jVldfS3hZRUd3V0ZaVERHUHptQWhyTmJyZDVyTDNfUWdzSmFMX2l3YmlseXRKaml6d0xHenVWenZQNkV4Rm5MbVZ6azF4RVA3dzU5Znc0bXNhY3UzbUdnQlpfa0p4MXBSVnl4cXFBVEtDY09ZME9kYzkzV3RySm01MGF0d2FFbU9Ea285MXRCMUpocUhvZmQzUDlxNGotV1djZmpJLVFlMC1kRlFXZHNVRDA?oc=5",
-          "source": "CMoney投資網誌",
-          "published_hkt": "09/07 18:17",
+          "title": "VIX安靜得太詭異！美股像「沒繫安全帶飆車」 瑞銀示警一撞恐出大事",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01VVBYandhOTNRQ1R6U3dfakhHNGdxdDd1SC1EZnhJUVlBWkd0VXNWdlVfaEN1dlJSSEJiUnkwQTRBNjl6YmZoSVJEWTAwZ2c?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "09/09 20:04",
+          "related": []
+        },
+        {
+          "title": "SK海力士Q4擬砸40兆韓元回購？標普：AI記憶體需求強勁、股東回報再升級",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pbkJaNnFzdUhpOHk2azJNN0hTcTlkYWg1TEJGOTBjYnNFdVRQajB2bDJtTDZsOEs3ZVphVnhXRFJ5UkRvT3dwM1RPQQ?oc=5",
+          "source": "鉅亨網",
+          "published_hkt": "09/09 20:00",
           "related": [
             "SPY"
           ]
         },
         {
-          "title": "美股休市，今日因勞動節全天休市，投資人需要注意什麼？",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wdWhpSk04ajk3dzlwb016MjlPRWw5VjluZVBXZzZCd2R3NGplNXkyMGFIeFZYWUpvckM5VlV2T0Ryd20zSjl0VEtWdVhKdHpGc2kxMFR3cEplSXd2aUQ1ZjZMMkVmaGlUcF9LMEtMdVp1SnZjTU1MR2R3?oc=5",
-          "source": "TradingKey",
-          "published_hkt": "09/07 18:05",
-          "related": []
-        },
-        {
-          "title": "震撼！歐洲市場小幅下滑，ECB決策成焦點！-CMoney 研究員",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdjE2Z2ROQk1jYjRYY1Z3VzROUlRwUmYxV2xWdUhRWWFJaWpYVThfRzF6U0sycXdtQl9wT0NGbVVZV3hwSkZGRjFKLXhjanpBa3ZYb05qcHRlRWg5c3Jud3dUQ090MDJZdzBMYjhmN3YxU0VlX3NqUEwtUFIta1E1aHpjbTd6b0JiX0IyVDdyNnA2ZTlCX0h6VmR4VkFibmYzcjVIaDhlS3dUR1RZSk5tSXdoRWZ2ci1fT2FrdGdmM2o1S0N1TktkUmtMeXFYWHM?oc=5",
-          "source": "CMoney投資網誌",
-          "published_hkt": "09/07 16:18",
+          "title": "AMD：2030年潛在市場規模上看3兆美元",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0aGRKYjlVaWZxMmphcTI4MFZWZkU3bjI1QzE1NllvZGRmZ3I2U0RTc09WOFVRREU1a01iRTR3QzRtdXF6TU5zLWFTQU5IbzdrSlZBdm9NaHhUU3Y5YTZrd2h30gFiQVVfeXFMUDRoZEpiOVVpZnEyamFxMjgwVlZmRTduMjVDMTU2WW9kZGZncjZTRFNzT1Y4VVFERTVrTWJFNHdDNG11cXpNTnMtYVNBTkhvN2tKVkF2b01oeFRTdjlhNmt3aHc?oc=5",
+          "source": "經濟日報",
+          "published_hkt": "09/09 17:28",
           "related": []
         }
       ]
@@ -85,7 +85,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-09 20:01 HKT",
+      "updated_at": "2026-09-09 21:02 HKT",
       "news": [
         {
           "title": "港股 未見恐慌性拋售： 恒生指數 100天線附近成為短期攻防焦點",
@@ -147,8 +147,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-09 20:01 HKT",
+      "updated_at": "2026-09-09 21:02 HKT",
       "news": [
+        {
+          "title": "TWA00 加權指數- 週結算完美印證！47000點回測不破，老王教你看懂轉折與佈局- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCZmRvcG5laVRMU2J6MnR6dWRtakJBNXFpQS0xTlJkUE9sa19OaG1YREF2emNhb24wc1plVzRMSERPNDZOMjhZYWljRXc2Qy16VVk5Uk5vYjk?oc=5",
+          "source": "cmoney.tw",
+          "published_hkt": "09/09 19:25",
+          "related": [
+            "^TWII"
+          ]
+        },
         {
           "title": "TWA00 加權指數- 日圓領漲亞幣！新台幣連4升創逾3個月高點- 股市爆料同學會",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aNWFrT2NldnpDWElGYjlPRHh4N2ZnNzlfNmdNSTJBU3QzYTVJSWUzeWZNb3k3dkxSVEFMRllHM1BuVFc4ZkJIT25tbUJYdzZrQ1RRakVZbDg?oc=5",
@@ -166,13 +175,6 @@
           "related": [
             "^TWII"
           ]
-        },
-        {
-          "title": "「這檔」金融股淪外資提款機！國家隊砸5億聯手投信護盤",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rMjVsLVkzcThIZWVtYTB4NjkwZWxRNHJIUHJIVHpXY2c3VXJzMi15S3gwZkl4UWNXcG8xeHdKdEJFcWNWTjlXN3g3OA?oc=5",
-          "source": "三立新聞",
-          "published_hkt": "09/09 18:35",
-          "related": []
         }
       ]
     }
@@ -207,14 +209,16 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-09 20:01 HKT",
+      "updated_at": "2026-09-09 21:02 HKT",
       "news": [
         {
-          "title": "【即時新聞】油價逼近百元大關推升通膨擔憂！道瓊指數(DJI)重挫逾1%，亞股漲跌互見",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNamkyWE9uU0RRcjlmNkFqTzJTYXo0czBRbnNKc3ozYXRmTVVDdUJiMVpqWkFzZ0xyUFB5bk1zbkZPS3UzaGhMVl9EYUVMcC1kZzFPeHJrQ1dyS3g4bXgzbzRzYTdPbFlzLVEzdXpOTHFDZTlwY1IyMDZBMnZRZEZ2QXk5eTFCVXMwRC1YWUtFN1o?oc=5",
-          "source": "CMoney投資網誌",
-          "published_hkt": "09/09 16:27",
-          "related": []
+          "title": "關稅戰升溫＋升息「鬼故事」夾擊！道瓊期貨挫逾300點 日經一度回檔500點 | Newtalk",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQclNHaVBsREtYZ3JMWVA4aTltMzFGVi1wUmlsUXZuRURZdmJNeTQxN3BHZTNidW5uV0J0TFZkelp2Y2pMUlYzVEpScUxwMTU0Q04tZ3RBbVpMNUJYRDVVZDFWQ2NONDg2N2wzbWxseUpZNE1NQktRQzRQUnNWMjlQQmc5S0czZlVDTWd2bA?oc=5",
+          "source": "LINE TODAY",
+          "published_hkt": "09/09 17:33",
+          "related": [
+            "^N225"
+          ]
         },
         {
           "title": "《台股盤後》量續縮/收漲77點，外資買超逾200億",
@@ -236,8 +240,15 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-09 20:01 HKT",
+    "updated_at": "2026-09-09 21:02 HKT",
     "news": [
+      {
+        "title": "Abe vs Kim | 預測市場",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NU3FFUG9OMDdVempyVnl5R05BeURJai1HMGhmMmxpdHNzUFRYTXo1YTZ1ZWlFclFFSDhST1dqZUhnYWtKaTFEYzRCVnVyZ2tfQ0dwa2NseGJIQUs1QmlFVExzbUpQUURsRHJrS3JLQmV6WngwSzdITG50TEp2YTQ?oc=5",
+        "source": "Coinbase",
+        "published_hkt": "09/09 20:39",
+        "related": []
+      },
       {
         "title": "比特幣上漲，因油價突破$100；伊朗發動襲擊後，股市下跌。",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTDRkODhWMW1nemx4bHJ0LVdqbkRpZDk1bjNTQ0NERnRQWm4tMXZYeXQzMUxTSFVhdjBBQ1lQVDJKbURvMzVmQjJhZVlUdFlNU2JQdnNqdTJhTEwxbUtuNFZMemZOZzVpSlNCZUwxaXczUFM4U3lrSlptbUVGdWRaSHdPb25lQW1tM3Vmazl5OUZldW5VTzlpbld4TjFyclZNaV9jaw?oc=5",
@@ -248,20 +259,13 @@
         ]
       },
       {
-        "title": "主要加密貨幣行情，比特幣升0.66%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLWxSN0x4M3pJODhQZVZyMjlhREhBVEdnRFQyQWpBQ3RvOXhRVDd6OE1BdldfWmRMV2hSV0xMRFVqNHNlT0ZZeGl0a0NjVlhoZzlHaUVkbmp4RHZUMGFMM0NWRzJFYUpBT1Yzd0FYRGdJeXJVMFN3aEVBZVpJS2pnNzJEc0xaRVl2ZHJOVk5QdWJ1XzJDYmZ3R09LOGMxS3Bq?oc=5",
+        "title": "主要加密貨幣行情，比特幣升1.06%",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX19SbHYwV0J5XzJ5c01yemVOU01KTldPcGtkMHZtUnJ0ODkwQVc2OHlyRG8xcVFWNlVLLTJOM1hkdENRZHZGYV9uc0dJaHJjMEREcHJkY2VNN21hbzdDa0dyc3RBWXo3R1d6RHVvUV9lRUhfUzRtOE1kdTdEMkNPd2tYRFFYWEFjUE4xYTNyTFlfTkVzQmV6elIxUXBQT2lp?oc=5",
         "source": "etnet 經濟通",
         "published_hkt": "09/09 18:41",
         "related": [
           "BTC"
         ]
-      },
-      {
-        "title": "德國政府計劃對加密貨幣收益徵收25%資本利得稅",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83MnF3bklNVi1xNlhmV1M4NGhQRm5oV2ppVnBhWUVfc0tQcmhkQXoxclp3bzhDMVNXSW9kUG9OUjVOc0tRMmk1dFp1T3RvYzA?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "09/09 17:31",
-        "related": []
       }
     ]
   }

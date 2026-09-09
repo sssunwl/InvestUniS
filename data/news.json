@@ -240,31 +240,34 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-09 21:02 HKT",
+    "updated_at": "2026-09-10 01:04 HKT",
     "news": [
       {
-        "title": "Abe vs Kim | 預測市場",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NU3FFUG9OMDdVempyVnl5R05BeURJai1HMGhmMmxpdHNzUFRYTXo1YTZ1ZWlFclFFSDhST1dqZUhnYWtKaTFEYzRCVnVyZ2tfQ0dwa2NseGJIQUs1QmlFVExzbUpQUURsRHJrS3JLQmV6WngwSzdITG50TEp2YTQ?oc=5",
-        "source": "Coinbase",
-        "published_hkt": "09/09 20:39",
-        "related": []
-      },
-      {
-        "title": "比特幣上漲，因油價突破$100；伊朗發動襲擊後，股市下跌。",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTDRkODhWMW1nemx4bHJ0LVdqbkRpZDk1bjNTQ0NERnRQWm4tMXZYeXQzMUxTSFVhdjBBQ1lQVDJKbURvMzVmQjJhZVlUdFlNU2JQdnNqdTJhTEwxbUtuNFZMemZOZzVpSlNCZUwxaXczUFM4U3lrSlptbUVGdWRaSHdPb25lQW1tM3Vmazl5OUZldW5VTzlpbld4TjFyclZNaV9jaw?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "09/09 18:47",
+        "title": "主要加密貨幣行情，比特幣升0.19%",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS1g1M05aR1FWTmw0ZzdPUmE5UDFuNUFsbF8xTG45ZzJXVFZRNzFjN1BrWmF3VHRtRG5ORS1sem1rYWoyYWZFLTRkbFZJeEVXRTA2VGI4ZnZfSlNVR01rNXVnckcybTJSRndfRkF3Wjh2cmF2WWhJY25IblNwR0hhYTdjTl9SUW13ZlFjTlhyUjhTNFU4N09aeDlLVEloZ2ps?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "09/10 00:01",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "主要加密貨幣行情，比特幣升1.06%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX19SbHYwV0J5XzJ5c01yemVOU01KTldPcGtkMHZtUnJ0ODkwQVc2OHlyRG8xcVFWNlVLLTJOM1hkdENRZHZGYV9uc0dJaHJjMEREcHJkY2VNN21hbzdDa0dyc3RBWXo3R1d6RHVvUV9lRUhfUzRtOE1kdTdEMkNPd2tYRFFYWEFjUE4xYTNyTFlfTkVzQmV6elIxUXBQT2lp?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "09/09 18:41",
+        "title": "比特幣和以太坊競速昆騰時鐘，美國力推$3億硬件發展",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRHJweUVZSGgyUXBoNGdKSkdQUllQcVFMTmFRb2dCcWh0RTQxeWlMSXVsVXhmV0dhbnFvN28xbFc3UEtmNXY3ekR0MzZwY3RWMEczVGpYR0Z0TzBHREhZWVlOTEQxbHlJR0tqa25ZVWJHOW8wUDktbFJwRm83TGRtMWN4QzBwMXdCU2VORjZCSGlkSU9nN2lxcjc2NlY?oc=5",
+        "source": "富途牛牛",
+        "published_hkt": "09/09 23:49",
         "related": [
-          "BTC"
+          "BTC",
+          "ETH"
+        ]
+      },
+      {
+        "title": "為何 ZkEVM 能執行以太坊程式碼，卻用零知識證明來「驗證一切」",
+        "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNdWt0OXdEUVNxelJSS1RQMHdZSFV0MmtMWmlrNEI5UE1tMW1QMjdwVDd4MDJPQ2xpMS1FWWFibnF3Vi1CTVkxM0VfRWZCZ1FHT2dSVXgzMmt5UWhqT2ZjcTh3WTVtSEo1WkYxREs4bGVISDZPeHNsVXlCM1dUZmJGVWlMb1dadWRPbWpjQjIyZnFGVnlHV2Jza2poZHNuYlR0STdtU0VEdndkVEFEUndPMFZVQ1FyTGR2WHhYMHpFWEtIdEhLdmhaX2dzLWhpMlFsaGtuZzVsZ09VSzQzT0RPNDIwZTB2XzlGN011LVhKcUxqR0tlWXk4cWtTWVd1Sl92eGYycGdsUVB5Tjd1dG9ZbFBUOEoxbWV4N25qbVBEcGNYbERTZ3BnNDA3Tjk5OHBkTWRVN3FUVmtsQ0h2OWp4TGk0NHVONDRJUnU4NlRpZnhRanFrVWNnMFBxeFMtUzRNWWROLUh5Q3NQZW1aZWl0SQ?oc=5",
+        "source": "yellow.com",
+        "published_hkt": "09/09 23:03",
+        "related": [
+          "ETH"
         ]
       }
     ]

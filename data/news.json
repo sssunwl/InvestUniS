@@ -249,30 +249,36 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-10 09:11 HKT",
+    "updated_at": "2026-09-10 13:05 HKT",
     "news": [
       {
-        "title": "盤後總結 | 9月10日",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYl9QY3ZtRnZLOFlhVlJLYXJQa1ZhWFYxQnBkTGFCbERFTV9mU2ZEcjRhbERRekVXbTdLVFR4aWVLTGZtMmFPa2lKWE1BczZOM2V0VlpYUk92Z3psXzJGXzl1TXVYUHp2WFZrS2hMbTdLejlBYjZmZlItdmtYTlNpTWlZZWF1M2hs?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "09/10 08:01",
-        "related": []
-      },
-      {
-        "title": "比特幣逼近 7.9 萬美元關卡 預售代幣成市場新焦點",
-        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNeXM3MEtjLWlCdktVMnBCbWNYMUJxeTQ5bWpMcXVVVi1HOGlxZHVzdUJ1QWwwYjM5cjBtY0JxdWR6SllhYWVDTmZSbVVqY0Y5WklQRXZ1MmZ6d3pBUF9tU3JXOExqcnBJSVNGTkdhQllOeUQ4YlB1TmgzeUVGNHRvdEFzYk9nQ2x5RXQtLWpKUGF6bmhmcEJuaG1adk1MY3Y1NE90QklkcDhhaVJFMEE1NXNsZUVpd1R6THZXZTJTRlY5VEpvc2xjWHQ5dThDMWZKSGhWa0RWa1g2UUp2NkZFZk1WdEJSQzhvR2F4ZDdZTG4wTVBXZF9Fd1lIaE1KWmJJS2FYalYzS2paVzB6XzRhMG1JZ1hPdGFWd2hXcWhNRzVHUWVNZW01OWZNU1dSdDNxREtQc3hMRTFNQlZxakNwcmRLR1JZSkNraHEyX1Q1eXpzZWc?oc=5",
-        "source": "tw.stock.yahoo.com",
-        "published_hkt": "09/10 07:53",
+        "title": "昨日比特幣ETF淨流出1.2億美元，以太坊ETF淨流入3470萬美元",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGbGJGOEU0OU8wTF9sSnA0Rm5WUnpCcEo2ckl1RU9Sd3NZZEZveUxQV2QxczBRTUVKSHBLVFQtU2ZhRzFlTi1pejhnbw?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "09/10 12:00",
         "related": [
-          "BTC"
+          "BTC",
+          "ETH"
         ]
       },
       {
-        "title": "亨特·拜登「$LAPTOP」迷因幣上市數分鐘暴跌 逾八成投資人虧損",
-        "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPdl9EdmxqbGZfQ3ZxM1UwbzB0eTgwODdnX1hqd19yVXQ1RVNXY1BnMFZXbzJ4dC1fRkZkLWxqSEdDOEU5V2VUQTBjWXhURmU2ZjU4TnVUcDhVTWZzTmpPc01pQVY3X296bVVtZ3FjTF94em5RRDUwZTBrTUg3OVZHWVlwbGNFdmRpQi1kZFozRndDeGxEMWlkZVhWNWpzOGwxTmZZZ09pSGs1eTF0ZjVtM3BrVWg1RGtXUkdlMVBsWVJfdm9Vd0s2T0ZQNnZSTlpGQm5YMlgwei1UTjZLaEt5VDFSb1VNc3poR2s5Ym1zOHI0NVdxamkzZzZmQU9CRXhfZ1ZYWndDVXgtMERKeDRKRU9hYURtdGxLV1JsMWpWaDcyVHlYbTk3QmtWSXJMaU5rd2h1UE9vSmpfOU1YNjMyT3NMaDZuZ1EyVVpaS3Y5OA?oc=5",
-        "source": "Life 生活網",
-        "published_hkt": "09/10 07:43",
-        "related": []
+        "title": "美國3億美元量子硬體投資落地，比特幣與以太坊加速競逐2029抗量子遷移窗口",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lYXJaUEh3Rl9xSV9VME8xT1JVTEIwSm5DS09UMFdBV2w1X0huNVVHczdLTjVTNkdqbWZadGdpZVFIaFdfTldocXNJdw?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "09/10 09:30",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
+      {
+        "title": "歐洲加密監管再升級！德國擬下重手，2027年起比特幣獲利或被全面徵稅",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lbWlnS0ZpYVUtTGpYTUtlLVRyX0Y5blNaaUhSdXhsdFdaZmowVHpJSHNfR1pPTGZrQTNRSFVzcVNhekZBXzZxTE0xY0hlWlpzOEhQMzJOU19GYktFaG9XNkw5LXA?oc=5",
+        "source": "tw.tradingview.com",
+        "published_hkt": "09/10 09:29",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

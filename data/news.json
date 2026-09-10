@@ -249,7 +249,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-10 13:05 HKT",
+    "updated_at": "2026-09-10 13:29 HKT",
     "news": [
       {
         "title": "昨日比特幣ETF淨流出1.2億美元，以太坊ETF淨流入3470萬美元",
@@ -274,7 +274,7 @@
       {
         "title": "歐洲加密監管再升級！德國擬下重手，2027年起比特幣獲利或被全面徵稅",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lbWlnS0ZpYVUtTGpYTUtlLVRyX0Y5blNaaUhSdXhsdFdaZmowVHpJSHNfR1pPTGZrQTNRSFVzcVNhekZBXzZxTE0xY0hlWlpzOEhQMzJOU19GYktFaG9XNkw5LXA?oc=5",
-        "source": "tw.tradingview.com",
+        "source": "TradingView",
         "published_hkt": "09/10 09:29",
         "related": [
           "BTC"

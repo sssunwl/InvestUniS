@@ -239,32 +239,34 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-11 09:13 HKT",
+    "updated_at": "2026-09-11 13:03 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣升0.46%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGhHMTNIRUlWeUhpbGRheTcyLUR6Ul9Bek91aEVRNHgtaHhnTGlscWJuQklDejBjdnpfZExTcVBRajgtSmxPWERsMWlSbjAtWlpJV3liekxUOU16VjhLbUtTbXk5Wl9SLTc0N2pGcG40TUk0Q0FKVm9kQk8wbjRCS2N0dGM4TFZycVE1VnNIcUpnMUVoRzB5NURhQ1hON1d2?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "09/11 09:01",
+        "title": "前3名價格預測：比特幣、以太坊、瑞波幣 – BTC回調，ETH停滯，XRP走弱",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMXdEdTVLS1dxX1B6VDlLcTNlVWtFRHdlQ2lvWU5zUFJCNW5XSmN1eUZnQ01pc294UjhPUXFVZnZmNm5kR1pXaWFPMjgwQkhpVUZQUUlHRWx0VFNtcEZaVVg5SUdGaHA0YVNoWE5CbTYweWp5bnBQdTFaN0xCUzY0UmRvbmpBb3hTYTJaZG1RM0ZOWll1eWRPMzgyQ0djZU14NnZiX1d3aUZfZzk4bTdUNjZOUmRiUGNnczloa2pjMWE1WTZnRFExVk0wWWxkanUzUzQzTkYwWnJaNHhuYjFzcXln0gHnAUFVX3lxTE5CTlJsTGtJaTV5OW02QmRqVTVGVFF4NTFENUNJdzQtTlNTSWFnbmU4UzhEaGFtcEZjeV9vLW00SGxLbVV2SnBZZDgxdlJqNlgySTNaUFRWZGpHS25HS3RDcmNPYTg5QnFnNzAxMlZwUnlveTY2c1JNLXNHTUVqWm5aam42cXRoYlFGUzdtczFnRDZYNmY4NlNWOU15dG5jT01ES3ZFRTFWVDVqb1dOLUNXenljV3NDTVVHVXIyU0xpaUhBdUlabEgyOGx3NkJseHFQMTBwVkZYSjE5VHEtcnoyV2dwSVdpMA?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "09/11 11:36",
         "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "以太坊機構採用升溫百萬身價可期 XRP挑戰高",
-        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQdjNLblhJY3NRYWRfcGhpWkRUVGpKcmczN3YyeTdsTlk2dUlyeHd5bXRyS0pKX1l5eGxFLW9pQTVrc0pfSmV2ZXJ2Q20zS1ZfM3d5QlVsNG80ZGcxUzFwQXp0eVVDWVdiT2JrM011LXMwWnhpZGJTY0pxVWFBeGdvWG94Tk9HOTItbkNLdk5EekI3NUFBODhCNm1NRVM5Y1NkM09wcUJZS0FQc1NieUotUERhNFd3bzRrYUJzR09ONks4cjJOZFVzNnlENmV6S1hnMjY1c1E1bTBaTDlNczNnQmNOaW9JQVJPeVFtbzVBUG8wOGlLTDV6RFFjeXpJVWdjSkRWWm9wRV9WQy1qOExnb0hnZlY2LUtQNWgzYUFST3IzbU5L?oc=5",
-        "source": "Life 生活網",
-        "published_hkt": "09/11 08:08",
-        "related": [
+          "BTC",
           "ETH"
         ]
       },
       {
-        "title": "加拿大 XRP ETF 期權獲准登陸美國市場",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaGJDb2x2T2s0dXNKOG04bzRjODVJMW8yaDJwOFpDZmdTOHRVZUgyVEMxM0xuSGN5b09QYVZwYUpjOERfdW0xOWEtRGlsc2ZkcTFjTDJCME1XU00xQk10UWhEdGRydUFsbG14RW50cWJOWHg1OWJtZ3o3MkYwRUVoQXdLXzUwa1puLWxGb1Vycl85UWdmUWpGVVE5Tl9LM0VDR0ctRGhyeUctQTlNSHpwR2ZOVGtwUUFZY0NBSURtWXdZZ0JROUw3ejRIaXRySmMxalpUcjI5dTREcTNDdW9LSmJGVEVFelYtSTByVTZCZw?oc=5",
-        "source": "Life 生活網",
-        "published_hkt": "09/11 08:07",
+        "title": "以太幣(ETH)股票股價, 市值, 即時行情, 走勢圖, 財報",
+        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQQk5mNGh1NEZ3N29Vb3E0QUJJZTZTZm5QOHBZeFQ1cnRNbjM3a25ubjZkS21UNDFaLXQyU1dqc0tMTElGWVFYUHA4QzZUcmZNd0JCVHFLeldaTTl1bXRMd1FPVDI3NGYydzk5ZWk0WWt1bEJWTXJ0ekpvdkJDRUo1emw2Xy1XMll6cXF3S0dPU3ZiSGUzMmxlNmpzNjVRcnJ2dFAzMmxkUlc5UHI4Rk5VQUpWNV9oWUhHa3J5OFJwcWxvRXdvVTUtcUF0WkFlbld6cGIzVk1leEFSSzlGY2hFaG1sTzQ1dlJJT2lKME14M3V1WUxGUDBRbHVGWFdMUmVURl8wR0RiSThPZ18yYl9LbHUwaW1reVQyX3N2TWFZT3djUjQzSTA5Vkx1YVdlNGtZX0Z1eE5nbHA1VDMxVHF4LXhxYWVCXzE0bXVlSQ?oc=5",
+        "source": "Moomoo",
+        "published_hkt": "09/11 10:42",
         "related": []
+      },
+      {
+        "title": "麗盈聊幣：9.11比特幣（BTC）和以太坊（ETH）最新行情分析",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9haGVvT3pQeUFadmZLNzhzMnNEdDUxWWc1Umd1d0FfWXpZQll2NlVfSnpTMzdRUkVBTlRibjNZeEl4U1N1dmY0VXVlWQ?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "09/11 10:01",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
       }
     ]
   }

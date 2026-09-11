@@ -1,27 +1,27 @@
 {
   "us": {
     "pre_market": {
-      "updated_at": "2026-09-10 20:59 HKT",
+      "updated_at": "2026-09-11 20:54 HKT",
       "news": [
         {
-          "title": "美股期指連跌三天後力圖反彈 市場緊盯最新通膨數據 | 民視新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5bE1wMWYzZ2xBYTJCcnZQZHFrMnpiRllJRUNQelFwN2t3R1p2ZElWRmZidUpPNkVad0NGUnBRREZZbTFFZVdkbmtWX2UzRk5LdEpBNXZn?oc=5",
-          "source": "LINE TODAY",
-          "published_hkt": "09/10 20:33",
+          "title": "美國8月CPI年升3.4%符合預期 美股指數期貨短線走低",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8waW5SaDNucXJ2U2pBcGpXczk4TmY3QWF0LUIxaTFKQ19kSC13SHhkTk00ejVnekJfLUdhVUlkZFhDVHA4VkloR0Q4c2V2cHM?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "09/11 20:35",
           "related": []
         },
         {
-          "title": "SKYX與Deako簽署合併協議 目標引領智慧家居市場！",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRjNSMHNVMUVZcGZxempubUFrYjExSFJEU0cwX3dGcGRuc2hKWTdraS1kUXZfejRuOUMxQmtSbWxpalpFeDZCX0NKSzBzSkFjaWdLbjFxRUtIU1VLRndzVUx1WWVPQklkQ21QeFdHb2NEcEM5TVlKMmNGOW5XWVhYM0FNbU9DMkp5VFAyeVliSjgzZ0Mz?oc=5",
-          "source": "forecastock.tw",
-          "published_hkt": "09/10 20:17",
+          "title": "中東局勢帶動油價飆高 美股4大指數全面收黑",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EV1ZNU2s4MFVqQlJXQUg5WVh6UDJlN2dieVk4SVlWT1Qwald0NHp0SDgzcTlVY3dsSVhGX3JFUkdJVHBBY0UwRTctN1VMczA?oc=5",
+          "source": "公視新聞網PNN",
+          "published_hkt": "09/11 20:34",
           "related": []
         },
         {
-          "title": "【美股盤前】PPI即將發布，布油突破102美元，記憶體晶片股普跌，SK海力士跌超3%",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVmhiQXlMTEYtNExtYk9WdDNNbDZwMWpSWVhpWFBFVUtNLUJkQ28yVEJ2bUp3ekR6Z010YmVaSjdfOXJYMjZQd3dkTTNwMDhPMk5EVjVUaWE4TGduNUpBMy1rdU1JVkpsdy00bFlvTHU3SWlMajJXRkFjakJMYnhCWnY2SlhKZFpadVBBM2NwT19mTHUxdWxsUmNB?oc=5",
-          "source": "TradingKey",
-          "published_hkt": "09/10 20:10",
+          "title": "市場估升息機率已達近70% 多數經濟學家卻相信聯準會將按兵不動",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ib0dIclQtMjlUTjIySEFLc3lWT3dLNFVWd1ZiemVoWG9YbFplMnZUN1JLSy1WSUhjd0hDQXZTejhsN2lhcjkxVkc3SjAxSDQ?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "09/11 20:20",
           "related": []
         }
       ]
@@ -85,8 +85,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-11 19:54 HKT",
+      "updated_at": "2026-09-11 20:54 HKT",
       "news": [
+        {
+          "title": "【港股本周埋單】恒指累跌845點 守唔住25000關",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JR01GSVNuSURwSjBwVUkzTkRIanduMHQ4XzRxTjdWMVpqWUpOTUtIT1pxaUk3QlBRM0lxal9LMFJrLThCNTVyUnd0YmdzNGJIamdIY3R4eC04UWZUVWFiTGFnWHM?oc=5",
+          "source": "Now 新聞",
+          "published_hkt": "09/11 17:31",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "恒指走勢丨全日再跌143點五連跌 全周累瀉845點",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaaEkwZVpKcTlPU0lxSHMyVHNmNE1wUFlMVG5IOTc1dHNUcDZkTk1pWlV2WlUycTZvRHZuTW9ib2tYWVJFb3ZWQ3QtcGRDS1BYOHZDWjRyckZaVEJOM2hQOVQ1eTRBSDZrYkhmRFJWSQ?oc=5",
@@ -101,15 +110,6 @@
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfMjUzeGNndUQ2UlRiZG1pZUkwLWF1MHFWRld5SmtjcVdqZWd4cTl1RlpKSkdGcWxibENTZFRTZFNyS1had0dqU0FhTzRBUE0?oc=5",
           "source": "news.cnyes.com",
           "published_hkt": "09/11 16:42",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "恒指收市跌148點北水流入44億港股按周跌幅逾兩個月最大科指連跌3周 (16:25) - 20260911 - 即時財經新聞",
-          "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxOM3dvc04wRnhhWFdQNmNhTG1MbXczMmc3eTlONWM0VE96WURJNUhXcDhmM1dPZEI2RFFtUTJvZ1o4bl9WWEltcVc5d0pDRWc5d0Y1aUZoQnNIa3N4dUZ1Q25Sdzl2WVZkdHgxVW9CMklSZ0VNa1FfSG5SODRpRWZwUnZxNVFSUFBCNzFPWUpjaHdmMU1vS0xVTVR2Mkt1TDM3c09yY19zRkJLRU90QkNjcUVmSTZMakJ4Rlp5a3M2bWJjVFFLMFNrVkU2dmtlWEo4R21YTVZpRmtScC11MXhrNDRZNERyNUxxQUZidHp3RTVsYm91cXJJQWZvRmZLSllPUkF6TldrdnoyZDVSejlDRGFGdDlQaFdTTDlGSmMyZ1ZwSzFRcDJ5dFhJbDBqLVdVejcyX3FwNG9iT3dRd1ZIYjYxWjY4Ylh2QktPZkV5ZjNhN0RBVjFqSm0tblBCZ2t2RDR2YnpveGhGbmF3X09CbW51NFlhWFUyWlRIVzRwX1N5TllhSTdYbmZWbDcyS2dMbmdMRnhGRUcxOFRqQmVpS0p6LTlDVFZzenFIZ2VHdXJ5SXV0SXVtelg3Wndtc2pkM2RURHEwS1JzQVE5dHc?oc=5",
-          "source": "明報財經網",
-          "published_hkt": "09/11 16:30",
           "related": [
             "^HSI"
           ]
@@ -147,31 +147,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-11 19:54 HKT",
+      "updated_at": "2026-09-11 20:54 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數- 紅海航運告急！伊朗小弟葉門叛軍攻下戰略港市摩卡- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yQmVIWE93dVNSVE5hcm8tRVRzQnFGYXpzRWFyX3hGS1dORk5mSXc5VlI4endUWVNGMDQ0Z05WT1RkZFk5cVlNc0dQcjBDM2hMcU5VNTloRXM?oc=5",
-          "source": "cmoney.tw",
-          "published_hkt": "09/11 19:45",
+          "title": "TWA00 加權指數- 臺灣首批兩架F-16V從美國起飛後，竟然在夏威夷趴了快一個月- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrSmFOemw4dUdMVnlnTFlvX3Z1N0R2RTROWDhpYmJaaVh4S1owMU4ydnlwQ2RlVmNLSF9STEI0ZS1yMkV3TlNnTFQ2M2s1eVV2emhrb1owaW4?oc=5",
+          "source": "CMoney",
+          "published_hkt": "09/11 20:45",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "TWA00 加權指數- 神秘券商近一日大單拋出Top3 - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyVzBQQXBsTlNuajNkcmdNYWxKV0xlVWZtamFad2tXSnhKTXd6UE1sR25KSWhRdlJXdmdpOG9Wbi16WFQzX2I1QVVFc2ZTZXpHV3RwY0FIeG4?oc=5",
-          "source": "cmoney.tw",
-          "published_hkt": "09/11 19:35",
+          "title": "TWA00 加權指數- 開始殺了千點熔斷- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HbTBMTlB1cVFLMlg3dHptUUJoX3UxTUp2Q1lBeXNtSnc1ZjNySHBFX29DMEczaXZEX0t4cVFKTXdzQ1ktYVdVWnJSVzNmQzUzWWtmMFFXbkg?oc=5",
+          "source": "CMoney",
+          "published_hkt": "09/11 20:10",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "【台股09/14日盤前分析】",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOb2VrcWdwN0t4bGg3bHo1ZVFQQ0w3ejBXcnZpNGJmN2phYmVwS1REa1FsQjZjT0MtLUhRVTlJS2s4YzhtRm9WRGh6a29wTEtHelJsZ0t2Rm9yWmFMbXZZa3FnRDF2djJVbDhNT191OGxBTXJIQlh3RjllMHdESU9xNXVOdVBWbnFBbGJQQVMtN1BYZXZ0UXd5UWxIczdmd0xXOW9OOFg5QWpVelVVVFFOTkt0NXhMY1JvZEgxUnBSNDkyRm5mMlZkSXFtWGZ0S19jX3poYzFmc192OXpsZHpRczBudzRPSWZIZGtkTUFpWG5zS2NLMjl4XzhPVzlkVEpH?oc=5",
-          "source": "台灣好新聞",
-          "published_hkt": "09/11 17:31",
+          "title": "SCFI指數喜收連7紅！「航運三雄這檔」今日漲2.41%、成交量衝台股第5 外資撒13.7億元掃入近2.3萬張",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxa2pIb2hVZmRyMVBseHV3MWgtekl3TS1DRVp4R01lbXV4TENpNFJHNjgtX0lzUUxTNkhHeFZLbWJ2a2hhcDNNdzhUbw?oc=5",
+          "source": "FTNN 新聞網",
+          "published_hkt": "09/11 20:00",
           "related": []
         }
       ]
@@ -207,13 +207,20 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-11 19:54 HKT",
+      "updated_at": "2026-09-11 20:54 HKT",
       "news": [
         {
-          "title": "鎧俠赴美上市能否打開資金新入口？年內狂飆456%，劍指全球NAND配置焦點 作者 智通財經",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FR2ZqeFVUQ1kzWGY1ZEZBS09uVVVWc3Q1c0tUUVdfbWhyZ3U0a1NDeGF1NWNIRk1nTzZWTGtfN3Q3WWM4VS1sdDI1WUMyUXN0eUg3bzd4a3JINU04ZnlHRTc2TzBER1V0WmEzNW5EeEQ?oc=5",
-          "source": "Investing.com 香港 - 股市報價& 財經新聞",
-          "published_hkt": "09/11 18:25",
+          "title": "下一個SK海力士？鎧俠赴美上市有望打開全球資金大門",
+          "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOQVhpM1JBLVBuRFVCS2ZVUHNiakY3b2czQmxmQ3JWcEZqSktMMlJ4ZVQ3VDhTYXpSYm9pRnVmYzhTU2hraXlaTXdrTms3blBpVkQ1R3hRVmlDUXoxZWFCZEthRW5WNE1nN1hWN0JXSklsMFRiMjRVb2RiNnFpTEdDNGJra01rcWZxS2ZxT3BsZk1vWjhlUnZkRHIzZFFORm9OQkdoZldaazVpT09ockxuRWRmdUVxS3o5cmhnVERtcVBkLXkwS0w5MXJyZW1FQWdNamNEcWhyTzlQMjBZelpoZUR0akVxMThfTGl0b3FIbnpsUURiRER6bGRRNDZGbFdndEZheEl5MHJ6NzdLMjdVWWxGN1lEUjJqOVVnRE5IcTJmZ2tiOTBUSzN5QW9BX0hyd0VEcW5aSHdwX21JUVpYd1hWYWQxMGcxZ1ZnMVdFUl9qMDhiblp4OXZUYlBkVGc?oc=5",
+          "source": "Yahoo 財經",
+          "published_hkt": "09/11 20:00",
+          "related": []
+        },
+        {
+          "title": "油價與收益率上行 科技股拖累日本股市走低",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlUUtsekdPX3ZUU2xQM0VESnI0R0FfcE51MVlaMi04UFVrcTJUMHFaNmpRQXFnNUJVVXBILU51YWdVZUN6R04yUlpaQ1Jsa19YRHc?oc=5",
+          "source": "富途牛牛",
+          "published_hkt": "09/11 17:57",
           "related": []
         },
         {
@@ -222,19 +229,12 @@
           "source": "CMoney投資網誌",
           "published_hkt": "09/11 17:39",
           "related": []
-        },
-        {
-          "title": "《國際金融》今年飆漲456%！基金催鎧俠赴美上市：SK海力士不香嗎？",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM3NLeTFhYTlLcHJzSW5CRktXekZrdVhSV3Y5TTVKZjZMSXRnNjBrVDB6NzZVa1lwVzhkc0dXNlIxTEYwQzlzazYtc21BT1ViMHJCS3VJWVFyME9Tdk1seHotckhvVnRqdVFkMWdpWHBGenlKUmhfbFRnd0NvOXYxb0YySkxpSVJR?oc=5",
-          "source": "ww2.money-link.com.tw",
-          "published_hkt": "09/11 16:48",
-          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-09-11 19:54 HKT",
+    "updated_at": "2026-09-11 20:54 HKT",
     "news": [
       {
         "title": "「8.19」埋伏多單獲利千萬美元聰明錢開啓比特幣4倍空單",

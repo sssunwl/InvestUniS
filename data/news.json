@@ -230,29 +230,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-14 09:15 HKT",
+    "updated_at": "2026-09-14 13:20 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣跌0.04%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQVVZVm9qaFhscGlUdFEwMnllZERCTzJ3Rm5TbUpOVGhjbnVka1RzZ0hkR3NlcEJ5WjlQcHJYWWNrU3lYUUNDNlloQlhVSE9WSWxDSFcxZ3AxdnNLWXVCUEJNaWNILUZUM0dSMExFVFdqaXhDQjUtYjVjQUlCUEJQdl9yT2cxc2FhdTJ4UEVxdTRMbUkycUtNYWZRU2w1bm11?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "09/14 09:01",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "Lowest temperature in Denver on Sep 13, 2026?",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0Rm16QmxjODI2LUVRSnRGSnNKYU5QU3FRM1ZaNWZZcF9Kb3p0VXdLT2liLVEzS3VjakxyZ3c1NVlzcXZMbXQxTVM5NGpuSy1hdk1qWXlfcUVNWkh5aWkyYVBwZmhleVpWSzNMdFFXX01nNE40?oc=5",
-        "source": "Coinbase",
-        "published_hkt": "09/14 08:41",
+        "title": "特朗普加密政策開路，新加坡交易所借勢殺入美國永續合約市場 作者 智通財經",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkNTFlMkZ0a1o3MUJTb0ticzQ3MGVjR0pGX1FEWVVuaU04aDFVZl96bG1xeExLVHVOTzMzM29GdWpYNTQ0a20tSl9PakxxZ3U4Q2pfdzhkUkhXaHh3cG5CYnJ0T1VxeEZzYjVqUVl6UGY?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "09/14 11:53",
         "related": []
       },
       {
-        "title": "Rosengaard vs Trelleborgs",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83ZFA1SzVQcUtUSENvYjVqNVdLMExVS1F2Q3BwekdyS0NnSDM0YjNLSVp6V0RPQmxJZmVRUzJTY0lQSXN4bFNYR3Fsc2cxUTNxd1JkOFlwM0N6UUlLOVZ2eGVvdzRMeFhrcnpoT1V6LXBCT3VzNFVkbWJDREplQjA?oc=5",
-        "source": "Coinbase",
-        "published_hkt": "09/14 08:41",
+        "title": "前3名價格預測：比特幣、以太坊、瑞波幣 – BTC盤整，ETH面臨阻力，XRP逼近關鍵支撐",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNajdPdXJRajRoTURvUWd0Q2w3bUZIR3M3cTY4Z1RhdGlibXlrSE92UnlfY3dsSzE3U29FeG56RUtvbldLS2tVLVFnWUlhS3AweGgtYTVyU2xLUlg5Qkt4ZEFjOGhfX2t4NFJLWHlHemNEZDBVakNiYVBqcTBUcjRlZFgzemRuX2FoQWtTczhkUWlxRkUxVVdVSkRGWFI5eXNFbHh3TzI1V19RR2t2bDFDOUVSWGlsWmZweWZHM2dWZFo3Q2tkYTdRSE0za0dZbTBRazNzdmFYaUF1dVR5WGN1RWZaTlNSbWFPZHlwWnI3R3ZTQW5YSFZFdjVObFFwckU5NThxTdIBigJBVV95cUxPRGZHQjdEV21QS0RlUUI5bl9TSmF0c3pQY051aFpIckRSY185SzRIXzRmdzh3R3VZdEJjdTJFZDhNMHBxTDh4NU1CVElEeFhtZkM0RzdOXzlkT1FOTE94VlE1Vm9RaTdOdzFocDZVenZiY1FLY0ZwRFVJaW9VVjFrSXNkcWNVZFJXdEFmMHFKa3lLQTNxVGtabjh6dkc2djY5LTR4NW1MdXVvZDlzVzJPY2FxUlBiZ0tkUE9paFNZV0JZWGM0SXZWOVdqcTQxYWNPcTkxYlE4bUdoN0dEVnFhU09iMUhtTFY0Q2w0aU1qMFNPMnVuY096bElIZEUwdlF4aVJvdi13TGRUZw?oc=5",
+        "source": "fxstreet.hk",
+        "published_hkt": "09/14 11:46",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
+      {
+        "title": "財富管理業對加密貨幣興趣高漲 近七成客戶仍無配置",
+        "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPVXJxbWZtSUxGY1J3U254bXpkbFROd1hKMGtWcTBSalNsWHNTVVQwU3FtekZ0a1h1S0dZWXd2V3hfS3Z6RzVpbjk5UXdza3lEaTZjT2dwUnJ4YVA0ZFZwNjRzZmtxTE4yVlpLY0RxZHZjWGVlUGRTS0hwU1JKN19Ld2cxT0FlRGNFX2tzQ3ZMX0d3QklsbjZhdzdCd2VlQ0h2Q1AtMXRtX04xUnA2NEd0TDFteHBYLWdzN2Z2a0szYTlSRFdoNm42b1RjSG9DMGcwVkFqOVJqYi1MeFBzRmtjeVdCRTExV3VVaVl2cERwS3AzX0FmVXJWeC1UMTVndl9raU5jMDJyZUdYOEhGY0ZpYk9nT1ZJQmRnNVFOeTBnVmdKWjJ5SHozV0wyc01tY09yeU9QaDd5QldkVmpkV0JhMkp2VXhyTmdydlRuYzZKR1VKemp5X0xMU3RKR1hPR2JTaDVSdkFuX3U0bFNNZ0VmNg?oc=5",
+        "source": "行銷人",
+        "published_hkt": "09/14 11:10",
         "related": []
       }
     ]

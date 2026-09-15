@@ -81,8 +81,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-15 19:28 HKT",
+      "updated_at": "2026-09-15 20:18 HKT",
       "news": [
+        {
+          "title": "短炒波士｜港股暫看淡 恒指處分水嶺之下｜Ringo",
+          "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQSHZ0NVJieUczZnBibkJnYXRIWHczZkFaYnN6aWRuc1RELUJmUUZuN1NNMDdITmN0dE1tQ2hWMmRpTUkyQ2tRSTRkRUlzcjZtNllaRTFpWFVKNkY3aHA4WFZvTDRDRWs0NzdxdUxST2s3YmZpTklHdGxIN3VaYmZGaG00ZmxYWHlPb3g5bnJqV1lpNExKSk1jM3pmSHc5aDU4dVgwLXhWMlJoWU1iSEY3WS16M19YeFVEWC1pcTBaM3djeThUdEJ6aHZSZnJsS0dmODJXSDhuVGdTODUyQzFmbllmU0xmVTRXcEJ1OVh4RGdpcG1qV1c5NlNCbXBuRFNCRlR4OE5kbWxISEl2Q29tNXZJZWczMTBQTV8xcVVIaUg4TnJnWDhYWkk4b0Nya3VINjZsVQ?oc=5",
+          "source": "Yahoo 財經",
+          "published_hkt": "09/15 19:45",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "【港股收市】恒指挫250點 「寧王」瀉6%成包尾藍籌 智譜插穿$700",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhRURkWFFPalJ1UFdCaVh1NjFQU2VSWEFPUHdQbFR1TUtwOGRlSEZfZTdZbXN3d2NPY2Nkc0hfaGFncWVkT1ZERFZ4NXJ2cmxscWZYbHY2UWV5dDRkdzB5RGRCQ0lpTU9HS3VtNzhR?oc=5",
@@ -97,15 +106,6 @@
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlWHNzNjRjVG1jS3MzRktxdkJocW5lblQtM0Jybm1ReUttNlJ3RmVfckFGaVZPR094VG56WGRqR1dzR3VqN0xYZGpTWkVVdEE?oc=5",
           "source": "news.cnyes.com",
           "published_hkt": "09/15 17:00",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "恒指收市跌250點 成交1872億 4個月最少 北水流入9億 (16:20) - 20260915 - 即時財經新聞",
-          "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPaFFPcURuQWEta3FVeGNPdXN6T1E0MVpYTHRZRU5TcVZleFB5c2piek0yYWVGWElPQ0xQcUpscE0xNldJN2dnWTZJNVctVkpjRk5nVEM2SnptSUxsOWF3LXdlcTNhdzEtVEpCdHNyV3h0dDF3ZHk3Tk1xNUxXQ0RFZlNFUXoyX0lxYkdxcWVIdnN0SEJiU08xQ1FvQjBEYkZSTm5RWXhIM0dtUjZaMHJDSC1zV204NmVmaGJ4dUVqR3FobUdrT1lGWVJxUm01NmgxN1MwWlBGQkJnZEJaUGVBZXZ1czJacXh3RlVTalo0cl9Fd3kwb2piLURvNjV4NkFjUXBrVVNaNEVhNUpZWHVfQVlSdktrTzZibURVdlhvUEJWdEZ0OEpwZ2ZONHgzZ2ZQbjk2RWs5c2g4MGhyTnp3MEhVM3RCbmI0NENUT3Rrc2NEM3diNEN5OURR?oc=5",
-          "source": "明報財經網",
-          "published_hkt": "09/15 16:58",
           "related": [
             "^HSI"
           ]
@@ -143,31 +143,33 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-15 19:28 HKT",
+      "updated_at": "2026-09-15 20:18 HKT",
       "news": [
         {
-          "title": "台積電每股配7元現金明除息 台股開盤指數將蒸發逾56點",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMdm4xTVZTQmhCZnE2X3VlNmlQV0Y3MjVjNzRtZWtVZzhrTHBLbXpmS3hsc0FISXdHTmJVeG94aGFnZDdWN0pEUEFLY2RxaFhYSzdIZkJfc09fTjFaOHpuX2U3SXFTS2tLcDBHbjVwUQ?oc=5",
-          "source": "知新聞",
-          "published_hkt": "09/15 18:33",
+          "title": "重量級權值股除息秀登場！大盤估蒸發逾56點，台積電配息創紀錄-財經焦點情報站",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSy1kVDNDY0Zrd24wREhmMm83UmYtYUJQY1Z5TGk2MXczOFY2LVg2WUpCekhVTUdfMEs5UW5Eazg5djE2WVViRllIaVYtZ00zR3lkNUhmWS1jS3VrYllKME5yVS16bVM5djRrUWVfX0IyVnRXU0NGYzNvVTZNMlZYMjRR?oc=5",
+          "source": "cmnews.com.tw",
+          "published_hkt": "09/15 19:31",
           "related": [
             "TSM"
           ]
         },
         {
-          "title": "台股15日指數呈現平盤上下巨幅拉鋸 華邦電止跌帶量走升",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45ZTRacmVMYXpqNjB4eUlhV2RaS2U2OUU0WnlZWjREY05kaUV0V25LcnhIR0E2WHpKQzBMSWRGVEN5QlBzWnZOZVc4bDdKSHdOamc?oc=5",
-          "source": "n.yam.com",
-          "published_hkt": "09/15 18:19",
-          "related": []
-        },
-        {
-          "title": "TWA00 加權指數- 大盤創新低量，先把日常功課做好，等機會- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOTzJPRnFPT1ViNXpqdm1jVkdiNzhtSEtQX2tWcDE4WG1GQkY1R04tYU9WbVpVMzVNdXdudHNHV0hPOXpKRlZWQ19QNmxpbFVwUHlDY0xFOEY?oc=5",
+          "title": "TWA00 加權指數- 漢測申購凍資破紀錄，台股量縮跌逾三百點- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LR1dKT2hNR2p4TWdTanFrRkZhSVgtMktyR1VkaHZMNzhQR2VNTlVVelNIQTZzLTRDR2ZMVzNRbGVpeFNKWXFYY3Nlc3V1RUJVUVV1azE4MGU?oc=5",
           "source": "CMoney",
-          "published_hkt": "09/15 17:24",
+          "published_hkt": "09/15 19:05",
           "related": [
             "^TWII"
+          ]
+        },
+        {
+          "title": "台積電每股配7元現金明除息 台股開盤指數將蒸發逾56點",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMdm4xTVZTQmhCZnE2X3VlNmlQV0Y3MjVjNzRtZWtVZzhrTHBLbXpmS3hsc0FISXdHTmJVeG94aGFnZDdWN0pEUEFLY2RxaFhYSzdIZkJfc09fTjFaOHpuX2U3SXFTS2tLcDBHbjVwUQ?oc=5",
+          "source": "knews.com.tw",
+          "published_hkt": "09/15 18:33",
+          "related": [
+            "TSM"
           ]
         }
       ]
@@ -203,12 +205,12 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-15 19:28 HKT",
+      "updated_at": "2026-09-15 20:18 HKT",
       "news": [
         {
           "title": "《日股》油價和殖利率攀高 日經收平、軟銀和鎧俠反彈",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHgxU0FncUdXWU0ySmd6dWZQSGFUMm5ITEQ1SGhtdF9KTi1BTk9wdXdxdFhUUnB0cUQycTNFUS1MVHRoQ1ZpLTVFM2pOXzNtcHhyekJqblFwVk9hZHZXMlVOb1hKckF1dE9xbUtnenp3M1N0ZEhfaThqbEFtdWpDSU1FSHBBVU5T?oc=5",
-          "source": "ww2.money-link.com.tw",
+          "source": "富聯網",
           "published_hkt": "09/15 16:05",
           "related": [
             "^N225"
@@ -232,8 +234,18 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-15 19:28 HKT",
+    "updated_at": "2026-09-15 20:18 HKT",
     "news": [
+      {
+        "title": "為什麼比特幣、以太坊和XRP的上升趨勢正在停滯？",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbkJNV2k3bklnQXB3TzloNWFMVHlrRTM0Y3dYMmhidWZHVWNRRmgzNDYzZlFlelZGRUtwZ2pxMVY0U0J2NnN4eG1rZW0tandXUDE3R1NoLTB6bE00ZDF6SXgwbDJWaVNTVmtVLVc4NWw3XzUyamNFSnMxbzNDcUI3eHVfX01weTZVaWRJT3R0Z1pYcWxLeGZUMl9jdzJFXzJMaENRSFVpY2FOUDRMcExmZ0hBR0JieEc1MFd6UGhydHozT2Zzd2FibXJzTC1EQ2xMTV80U2pyN1RVVVBZRmRhbFRVN0dKMXB1Q3hUVDVYUWE3SXA2VXRrNXBydGTSAfwBQVVfeXFMTW5CTVdpN25JZ0Fwd085aDVhTFR5a0UzNGN3WDJoYnVmR1VjUUZoMzQ2M2ZRZXpWRkVLcGdqcTFWNFNCdjZzeHhta2VtLWp3V1AxN0dTaC0wemxNNGQxekl4MGwyVmlTU1ZrVS1XODVsN181MmpjRUpzMW8zQ3FCN3h1X19NcHk2VWlkSU90dGdaWHFsS3hmVDJfY3cyRV8yTGhDUUhVaWNhTlA0THBMZmdIQUdCYnhHNTBXelBocnR6M09mc3dhYm1yc0wtRENsTE1fNFNqcjdUVVVQWUZkYWxUVTdHSjFwdUN4VFQ1WFFhN0lwNlV0azVwcnRk?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "09/15 18:01",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
       {
         "title": "2026年如何購買CEA Industries Tokenized bStocks (BNCB)？初學者分步指南",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEdjRCeXVTOWF2cVhyVzJKZUN2WnJYallOVlZiOTNEM2JzeGRmdF9Lak1oS2xpeXR5bGw0eFEwcGhEdVJVaklGUnlyUDF4RVFXc1N2anh1bzdpOWtMRklHZHlCeHFhZVI4bmJVdmFPUHB5VUNmVmtqZThn?oc=5",
@@ -244,15 +256,8 @@
       {
         "title": "參議院《CLARITY法案》投票倒計時：關鍵加密貨幣與金融科技股票一次看",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTlRFcG1oY01uaTUtTHBfYWxiVEw3U01GdWJ1V2dUZnl0QjlsbnVwemFMQ25MVElMNkZHRC0xbF9yTVNrZlptQnhHU1dMWklWNkNkWEp0ZXdiMjJ2eGtzajlSSDFXcnlXajB1YVpjVVVrRFRqUTJ3VUtzRnVCaEdrTFVKd29pNHdMakdRWFJCSk1GTFdkWi1MUHd4d2hXczhIR1gtcXBJeEFxUGJqbFkwOUJibHFkcTBk?oc=5",
-        "source": "TOP1markets",
+        "source": "top1markets.com",
         "published_hkt": "09/15 16:35",
-        "related": []
-      },
-      {
-        "title": "狗狗幣價格預測：模因幣處於成敗攸關區域",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQc01iLWJMbDA0OXBYOWluRXhKS3p6MzhXLS1zUk5EN2dVbjRUUGdBRFVNbk4xT0pocU05WDlreUpBSjBiQnk3ZWRFeC1aa1plS2UxRE1OallxdjhUYV9RR3hMRXJwNmtPMzZBRzF3TUFJN1FNeEc5NDhHWW1HcXpBMXlzNkdfOWJoLUo5UzctOUlxeWE3dFZBTUIyTFlETGIyMGxGc0RydUN0ZzdtYkJfdmdzYWpNcDRJUnplS2lfb0xOOFdQVVI1TFprVjVrMVFIWHdQREpScVZUd9IB2gFBVV95cUxQc01iLWJMbDA0OXBYOWluRXhKS3p6MzhXLS1zUk5EN2dVbjRUUGdBRFVNbk4xT0pocU05WDlreUpBSjBiQnk3ZWRFeC1aa1plS2UxRE1OallxdjhUYV9RR3hMRXJwNmtPMzZBRzF3TUFJN1FNeEc5NDhHWW1HcXpBMXlzNkdfOWJoLUo5UzctOUlxeWE3dFZBTUIyTFlETGIyMGxGc0RydUN0ZzdtYkJfdmdzYWpNcDRJUnplS2lfb0xOOFdQVVI1TFprVjVrMVFIWHdQREpScVZUdw?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "09/15 14:07",
         "related": []
       }
     ]

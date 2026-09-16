@@ -27,27 +27,27 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-15 09:35 HKT",
+      "updated_at": "2026-09-16 09:29 HKT",
       "news": [
         {
-          "title": "AI高層籲放緩發展速度引市場憂慮美股收黑- 財經",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yWEMtNWF0WEEySVZrQkYtekY2eDFaVDBXMVp2cXB5V2hQSmlPd1NsZWpFOHppSkxjOFVnM1lKSmo2dzVCLUEtNFo1ajIxVjZQQU9PSTREeVNkVUpHZEpTeTh0Y3BtQUR2WmdoajZR?oc=5",
-          "source": "華視新聞網",
-          "published_hkt": "09/15 09:20",
-          "related": []
-        },
-        {
-          "title": "Fortinet股價暴漲9%！網路安全市場強勁反彈-CMoney 研究員",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPXzVWQ2hVWGJrTmJpM0FOeWxmZFFpMGtqMFZndHo5bWp0WjVBTkVYQkFSakFfNmZzV1ByVk1BVHFxQ1U4MldtVjdQdlJROWt0Um5EeUVrZnlOSkxXMWJ4aVUtSENoT0k3NW9RRC1RcXlVR2FlcWw1Z3JrVl94aTRyMl8xcWh6M2c3bkRYei0xUVc4UE1fRnAzT0VDOXBmcVlaOEx6YlBqRzdKWlNjVzhOQWtTS05vV0JfM0c5NTBEcjRaaG5TODU1OVBEOEFCZmc?oc=5",
-          "source": "CMoney投資網誌",
-          "published_hkt": "09/15 07:47",
-          "related": []
-        },
-        {
-          "title": "Fortinet股價暴漲9%！網路安全市場強勁反彈",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOanJtZkdOSmFxYThtREhQMTJhRjJUanVMTGhXRlpPaGxLcjUweG4yUk1pc05oX3VXS0xtNk5vNk9TWFE5RjdDRWVUd3h6bHVYeEtTbGZFWDBLTnRYTWFKYm9HSkJsMFhLcG56VWxCQUZIa0dkRjllenNOYkhGUi1QU1FpdnBXeHB3Q0xFNnZBaVYtcHRu?oc=5",
+          "title": "新興市場債務激增，熱錢潮還是結構性轉變？",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV0haSHRXdlg5YWx5dlA0eWxKNXRRNHg5OWRtcE1INzI0RmxLN3RuZVVxM1llanlQLXFuRmZtMXlLQ1Y5bXliUzFvU2tNYjQzNGFYdGFtUW55TlZjdm1fYnNFd3NjZU1yYnl1WFp0aC1IV2hJTjRNa3VETjdiVmgtWG5fbnpxTEpwNldDSFRDYktnN0xS?oc=5",
           "source": "forecastock.tw",
-          "published_hkt": "09/15 07:47",
+          "published_hkt": "09/16 09:17",
+          "related": []
+        },
+        {
+          "title": "【即時新聞】聯準會決策前夕美股齊跌！道瓊(DJI)收黑，升息與地緣風險恐引爆劇烈震盪",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNkhkZ1ZnWGQ1a0tpQVlLc3ZUSmpjTnBqM01SUjVLOG5XdDhIbG16UEI2WkNhbWQ5R3YxYktSdXVmekVJcFRheDJpTTlXaXpJVVRwNGRHaXM4NVJHVEMyWUgtVGlQN216R0E3WDV4ZTFxV080SnpfU19GMVR2a3JLdGo3QTZZTFR0UUlBaWlfbFY?oc=5",
+          "source": "CMoney投資網誌",
+          "published_hkt": "09/16 08:56",
+          "related": []
+        },
+        {
+          "title": "Revvity股價再創新高，單日上漲近9%引發市場關注！",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUmdVYklRYmx1MDZhUmxseXJvUmVaV3RxZ3VZZGxONC1CbzZ6QUhDc1A4YVg3RGJtNVdRVndHRDBiVUNEWXZoOEtweWlCZTJZSFhBZmkzVDI2cVFHeHBMQjFxUE1SelEyc25OMFV6NnNBV3JCQkJMM0tNU1VHMWxZU1dNR0JoeFp3Q2UzTDN2dWNjM3B2a0VNQkVuSUZkS2YzUi1GSXVFeHo2TUN3U29TcTQtT2ZlbFJpMndZb1BsM1p0b0wyeW92dWJ6ZVZfT2s?oc=5",
+          "source": "CMoney投資網誌",
+          "published_hkt": "09/16 08:39",
           "related": []
         }
       ]
@@ -55,28 +55,32 @@
   },
   "hk": {
     "pre_market": {
-      "updated_at": "2026-09-14 09:15 HKT",
+      "updated_at": "2026-09-16 09:29 HKT",
       "news": [
         {
-          "title": "海底撈主要股東意外減持引發猜測 離岸信託補稅窗口潛藏港股波動風險",
-          "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPbHpXdTl2b2VrY0ptbFI4M2s0T3FCbFRFd1V0V3I4aEk5RHRMRmctbzRjVjhhRjhWOEVkMEd2aWQwU1NVOEhiVHlqUjc1d0pQVzl3dnA4S1g5WDlYRkNzR3BIYzhWSkdhd1dMRWtUT3Z2V2tmaE1UUDBtdVBrUTV5VWJPSWpCOGJleWZLQUtjUVFqVzhuYUh3U0lfcFlOSUtwd0lYalJOX3RVSzg1MGtTOHdWZG0ybFZud3ZBcHd4aFNlZmdrWmVMRWNkZFU0bXdsanlVaW92QmFSNG5GWUtUb21jQWtXaW1yQmNCS1ZaT0IzQ3dnUU9IRVMtZm4zTnFsUTdDWFR5STA0ZzBNUjRzZWNqb0lWM2VEM2F2SHhKazZWQXcwWGc2cEpwMENtdVFlemdZQUE2RGpzWUdqekRQbVkxaXdWLWNxaHNvVTJsZmNZbXp6blh2SnJycllUZDlMMjJXRTRqZktLcXlpbjdGUTU4dTJXZnplNXl2R3Z2elJQTmJWRDNGa2pGMWhMd3VPUnNNRG9OcEptbWVqOHpEWG9DbGNGelNxd0JkOVQwMXR1T3JTWGQxQXIyZGpWWmJpUmU5X3FBU3g2dVpyX3BIX1g1WQ?oc=5",
-          "source": "Yahoo 財經",
-          "published_hkt": "09/14 09:02",
+          "title": "港股競價時段升122點 攜程績後跌約1%",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTWsxQmpVT3VDVk15T0VKdlRtbHBiZG52N0syMTI4VkZid09MQnhyS0N2VTZJZE9YWmJPdGpQU3NPczNLLUFIWVFGem1PZXp0UlV3djA2X2hCTFFQd0xpMXVFQ1hVMVVJb2FwdFM4aTVieTA1bURJaEljXzZfMklDdU50QVdic3M?oc=5",
+          "source": "news.rthk.hk",
+          "published_hkt": "09/16 09:25",
           "related": []
         },
         {
-          "title": "夜期低水13點 美期跌亞股個別發展 攜程等業績 (08:31) - 20260914 - 即時財經新聞",
-          "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNUUs0bnpwbDNsbWQ2clRiWE5YcGtjM25WTDQ0VzdsRzZPTmJlVnc4Ymw4enUyU09wSEFxcXdyNUdkOXN5WDJkNnBFUlJQTWNOVUtUZDRSSXNNMWZxMGFVZy02QTBKejdDZG9SWFAyblJ3dDZVbXJxSXpQRVV6TC1SRlVtZUNxTlUzTU92azRiWWNRdzdlZU9kVmFUcnpBSnVXQUtzWE9Rb3VPRzM3LWpQT2l5Yzl0SUZzb1VnSDFJYjh0cXh5VHUwb3lKWXB5ZEM4ZGx4OWNLWGczLXlhTU9Gd0dBXzcwbFhHa3NRMnJKRzFXS1RtdDRWM2RxZS1WbG01dGw1eDFjNkdrSm93cUl1TjNTaWpzN2FOaURrd29WLU1tYXl5NjdRRGdjcGZYMkFZeFN4WWttSXFGTGlnbjNHaEN0NU5XZXZZU1JjT3NMWHE4aDBUX2tSRDZ0UQ?oc=5",
-          "source": "明報財經網",
-          "published_hkt": "09/14 08:33",
-          "related": []
+          "title": "【港股市況】香港施政報告2026公布前 恒指高開122點 聯想升逾2%（不斷更新）",
+          "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQU29jSDhZcS1WeE5KMWUzMW9sd0hfOEIyOUpkb1ZRcUxmNERuOFhGUTJudjdZUXRTV3pSOVlTRlgxdFBpT0pocjhjQU4wdXhEa1IwZTVITzkycjNjMFpLazYwdEJuc2JYSXdCVnlGakZ0NF9oSVBBQy1GZ0cwdFpaRUZvYVBMbW1qZVpmeU9QdUI1TExiOUI5ZnVnazR1VUxCOU1rNUR1OUtBSUc2X0NlUVFTR2RzZTEzV0VHRldNQTZrSnh6R1F0STRZUGlhLWVDekJKSmJkSl9EajRLSmhrUEd3WmNRZnBEN1htOVIyQWJVdHJWMmtYUWtfMUJvanZCbkM5LVVJN0V4WFhkYlhEakNQWHJZRFQwUjNpdUhYLTZJNzNHY1VtM0IwbjRZbjd4Q3UwdEF2YTdDNi1CSlltOUZvbmZYZlZiZWhPUFJnMGFhTjVpTXZqeXFIcWRNVE0wRGJ5WnhVSWtkdlNjYUVkTVR5MnlVbEEzbjBEOGxoSkV1dFB0eVZtSnpHSlYyWTlSUUlzaFRoUV8yV1pJWEZqMU0xVDNNXzFwSXJVV0lDR1Nia3p4aW81SnZDR3RTdUJaRDY0QnFvbGNMc3IxczdFUkRVaHJtcWZDWG5Ycw?oc=5",
+          "source": "香港經濟日報HKET",
+          "published_hkt": "09/16 09:24",
+          "related": [
+            "^HSI"
+          ]
         },
         {
-          "title": "A股和港股多個重要指數成份股調整今日生效",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96Z3dhZjc4M3hlY0s2bDZ2NHE2Z2V6WkZISjN3VHp1dlNBQk9KalhVbW9jUUdOR0lkeEd1ejc1X2xBV2MwZDFmLWJidVpITHBEeVdfc3pvT0pCUQ?oc=5",
-          "source": "Moomoo",
-          "published_hkt": "09/14 07:28",
-          "related": []
+          "title": "港股開市︱初段造好 恒指回升122點報24,789點 攜程績後低開0.71%",
+          "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNUTNNaEVPTXJNMVRWM3JKQl9sZmxOcjlLaVdwUXJJZEExdGs4bGJvYjljbGtnczBXRXJ3eGVWcWhsaVZ5TVVERW95QTZiMlJxMmcwa2prcHBEODRENExaa1lyMFNDVUZBczNoVW9neU5scTN6X19jdk9OZTNmQW9pa09LM3ZQbWdIR0wxNUlYQjFBRk1mS1FzV1Q4QlMzWm95a2NuS1h1ZlJoVDJlTzM5UG1laXoxdF9BdFpDOThLdnl2OHo5RVl5UHBXcU9BRmE5ME9Wb3NZeFVUalF3dS1BUlBjalE0aWlaSGw1dlB3SkZXRTF4WEdvQy1QclRjSFlwcXNrVmtwTTZKVUNybWRIaGtJVEd5N2JzSXk5REtwUmhKNDZRMkZtZmFEa0NXVml5OTZqZkRjc2NGMVZ1MXkwRTV6aElZWU8yQldZMmZwYUR4SmVGYVZmcE45WVdCRzZRTW1CcXFWUlpnYXowYTdF?oc=5",
+          "source": "巴士的報",
+          "published_hkt": "09/16 09:23",
+          "related": [
+            "^HSI"
+          ]
         }
       ]
     },
@@ -234,34 +238,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-16 01:33 HKT",
+    "updated_at": "2026-09-16 09:29 HKT",
     "news": [
       {
-        "title": "幣圈突然遭遇「雙殺」！比特幣跌超3%，關鍵法案突然受阻、92%加息概率同時壓頂",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zci1Jd19CWXZLV3ZhdkY1RzBnbjM3bEUwMTlmcTU3cGVBMjVpbGh6SDhxQXY3bGZlY3gyN3BmVHdIcW9naFRXYXh5ZXAwem56QVZlUk9fSHRiQkR6NnVNUGdrMGU?oc=5",
-        "source": "TradingView",
-        "published_hkt": "09/16 00:58",
+        "title": "《清晰法案》表決未通過！比特幣失守7.5 萬美元，加密股全線跳水",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcEZucmIwZUpaRk93dUw0b1NBdFBzbXdsd1RYa1FFOW1JbS1xbkRmVkxPc0t4OXZvUDcyMUdmZU1yd19aU2t0WmV1cUhYcWRzY3FvUkg5TGNkOUZMc1RPc0dPd093emwwVFVLV3BPSVZtLTZlX1d3cHE2Tll6NWdkNFlDQXRxQVVfdi1PdXVsd2Y0Zl9ZU1FodzFCaGVjODUxOGxnT1hkQjNsMUt6cnN5Q1Rwdnk1OTdXRlVOQkR1by1kYk1pVTRvRDdWN0laOXFYd3FmdFItSlJSdXhFVFI4NkY3cw?oc=5",
+        "source": "TradingKey",
+        "published_hkt": "09/16 09:22",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "比特幣因估值上限維持而下跌，XAU疲軟持續",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWUxFLWl0TWE3ODFOUzBOS09SckU0dmdjekREbTBZZzFYdXVZOHdTYm1IRk9DVnZSZUhiSmRrZ2xUYVBNelRFaGkwbk5pZDhfa2hLWF9maV9YWXhFcVpndUdNTGx3Y2JFMGJzVHc4VmxpQXZEU3dCQ0xmZUtINy1PN2xaV3hfRk1taEdyZzhwX0NVcU1IMTNYakloZXBfd0Nta1NoR0VJTS1wenBNdXFoSXBWb0pjcDVNTUZZTWRQOWo5Rm12V0lVcVdQRnRzOGZCVlBxSDhDVXRveHIzRFVYZDJDQkRBUUlxUjNvbXhZdlNEd9IB8gFBVV95cUxQWUxFLWl0TWE3ODFOUzBOS09SckU0dmdjekREbTBZZzFYdXVZOHdTYm1IRk9DVnZSZUhiSmRrZ2xUYVBNelRFaGkwbk5pZDhfa2hLWF9maV9YWXhFcVpndUdNTGx3Y2JFMGJzVHc4VmxpQXZEU3dCQ0xmZUtINy1PN2xaV3hfRk1taEdyZzhwX0NVcU1IMTNYakloZXBfd0Nta1NoR0VJTS1wenBNdXFoSXBWb0pjcDVNTUZZTWRQOWo5Rm12V0lVcVdQRnRzOGZCVlBxSDhDVXRveHIzRFVYZDJDQkRBUUlxUjNvbXhZdlNEdw?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "09/16 00:14",
-        "related": [
-          "BTC"
-        ]
+        "title": "理想的終局：當加密行業集體走向同質化",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSUNZTm9Jb1BDT0NuWkpEQ2dyajNYelNqc2k5ajdyT01HRDMzN0dHcTFqT3B6TlRUdUdVcF9POWN4eFhINFA1UGUtTk1vVlk3UEg0cHMtUmNSVU5nd3lfUzBidHFFM1dHc3B1a3dxQWNDeHpvT2wwX19IWFg0Q21jeEVYMXZodw?oc=5",
+        "source": "PANews",
+        "published_hkt": "09/16 08:30",
+        "related": []
       },
       {
-        "title": "超商支付再添新選擇 萊爾富導入比特幣等 5 大加密貨幣",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzVjl6YWZRNUJIRkhHeXNvdVJ6cW03eER1Ul80d2xvSjJYSjdXTk9keEJKOWRPc0ZnX0ZRRWFTRGlyaEx3cWgzcGlPOHgxckJQN2c?oc=5",
-        "source": "蕃新聞",
-        "published_hkt": "09/16 00:14",
-        "related": [
-          "BTC"
-        ]
+        "title": "美國參院擋下加密監管法案 川普力推《Clarity Act》受挫",
+        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPM25obUhfZjQtNkM2RWlaZ2ZkbkNEVW9ILTVXZjEzOWFwZThZeFV1cXo0Z1BuN1h6NTRiVDVaYTNuWUFxQkVmR2s4QlVjbDE2M1pMcjNvYVRjYk5feVctYnBUd3RwTVFCTWtwVHI4NlUxUWIzWHBETkx4Njl2WlgwWVZsdkNKUzJpSDVuTHZKdk5aTFp1VW85cXNuakNzaVlSSkFkRFhPMU96TXlSTFJZV2tFV3E3NEUwX2RtdEhWN2xQVHVEOTV0RzJqNG1uakEwbF9ONmw3ejdtUjk4Z2poSGxCNUlObkNmVXBNbm4wM1MxaTJPR015aV9IUHZ4OVlWYUJyZWFuU1pXWWZCZkJqWXM5dXo0QjR5UDBuVjVFMjd4b2x1czFMVEkwUW5QVWFUeHJuTkNaVVpqZ1cwVUI0dkRKWUctSUk3d21RMWtvOFZxa25lb3NMbkVSV2psNGExdHBNcHVkaEpMWjJmSlU5MGlGRVVvZw?oc=5",
+        "source": "商傳媒",
+        "published_hkt": "09/16 08:01",
+        "related": []
       }
     ]
   }

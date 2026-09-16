@@ -238,30 +238,34 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-16 09:29 HKT",
+    "updated_at": "2026-09-16 13:06 HKT",
     "news": [
       {
-        "title": "《清晰法案》表決未通過！比特幣失守7.5 萬美元，加密股全線跳水",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcEZucmIwZUpaRk93dUw0b1NBdFBzbXdsd1RYa1FFOW1JbS1xbkRmVkxPc0t4OXZvUDcyMUdmZU1yd19aU2t0WmV1cUhYcWRzY3FvUkg5TGNkOUZMc1RPc0dPd093emwwVFVLV3BPSVZtLTZlX1d3cHE2Tll6NWdkNFlDQXRxQVVfdi1PdXVsd2Y0Zl9ZU1FodzFCaGVjODUxOGxnT1hkQjNsMUt6cnN5Q1Rwdnk1OTdXRlVOQkR1by1kYk1pVTRvRDdWN0laOXFYd3FmdFItSlJSdXhFVFI4NkY3cw?oc=5",
-        "source": "TradingKey",
-        "published_hkt": "09/16 09:22",
+        "title": "Dell'elba vs Kirkin",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4SV96bldiNEFQVC1aT1NYQ19IQ0ZVX3pGSGxLTW43MWhPMjQ0TGJLdHVhb2JweVJ0RjJkT1B6R3VUUHB2Z19aSmxPN3U4VnE2dXZ3cjNnT1JVbFI4dFZ6R0owUHJtTmNJWmhMbWd0cmhwS1B4NFB0RDZoR2Nxdw?oc=5",
+        "source": "Coinbase",
+        "published_hkt": "09/16 12:47",
+        "related": []
+      },
+      {
+        "title": "昨日美國比特幣現貨ETF淨流出4.5億美元，以太坊現貨ETF淨流出1.42億美元",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0Rk5qWDhZT3A4X212eGJPUTBkVl9WVnVOOUw5NmpaSS0xejRFeHRDLVE5RzFZNjNpQ09vam0tdkpsMTlDZDVQTHhaVQ?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "09/16 12:00",
         "related": [
-          "BTC"
+          "BTC",
+          "ETH"
         ]
       },
       {
-        "title": "理想的終局：當加密行業集體走向同質化",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSUNZTm9Jb1BDT0NuWkpEQ2dyajNYelNqc2k5ajdyT01HRDMzN0dHcTFqT3B6TlRUdUdVcF9POWN4eFhINFA1UGUtTk1vVlk3UEg0cHMtUmNSVU5nd3lfUzBidHFFM1dHc3B1a3dxQWNDeHpvT2wwX19IWFg0Q21jeEVYMXZodw?oc=5",
-        "source": "PANews",
-        "published_hkt": "09/16 08:30",
-        "related": []
-      },
-      {
-        "title": "美國參院擋下加密監管法案 川普力推《Clarity Act》受挫",
-        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPM25obUhfZjQtNkM2RWlaZ2ZkbkNEVW9ILTVXZjEzOWFwZThZeFV1cXo0Z1BuN1h6NTRiVDVaYTNuWUFxQkVmR2s4QlVjbDE2M1pMcjNvYVRjYk5feVctYnBUd3RwTVFCTWtwVHI4NlUxUWIzWHBETkx4Njl2WlgwWVZsdkNKUzJpSDVuTHZKdk5aTFp1VW85cXNuakNzaVlSSkFkRFhPMU96TXlSTFJZV2tFV3E3NEUwX2RtdEhWN2xQVHVEOTV0RzJqNG1uakEwbF9ONmw3ejdtUjk4Z2poSGxCNUlObkNmVXBNbm4wM1MxaTJPR015aV9IUHZ4OVlWYUJyZWFuU1pXWWZCZkJqWXM5dXo0QjR5UDBuVjVFMjd4b2x1czFMVEkwUW5QVWFUeHJuTkNaVVpqZ1cwVUI0dkRKWUctSUk3d21RMWtvOFZxa25lb3NMbkVSV2psNGExdHBNcHVkaEpMWjJmSlU5MGlGRVVvZw?oc=5",
-        "source": "商傳媒",
-        "published_hkt": "09/16 08:01",
-        "related": []
+        "title": "前三名價格預測：比特幣、以太坊、瑞波幣 – 隨著美聯儲利率決議臨近，BTC、ETH和XRP回落",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOWmNKYjA1aFd2U3FURjJRbFVKX0h0TVZwYWZSMWpRWnVPV0pqa0lCNTdjVy1xWGNCNi1CM2ZGb3NobUJubHpOWEJYOFVTNjlZbEdaQ3ZCR2M1ZDQya0NoRll4MUNGTjNqTV8xR1dsdHJJYUc5N3AwZEdVSUU3ajA4enU3U05BT2FrREhjWXNsMjRrT2NxeGJLM0lZRlhfNmxhUUlfRTl5ZzFick9COTBESHRCaTRXcjhXbTgtZE1rSDdRTjNIWlptOTJrQ0JjZ19DZF8yOEN6ajFCcFN3Q3ZDb29kQ3VsWkVyV2NpZ2xGNTcwYnJWQjFzNXViWWR6dElfdExNdll6WVU5amYxV1FMaNIBkAJBVV95cUxOWmNKYjA1aFd2U3FURjJRbFVKX0h0TVZwYWZSMWpRWnVPV0pqa0lCNTdjVy1xWGNCNi1CM2ZGb3NobUJubHpOWEJYOFVTNjlZbEdaQ3ZCR2M1ZDQya0NoRll4MUNGTjNqTV8xR1dsdHJJYUc5N3AwZEdVSUU3ajA4enU3U05BT2FrREhjWXNsMjRrT2NxeGJLM0lZRlhfNmxhUUlfRTl5ZzFick9COTBESHRCaTRXcjhXbTgtZE1rSDdRTjNIWlptOTJrQ0JjZ19DZF8yOEN6ajFCcFN3Q3ZDb29kQ3VsWkVyV2NpZ2xGNTcwYnJWQjFzNXViWWR6dElfdExNdll6WVU5amYxV1FMaA?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "09/16 11:39",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
       }
     ]
   }

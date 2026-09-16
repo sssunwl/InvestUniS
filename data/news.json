@@ -238,32 +238,27 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-16 21:36 HKT",
+    "updated_at": "2026-09-17 01:34 HKT",
     "news": [
       {
-        "title": "分析師：美聯儲決議對比特幣影響或大於《CLARITY法案》受阻",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1za0VOOFlZZllkRXFFUVV0Rmx4NUtFNnotTW9vbnNtREdxcVgxSWdmdlkxRkZjQWd1WHJsZ3F4a0JIYUN0YzN1azFfQmZBYTQ?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "09/16 20:30",
-        "related": [
-          "BTC"
-        ]
+        "title": "加密資產監管法案 美參議院闖關失敗|香港經濟日報",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOOW5YQ3FySmhZdjYzYk5LdE5TR3E2NDNZcHVveThoUkxzU0JnVDBRN3BzcGxfRGNpZEU2ZGpvOFFQdHJqdkxCdkNFak9adWUzVHpNZ1pDQWdPR0VjZVpXbWZxZ1hJTnR3M3lUUXdGM29McjFsOXJ4dFNyTW12NGFrR1JyU2k1ZmFGTWhJakw2Y196QTI1d24tSnR3c256RUd6X1I3NEpKXzg0TjNWN1FCM2Z3Mk1vUkdXZDU1cVFscHBldGwwVW9BcURqRDh5UGdEMXJWcWY4OEtaQkVuajFQQVM5NC1tUXdhcm5CSTV6SUJjTkU5RkUwMFVDOUZaY3VaUXZCa013aUo1Nl9SX18zNjdmUE1xUQ?oc=5",
+        "source": "香港經濟日報HKET",
+        "published_hkt": "09/17 00:29",
+        "related": []
       },
       {
-        "title": "為什麼比特幣、以太坊和XRP有望延續拋售？",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQX25jaUw2ZHF4VmtkNUN6Q0ZqVDlkTTY3TS1TQjZ5UTd5V3RFRGJ4eEo4dGNxYi1IZWRGenk3Vzl5RmVjMHhSRlNObWE2YlgyWVRzY2N4eFhRWHo4dThJS3lMVURBTWo4bjJiT0ExZ2xJTVhJajBjLUVCa2JYZC0ySEs1cVdjdWF6cURubEdFS3oxX2NTcFQ4TFdNbGdaMVgzY1k0RFpKa3d4QlZ4ZUNiS2Q1NkZmT0JMLVVJbDlvamNlM0lVM2dEVlN5NTdQeHNEY0RTWkY2allDbkN6ekVSeTFmNlE5NTNVUGfSAe8BQVVfeXFMT3JJUURYNm1GdDQ1M0FRUUE0eFBvMVp0QndxRjFyYy1wYmFRTTl6MUFXVFBBTmszaWxTdnRHV1J5OHJzOUw2eTJxanE5bUROeTJieUROU1JwOXRlejhaY2Uzd2ZwZ1BCYkRycHlDZWs0SnFwTkZzZmY5S0gySERZV2kyQ3BGQ1VOdkF2aFBtQlFiVnlEYWtNYVJfVEw2Tm0yT3FCVmpMRUluRm5aN1lRbFl2dmtTcFF3OUl0LWFvZXlCRlpPbXBXdW9uazNjYXU0UzZWWXM0NDBfU2FIcXRKQUJ5ekI3dlpmLW9UVWNOSEk?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "09/16 19:21",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
+        "title": "BIT交易時刻：監管利空後BTC破防，市場聚焦今晚聯準會利率決議",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObER2UHRZaVl3NVRCNDY1WTBsaWRDVjYwTUJXMFA1aFRMcFA2dTkyQUNvc1FzZEZLUjk4LVNzMVRONnZlOG8wMUwzckZwbnRKTzFXOE1pZHhCX1lDQXBfcW5abHdwZWFYRXM5Z1NnR2F5Y3paRkZfTVVNSk50SmYwdklvcHBnQQ?oc=5",
+        "source": "PANews",
+        "published_hkt": "09/16 23:56",
+        "related": []
       },
       {
-        "title": "Circle推出Arc主網，華爾街驗證者加入，而CLARITY法案停滯不前",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQkFnRWRoOGF4ZGR1UjFCdWtWbVVQaGk5NnIxQU5jcWdTT0F1LU5VWTYtemNTaEcyR3Y5Zmd5bVRoUXloQWpUbWpoOXFySGVYSnd1TWFDZ2xPY2xaSC1pZ2o4YnN0NlRqWHNnOEdEQkpwdF9iNUF4Ql9VamNmYXBJbEtHOGEwTFdtR0kxWDVKTUhiU053eExvM2FSa0VleUFtRkluampSYmhqV3ZHQ1p5R0RVcHBHR0NXSHdwU1NsejN3ZlJ0ZjRMWl9ZU29NNDBmLUZsRTFNbXBuQmRZc2RlQU1MNjBVXzNR0gHoAUFVX3lxTE1CQWdFZGg4YXhkZHVSMUJ1a1ZtVVBoaTk2cjFBTmNxZ1NPQXUtTlVZNi16Y1NoRzJHdjlmZ3ltVGhReWhBalRtamg5cXJIZVhKd3VNYUNnbE9jbFpILWlnajhic3Q2VGpYc2c4R0RCSnB0X2I1QXhCX1VqY2ZhcElsS0c4YTBMV21HSTFYNUpNSGJTTnd4TG8zYVJrRWV5QW1GSW5qalJiaGpXdkdDWnlHRFVwcEdHQ1dId3BTU2x6M3dmUnRmNExaX1lTb000MGYtRmxFMU1tcG5CZFlzZGVBTUw2MFVfM1E?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "09/16 18:41",
+        "title": "Coinbase Global, Inc. | COIN 股價走勢與即時報價",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LalpkY2Q2Q05sc2JGd0VMT3A5emI0MkdXaHIwUUhnRkNCSnB4RFBFdWtzRDh3d0REcEpHM21jNG5NSDlfUTI5V1lNMzZYaVBt?oc=5",
+        "source": "finance.biggo.com.tw",
+        "published_hkt": "09/16 23:33",
         "related": []
       }
     ]

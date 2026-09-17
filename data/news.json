@@ -241,30 +241,29 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-17 09:33 HKT",
+    "updated_at": "2026-09-17 13:10 HKT",
     "news": [
       {
-        "title": "比特幣守穩7.65萬鎂、以太坊站回2428，Fed升息市場靜待下一步",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdU9WUk5WQ1hqM1lZcHRJWVBIT2tkRzRicDY1QjdpdDdZZll3MXFkU1ZuWHBxdFNjSzlUb29sX29rcnlXWVZjcTRfeUNHWVU2OWdrQzN6Q3VwT3dpREZNTkd4aXNFMUhmaEZYTkJ2RTRtb1ZJMkppY3loOWduQklvbw?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "09/17 09:24",
+        "title": "昨日比特幣ETF淨流出2.959億美元，連續兩日淨流出",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84dGFLVnFHeThrOGJiSXc4ZDZDaDhHVWhLWUdaaGZIdVFrN1hBNVhRNGdoMkptTC1KZGtfVFdDZ2ZMX28xWnVBMV9sLWY4cVk?oc=5",
+        "source": "news.cnyes.com",
+        "published_hkt": "09/17 12:00",
         "related": [
-          "BTC",
-          "ETH"
+          "BTC"
         ]
       },
       {
-        "title": "晚盤加密貨幣市場普漲 Solana與Avalanche領軍上揚",
-        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPdEkzNDc3TEZURzBweDFjU3k4ZUxxRzdqTXJ1MGs4TWhxUUNEem9aYUx2dHNfU2hWU2FDdUV2T19VU0Jicmt2SGI2bXVxTVl4MUpHbERmNjNQTnh6STE2WjNxVWc0Wk1KR2VvLU93THpJcVJRb0x1bjVZTFJVaF9JN3RWVW93OE9qTVNJRklGVE5GTjJxdUFEYjY3M0dWZ2s0dWN0X1pQS1pNSEFYdl9IQXRKQklNdS16X19SM1pJWk9VaTlXY2JIQUxsNjVTejBLRzNuT2tGdFlUOXJraVJ3eVJjTHlzVHZ4X19xQ2RoTnFkMElKbDJzRjhmaGhhZkxvbVk2TVJRNjJUbE1FdWo1NDZkOHplT09qeEFFNDM4VDBDaU1a?oc=5",
-        "source": "Yahoo股市",
-        "published_hkt": "09/17 08:19",
+        "title": "Texas gas prices tomorrow",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yTzk2MkhmUGd5WndyYlc4bFFJMDNRXzloNUd4T0tfdmxqbnJUMmlvdVF0Tjhacks0Y0VpN3lfaUl2STVDWXBkRTQ1a3JkSFdvUVg2bTYzY3VOWWlGZ3V5TVpJa0l4RlJ0cE1tYklsWWJjLTF5enNj?oc=5",
+        "source": "Coinbase",
+        "published_hkt": "09/17 11:11",
         "related": []
       },
       {
-        "title": "隔夜美股 | 美聯儲如期加息25基點 三大指數收跌 SpaceX(SPCX.US)漲超5% 作者 智通財經",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLNjUyZmNmQW01MWU3dEU3YmJVWHlXSENDRmJVODdUVWpoc1o0VmpLME93YUdReEx6VVpmUEhlTVRkMmJEaTJCTGUwZ3NJSE1QU3NqeGFqaFRXZk93Q1hnV0hkNGdBNURMMWdHUVloa0Q?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "09/17 06:49",
+        "title": "Highest temperature in Washington DC on Sep 17, 2026?",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xZUNDUE9QaHprWE5jWjJ0VkFtY0FwVk9PSDBOT184MWF1UkRzMXdFNDNkTG1fMk9NMkNoQUJxZFJnTW5xQ3dGVnIxajJYbHlDZUUxeDFwa1daNWczNnJNdlFLTWUtWjM0MThQMjNlRDdZTVFL?oc=5",
+        "source": "Coinbase",
+        "published_hkt": "09/17 11:09",
         "related": []
       }
     ]

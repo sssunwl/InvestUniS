@@ -244,35 +244,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-17 21:38 HKT",
+    "updated_at": "2026-09-18 01:32 HKT",
     "news": [
       {
-        "title": "在美聯儲加息後，比特幣保持在76,000 美元：為什麼 BTC 表現強勁，而股市卻下跌？｜長橋證券",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Xd2U1QktuVlFQSHp2Uk90Q2xiTmJuVWwxa1FQYjJUb1BMc1dhY1Q1WGlOT3ZDVFRZUmVSbklRYlhRWXVkNFNVRnBzZkllbzdCSFpSMm5B?oc=5",
-        "source": "Longbridge",
-        "published_hkt": "09/17 20:22",
+        "title": "市場看懂了這一信號！加息也壓不住，比特幣衝上7.7萬美元、Zcash暴漲23%",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HRm5CODR6RGJDOWZCOXlfY3M1SlJQOXlNTXMzb3BhMThWNGNiRTA0QXNUQTdlY1hDOFRCNlBCZmltckJENTk5WFNyRkp0TVNXUGxmMERfY000bWg0cEowTE9KeEs?oc=5",
+        "source": "TradingView",
+        "published_hkt": "09/17 23:43",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "主要加密貨幣行情，比特幣升0.22%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMXp1b0ZWY2xYSEkzeURzN3RSaExScW1XWjNpWnFRdXhvTTdYZWk1cnR0T3JDQnJ2a0ZEWE53STRTd0t5a1czdENiUm1JcDlLTFEzXzF4b1Zfak1tSWlOZkp2aHFydEVfRjJMa3RWVHVZa2VrQnM2dk05UGJLMEppU2huYXQ5M2ZJaDlwTFE2Wk4ycnhPdXF6WURuVURFSFpu?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "09/17 19:31",
+        "title": "BIS 警告：比特幣轉賬估值偏差高達六倍，鏈上數據非真理 作者 智通財經",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PR0xLWGRCckZkNkR1d3VVWTF1RkJfZUNubnk2ZHJ2blpVTUZ6MEl2NEQxX2dfMDkxQjhCLXkwNTQyZTltZ2ZKRXRLRElRN2ZPVDhRUEFuQWd5cmxnRDdySXBNUHExaks5WHp0RWh2d1g?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "09/17 22:54",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "為什麼比特幣、以太坊和XRP在宏觀逆風中表現堅韌？",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbEpwY09Pa1lUMFJ4US1vMG5jNXA2UUhPR1VrY1E2T0M4OGtHUlY3VGhsYmloNnFpWTVsczJSUVEwNFVUMmtIQ1JjRmd1OTVCeGNESnNtZHctNWVFREZPUFQ5c2loQTFGd2VlamU3YlZYY2pvamh2T2ZoSG9Fa2ViYU9qWVdIaEdTUnFTU1dTYzZJZmEtbk9UQTh5RHJLYVNOTXdqdGZFX0UyTGp0MVk3d1FzRFdjTktSdm5NSEFZYTMzeDNMRWY1ME1ONmxjc25NVlU0WjJvbWJOTVZaSzBON0k1czZpUjJKUDhhNXRR0gHzAUFVX3lxTE5oTWh2Mlhya2JNX1dobTJTSFN1eHpBT24ydUQ5LUljR200ajVJZWFEZ2tObm5xM2RoVnhQamJFQkFqTTdoNHkzaHpLbmRacFNWTTJhMHg5NXg5ZC1FNWlqWE9NU1ZSelUyRjg5MFplOFhJSVFPcmJNVDhENGhJNzM5Z2JvRVBOMzZKcnVqcWNzZGtlTmRrV0ZwaHlQSTZBMlRfX0oycjBqeHhmWTRKNGZRSVg3RnY1dnNJMWtmY1h0OU5Eck13aDRzY2g0TWJfWVJPSDBXNFdfaE9UX2V6NEZ1VnhuNHR1MjNVd043NE9YakNfQQ?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "09/17 18:31",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
+        "title": "加息 25 基點，加密爲何逆市走強？ 作者 智通財經",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55anlWNjRacjhWQUJtM0UwdXdvWE90Xzd2S2dTTEFhMlNJNGx2R0FhNG1icHNMSEl3UlFFWkJBR1JUWDVSdk9vYVduRmxqZFZLakM5QnpLeXpKNDRnVnhCUlQ4SVhOYkZ6aU5aQWVjWTc?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "09/17 22:53",
+        "related": []
       }
     ]
   }

@@ -88,32 +88,35 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-16 21:36 HKT",
+      "updated_at": "2026-09-17 19:22 HKT",
       "news": [
         {
-          "title": "【恒指夜期+北水】北水全日吸資21億元資金大手掃智譜中芯Minimax、沽盈富基金恒指夜期微跌3點（不斷更新）",
-          "url": "https://news.google.com/rss/articles/CBMilAVBVV95cUxPU1UwOFJ4WUFid2E4dUU2XzVsUDZiWGtjS1VRWUVRTnE1VTFWZUh3eW1weGdXV0RRUkhkZlBkaHVJM21pTU9FQlROREdTbjczbXhQLVFfYmtlWlhiLW9HdDFTM0xYV1dHM0V4M1NjRVhIQzJrM0M1dXdCekVwVnFpQU9SbmMwRVQwRHV5RmgtaHJyamEyVkhBNFZta3o2SGtMaS1Hb29seGRnOTd2UmQweXllLUpaUlFFRmt1Zk5XTDFrVmF4akpLeEZxLWtlSVlTUkR0end0NXU1QzdSZFM3YUtjRGc4X0ptS25LRmtGQ2c2N0MySGdhN1RDcFM4VVJHWXB1cDdrYVdOTG9LLWc4M2VzNnJqc1VDYjd5MDQ0c0Robkpna2ZlbjdWckZkbmQ1M1lKUkY2WnU0MG5wRF9iVWw3dzFqYl85YVF5YnR0d2FjbHdoSUNpRTA4MG1LQ2dIMHEySTdFY0g1Vl9zcms4STlhdTItUkdydVY0emQzcTJvbE03cjEyV3Q0U2RSSDRkZlZZeFB1SWdKc2FjVGtHeGpKWVk4bXhDRFRrWHlRU0U2cFl1SkRUdTdYMXVnTDBJeE5lLWJUcU5nWXFINDZoLXFZX3gzMUhSOXpMbnh4N0FZSUlqQVBCdFZpeHhaWDZiZ2RYU0pzSVF5WGV3Q1EtbzQ3TjR6Y0diN0pPbjRMdDJoZzF0S3JwNThqbzhGNTBCeTI0RlRQYWliTHFsOXZIVFZNRk45T1FYa2x2VDVvUjBNc1J2Yzc5WVd5SExTaFZ6amlnTkQ4TUFVeVJjYTZwRlVnS1MwWDJRVTRyWmgtQXMzZXU2ZDh6Wjc0QWRtZGtxUFhCSWhBZlkwamZfYktZNExkX2Q?oc=5",
-          "source": "香港經濟日報HKET",
-          "published_hkt": "09/16 20:27",
+          "title": "【港股收市】恒指跌109點 騰訊跌1%、美團跌2% MINIMAX逆市升7%、智譜升逾2%（不斷更新）",
+          "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNNEhWLUhWMV9JTHZuNVRuZmR6MG45MEpmVEJRNURsc3Itd0ZENzkza2F3bDlaYzJvRFV5dGJTeW5ld3NhRTI4V192dEJnYU80TXAySm1QcHB6a1pMU3dJeHpDQlRYb1VDS3l4SFM5VTEzUkVFTkh6eXAzY095Y3BHcWVuMDd0SFFTRnFpbnRJTjd5VFFSSUQtS3JzRVVmQURWUk0yLVhnbHhRSWNJRTBzb2FQVTZpN3ZCOHBHTjU5QVF3TTJ5TDVIZVVPeWluVmFlVzlWQ2JVeEtQSGtJZUg2aVNZUnVfSVNzcU9MUlptbU5ITEFwS3dDdUFNY3R2LW4yU19pd1R2VTZEM24tUkNfOUFjYVcyUEQxRkY5LWh2NUVyNS1YY19qWkhUNXFEYXdOcEhpUkRNLU1aTUltY25WZzV5MURUeVhPbUhtb2FvWGFkNWstS3Q0dUlCNzRMQVFidVhWNU9aZjg1Y2prOGpDajNmS2Z2NFZieWl5Z3otNUtFblMyTnZVenBhVGtDZTBHYWZUWmN0SEtyX21fVEV3dXBraTF4ZjBueEtsSHNCWE5xSmdRbmtibDNCZVZFdjItd2ZHRmZqd3lTa3BzRVo2eW9zQTVNTTdUNGhqRnl1Sl9hNno4c0lxSVRKeG1CVTFfZ0NPcQ?oc=5",
+          "source": "inews.hket.com",
+          "published_hkt": "09/17 18:07",
+          "related": [
+            "^HSI",
+            "0700.HK"
+          ]
+        },
+        {
+          "title": "三年首加息震盪港股 料恒生指數短線續於24,000點水平拉鋸｜張智威專欄",
+          "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPUzMyeUp6T1lMQ1k3b0ZnYTV4UDZUM25DamM3ZHNXQXJtUWNaMVBYOVN6OV9JN3ZvUTdrSjNLT3FXcGFkbjV2RGluWEhXM1gwN1U1eXlWTnhjUXRuQ2xsTzlpeEJkNXZHWVd5RlhFVUcyUnBEU00wRGl3N1o2V1FmcHlHeXhxT2I5TGZSQmY5c085Wklpd3U4NzFkRVUxM25CMFJST3Y2NmkySTNUanVwV1VKVzBMeTE1LXA4dFpURnBWQXdXbUtXOFhjZG5BQkJoaWlaZGNycEFlb0FUUm1mWm1TcnhZTGVUVXlpZ1V4eWZTSkRTZHd4V2VxODExLTdDQkVKRG9iVUtjbFJYZlB5cXZrSnc1Tm5VVm5kWXh2WnNUcGZzWkN2S2ZsWWJiWTFuVWNvYTFDaDhpNEVrUW1IWA?oc=5",
+          "source": "香港財經時報HKBT",
+          "published_hkt": "09/17 17:57",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "有圖有勢｜HSI成交跌至1810億 4大原因令好淡友縮沙？（持續更新）|香港經濟日報",
-          "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNc1lFVnJvNlczWm8teFhHcV9KTlQ0ekd4d0dNZjN5VHhYSWxSazZpbjlldk5ldVlkenVUVGFDNzAxWDdZeDlvdVcwYXVyQ0JwU05veFEyVk1XZTREd2x4dHpyX0dESVNoTU9OMXFsLXByakx3a1dFelNYbXRnN0tMSC01eDBtTkhsYWF3bjNhV2tsd2JNY1NKdFZCNzZsUThwbjR1ZDlGTFlkbHFrWlJWdUQzT090S3pCekF4cm91SnY4TklZX25INjlyc3ZvSzI0MS1TVWthQU54cGJSN1lSMGg0NzJHS2h0dkgyakdLV1ItUXp1d2F2TWk0eHZRck5DclgzaTFhNlJMbEpaNHFYTE0zRjBqVHpjS29wMDZfZFlBQml4eUNsWlh3Yl9nZm9FYlRTY1JUdV93eVh4YXZBN1A2UHd6TWhjS1EwLVlSeEJTRmtYYUJzU19NcklMWWt5bjlXdkxuSHEtbzFiTzg4Yi0tY3dDeTA1SEZKOGs3dS0wTjloSU5qblVnMVN1elJfM19rTU9LVFI?oc=5",
-          "source": "香港經濟日報HKET",
-          "published_hkt": "09/16 19:46",
+          "title": "【港股收市】恒指跌109點 「AI大模型孖寶」兩連升 金股受壓",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zMDJXbVZiYk0wbTEwa0hyZ2ZaZlczeV9zU0o1dzBuMDlsZmRVc2lSWmJnNWhuNnpkQmJIc1Rob2RmNlUzQ0lCdTFLbE0xMEdtT1I1eDh0WnEyeWtlTURvNFNsYzVZaEk?oc=5",
+          "source": "Now 新聞",
+          "published_hkt": "09/17 17:14",
           "related": [
             "^HSI"
           ]
-        },
-        {
-          "title": "北水今年最長淨流入 美國加息可消除不明朗因素？|香港經濟日報",
-          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQazg2azJRTUhDd3E3TU9Zc0Z3X19QT2M3X3hfc0Y0UzZmR0g0VDVxdEk1V1NUUDVhcnhSUlhPLUx3WU1xM0tacDJxXy01a0dETjhrVjJQMHpmWDJUd3NHYTlId1hFWTgzQ3VMWWlEU1B5YUVNSU00dDVCaHZ1T3lyNEFmU0NOVzZOa0ZNZ2J0R1pWeXAzVjdveHRqZFZnTVhfNEZqSlFUV2lXLTdDOUUtSGQ5T2c5RTMwdFRfTDR4V1FCeFB4cjlFM1NLbi11Q2RtaWhKUEJzN3JtWUV5TzZodjk3TjNmeFN3MmZ3ZGdDeVNlRURncHJkbGJqN2V2OWRyN2Vqc0tfQ283bU9DS1YyRjBJdzMyZjUzQlZrTjVWT3R5VlBxZDZ3T2JaU3ZSampSMXh2U0RLQTBseHprNXJTcmNaVTNqVklURWRIaUtLTzAtWWM0Q2hoZEltWXFidw?oc=5",
-          "source": "香港經濟日報HKET",
-          "published_hkt": "09/16 17:35",
-          "related": []
         }
       ]
     }
@@ -148,31 +151,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-16 21:36 HKT",
+      "updated_at": "2026-09-17 19:22 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數- 9/17 台指期盤前分析- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LQTlFWnFlSGhPSm1wZnRfclBUamhXd3lrSWhZWFR2dkJRZk1ROEVmeFRsZzVOQ2M3VDFvN29GWklmLXYyQ3ppSWJOUmQ3SWN4SVNfTS1ILVo?oc=5",
+          "title": "TWA00 加權指數- 三大法人17日買超前十大友達霸榜記憶體獨寵它稱后- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02UmxxQ2FFdWpmNHVRSmVDRTNjYU53RlUwU3dPUWEzSWVRNDNDSnpDWlRGLXhiNF8xa292Tkc0VEhBVm5RUkJLUFE4QUJNNndmRWJndHlwVlo?oc=5",
           "source": "CMoney",
-          "published_hkt": "09/16 21:13",
+          "published_hkt": "09/17 17:56",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "TWA00 加權指數- 中信攜萬豪推國際飯店聯名卡，目標瞄準高資產客- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2RTRVc1FBZW1Sc21fUnZUUTBTZTI2RmhCV2sxRmFmZWNGajE2UUM2alNzRFBaUy1ISWhiYzJMSS13NFlEMUpWemR2cDRMdmdQV1A0RmlXVlU?oc=5",
+          "title": "TWA00 加權指數- 外資17日買超前十大 力積電吸金王黑馬13敲有貓膩- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92Mk1IVEhvVklUZklFUi03VDU3eGtLLVRDWUpEMkVlTkdnQ1VLRFd6VlhYdU1VSDNvNERrWHVzaE85YXZwejlvbzhHMUZBOGZhbXZ0YWtaalk?oc=5",
           "source": "CMoney",
-          "published_hkt": "09/16 21:02",
+          "published_hkt": "09/17 17:55",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "TWA00 加權指數- 台股上沖下洗！Fed前夕外資壓盤？明天關鍵看這幾點- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vNUQ3N19mTy1XdXBSU0YtcXBRVUdTekk2UjBNNXZrcnFrdUdodEt3U1U4eWctdC1KT2c4RmprMEJVZGxKN1NhQUdzUlNMRjlYSVJSWmNVdlE?oc=5",
+          "title": "TWA00 加權指數- 《盤後解析》台股安了？先看2指標作帳行情在後頭- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBadjJoYzNzX0g1ei1DOFA0NVpTZFU4UlpnbmhhZGRkaldRcnM3X052Rl8wMWJCV183ZzVLeDZyenowZE0yRGVVZW1PNmNGOTBvVmZIQTVwQ0s?oc=5",
           "source": "CMoney",
-          "published_hkt": "09/16 20:48",
+          "published_hkt": "09/17 17:53",
           "related": [
             "^TWII"
           ]
@@ -210,61 +213,64 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-16 21:36 HKT",
+      "updated_at": "2026-09-17 19:22 HKT",
       "news": [
         {
-          "title": "【即時新聞】默克(MRK)與GSK(GSK)面臨信任度考驗！全美麻疹爆發釀4死，疫苗大廠恐受衝擊",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KMnI0WUtzMjl3V2V1R2VlTVZYN3NNZ3llbEFYSWtXNDZQZWg4UzRZSGk3SHlSSHQ5SExEdkVXVXJYUU1uZ0hPa1QzN25XUk51Ung2TTl2RGw?oc=5",
-          "source": "CMoney",
-          "published_hkt": "09/16 19:52",
-          "related": []
-        },
-        {
-          "title": "日經225(.N225)股票股價, 市值, 即時行情, 走勢圖, 財報",
-          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQTmY3aXRocTUzNEZxUmNrSjhuS2QwdDV1NmVnNU1oMlpxWS1Fb21BMXBqZGFLWkxjekVmb2swZnR5Ym9DZjhZNnBPMkkzdmFZSUh5X3M3dEVsSmgydHFHMHBGNmZGaldsblRvYk1KVi1HVHA3U19TMGJaNG0yM3pWLUZMLUhMT2NhOFhvLUU0S1pTMm0zTUJXNGstWnVDYlBSYXFWUzd6YnZlVUl6SWZFc2hNQ3hLcmhOUkxFbFFTRl9kRzdOYjlGb3RlQ3pMWDlMSXoxUjBGT1BteDRWWmNRSTBJQ3ZNN195MGlHaVBKUEJCUGZiSFRfcExCdjJzMlJrRmNoeDJ1M0RuRGYtNDgxOE9BQWhpcVRlOGRGX2tLZ2pLSWJJa1FYcGE1TjI5SDBE?oc=5",
-          "source": "moomoo.com",
-          "published_hkt": "09/16 19:23",
+          "title": "《日股》日經收漲0.33% 靜待日銀政策訊息- 國際",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JWlA5QVJndnNvMHg2b00wZjkxckdpSUM1R2Vld1R1eUp6bzB0M3BBa29oekVUdmcxWEFGMzJvdVZOWkFHQ214V1B2eGs5VjZJelNVV2h5dUFuSEJxdmtv?oc=5",
+          "source": "工商時報",
+          "published_hkt": "09/17 16:31",
           "related": [
             "^N225"
           ]
         },
         {
-          "title": "【即時新聞】亞馬遜(AMZN)最新內部計畫曝光，擬斥資68億美元將當日到貨站點擴增至千座！",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SVFA3UHNuMTU3N2c2TzBhRFQtUUxUbnNCaU1Ndm1xY1gxeWt0U19nNERBblhJZ0pHUmNqQmJNU1ZqanY3aVBZU29vVndSaHlDS2RUQWstSmc?oc=5",
-          "source": "CMoney",
-          "published_hkt": "09/16 18:43",
+          "title": "《台股盤後》量增收漲439點、重返46K，收復月線- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX2twcXVNN1pRWVNwLWlKaW81NG0tTml5TFVkZG9xOFRDRFpsUGs3Nkt3Qk5GWUpnT1dsajRBUzRNM1dPdHdvWkFrQW0xeXFnZkVJZnNGcjlPRWhUMlFoQkRnZkNudGxKaHEyX24xSzlpbnZLNUpUVEJocm9Sc04xT0o4Vml0ZjFjOGZDMnpIWG9Rdw?oc=5",
+          "source": "MoneyDJ",
+          "published_hkt": "09/17 15:57",
+          "related": []
+        },
+        {
+          "title": "KOSPI衝高6800遭壓制，三星與SK海力士晶片雙雄走弱，軟銀拉升挺日經225逆勢收漲",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYXRLRWRJMm95VjJ4NWxQejFhVGdlQzBwX1hFMWN2NTRhZW5xNWdEZ1VCTlNkZWZDdEpCeTRiUTFlZVRnTElPMjBvUm9EUzlFTDh2cHJHeTZCMHEzYzRqNjlYd1RtbUlZRGFUaGUwX2tMTEZaVFJqSmFVTlJFOXV5dGxydGdUR3lxUUpvaTd4RU5zMzNIekZfdlBGSTB4UXhyQ2dYQXVqdFF4X24tY2p3OHZ1dk5aQXFUZGw5ZENDeVZTMVhpSVdOQWptU2xtcFRuX3ItNEdWUE9SQ0x1ZU5naktXZEJoN3RyZDlYV0xMRmFWMnM?oc=5",
+          "source": "TradingKey",
+          "published_hkt": "09/17 15:07",
           "related": [
-            "AMZN"
+            "^N225"
           ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-09-17 13:39 HKT",
+    "updated_at": "2026-09-17 19:22 HKT",
     "news": [
       {
-        "title": "昨日比特幣ETF淨流出2.959億美元，連續兩日淨流出",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84dGFLVnFHeThrOGJiSXc4ZDZDaDhHVWhLWUdaaGZIdVFrN1hBNVhRNGdoMkptTC1KZGtfVFdDZ2ZMX28xWnVBMV9sLWY4cVk?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "09/17 12:00",
+        "title": "Companhia Energética de Minas Gerais (CEMIG) rStock 價格、RCIG.C 價格、即時圖表和市值",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ2xDWjEzQ082NXd1enpRY2RvZVFMMnpPSFhOZnEyY3ZDelFyME1oVTRDNUh1cmk4cWkxbDJTQWpncTZ5djVPN0M4Uk83WUtUMm1UcVM1aTZZVE9EQ3pyR2xsNTlnZ0RXYl9jZnpPMkxqMHV0WGlMYXFaT0dRSXExb3hUSWVRX2R6VzF0SzRORQ?oc=5",
+        "source": "Coinbase",
+        "published_hkt": "09/17 18:36",
+        "related": []
+      },
+      {
+        "title": "為什麼比特幣、以太坊和XRP在宏觀逆風中表現堅韌？",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbEpwY09Pa1lUMFJ4US1vMG5jNXA2UUhPR1VrY1E2T0M4OGtHUlY3VGhsYmloNnFpWTVsczJSUVEwNFVUMmtIQ1JjRmd1OTVCeGNESnNtZHctNWVFREZPUFQ5c2loQTFGd2VlamU3YlZYY2pvamh2T2ZoSG9Fa2ViYU9qWVdIaEdTUnFTU1dTYzZJZmEtbk9UQTh5RHJLYVNOTXdqdGZFX0UyTGp0MVk3d1FzRFdjTktSdm5NSEFZYTMzeDNMRWY1ME1ONmxjc25NVlU0WjJvbWJOTVZaSzBON0k1czZpUjJKUDhhNXRR0gHzAUFVX3lxTE5oTWh2Mlhya2JNX1dobTJTSFN1eHpBT24ydUQ5LUljR200ajVJZWFEZ2tObm5xM2RoVnhQamJFQkFqTTdoNHkzaHpLbmRacFNWTTJhMHg5NXg5ZC1FNWlqWE9NU1ZSelUyRjg5MFplOFhJSVFPcmJNVDhENGhJNzM5Z2JvRVBOMzZKcnVqcWNzZGtlTmRrV0ZwaHlQSTZBMlRfX0oycjBqeHhmWTRKNGZRSVg3RnY1dnNJMWtmY1h0OU5Eck13aDRzY2g0TWJfWVJPSDBXNFdfaE9UX2V6NEZ1VnhuNHR1MjNVd043NE9YakNfQQ?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "09/17 18:31",
         "related": [
-          "BTC"
+          "BTC",
+          "ETH"
         ]
       },
       {
-        "title": "Texas gas prices tomorrow",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yTzk2MkhmUGd5WndyYlc4bFFJMDNRXzloNUd4T0tfdmxqbnJUMmlvdVF0Tjhacks0Y0VpN3lfaUl2STVDWXBkRTQ1a3JkSFdvUVg2bTYzY3VOWWlGZ3V5TVpJa0l4RlJ0cE1tYklsWWJjLTF5enNj?oc=5",
-        "source": "Coinbase",
-        "published_hkt": "09/17 11:11",
-        "related": []
-      },
-      {
-        "title": "Highest temperature in Washington DC on Sep 17, 2026?",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xZUNDUE9QaHprWE5jWjJ0VkFtY0FwVk9PSDBOT184MWF1UkRzMXdFNDNkTG1fMk9NMkNoQUJxZFJnTW5xQ3dGVnIxajJYbHlDZUUxeDFwa1daNWczNnJNdlFLTWUtWjM0MThQMjNlRDdZTVFL?oc=5",
-        "source": "Coinbase",
-        "published_hkt": "09/17 11:09",
-        "related": []
+        "title": "主要加密貨幣行情，比特幣升0.13%",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOTUxNkM5c19BSW91LWRuUjU4ZGVwUDdfajV1b2VVTlJCSTJCM2V4Y2thRlZvSE5iRFYtNUxEby1DOXRadmJ0YjU3RXBtUEUtV1l4QjVKZDU1N1hrOUtQR0VaUFRDeS0yWUgyUWtweDBXNUtrRnJvV1gxNEk1NDRzdm0wVGpKYW1zc2ZFcE5rR2xieGlLWXpYZkNuQzg2OVg1?oc=5",
+        "source": "etnet.com.hk",
+        "published_hkt": "09/17 16:12",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

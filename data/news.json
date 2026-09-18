@@ -85,7 +85,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-18 18:56 HKT",
+      "updated_at": "2026-09-18 19:56 HKT",
       "news": [
         {
           "title": "【港股收市】恒指升146點 MiniMax再炒高近19% 聯想飆9%",
@@ -97,19 +97,20 @@
           ]
         },
         {
+          "title": "有圖有勢｜HSI阿里搶先反彈 騰訊為何炒唔起？（持續更新）|香港經濟日報",
+          "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQVFpaRTR1MFByekJKNndIUm0xY0dMWlAtZWk0dnh3ang3dFVCSDRMcFdfSzBBdzRQOUtuaGdVSFdkSmhxazQzVmcxY2pRMWR2TS1CTXAxRGxUNGlYT0JwMWM2bnZUeGdqeGV0MndhclZoeTg1S0ZielBRZUgxbFZGU20xcXAweGJkcEhXS2VGZ3NZVHJuMnNfT1U3Z05lUnVVWVgxdTZZeTg1d004ZG9JMGdDLUt1YzIzSGFCRFpPVGp0a256N2NnUm1CeUNfWUhrbVpsTXYzWDlGVFZMY2FIa3hiQ1ZXNWZncE1yX3h3ckwzRTJsajVLeXlPWloxYzRYOThEXzRySElSZ2ZWcHpZN0YxYmQwVHVkZEhFX2l3eVlpRGxueE1QSGtuazZqZTJmVWtSZGk3cHRKZURSTThPYjExTk5WN1NVXzcyVnJScjE1aVVVU3dHY1dPdjctTjJKUkhOSFpNclpCN3M1TEdRT00zaU1oNXZ1LWlEUTUtNEV6cldfSXc?oc=5",
+          "source": "香港經濟日報HKET",
+          "published_hkt": "09/18 17:20",
+          "related": [
+            "^HSI",
+            "0700.HK"
+          ]
+        },
+        {
           "title": "恒指走勢丨全日反彈146點受制24800點 全周累跌54點",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3UUgyVzVpT2stYzN1VUYxQVdZejRxYUZVVm9kbktKbjhYMjRYSzA0a2NTYldtOXR1LUdLdFVERzVDbmJia0dXY1p3SklZNFBNWkE2UHlHclh2OXg2WG43ckhNWXhfN3hyN1lTX2pPOA?oc=5",
           "source": "信報網站",
           "published_hkt": "09/18 16:58",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "【港股收市】恒指升146點 MiniMax再炒高近19% 聯想飆9%",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VQzNJRjZwaVlOMERGX1lNMG1DYko2emxlV2pUQU45dU80WVNvenhkQkd0M1FYN3FnaXlUR3ZxZ250SG82U3JsUE1ybjlFc3hsaTdnN3RoTzhfUWJzc3R5d1pFVjJ6V2JOaENDV0RJaVpqZnhMeFZrTm5B?oc=5",
-          "source": "Now 財經",
-          "published_hkt": "09/18 16:52",
           "related": [
             "^HSI"
           ]
@@ -147,30 +148,30 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-18 18:56 HKT",
+      "updated_at": "2026-09-18 19:56 HKT",
       "news": [
+        {
+          "title": "TWA00 加權指數- 普京逃離索契，俄本土防空漏洞曝光！烏軍殺入盧甘斯克，開啟新攻... - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0MThMT3BCVFpjZ2FWTEU4TjRCOWpYQVZTR1FwRVRGSGhhN2J5WE5MMFpWRGhyX3JMMVpGbWI3dm0wb1IzUDNlUm1YU1ZINEJQS05CSEFIY28?oc=5",
+          "source": "CMoney",
+          "published_hkt": "09/18 19:15",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
+          "title": "外資買超869億創歷史第五大 自營商也大舉回補",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MR1ZjZV9Yb2dCM1VyVWhqVlczSEVkemhyNGxodFd1RHFfS2JqZFFONmhwdGZRWVlRYmgxV2NUUnZJbnM5VG51Q09kTVoyczZ3SVZtQ0VtX1o?oc=5",
+          "source": "CMoney",
+          "published_hkt": "09/18 18:30",
+          "related": []
+        },
         {
           "title": "台股18日衝高一度攻上47000點 京元電內外資力挺連3漲",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2M2FBeXBSdVNrcjJqdDN2eTF6TXhlXzlTb1lsYzJ5MS0tSkdhN2RDb2YteUx1TmdaaXp3RjN1WWpyc2gzUmc1UGx4NC1DNmJWV1E?oc=5",
           "source": "蕃新聞",
           "published_hkt": "09/18 18:05",
           "related": []
-        },
-        {
-          "title": "聯準會升息1碼正式落地：台股狂飆重返47000點關口，後續投資關鍵觀察指標全解析",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZjVGY1ZneVJmbnNSaHU5RWpXT21GeXlIT0o4M1FkNnJSbER6Vk0yckp0ekNlLXpFZXpxYWt1X29pT1VpZGowTl9QRFJSWUc0eXZRLWVkcGpsZXBPbDlsWVBSVktCZlVfcGx2Qk5qMkxOd3YwYjdtM3BOX3Z6Q3htUnVqdno1dmx6MlZkam4tRUhpUnhnbHoyUFA1eU94N3ViYmFYTXVLeUt6aWxBSEp5MWdGaEMyWllxRmw3WWMyZWlyNmhHM3A2U0Rn?oc=5",
-          "source": "top1markets.com",
-          "published_hkt": "09/18 18:01",
-          "related": []
-        },
-        {
-          "title": "TWA00 加權指數- 美升息1碼宣布後台股反漲！富時生效爆量長紅突破10日均線- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42UHpMa3ltc2p6S0tXeTJfOV9CYlMxU0tJcTNuN0VQNzZIQThuY0VrelRTUU9VQlVwUmpaSXBwb1N0LXN2WW5MMHdpMzZaN3JnaWM0STJ2UWI?oc=5",
-          "source": "CMoney",
-          "published_hkt": "09/18 17:58",
-          "related": [
-            "^TWII"
-          ]
         }
       ]
     }
@@ -205,7 +206,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-18 18:56 HKT",
+      "updated_at": "2026-09-18 19:56 HKT",
       "news": [
         {
           "title": "升息為何讓日元重摔、日股大漲？解析日銀決策被解讀不夠鷹派的三大關鍵",
@@ -222,42 +223,39 @@
           "related": []
         },
         {
-          "title": "恒指收市升146點北水流入12億成交2665億恒指國指連跌兩周(16:30) - 20260918 - 即時財經新聞",
-          "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPeTFGSWJmanJqaXI0c3drdVZaTEl0QThIdnhkZTFmR2pCeUVZMm1JV3RUZ3pjYndkR0dPQUZYc2FnZzZoal9CaU9yNjRIN2F2SjBMSHVXaXBoQlN3LUt5Ym5pQ1FRQm1ZSWVCTTVXbGlocTRlZndFbDZIZ1ZydTgyaE1YOFFxckJPVFBzZFFweDFtNm5FeFg1azVwRzNUb3pUcHJWbUR6bEVncUdwbE5DYUtzMzRzUjQyTkVMemZCRTMtNElYZjNkV2VoWG1TMEtrcUhwT0toN0pMMFRCbEFjenlFTG1pcDYzRWFNb3BuMlZ6VXpGUXcxOWVYZDFrTWRaYWlGck1VUWc5WFU2ZXAzRG5SajY0c21GRzRVemFGOVFnam9fUm1OTGRneGVWNjg2Y0lONTJ0YkowR1k2VnBSQ2tDRDVPV3JVTlpUeGJzTGlnWURtQTU1RlRLRGQ2TUUtN01Rdm5WZHpveFk4OGhFMllZdDVtakc5cDhfRHl0cGtSUlNyZDdUQ0FR?oc=5",
-          "source": "明報財經網",
-          "published_hkt": "09/18 16:30",
-          "related": [
-            "^HSI"
-          ]
+          "title": "《台股盤後》量增大漲892點、重返47K；週K翻紅- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUVdycFg2VGZiODRnbUIyUHhGck5YaEVnM19zVW54V2ZBdGtRRUFyZUVOckI3b2pjOTJpeXZiRFVTbm13LXlQa2J2RW1fLWI0eE8xYUVBd2ZJX3lOVWdPWTdDekVBZDFPamhMN29GaWpqY09vVGNJdGRucGp2NzRUWERXQlEwRkpTWW1abmNFWllPdw?oc=5",
+          "source": "MoneyDJ",
+          "published_hkt": "09/18 16:06",
+          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-09-18 18:56 HKT",
+    "updated_at": "2026-09-18 19:56 HKT",
     "news": [
       {
-        "title": "《清晰法案》參院闖關失利 美國加密監管不確定性延長",
-        "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQeTd6UWRENm1rTW5uLVRqVmVDS2FaTnVSYVdDYVVlT1Raa1dQazFpVElIQVJBbmp1dTJpYXFDUDJ4V0dPa211SkpZYV9hODhpZDFndFlQNXRJelFvWDVUVmpwZzQ4X2VETE54WUpPU2JLS3Z5RHdNT2Izb0lPM2w1Y0FwRzZMXzFpbjVGM2g0bWowZDBGNTFLTVdZRGJtS044cDg1cE1iVEM3NE84MlphQm1HeGVrdGc1TXNDdC0yTXdpSkR0NWxqZWdtN200em9veDRTNGxyQWpfVFY4TFN3TmFHYWtiN3c0MlFXRHlXZElyRXNuYUxuMjdCbkctZUZ0U1k4UkhTRmMxVXdrdi1zb29MVUQ1MXVPT01IYlppY0MtRjFaU3JyM2RDbjd2RTdMTjRqZHUxWnhoel9YWmtWYUNDTFVKd3FhbDRCa01CNlpzdw?oc=5",
-        "source": "Life 生活網",
-        "published_hkt": "09/18 16:27",
-        "related": []
-      },
-      {
-        "title": "比特幣ETF吸金1.59億、以太坊連續失血！日本加息後幣圈開始分化",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hTG16Q09FUjREU1lFcHpnQjMwREd5TEh5MkxTM0hFSDNpQVpWWm9yOUs3Q1A5TVhBTXc3MGpPTW0xMGdNREMzSktVemJuRHg3OG5rUGJwS3ZBdmN5ajNuUUNnQUM?oc=5",
-        "source": "tw.tradingview.com",
-        "published_hkt": "09/18 16:03",
+        "title": "主要加密貨幣行情，比特幣升2.15%",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMHloZTRVUnN3eTB2YkJmNVZNZlRDc1hma1J6YUh6bjhoVU1WTkk5S3hXc3RVUnZJZG1Cb2g5Y1Y4Vk1zdFVWSDdoT29fWmhlQWUzNFc0SElZRG9jTUE2dkRpZmhRUGF1bXJWZnZwNEVYYVhpYzN0OFVGRWlUVUc3dFRuanFLYVZCamUxUDZNZTZuOVhTU2cwNWZYQWpoSnRC?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "09/18 19:31",
         "related": [
-          "BTC",
-          "ETH"
+          "BTC"
         ]
       },
       {
-        "title": "CMS聯創：別讓「敘事擁擠」吞噬你的利潤，代幣化股票空間將超穩定幣",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd0dZM3gxTFMxUVN6U1JNWHdtYnBZWVZRVUxJeDhBejRSQmdlVENuTW9BeFhIMk8wQ284TnYwY20xQzNKeWx1UEZnbG00WjJUckFiXzV5cGotRGZVWTRrNUNPczVWTG9qRWNFejJqUEtaNkxHREtCWEl1eGR1VEh5NUVOTU9EQQ?oc=5",
-        "source": "PANews",
-        "published_hkt": "09/18 14:48",
+        "title": "XRP即將形成黃金交叉，市場焦點轉向山寨幣",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRE1oVndiWGo4YnRXdVlsU05EY0JsLWlQcndqT0l1Q0hGcnhVTGhSZTRzNEV0WURSbEtBc3psSjBfQ2JlTzZaUVZKZWVuX0JnaDNNUWtwQW4zemVvcEN1NjdNUVhXSFFIRHhlWEt0SHMwUTlsZ3B1QXppMmFOUFdzQy05WkJuYmIyTGlOMkZmZ3NoMzZy?oc=5",
+        "source": "Moomoo",
+        "published_hkt": "09/18 19:15",
+        "related": []
+      },
+      {
+        "title": "維塔利克 布特林表示 人工智慧對網路安全防禦者有利",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DSmlzSUZBZmFXaHFGaThQU19ENEppWlpBWEE1TjZ5em8yS2I0WEVIQ1R5VlN0Skx4MEd6X2huRGdLc2ZUMml6NGtZZkU5M0U?oc=5",
+        "source": "news.cnyes.com",
+        "published_hkt": "09/18 19:00",
         "related": []
       }
     ]

@@ -85,32 +85,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-17 21:38 HKT",
+      "updated_at": "2026-09-18 18:56 HKT",
       "news": [
         {
-          "title": "【港股收市】恒指跌109點 騰訊跌1%、美團跌2% MINIMAX逆市升7%、智譜升逾2%（不斷更新）",
-          "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNNEhWLUhWMV9JTHZuNVRuZmR6MG45MEpmVEJRNURsc3Itd0ZENzkza2F3bDlaYzJvRFV5dGJTeW5ld3NhRTI4V192dEJnYU80TXAySm1QcHB6a1pMU3dJeHpDQlRYb1VDS3l4SFM5VTEzUkVFTkh6eXAzY095Y3BHcWVuMDd0SFFTRnFpbnRJTjd5VFFSSUQtS3JzRVVmQURWUk0yLVhnbHhRSWNJRTBzb2FQVTZpN3ZCOHBHTjU5QVF3TTJ5TDVIZVVPeWluVmFlVzlWQ2JVeEtQSGtJZUg2aVNZUnVfSVNzcU9MUlptbU5ITEFwS3dDdUFNY3R2LW4yU19pd1R2VTZEM24tUkNfOUFjYVcyUEQxRkY5LWh2NUVyNS1YY19qWkhUNXFEYXdOcEhpUkRNLU1aTUltY25WZzV5MURUeVhPbUhtb2FvWGFkNWstS3Q0dUlCNzRMQVFidVhWNU9aZjg1Y2prOGpDajNmS2Z2NFZieWl5Z3otNUtFblMyTnZVenBhVGtDZTBHYWZUWmN0SEtyX21fVEV3dXBraTF4ZjBueEtsSHNCWE5xSmdRbmtibDNCZVZFdjItd2ZHRmZqd3lTa3BzRVo2eW9zQTVNTTdUNGhqRnl1Sl9hNno4c0lxSVRKeG1CVTFfZ0NPcQ?oc=5",
-          "source": "香港經濟日報HKET",
-          "published_hkt": "09/17 18:07",
-          "related": [
-            "^HSI",
-            "0700.HK"
-          ]
-        },
-        {
-          "title": "三年首加息震盪港股 料恒生指數短線續於24,000點水平拉鋸｜張智威專欄",
-          "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPUzMyeUp6T1lMQ1k3b0ZnYTV4UDZUM25DamM3ZHNXQXJtUWNaMVBYOVN6OV9JN3ZvUTdrSjNLT3FXcGFkbjV2RGluWEhXM1gwN1U1eXlWTnhjUXRuQ2xsTzlpeEJkNXZHWVd5RlhFVUcyUnBEU00wRGl3N1o2V1FmcHlHeXhxT2I5TGZSQmY5c085Wklpd3U4NzFkRVUxM25CMFJST3Y2NmkySTNUanVwV1VKVzBMeTE1LXA4dFpURnBWQXdXbUtXOFhjZG5BQkJoaWlaZGNycEFlb0FUUm1mWm1TcnhZTGVUVXlpZ1V4eWZTSkRTZHd4V2VxODExLTdDQkVKRG9iVUtjbFJYZlB5cXZrSnc1Tm5VVm5kWXh2WnNUcGZzWkN2S2ZsWWJiWTFuVWNvYTFDaDhpNEVrUW1IWA?oc=5",
-          "source": "香港財經時報HKBT",
-          "published_hkt": "09/17 17:57",
+          "title": "【港股收市】恒指升146點 MiniMax再炒高近19% 聯想飆9%",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xZ0RyX3g1LWt6aEN3TmpybV91OENqdFBUUXZUM1FEWVY0eXZSZTAxQTBnN3JNSXBRREZpcERvN0dkWTJ2LTV3R1lHNmpEU0tpbG9GMW1IaUtjSXBZYTNuN212WnE?oc=5",
+          "source": "Now 新聞",
+          "published_hkt": "09/18 17:24",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "【港股收市】恒指跌109點 「AI大模型孖寶」兩連升 金股受壓",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oZmJfM1JURkJUUzRLc244TXUtMXBFVVNlNWktZUROdEtUOUd0MzdWVnlpTUtjWmRmR0YxbFliT2dMY09QOEc5SmpyT21hRklsaDdWYU1ZWVN0TVlWWjV4M0ZXSUQ?oc=5",
-          "source": "news.now.com",
-          "published_hkt": "09/17 17:14",
+          "title": "恒指走勢丨全日反彈146點受制24800點 全周累跌54點",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3UUgyVzVpT2stYzN1VUYxQVdZejRxYUZVVm9kbktKbjhYMjRYSzA0a2NTYldtOXR1LUdLdFVERzVDbmJia0dXY1p3SklZNFBNWkE2UHlHclh2OXg2WG43ckhNWXhfN3hyN1lTX2pPOA?oc=5",
+          "source": "信報網站",
+          "published_hkt": "09/18 16:58",
+          "related": [
+            "^HSI"
+          ]
+        },
+        {
+          "title": "【港股收市】恒指升146點 MiniMax再炒高近19% 聯想飆9%",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VQzNJRjZwaVlOMERGX1lNMG1DYko2emxlV2pUQU45dU80WVNvenhkQkd0M1FYN3FnaXlUR3ZxZ250SG82U3JsUE1ybjlFc3hsaTdnN3RoTzhfUWJzc3R5d1pFVjJ6V2JOaENDV0RJaVpqZnhMeFZrTm5B?oc=5",
+          "source": "Now 財經",
+          "published_hkt": "09/18 16:52",
           "related": [
             "^HSI"
           ]
@@ -148,31 +147,27 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-17 21:38 HKT",
+      "updated_at": "2026-09-18 18:56 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數- 台股散戶最容易輸錢的原因：你只看股價，卻沒看懂「籌碼」 - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXTDd3c1pjZkREeTNJX0g4bjdGVk91RkZ6TlJGdzZ6bGZIWDRoSmpCMVdwLWRPNElBV0F5bS1fNGlhMFAzWlNfNTZWQmhaV2JFakd0TmRKUVY?oc=5",
-          "source": "CMoney",
-          "published_hkt": "09/17 21:14",
-          "related": [
-            "^TWII"
-          ]
+          "title": "台股18日衝高一度攻上47000點 京元電內外資力挺連3漲",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2M2FBeXBSdVNrcjJqdDN2eTF6TXhlXzlTb1lsYzJ5MS0tSkdhN2RDb2YteUx1TmdaaXp3RjN1WWpyc2gzUmc1UGx4NC1DNmJWV1E?oc=5",
+          "source": "蕃新聞",
+          "published_hkt": "09/18 18:05",
+          "related": []
         },
         {
-          "title": "TWA00 加權指數- 50抬轎抬起來我慢慢無腦賣- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BZlVzLUZzMUdWeWYtZnZiZkZMOVlEeHdGb1U4c294LU5jYXg0c3hOM1pxdzRSc1NaTkh0dmx3bVd6bVVFVEJLWkdnNElqZkNEbnlQaEhEUVI?oc=5",
-          "source": "CMoney",
-          "published_hkt": "09/17 20:49",
-          "related": [
-            "^TWII"
-          ]
+          "title": "聯準會升息1碼正式落地：台股狂飆重返47000點關口，後續投資關鍵觀察指標全解析",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZjVGY1ZneVJmbnNSaHU5RWpXT21GeXlIT0o4M1FkNnJSbER6Vk0yckp0ekNlLXpFZXpxYWt1X29pT1VpZGowTl9QRFJSWUc0eXZRLWVkcGpsZXBPbDlsWVBSVktCZlVfcGx2Qk5qMkxOd3YwYjdtM3BOX3Z6Q3htUnVqdno1dmx6MlZkam4tRUhpUnhnbHoyUFA1eU94N3ViYmFYTXVLeUt6aWxBSEp5MWdGaEMyWllxRmw3WWMyZWlyNmhHM3A2U0Rn?oc=5",
+          "source": "top1markets.com",
+          "published_hkt": "09/18 18:01",
+          "related": []
         },
         {
-          "title": "TWA00 加權指數- 盤後真心話- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Sb2twMXdTcHNRNWMyLS05VjZlWEtpNkFKUFVCMGdmeTZ6SHlwSGRaRW9BSGhSd3JMOHRnT0ttVjBQcDc3bmxUOGpweGZ5UWxXTUpvUlY4bGQ?oc=5",
+          "title": "TWA00 加權指數- 美升息1碼宣布後台股反漲！富時生效爆量長紅突破10日均線- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42UHpMa3ltc2p6S0tXeTJfOV9CYlMxU0tJcTNuN0VQNzZIQThuY0VrelRTUU9VQlVwUmpaSXBwb1N0LXN2WW5MMHdpMzZaN3JnaWM0STJ2UWI?oc=5",
           "source": "CMoney",
-          "published_hkt": "09/17 20:43",
+          "published_hkt": "09/18 17:58",
           "related": [
             "^TWII"
           ]
@@ -210,58 +205,59 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-17 21:38 HKT",
+      "updated_at": "2026-09-18 18:56 HKT",
       "news": [
         {
-          "title": "《日股》日經收漲0.33% 靜待日銀政策訊息- 國際",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JWlA5QVJndnNvMHg2b00wZjkxckdpSUM1R2Vld1R1eUp6bzB0M3BBa29oekVUdmcxWEFGMzJvdVZOWkFHQ214V1B2eGs5VjZJelNVV2h5dUFuSEJxdmtv?oc=5",
-          "source": "ctee.com.tw",
-          "published_hkt": "09/17 16:31",
-          "related": [
-            "^N225"
-          ]
-        },
-        {
-          "title": "《台股盤後》量增收漲439點、重返46K，收復月線- 新聞",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX2twcXVNN1pRWVNwLWlKaW81NG0tTml5TFVkZG9xOFRDRFpsUGs3Nkt3Qk5GWUpnT1dsajRBUzRNM1dPdHdvWkFrQW0xeXFnZkVJZnNGcjlPRWhUMlFoQkRnZkNudGxKaHEyX24xSzlpbnZLNUpUVEJocm9Sc04xT0o4Vml0ZjFjOGZDMnpIWG9Rdw?oc=5",
-          "source": "MoneyDJ",
-          "published_hkt": "09/17 15:57",
+          "title": "升息為何讓日元重摔、日股大漲？解析日銀決策被解讀不夠鷹派的三大關鍵",
+          "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxQc2haMEJoaWg1MFBzM1NyMFl2X3NPczR4Q09BM1lUSGh1bF96MGFWenpSc1pmcnA5OUs1SmFPUXo0M2hmZk1lM05MRlEwX2N3dDhER1V2dFA5NGpLSUszc0k5Szg0N1lBRUdfUXRoLTNPdzFHNGVnaS1PQjJQM3RYYnFwUU90SVNvbmFzZnppbkFvZ19PcE1ab1BSNnl4SmJIRFh1bHBNYjBXREsxbVlrSVNrUGJmdHhoekVhbTZ3eGljME5iNDhmSTRDbEl3T0NJR2hoU2tRYW96UTZ6N2cyR2lueHk4ODJxOHRLeERPVTJYb1pTaVBUTDdxeUwwRms5di03NWRYWF8zVHp4dmVabUxNTzVuRnlTOTJ6S0EtYnFSSW5WTGJhWjl3eW50MmtfREZtcVdhVXFlU0M0V0hFT0JUWEFsTUtLS0hWRVFFcC1xM2RfNkh2LWZLanNHSjhoYlBOSGRLRHZBbEExWGZmMVZLX3haaVFpeWd4Z2Q2T0VVMmpjeVNMemRPM2RJalNTZlEzWVNncjJIU1RmcE8yeDdHMnNIR01QNUJheEZXSG5vbXhRcUNSOW5mbEdTQ1BFX2RCa05Uc2RTYVZzY0FYN3dn?oc=5",
+          "source": "Yahoo股市",
+          "published_hkt": "09/18 18:00",
           "related": []
         },
         {
-          "title": "KOSPI衝高6800遭壓制，三星與SK海力士晶片雙雄走弱，軟銀拉升挺日經225逆勢收漲",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYXRLRWRJMm95VjJ4NWxQejFhVGdlQzBwX1hFMWN2NTRhZW5xNWdEZ1VCTlNkZWZDdEpCeTRiUTFlZVRnTElPMjBvUm9EUzlFTDh2cHJHeTZCMHEzYzRqNjlYd1RtbUlZRGFUaGUwX2tMTEZaVFJqSmFVTlJFOXV5dGxydGdUR3lxUUpvaTd4RU5zMzNIekZfdlBGSTB4UXhyQ2dYQXVqdFF4X24tY2p3OHZ1dk5aQXFUZGw5ZENDeVZTMVhpSVdOQWptU2xtcFRuX3ItNEdWUE9SQ0x1ZU5naktXZEJoN3RyZDlYV0xMRmFWMnM?oc=5",
-          "source": "TradingKey",
-          "published_hkt": "09/17 15:07",
+          "title": "不排除更大幅度或連續升息！日本央行總裁：貨幣政策進入「新階段」",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZU24ydGYwSERkU1pWdGkzNnZ6QlcwRWI1X0gwc0pDUDI1T1pNaUpQY2NWeUNDdG1vUkZSNGI4MmRyeE1DYmNNQThwc05Ba3M?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "09/18 17:00",
+          "related": []
+        },
+        {
+          "title": "恒指收市升146點北水流入12億成交2665億恒指國指連跌兩周(16:30) - 20260918 - 即時財經新聞",
+          "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPeTFGSWJmanJqaXI0c3drdVZaTEl0QThIdnhkZTFmR2pCeUVZMm1JV3RUZ3pjYndkR0dPQUZYc2FnZzZoal9CaU9yNjRIN2F2SjBMSHVXaXBoQlN3LUt5Ym5pQ1FRQm1ZSWVCTTVXbGlocTRlZndFbDZIZ1ZydTgyaE1YOFFxckJPVFBzZFFweDFtNm5FeFg1azVwRzNUb3pUcHJWbUR6bEVncUdwbE5DYUtzMzRzUjQyTkVMemZCRTMtNElYZjNkV2VoWG1TMEtrcUhwT0toN0pMMFRCbEFjenlFTG1pcDYzRWFNb3BuMlZ6VXpGUXcxOWVYZDFrTWRaYWlGck1VUWc5WFU2ZXAzRG5SajY0c21GRzRVemFGOVFnam9fUm1OTGRneGVWNjg2Y0lONTJ0YkowR1k2VnBSQ2tDRDVPV3JVTlpUeGJzTGlnWURtQTU1RlRLRGQ2TUUtN01Rdm5WZHpveFk4OGhFMllZdDVtakc5cDhfRHl0cGtSUlNyZDdUQ0FR?oc=5",
+          "source": "明報財經網",
+          "published_hkt": "09/18 16:30",
           "related": [
-            "^N225"
+            "^HSI"
           ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-09-18 13:28 HKT",
+    "updated_at": "2026-09-18 18:56 HKT",
     "news": [
       {
-        "title": "加密財庫公司股東累計損失約500億美元，投資者加強審查薪酬及關聯交易",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjUVUzNk5KMVR3Q1d3VUtaZUNvRWdDbl9HYXdtZnI0cnpra3Q2d3JGTnZhS2FHS0hQV2xkOFZIMHZkWDdSMUJYQUppckxGcXc?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "09/18 12:30",
+        "title": "《清晰法案》參院闖關失利 美國加密監管不確定性延長",
+        "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQeTd6UWRENm1rTW5uLVRqVmVDS2FaTnVSYVdDYVVlT1Raa1dQazFpVElIQVJBbmp1dTJpYXFDUDJ4V0dPa211SkpZYV9hODhpZDFndFlQNXRJelFvWDVUVmpwZzQ4X2VETE54WUpPU2JLS3Z5RHdNT2Izb0lPM2w1Y0FwRzZMXzFpbjVGM2g0bWowZDBGNTFLTVdZRGJtS044cDg1cE1iVEM3NE84MlphQm1HeGVrdGc1TXNDdC0yTXdpSkR0NWxqZWdtN200em9veDRTNGxyQWpfVFY4TFN3TmFHYWtiN3c0MlFXRHlXZElyRXNuYUxuMjdCbkctZUZ0U1k4UkhTRmMxVXdrdi1zb29MVUQ1MXVPT01IYlppY0MtRjFaU3JyM2RDbjd2RTdMTjRqZHUxWnhoel9YWmtWYUNDTFVKd3FhbDRCa01CNlpzdw?oc=5",
+        "source": "Life 生活網",
+        "published_hkt": "09/18 16:27",
         "related": []
       },
       {
-        "title": "仿效 SEC 擴大豁免範圍！CFTC 鬆綁軟體業者合規門檻，符合特定條件免遭執法行動",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaGtVWV9ld1dEemFnOXdQQTBYeGRaajlqZWtjV04zZ1dvSktvaVEtZ3JkZWxqeVpCUHZyLTlyb0h5alE4aVB3TF91dHpTcW5SX3VQajQ1eENFeW9TLWFTZE5rNjNxMlRURWJUbWNpOE1RbW1BRFhBMWRGNWZVUXlyM3Nn?oc=5",
-        "source": "桑幣區識 Zombit",
-        "published_hkt": "09/18 12:18",
-        "related": []
+        "title": "比特幣ETF吸金1.59億、以太坊連續失血！日本加息後幣圈開始分化",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hTG16Q09FUjREU1lFcHpnQjMwREd5TEh5MkxTM0hFSDNpQVpWWm9yOUs3Q1A5TVhBTXc3MGpPTW0xMGdNREMzSktVemJuRHg3OG5rUGJwS3ZBdmN5ajNuUUNnQUM?oc=5",
+        "source": "tw.tradingview.com",
+        "published_hkt": "09/18 16:03",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
       },
       {
-        "title": "Paradigm 聯創披露持有 ZEC：Zcash 單日漲逾 20%、一個月漲幅達 160%",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWGRndzRIWVdnZjVVbDJPRHpKM0hKY1VEeG9INzl4Mmo4bHBOYV9vYmU1c0c4aE45dUZYWEZ1NF8ycnpyaXlWbFA0SWl6eEc0TGxrNGd3RVFFZDg0QnVxd0lZNWVENTNMb00xa01R?oc=5",
-        "source": "桑幣區識 Zombit",
-        "published_hkt": "09/18 12:05",
+        "title": "CMS聯創：別讓「敘事擁擠」吞噬你的利潤，代幣化股票空間將超穩定幣",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd0dZM3gxTFMxUVN6U1JNWHdtYnBZWVZRVUxJeDhBejRSQmdlVENuTW9BeFhIMk8wQ284TnYwY20xQzNKeWx1UEZnbG00WjJUckFiXzV5cGotRGZVWTRrNUNPczVWTG9qRWNFejJqUEtaNkxHREtCWEl1eGR1VEh5NUVOTU9EQQ?oc=5",
+        "source": "PANews",
+        "published_hkt": "09/18 14:48",
         "related": []
       }
     ]

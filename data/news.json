@@ -241,30 +241,28 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-18 13:03 HKT",
+    "updated_at": "2026-09-18 13:28 HKT",
     "news": [
+      {
+        "title": "加密財庫公司股東累計損失約500億美元，投資者加強審查薪酬及關聯交易",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjUVUzNk5KMVR3Q1d3VUtaZUNvRWdDbl9HYXdtZnI0cnpra3Q2d3JGTnZhS2FHS0hQV2xkOFZIMHZkWDdSMUJYQUppckxGcXc?oc=5",
+        "source": "news.cnyes.com",
+        "published_hkt": "09/18 12:30",
+        "related": []
+      },
       {
         "title": "仿效 SEC 擴大豁免範圍！CFTC 鬆綁軟體業者合規門檻，符合特定條件免遭執法行動",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaGtVWV9ld1dEemFnOXdQQTBYeGRaajlqZWtjV04zZ1dvSktvaVEtZ3JkZWxqeVpCUHZyLTlyb0h5alE4aVB3TF91dHpTcW5SX3VQajQ1eENFeW9TLWFTZE5rNjNxMlRURWJUbWNpOE1RbW1BRFhBMWRGNWZVUXlyM3Nn?oc=5",
-        "source": "zombit.info",
+        "source": "桑幣區識 Zombit",
         "published_hkt": "09/18 12:18",
         "related": []
       },
       {
         "title": "Paradigm 聯創披露持有 ZEC：Zcash 單日漲逾 20%、一個月漲幅達 160%",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWGRndzRIWVdnZjVVbDJPRHpKM0hKY1VEeG9INzl4Mmo4bHBOYV9vYmU1c0c4aE45dUZYWEZ1NF8ycnpyaXlWbFA0SWl6eEc0TGxrNGd3RVFFZDg0QnVxd0lZNWVENTNMb00xa01R?oc=5",
-        "source": "zombit.info",
+        "source": "桑幣區識 Zombit",
         "published_hkt": "09/18 12:05",
         "related": []
-      },
-      {
-        "title": "創 31 年新高！日本央行宣布升息 1 碼，比特幣逆勢小漲突破 7.7 萬鎂",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRVpTRVJfRXBDWi1ocXdDZFlPN2gtX0MwcVhVVzc0UzlmMEx0ZHNPdHY2ZFpwekVEbmx4NkFNc0poNjJuYThjU0Y5U2JLQVFxM3d1N0Rubll0QzhZUTRySFh2TWJmanFTSkhFb3d5Rm5Zbm9relVld2hpaUM2NnNuTQ?oc=5",
-        "source": "zombit.info",
-        "published_hkt": "09/18 11:38",
-        "related": [
-          "BTC"
-        ]
       }
     ]
   }

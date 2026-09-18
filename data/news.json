@@ -241,30 +241,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-18 09:19 HKT",
+    "updated_at": "2026-09-18 13:03 HKT",
     "news": [
       {
-        "title": "BIS揭開比特幣鏈上真實經濟活動盲點：找零機制導致數據失真達6倍",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0pwWk52NDNNenJpMlV3OU1uQ1NRdTBkZjFneGFkazFZNm9VcHZiOWF4ekZRcDNtR0YzVkZqbXlKZm9xYWJaMEtFam9pd2pxTjF4cXI5UGQ1cGZTNFY1RjFxRGxadVM1MjhoTmg0NzJDanBHYk5yLThzc1VNbFkwaGx6STEyMW8?oc=5",
-        "source": "cryptocity.tw",
-        "published_hkt": "09/18 08:45",
+        "title": "仿效 SEC 擴大豁免範圍！CFTC 鬆綁軟體業者合規門檻，符合特定條件免遭執法行動",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaGtVWV9ld1dEemFnOXdQQTBYeGRaajlqZWtjV04zZ1dvSktvaVEtZ3JkZWxqeVpCUHZyLTlyb0h5alE4aVB3TF91dHpTcW5SX3VQajQ1eENFeW9TLWFTZE5rNjNxMlRURWJUbWNpOE1RbW1BRFhBMWRGNWZVUXlyM3Nn?oc=5",
+        "source": "zombit.info",
+        "published_hkt": "09/18 12:18",
+        "related": []
+      },
+      {
+        "title": "Paradigm 聯創披露持有 ZEC：Zcash 單日漲逾 20%、一個月漲幅達 160%",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWGRndzRIWVdnZjVVbDJPRHpKM0hKY1VEeG9INzl4Mmo4bHBOYV9vYmU1c0c4aE45dUZYWEZ1NF8ycnpyaXlWbFA0SWl6eEc0TGxrNGd3RVFFZDg0QnVxd0lZNWVENTNMb00xa01R?oc=5",
+        "source": "zombit.info",
+        "published_hkt": "09/18 12:05",
+        "related": []
+      },
+      {
+        "title": "創 31 年新高！日本央行宣布升息 1 碼，比特幣逆勢小漲突破 7.7 萬鎂",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRVpTRVJfRXBDWi1ocXdDZFlPN2gtX0MwcVhVVzc0UzlmMEx0ZHNPdHY2ZFpwekVEbmx4NkFNc0poNjJuYThjU0Y5U2JLQVFxM3d1N0Rubll0QzhZUTRySFh2TWJmanFTSkhFb3d5Rm5Zbm9relVld2hpaUM2NnNuTQ?oc=5",
+        "source": "zombit.info",
+        "published_hkt": "09/18 11:38",
         "related": [
           "BTC"
         ]
-      },
-      {
-        "title": "HSC首爾會議2026將於今年10月回歸，聚焦加密貨幣與機構金融的橋樑。",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9EZWIwdkxxcjNKelUzdS11aFR4bmhyZW1UZ21GN1pxcUdzZkN5dTI4b01PWXBlSGg0MlF1OWFVZEJnbzg2ZmRLdVpn?oc=5",
-        "source": "区块周刊BlockWeeks",
-        "published_hkt": "09/18 08:29",
-        "related": []
-      },
-      {
-        "title": "隔夜美股 | 美國周度初請數據意外下跌 三大指數收漲 英特爾(INTC.US)漲超7.6% 作者 智通財經",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JWG01UHhqUHdKQU9sZEpqT0JrcG1iVDVMeXV4MHhwRHFkRnVkMExtdmtxUWFzaU9fdHJtOFBsb3U2YUt1S3p5X29NUjk4WTNFRzBaWnFQNzBabFlzU1VhcmZGb2RKaFZieE44Z2JoRVQ?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "09/18 06:51",
-        "related": []
       }
     ]
   }

@@ -237,30 +237,33 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-18 21:02 HKT",
+    "updated_at": "2026-09-19 00:59 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣升2.10%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObFpjRmprTmxPRmd0dS1PaFB5T2c0XzVSVFcyeURIXzNVT1V4eEZiczUtUnE4eEw0ZTFjdmpUSUxyNXAxckl6d1dFd2NYb09BQV9iMUt3dzJiZVpFQTJqeEJNVGt4dEl6ZFZwbGxwYThyUU1OWlFlZEIxUzJwWF92UWFxM3BuZE4wYk81T3VONGFMeHUxdjRrbVdMVjRxV0l1?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "09/18 20:36",
+        "title": "加密貨幣股票大漲，比特幣和以太坊強勁反彈 作者 Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QM3YwSDZfRnAzUWlvMkRBZzlSeXNwTWpPWVlZYlBBTHdLbGtrVEY2OGVac1FpYkxmN2xpcmlMOTRQeW5iZGJhdTRpdkgtcExFbHV4SXhBVzlrZVlUR004VnZpb3YzU0VFXzVmN1o5MVh3Mm1TWGo4?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "09/19 00:39",
         "related": [
-          "BTC"
+          "BTC",
+          "ETH"
         ]
       },
       {
-        "title": "XRP即將形成黃金交叉，市場焦點轉向山寨幣",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRE1oVndiWGo4YnRXdVlsU05EY0JsLWlQcndqT0l1Q0hGcnhVTGhSZTRzNEV0WURSbEtBc3psSjBfQ2JlTzZaUVZKZWVuX0JnaDNNUWtwQW4zemVvcEN1NjdNUVhXSFFIRHhlWEt0SHMwUTlsZ3B1QXppMmFOUFdzQy05WkJuYmIyTGlOMkZmZ3NoMzZy?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "09/18 19:15",
+        "title": "Tap Global Group計劃配售新股，為數字資產儲備籌資 作者 Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oUERHUW1aSjg0cUQtbFRLd1JZellWdmI0XzZUcDcweDlsQzhERGQ1TVJtT1NjWlUwR0poMGtRdkZRVHpEb09VaVlkTUlTbmFqS09mMHRla1hVUG5rcXlIaWtiM0d3c2RNM0t1dmNoT2o?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "09/18 23:56",
         "related": []
       },
       {
-        "title": "維塔利克 布特林表示 人工智慧對網路安全防禦者有利",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DSmlzSUZBZmFXaHFGaThQU19ENEppWlpBWEE1TjZ5em8yS2I0WEVIQ1R5VlN0Skx4MEd6X2huRGdLc2ZUMml6NGtZZkU5M0U?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "09/18 19:00",
-        "related": []
+        "title": "比特幣強彈突破 8 萬美元！易理華高喊牛市別下車，點名佈局「兩大剛需賽道」",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdk9jeU9PNWNfNXVDaVlpd1R1cDZrSGNNcnI3Y053TmdZdE9UQy1nNDI5dlctSDF3T25LelpjZUxNWnlFRWFfTEdXb1YxeVhJSkU2a3JhNEFoUzI4NkxuYTBsOG4xV0FxNExHRWpQN1BKTEY4R0luQl9OeTF4LXdIVDdZSHdpUQ?oc=5",
+        "source": "blocktempo.com",
+        "published_hkt": "09/18 22:36",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

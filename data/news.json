@@ -238,33 +238,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-21 23:12 HKT",
+    "updated_at": "2026-09-22 02:33 HKT",
     "news": [
       {
-        "title": "美股異動 | 比特幣突破8.5萬美元 概念股集體走高 Strategy(MSTR.US)漲超7.5%",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQUdpd3dhOFQtaDA2V2pSUGVaQTBTdHcycGFBcFVzQ2t1MnYtbHFTLXdYRE1EaHZfZ1lCMV92VzQySF9Lcmh4X19lTkpqUEtyZUJHVjYzeHdhNVpMR05EUm56SzN1UWdCUVAwLThpUDFFSlFWX1FRVk0yWTRIMGt3RGlBd1B3YjdoZ1dFUnFhQ3N5bVRoc196RWdQSXRmQkx1aHF3Sk1lV1ZlUnJHNkE?oc=5",
-        "source": "moomoo.com",
-        "published_hkt": "09/21 22:49",
+        "title": "Strategic Bitcoin Reserve 價格、SBR 價格、即時圖表和市值",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xTDNJSW1UeUdyYWZpeS1xajh5Wnk5TnVHdjlEZkktSXB3eWhKR2xXVkpOTy12VWt1d2xSaGlhem1hVUV2T2dKQVBVNjh2aUxBZWh6bUVXN3VfMjl1QjJIbENZaGV0NlRUTU5MY2hEal8ydw?oc=5",
+        "source": "coinbase.com",
+        "published_hkt": "09/22 00:12",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "美股異動 | 比特幣突破8.5萬美元 概念股集體走高 Strategy(MSTR.US)漲超7.5% 作者 智通財經",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TdWxfREd6VzdxWXN2azZ1dDE5V0tyQk5KWm02azZZUVJ0T2lpUUo4cTctR3dTNUdnRUJuakVBaW9MNzZvN0R1Vi03NlJtbTk4a3lnYVVZWVRVWFlkdFpYMDgyanYwakZSTjI2MXVpaFU?oc=5",
-        "source": "hk.investing.com",
-        "published_hkt": "09/21 22:48",
-        "related": [
-          "BTC"
-        ]
+        "title": "Modam 價格、DAM 價格、即時圖表和市值",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XY0tDeW5LcnVNZTF5QzVhdWZuNFpUMFV0bURKVUZZMkdEQW1RVVhVX1lPMDFaNGRicXFsMDFlVFNQUDRaT0xnQUlaWWc3NUFteklGdA?oc=5",
+        "source": "coinbase.com",
+        "published_hkt": "09/22 00:12",
+        "related": []
       },
       {
-        "title": "主要加密貨幣行情，比特幣升5.52%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ2ctWGVQbGRNRHlmaHRiYnh0eGVreXNyanhtZThTSW0zWlZwdjZEUHp6M0FUX2Uxb0owbjliSGpKS2c1RkVCbDYxb1NjWFNMUkpocFo2Q09IVWxDOEZ1a2JLZWNZeExHRHF2Vkx0TnlFMV83Yks3TnVZd3l0b0NMX2xTLWVhTkxUemVVSU8wWDNiZGJXT3NGSkx6a3FUeGI4?oc=5",
-        "source": "etnet.com.hk",
-        "published_hkt": "09/21 22:31",
+        "title": "比特幣飆破 8.6 萬鎂、以太坊衝上 $2750！全網 24 小時爆倉 9.2 億美元",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSWNESDU2Z2N5dkZpbUhPMDdLRW9pNWNtMzUtMEd5akEwZkVyZnNxVlkzMzhQY2dHVkN5cS1iandZXzl3bHpkNnMtNWhad09rQW5wS0NkNEk1SEJFTjFtOXV6emxyWFRkRzJMZW5YUXBPdnVLT2tQRnQ3V0hiSnVBcjM4emw?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "09/21 23:16",
         "related": [
-          "BTC"
+          "BTC",
+          "ETH"
         ]
       }
     ]

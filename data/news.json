@@ -87,7 +87,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-21 21:26 HKT",
+      "updated_at": "2026-09-21 23:12 HKT",
       "news": [
         {
           "title": "港股收評：恒指漲1.18%重回25000點 科指漲0.4% 科網股普漲 創新藥概念股大漲",
@@ -109,7 +109,7 @@
         },
         {
           "title": "【港股後市】觀望「習特會」 恒指升至25300點或遇阻",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3MnEwai1kd2x1U1d3ODZ4Yk1mMnpURmp3U1hqckRjNzhNUFVjZVdwUkRVaHQ3Y0p3VnpvWVp1cUZvT2lXT3J2VnJfRFVuejJGZDBUeC1IVVpicXE4dkwtN2pON3YzaENVWTZOZ1Fn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOcWswX1NrMDZySDNuZjRLS293YzdRZ0VtM2F6QzNBeG9SQ3ZSMmJsQ1hTYmtQS0xfbUNzeVdET0VfSWM2V3ZSaFZxX0F2YjJNa0pmRXQ0OUlFT0ZwdUl0S21Mby0?oc=5",
           "source": "Now 新聞",
           "published_hkt": "09/21 19:19",
           "related": [
@@ -149,30 +149,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-21 21:26 HKT",
+      "updated_at": "2026-09-21 23:12 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數- AI算力需求狂飆，微軟與台廠擴建資料中心- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlWFd6V3VNdVBVOWo4ejVKYUZuX256NXlDMklxV3hTMU84cU9Odmk1WmwwbURXMlAtNExrX3pkTm5RTUVhWTA5SW1TQ04yTDdnUXg0cEU0TXU?oc=5",
-          "source": "cmoney.tw",
-          "published_hkt": "09/21 20:32",
+          "title": "TWA00 加權指數- 沒有意外的話，台股明天創歷史新高！ - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DSEs3MkdHem4xQ3A0bWVidlljSldHYlBxa1E5WndUSWc2NTMtNDZvTEFESk5JZDN4NTlmNWx3bXdEdW5yR0Z2UG5lWkcxSkx4T1VJdkJFLUg?oc=5",
+          "source": "CMoney",
+          "published_hkt": "09/21 22:31",
           "related": [
-            "MSFT",
             "^TWII"
           ]
         },
         {
-          "title": "陳嘉偉警告：台股飆漲538點只是「假嗨」！點名4大重災區",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nel9iNjNfbEFra3ByTDJKS2xYMHVpQnJOS2NVOXd6NkQ4MFVCck83VjdTd3ZNMW5wcVdMLWQ4d0t6X0lZUTNJYXR4Yw?oc=5",
-          "source": "三立新聞",
-          "published_hkt": "09/21 20:05",
-          "related": []
+          "title": "加權指數收復月線，強勢股能否擴散到更多類股？-雅筑股期理財術",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXJvTlFyLVQxUVZzbzJyMHN6ZnRJblVPZ0hFNEp6bENndzBkSXlRc21mb0ZzSGx5b2dzTEZHNHQ2R3ZfWWpDbE82Z0lnVHJIZGk2RFFYWXRzUHRRaEtXTjBVRU5ZR0hlODI4X2YybkQzTGJZMEM1MkZRS0RvbjFOcg?oc=5",
+          "source": "CMoney投資網誌",
+          "published_hkt": "09/21 22:27",
+          "related": [
+            "^TWII"
+          ]
         },
         {
-          "title": "TWA00 加權指數- 神秘券商近一日大單拋出Top3 - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3MW1EOTByWXIwNktEME1mMmVoajdrd0xQbmhoeFV3V0NDNzRDeG5WelZpT3pRWVNCdU5BVjdFMHMzWXFueXFxcDd5aUhaNkdzSmx4MVRhd3U?oc=5",
-          "source": "cmoney.tw",
-          "published_hkt": "09/21 19:35",
+          "title": "TWA00 加權指數- 川普多次要求烏克蘭軍方停止針對俄羅斯煉油廠的無人機與飛彈襲擊- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZb0wyTHBQeFdlZTNlRWVhWjVTV0QtSFJaYmxwU1BZVTRRLXJOQTE3YURncHdxay14RldyRXZLd2I5YXM1bThoNFB0WVZJVHJCb3dIcmN5Zw?oc=5",
+          "source": "CMoney",
+          "published_hkt": "09/21 21:58",
           "related": [
             "^TWII"
           ]
@@ -210,7 +211,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-21 21:26 HKT",
+      "updated_at": "2026-09-21 23:12 HKT",
       "news": [
         {
           "title": "【美股盤前】那指期貨暴衝1.8%，科技股重燃做多信心？（2026.09.21）",
@@ -229,7 +230,7 @@
         {
           "title": "KOSPI收復7,000點大關，三星電子暴漲5%",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNjlNTmJOajFjdDFBM1htcTlDYXBQYTl1RjFXVURvWWRpblZTQU83SXBBbC1ZQ2dObHByRndyT3FsZHQzbEtfM09Ba0EtSzk4OVNqalVjT1lNRnctWFk5TDV4WmVqVXVPRGV0bS1mU1lzSUZUU01oaTdBYW1EbGJwTzdvSUdGWlJ3NHlHQ3BiSWcwNmM1anpPN2NqYlFTSWJJUTJsZDh4NGItTnpoNEFlUjhNdlZuWjdobWMzS1BmV2tUZklCREQ2RlB2M0oxMFlPSWo1d2ptMk10TGpQTV9GYlNkYzlPeGs?oc=5",
-          "source": "tradingkey.com",
+          "source": "TradingKey",
           "published_hkt": "09/21 15:04",
           "related": []
         }
@@ -237,31 +238,33 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-21 21:26 HKT",
+    "updated_at": "2026-09-21 23:12 HKT",
     "news": [
       {
-        "title": "Circle上線比特幣抵押借貸服務",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yTmc1UjJNWmFveGRWUGhPOU95emY2em5GWTQ3VjlnMldkZ0ktWDFUS0M5MW9fZHphY2JHOVZJak53MGREWno5d3BuUnZ4SU0?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "09/21 21:00",
+        "title": "美股異動 | 比特幣突破8.5萬美元 概念股集體走高 Strategy(MSTR.US)漲超7.5%",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQUdpd3dhOFQtaDA2V2pSUGVaQTBTdHcycGFBcFVzQ2t1MnYtbHFTLXdYRE1EaHZfZ1lCMV92VzQySF9Lcmh4X19lTkpqUEtyZUJHVjYzeHdhNVpMR05EUm56SzN1UWdCUVAwLThpUDFFSlFWX1FRVk0yWTRIMGt3RGlBd1B3YjdoZ1dFUnFhQ3N5bVRoc196RWdQSXRmQkx1aHF3Sk1lV1ZlUnJHNkE?oc=5",
+        "source": "moomoo.com",
+        "published_hkt": "09/21 22:49",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "測度穩定幣、加密資產與DeFi生態系統",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0MGNCUjUzZ1BBTHo0VmF6cnc4Z2NRV0RXMEtSdWJ3anRqOW5wQnI0dVJaUGhQdUtNQUl4dzV1RlZWRDN4c0ZIeWhkd0NqNTQ?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "09/21 21:00",
-        "related": []
+        "title": "美股異動 | 比特幣突破8.5萬美元 概念股集體走高 Strategy(MSTR.US)漲超7.5% 作者 智通財經",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TdWxfREd6VzdxWXN2azZ1dDE5V0tyQk5KWm02azZZUVJ0T2lpUUo4cTctR3dTNUdnRUJuakVBaW9MNzZvN0R1Vi03NlJtbTk4a3lnYVVZWVRVWFlkdFpYMDgyanYwakZSTjI2MXVpaFU?oc=5",
+        "source": "hk.investing.com",
+        "published_hkt": "09/21 22:48",
+        "related": [
+          "BTC"
+        ]
       },
       {
-        "title": "BitMine過去一週新增購入27562枚以太坊 總持倉增至598.39萬枚",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RaC1lOURtOUs3QWozbkFZQUg3dV9RRVJVazRfWHdHLTIzSkNNd0lvaFFFT0tTZEZZdlVJQlNaZ09DUjhHenRra2MtR2E5QTM2cU8tQ1RIYTNYNFFwWnVJN0d1YjRzS1g5RlE?oc=5",
-        "source": "TradingView",
-        "published_hkt": "09/21 20:41",
+        "title": "主要加密貨幣行情，比特幣升5.52%",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ2ctWGVQbGRNRHlmaHRiYnh0eGVreXNyanhtZThTSW0zWlZwdjZEUHp6M0FUX2Uxb0owbjliSGpKS2c1RkVCbDYxb1NjWFNMUkpocFo2Q09IVWxDOEZ1a2JLZWNZeExHRHF2Vkx0TnlFMV83Yks3TnVZd3l0b0NMX2xTLWVhTkxUemVVSU8wWDNiZGJXT3NGSkx6a3FUeGI4?oc=5",
+        "source": "etnet.com.hk",
+        "published_hkt": "09/21 22:31",
         "related": [
-          "ETH"
+          "BTC"
         ]
       }
     ]

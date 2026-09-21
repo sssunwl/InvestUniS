@@ -237,30 +237,33 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-21 09:16 HKT",
+    "updated_at": "2026-09-21 13:19 HKT",
     "news": [
       {
-        "title": "Indianapolis vs Kansas City: Spread",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ESHJ2WU1oZVZKTjhRRWhMaXh2S3p6MFBZaHVsR1EzTnV0OVg2ZkRuQ1NWdFFpbjRRbjlSUUZlX2d1RUFSSVllcGxRakw1Z1RQM0FSTktWZVZHeDFCX3JWdVpGZFdyQXNwb3c0Wmxxa2xDN3RjbGRBYXVVMXNqUQ?oc=5",
+        "title": "IND Colts vs KC Chiefs: 1st Half Total",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zRG9JSl9KQnE1SHdmSU9wRHdhVzUwZGlpQXc0VDBibFJWYnNBUklRRXBfaElKQi1wUGlscU15YmM0a0ZjRTRnUzcwTmRNMUNwNTRSSGpjMzc1WWtSc003TE04MG1lbFlFVUM2aVFSY0lYWkVlQUh6R1MwaUdqYXM?oc=5",
         "source": "Coinbase",
-        "published_hkt": "09/21 09:01",
+        "published_hkt": "09/21 11:01",
         "related": []
       },
       {
-        "title": "比特幣突破 8 萬美元關卡 監管進展與聯準會政策點燃漲勢",
-        "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE56UFI0QXdBUmdvbWVPN0E0aXVyemN1UzczZ2hLMlNHSDZieXlMbG90YkxSWVZrT2huYmc?oc=5",
-        "source": "ENN台灣電報",
-        "published_hkt": "09/20 20:00",
+        "title": "比特幣守8.15萬鎂、以太坊漲2.6%！全網爆倉3.87億鎂、恐慌指數回落",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU1BsenJ1UjdvdnZmODlLX0Yzd2xmSmdfaEpmMkNVRGd2RjFMQ1BGaHByaWlMMkh0NTdsRW9qamhKbkF2MjhoeW5QTFNidnpGSDNSLWQwTlFDSk9LaW1zWFAyRHpzcUNNUHhDa3EyTXNvTlBwX19ySXZuVmY2VlNNeWd5eXpFaHFENzBRWm9ZdEtPUQ?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "09/21 10:56",
         "related": [
-          "BTC"
+          "BTC",
+          "ETH"
         ]
       },
       {
-        "title": "加密市場集體起飛：18大資產漲勢如虹 誰在驚艷你的錢包",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wdW0zeDlJd3NKQ1BFSms2YnpSZTVnMmxtdmNUOV9NOE9SblgtMllWRkcwSTN4NTlPX0dBc2FlWGVITHl6dExrR1kwdw?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "09/20 18:30",
-        "related": []
+        "title": "比特幣守穩8萬美元關卡 機構資金重返ETF推升需求",
+        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNMWZiampubDE3elZpanJoSW45d3c4WnpkZHZEWTJrOXQteUVKLWRJdzZManZURXlNSmNXZ2NXRFVPVDBVc2xYS2h6MTFnaUNwVEtiX3dvN3dDX1FPVkF1bURNOXZnanpQSDh4MFJuLWZRemtHdGdZbTdQd3hZZTNJUTVpYjAwUjA2MTI1RjBGbk4xeVZ3N3pJUXgwSXExZGdOa2FWTFhkN3FYdkZCenFVR2J0ai1CcTNpMnZtXzBGWGI4SW1NcW1zTUtYdkQway1OaWJESFBmYXkxN0NMcGZkWmVaTmJEUFpKV00tNml0Vlp3aTAzdVByYm11N01zMTVsYl9GbFlHa0JFWFJRdm02SkFlU0o0WjlaS2w3MWdRVlh1MTc2RkVIQVNpSG1GWk1CM2xCb1Y5cGNwbmtaWXc?oc=5",
+        "source": "Life 生活網",
+        "published_hkt": "09/21 09:04",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

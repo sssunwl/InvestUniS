@@ -87,7 +87,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-22 19:18 HKT",
+      "updated_at": "2026-09-22 20:10 HKT",
       "news": [
         {
           "title": "﻿北水操作｜睇好港股HSI？北水勁掃盈富|香港經濟日報",
@@ -109,13 +109,12 @@
           ]
         },
         {
-          "title": "〈港股盤後〉恒指衝高回落微升0.18% 騰訊大漲逾5%領跑科網股",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wWHJBMjhGYThoM2c0TVhxSXVGZDV5NEdmSHdPcDM5Ul9sdlBWRnVrRUgySEYzYWNzSDV4M1NpLXZmMkhnRFNDTnloak54NUU?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "09/22 16:42",
+          "title": "恒指走勢丨虎頭蛇尾埋單再升45點 近127億北水撐市",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uN3FvT3NHNkkyT3p4SXlSdnhsLTlqNnlWUUZTY2JtSEt0eC1hekdsbGRTcjl3VmtUUWlvZnBGQWVpZDFrakU0Z1JGUWJROGZtWnBCR2NmSk5Sekd6TXJFLUVZZ1dsaVhSQUdpUGJjVQ?oc=5",
+          "source": "信報網站",
+          "published_hkt": "09/22 16:45",
           "related": [
-            "^HSI",
-            "0700.HK"
+            "^HSI"
           ]
         }
       ]
@@ -151,8 +150,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-22 19:18 HKT",
+      "updated_at": "2026-09-22 20:10 HKT",
       "news": [
+        {
+          "title": "TWA00 加權指數 - 21：30美股準時開噴 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWQndGbThTUDRxelI4VnJlVmR5R1F3Zi12NXRpdmk5cTl5NW5OVFlzV0hTLWs3WVZ3RU9CbHRzcHNqVkp4QTNLYlRqcXc0T0FlVk1xdHlQUVo?oc=5",
+          "source": "CMoney",
+          "published_hkt": "09/22 18:45",
+          "related": [
+            "^TWII"
+          ]
+        },
         {
           "title": "TWA00 加權指數- 游庭皓直播2026/9/22(二) - 股市爆料同學會",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFMXl2Q2hWYURLVldNdERDTTBXN1Q5VFlDTVNabnExdjlETE5zTkZadmlOa1p6QkpCdG5NaDEtT00tVjdocXMzcVhEZ1BqeGlHdkJwSktkVzA?oc=5",
@@ -167,15 +175,6 @@
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3aVBRYTlDX0cwVDdYR21DTmpNUll6UnZjY3h6Q0dJVi16WHFhTFJualI1ZDYxMUpzS0llT2RZQVpNMHVPbjJkdnVtbWNHSm9Nb2JhQ2Vxa0M?oc=5",
           "source": "CMoney",
           "published_hkt": "09/22 18:28",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數- 創高拉回！仙人指路？ - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qdHVfVklSeUpfNzJYT3ZOd3RXUndtaUc4MUc3UUhJZE5PcEtNSU5STWt1Qm5rblg0RmppUDlHTVJkdThxeFdGaXcyTm4xNmg4clpiVUJkVVk?oc=5",
-          "source": "CMoney",
-          "published_hkt": "09/22 17:48",
           "related": [
             "^TWII"
           ]
@@ -213,12 +212,12 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-22 19:18 HKT",
+      "updated_at": "2026-09-22 20:10 HKT",
       "news": [
         {
           "title": "疫情愁雲未散油價又狂瀉　日股開盤重挫逾3%",
           "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAxNlFlTzNZeC15ZzVReGRVaHZTTkNtaUtndmtBYktmdmtORzN1R3Rqajd3Ty1udWcxYnVEYnQ0YkdWTTRUWEtF0gFLQVVfeXFMTi13YXgybHcxT3djVDloeWJmaEFGRlg5THE3VGdwNkpnckRhU2hQMV9QNEVrd2Fza1pPT2NmVERCcnhMZkRfSC1pV19N?oc=5",
-          "source": "setn.com",
+          "source": "三立新聞",
           "published_hkt": "09/22 16:55",
           "related": []
         },
@@ -240,8 +239,15 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-22 19:18 HKT",
+    "updated_at": "2026-09-22 20:10 HKT",
     "news": [
+      {
+        "title": "【即時新聞】BitMine Immersion Technologies(BMNR)宣布加密資產達171億美元，以太幣持倉佔總量近5%！",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbEVrSTBOTkF1SG9aV0R4MmFUc2Z6RlZWcl81ZlV3YzhuQUVtRzhFbTNzNzlDSGp1ejI4NU9GZVhHTFFJRVFPbkFjWEM5Q2s4WU5UNE01azQ2T285a1ZUemVDVHNheDlHWnBvV1ByWkhsYnJWcUhHSnJFQnc4cFNTX2dSMHh2a3Y3RzNPUFp6M0g?oc=5",
+        "source": "CMoney投資網誌",
+        "published_hkt": "09/22 19:47",
+        "related": []
+      },
       {
         "title": "Mochizuki vs Xiao | 預測市場",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOWWFpQ21LdEM4MXpnOFZOWUdIN0Z0UXNXeV9lc3hVOHRZbVVYdDJ1ak9PektUUTYwejh6dmE0UU1aRENSRkJNaUhHRk9ELUdMd01uY3ZVRG54cVl4Tm00aHJSNDc3QVlLNHVyYzZ2cUozZVN1WkhVNGc3cGljdw?oc=5",
@@ -250,19 +256,10 @@
         "related": []
       },
       {
-        "title": "主要加密貨幣行情，比特幣跌1.35%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaDNETlk0eXFjWmcwN3dOam9jSHBmbWNMamNqQVp0enREenFGenJMbWVnWGQ1YzZlQ21RU05IOGwwVFpBNHFpZWNTSWY0cHVTUHUwWTdJdnVvQkphVElkd2ZrRTJvQ2pkcnNoYXBFS1JPS0VzQ0lJc0Q0VUctUHVHODY5Yy12OEM0UUYycEhsREJ5bTBaWGpLSG9Xcnc3SGtp?oc=5",
+        "title": "主要加密貨幣行情，比特幣跌0.78%",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUlFUcWliR1lHaVBsaENoTlJFbjlyVThHLXZpbEtIdEF3d250UERlYnYwMUItM0RfcFVNcFpQY1RVSWNKaVp2cDhFOXBPbm5QQnFCV2dpUlMwME96NHlUaXFDVlhJWHJfQnJYajhZa2Y0MG9IRGdSanh3NGR6Qndtb0gzUnlUZkQyeHVTRVA1V3NIeEJzZkFVWDduOGQ2cWt5?oc=5",
         "source": "etnet 經濟通",
-        "published_hkt": "09/22 17:12",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "企業儲備競賽加碼！微策略再買950顆比特幣，Bitmine ETH持倉逼近600萬顆",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMGdTeU83cU9nQWJxWmw5Q21Sa0hnNGlUZlpUMUpIZzN4Q0ZuaXprNG5YSHdIRXFScS1GbmhCWFQza1VPcm9kY1k5b2lieFhsZ2FhbUtpOTVHaXBsSHhIUzJST0kxOVY3aERNd1FUQ0JUUWo5UVk2VGxsdEpQdlNxOFVFZDlzUnFBcUE0UzVEcjhSaW9DTjZUMmJCZGlISEFZYjJ2Qw?oc=5",
-        "source": "桑幣區識 Zombit",
-        "published_hkt": "09/22 15:30",
+        "published_hkt": "09/22 16:59",
         "related": [
           "BTC"
         ]

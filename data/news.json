@@ -238,35 +238,28 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-22 09:38 HKT",
+    "updated_at": "2026-09-22 13:16 HKT",
     "news": [
       {
-        "title": "比特幣衝破 8.73 萬「爆倉 10 億鎂」以太坊逼近 2800，加密市場全面回暖",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuVWcwd09iYVBvcW5mWXB6MkFicXBxNFo2Nnh3cVZBbVZieFAtUG1iZkx0NHdQdXBNS0FlcGxObzFfRkFKdUhseFM1ajMyZlRGdFFzVU9jVHFFNG9qYy1sUXNEUE16SGl6NVFBVjRRTVUzNnVBald6OVZlOA?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "09/22 09:29",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
+        "title": "美國放寬代幣化規範，Hyperliquid 飆 $96 新高，UNI、AVAX 等幣齊揚",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOU5XUUlBV3ItQmxPZHdZdEdFLWlHQVpySmZHbGxpUDVrWUhJZmdldnlTMTY4dEtid3lMZVhCSUctcEFMck1qdEV3STRDemlzR0h5cUtNTklSSDVNM0ZTUi1XYTAxY2Z5VmdsQmhuX2Zkb3NJU3BaazJ3OWl0Tmthdk9GbG5OQmc5dnY4QW1KX0VRM0J1UTRHeVg4QTZDR2MwQmxkOXNFd09NdGlPT3ZsYXN5UlNjSjBOejZsTmVyT0FOR1pEVk4xSk92NDN5OHh0ZW1zejZsajN4eF9tMHJMWXY4X0xGZ1d5OFUwOWdR?oc=5",
+        "source": "Life 生活網",
+        "published_hkt": "09/22 11:57",
+        "related": []
       },
       {
-        "title": "空頭慘遭血洗！加密貨幣集體飆升，比特幣衝破 8.7萬美元",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc3NSSkJCSXlDY0xwLTNlQmNqcy1TUk5PdDUxMXBucldzbmhDUmdoV3I1VUdTUFZ2M3QtRHRBWEEwQUFacnA5Z0hNeG9LT3E0cXhSajc3bzFmblg4b19rYTR4U0l3Vl9RSV9PeG8yS2h5U3daM0c2QlFHM1Y5aU9tVl9laF9sRWM4cmpBM2J5LUVIQ1B1SkFfdkdBSGRjZ19xM0UxMTN4eHlzWWhiVVZrM01fWkV3LUV5bWZaR2RmRVk3U1BMVXdZ?oc=5",
-        "source": "TradingKey",
-        "published_hkt": "09/22 09:23",
-        "related": [
-          "BTC"
-        ]
+        "title": "瑞波幣價格預測：XRP 大漲7%攻克1.5美元大關，正式啟動單邊多頭行情？",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWnZQWE9BNjlGWjhmVS1kU2ZuVXZBYWJhay1VT2hzWlBpb3lLX2lIZDJYZlBjcW5YZjhmT1ZHMkl6QnY2ZU9PRGpjVV9qb2JJRGdNVkpPMERabGNIT1J1dmlmQVpxUDBLZDJHWko2YU8tUTdJNDdLUjg1WXg5X3FrQXBJM1hjU2xvbS00TkxzVWM3MERnOGRLU25EX2p1Ni1nb21lekhxUzBZcU9KSEl3T2JTejctUUZHNVZJTHZVVHczV25XV2ZYQmlnWVJLV3hXbzdhaFp3?oc=5",
+        "source": "tradingkey.com",
+        "published_hkt": "09/22 10:54",
+        "related": []
       },
       {
-        "title": "Meta Platforms股價飆漲11% 創近一年半最大單日漲幅",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HakVtbHc2RWNCUnRNVTltLWNMeDFqVFlGWXFiZHdDQVp0R2M4WDFEZDJXSUZtYjJDYWp4cklkOWlVY1g2MUhjVGE4cDRScGV5amc?oc=5",
-        "source": "蕃新聞",
-        "published_hkt": "09/22 08:08",
-        "related": [
-          "META"
-        ]
+        "title": "老特急推資產代幣化 撐美元霸權 美國大選政經分析文章 - 專題",
+        "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQOFlkNmpUTnYwaVQxYUYyR0RYZDNqYnFiRUtNX1djVFRES3Voal92RDN3S2Zhc01HZW52dUNwZmpnaUNqaVdBeVJuMnhSTEFILTJ6eTl3MEYxN3VWZ2dLNS1YcXdTQThTbDdrZ09lTkNXZy11dmxXZnRXYkFBZmJINXVMQjQ0VGxXejkyMmRnSk1HdVRSZzVIMlBSRmRNQXhTbG1qX0FXa2hWQTAybkVqVG84aUlOVHpUUXFqRldJdFc4R2o1UUVPbEtBVnVyb1kxczJsZ0lEbUpMRDNCMVZhTG5zUkRXYmVaU2lGNnF1ejZHNzB2ZlVCM2g2QzdkMnFMLVhrZDI4aGNpYktSQ3VaSVBEbFpnN2s5NXBNY0ZJaU5jNTN5MmxWeDFfZ0RzWGxWMzZVUHhJT2dBZ2NKalg2UDZ2LXBVZm02MGZBSmJpR1l4TXhGQ0xBek9lazBoZ3l0YkxPd0lSX1luUWFFZWpmelVvbU1XbHJnRFRmbjZTcXQ?oc=5",
+        "source": "信報網站",
+        "published_hkt": "09/22 10:28",
+        "related": []
       }
     ]
   }

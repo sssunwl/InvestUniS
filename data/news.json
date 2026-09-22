@@ -236,27 +236,29 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-22 21:31 HKT",
+    "updated_at": "2026-09-23 01:34 HKT",
     "news": [
       {
-        "title": "【即時新聞】BitMine Immersion Technologies(BMNR)宣布加密資產達171億美元，以太幣持倉佔總量近5%！",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbEVrSTBOTkF1SG9aV0R4MmFUc2Z6RlZWcl81ZlV3YzhuQUVtRzhFbTNzNzlDSGp1ejI4NU9GZVhHTFFJRVFPbkFjWEM5Q2s4WU5UNE01azQ2T285a1ZUemVDVHNheDlHWnBvV1ByWkhsYnJWcUhHSnJFQnc4cFNTX2dSMHh2a3Y3RzNPUFp6M0g?oc=5",
-        "source": "CMoney投資網誌",
-        "published_hkt": "09/22 19:47",
+        "title": "Bitmine Immersion Technologies（BMNR）宣佈 ETH 持倉達 598 萬枚，加密資產及現金總值達 171 億美元",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oMmZHRHVhNzdNUHNmWEZyWlB5VXV4TWdFdFVzOUx2d1J4OEFhdWJ1UGlDYVJnYzNlLXVKVDJIVmdkd05ZUE0zX3BkUV9oLVVqaUsyZ1BibkJoYlYz0gFiQVVfeXFMUFMwVHE0ZUtZWmNjazVscWZzMnR5NXBCS2RHZkIzSlNORE9XR0V4cXpTaGJoMzk1RWVXZGdiUU9nRkQwYXZ5YWRZVkQyU18yTzhNUlNWbVozS19Rbnp0TGxZUkE?oc=5",
+        "source": "經濟日報",
+        "published_hkt": "09/23 00:01",
         "related": []
       },
       {
-        "title": "Mochizuki vs Xiao | 預測市場",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOWWFpQ21LdEM4MXpnOFZOWUdIN0Z0UXNXeV9lc3hVOHRZbVVYdDJ1ak9PektUUTYwejh6dmE0UU1aRENSRkJNaUhHRk9ELUdMd01uY3ZVRG54cVl4Tm00aHJSNDc3QVlLNHVyYzZ2cUozZVN1WkhVNGc3cGljdw?oc=5",
-        "source": "Coinbase",
-        "published_hkt": "09/22 18:20",
-        "related": []
+        "title": "Meta Platforms股價飆漲11% 創近一年半最大單日漲幅",
+        "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE15aUNLYjU3U0IwUzlHTUJ4TGMzZVg3Y2w0NVhVdmIzRF9majRkdFYxMnIxckN0NWU3bVE?oc=5",
+        "source": "enn.tw",
+        "published_hkt": "09/22 23:11",
+        "related": [
+          "META"
+        ]
       },
       {
-        "title": "主要加密貨幣行情，比特幣跌0.78%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUlFUcWliR1lHaVBsaENoTlJFbjlyVThHLXZpbEtIdEF3d250UERlYnYwMUItM0RfcFVNcFpQY1RVSWNKaVp2cDhFOXBPbm5QQnFCV2dpUlMwME96NHlUaXFDVlhJWHJfQnJYajhZa2Y0MG9IRGdSanh3NGR6Qndtb0gzUnlUZkQyeHVTRVA1V3NIeEJzZkFVWDduOGQ2cWt5?oc=5",
+        "title": "主要加密貨幣行情，比特幣跌0.81%",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWkJmelJZZXFPeDZhcGVBeFpERVdHaFIwYnhKaFdkMUY3RTl2UkVYek1zYWh2UFRBWmNHWTRqZ0JqOWxtTkdPbzhuemplM1pIRlpHMlBmY3ZYMEFNMGpuTWtxZFVqQzNrVllWTkxZTlpIRjg1QlFwa3BBM0tQZ3RySFVYNTNvamM5MDl2WGp2ellnZFUxdkZ5WC1HSU1MOGFM?oc=5",
         "source": "etnet 經濟通",
-        "published_hkt": "09/22 17:12",
+        "published_hkt": "09/22 22:32",
         "related": [
           "BTC"
         ]

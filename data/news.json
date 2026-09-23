@@ -236,27 +236,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-23 09:33 HKT",
+    "updated_at": "2026-09-23 13:02 HKT",
     "news": [
       {
-        "title": "加密貨幣市場退燒 美國持有率顯著下滑",
-        "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQNlRWWVpqSGZVVDVRc0FjdndqX3dmOGFYOEhfLU53RllsU1dLN2Q0VlVZQTBOcHViQ25ES2xmN0p6MVM3NzJ6Qml4Q3NlNUtSZC1CcmVwVy0xd1ZqSEo4RkRVRVAwNGZKUlhncnBqWXlISUZRU0RwWXI3ZUNBVG01ZEU1ZU9BVVdTSUoyRmRpOVhTUlpHTFE3VVNmQTNxVnRFYk9qaFJfZGJxQl9VYm1RSjdpeElkUVZvR3dRazl4aVpkX0FHWlZxMFlqNzQ3NVhWREI3WE94RjN4TU5ISC1qUk5heFhzb2hBUTljV282Nm1ZMTl3aUhMRnJYRk9nVVBhem9JaUttOEVtal9ZWnhRQ192UUlHMmdSV3dQVk9vR09lNkFrbEs0?oc=5",
-        "source": "商傳媒",
-        "published_hkt": "09/23 08:06",
-        "related": []
+        "title": "比特幣現金、比特幣SV和LayerZero價格會漲到多高？",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUnJxOUgwU3VpQ1U1S3pWLTdRc3pYS2xqR0k1QmRINGJ3SXVXR3NVMHhsLWRpMXBPbWw0SThfMlVTR25wMlZXT3lHdmc3c2h1S215LUpJWUV2UXYzaU9ud0lVR1NCTE55enNJOVlQTHlyQzExQm10NmVOdzV6bmVpOEZfZ0ZDajhGQjh1NW9lSTQ5U0U3ZUxwWkc2d3ZJR3hiVGRoOXpqeW9nQ3pYemdjSm1PSVdfQWs4T0RUN0VLNTNSVlJTdGpIVzZoX183dmZYa3RBUWZRQzRncGlhWWItYzBuYVMtenfSAecBQVVfeXFMUFJycTlIMFN1aUNVNUt6Vi03UXN6WEtsakdJNUJkSDRid0l1V0dzVTB4bC1kaTFwT21sNEk4XzJVU0ducDJWV095R3ZnN3NodUtteS1KSVlFdlF2M2lPbndJVUdTQkxOeXpzSTlZUEx5ckMxMUJtdDZlTnc1em5laThGX2dGQ2o4RkI4dTVvZUk0OVNFN2VMcFpHNnd2SUd4YlRkaDl6anlvZ0N6WHpnY0ptT0lXX0FrOE9EVDdFSzUzUlZSU3RqSFc2aF9fN3ZmWGt0QVFmUUM0Z3BpYVliLWMwbmFTLXp3?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "09/23 11:29",
+        "related": [
+          "BTC"
+        ]
       },
       {
-        "title": "Krueger vs Gorzny | 預測市場",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHR1bk9jV1c1cTNNSHRCWXkwd1V4M1M4ZlVEdW1kNTU2SWpQMGVNNDJua2NwR0FpZmJuRkZkbHdsemlMNHZXVUdqa1NFVXJPUFBFX2p6M01xQ3NmQnRJMVRrVWtnamdPYXZUNXRoa0tONVdQMlh4MmZlWmNMZUVNNGFET3FBZEdVZDVv?oc=5",
+        "title": "前3名價格預測：比特幣、以太坊、瑞波幣 – BTC在強勁上揚後企穩，ETH和XRP緩和進入盤整",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNVDlqU3k0WGZfa0VLWVFsMl9uZVpFVllnR1Z6WXJoc0pGX2NTSW1LMnIydTQ3aTFPY0MwVnpVUTRZZzItVGJMVHdUc0lmSFlZQms5akYyekRjWW55cXBDNkdTaWV0NF94SC1RYVZiNGdOQUllQkJCRk5ydnk3aVdWMEs4MEEzSVFBVzdHdmlTWUpsdUtDRUk4d1A0WnBUbEpjWlN1ZXlIb3p1ck5wd1pab0tpb0ZOZVB0YWpRdWo1TDdHVFBEZUhzalU4cWR6dTdDSnZvSk5YSU0tR2s5N1ZyQ0tweVRFYi1pMzBwLUNrcnhWRlhUel8tUFhiTmV2NTJlU3NNSzBQN0FnaWVubkV2eFpqS1NoanFHVEl30gGbAkFVX3lxTE1UOWpTeTRYZl9rRUtZUWwyX25lWkVWWWdHVnpZcmhzSkZfY1NJbUsycjJ1NDdpMU9jQzBWelVRNFlnMi1UYkxUd1RzSWZIWVlCazlqRjJ6RGNZbnlxcEM2R1NpZXQ0X3hILVFhVmI0Z05BSWVCQkJGTnJ2eTdpV1YwSzgwQTNJUUFXN0d2aVNZSmx1S0NFSTh3UDRacFRsSmNaU3VleUhvenVyTnB3WlpvS2lvRk5lUHRhalF1ajVMN0dUUERlSHNqVThxZHp1N0NKdm9KTlhJTS1Hazk3VnJDS3B5VEViLWkzMHAtQ2tyeFZGWFR6Xy1QWGJOZXY1MmVTc01LMFA3QWdpZW5uRXZ4WmpLU2hqcUdUSXc?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "09/23 11:18",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
+      {
+        "title": "Lu vs Shek | 預測市場",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4U2docndMT1NKZ09MSURQN2w1ME5EVDY1WTdlVUNOcnVrQlNBNzJLLURCRDEzZ3U1NFdSWjdYcnVHTjQyTGtTS19sRjV0bDdVZUliMV91bmkyZDEySHZibG84WXRVb2p5UDBzSmV5RnQxaHBLSFJKSGNSLU9PcDA?oc=5",
         "source": "Coinbase",
-        "published_hkt": "09/23 07:25",
-        "related": []
-      },
-      {
-        "title": "Bitmine Immersion Technologies（BMNR）宣佈 ETH 持倉達 598 萬枚，加密資產及現金總值達 171 億美元",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTMFRxNGVLWVpjY2s1bHFmczJ0eTVwQktkR2ZCM0pTTkRPV0dFeHF6U2hiaDM5NUVlV2RnYlFPZ0ZEMGF2eWFkWVZEMlNfMk84TVJTVm1aM0tfUW56dExsWVJB0gFiQVVfeXFMUFMwVHE0ZUtZWmNjazVscWZzMnR5NXBCS2RHZkIzSlNORE9XR0V4cXpTaGJoMzk1RWVXZGdiUU9nRkQwYXZ5YWRZVkQyU18yTzhNUlNWbVozS19Rbnp0TGxZUkE?oc=5",
-        "source": "經濟日報",
-        "published_hkt": "09/23 00:01",
+        "published_hkt": "09/23 11:17",
         "related": []
       }
     ]

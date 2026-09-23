@@ -29,30 +29,30 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-22 09:38 HKT",
+      "updated_at": "2026-09-23 09:33 HKT",
       "news": [
         {
-          "title": "費半飆4.3％激勵！台股拚新高「有機會撿便宜？」 股海老牛開示了",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZdlRIWTVIWTNGWUFQakJzYUptTzA1dFBaTjFuZ3BaVHdSdlJNWHVjVjBGN1JOZVV1dG52dE5tcE1WaHl0czB2aVF0WQ?oc=5",
-          "source": "三立新聞",
-          "published_hkt": "09/22 08:18",
+          "title": "美股頻創高點投資人追逐 AI 概念股 尋求價值型股票成策略",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tM2FjdGU0b3d6N1pvUWstLUhqSEhFaEJLdGcwVEZ6R09ld3VNcnlSaEF2VmxGNkdXYzBJbzVIQ2JhQ2VuTFYtVzhWYmV3ekpaa0E?oc=5",
+          "source": "蕃新聞",
+          "published_hkt": "09/23 09:22",
           "related": []
         },
         {
-          "title": "AI熱潮再起 那斯達克創收盤新高、AMD市值首破1兆美元",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRMnE4WVVHVTVwc0QzcEJtUUJfMzNmcGU0eEMxWklSYkRNUGpubmp2dHFaaXhJUlBJbXhSUjlhTDczY0dUc3luZXZKblNrVzA?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "09/22 08:00",
+          "title": "美股重啟\"擇優\"模式：什麼才是納斯達克真正想要的標的？",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1xTm9mMVV0QzNaUmVuTEd4a0YzRG5SUmwzVUh5ODNkR3B5eE5Edy1hNG1iR3BQNTNia0ZHVDdzRkQ1d0VsWEl3ZA?oc=5",
+          "source": "鉅亨號",
+          "published_hkt": "09/23 09:20",
+          "related": []
+        },
+        {
+          "title": "AI續熱、市場關注美伊局勢! 美股那指創新高、台積電ADR漲1.54％",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UcU16TkI3cTJOeld2NU1COFJnc29UeFhCTnRtMHlCeE5WSlZPX3NXQ1JlUzU3Nm5ndFFnQ0tCVVhTQU0wNnRKT3hBYjZweUlYd3BjSE1FbWFHX28?oc=5",
+          "source": "Newtalk新聞",
+          "published_hkt": "09/23 08:48",
           "related": [
-            "QQQ"
+            "TSM"
           ]
-        },
-        {
-          "title": "美股指數逼新高 反而見凶兆？內部罕見背離：1999年科網泡沫前曾出現",
-          "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPd29Qam8xZGM3amFlaVNyLVpJSFZ6N1pLeWpNTGhNV3VFUVdPdU45RUVlSmJXVjhkNWFBeGM2VjZiMHZROExqaTZCZVl2RGNSZU8wRjRuUHFpcThLa1VVMkxYTVdXRHQ4SDBDb3o4cmhKODR0bmtGRWFKblFwMXhUSGVRanMzcTlJQWx2Z1QxUFJjNlE0enZhUVBaZ2diUldIczVCNEpLRDBYQ2lLZ001UHhFZEZRWXFWYk9lM2hZaGl2RXdCV3R4RzYzejFqSWNfTUViVERvYWR0OE1QbmFXTGFNb0lyWWNobVFfcnBVQVR5LWQ0Q0FST0RHMWFGSkFBaWF6bU5raHM5eVZ2RWFLODcxbFEtV21NY25Md1ZRUFRHTnZ1N1lDYU1iaDBaQi16andnYnl5VVc0R2VTZEVYeGYyaVlMcEw3THhFVUxkZmVVS05meEgtX1h4X2Y2ZlFmWDNFV3kxT3gtLS0zN3FWR1FPcWhSbnpZZjJxb1IybzBaVVRIX0dTNVI0UnRKRzRrelg0cUlJdU5SVnRvWHMtcm40azVKMVdhSmliQXFsVndLQmx3LXRZRzdTaFhNcVVYSGp0aEp1ZXBWelU?oc=5",
-          "source": "香港經濟日報HKET",
-          "published_hkt": "09/22 07:45",
-          "related": []
         }
       ]
     }
@@ -236,32 +236,28 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-23 01:34 HKT",
+    "updated_at": "2026-09-23 09:33 HKT",
     "news": [
       {
-        "title": "Bitmine Immersion Technologies（BMNR）宣佈 ETH 持倉達 598 萬枚，加密資產及現金總值達 171 億美元",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oMmZHRHVhNzdNUHNmWEZyWlB5VXV4TWdFdFVzOUx2d1J4OEFhdWJ1UGlDYVJnYzNlLXVKVDJIVmdkd05ZUE0zX3BkUV9oLVVqaUsyZ1BibkJoYlYz0gFiQVVfeXFMUFMwVHE0ZUtZWmNjazVscWZzMnR5NXBCS2RHZkIzSlNORE9XR0V4cXpTaGJoMzk1RWVXZGdiUU9nRkQwYXZ5YWRZVkQyU18yTzhNUlNWbVozS19Rbnp0TGxZUkE?oc=5",
-        "source": "經濟日報",
-        "published_hkt": "09/23 00:01",
+        "title": "加密貨幣市場退燒 美國持有率顯著下滑",
+        "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQNlRWWVpqSGZVVDVRc0FjdndqX3dmOGFYOEhfLU53RllsU1dLN2Q0VlVZQTBOcHViQ25ES2xmN0p6MVM3NzJ6Qml4Q3NlNUtSZC1CcmVwVy0xd1ZqSEo4RkRVRVAwNGZKUlhncnBqWXlISUZRU0RwWXI3ZUNBVG01ZEU1ZU9BVVdTSUoyRmRpOVhTUlpHTFE3VVNmQTNxVnRFYk9qaFJfZGJxQl9VYm1RSjdpeElkUVZvR3dRazl4aVpkX0FHWlZxMFlqNzQ3NVhWREI3WE94RjN4TU5ISC1qUk5heFhzb2hBUTljV282Nm1ZMTl3aUhMRnJYRk9nVVBhem9JaUttOEVtal9ZWnhRQ192UUlHMmdSV3dQVk9vR09lNkFrbEs0?oc=5",
+        "source": "商傳媒",
+        "published_hkt": "09/23 08:06",
         "related": []
       },
       {
-        "title": "Meta Platforms股價飆漲11% 創近一年半最大單日漲幅",
-        "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE15aUNLYjU3U0IwUzlHTUJ4TGMzZVg3Y2w0NVhVdmIzRF9majRkdFYxMnIxckN0NWU3bVE?oc=5",
-        "source": "enn.tw",
-        "published_hkt": "09/22 23:11",
-        "related": [
-          "META"
-        ]
+        "title": "Krueger vs Gorzny | 預測市場",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHR1bk9jV1c1cTNNSHRCWXkwd1V4M1M4ZlVEdW1kNTU2SWpQMGVNNDJua2NwR0FpZmJuRkZkbHdsemlMNHZXVUdqa1NFVXJPUFBFX2p6M01xQ3NmQnRJMVRrVWtnamdPYXZUNXRoa0tONVdQMlh4MmZlWmNMZUVNNGFET3FBZEdVZDVv?oc=5",
+        "source": "Coinbase",
+        "published_hkt": "09/23 07:25",
+        "related": []
       },
       {
-        "title": "主要加密貨幣行情，比特幣跌0.81%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWkJmelJZZXFPeDZhcGVBeFpERVdHaFIwYnhKaFdkMUY3RTl2UkVYek1zYWh2UFRBWmNHWTRqZ0JqOWxtTkdPbzhuemplM1pIRlpHMlBmY3ZYMEFNMGpuTWtxZFVqQzNrVllWTkxZTlpIRjg1QlFwa3BBM0tQZ3RySFVYNTNvamM5MDl2WGp2ellnZFUxdkZ5WC1HSU1MOGFM?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "09/22 22:32",
-        "related": [
-          "BTC"
-        ]
+        "title": "Bitmine Immersion Technologies（BMNR）宣佈 ETH 持倉達 598 萬枚，加密資產及現金總值達 171 億美元",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTMFRxNGVLWVpjY2s1bHFmczJ0eTVwQktkR2ZCM0pTTkRPV0dFeHF6U2hiaDM5NUVlV2RnYlFPZ0ZEMGF2eWFkWVZEMlNfMk84TVJTVm1aM0tfUW56dExsWVJB0gFiQVVfeXFMUFMwVHE0ZUtZWmNjazVscWZzMnR5NXBCS2RHZkIzSlNORE9XR0V4cXpTaGJoMzk1RWVXZGdiUU9nRkQwYXZ5YWRZVkQyU18yTzhNUlNWbVozS19Rbnp0TGxZUkE?oc=5",
+        "source": "經濟日報",
+        "published_hkt": "09/23 00:01",
+        "related": []
       }
     ]
   }

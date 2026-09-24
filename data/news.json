@@ -244,29 +244,29 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-24 21:39 HKT",
+    "updated_at": "2026-09-25 01:47 HKT",
     "news": [
       {
-        "title": "ARK Invest與Securitize合作，將旗下ARK Venture Fund進行代幣化上鏈",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yYjIyMG1KMHA0RUY4Q0dqLUJSU3RtS0RaR1VuTGlyT2RETW05NW1YTXhJcWRvV2dDMWcwUEtBcXlQTDNxenFOYjFiS2JyckU?oc=5",
+        "title": "Multicoin：RWA上鏈將開啟DeFi 2.0時代，訂單簿與詢價將取代AMM主導",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jVDRfYTRPblBBV2czanVGd0JleHpBT0hUQ2puU1dwWk9HRERhV3BmeUxQSFFYclJGQlpVOUxPYW91WU82QmZ6VVUxRDhlM3c?oc=5",
         "source": "news.cnyes.com",
-        "published_hkt": "09/24 21:30",
+        "published_hkt": "09/25 01:02",
         "related": []
       },
       {
-        "title": "百美元油價再掀收益率風暴!美債收益率與美元雙雙走強，比特幣八個月新高後迎重大壓力測試作者智通財經",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SYXVxSlFkYWtjOVFSeE8ySkoxZ1NseVVOZVNUN1hBX3pWbGs3SVZQTjNnVjNsdGNOVzduN2NnMEk3SVF2aEdMZUVvTVBtRF9uZTQ3ZktwR0VoZTBLUHBmbG1zbXFGNGZCM2dLUnR0TkM?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "09/24 20:17",
+        "title": "Payy Network官方確認被盜，以太坊上跨鏈合約遭攻擊",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41NTFqNFlZelczbUZNa1BTYnBLZUFZYkNWTW5qWTVKVGQtbVVvekhjbW1hWi1sbXJoa2N1UlVHR29oOFZDdHhHb0J1VXRDUFk?oc=5",
+        "source": "news.cnyes.com",
+        "published_hkt": "09/25 00:01",
         "related": [
-          "BTC"
+          "ETH"
         ]
       },
       {
-        "title": "加密貨幣價格預測：比特幣、瑞波幣和加密貨幣——歐洲收盤綜述 9月24日",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxON2hsVWE3ckdlVmdvWU1oZjlkY01TS2NvTUYxc2xOWmo3ZWlXQjVLR2pYcG5WX2EzWEU2aEpYMDB2ZEFtREFxaU11TkJFZVRjWWFmN3VoTDJlNlhTeU0yMnYyLThlY3o2ZUZHR1AyMmxXNFdza3NUYmNrVHNhTVlWcXZxVEJEQXViS0ZqY1lUNTBjT2ltMGNSd2oxbE1YZ2EwSjRlRWZmeGRNLWlPUVR5dmVQcWg3dmZaQ3RfYTNpTWF2TnJrMUZSTjRRM2FqU3VDQUhrMVhGTnNzLWRWX0VGNUZzMDREUDVndGowTGdqczE5UWvSAfMBQVVfeXFMTjdobFVhN3JHZVZnb1lNaGY5ZGNNU0tjb01GMXNsTlpqN2VpV0I1S0dqWHBuVl9hM1hFNmhKWDAwdmRBbURBcWlNdU5CRWVUY1lhZjd1aEwyZTZYU3lNMjJ2Mi04ZWN6NmVGR0dQMjJsVzRXc2tzVGJja1RzYU1ZVnF2cVRCREF1YktGamNZVDUwY09pbTBjUndqMWxNWGdhMEo0ZUVmZnhkTS1pT1FUeXZlUHFoN3ZmWkN0X2EzaU1hdk5yazFGUk40UTNhalN1Q0FIazFYRk5zcy1kVl9FRjVGczA0RFA1Z3RqMExnanMxOVFr?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "09/24 20:13",
+        "title": "Citrea 收購 Crest 為比特幣導入類 Zcash 等級隱私保護",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQaThobUw5cXdqbEV3aGdhWW1HMFdEdGd3YkZybEZkVDQ1ZlBMUE1qTW1UcWEzb1Bvakh3UDFtWW05TGgyV3pjX1FfdE5kTHlhcDlJcjkyLXNLXzhtYjBxdFY4ZnBSWHVPOWtJQlF5dEVUV2kxeFduVnVreTRWOU42Y2Z5czdGOXFHd04ycTZMbkZBWVhVRlQwVzRxQVJ3R21ELTFjdi1nTkw2WGdMVVdtTlpNRzQxSk1xV2hLX0V1b0FucHpaa0Etemx0dF82b1Y3V2M4RkpWbmZveWhPQkxIdnAwQktjWmxFMGRMZUluUmFLeTl0cnFLNE9WRk5QckNLTDcwX0t1MjRtbEZBb3M0NGNsMmZmNXF3Sm5WakR3MS1FZw?oc=5",
+        "source": "yellow.com",
+        "published_hkt": "09/24 23:52",
         "related": [
           "BTC"
         ]

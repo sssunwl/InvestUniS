@@ -91,13 +91,22 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-24 20:23 HKT",
+      "updated_at": "2026-09-24 21:39 HKT",
       "news": [
         {
-          "title": "恒指偏軟 科技股普遍向下",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPclpSdXpYMUhnTnFlUEc2WVMwT29QU0NfbmNFTFd6WVVLVUc3aTJhY3JQX1ZuZUhQSThXRnRLWDU5ZmNKTGJFV2JJRTE5Wk9zM21hN2RVTW1OZTdoeTJOODh3Ulo1bFZVd1ZqemVBNjRKYl9JWGxoTUZiNVQ4aVVuMDhCMmZCUQ?oc=5",
+          "title": "恒指偏軟 科技股普遍向下 石油股逆市做好",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT2lEZmpyRDJTVTM2QnFGNXkzbWVwNE1kYl9iZTBHTVpBY0pSUmU1WWxrQ0k0bDFYVmhoSElCS3h1UEJFc0V0TjU5WU84MnFILUdfajhVUkRSVDA0U05IbE14S1hXLTJxcnlZVFN1TnNaZF9GMDlWT283c1QyZHpYODg5dUpsaDVGVVRJX2xJQQ?oc=5",
           "source": "on.cc東網",
-          "published_hkt": "09/24 17:30",
+          "published_hkt": "09/24 17:31",
+          "related": [
+            "^HSI"
+          ]
+        },
+        {
+          "title": "恒指走勢丨兩連跌再跌72點 成交不足1600億",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZa3pKS25aVVVTcVRuNXdqUGV4d2RzMGJMY3ljWE9LYjBLTFlYUk1ydkZ1akhpeEl4TEctaEVWM25sWXdsR3ppb3hkYUhLcEZDc1lDZDZOZ2djRnFTQVpnag?oc=5",
+          "source": "信報網站",
+          "published_hkt": "09/24 17:20",
           "related": [
             "^HSI"
           ]
@@ -105,17 +114,8 @@
         {
           "title": "【港股收市】觀望「習特會」恒指跌72點 藥股、有色金屬股捱沽",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fd3EyRDhsM19kUnNQd21TY1NTdk8yaVBCRFBUZG9MNTF1TzRYT3pwbGNQbE1yY1Q0WEJRdXoweWQwckVmaUtGX0F1M1o0WkZOOVota296cWNCZmJVUzF1M05fUm4wc3F0cENSYkF6cHg?oc=5",
-          "source": "news.now.com",
+          "source": "Now 新聞",
           "published_hkt": "09/24 17:00",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "〈港股盤後〉恒指震盪微跌0.29% 「三桶油」逆勢造好 成交量持續萎縮",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5COG10WlB2WUhhX0hLNG5iMmM2VWlDVEhkQUNtekNEUHN5QnY1OW5XMXQwYWpQLWRPSGVLTDl5SmlOd2pDN19vaV9JeDRITEE?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "09/24 16:41",
           "related": [
             "^HSI"
           ]
@@ -153,8 +153,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-24 20:23 HKT",
+      "updated_at": "2026-09-24 21:39 HKT",
       "news": [
+        {
+          "title": "TWA00 加權指數- 外界關切川習二會對台軍售影響卓揆：政府全力因應- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wRkRVWVdRSGlZSDg0OUFCaFNXOUlPMzdoTEJEdjJ2a3ZnX1g1LUc4ZEZER09qRGNtZzM5aHp1dDNZOTdQVHUxc1BrWE9nd1VFNWw3SnZMQ2U?oc=5",
+          "source": "CMoney",
+          "published_hkt": "09/24 20:42",
+          "related": [
+            "^TWII"
+          ]
+        },
         {
           "title": "TWA00 加權指數- 盤後紀錄及早盤當沖選股補充！9/24 - 股市爆料同學會",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3blNwSWZFOXdxWjhSZzVMTm5lNVI0TDhwQThQUHJ3YmNRY2t2UjdEZkpIQnR2NnR3bjNGSEF5eXRnOWYwTTFFaC14aVltTHVFZXlwd3JOZUw?oc=5",
@@ -169,15 +178,6 @@
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zc09yUVNHSHFZN3pQcE5OUmZid202cG5aanIzaXk4OG5FV0RtYXZFajZUMG5TSmRpS2xnUDZYY2dUVi1GVk16aEVaX01JUHplSnh2Tzk2Q2g?oc=5",
           "source": "CMoney",
           "published_hkt": "09/24 19:09",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數- 游庭皓直播2026/9/24(四) - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43TFFJRWtGT0Jhdlo1aVJwRi1sVnFXNm5uMDJjQ3l0MVpTZXFmSXE3Um9FTzNNcnB3SHcxbk1NV1ZScnFUTVg5Z2J5NEMtdXh1dU81cm5jbUo?oc=5",
-          "source": "CMoney",
-          "published_hkt": "09/24 18:30",
           "related": [
             "^TWII"
           ]
@@ -215,13 +215,13 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-24 20:23 HKT",
+      "updated_at": "2026-09-24 21:39 HKT",
       "news": [
         {
           "title": "《日股》AI與半導體撐盤 日經收漲0.76%",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMm9jcU9RMUZlbWhDN05Ic0hCYUFZWWp0YmdmM1JneWltQldNWUFPVVFRelgydnlnWEdVck5zX05vb1N2V0xXVHpBbEtWaDBoMVg5eUJUeXRUQVZHMnZtVUgzWGhLdEZ4Zm14Ynh3RHIwd2NWY0RrQVFMSG1fYWlqMkxPbUFSU1FCdGZmeW01OG1EQQ?oc=5",
           "source": "台視全球資訊網",
-          "published_hkt": "09/24 18:18",
+          "published_hkt": "09/24 18:20",
           "related": [
             "^N225"
           ]
@@ -234,18 +234,25 @@
           "related": []
         },
         {
-          "title": "川習會將登場引發市場緊張　亞股多收跌",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBndmNqSGlmd1drTTZodnVLSHByb0xDZHM3NzJhYTZZNVpDRTJWZHZjSmN0amgyZGV4RHRMQ0tpWFByQU0ydTAydnd0Qm5fcjI4czFqUFNfSk9TclRjOTJ3b0tiR3V3dklCc0syc3djRlRYdnk5NTNmem1xONIBX0FVX3lxTE9lUllNeFlEYkExNU0yaURuRzdidkFpbVY4eGp3cElDWENHQ1VEdUhwR3l0T2FMNGpvV1l0VHQ3LVBPTUVTRThFR2hGakctamhyeUF2LTR5UnJMYnRLN2Vz?oc=5",
-          "source": "經濟日報",
-          "published_hkt": "09/24 17:21",
+          "title": "日本股市在全球債券拋售中走高；油價下跌。",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc2ljZ3pQUm96SGtDYmFnVUFOUjFXTHFPZkd3YkhGTmY2LUNUYnlnd3l1Rl9aVGx3dU45U3RQNGRHMWxLa3IxbDZES25BMTlKRVRhbXNPZFk2bFd3RU5jamZQZ2dDRE9oLVZONVo2cU8zWWVUaGx1WF9CT29wNk5pQ3FnX3dKeEVOYzl3V09fMmNwZHBCYlJ0NEpGNnJZVTRW?oc=5",
+          "source": "富途牛牛",
+          "published_hkt": "09/24 16:14",
           "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-09-24 20:23 HKT",
+    "updated_at": "2026-09-24 21:39 HKT",
     "news": [
+      {
+        "title": "ARK Invest與Securitize合作，將旗下ARK Venture Fund進行代幣化上鏈",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yYjIyMG1KMHA0RUY4Q0dqLUJSU3RtS0RaR1VuTGlyT2RETW05NW1YTXhJcWRvV2dDMWcwUEtBcXlQTDNxenFOYjFiS2JyckU?oc=5",
+        "source": "news.cnyes.com",
+        "published_hkt": "09/24 21:30",
+        "related": []
+      },
       {
         "title": "百美元油價再掀收益率風暴!美債收益率與美元雙雙走強，比特幣八個月新高後迎重大壓力測試作者智通財經",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SYXVxSlFkYWtjOVFSeE8ySkoxZ1NseVVOZVNUN1hBX3pWbGs3SVZQTjNnVjNsdGNOVzduN2NnMEk3SVF2aEdMZUVvTVBtRF9uZTQ3ZktwR0VoZTBLUHBmbG1zbXFGNGZCM2dLUnR0TkM?oc=5",
@@ -256,20 +263,13 @@
         ]
       },
       {
-        "title": "主要加密貨幣行情，比特幣跌1.03%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeEppUDRROWV1NWF5OGtjeTE4dXJDWFVTYU1xZktuYlNhN1ZzZGIwWTBVSkY2WVktTFR2VHNTUzl3azNBYjNQUW4yRFJFb0pJd3YwelRTNlhoQ3o4NGpTb19LNjV1UmhneUxPR0twVXJlRk5rS1Y5QXotZW9TcGZCUXpKZW15THNKdjdaaVFpNWZORUtiX1FXN1hIcDZoaGRE?oc=5",
-        "source": "etnet.com.hk",
-        "published_hkt": "09/24 19:31",
+        "title": "加密貨幣價格預測：比特幣、瑞波幣和加密貨幣——歐洲收盤綜述 9月24日",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxON2hsVWE3ckdlVmdvWU1oZjlkY01TS2NvTUYxc2xOWmo3ZWlXQjVLR2pYcG5WX2EzWEU2aEpYMDB2ZEFtREFxaU11TkJFZVRjWWFmN3VoTDJlNlhTeU0yMnYyLThlY3o2ZUZHR1AyMmxXNFdza3NUYmNrVHNhTVlWcXZxVEJEQXViS0ZqY1lUNTBjT2ltMGNSd2oxbE1YZ2EwSjRlRWZmeGRNLWlPUVR5dmVQcWg3dmZaQ3RfYTNpTWF2TnJrMUZSTjRRM2FqU3VDQUhrMVhGTnNzLWRWX0VGNUZzMDREUDVndGowTGdqczE5UWvSAfMBQVVfeXFMTjdobFVhN3JHZVZnb1lNaGY5ZGNNU0tjb01GMXNsTlpqN2VpV0I1S0dqWHBuVl9hM1hFNmhKWDAwdmRBbURBcWlNdU5CRWVUY1lhZjd1aEwyZTZYU3lNMjJ2Mi04ZWN6NmVGR0dQMjJsVzRXc2tzVGJja1RzYU1ZVnF2cVRCREF1YktGamNZVDUwY09pbTBjUndqMWxNWGdhMEo0ZUVmZnhkTS1pT1FUeXZlUHFoN3ZmWkN0X2EzaU1hdk5yazFGUk40UTNhalN1Q0FIazFYRk5zcy1kVl9FRjVGczA0RFA1Z3RqMExnanMxOVFr?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "09/24 20:13",
         "related": [
           "BTC"
         ]
-      },
-      {
-        "title": "Podrez vs Pohankova",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWjR6dHRSdk1pMGw2QUhERWF1X0hDY3ZPQVkyeHNFd2hPOTMwTlQ2TzVLYkdlUFJJeVdUNWFfMDhiS3hXeEwxZEM4eE05S204T1h3RXFkbXFxb3hXaDZ5WkZadWlMX1hEZGptVWJ2YWswaTFGOFk5Q3lrM3dnQ1gtcUhON0hHbFN1MHdF?oc=5",
-        "source": "Coinbase",
-        "published_hkt": "09/24 19:21",
-        "related": []
       }
     ]
   }

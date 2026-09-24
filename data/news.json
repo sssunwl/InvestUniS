@@ -245,13 +245,20 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-24 13:13 HKT",
+    "updated_at": "2026-09-24 13:45 HKT",
     "news": [
+      {
+        "title": "逾300億美元未平倉部位推波助瀾 以太幣劍指3,000美元關卡",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNUjB4dFdVbDE3d0pGRWNaLXFQSWgwVzZyTThTRjJWVXpSZm5BRFhfSFR1bVhzcWtKNGtBdEk1VERZeHVmQjNpZnlIN015MHNUdlNuX2daUEVLZFZTNnVIdnFad0k3czZmWVFFaWUzMlpodnRtbGMwdWlQYUxPdkxZdnVQSG43cE1PdmVKdUNpWS1YeE9MMi1kLTZlN1gwS2c1emZUN0x0OERTWEJsVTBDVW9Uc01yX0N6RmttOE1uZ3dTeUJlaHRDVEhYalRQQzhoWVBiNmFTd0Z6aG1kRXlndDJ0NTI0YW5vVXZEdFFWRTZNTEZaZk1mWEhqXzh2cGRnZmloVDBXc1hWZTBXd0RkVTk5NVZXM2VoaFVja1pWb3laSzg2RzAxdmp4UFEwUWhDSjVub2RnZzZ1TnQ0LXpYRVFBSDRfQXRfVndrdnRFTjNaZEJDYWhr?oc=5",
+        "source": "Yellow.com",
+        "published_hkt": "09/24 13:12",
+        "related": []
+      },
       {
         "title": "主要加密貨幣行情，比特幣跌0.08%",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ1VrVjVfT25iMUN1UnY4SlNLN3FQQWstSldSVmdwOWRWR0Zqa1htYnU0dW90dkItTmdVTWNoamlNTnR2WTg3cHd0U09qdU5pcHNLOG81UWZsREwwUHo4NzB1QnhNTGF2ajl1Ym9QVU4yMW1JSEUzaXZBUjJDZkxUQjNYQlF2THBIVTgxT3JyMmVOeHN1M1U4OHBPcE9uY2lE?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "09/24 12:02",
+        "source": "etnet.com.hk",
+        "published_hkt": "09/24 11:40",
         "related": [
           "BTC"
         ]
@@ -264,13 +271,6 @@
         "related": [
           "BTC"
         ]
-      },
-      {
-        "title": "美國經濟數據強勁推升升息預期 股市與加密幣承壓齊跌",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YNWlVdUJ5U2Z6cFhFUmpjbGQ0UkVCYlFuaFExdHcyZW1CY3E2Y1VONDR1NlQxMUhiMzhMTndZaDdRZUNmbEp3eWpQY1AtdEEzd3c?oc=5",
-        "source": "蕃新聞",
-        "published_hkt": "09/24 07:00",
-        "related": []
       }
     ]
   }

@@ -242,33 +242,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-25 21:59 HKT",
+    "updated_at": "2026-09-26 01:50 HKT",
     "news": [
       {
-        "title": "觀點：比特幣持有者正在獲利了結，但規模遠低於歷史頂部",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IeVVGV2FucFRxc2ItMmloS2dWMjg0U3JiQVVWcVM4NmxpRVlhRTQxMmdVUVhlWlZ0em4yZmFTeGZ0NUVSZ0R1dmVQYXc1WGc?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "09/25 20:00",
+        "title": "比特幣/黃金展望：BTC跌破84K支撐位，黃金/美元仍承壓",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTlMwZGJpVi16REt6ZHl6MjBGSU5YUWhyandaT1Nnd0ZvWVNpS3hYczlvZjRzOW1zSVRGejBZQWFNaGZYTW00Z0FXZzBUaTQ2eG9jYm1wZVYtLWZ6cHVTZ3A5MDc0NzhVdno1Y0U0SWVyQjRJblJhTFhrRnY0NGFhVDVZbVplM1N6aFVqZ1dfOERPMXZ5b19KRE8tM1FNaTJYbmkyV2IxQzJFcERkLWtjMEJLTS1zQ3RMRFZyN2puZHNIQUZZeEwtZ3cwM3lmclV5aGRrOG1SZ2xPaUpzWFN6RNIB5gFBVV95cUxQLURWQzIwZmhWOEFsUGJyN2NnR0M3cG5oOUY5WmVBZlVsbzFEWTMxc1NVZkh3WmItLUlpUHlsYVh0bThhdXhPb0ZCWFlVWjdxYnBocFktaEhvNVQ4QXozWnZhLW9JcFhoQnhkR012b2FwTDFhYWwwMFNaRG9EenR1QTRzbzhYeDZPaFJfc1BKVTRndG5NVk15OTVFRldEMjlCYXc0WFJMX1hIRXhqb09jZlZLQW91ckw1SlNXTTVjeHZoUXVDZ1pvM0Fjc0llYXZabTJqTHFmb0Y5Y3hBNV9YM3lvXzEtQQ?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "09/25 23:58",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "Hijikata vs Rublev | 預測市場",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BZHN3S1lhc2U0eE1DSVdrLXRYRnhtTEVDS29xZDdRR216bFQzakw3emVFUkpmaXVma1Z1dmZQR1BOOHFNWjhFRjVmUlQ3bVdDeGkyZ3lEMnozN0FiTHNUOXF3V2NkQ3N4VEh5ZmNJbDI0UzdOWmhLTDNqcWN5dw?oc=5",
+        "title": "Branger vs Donnet | 預測市場",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HVHBLMVU5S3VaemJZRzRyY2p1Qkg5WG1QS2VaNUhfN1VHbWEwYWhmYldZQ09hMDZjWmhuWUM1bFE3T0pySzd3YUhqT3pwSWJabG4tUmpZQkNLdHUxd095cXVLOHMtNFdXOXVWOXVLMUx4ZFYtQWNrYWdWX2stQQ?oc=5",
         "source": "Coinbase",
-        "published_hkt": "09/25 19:29",
+        "published_hkt": "09/25 22:15",
         "related": []
       },
       {
-        "title": "今日加密貨幣：比特幣、以太坊下滑，XRP延續反彈",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRTBOeEtQbFo0ZUVsaks5M3E4TnIwNGFZVnl5WDkwd09FbDdsa09Eek1DWmpLeFc3LVRYM3ZlUTVpU3plbUItNG5CeHdRTHJycEp0bGtadDRxZTJLQi1vV0hwTGNtbndWTnZzVHA1dnpCbHd6alN1OC1WdFFwZlNQVFRVS0xxSFRVR0R3WnpiOU1HTGpUc0RENl94dU5RSE95bDM3M21HYnhwSGlNdFJEa0txWndsY2g3bW1RbmlZQWI5bHhvYkFkOFBzM2JsNUZybkYtNWpPNDBaVG02dU02UVdObVUtTXFjVGxvaDdkVjY0YkXSAfgBQVVfeXFMTlVfaXFMMGlvUlFPV1g3TW1Ld1BNNlpsUXU2Wm1NbG9OUjg3U3VDUnZEUUgxSFRyRGVCSC04azFhVW1KdktKWnZPSU1nVjZ5dGx0SVJMakFUa21JRllnc09xXzVMeVQyS3NwZDczRERvdkZjYlFQWHhoTlFSMWJZbXBjR1N3WVhsXzlBR0tvWk1hLXpncjVmYU45MTlsa3Z0TEt2blNMOHE2UFVwMW1mQ09NUUIwMGVZdmN3Y0k1bmh0bUJkTzBzUnB4NEdCLW9sMGZRYUs3Y3BORk1jdHhOS3hZeUdRaWp3R052c2EzODJpdjZ0V01aM00?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "09/25 18:57",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
+        "title": "Bitwise申請註冊NEAR ETF，擬在NYSE Arca上市",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qUGVTbkQ5T3E0cTNXcVRtYUVuaVZ2Z1ljcVN6MDNvSG5fSUZtdTRGaEtpZWxUeTUxVkstT3BnMndtVWxmUlpkNExISXRfX00?oc=5",
+        "source": "news.cnyes.com",
+        "published_hkt": "09/25 21:30",
+        "related": []
       }
     ]
   }

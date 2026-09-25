@@ -246,8 +246,17 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-25 13:15 HKT",
+    "updated_at": "2026-09-25 13:42 HKT",
     "news": [
+      {
+        "title": "主要加密貨幣行情，比特幣升0.21% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR2hpdlUzWG9pOEFEcUJkaHJNQWh1T3Q3ODU0MGZYLTRIREo5X0NUTTkybUdJRVZ2SkJtMEM0MmtEWVlVMjZlajZTNlFvUDdiZkhYUU9Xajh1b3JteURaQVVNRmpyWDhKbGtpTkNtbHBEdDRQM1F1cXZkVXRvNi1PcVJibDZJSm9TdG1Ub2tNdTY0UU52VzRkMFdJQ2hqRkVs?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "09/25 12:53",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "Where will it rain on Sep 24, 2026?",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03WXlaT0s4ZU9HWlh1WFJiTUFUNTZXZHp1TGxFeVh5ZjJnd3VRb3d4QmNLOWo0YUNnN3h0LVA3VjE4aGZLRHZQYmN3dC1jeXNPTXlMVEU3al9KdmdrOHEzTWdGRWlFUDdUbjlrdi1JVjQ?oc=5",
@@ -264,13 +273,6 @@
           "BTC",
           "ETH"
         ]
-      },
-      {
-        "title": "Bitget遭遇3.51億美元安全事件：熱錢包被入侵 加密交易所安全風險再受關注",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xQU1lUHpqa1I3eDktU1ZYb20xOGVpWVNvRk9CNE1XQ0pvLTI0RDExSTY2X25EZGhnXzhrRUUzY21qUDRvMkhRSDdNQjlIaDg?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "09/25 12:00",
-        "related": []
       }
     ]
   }

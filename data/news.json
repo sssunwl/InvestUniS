@@ -246,29 +246,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-25 09:38 HKT",
+    "updated_at": "2026-09-25 13:15 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣升0.21%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR2hpdlUzWG9pOEFEcUJkaHJNQWh1T3Q3ODU0MGZYLTRIREo5X0NUTTkybUdJRVZ2SkJtMEM0MmtEWVlVMjZlajZTNlFvUDdiZkhYUU9Xajh1b3JteURaQVVNRmpyWDhKbGtpTkNtbHBEdDRQM1F1cXZkVXRvNi1PcVJibDZJSm9TdG1Ub2tNdTY0UU52VzRkMFdJQ2hqRkVs?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "09/25 09:01",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "Bitget CEO：此次平台遭攻擊並非因密鑰洩露，提幣恢復暫無準確時間",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PWkJ2MnNfbmwzZkpJdlFLWVBoNVB1SVcxUGI1OXBBZXlMLVBBVks3VUtsU3NXQ2MzV092NFVQbEcyRFRFVXU2blc3dVNGQjA?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "09/25 09:00",
+        "title": "Where will it rain on Sep 24, 2026?",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03WXlaT0s4ZU9HWlh1WFJiTUFUNTZXZHp1TGxFeVh5ZjJnd3VRb3d4QmNLOWo0YUNnN3h0LVA3VjE4aGZLRHZQYmN3dC1jeXNPTXlMVEU3al9KdmdrOHEzTWdGRWlFUDdUbjlrdi1JVjQ?oc=5",
+        "source": "Coinbase",
+        "published_hkt": "09/25 12:34",
         "related": []
       },
       {
-        "title": "慢霧：Bitget駭客地址共計持有價值約1.57億美元XRP",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GNnJPNHFYZG1ta3FESVA4bWpEZmJSRzZxNzZxakpqVU45OEcxNENsYzFEVDk5c2l4bGliSjQxdmxmcFMxY2Jid0t1ckZRTFk?oc=5",
+        "title": "昨日美國比特幣現貨ETF淨流入1.907億美元，以太坊現貨ETF淨流入6610萬美元",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91QXVVdnBvYWZmSzJHdDRLR0VzLXppNmsybTdwRXo4WWFqQVd2cUlRSUd3SFdycUkwTkd5RlN2WGRBcEdwM2RIdldHUHdnOVE?oc=5",
         "source": "news.cnyes.com",
-        "published_hkt": "09/25 09:00",
+        "published_hkt": "09/25 12:00",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
+      {
+        "title": "Bitget遭遇3.51億美元安全事件：熱錢包被入侵 加密交易所安全風險再受關注",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xQU1lUHpqa1I3eDktU1ZYb20xOGVpWVNvRk9CNE1XQ0pvLTI0RDExSTY2X25EZGhnXzhrRUUzY21qUDRvMkhRSDdNQjlIaDg?oc=5",
+        "source": "news.cnyes.com",
+        "published_hkt": "09/25 12:00",
         "related": []
       }
     ]

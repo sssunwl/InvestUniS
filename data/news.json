@@ -29,27 +29,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-24 09:29 HKT",
+      "updated_at": "2026-09-25 09:38 HKT",
       "news": [
         {
-          "title": "中秋連假前爆變數！美股重挫、川習會強碰 台股迎大考驗",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4T0swZVRTcGc1akZaR0gxWV9aR1hqTXBRX1IzcTV2RzFTd3h0Zm9OU3R3REt5YjBYTXB6bUVWUW5IcTBpTUZsM0xDUQ?oc=5",
-          "source": "三立新聞",
-          "published_hkt": "09/24 08:07",
+          "title": "美股普跌Palantir波動劇烈 AI概念股考驗市場情緒",
+          "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOeVpLa2JNT253eWZMNzdySEJUYmRvbkpIWm5iM0pQY3BOLU5nQy1ZMGtMWm9YTWdxbHlUZlhuZkVlRzVCRVgzNVhVb3pQTGVlbGVwamNtb3FGbUJ5SGZITVdOem9sMnVsaWZCbERvenFqNDBwdXkzaDFldjZlZVQ4S0JNdjBxVnpyalp3dzV5aUxIYUg0Q3A4ZW9EZl9CR3pEN3lxRTl4dzFQU1RSSTFWVWsxRm5LOUZ1QldDdkFCSmFmbGtaVDVjeGRUcEZwN0pRUXZyVXZabTZfa3hvR0pTSk92aHNTZHV3WG1yTGtROUotVlVyN2tPSUtReXRlaUc5WmkydUFTcXRyUnBaXzRrNFhzXzllQVJxQXRQa2R1ZGJyNzhBMmRIcV9zU0JsY3Rid3Ezdmt3?oc=5",
+          "source": "tw.stock.yahoo.com",
+          "published_hkt": "09/25 09:30",
+          "related": [
+            "PLTR"
+          ]
+        },
+        {
+          "title": "美股重點新聞摘要2026年9月25日",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40R3FJOG1NTkF6M3pPQXdFdHJiSUtNc0x6M2ltSnJxbmNqS2NKbElNSjVBdXRTLTdBSVk5ZUUxdVhFc0U2d05sX05HZk8xbDA?oc=5",
+          "source": "news.cnyes.com",
+          "published_hkt": "09/25 08:30",
           "related": []
         },
         {
-          "title": "油價、美債殖利率齊揚 美股三大指數收黑、科技股承壓",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBteU5nZUFCUVo0c3ROaHl2bTRFZ3lzeWp2bWxuVUpCNXY1bTBjclJwOHRCZ0llQ2stSlRNNmxvTGUyN0VqS04xaVVSa1dvNnc?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "09/24 08:03",
-          "related": []
-        },
-        {
-          "title": "美股重點新聞摘要2026年9月24日",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrRUlhSW91MDlNbkJiYUJNbUI1c0JCU3NSR0NFY0dPc2U4WE45Wk1XalBwNUhDdVBSZzAteXJTbXh2UmNVaXhkb3VydmRJdFE?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "09/24 08:02",
+          "title": "UBS考慮與外資銀行合併，或將脫離瑞士市場！",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSi13TlQ3MkZTSUg3SGs0eGt2TTNkbXJxaXU0U0c2Q3ZQZzJSTWtnQ1NKdDZMQWJ5S0tnekQ4dFM4OU12RG1XZU1nMnRCak1acGdfcm1qSU1jaFlMZGRSZ0ZfUlRPdXdLenNUY2xqb0VwNDNLYlI2RDg5MUVyQ1liMGpEU2trV1hEVXFVQlA1Q3J6dmZH?oc=5",
+          "source": "forecastock.tw",
+          "published_hkt": "09/25 08:19",
           "related": []
         }
       ]
@@ -244,32 +246,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-25 01:47 HKT",
+    "updated_at": "2026-09-25 09:38 HKT",
     "news": [
       {
-        "title": "Multicoin：RWA上鏈將開啟DeFi 2.0時代，訂單簿與詢價將取代AMM主導",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jVDRfYTRPblBBV2czanVGd0JleHpBT0hUQ2puU1dwWk9HRERhV3BmeUxQSFFYclJGQlpVOUxPYW91WU82QmZ6VVUxRDhlM3c?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "09/25 01:02",
-        "related": []
-      },
-      {
-        "title": "Payy Network官方確認被盜，以太坊上跨鏈合約遭攻擊",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41NTFqNFlZelczbUZNa1BTYnBLZUFZYkNWTW5qWTVKVGQtbVVvekhjbW1hWi1sbXJoa2N1UlVHR29oOFZDdHhHb0J1VXRDUFk?oc=5",
-        "source": "news.cnyes.com",
-        "published_hkt": "09/25 00:01",
-        "related": [
-          "ETH"
-        ]
-      },
-      {
-        "title": "Citrea 收購 Crest 為比特幣導入類 Zcash 等級隱私保護",
-        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQaThobUw5cXdqbEV3aGdhWW1HMFdEdGd3YkZybEZkVDQ1ZlBMUE1qTW1UcWEzb1Bvakh3UDFtWW05TGgyV3pjX1FfdE5kTHlhcDlJcjkyLXNLXzhtYjBxdFY4ZnBSWHVPOWtJQlF5dEVUV2kxeFduVnVreTRWOU42Y2Z5czdGOXFHd04ycTZMbkZBWVhVRlQwVzRxQVJ3R21ELTFjdi1nTkw2WGdMVVdtTlpNRzQxSk1xV2hLX0V1b0FucHpaa0Etemx0dF82b1Y3V2M4RkpWbmZveWhPQkxIdnAwQktjWmxFMGRMZUluUmFLeTl0cnFLNE9WRk5QckNLTDcwX0t1MjRtbEZBb3M0NGNsMmZmNXF3Sm5WakR3MS1FZw?oc=5",
-        "source": "yellow.com",
-        "published_hkt": "09/24 23:52",
+        "title": "主要加密貨幣行情，比特幣升0.21%",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR2hpdlUzWG9pOEFEcUJkaHJNQWh1T3Q3ODU0MGZYLTRIREo5X0NUTTkybUdJRVZ2SkJtMEM0MmtEWVlVMjZlajZTNlFvUDdiZkhYUU9Xajh1b3JteURaQVVNRmpyWDhKbGtpTkNtbHBEdDRQM1F1cXZkVXRvNi1PcVJibDZJSm9TdG1Ub2tNdTY0UU52VzRkMFdJQ2hqRkVs?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "09/25 09:01",
         "related": [
           "BTC"
         ]
+      },
+      {
+        "title": "Bitget CEO：此次平台遭攻擊並非因密鑰洩露，提幣恢復暫無準確時間",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PWkJ2MnNfbmwzZkpJdlFLWVBoNVB1SVcxUGI1OXBBZXlMLVBBVks3VUtsU3NXQ2MzV092NFVQbEcyRFRFVXU2blc3dVNGQjA?oc=5",
+        "source": "news.cnyes.com",
+        "published_hkt": "09/25 09:00",
+        "related": []
+      },
+      {
+        "title": "慢霧：Bitget駭客地址共計持有價值約1.57億美元XRP",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GNnJPNHFYZG1ta3FESVA4bWpEZmJSRzZxNzZxakpqVU45OEcxNENsYzFEVDk5c2l4bGliSjQxdmxmcFMxY2Jid0t1ckZRTFk?oc=5",
+        "source": "news.cnyes.com",
+        "published_hkt": "09/25 09:00",
+        "related": []
       }
     ]
   }

@@ -242,35 +242,33 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-28 09:46 HKT",
+    "updated_at": "2026-09-28 13:44 HKT",
     "news": [
       {
-        "title": "比特幣84,000平盤、以太坊走軟，恐慌指數升至74，全網爆倉1.87億鎂",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZGEwLTkxVFlYRElNV0ZVMktPbmJUaWROTlhWN1VlSEFXZ1hrRG5TeFV6Y0xTTEVRZWFqQmItV0V3YWhzSzZaLTdqQ040SmVlWlFyUVk5N1k4eHNRVlNZa0o0X01FMVV5MHZOa2RZaF9SMVVvUUxmZHBBRzBBZ0trbVdJcGNBM19aZFdzV2pESG9tS3YzT1Bj?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "09/28 09:29",
+        "title": "前3名價格預測：比特幣、以太坊、瑞波幣 – BTC稍作喘息，ETH面臨回調，XRP盤整",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNMU1NM0pEUGZGRHJWQ0RkcnRCTDVWVXRENnptS0xyMDZDc0lSUGlLSnNoRHlQOThmN3dUYi1pMGdFSndBejZHaElKZ3hOZXJ3Y2JzM0lIM3NSWF9PR3dTbFJpYlRJdFVRQlRUak9zWk5zTHNmU3dTNjRiY05haW5IQnBlYUhxMFdOYnV3WHRWdEp4SW1FeGc3SGlWekNpTndoZzhfdXVFYkVYN2lLREI5cXhYQXBYN0Y1dm00a1YwSnZwY3ZVeUN5cGhodXpZMnV4Tkxsb0R0eHdBS21jY0ZkQ1RoeDR4WnFCSVBDTWtNT3MyZGZ6Z0psVU9hWGh6WDJNMWfSAYICQVVfeXFMTTFNTTNKRFBmRkRyVkNEZHJ0Qkw1VlV0RDZ6bUtMcjA2Q3NJUlBpS0pzaER5UDk4Zjd3VGItaTBnRUp3QXo2R2hJSmd4TmVyd2NiczNJSDNzUlhfT0d3U2xSaWJUSXRVUUJUVGpPc1pOc0xzZlN3UzY0YmNOYWluSEJwZWFIcTBXTmJ1d1h0VnRKeEltRXhnN0hpVnpDaU53aGc4X3V1RWJFWDdpS0RCOXF4WEFwWDdGNXZtNGtWMEp2cGN2VXlDeXBoaHV6WTJ1eE5MbG9EdHh3QUttY2NGZENUaHg0eFpxQklQQ01rTU9zMmRmemdKbFVPYVhoelgyTTFn?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "09/28 11:41",
         "related": [
           "BTC",
           "ETH"
         ]
       },
       {
-        "title": "彭博分析師：比特幣等加密貨幣近十年表現不佳，加密貨幣的巔峰時刻已過",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNak1WalBtNC1lb1VuNWtLRGtJVmxQVVlfQlJsMkxaY0dtcGpDcV9aRm5fVk0xVXFVUVBFaWtvclhqUGhERTRFaUVfdjQ4MXZUR01zYnVXdnNlN254UlIwUjBvR2tpRkNIaEdqa1FWaGJicmoybXVhMS1vUHFLenV5eFh5RzdxQQ?oc=5",
-        "source": "PANews",
-        "published_hkt": "09/28 08:20",
+        "title": "Citrea 收購 Crest：這款自托管錢包將 Zcash 風格的隱私功能帶入比特幣",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOHY0VGdRWmtka3NpTFR4SEhuZWV3ci02OFlPMmxXc0hHWkJrdVVtOXRSaVpnQ1BvRlVvWDR4bUk0akl0LVMta3B3LTZMRFYwQ3Zpeld4cktqbVFpSTFxWWU5bEkzay1KUW1lb201RXRUUm01RS1VZklScHJ4RzFTY3UyajhtekNoQXdF?oc=5",
+        "source": "KuCoin",
+        "published_hkt": "09/28 11:38",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "週五加密市場兩樣情：Solana 狂飆，比特幣等主流幣下跌",
-        "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9VZXRZeUVlSlRpMzNCSjY4Njl0UHJxMUtZVVMybzVVeXRnc1k3eHdKTnRJOHFGR29aUnc?oc=5",
-        "source": "ENN台灣電報",
-        "published_hkt": "09/28 05:55",
-        "related": [
-          "BTC"
-        ]
+        "title": "融資週報| 穩定幣基礎設施公司HIFI完成3700萬美元A輪融資；CoinMarketCap收購加密衍生品數據平台Coinglass",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNWRBUUx3aEZJdDBjeU5aS3VqSl92Umt0OHlUSUgyM0NIZXlvbm56VjdiR0tRSHpoNnV1NGkzRUNibTZvckx6OEdRbmZrMGZnN1NmOFFkTHFXdk9BQkVZNWJ5MkZjS1VwYjI3enNWTFNwOEo1d1luOXNPWGtxSnozZjZCMWRpZw?oc=5",
+        "source": "PANews",
+        "published_hkt": "09/28 11:15",
+        "related": []
       }
     ]
   }

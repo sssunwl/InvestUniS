@@ -91,7 +91,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-28 21:27 HKT",
+      "updated_at": "2026-09-28 22:39 HKT",
       "news": [
         {
           "title": "有圖有勢｜北水回歸 HSI迎來反彈機會？（持續更新）|香港經濟日報",
@@ -104,19 +104,21 @@
         },
         {
           "title": "港股收評：恒指升0.54%，光通信板塊下挫，內房股走高",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1QZWctRUJ1UlpVNzdTSzV1UWJ6bXZpTklRWG9VNnZsR3JjSVJUOTlQVC1vVURzM2lHcGk4emVxUldnYzI0d1M0?oc=5",
-          "source": "sl886.com",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfZDZ6SC1Pdk1taEdBSFVfMGdsRndRU1J6bFBnVVNqRGx6SHhwQVc1NDRwT21KaTJraS1HMGp1aUxxQTVoc0VJSF9pdmtYV1o3MUhqOHpKZEJhZmxqNUhXWno0SEtjM2VsVjFvanhUUW1CcHpYOU1R?oc=5",
+          "source": "SL886 財經網",
           "published_hkt": "09/28 19:29",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "港股反彈乏力 A股國慶前逃生|香港經濟日報",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSEQ3cWxBYTJFYU8ybmtZRUVDUjY1a1c0MG16clM3cmk0aDR4dTFmQjRSa1RzajRQeHozY2lVWmJnNTN1bzN6VTd6Y1YzNEFFeDFOcmI3c05fVm05M0FUdHZZLVVRWXdIa0tRaDBFRS1rcUhzTWM0NzJDOTk2WEdqcWV1Yjk5Rm41TTJkZmdkWnRxSk1hdU52azNiWnY5WWN0aDBxQ2dFNFBSYXhtY2JRaERyVVpLM3VwclFwMmtTQ3VMVXBydVFnQTZHLXY1TWVPVlM4TGk1WUN5QnVicW9EYktsNFprU1U?oc=5",
+          "title": "【港股收市】恒指升132點 網易升近5%、中石油升3% 聯想跌逾4%、中芯跌逾3%（不斷更新）",
+          "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxQM2lrSTY0cEZ4NzAxejBtV0VEb2xjckZVci1weHNXRTJ1eUdyZ2xLdHlkcUdrNzFCU2M4dTBFcHl6bklGUk5UN2UxbTZkOGhsQURkYmhqbHAwVVpCeHdmbFNPQUZyWWN5TzdCWGxfQmdJRnhuU255aGJCOWNibVdudFJxRlpCbVlWOVZEX1F5SXhqenVxNHcwX2l1Q3dGR1pKclJHdXRrN29Nb0tScDVBTDBvaHJhY0Z6Njd6VXFkR3A4MnNTZFFPRlpyYWw4VEkwazFqd1hnNUVOQnBzR3ZYM1ZHYkFxTGNyTzhKaGZjRGZGY0JuekdwbHNQTS1adXgtSjhlbmlaeDdHY1VfYmRYWDVQcHp6cmU3VFhmUnFObEJBeTA0SkE5NmpjZ1pLaW9JWHhDVzFuVGZSZzZXVjhiMnNlcHM4UHRONHZabmlMUGQzbVJ2SjlkY0ozVTZkNGFQbG5VR0d6S0JQV05HYU9LeHZxSUJRQWxPanBYOXJQUy1EV2tsWkFtOHcwaExmZ0FwRXIxMkprUFpBQmVIbVZEQXlwY0wybU1HVUZ6LWRNZDBOMXQ2d0FzSmVhdkJ2OExTMWc1Q0FYMVRrMVdfdTRvbk9Faml0TER1c2FGQmNQZ3JOYXc0WnpQZVRFWHpkNjJHRThPTmhYdm5wc2s3ZTZHblM5RUc3QjJWbGlNSks0bw?oc=5",
           "source": "香港經濟日報HKET",
-          "published_hkt": "09/28 17:30",
-          "related": []
+          "published_hkt": "09/28 19:04",
+          "related": [
+            "^HSI"
+          ]
         }
       ]
     }
@@ -151,31 +153,32 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-28 21:27 HKT",
+      "updated_at": "2026-09-28 22:39 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數- 大家緊張兮兮-皮兄果然打入一劑強心針-小娜往上漲了！期待翻紅- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YQVAzQW11c2dQZUlTNjJITmp5NGJOZGFiT08xeXNFbUhKS2V0TGVCaFlkVzZWZXJpbzdtUjBsQ2dZOTZCWFhHYTBqejZkZVA4c0I2bXR0VVU?oc=5",
+          "title": "TWA00 加權指數- 輝達創紀錄回購，半導體供應鏈資金大輪動- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnZ25ZcU9Jckptc1lqUWQ0azA0U21hbUVOOWd6RnRxV2tHSHJ6V1lXQUxTQjFBLUZ0WE5uU2FHOExNSUl6cFNJWE5YYXNVQjFWMXNBQXdiLVI?oc=5",
           "source": "CMoney",
-          "published_hkt": "09/28 20:11",
+          "published_hkt": "09/28 22:32",
+          "related": [
+            "NVDA",
+            "^TWII"
+          ]
+        },
+        {
+          "title": "TWA00 加權指數- 逃不了- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VbWVLQWpqUDBLUllqeWwyVjFmWmcwcEtiSHBMZkJTQlNFOFNoUXF4ZFFud2pBd3BHeDMxa2dSeEFIUkJXY1RWemR4V1Jhcy1iM0tfZ3Bjd1o?oc=5",
+          "source": "CMoney",
+          "published_hkt": "09/28 21:04",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "TWA00 加權指數- 09/28本週行情走勢及獨門觀察個股。 - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yVDlNSVNXME5KT2NvUjU1eUJTUml1UTRPMkE4aU1OMXlxbGdyczM1dnRHaHJ5ZmdWUE5obE1aQ0tENW5PT3FHQWF3bG1IYmg5QXprQ0xTcjM?oc=5",
+          "title": "TWA00 加權指數- 游庭皓直播2026/9/28(一) - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nOGlHdEgtRnVIc3ZXWHBVVXU2M01ScTNCRmNXdkJBT3dzT05yMmZsdGt2YWkyTEpCdUJqLWIxZTlUQVZQRlo0WHQ2YzMxbTRiSlNoamVHS1U?oc=5",
           "source": "CMoney",
-          "published_hkt": "09/28 20:08",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數- 從120萬到2700萬，我全職養家悟出的「反人性」交易節奏- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BNWtzZGNxcmQzdFBPaXJ6UlJseHBudHhuR2pPMUhjTFB0dWpiQXVYaU5CM2UwaC1wc0xSN0t4VENEWDkyWmxaYmZZZDVfd1dRRmVSTG0xNUk?oc=5",
-          "source": "CMoney",
-          "published_hkt": "09/28 17:34",
+          "published_hkt": "09/28 18:30",
           "related": [
             "^TWII"
           ]
@@ -213,12 +216,19 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-28 21:27 HKT",
+      "updated_at": "2026-09-28 22:39 HKT",
       "news": [
+        {
+          "title": "台股中秋節後開盤皮要繃緊？ 油價、殖利率大升，美股開盤下挫| 股市理財",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44aVhPTHNhbmtYVFRYbEx2SWVXdGdjajBvakc4NzZEV2FweHA4TTR3dGozUnVfNVhWVjJuci1uelgycGdiUmJQelo2Y1hYWm1hWWJ4Q0xYN19EVGwt?oc=5",
+          "source": "taisounds.com",
+          "published_hkt": "09/28 22:02",
+          "related": []
+        },
         {
           "title": "10年美債殖利率破5.2% 亞股承壓韓股重挫2.7%",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05RzRMU3EyYlo4REp1bjBsaVBnZF9rYWVmMnZTVkZGdzdmNGV3U1ZkNDdJYVVrV3FtSDlSSVd6QkFTUlJEM01XRWFJUGdzTURMZzBsaHpkLXlDaTYz?oc=5",
-          "source": "news.ustv.com.tw",
+          "source": "非凡新聞台",
           "published_hkt": "09/28 19:26",
           "related": []
         },
@@ -228,20 +238,20 @@
           "source": "Longbridge",
           "published_hkt": "09/28 18:17",
           "related": []
-        },
-        {
-          "title": "【美股盤前】聯準會官員今日連番登場，升息預期牽動科技金融股走向？（2026.09.28）",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVTZEa0Vfb2dLbjQxUVNZel9wQkNDdG9rZWsyYkxPcHppY0syakZCYzJiRS0wY0dyanU3anZrMFV0RkNXSmFhcjhzNnZ0NXJjcTJlU1Baank3blR1bml1akdXc0M4a0pQeHFHVnkxYm12Z0t1NC1abXlsa0xrMDRQT19BekVmdW52M1Q4Nk9n?oc=5",
-          "source": "CMoney投資網誌",
-          "published_hkt": "09/28 18:03",
-          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-09-28 21:27 HKT",
+    "updated_at": "2026-09-28 22:39 HKT",
     "news": [
+      {
+        "title": "Bitmine Immersion Technologies（BMNR）以超過600 萬枚ETH 庫存、加密貨幣與現金及有價證券合計持有172 億美元",
+        "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQcmJDSnhHUnVvaHhPUXNiaEZPWTU3bWlHNVdoNFVSSlNfbUxBZVdSREl3YTdWdUw1ek8wTHZzUTF3b3M3U1J1aHdWVXNtNklGYU1ONEVxeHRzRkgtU0d0OHg0TUMzTUpsY0diOFU3VHpDUmZCZGc3TmVrVTFkRnNEVnpyUUoyOG9adG9uVUh3RFYwdTFKcW5nem5mdERaa0lLVkFCT2RoLWVBa3BCbXM2dTIzNDZVN2VXMkR4WVpkQTZPWTFMS0p5WHJsdzNoSG1QdDF2eDdXaTZ3dFQycmdjTW9sQ2Y0UFdmekU1b2FJYVBhQlNHa0xILS1fZzNlcEttY1JhSVhpeUIwTnUzV0x0X2hScW9sb2Q0cFpNbFZhcF9KLUdnQW55c1ZwaE5oejRaX2x3WHJ3VW1wSm0tUkhIdi1hbFcwOWVRZzlxeWkyT211aVdKbE9CQzA2bENid2l1UWhXdy04SHZwRVliX2pRZzFkTTh6eTNrXzJLS25MUHJ1NmpDMXliQXRnOUlSai1UWTFVejZTbHNFRTh3WndZTjA4ZGhmT3ZQRlpCQ3Nyb3ZldUkybUt4TWFGa19TU3BwSklfLUNZaGctZUptYk0zTkxJZk15VWF6MWMxVWVmZTZISjNfZWV1WDN6cnUwV2s?oc=5",
+        "source": "Yellow.com",
+        "published_hkt": "09/28 21:52",
+        "related": []
+      },
       {
         "title": "Bitmine上周增持17362枚ETH，总持仓量突破600万枚",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IZVRLNGZ4SkNPNDFqRjhLaFYwc0o4THl3aUZVMFd4bURfM1JDNFVCY3cwRG95R2xMM2NHTlhzTWhzSXpBNVFINXlpVk5hOVZyNzZrZWdDR2FNNWlZc1pXTVAwS2RBdw?oc=5",
@@ -254,15 +264,6 @@
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTDF6d0VnMjJ2WVpDbzdOY0tiU1VPUVFzYlZ1cGtrNWQ0Sk9pVUlORUV2UGhlVjVuZGlGRzFfd1d0bncwVXo2SkNKU3lnUE42c3hNZDNZT24ta05LbngyWWhmS0dMc0dGUnBid0JZUFZfdkZlWG9uWlotMGg3RHZJUUVWR01QSW50T1YtSVJYUzZSNThkVVNFaUNwMHJfRzRF?oc=5",
         "source": "etnet 經濟通",
         "published_hkt": "09/28 20:36",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "加密貨幣價格預測：比特幣、PI與加密貨幣——歐洲收盤綜述 9月28日",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOczM5VTY5VzY3eU1Wcm94ZXpKLWVYR08yWDhqSUxBU3lwaTItdE01eV9EVDl1UDlEVUdySUdxa1pBcDJEOE1zSEdGTGZTR2FCZ2NzVUN3elBTQUtOajRQWW9yc0djd0lzbnl3bkhvbEYxVEhIaDU0Y3BZRHpKbjZ3MVVxSVJuMG1hN2FpMVFreEFDbnpUaTBfcUhSU2lrTlFydU15YWhuanlnNjVkVEc2ak5jTUhLRjRYcG1OTGhmcWRVSU9ZY19JRERmb09LMm9STEZzZXVaZEh4clhEWlAxT0ladUVQQVBu0gHoAUFVX3lxTE5zMzlVNjlXNjd5TVZyb3hlekotZVhHTzJYOGpJTEFTeXBpMi10TTV5X0RUOXVQOURVR3JJR3FrWkFwMkQ4TXNIR0ZMZlNHYUJnY3NVQ3d6UFNBS05qNFBZb3JzR2N3SXNueXduSG9sRjFUSEhoNTRjcFlEekpuNncxVXFJUm4wbWE3YWkxUWt4QUNuelRpMF9xSFJTaWtOUXJ1TXlhaG5qeWc2NWRURzZqTmNNSEtGNFhwbU5MaGZxZFVJT1ljX0lERGZvT0syb1JMRnNldVpkSHhyWERaUDFPSVp1RVBBUG4?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "09/28 20:17",
         "related": [
           "BTC"
         ]

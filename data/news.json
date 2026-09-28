@@ -155,32 +155,33 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-25 21:59 HKT",
+      "updated_at": "2026-09-28 14:14 HKT",
       "news": [
         {
-          "title": "台股中秋前守住48K！國家隊鎖定「這3檔正2ETF」掃入逾萬張低接00685L達4792張、投入6143萬元",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sa21DWGR0amVpMHBRQ083UktZMTVwcm1IdjYtODl4RV94YWJ2cWpYREVzYmJNbzAxWnFqQ0FjZy1mWTVUam9fLWVycw?oc=5",
-          "source": "FTNN 新聞",
-          "published_hkt": "09/25 19:20",
+          "title": "TWA00 加權指數- Meta最新發佈的AI眼鏡,台灣供應鏈廠商. - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EdXhnLUZHdGJkNWpaNVpCWG42TElybHlaemNWa1VhVWRYYTd4TGZmWWl5Uk5ULWdYUzhLaG5IZjl6NTcwSUVJenpSc1lQejdIUG9vSEhqUlM?oc=5",
+          "source": "CMoney",
+          "published_hkt": "09/28 12:24",
+          "related": [
+            "META",
+            "^TWII"
+          ]
+        },
+        {
+          "title": "TWA00 加權指數- 叭晡崩潰- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jelptR01xWFF4NU1QYXRlSktqa3g5QWhfVERxTFFFLThzY0VwMUkwOVZFc0lXRmEyZHBhUnQyNEU0SnR2WXJLMC05VW04MGRLWDF4ek9UYXE?oc=5",
+          "source": "CMoney",
+          "published_hkt": "09/28 11:34",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
+          "title": "籌碼面受外資追捧　台股16檔必收",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUazRSb1dhUHFkMXh6ZTh4aWprQms4TndwZkY2VW43S3E2Y0hEMEJmLVdGZThDT0F5My1QT2pIUjR6U19kTF90SdIBTEFVX3lxTE9YTXg4NDhnY0FNSmdzaDExXy1PUnlvNVBlZzNBeUVPWHJDaVczZ1A3bk5nRHp4NHlCMTFydExWWURGUk0xSF9wcnpKeUI?oc=5",
+          "source": "三立新聞網SETN.com",
+          "published_hkt": "09/28 10:30",
           "related": []
-        },
-        {
-          "title": "TWA00 加權指數- 10年期美債殖利率越高，股市per越低- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GeERiandVam1Sbk01TGIwYUozZ0ZRcjVOWHJQNHRiQ0Jia2diZjVpYU9UdVpmenNYX0lfSl93bE84R2wxeDhsQm5PbS1JaFBtYmNid1gyWGk?oc=5",
-          "source": "CMoney",
-          "published_hkt": "09/25 18:21",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數 - 如果這樣會不會哭？☝️😉 - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxdkNEQXlScjVqTjEzRkJ4eU84dF9jRWlzRE12SXowZWdKVXRDQWo3aTkxTklBalBHTTVXUDRRcWFYd3ZBbmxBTWdoMTQ2cTVFM2tyOS1uakw?oc=5",
-          "source": "CMoney",
-          "published_hkt": "09/25 17:57",
-          "related": [
-            "^TWII"
-          ]
         }
       ]
     }
@@ -242,32 +243,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-28 13:44 HKT",
+    "updated_at": "2026-09-28 14:14 HKT",
     "news": [
       {
-        "title": "前3名價格預測：比特幣、以太坊、瑞波幣 – BTC稍作喘息，ETH面臨回調，XRP盤整",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNMU1NM0pEUGZGRHJWQ0RkcnRCTDVWVXRENnptS0xyMDZDc0lSUGlLSnNoRHlQOThmN3dUYi1pMGdFSndBejZHaElKZ3hOZXJ3Y2JzM0lIM3NSWF9PR3dTbFJpYlRJdFVRQlRUak9zWk5zTHNmU3dTNjRiY05haW5IQnBlYUhxMFdOYnV3WHRWdEp4SW1FeGc3SGlWekNpTndoZzhfdXVFYkVYN2lLREI5cXhYQXBYN0Y1dm00a1YwSnZwY3ZVeUN5cGhodXpZMnV4Tkxsb0R0eHdBS21jY0ZkQ1RoeDR4WnFCSVBDTWtNT3MyZGZ6Z0psVU9hWGh6WDJNMWfSAYICQVVfeXFMTTFNTTNKRFBmRkRyVkNEZHJ0Qkw1VlV0RDZ6bUtMcjA2Q3NJUlBpS0pzaER5UDk4Zjd3VGItaTBnRUp3QXo2R2hJSmd4TmVyd2NiczNJSDNzUlhfT0d3U2xSaWJUSXRVUUJUVGpPc1pOc0xzZlN3UzY0YmNOYWluSEJwZWFIcTBXTmJ1d1h0VnRKeEltRXhnN0hpVnpDaU53aGc4X3V1RWJFWDdpS0RCOXF4WEFwWDdGNXZtNGtWMEp2cGN2VXlDeXBoaHV6WTJ1eE5MbG9EdHh3QUttY2NGZENUaHg0eFpxQklQQ01rTU9zMmRmemdKbFVPYVhoelgyTTFn?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "09/28 11:41",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
+        "title": "Robinhood Chain 驚現疑似連環Rug Pull！53 個迷因幣或同一集團操盤，兩月套現逾1,840 萬美元",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12NmxWQWtMUWlCOXNaUi1VNngwdy1WaG9HcFQ5NlpaOUVrZm1xTkRsUVplQUpZNVVrb3dfdTlxZnpTejJBeHdwWkZ1blJUZVk?oc=5",
+        "source": "news.cnyes.com",
+        "published_hkt": "09/28 14:00",
+        "related": []
       },
       {
-        "title": "Citrea 收購 Crest：這款自托管錢包將 Zcash 風格的隱私功能帶入比特幣",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOHY0VGdRWmtka3NpTFR4SEhuZWV3ci02OFlPMmxXc0hHWkJrdVVtOXRSaVpnQ1BvRlVvWDR4bUk0akl0LVMta3B3LTZMRFYwQ3Zpeld4cktqbVFpSTFxWWU5bEkzay1KUW1lb201RXRUUm01RS1VZklScHJ4RzFTY3UyajhtekNoQXdF?oc=5",
-        "source": "KuCoin",
-        "published_hkt": "09/28 11:38",
+        "title": "特朗普不排除再度打擊伊朗 比特幣與納指期貨承壓回落",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zd282aVFOSzF4UmkzcDIwLTEtX3lmTGFnUTBYVm11allYdUFIT3dQRXpRd19WZmdRc3I2TEFJb0FmN3BXclhrb2NfMkpxM1JzRFp4Y2dXRDZ3RmhVdi1ydmZRcHc?oc=5",
+        "source": "tw.tradingview.com",
+        "published_hkt": "09/28 13:54",
         "related": [
+          "QQQ",
           "BTC"
         ]
       },
       {
-        "title": "融資週報| 穩定幣基礎設施公司HIFI完成3700萬美元A輪融資；CoinMarketCap收購加密衍生品數據平台Coinglass",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNWRBUUx3aEZJdDBjeU5aS3VqSl92Umt0OHlUSUgyM0NIZXlvbm56VjdiR0tRSHpoNnV1NGkzRUNibTZvckx6OEdRbmZrMGZnN1NmOFFkTHFXdk9BQkVZNWJ5MkZjS1VwYjI3enNWTFNwOEo1d1luOXNPWGtxSnozZjZCMWRpZw?oc=5",
-        "source": "PANews",
-        "published_hkt": "09/28 11:15",
+        "title": "Where will it rain on Sep 27, 2026?",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UVmVnY2JtSXd0bEtLRi0wWV83bzNYN0xYODBHbzE5QlNJMHF0NktHLUZMV3lEM0lNOTBlWVFDcTZrSzk1N3V2SkNsc3JZVGFUR21hdDhNRDdzYW9tY3VHWl9XWmxLODZ6cFNyRVFES2I?oc=5",
+        "source": "Coinbase",
+        "published_hkt": "09/28 12:24",
         "related": []
       }
     ]

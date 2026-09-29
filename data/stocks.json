@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29 15:24 HKT",
+  "updated_at": "2026-09-29 19:09 HKT",
   "us": {
     "stocks": [
       {
@@ -38,32 +38,32 @@
     "stocks": [
       {
         "symbol": "0700.HK",
-        "price": "HK$435.0",
-        "pct": "-1.09%",
+        "price": "HK$432.0",
+        "pct": "-1.77%",
         "dir": "dn"
       },
       {
         "symbol": "1024.HK",
-        "price": "HK$30.44",
-        "pct": "-0.85%",
+        "price": "HK$30.24",
+        "pct": "-1.50%",
         "dir": "dn"
       },
       {
         "symbol": "9988.HK",
-        "price": "HK$106.9",
-        "pct": "-0.74%",
+        "price": "HK$106.2",
+        "pct": "-1.39%",
         "dir": "dn"
       },
       {
         "symbol": "3690.HK",
-        "price": "HK$70.60",
-        "pct": "-1.81%",
+        "price": "HK$70.45",
+        "pct": "-2.02%",
         "dir": "dn"
       },
       {
         "symbol": "1299.HK",
-        "price": "HK$73.85",
-        "pct": "-0.27%",
+        "price": "HK$73.90",
+        "pct": "-0.20%",
         "dir": "dn"
       }
     ]

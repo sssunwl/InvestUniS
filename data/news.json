@@ -91,7 +91,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-29 20:30 HKT",
+      "updated_at": "2026-09-29 21:30 HKT",
       "news": [
         {
           "title": "【港股後市】恒指今年已見頂 恐下試24000關",
@@ -153,32 +153,34 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-29 20:30 HKT",
+      "updated_at": "2026-09-29 21:30 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數- 刻赤大橋旁油庫被炸；烏軍連炸俄邊境；維瓦爾第反攻大捷202... - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYSnViUmxKZFpHdWxpYV9VamZzanRreHJ0OWRBRWFLMzY4OUxYMElQQTh3MGRFVXBDeXBwcGJzYkV6bTY4aG9hNzlEemMzMlZydVI3aTJkYUE?oc=5",
-          "source": "cmoney.tw",
-          "published_hkt": "09/29 19:22",
+          "title": "TWA00 加權指數- 美債殖利率破5%發哥重摔7%！當估值重估遇上散戶的不甘心- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aTURrRzVhOFN4NTlTSlFvb2JXdElaMjFRcThBZDF0ZFJUWm02U1dKb2hVMHJ3cG5Bd3YxRUM1S05uTjNlRUd4VnNRV0RSdVA4TGthcW9nLTQ?oc=5",
+          "source": "CMoney",
+          "published_hkt": "09/29 19:37",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "預言台積電「不只上看5000元」！學者估台股走勢：這時破10萬點",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uZkE0NExhZFQ2UEF5alozV3pZRUJVN2paZXZ1OUpFYnhtcWt5SlFqOHhZU0hxemdid3RObTVpV0xTdXhJMnl5TGNwUEVsdHM?oc=5",
-          "source": "TVBS新聞網",
-          "published_hkt": "09/29 19:16",
+          "title": "TWA00 加權指數- 每次大盤下跌我有進場，隔天就會再續跌，沒買的話隔天就會漲……... - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rV2ROVjVleXRuWE5oUlZobkl0TXBKdms0UUdxamphMnlhcTJoREtVVC1tSGtGNXFvRUc3Mk05QzZwUnZKOUhQWFpXemctcjhMSXBoVDhUNU0?oc=5",
+          "source": "CMoney",
+          "published_hkt": "09/29 19:24",
           "related": [
-            "TSM"
+            "^TWII"
           ]
         },
         {
-          "title": "慘遭外資爆砍1.5萬張！這檔重挫5.5%",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2NjhlYVlPN0RNOUdGYzdyQ01EczY0Qk1HOWFkcG96bEpSWnFKSC1ZMnZZc3JZenJwY19BQ0R6MlNuaDlEV3VEalZZblFMRy1EMDg3SGhvMDJxN0ZKUEdhN0Zn0gFiQVVfeXFMUDY2OGVhWU83RE05R0ZjN3JDTURzNjRCTUc5YWRwb3psSlJacUpILVkydllzcll6cnBjX0FDRHoyU25oOURXdURqVlluUUxHLUQwODdIaG8wMnE3RkpQR2E3Rmc?oc=5",
-          "source": "鏡週刊Mirror Media",
-          "published_hkt": "09/29 18:04",
-          "related": []
+          "title": "TWA00 加權指數- 刻赤大橋旁油庫被炸；烏軍連炸俄邊境；維瓦爾第反攻大捷202... - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYSnViUmxKZFpHdWxpYV9VamZzanRreHJ0OWRBRWFLMzY4OUxYMElQQTh3MGRFVXBDeXBwcGJzYkV6bTY4aG9hNzlEemMzMlZydVI3aTJkYUE?oc=5",
+          "source": "CMoney",
+          "published_hkt": "09/29 19:22",
+          "related": [
+            "^TWII"
+          ]
         }
       ]
     }
@@ -213,13 +215,13 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-29 20:30 HKT",
+      "updated_at": "2026-09-29 21:30 HKT",
       "news": [
         {
           "title": "《日股》日經收跌0.6% 風險偏好降溫",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNjg4XzI4MzB2RGZPOGhDeDRVS2hoVlpyUElUSlVsQ0tKNnV1NEV0dW9zUGhHV2hSTXhmQTBhQ3AzaXJyUG1IRjBOaldkUlZQeWtOTmV2RC1RMC1iYng1Z3Jsc3pzSnBIdXgxWnNGaFl3YzlwREtoY0pLM1I5YlVNMExrVnJGczN2Z2xMRE94OWp1Zw?oc=5",
-          "source": "ttv.com.tw",
-          "published_hkt": "09/29 18:22",
+          "source": "台視全球資訊網",
+          "published_hkt": "09/29 18:20",
           "related": [
             "^N225"
           ]
@@ -242,15 +244,8 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-29 20:30 HKT",
+    "updated_at": "2026-09-29 21:30 HKT",
     "news": [
-      {
-        "title": "Bitmine Immersion Technologies（BMNR）宣佈 ETH 持倉突破600 萬枚，加密貨幣、現金及有價證券總值達172 億美元",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yZGRna1FIY2hsNXg3VkVkWTNFYWE3cVk0MzhmOWt3OFViUUZkZW9obFFyU2NGbEtSaGdfY1MzV1RaM0hxVWx4X05VVEJ4UQ?oc=5",
-        "source": "經商新聞",
-        "published_hkt": "09/29 20:09",
-        "related": []
-      },
       {
         "title": "AI 模型 Claude 預測 2028 年加密市場：以太坊、Solana 與 Apeing 潛力分析",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uVnQ3SHJlakZSV1ZqM1hNSnkxVE4ycmM2dm5FYnZCa2d3dE53Z2hHYzdYWUp0VVk4UmQ0TTRlSG9JOTFoUUd3ZUxNSThnNlNQbEE?oc=5",
@@ -261,14 +256,18 @@
         ]
       },
       {
-        "title": "為什麼比特幣、以太坊和XRP正在反彈？",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNX2VHNVByNGhOVm1BTzFOU0xXQlJTREFzZno4NUg5MjdqcVN4S1dTY3VkdzBPME9RX2Jia0Y5T3pJTE84VkdiMjJnUnZNel9TYVhDd08tM24wNVY3ZGd5ekRMc1EtYy1GdzhPMUE5TmhGZ0dTZklmR3NBaWhlM1pGckx2cGM5QWxabE5SWG9kRzZfX0FrRDdQeTJSWXREZUlaTGlEcUY2ckxvT1UwR0ZvM1FXZzAtWjFNdHBzZF9oVmhFT0M5WjBPbUVJcXVxRzVWYzZYdnJya19oWE8wUlhickFQV01xYTV3SlFCZdIB8gFBVV95cUxOS0JNS1U4Z3UzNThpWkRpclZyRXE5R2hTQTNpWTZzR28xd2tPUExnUzg5M3I3UVBlYUpldlpPV1JzR2tnc3hxalJMSXJsUkFOdXZSQzJxc2VHZi03aTA2SEtoMjJnbGN0LVFYUDlUQWMyai1pSUp3LThkVGl0NHZxNXdoZVJWU0dENFVSbmZuZ0FXZjVhRF83Qmpabnh1d3RrS0JsSzlCYjJFbkxxMFV2X2wzLXU2MkdhYWRoTTQxc2FlMjAtVl80R0RXN1ctMFl3LWpnNW1mQ2pJN2tBOHdackNGSVEzYzRuR3hHVFpxeWVVUQ?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "09/29 19:24",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
+        "title": "Bitmine Immersion Technologies（BMNR）宣佈 ETH 持倉突破 600 萬枚，加密貨幣、現金及有價證券總值達 172 億美元",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeDFTdVYwbDFvQTZESlowOG9sWXdzNzI3RHVXVkhhNnM5WHlJRGEtdUJVUEY2SDV3dC1ob1FRYzRfZDRFMzZuMDV5azRKdnB0N21yd3BIWjdkcWpjSnNRR1FoTElkUno1VXRhRHJ3eGhuQWtGTWdTMTJ2N2tIOXkwN0dFSmlkLXRxeFhr?oc=5",
+        "source": "PChome Online 新聞",
+        "published_hkt": "09/29 19:02",
+        "related": []
+      },
+      {
+        "title": "Medvedev vs Rublev | 預測市場",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zT2hZYjJXT2I2YkZaOUF0Q3dDQU04TUZ1ZXJSbXVBNFVGSDBKd0VZZGNfdmsxemdMU19fbElNVkc3Z1JISjJwT29nQTUtN1ZsNTJlb3FFVzJUaThQR1RGVVVzOEh6aFIxbUxiUklHT2tUV2hCRTBMb2tIaEVrdw?oc=5",
+        "source": "Coinbase",
+        "published_hkt": "09/29 17:43",
+        "related": []
       }
     ]
   }

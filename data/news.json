@@ -27,30 +27,30 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-09-28 09:46 HKT",
+      "updated_at": "2026-09-29 10:36 HKT",
       "news": [
         {
-          "title": "美股崩盤只差導火線？MarketWatch 專欄點名估值、債務、融資成本三大風險",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53X1VYUnBneDhZcVkwMnhsOFl4a2lKUFdVczFZU05BYzlvTExWdGFVNl9LUWh0OTZISWh0d01ISGRqNDJNc29vSVJQdHJxZkhTMU9Ma2t0QV9ua2labEgtN2owYmI2Yk5fS2F4bFgydmtEUURzR1E?oc=5",
-          "source": "鏈新聞 ABMedia",
-          "published_hkt": "09/28 09:43",
+          "title": "紀錄性股市漲勢能否延續？美股年終前聚焦四大考驗",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VQVV4WUtQTDgzQUlocE1adEx4WndkNnVFNlctbENzTWg5dkNEam1KbGlST0VSRnB6NVZFYXd1MG1memVRaktaczRmVUZUZWpQRnc?oc=5",
+          "source": "蕃新聞",
+          "published_hkt": "09/29 09:31",
           "related": []
         },
         {
-          "title": "PCE、英特爾和美光面臨5%收益率的考驗",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTGE3T0lpQ0x5bzg0ckhEOFR3STVEeDVRcHFWcFdrWGgtRFd5dE1NUWd0UXp2U1VFZzgtQzY4OWdsdnkydnU1UmlfYW50T3c5MFVDb2dTRXctTWgxQWk1ZUpaSEdjYzhZYzBkaUR2X0FGeTE0T0FTS3YwNFY4Vjk5UE5CYmhVeVkzNkV5TWlrZXBNMm1Ra0R4YXJ2eEU?oc=5",
-          "source": "Moomoo",
-          "published_hkt": "09/28 09:04",
+          "title": "摩根大通轉向看好美股經濟數據佳推升科技股表現- 財經新聞",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUFluOEdFLUVnVlJYNUxVRHdqQWYyZkE1amxWTUg0cFZaUm1xd09xZTh0eFlkal9LRmp2SUZFdExsMk1ENTRzSVFUWnVtbS00UlF6X0hrLU5xSVFXRkp6X2k5aVc3WHpNR3R2eUlXQUdDbkNWT0tnU3RXVHllVVotV281OW1CV2I4aldtbw?oc=5",
+          "source": "PChome Online 新聞",
+          "published_hkt": "09/29 09:16",
+          "related": []
+        },
+        {
+          "title": "TradingKey 每日市場簡報：因伊朗談判停滯美股下跌，輝達上漲 2%，超微走低，波音重挫 7%",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOUdsVTVIbkpvTktibG5PSS1iOGVZaTRMV09Hc2ZmWGhPbXN1VTZTczNWd0pka0RvTW1ldFhWWFVFVUZCeE5IV3prTGRtNlJtbHZYYTdaLTZTaXY0TDVYNWczQmk1TXdFempJVlFsNHQtZ0ZEbWhuLURiaWxaUHJYSlNObHlvVTFXZFRjWmN2cGdfS1c4UjNtZG1ZU19rMEp1UHVjZjdDUDNSQzlyTUkxU0hPYng?oc=5",
+          "source": "TradingKey",
+          "published_hkt": "09/29 08:45",
           "related": [
-            "MU"
+            "NVDA"
           ]
-        },
-        {
-          "title": "美股期貨下跌，市場關注伊朗局勢與OpenAI暫停AI訓練 作者 Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQb2c2Y3NiTzRoTjJDTjBrUlRYMU0taElmTi1uZ3R4aWpLOWZMWDJiU2E4LU5KYnRLYVNLSUQ2anoweWdWTkNBWmQ5Y3R2aUxTRTVrRzNDWVl5UUsxNVlFcVFxeS1UWDFfSXdlNVZ5Z3I?oc=5",
-          "source": "Investing.com 香港 - 股市報價& 財經新聞",
-          "published_hkt": "09/28 08:34",
-          "related": []
         }
       ]
     }
@@ -243,31 +243,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-09-29 04:02 HKT",
+    "updated_at": "2026-09-29 10:36 HKT",
     "news": [
       {
-        "title": "比特幣跌至83,000美元，國債收益率攀升及伊朗局勢緊張施壓 作者 Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50bUZTTVY5RkVYSmpIUnpjX0pmU2dVd1NzWVFDWWRiODR1QjhqTTdpQmF5Nk9OZXNxenJGR3JSWEEzTmRxUV85cno2MzBmMGFhSmVLUlBPc3VKOGlJWEhRNjE5dVExQld4U3JfWTNxTzRwVVU?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "09/29 02:34",
+        "title": "比特幣守83K、以太坊微漲2700，貪婪指數回落、全網爆倉5.1億鎂| 動區動趨-最具影響力的區塊鏈新聞媒體",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wWFZRX1Q2d2hjWnVCUTlxV0JBYWRVbUV4Zjdtelo4RWxPWUpXRmxEbzY0dEg2eFozWThDYTdidEpiU0tsbjlqSDU5N0xvbXhIYXBaVDNTcVJoLUVaQ180UTlsU2o5MW5RZ1U4MU05NDJETUZpakpUcVJqUVU?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "09/29 09:23",
         "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "以太坊質押週報 2026 年 9 月 28 日",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5Q3RkaU95bjktU1oxeld0ZDlhTkRwTEp6a2djcGgzeXFQV2JCd1dja19Ib0doU2k0dVpYSG0zS0pUMWxlUEF4ZkFhSUQtYS1HUk9jb0RIVkpQMkJibnlBOWVOSm9rbWZrd2Uw0gFrQVVfeXFMUHlDdGRpT3luOS1TWjF6V3RkOWFORHBMSnprZ2NwaDN5cVBXYkJ3V2NrX0hvR2hTaTR1WlhIbTNLSlQxbGVQQXhmQWFJRC1hLUdST2NvREhWSlAyQmJueUE5ZU5Kb2ttZmt3ZTA?oc=5",
-        "source": "Bitget",
-        "published_hkt": "09/29 00:37",
-        "related": [
+          "BTC",
           "ETH"
         ]
       },
       {
-        "title": "以太幣自 1,500 美元低點強彈 但 2,700 美元壓力仍牢牢壓制多頭",
-        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQOVM0b2ZKUVQxd3RmVzFmRUZ1Uk1JNkFwdkp1SGZBbWU3NkdBTWJhbXZrWWNvOVV1Z3ZyQS16NWpXQjVnNzlpQV9hYjNLR21OUW9ZYjRyVlFyNGdJeFhzRUhxUmxNYm1Fdk5OWDhCTUxCSUo5ZHpmc2Y1dDlVdnA5d3pRRm5pMTloUG9HRnJOX0I0emtOOW1vRTl2T1RnRmNzeXJycWRLVlZRSzVSeTJpUXpzQzVuMFVMamZMS3JKTXIycmtKU2JsWXZuODBmUWZLek1ZTmtnN2VPY0dRR0VkR2tYMXZteVlVWE16SWtnRnNUNlV1LVEtYlhWYTJ0YWo1V2NRUExmQ0V6MzF0S1g1RnZFUHVXVGtKR3dBR1NONW5YZTBvU3FDdXpqSWVXSm1VaW1fNnk4LS11ODMwNVh2bG92UFhteWNsNTUtTnFNMHJaamVnTU1KRmdBR0dKUQ?oc=5",
-        "source": "Yellow.com",
-        "published_hkt": "09/29 00:18",
+        "title": "NEAR價格預測：NEAR Intents阻止了超過5000萬美元與Bitget漏洞利用相關的洗錢嘗試",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOV0Nxd0VBMEg2S2R4SU9LWGhLWHFJOHpvT2RxNGRfR0dnOEloMVdrQS1NQ01pVTU2ejY3ck90cTBQVTlyTDdVT2pDWFJHaUxNb1k0RnNUMjN2RjZZd3RxamF6c2FZbEpOYkpicjQ3YnpNeGZnMjdMOUVQSUxxQnhpeXBtUHcwYnBpLW0yRUFuLWFmLWNieVNBbFd5cFdfazV0Ymk2TmUtdDIxNjBhdTVKMkFTUmx4dFVUMzVGZVE5UDJ1Yi1FdWtqX1JWTGNlRk9KNmxfYXh6ZkdOVEE2Qk9jcmsxajNRbm1BTHVhMEx3V0Y4eS1PdUxHczloWmR6M1RZZm9UMzdPd0ttXy1ZM3FmTzg4OGF5Z9IBlgJBVV95cUxOV0Nxd0VBMEg2S2R4SU9LWGhLWHFJOHpvT2RxNGRfR0dnOEloMVdrQS1NQ01pVTU2ejY3ck90cTBQVTlyTDdVT2pDWFJHaUxNb1k0RnNUMjN2RjZZd3RxamF6c2FZbEpOYkpicjQ3YnpNeGZnMjdMOUVQSUxxQnhpeXBtUHcwYnBpLW0yRUFuLWFmLWNieVNBbFd5cFdfazV0Ymk2TmUtdDIxNjBhdTVKMkFTUmx4dFVUMzVGZVE5UDJ1Yi1FdWtqX1JWTGNlRk9KNmxfYXh6ZkdOVEE2Qk9jcmsxajNRbm1BTHVhMEx3V0Y4eS1PdUxHczloWmR6M1RZZm9UMzdPd0ttXy1ZM3FmTzg4OGF5Zw?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "09/29 08:45",
+        "related": []
+      },
+      {
+        "title": "加密貨幣市場週一普跌 Avalanche、卡爾達諾領跌",
+        "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNT3Z1UW5uYlIzUlVqaUlxSDZDUUxXU0xMdGZaeVM0azdfbF9xRE42UVV3TnoxbTJZb3pTcWUwQ2tOWE9pRGJDZEQ4SGE2SlpEWk5TWklmMEJMNldUbzVvV3FxQVF0UW8zQjNjT0JxMnRSS0Roc2NTMTdyZG4ya0VtSy1nNkZfZlRyWDh2Z0xPRE5YYjNtcGlxWWlTR256am5JSHFLUERzWjBrcm9ybVFvTDdtbnM0elRnbjJyOUp5R2lWcl9Bd2tCeWstdFZwdE1zbm8yaktZRXZuck0xc241aF84TWlkZXNySTVZSlRUN0t5SUlRMzVqT0c3bHp2WlJEMXJIZUc3UlZZeWg0SFl4RFhHU25EeTg2SXhlRHNVOUdBZlAxRWxNYy1EbVU4dE04T0lZ?oc=5",
+        "source": "商傳媒",
+        "published_hkt": "09/29 07:57",
         "related": []
       }
     ]

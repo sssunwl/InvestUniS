@@ -239,30 +239,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-01 23:32 HKT",
+    "updated_at": "2026-10-02 02:44 HKT",
     "news": [
       {
-        "title": "比特幣能衝上 11.3 萬美元？花旗：ETF 資金回流可把幣價推上去",
-        "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOakY2MkxLYWt4Q3EwME1yM1dPUXE3MlRmLWxtZWRFQ0R3bHc0REdGOWwtb1o5a2w1VmlXYmszTGNhYlREd1NMTkRFX29SNGRXdVN4ZUFNa2tqZFZnbTRvenQ2WVpyaWREZDYwNEM3Z1BPLW5NRENnYURPMU80S01LejYteVptUGtWR2l0d3JKWkxDU1NFRWVodF9nazBRZWMyVmx1TEhHNFBzUUxKUWhnekJob3FQT2NWVGppNmE3LXVHMWl0bzBSUThfQ1FiMnRwWjk1TzlKTU9ybkI5Tmw5N3lZV216ZERCTkNvYk9iR2oyMk5sWlRDV0E0Ukl6OVRsdFBfTGs2YjBxTTdpVmpDUXFfZk9wckhvRkFHTFNka2UzWkNVY1BxUVVYcl9UcXRwbFdjRm9OdW5Uc1FhUEVvZHY2WEpRWVNYLThEU1czcmNKMUI4amhxTXRCV3c4cGs4SGZOdDZ3U2tab2dSdjlHYg?oc=5",
-        "source": "Yellow.com",
-        "published_hkt": "10/01 22:00",
+        "title": "CZR Token (CZR) 價格、圖表、市值及其他指標",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vd29Oa0V4Ty1sRl93YkJET1lCT1ZOeExPcHlGaHVuYVpNQ3ZwWlB4Uy0ySDJxOFBaWDhkZzlNaTJJQURlcnB0WmFrR1V6N3hEVFBQN0tDLTlxT3ZQckJydnZlTQ?oc=5",
+        "source": "CoinMarketCap",
+        "published_hkt": "10/01 23:54",
+        "related": []
+      },
+      {
+        "title": "比特幣三季度狂飆40%！牛市真的回來了？黑客卻已捲走12.6億美元",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kMy1GdThNdEQ0TmlCQUh2ZHJxVTA1REFfbE5LX3NuaU94TWgyV0xoX1ZHa3cyTkJjYmtKcGx0a0drX051ZUxJX2R4WVRGTk5CQnYwUE1senhCX21yOGFkd2hIdTg?oc=5",
+        "source": "TradingView",
+        "published_hkt": "10/01 23:41",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "為什麼XRP面臨更深跌幅的風險",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWHlYaXgzaEdmZ0ZIVDJtbDljXzlRanA0MzI0dXBmWFlnb29vYWR1S3pqY3ZKLTZ0R2lVMDk3NzlkeGNqRHhBOXVHLTFtaDN2ckozWkxJVGZMQ0VKSXJaTDFFVXdQOXA0S3lHUVFlSDI5SzdMTktjcDNCZERSdFJRWURnYU9melJoSUVQUzAwTGJMaUtTUUxpenJTcEl6VVUzNXBMaXUtTDkyLWdyeV9hXzBXZFVEbHdpcDMyeWpkV0ZtaE9HQ09yVnYzTy1HNy16U2JTNDJINVJqV3lVZEtB0gHfAUFVX3lxTE5YeVhpeDNoR2ZnRkhUMm1sOWNfOVFqcDQzMjR1cGZYWWdvb29hZHVLempjdkotNnRHaVUwOTc3OWR4Y2pEeEE5dUctMW1oM3ZySjNaTElUZkxDRUpJclpMMUVVd1A5cDRLeUdRUWVIMjlLN0xOS2NwM0JkRFJ0UlFZRGdhT2Z6UmhJRVBTMDBMYkxpS1NRTGl6clNwSXpVVTM1cExpdS1MOTItZ3J5X2FfMFdkVURsd2lwMzJ5amRXRm1oT0dDT3JWdjNPLUc3LXpTYlM0Mkg1UmpXeVVkS0E?oc=5",
+        "title": "為何花旗將以太坊預測上調至3,028美元",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPdnB3QUliSVVTdzNTWE15UjlXeW9Td2I5d0ZINXkzOTgzdDVodmtfX3dpUHFIYm1wVWJjWi1veERkV0Zzb0JNNHR2cFdnQWFnNTZlSUlPeGdCcHUxV2cwUUtyQU04NnpyWEx3b3RkVHk1VlZTdldFYkQ3UFhKVjVlTHFBSzlEUE9DNVlBa3dwbWNhcF9NMGNlblBWcGkyVUFnZ0NkRmtYOVlkRHREdXYwbGNZQ281Z25VYUdxRDlWNFNwQmJEZ192VjJ1RXk3eFN4Yl9hQjY3VlVlZktGbkRZX3ZWRU5HOEJhcEdKQWEyYVIzdmR1a1NzY25BcWQySlN4TmtJQlJGa9IBhwJBVV95cUxPdnB3QUliSVVTdzNTWE15UjlXeW9Td2I5d0ZINXkzOTgzdDVodmtfX3dpUHFIYm1wVWJjWi1veERkV0Zzb0JNNHR2cFdnQWFnNTZlSUlPeGdCcHUxV2cwUUtyQU04NnpyWEx3b3RkVHk1VlZTdldFYkQ3UFhKVjVlTHFBSzlEUE9DNVlBa3dwbWNhcF9NMGNlblBWcGkyVUFnZ0NkRmtYOVlkRHREdXYwbGNZQ281Z25VYUdxRDlWNFNwQmJEZ192VjJ1RXk3eFN4Yl9hQjY3VlVlZktGbkRZX3ZWRU5HOEJhcEdKQWEyYVIzdmR1a1NzY25BcWQySlN4TmtJQlJGaw?oc=5",
         "source": "FXStreet",
-        "published_hkt": "10/01 20:31",
-        "related": []
-      },
-      {
-        "title": "Near Protocol 和 Ondo 如何為加密貨幣和代幣化交易開闢新天地",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN1BXOFNwRTNYS09oQlpTNjNIVl9MSGZNSm5rZGs3QmRySDdoSFJza2EzQUJsZjk0SlU4VW9CMHBNWjJvT2dGOGlZNnlCV2Z3ZkJ5bGJjWjhjWmR5dXBUeEg2d3djVkU5aDBmZkwwbUhhVno4OGRBUjU3dzdBa3R5ODRuY2k1RUNIZW9FZWcxMjh5NW9IV2EzZFVBdm9hSDUxUzI1czI3d1pNb01pTEk4UmxsWVYwSjJqaUI1N2tJekJqWVhYcTl1WW1yandTNXFhYkw1bHVEaDlpSmFhZGpyMDF3a9IB4wFBVV95cUxPN1BXOFNwRTNYS09oQlpTNjNIVl9MSGZNSm5rZGs3QmRySDdoSFJza2EzQUJsZjk0SlU4VW9CMHBNWjJvT2dGOGlZNnlCV2Z3ZkJ5bGJjWjhjWmR5dXBUeEg2d3djVkU5aDBmZkwwbUhhVno4OGRBUjU3dzdBa3R5ODRuY2k1RUNIZW9FZWcxMjh5NW9IV2EzZFVBdm9hSDUxUzI1czI3d1pNb01pTEk4UmxsWVYwSjJqaUI1N2tJekJqWVhYcTl1WW1yandTNXFhYkw1bHVEaDlpSmFhZGpyMDF3aw?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/01 20:29",
-        "related": []
+        "published_hkt": "10/01 22:49",
+        "related": [
+          "ETH"
+        ]
       }
     ]
   }

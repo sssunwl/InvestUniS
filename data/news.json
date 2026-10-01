@@ -91,7 +91,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-01 20:50 HKT",
+      "updated_at": "2026-10-01 21:59 HKT",
       "news": [
         {
           "title": "港交所低買機會 兩大利好推動增長|香港經濟日報",
@@ -147,13 +147,22 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-01 20:50 HKT",
+      "updated_at": "2026-10-01 21:59 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數- 三大法人1日買超前十大電子C位緯創敲3萬張 金釵爭1席 - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YWjhRanJBUk1HVW1NenQxWHFJeF8walEwMWV6b3RhM3JpdlhfdnhyLWN5RHBXd05XNDVlMVhwTUFubkNNQjY4bTNNMU5ma2w2YTlLenJyNTY?oc=5",
+          "title": "TWA00 加權指數- 如果一切重來，我不會急著找十倍飆股- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kdW03alBkXzVNTEx0UnlfOTc3SmpkaTgwMFByMk4ydy1YUFp5Zi1HYzNyaThSUGgwaGFCSDZTZm5OVE1LenRPYWlsNmJOUHVFNzEwWUFvV3I?oc=5",
           "source": "CMoney",
-          "published_hkt": "10/01 18:26",
+          "published_hkt": "10/01 20:11",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
+          "title": "TWA00 加權指數- 當我們同債一起；川哥火上澆油發言？ - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhUnFiMlBoWnZxeVNsVHpDOG5ZdFMyY3BHV1NkbHJycVV6TXQ4MU9DX09SUGl6elpDY3JwOTl3ZjlHVDlnSW5FSWoxUldOVWRWSGhSUUM5T1o?oc=5",
+          "source": "CMoney",
+          "published_hkt": "10/01 19:36",
           "related": [
             "^TWII"
           ]
@@ -163,15 +172,6 @@
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WU0pNekFkZzd1S3VCTTdoTnBzVWVUNWZWQnVSZzQxaERIbmJOdTRKSWl4MDNiRWNYcFNMVzFPdE5EcHNzTkFpOEdab0Z4eFNJU0NaWWFMNGs?oc=5",
           "source": "CMoney",
           "published_hkt": "10/01 18:25",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數- 外資1日買超前十大8檔電子股國巨*、緯創最吸金- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VcEM1dl9NWTR6cTF4YTZrMGo1U25NR2pTRDJuMEJzZjNCelMxb043WGVQWFR1YUx1c1pBZ0JYcndsSjZvamw4RGR3MWw3Um5pcGItTG00clo?oc=5",
-          "source": "CMoney",
-          "published_hkt": "10/01 18:24",
           "related": [
             "^TWII"
           ]
@@ -209,7 +209,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-01 20:50 HKT",
+      "updated_at": "2026-10-01 21:59 HKT",
       "news": [
         {
           "title": "今日最夯 ETF／新一波 AI 行情再起 00951大漲逾5%",
@@ -220,7 +220,7 @@
         },
         {
           "title": "《日股》AI、半導體領漲，日經大漲3.3%",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNWxIWkxURGM1cXlIbUlVMDdkOUtnTXZRaXpNNUEwS1JNWDhHaXF3dWdSVDJzamEwaHl4eFVBOFQ1QXpsQkNaUlQ5MmV3a3psd1RLNS1CSjJmYXdLS1JMam5VVGg5RU1MNUFqbmJlRk82YmFRdFhkX3NrRFQwemJta0tJZGZBaXkxekF0YjNMSW1DdXZmLVZROUJQRW4?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbXJGSGxSUllaTUNHd0pBV0VNcFJXem1UODU1SFNvRWlhODFqVXV0UjZ4Y0twNDdfbzE1Rk9zOW5ieFVsYm4yMkdpZjF0akV5N0VGY0ZqYWJ4M1l2M2hoOFVnTHRGckc4cnZVZ1R3NVNoY09WS1lVQjFEM004bnV0cWFKZ0NObXh5VW4zVXRoejljUQ?oc=5",
           "source": "台視全球資訊網",
           "published_hkt": "10/01 18:31",
           "related": [
@@ -240,7 +240,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-01 20:50 HKT",
+    "updated_at": "2026-10-01 21:59 HKT",
     "news": [
       {
         "title": "主要加密貨幣行情，比特幣升0.33% | 即時新聞 - 新聞",
@@ -252,20 +252,20 @@
         ]
       },
       {
+        "title": "比特幣漲至84,000美元，第三季強勁收益後國債收益率持續承壓 作者 Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BbGRvOUlDRU5BNWZsYml2MU5oNTVROXcyRGdUSHBjZk4yVm5abjB0SERfTDIzTDBRTzhBcDFRTWdTZWg5TGFNa1Nic2pGZXVHcjhBenJEaWkwaG1IbERycUk2SW16U2tlYmFCWkRMT0VldkE?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "10/01 20:17",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
         "title": "為什麼BTC、ETH和XRP難以重拾動能？",
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUGxqcFVDLXlBeFIxMk1paTBHVWwtb29aY3pPX21uaDFEOVhkcGUxTk90aWxJXzBwQWF6bUpQSUdXZ1BZa0lRdjJrbWRLR0hPdnRXaXNNTlEyRDIzXy1QNG5BanVyRHBGV2NOZ3pqMThBQXdCQVFyX05DRC1uWEdCdXpfVmpvb1paQ0tnRk9TWGV0RXhQZXhwTjNpalpNYlVHNW9JR1JNVmNkcHZMMWZVeUpfdzhzS1NRQ1ZXLTlfbEZPZlNOTkxydkk3ZWtGeFJfYU45b0lpenRCVGdqckw1ZkFpdTFISk9WWlJUSEIyWUNyV0dfSnpnRHlfWdIBgAJBVV95cUxQRGV2a3Flb1FfYkE2dlFSUVV6OG1PLU80U2FZbWVqX1cxam9RV2lENXZrTU5lV3A3SVhVTGFCOEhMU1N1bS1HOWxvNnZueGNVVkxkYkJmbnFFYlg0Q0F0NXAzeWd6aXpKWWk1Q0NaZmp0bnhjYzJOLWhkR3NLT1RZbWV4eS1fb2Y3WjR5TGlBRURWeHF2TWFmZG5WY3VBbVFRaV8zRGxGWmthTlJDemJ5OW1wNGtZTFVfRU5UNmNGY0JqWHF5YndyZWZNcTZQeXhVX1RfYk5zRTlpMXdWdTZseEVFblVvcUMzM09YN21lT2YtbW1tM2VSaTkxUjZnTWRv?oc=5",
         "source": "FXStreet",
         "published_hkt": "10/01 18:54",
         "related": []
-      },
-      {
-        "title": "比特幣價格預測：BTC在ETF資金流出和美國國債收益率上升的壓力下，仍難以站上85,000美元下方",
-        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNUFVhdjlWd0FFd1JCUTNpM21OTUpadDVWV3pZaFVHQVA4T0lGR0VDYjhTc2tqOUhMbE5heGN2cjBxSUNybzd3MGEybEE4U1NLR213SzBVX1c1UkRPdzBXU0t1LWNmcDQ3a0psMVR1VnZLb2Vtdmdab2poUGZ5aUlwX2p3Y1NUbWg3TmZJUjJFQmQ4RzhQZzlRSXZVa2Q0bFJaX2JuUHVUUnZZaHNJZDJ6TGpHRDJmQWdURm9NSldTcWo1bDZYTkg0RmdfRFMxRHFfYndpU1pxS0t3Qm5tSFRfV1NJanpwbmFtLUFqdV9hbm44aExHNFZaN0c2YzFKREFPNncwM1dENXpBQTAyZk5oYnBqM1Z6dVRpbEZXX2lReHNKdm92Y09uSVQtUVphbk1zR2RUTWJ3a9IBtwJBVV95cUxNUFVhdjlWd0FFd1JCUTNpM21OTUpadDVWV3pZaFVHQVA4T0lGR0VDYjhTc2tqOUhMbE5heGN2cjBxSUNybzd3MGEybEE4U1NLR213SzBVX1c1UkRPdzBXU0t1LWNmcDQ3a0psMVR1VnZLb2Vtdmdab2poUGZ5aUlwX2p3Y1NUbWg3TmZJUjJFQmQ4RzhQZzlRSXZVa2Q0bFJaX2JuUHVUUnZZaHNJZDJ6TGpHRDJmQWdURm9NSldTcWo1bDZYTkg0RmdfRFMxRHFfYndpU1pxS0t3Qm5tSFRfV1NJanpwbmFtLUFqdV9hbm44aExHNFZaN0c2YzFKREFPNncwM1dENXpBQTAyZk5oYnBqM1Z6dVRpbEZXX2lReHNKdm92Y09uSVQtUVphbk1zR2RUTWJ3aw?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/01 16:33",
-        "related": [
-          "BTC"
-        ]
       }
     ]
   }

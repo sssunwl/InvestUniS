@@ -147,30 +147,30 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-02 14:02 HKT",
+      "updated_at": "2026-10-02 14:34 HKT",
       "news": [
         {
-          "title": "台股收盤／中小型股點火！台股漲122點 光通、被動元件漲停搶鏡",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50NmhRc1k3TTlQWkdFSGJhQ1ppVW80LWl0TnVyTE1wN0twQ2dya1k3dlBPZi1ueHZXUjhFVjhub0lVZFVyUXNZckhSWQ?oc=5",
-          "source": "三立新聞網SETN.com",
-          "published_hkt": "10/02 13:47",
+          "title": "台股漲122點再創高！收4萬8475點",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44aUJXTlhsZ2lmekgzX0ZhYkMwdWFnc2hQeVpHaGhvYnZfdDg0TnA2c1JwUG5JbGM2VWZVRFl6bmV2bFlWVXhLSUNOWGlyNkpnYmFZR1BR?oc=5",
+          "source": "LINE TODAY",
+          "published_hkt": "10/02 14:20",
           "related": []
         },
         {
-          "title": "快訊／台股收漲122點、刷收盤新高　台積電跌10元至2500",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45SzFOcUsxTEJ4SG03eUxkcVJSUi1HcUk0OVlWRHZSYlVSMFdUaHFMcktKX3ZiQlNNWTBoTGRhVU44VGlsUmVJTWo4N3d5QUttQ2fSAVBBVV95cUxNR0lEUzJyRkV2a3NsU1NiQXpkS3hxLS1wZjktcGFiTHVEWTlsMW5JQmZRVmlwYklyUno1MFBvd1BTUXlDcG5PSTBZQXJVdG9UZw?oc=5",
-          "source": "finance.ettoday.net",
-          "published_hkt": "10/02 13:35",
+          "title": "台股漲122.25點收48475點 再創收盤新高",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oUGg4Q0pzZ01qdGNrcFNta1pfSmpPYVdXenZRWnFQWnFvOUNHdXdMZUhJREo5ampFcm9XQW02V0UwaDVzV1ZXVEhwVExVNS1KaUE?oc=5",
+          "source": "my-formosa.com.tw",
+          "published_hkt": "10/02 14:18",
+          "related": []
+        },
+        {
+          "title": "中秋變盤向上！台股週線上揚451點 加權指數今再漲122點 收48475.74點再創新高",
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPb0NPNDFidFRMQjQ3SUl4Slo1Q3Q3SW1nQmxyMGVVV2ZzYUxqQkJCcWxJMG5hNEtiM193Z2h2WFdUbllNMk5hQTFaTnNMMDlLTkE1ekFsNnFVdTBMdThULWxEWG1OVzJRTXIwN0JuVE5xQWplbkNSNkJWZWJzQkFhWWFvMS0yNDBDQllQajROX25TcHhwSHNnVloyN2xTSnZqSGpfNDdteDJwS3FkeVBveHpsZEktbDl0YWw3V054RWM2UXJEcmtLc3U5TzZLaFE2ckRibnQ1bjU1bTFQTlI0SUxWNjdqQUFlbmxpRUxDYmVkb09OenVrN0wwR3djNE1kWFJJNVFkZTlDODZFZUkteEFkbXlhY0ZmYktfQVNxZ0pMQUhw?oc=5",
+          "source": "Yahoo新聞",
+          "published_hkt": "10/02 14:11",
           "related": [
-            "TSM"
+            "^TWII"
           ]
-        },
-        {
-          "title": "台股第四季誰領漲？被動元件族群狂飆",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWkljVk1kbzFRa3hqZEMwNVlDMU1kNC15akJnbmpnVWJSZXBfVXl5UHo0VFVHTXRWa3ZOV1FKU080dDZESFdiNUptY0pLOVhxVDBhaHF1N2JSQ1JzZER2LUtNWEdZZXVQMDJmSGZ2TktkcFBZVkNwZV9sOFA3SXhaU1R1VnRheTBBckV3?oc=5",
-          "source": "PChome Online 新聞",
-          "published_hkt": "10/02 13:24",
-          "related": []
         }
       ]
     }
@@ -235,7 +235,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-02 14:02 HKT",
+    "updated_at": "2026-10-02 14:34 HKT",
     "news": [
       {
         "title": "看好資金回流與監管明朗 花旗將比特幣一年預測調高至 11.3 萬美元",
@@ -247,19 +247,20 @@
         ]
       },
       {
+        "title": "前3名價格預測：比特幣、以太坊、瑞波幣 – BTC有望升至85,000美元，ETH等待突破，XRP守住1.50美元",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQWVZIeTBaMnJfMDRyRThoWkRzcWp2aWE4WXVTbmRVc1N0SkZRa0hLdXV2U0UxeGxlelpROS14TGllOW1MOTU3Vm5HWWJsNEJCREdyVzFvU21Telh3MXEzcTFFOWtseVRYUnI2UEVFTzVrZ3NwbldjX1FnRGtOQ0NKMDM4Umx6QmVDdElNWFROaWtGbzRBZ00ta3dBdERIRUEyOUJQdW9nRGw1Z0toT2hWYUNHVFlvX3I1bDFUU05USHdINXo4djZORDF4SHp6TXdUQnVJZXdaQTFDNzdVSW1nRlpYVzVrNThHalFEQmcwS2FLMkRUMEVzRlF1U3doOW1wU3JDajVRdjlxWU50X1IyX3ZHOW00VWxmZ2MxQkVFazhRUdIBogJBVV95cUxQWVZIeTBaMnJfMDRyRThoWkRzcWp2aWE4WXVTbmRVc1N0SkZRa0hLdXV2U0UxeGxlelpROS14TGllOW1MOTU3Vm5HWWJsNEJCREdyVzFvU21Telh3MXEzcTFFOWtseVRYUnI2UEVFTzVrZ3NwbldjX1FnRGtOQ0NKMDM4Umx6QmVDdElNWFROaWtGbzRBZ00ta3dBdERIRUEyOUJQdW9nRGw1Z0toT2hWYUNHVFlvX3I1bDFUU05USHdINXo4djZORDF4SHp6TXdUQnVJZXdaQTFDNzdVSW1nRlpYVzVrNThHalFEQmcwS2FLMkRUMEVzRlF1U3doOW1wU3JDajVRdjlxWU50X1IyX3ZHOW00VWxmZ2MxQkVFazhRUQ?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "10/02 11:30",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
+      {
         "title": "SEC 推進 Crypto 託管新規、Bitcoin ETF 九連流入中斷，Citi 上調 BTC 至 11.3 萬美元",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iUE5EakxoM2RUbEdsT09EX29WQ0hITXBIQ3BsUWxNR0MtTlZiczBqNzZrMlZ4N1FMeHB0dC0yTmM3UHhTeVBQMkRhd21vdw?oc=5",
         "source": "Grenade 手榴彈",
         "published_hkt": "10/02 11:28",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "美財政部決策助攻比特幣 第三季報酬率狂勝黃金十倍",
-        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQdFRVcElDczVmelJjUHZpcndXZHB3OVlmcTBCbmxucXVhSVI1eDBXb1BuRkg4MmVRemdLSXZFUWhsTjctd0kyTnFwSm9ocktxTGo2eWZERXZ1c1ZZenVzRmFRc2RpazN4T2VGY2l2LWMzN2ZRUC1wZFVpNFBVZnZrbGtVeGNNdXVpbWRvaEVVQzEwWHFKb3B2Wm05X3A0dnV0WFFIdTUxLUZxWllGdFhVNDBhOVAwN01xVXMxQVJFMTktcGNyUG1ldlhldVBkY21VSi1PamFjZllKQkt0SGplRXFSYnQyTGtCWExieVZ3ZkhVVnFqR1c1Wks2Ymw4bWFlNGxJeFFwUW80N1V0d2I4NWF0My1VZGx5OG02Rnk3MjI1VE84SGl4Y05uTjA4aEZpSUpNRndaYjJNaEpTNzhTT3B4MkZNdHI2b2lmYUNMWVY0RkM1SGUtU0M5eEZqNXdhaGpBVWd0NDE1OXVlWHFEOHdqQk9WYkU?oc=5",
-        "source": "商傳媒",
-        "published_hkt": "10/02 11:12",
         "related": [
           "BTC"
         ]

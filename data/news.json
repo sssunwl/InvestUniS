@@ -27,30 +27,30 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-01 10:13 HKT",
+      "updated_at": "2026-10-02 10:19 HKT",
       "news": [
         {
-          "title": "核心PCE降溫美股反應冷淡？ 阮慕驊揭市場不敢狂歡「4大關鍵」",
-          "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQUFlPd29vUEFqeVhPbjBlQ0I2N2VYWXNZYlJOcVZpSktxNXlJYTJLYVd6cUhCYUJEaENsWU5DN3lvZlhYSlNYcHF5TEpLTUVLQUxvblpQZlFYaTFIZTZkLTZ0NlF1SFhpTm1zTlF2bm1vNC1DdmY0OXF0MVhUS2QxQVNnYkZ2NEtDZGRodE1PSWZabnpSY0VINTB2MjhZTHBwMF93ZGpHWDNJdlFsZUNUaTAxLTVkNjJyalJ2NENDMmpkbzdtdGNtcm1wQy1DWEZ6TU1ucVpPRHYwWEtDRjc3N09nWEwyVDlBenJmV0VCaVVlN2pIdFMwWUlVRktWZ1VfMFhTblBORDd6NnhFTk1aNkhJMFNsWFR0ZjkxSlhGRTRqeGRtZUIxazFiU0syQUdvWTFNcmpGRk14QWlZU3JNSDd6QnROZVBoX0NBd2h4a1VnRHRfcl9LSmZUb0lFN2ZuZTNnZU8zbVFBbkhRUW5YX3NXR0VBekk?oc=5",
-          "source": "Yahoo股市",
-          "published_hkt": "10/01 08:57",
-          "related": []
-        },
-        {
-          "title": "美國最新通膨數據低於預期 美股漲跌互見！僅那斯達克收高",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NVXNwcXZCSk5UTFNnTUZlaXlnTTlVX1poOUprTk53NE1OcnBwTE5nREo2Y0ZvYTJObm5pcGVnLW5keFUyYzEyYVJ0amt4TmxGel81VkVVcw?oc=5",
-          "source": "台視新聞網",
-          "published_hkt": "10/01 07:35",
-          "related": [
-            "QQQ"
-          ]
-        },
-        {
-          "title": "美債殖利率上升「不用擔心」？分析：美國經濟夠強",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FeW1XYzY1eUVucFUweU1paDNuQzVIeVRocUFQV1FCQnl6MUVUX1Juay1aQXpYU1VQZ01oeVhYMFBCNkRlYV9fTnNfek01Tk0?oc=5",
+          "title": "美債殖利率自24年高點回落美股翻紅，能源與科技股領漲",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5NWlsUUJTS3ItXzYtVDFLSFZoVjM1WFd3TlBxdVJaU3gyVGhxcGpyUmltM3J1N0pfdDVfQllBTGJWSy0xWnRqSDEtVVJ6Mjg?oc=5",
           "source": "news.cnyes.com",
-          "published_hkt": "10/01 07:11",
+          "published_hkt": "10/02 08:30",
           "related": []
+        },
+        {
+          "title": "美股10月驚險「開門紅」 3大指數集體V字震盪 | 太報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kQ3IzR2pTd3ZXQTZlcjIyVWI3d3QzMWtSTDRjNXdVX00tMkppM29pUFdLdHRKN2RQX3dNTEF6ZnNWSG5vazV0dDZZa0NmT1lYSXhCbFdn?oc=5",
+          "source": "LINE TODAY",
+          "published_hkt": "10/02 07:53",
+          "related": []
+        },
+        {
+          "title": "【美股巨頭】特斯拉台灣9月交車5298輛奪冠，但股價幾乎沒動？",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYXRwQXloeGZFcjRjRnlJcjlOWGQxa0I5LS1zVk9uQUVBTDdKZi15bnNNSUZTQTA5bWg1ampJa0QtdDVJd3JuWU5MYnVlOTZNMnp2TWFnUWNveXJYdHdaTENBNHVjZnJ3LWdITzF6cmxnblRaQ0trVW9Jb2pOb0pmRTJwQ2lEREthWnFhZVpR?oc=5",
+          "source": "CMoney投資網誌",
+          "published_hkt": "10/02 06:31",
+          "related": [
+            "TSLA"
+          ]
         }
       ]
     }
@@ -239,32 +239,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-02 02:44 HKT",
+    "updated_at": "2026-10-02 10:19 HKT",
     "news": [
       {
-        "title": "CZR Token (CZR) 價格、圖表、市值及其他指標",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vd29Oa0V4Ty1sRl93YkJET1lCT1ZOeExPcHlGaHVuYVpNQ3ZwWlB4Uy0ySDJxOFBaWDhkZzlNaTJJQURlcnB0WmFrR1V6N3hEVFBQN0tDLTlxT3ZQckJydnZlTQ?oc=5",
-        "source": "CoinMarketCap",
-        "published_hkt": "10/01 23:54",
+        "title": "比特幣突破8.5萬鎂、以太坊衝2715鎂！全網爆倉1.88億鎂，恐懼指數續回落",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU0xRRm1FdjJjN2M4bXJ4WjM2Qnk4SVpxclIzWHloRjRJakhOaklLeDgxclR0d2RRWmtBQUV1OHBNbzl0MmVqcExYc3FxYU5seGJiQVFhVzVoSGRaSGdDcXJndDBxRWNidXNjZ2tqOGJ5b3p0QU9DQkFhSXRWSVJfRkhISmNVM3dWbXpFNXV2QXlZTzJXQ3N3MEdfeEhtdW53?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "10/02 09:33",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
+      {
+        "title": "Boardwalk REIT股價創年內新低 加拿大房地產信託前景引憂",
+        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOeWdSQ0hCN25Xd2FVMGtIOXVaZnFLTmtKMjFiLWloSUgzRTV5SW0yN2M3dURicWZzTVhYWkRwWmRaWXQ3QmNWcFBJYXdMNzZRZ3RSN0dBamQ2anVTVzRYakdjdnhjQS1rd0xFMHlwelFpRmNVdFdUS2ZaeUwwZG5rbGlRWjh6aW1wcFpXcVUtYVNJenhwS1prT3FQNldzV3AwanJuUW8tTzFfaTM3OG9lYUFfUzJWajZ1WkRpbUNkN3FlbjdNU3BqWnZ3MUdINlVkYVJ0UW8zdElUOU5aYThSdWFISG85ZEpncHdaQ3RXVFd6THlIdGNDR0twdlRhUFlrXzE5d2JVTTJvcWp0ZWVnR2h1Q011YzFuNDBaTzJOdnN2WUM2bVY3SDU5YUs4NjNJaTZ5MVVSckl6V2NTeDU2c2lpTkt1a1hFSGFGX2hsWGdTLWl1WEtoUG5reldOblhSelNmZHlpMEZyQnowWjhzRmpWY1FSUQ?oc=5",
+        "source": "marketersgo.com",
+        "published_hkt": "10/02 08:27",
         "related": []
       },
       {
-        "title": "比特幣三季度狂飆40%！牛市真的回來了？黑客卻已捲走12.6億美元",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kMy1GdThNdEQ0TmlCQUh2ZHJxVTA1REFfbE5LX3NuaU94TWgyV0xoX1ZHa3cyTkJjYmtKcGx0a0drX051ZUxJX2R4WVRGTk5CQnYwUE1senhCX21yOGFkd2hIdTg?oc=5",
-        "source": "TradingView",
-        "published_hkt": "10/01 23:41",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "為何花旗將以太坊預測上調至3,028美元",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPdnB3QUliSVVTdzNTWE15UjlXeW9Td2I5d0ZINXkzOTgzdDVodmtfX3dpUHFIYm1wVWJjWi1veERkV0Zzb0JNNHR2cFdnQWFnNTZlSUlPeGdCcHUxV2cwUUtyQU04NnpyWEx3b3RkVHk1VlZTdldFYkQ3UFhKVjVlTHFBSzlEUE9DNVlBa3dwbWNhcF9NMGNlblBWcGkyVUFnZ0NkRmtYOVlkRHREdXYwbGNZQ281Z25VYUdxRDlWNFNwQmJEZ192VjJ1RXk3eFN4Yl9hQjY3VlVlZktGbkRZX3ZWRU5HOEJhcEdKQWEyYVIzdmR1a1NzY25BcWQySlN4TmtJQlJGa9IBhwJBVV95cUxPdnB3QUliSVVTdzNTWE15UjlXeW9Td2I5d0ZINXkzOTgzdDVodmtfX3dpUHFIYm1wVWJjWi1veERkV0Zzb0JNNHR2cFdnQWFnNTZlSUlPeGdCcHUxV2cwUUtyQU04NnpyWEx3b3RkVHk1VlZTdldFYkQ3UFhKVjVlTHFBSzlEUE9DNVlBa3dwbWNhcF9NMGNlblBWcGkyVUFnZ0NkRmtYOVlkRHREdXYwbGNZQ281Z25VYUdxRDlWNFNwQmJEZ192VjJ1RXk3eFN4Yl9hQjY3VlVlZktGbkRZX3ZWRU5HOEJhcEdKQWEyYVIzdmR1a1NzY25BcWQySlN4TmtJQlJGaw?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/01 22:49",
-        "related": [
-          "ETH"
-        ]
+        "title": "AI需求強勁、港口壅塞持續 全球貨運旺季延長費率看漲",
+        "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQV1pqSFJSR2lyc1AwS0tibjJBS3RKa2FGU2dBXzRIUllrNWJHWXVPSm1ZaTZZNmUtNVBuVnB1YkJDNllFT0hvTzRDRUpqOFBiSzV2bXRZRDRWQUM5cVliNU96OVR1YzNFSW0xUFB2cnNuc1o4N0RzRkY4Mmtfamkwdzh2eWtZM2xlVmdua2x2ZE9JSmNJUzR5LTFicEVqaEZEWXFiRkxZWmxhclBMbGJPRWE1YVNtcUFoVEhNRnFqT0hrZ01wN1pYTDd4VlMwclZrMkdVTG9QakQxUTJvY1pNVllKWDRPWXpIUWNnQkRXRmRNaTFFYy02dTJBRUNyNWNuTzIyOTVaLUUtd2dabTBsUHp1ekVBT1BRdU9YZkd2SzB5a1NyS2hReXI0UnJTaGpzaHdkZW4zNXdyQjU1WTBkajd1SVhueC0xM0txWm1FbEN6VWJrSnh4Z0F1MG9ySlktcnJGUlV1UmdoZW5QVF82eXpNNURQSVp4WGJ0VDRn?oc=5",
+        "source": "marketersgo.com",
+        "published_hkt": "10/02 08:25",
+        "related": []
       }
     ]
   }

@@ -91,8 +91,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-02 21:17 HKT",
+      "updated_at": "2026-10-02 22:50 HKT",
       "news": [
+        {
+          "title": "恒指收市跌640點 成交1458億 北水休市 (16:27) - 20261002 - 即時財經新聞",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPWmdhVW54dHQ1VWhkM3VnNTUtTzZoNjFyZ1Q4VkhYV3dMWUZKWGZLbGVjNmk4OU41cVNkYnJaSHhGR3lHQzhUQlk2b05DcktyQ3B0blV6ZEdMTy1FNHRzbl9tR0piZk1FZndCQnNWUy1UY0xWcWVSVV9QNk4wNkM5WVJLd2lOa2JsX1BySVNvN2NFME8ybFhqZ09xeFRUd0xxZjJNb3BlTzBXd1g5ejEtY09ULWltNVBodU5rM2pjaW1OcjF2SHItM1VwRllOU3B0bjA3S253M1BVekREMG1ySEpUM0poSTJ5SkE3V3ItVGpRYnNiTWlOVnNYVUhCTXNwRkxlS2JwT1pNVXJSbU1WMkhiYnlnM3oxS3c?oc=5",
+          "source": "明報財經網",
+          "published_hkt": "10/02 22:03",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "港股10月開局重挫：恒指跌2.6%失守24000點，物理AI概念股上市次日腰斬",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSeU5ZWU9rNmt0UV9qQTJlVTVSX2lPeHpwMllsZm96LXAxWjdUU281TVYzMzZIcVJLYlpBM3NUaDV3ZmFBY1diamdIdW9SdWkwTm0xcXF1dGRiUU4wQzBxaGRSZ1ozX2EzSTlEVjE4SGtlUXY0c3E4ZTBn?oc=5",
@@ -110,13 +119,6 @@
           "related": [
             "^HSI"
           ]
-        },
-        {
-          "title": "港股重挫2.6%！失守24000點關卡分析師：後市不容樂觀| 陸港經貿| 兩岸",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsRzVQdm9pS1F5RWtUeVhodkRRc0U5NFRrenQxbTZtcU16S3dOczdhT0gwUmRaVERJTXJIZ3VsNGpuZ1AxN1RKUEpZRUhjdzlT?oc=5",
-          "source": "UDN",
-          "published_hkt": "10/02 18:09",
-          "related": []
         }
       ]
     }
@@ -151,31 +153,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-02 21:17 HKT",
+      "updated_at": "2026-10-02 22:50 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數- 護國“神乖”關廠！綠色乖乖會不會成絕版？ - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TRmluYUNuMkRrZV9WNURFb3BhM0pCeVRQZ2ZUYUhPWWxkMFZ4bVhfcmRmai0wd0w4MEplTUUwOXJIWkZxY0NGS2FSdFowajhlLU0ydllyZU8?oc=5",
+          "title": "TWA00 加權指數 - 崩盤正式倒數 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CRkw4WUxNT2tDcUh1dHVlVVQ4Y0llT0RHZVlIMG9rTkhxNHNHSE9ka2JyRGc5eDNrMHpxZGYtcWxSNS0zRkRrY2I2SE9nNHc4T1Y1S3JYTTg?oc=5",
           "source": "CMoney",
-          "published_hkt": "10/02 20:47",
+          "published_hkt": "10/02 22:17",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "TWA00 加權指數- F-16V Block70抵台😘 - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtTFNSSU82QjJwNERvMmZ1NFd2RnRWQWtRY3ZTcWd4Y1pOVllvMGtWSlJWN3RUXzRWMXFJWnlLT3FFbFdRc0gxcEp5ZmxmdGdtd2JRMkVTQWY?oc=5",
+          "title": "TWA00 加權指數- 不要懷疑台灣市場前9月漲幅世界第一，台灣Number 1 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zRWs0ckJ5dnFHeFd2dkh2RFVuQ0tKYmRrU2ExQlQ1VkdWc1hWb2g4by12c09wXzF3NmNxdkVKamhHX3k4YVZvTjJRSXY2aXVwdkNhZmlMb24?oc=5",
           "source": "CMoney",
-          "published_hkt": "10/02 19:56",
+          "published_hkt": "10/02 22:07",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "TWA00 加權指數- 烏軍多線發動攻勢！頓涅茨克西部激戰，利曼行動進入第四階段，克... - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zV2dVQk9yX2h1d2FRR3dzeGFRbWkySHk5OEwtd241TE1pU3lNWEcwUmd3clhGZ3g0eVBDbi12NVA5X2ZzUmhIanpEdTM4bEx3QnF1OHF0Qkk?oc=5",
+          "title": "TWA00 加權指數- 聊聊，為什麼變冷清了。 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qVmRTd3RyNjFyZXZibmdTMUszWEVxVl9maWVQSnJRTXZjRE1GODg1d1NzX2tZSmMxcDRyd0MwMGtqV25ON2Q2X19FY0l5ZFpUekZlaVROXy0?oc=5",
           "source": "CMoney",
-          "published_hkt": "10/02 19:27",
+          "published_hkt": "10/02 21:51",
           "related": [
             "^TWII"
           ]
@@ -213,7 +215,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-02 21:17 HKT",
+      "updated_at": "2026-10-02 22:50 HKT",
       "news": [
         {
           "title": "晶片股反彈 日經指數收漲逾3%",
@@ -246,7 +248,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-02 21:17 HKT",
+    "updated_at": "2026-10-02 22:50 HKT",
     "news": [
       {
         "title": "比特幣突破 8.7 萬鎂、以太坊站上 $2750！全網爆倉逾 3.6 億美元",
@@ -259,20 +261,19 @@
         ]
       },
       {
-        "title": "狗狗幣的上揚能否突破0.10美元？",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOR1BWbEpwNUZTRDlvLTllbFo4UHgzeG54b2QtSkVCVTFEWWxVUkIxMkc0d3k0bGJDSURSNExfaGFuQlViOEwtbG9PeWpwbkNtOW1NbHR3QjNBTXF0TmpibFRlVUo2TjVJSENVcG5VS0Z4MkV2RngxV1JCdXJpeDFBdDlDRmlmOS1vQjRkRlVTNVFmSGlteDdlb0N4Y0hmazRnaWtfSnkzMkVXMk13ejhXd1Y1MHd6SEhqQ2FTemZ2ZVBKNTBHTjJEbDRyUTZ3MXBVNUhxOXBzTjlmQ1FKUl9qZ2ZYS1h3YkhmR3dkM0poeW5NRjF1VHJja0kwbk5ZZjcyaHJUONIBhAJBVV95cUxOR1BWbEpwNUZTRDlvLTllbFo4UHgzeG54b2QtSkVCVTFEWWxVUkIxMkc0d3k0bGJDSURSNExfaGFuQlViOEwtbG9PeWpwbkNtOW1NbHR3QjNBTXF0TmpibFRlVUo2TjVJSENVcG5VS0Z4MkV2RngxV1JCdXJpeDFBdDlDRmlmOS1vQjRkRlVTNVFmSGlteDdlb0N4Y0hmazRnaWtfSnkzMkVXMk13ejhXd1Y1MHd6SEhqQ2FTemZ2ZVBKNTBHTjJEbDRyUTZ3MXBVNUhxOXBzTjlmQ1FKUl9qZ2ZYS1h3YkhmR3dkM0poeW5NRjF1VHJja0kwbk5ZZjcyaHJUOA?oc=5",
+        "title": "為什麼XRP正在小幅走高？",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX2NGQldZYVU3RWljV3RfYmlseUZfVjJNT0wwNTNmNnZtdXdxT1I2QlVWMXF1QUhvaHRmOXgxVlMydmg5NHZQRi0ybE44TlJjdW9vcmp5R2pTVzFXUm8tY3dGbXZaTDh1RDhVdGJXclJzVnlnVGhyWjdqUjY2SVREUE5EYXkycGE0bnVkSVRyRGstZEpNdHRfeTUtaG5fdG1QMnNXaGFidUs2Zm10Sk81aEw2cUozd2lUbjNPbVY2M0VYcTdZbTJUTjNKQ0k3SGxSYjRHVDNkOXB3NE9N0gHcAUFVX3lxTE5fY0ZCV1lhVTdFaWNXdF9iaWx5Rl9WMk1PTDA1M2Y2dm11d3FPUjZCVVYxcXVBSG9odGY5eDFWUzJ2aDk0dlBGLTJsTjhOUmN1b29yanlHalNXMVdSby1jd0ZtdlpMOHVEOFV0YldyUnNWeWdUaHJaN2pSNjZJVERQTkRheTJwYTRudWRJVHJEay1kSk10dF95NS1obl90bVAyc1doYWJ1SzZmbXRKTzVoTDZxSjN3aVRuM09tVjYzRVhxN1ltMlROM0pDSTdIbFJiNEdUM2Q5cHc0T00?oc=5",
         "source": "FXStreet",
-        "published_hkt": "10/02 19:15",
+        "published_hkt": "10/02 20:31",
         "related": []
       },
       {
-        "title": "為什麼比特幣、以太坊和XRP在上揚？",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeXgyQW5GZTczNUxJUHBydThlN0lYVklRYWVjZDVfUWdtcXIya2tKRGFmOFlKSWxnVXFnd1BXWXpmc2lQcTZHaG1aWEZqV0ZGYUpfREY0SHZDWlBSbFhVYkxsTVVOd0pmclZSSkVFeFl4SnZEZ0pUZ0JWMTBsV2V3M0xOaTlwZ1FEa1JLcnFYUHBFRmVudTN4YUFUTndicXdYTlo2Q3ZXczNWaDhzME5mRW00V0dUN3plSG5EdDhfQjJOdWFiT0FzZmVVcGdKY0pSeHE2dFNSamVwRkJMQ3hRN1Y3TEJ1Ym_SAecBQVVfeXFMUHl4MkFuRmU3MzVMSVBwcnU4ZTdJWFZJUWFlY2Q1X1FnbXFyMmtrSkRhZjhZSklsZ1VxZ3dQV1l6ZnNpUHE2R2htWlhGaldGRmFKX0RGNEh2Q1pQUmxYVWJMbE1VTndKZnJWUkpFRXhZeEp2RGdKVGdCVjEwbFdldzNMTmk5cGdRRGtSS3JxWFBwRUZlbnUzeGFBVE53YnF3WE5aNkN2V3MzVmg4czBOZkVtNFdHVDd6ZUhuRHQ4X0IyTnVhYk9Bc2ZlVXBnSmNKUnhxNnRTUmplcEZCTEN4UTdWN0xCdWJv?oc=5",
+        "title": "加密貨幣價格預測：DOGE、比特幣和加密貨幣——歐洲收盤綜述 10月2日",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUjc2NUZhenVqdk5rYm5lN2xyVFM4RVVieS1yLVRLR3RvQTdFSGZNMEFjeWZsUEZTQXpPcU1id1dXZEV3amV5QVRFdm9TYjMxWXZkYS1sUTdLWmkyZTdPNTZ3enhuRVhJekhFVnpBUm51aWxsOWFsTWVaM01oQjZQSnM0emNlTEU1SDBXUEJSdmUxMkNUUDZHSFFiNU9fR1JnRmFhTVM0N05EWllYeWMyeDNnUlBuLU5rSU52YmFyVGItS1JyUl9ncGJxZS1menlvbVpDem5FU2tFS3FDY2dTSEZFY2UyR1hiX1dEeNIB7AFBVV95cUxPUjc2NUZhenVqdk5rYm5lN2xyVFM4RVVieS1yLVRLR3RvQTdFSGZNMEFjeWZsUEZTQXpPcU1id1dXZEV3amV5QVRFdm9TYjMxWXZkYS1sUTdLWmkyZTdPNTZ3enhuRVhJekhFVnpBUm51aWxsOWFsTWVaM01oQjZQSnM0emNlTEU1SDBXUEJSdmUxMkNUUDZHSFFiNU9fR1JnRmFhTVM0N05EWllYeWMyeDNnUlBuLU5rSU52YmFyVGItS1JyUl9ncGJxZS1menlvbVpDem5FU2tFS3FDY2dTSEZFY2UyR1hiX1dEeA?oc=5",
         "source": "FXStreet",
-        "published_hkt": "10/02 18:48",
+        "published_hkt": "10/02 19:34",
         "related": [
-          "BTC",
-          "ETH"
+          "BTC"
         ]
       }
     ]

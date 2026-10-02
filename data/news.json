@@ -147,34 +147,30 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-01 23:32 HKT",
+      "updated_at": "2026-10-02 14:02 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數- 如果一切重來，我不會急著找十倍飆股- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kdW03alBkXzVNTEx0UnlfOTc3SmpkaTgwMFByMk4ydy1YUFp5Zi1HYzNyaThSUGgwaGFCSDZTZm5OVE1LenRPYWlsNmJOUHVFNzEwWUFvV3I?oc=5",
-          "source": "CMoney",
-          "published_hkt": "10/01 20:11",
+          "title": "台股收盤／中小型股點火！台股漲122點 光通、被動元件漲停搶鏡",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50NmhRc1k3TTlQWkdFSGJhQ1ppVW80LWl0TnVyTE1wN0twQ2dya1k3dlBPZi1ueHZXUjhFVjhub0lVZFVyUXNZckhSWQ?oc=5",
+          "source": "三立新聞網SETN.com",
+          "published_hkt": "10/02 13:47",
+          "related": []
+        },
+        {
+          "title": "快訊／台股收漲122點、刷收盤新高　台積電跌10元至2500",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45SzFOcUsxTEJ4SG03eUxkcVJSUi1HcUk0OVlWRHZSYlVSMFdUaHFMcktKX3ZiQlNNWTBoTGRhVU44VGlsUmVJTWo4N3d5QUttQ2fSAVBBVV95cUxNR0lEUzJyRkV2a3NsU1NiQXpkS3hxLS1wZjktcGFiTHVEWTlsMW5JQmZRVmlwYklyUno1MFBvd1BTUXlDcG5PSTBZQXJVdG9UZw?oc=5",
+          "source": "finance.ettoday.net",
+          "published_hkt": "10/02 13:35",
           "related": [
-            "^TWII"
+            "TSM"
           ]
         },
         {
-          "title": "TWA00 加權指數- 當我們同債一起；川哥火上澆油發言？ - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhUnFiMlBoWnZxeVNsVHpDOG5ZdFMyY3BHV1NkbHJycVV6TXQ4MU9DX09SUGl6elpDY3JwOTl3ZjlHVDlnSW5FSWoxUldOVWRWSGhSUUM5T1o?oc=5",
-          "source": "CMoney",
-          "published_hkt": "10/01 19:36",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數- 投信1日買超前十大金傳包牌台塑寶寶入榜最猛39連抱- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WU0pNekFkZzd1S3VCTTdoTnBzVWVUNWZWQnVSZzQxaERIbmJOdTRKSWl4MDNiRWNYcFNMVzFPdE5EcHNzTkFpOEdab0Z4eFNJU0NaWWFMNGs?oc=5",
-          "source": "CMoney",
-          "published_hkt": "10/01 18:25",
-          "related": [
-            "^TWII"
-          ]
+          "title": "台股第四季誰領漲？被動元件族群狂飆",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWkljVk1kbzFRa3hqZEMwNVlDMU1kNC15akJnbmpnVWJSZXBfVXl5UHo0VFVHTXRWa3ZOV1FKU080dDZESFdiNUptY0pLOVhxVDBhaHF1N2JSQ1JzZER2LUtNWEdZZXVQMDJmSGZ2TktkcFBZVkNwZV9sOFA3SXhaU1R1VnRheTBBckV3?oc=5",
+          "source": "PChome Online 新聞",
+          "published_hkt": "10/02 13:24",
+          "related": []
         }
       ]
     }
@@ -239,31 +235,34 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-02 10:19 HKT",
+    "updated_at": "2026-10-02 14:02 HKT",
     "news": [
       {
-        "title": "比特幣突破8.5萬鎂、以太坊衝2715鎂！全網爆倉1.88億鎂，恐懼指數續回落",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU0xRRm1FdjJjN2M4bXJ4WjM2Qnk4SVpxclIzWHloRjRJakhOaklLeDgxclR0d2RRWmtBQUV1OHBNbzl0MmVqcExYc3FxYU5seGJiQVFhVzVoSGRaSGdDcXJndDBxRWNidXNjZ2tqOGJ5b3p0QU9DQkFhSXRWSVJfRkhISmNVM3dWbXpFNXV2QXlZTzJXQ3N3MEdfeEhtdW53?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "10/02 09:33",
+        "title": "看好資金回流與監管明朗 花旗將比特幣一年預測調高至 11.3 萬美元",
+        "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNeTZhaGlPY3J1ejVPNURmZ1JYeUNjUVFyamZOcS1hM3YtT0YyTjdEalVmdERtMWhDMGxDZ0lTcWNZOXFLTjZEWVIwVGgyZk14YnFSckNSb0I2cThjd0RDSDJKUExQWVc2aVpwc1JVRzJZV3NDd2tsSlFyYkNYX1NQakJKUnlVdGZOOHhHOU5FSVNfS05BaVVPdUl6Wk1wS2Y2bmhtbWlIODMxRmZaTDFPaXBMTHdvQ0Q3TmlzdG0yTi1nRGV6SDFaZHdTZHRPT3IzUXZhWmVQZFRlT3BoVGVRRUl2OEpxSTZxRzZnWHpKYjM5dmZKYU5UVTJsdm9IdEpja0V1WVRoM1p1Z3hvaFhZTGRWaTI3WHVYTFBtX0V3dmVxeXZEb0ZHUDNDWkFMRC1RNWt3a0IwM0NjOEllUlhSOGZaaGdZRFRMaTd6M0xPRmdpcnZ6UlhVc3ZybTgtRUI4QklnaEE5YUtTckQ3OFYweFQ4THZXWXRvVXFnR1JsMzVBaVNOanpXbkQzZ2dTMFpRc2F3OUxWR3lLX3l4cmVfNVNSeWRlMHh5LU0wU1o0NWpfRkZ3?oc=5",
+        "source": "商傳媒",
+        "published_hkt": "10/02 12:12",
         "related": [
-          "BTC",
-          "ETH"
+          "BTC"
         ]
       },
       {
-        "title": "Boardwalk REIT股價創年內新低 加拿大房地產信託前景引憂",
-        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOeWdSQ0hCN25Xd2FVMGtIOXVaZnFLTmtKMjFiLWloSUgzRTV5SW0yN2M3dURicWZzTVhYWkRwWmRaWXQ3QmNWcFBJYXdMNzZRZ3RSN0dBamQ2anVTVzRYakdjdnhjQS1rd0xFMHlwelFpRmNVdFdUS2ZaeUwwZG5rbGlRWjh6aW1wcFpXcVUtYVNJenhwS1prT3FQNldzV3AwanJuUW8tTzFfaTM3OG9lYUFfUzJWajZ1WkRpbUNkN3FlbjdNU3BqWnZ3MUdINlVkYVJ0UW8zdElUOU5aYThSdWFISG85ZEpncHdaQ3RXVFd6THlIdGNDR0twdlRhUFlrXzE5d2JVTTJvcWp0ZWVnR2h1Q011YzFuNDBaTzJOdnN2WUM2bVY3SDU5YUs4NjNJaTZ5MVVSckl6V2NTeDU2c2lpTkt1a1hFSGFGX2hsWGdTLWl1WEtoUG5reldOblhSelNmZHlpMEZyQnowWjhzRmpWY1FSUQ?oc=5",
-        "source": "marketersgo.com",
-        "published_hkt": "10/02 08:27",
-        "related": []
+        "title": "SEC 推進 Crypto 託管新規、Bitcoin ETF 九連流入中斷，Citi 上調 BTC 至 11.3 萬美元",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iUE5EakxoM2RUbEdsT09EX29WQ0hITXBIQ3BsUWxNR0MtTlZiczBqNzZrMlZ4N1FMeHB0dC0yTmM3UHhTeVBQMkRhd21vdw?oc=5",
+        "source": "Grenade 手榴彈",
+        "published_hkt": "10/02 11:28",
+        "related": [
+          "BTC"
+        ]
       },
       {
-        "title": "AI需求強勁、港口壅塞持續 全球貨運旺季延長費率看漲",
-        "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQV1pqSFJSR2lyc1AwS0tibjJBS3RKa2FGU2dBXzRIUllrNWJHWXVPSm1ZaTZZNmUtNVBuVnB1YkJDNllFT0hvTzRDRUpqOFBiSzV2bXRZRDRWQUM5cVliNU96OVR1YzNFSW0xUFB2cnNuc1o4N0RzRkY4Mmtfamkwdzh2eWtZM2xlVmdua2x2ZE9JSmNJUzR5LTFicEVqaEZEWXFiRkxZWmxhclBMbGJPRWE1YVNtcUFoVEhNRnFqT0hrZ01wN1pYTDd4VlMwclZrMkdVTG9QakQxUTJvY1pNVllKWDRPWXpIUWNnQkRXRmRNaTFFYy02dTJBRUNyNWNuTzIyOTVaLUUtd2dabTBsUHp1ekVBT1BRdU9YZkd2SzB5a1NyS2hReXI0UnJTaGpzaHdkZW4zNXdyQjU1WTBkajd1SVhueC0xM0txWm1FbEN6VWJrSnh4Z0F1MG9ySlktcnJGUlV1UmdoZW5QVF82eXpNNURQSVp4WGJ0VDRn?oc=5",
-        "source": "marketersgo.com",
-        "published_hkt": "10/02 08:25",
-        "related": []
+        "title": "美財政部決策助攻比特幣 第三季報酬率狂勝黃金十倍",
+        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQdFRVcElDczVmelJjUHZpcndXZHB3OVlmcTBCbmxucXVhSVI1eDBXb1BuRkg4MmVRemdLSXZFUWhsTjctd0kyTnFwSm9ocktxTGo2eWZERXZ1c1ZZenVzRmFRc2RpazN4T2VGY2l2LWMzN2ZRUC1wZFVpNFBVZnZrbGtVeGNNdXVpbWRvaEVVQzEwWHFKb3B2Wm05X3A0dnV0WFFIdTUxLUZxWllGdFhVNDBhOVAwN01xVXMxQVJFMTktcGNyUG1ldlhldVBkY21VSi1PamFjZllKQkt0SGplRXFSYnQyTGtCWExieVZ3ZkhVVnFqR1c1Wks2Ymw4bWFlNGxJeFFwUW80N1V0d2I4NWF0My1VZGx5OG02Rnk3MjI1VE84SGl4Y05uTjA4aEZpSUpNRndaYjJNaEpTNzhTT3B4MkZNdHI2b2lmYUNMWVY0RkM1SGUtU0M5eEZqNXdhaGpBVWd0NDE1OXVlWHFEOHdqQk9WYkU?oc=5",
+        "source": "商傳媒",
+        "published_hkt": "10/02 11:12",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

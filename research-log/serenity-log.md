@@ -6,6 +6,9 @@
 
 | 日期 | 鏈 | 當週咽喉環節 | 本週優先標的 | 相較上週變化 | 信心 | 佐證等級 |
 |------|-----|------------|------------|------------|------|--------|
+| 2026-10-05 | AI 算力/半導體 | 記憶體(HBM)仍是硬咽喉：Micron FQ4財報確認HBM3E/HBM4預訂至2027、FY27產出逾75%已承諾 | NVDA、TSM、MU | MU由#4升回#3（FQ4營收$542億、DRAM+343%、FQ1毛利率指引~86%）；AVGO由#3降#4（無新催化，非基本面轉弱）；NVDA/TSM/MRVL不變；另有Rubin 2026目標200萬→150萬顆傳聞(單一來源) | 中 | A(Micron 8-K)/C(Rubin下修傳聞) |
+| 2026-10-05 | 電力/散熱 | 電力併網仍是咽喉（GEV積壓116GW、德州438GW大型負載申請、FERC 11/16大限），散熱側Vertiv併購UtilityInnovation待Q4交割 | GEV、CEG、VRT | 無實質變化，排序不變；本週查無新財報或訂單，僅補充德州438GW、FERC要求電網修訂規則等背景 | 中 | A(GEV財報/Vertiv公告)/C(德州、FERC媒體報導) |
+| 2026-10-05 | 加密價值捕獲 | Arc主網9/16如期上線(190+夥伴)，但手續費/RWA實績尚無可驗證數據，CRCL續跌至~$81，價值咽喉仍待驗證 | COIN、IBIT、CRCL | 無實質變化，排序不變；Arc由「倒數」轉為「已上線」，檢驗點移至後續實績；COIN與ETF資金流本週查無可靠新數據，維持上週判斷 | 低 | A(Circle公告)/C(CRCL股價、媒體報導) |
 | 2026-09-14 | AI 算力/半導體 | HBM供給緊縮從財測敘事升級為NVIDIA被迫調整Rubin Ultra記憶體規格（12-Hi降至8-Hi）；Broadcom財報確認AI資本支出未見頂並首度上修FY27/28多年展望 | NVDA、TSM、AVGO | AVGO由#4升#3（9/2財報確認AI半導體營收$167億+221%、首度給出FY27 $1,150億/FY28 $2,300億展望）；MU由#3降#4（HBM4吃緊利多持續，但月產能落後三星/SK Hynix，競爭地位相對轉弱）；NVDA/TSM/MRVL排名不變 | 中 | A(Broadcom財報)/C(Rubin Ultra降規、DRAM庫存報導，不可單獨定論) |
 | 2026-09-14 | 電力/散熱 | ERCOT依既定時程對461家資料中心發出RFI、FERC分階段關稅維持11/16大限，執行風險未解除；Vertiv砸最高$26億併購微電網公司UtilityInnovation，把液冷護城河延伸進電表後供電咽喉 | GEV、CEG、VRT | VRT由#4升#3（9/2併購UtilityInnovation Group，跨入time-to-power新咽喉）；PWR由#3降#4（本週查無公司專屬新聞）；GEV/CEG/VST排名不變 | 中 | A(Vertiv併購公告、MISO/CAISO FERC文件)/C(ERCOT稽核時程媒體報導) |
 | 2026-09-14 | 加密價值捕獲 | Circle Arc主網9/16上線倒數但CRCL股價逆勢破IPO區間（-10%），基礎設施敘事尚未兌現為現金流，真正檢驗點待上線後手續費/RWA實績 | COIN、IBIT、CRCL | IBIT由#3升#2（BTC/ETH ETF資金流延續2026最強紀錄，資金確定性優於個股雜訊）；CRCL由#2降#3（股價破IPO區間、準備金收益率降至3.48%、Open USD競品分流）；COIN維持#1但動能轉弱；MARA/CLSK/RIOT排名不變 | 中 | A(ETF資金流、Circle/Coinbase官方數據)/C(股價、hashprice等媒體報導) |

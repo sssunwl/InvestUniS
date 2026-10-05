@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05 15:36 HKT",
+  "updated_at": "2026-10-05 20:04 HKT",
   "us": {
     "stocks": [
       {
@@ -38,14 +38,14 @@
     "stocks": [
       {
         "symbol": "0700.HK",
-        "price": "HK$423.2",
-        "pct": "+0.47%",
+        "price": "HK$423.0",
+        "pct": "+0.43%",
         "dir": "up"
       },
       {
         "symbol": "1024.HK",
-        "price": "HK$29.54",
-        "pct": "-0.14%",
+        "price": "HK$29.50",
+        "pct": "-0.27%",
         "dir": "dn"
       },
       {
@@ -56,14 +56,14 @@
       },
       {
         "symbol": "3690.HK",
-        "price": "HK$70.50",
-        "pct": "+0.43%",
+        "price": "HK$70.65",
+        "pct": "+0.64%",
         "dir": "up"
       },
       {
         "symbol": "1299.HK",
-        "price": "HK$68.60",
-        "pct": "-0.87%",
+        "price": "HK$68.95",
+        "pct": "-0.36%",
         "dir": "dn"
       }
     ]
@@ -140,32 +140,32 @@
     "stocks": [
       {
         "symbol": "BTC",
-        "price": "$86,212",
-        "pct": "+1.51%",
+        "price": "$86,138",
+        "pct": "+0.96%",
         "dir": "up"
       },
       {
         "symbol": "ETH",
-        "price": "$2,723.3",
-        "pct": "+1.12%",
+        "price": "$2,715.4",
+        "pct": "+0.57%",
         "dir": "up"
       },
       {
         "symbol": "BNB",
-        "price": "$792.3",
-        "pct": "+0.62%",
+        "price": "$789.8",
+        "pct": "+0.16%",
         "dir": "up"
       },
       {
         "symbol": "SOL",
-        "price": "$121.6",
-        "pct": "+0.47%",
-        "dir": "up"
+        "price": "$120.6",
+        "pct": "-0.52%",
+        "dir": "dn"
       },
       {
         "symbol": "XRP",
         "price": "$1.52",
-        "pct": "+1.76%",
+        "pct": "+1.19%",
         "dir": "up"
       }
     ]

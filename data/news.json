@@ -89,27 +89,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-05 22:11 HKT",
+      "updated_at": "2026-10-05 23:21 HKT",
       "news": [
         {
-          "title": "《財經鳥瞰》AI風起嘉惠台日韓 奈何港股獨憔悴",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tUV9BbC1tNEtMcXRfaG9SOUhLekVpSENLRGtyTnp0Zl9WMzdBU2o3WmtOd3pnT2pxRkRGRGltN0R0Z0V5QlRGVkdLMGhJR0Vlc0g3dUJiRQ?oc=5",
-          "source": "anntw.com",
-          "published_hkt": "10/05 19:18",
-          "related": []
-        },
-        {
-          "title": "港股超賣會再超賣？|香港經濟日報",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVDduWXJQc3UtdkplR3gzNHB5WFUyd2VSTEhOVWJ2ZUI4eFpXV1h0OXpicF82NXNOQ09QTnM5S05SX3NVUTd4RHY4U1JQUGFDTzN3MEJwaDFPNWItQUprSWRSZnhxalBPNDF0VF9rNTJqWWhfdFc0dl95eXpPd3JxQ1d2NlVOLVpJNnVlcjdhRzRCNUdzVXNSOUU1Xzh3MTB5NkFZclpUSWtRRWhFalJhQWJaRVZNUjZtb3lGa2ln?oc=5",
+          "title": "【港股夜期+ADR】阿里ADR高港2% 夜期再升148點（不斷更新）",
+          "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPb1lnczlmS09SZU5zV1dGTW9zZnFQc2NSNTBZMVlJWFlCcTVXV0Q1ZEkzdGJmaEc0cFpSRHRzdUNVZHU4NnNnaFBTcW1JX3pkZmN4UmpDTmdidFlKdUs1bk5kUXJ0NnRxUVNPUDFvMTh2WktORG1pa2V2bXhZMXJhaGxLRkt5MHBLd0VzYTNuX0p1Z3B6akNvZlpUMjR1eUt4NFJFX0JPcm1PbEVzMDk0WVpPYlJ3ekpOZlY3UDE0eGNFbVpTT0tZMXNVamdhT3Ftb1dLaDlMRWo2M0NNRld3azZDajNQSUw3VFVDeHBTaEFYeWp3aW05d2lKN3RfQ3FjY1dWUHlzMnhjQlhVT0JMbUVVakdITy1zQkRNVUk3cUJNWTBkanFlcGJQc2lhOU1yQWFEWmcxWkppaE1jTjNoa2xwMjJwUGhOamRYcXZTUmstdTVEZ3FNS3NISHRYMllIYU1FaU5OTTlRZ3R1d1E?oc=5",
           "source": "香港經濟日報HKET",
-          "published_hkt": "10/05 17:22",
+          "published_hkt": "10/05 23:07",
           "related": []
         },
         {
-          "title": "【港股收市】恒指升68點 重上24000關 冇北水成交不足千億",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mczJfckc4c3dBMWExaFF4eUthaENjWHBKNWJxeUgyZXc2dXVLRTRNSHJEOVc1X3EyMnV4N29wcF9fWXRnNmx5OWZXRkducEdDM0pjQVJLbm5oYU52MXNuUUlkc1E?oc=5",
-          "source": "Now 新聞",
-          "published_hkt": "10/05 17:14",
+          "title": "恒指收市升68點 成交金額981億 北水暫停 (16:20) - 20261005 - 即時財經新聞",
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOZGVYcDFiaE5RWC1ZR1JrUjFhRE9kZEoxV3EtT1RFZ1h2Wk5GNTZzeGw1eUV1VmZyaWU4OERCVTB6aUU4YXRzd3owTGl6Nk9DWXMwVmZVcVEwVTVYWG1ZRUVTVFZOSlViRVlXcFdfUmprbDM0SGNwcnhBQkxRc3lmcDZnN1RpX0N6M3NoRGl5YlRySjBZLW1SM09ibkJlUnZJS3pYZE8yWkloallmUmVfeHkxZUZDN2xMWml0bzdUaG9FRDEtSXBVWFJ3aFhNZkdpMXB1bVNQWVRNVGwzN0tVOThISjd6TkRPQ2RJM2UwZ3E0dFFuUlZQYmtRUHFJZXM2cllibUVjenZ5dEF0N0M5UzdMNnpRVWM3eHJxbEdFbUpERGIxbzN2NEtpQU9yTWs?oc=5",
+          "source": "明報財經網",
+          "published_hkt": "10/05 22:12",
+          "related": [
+            "^HSI"
+          ]
+        },
+        {
+          "title": "恒指創近三個月低 破局靜待港股通重開",
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPcWY0MEdONDd5QnB5VHNxd2VBR0dXckpIb2M3SjNTd2JUSWNfM21MQk5IOXVJcl9SSkdNQk1fUHlQNFNEZHJoYmdFVXZpUDJPZjhsQmRXcEctRlVUbDVzOVNITFpQZ1FVcGNPRFhTVTRxS0ZQaEFCWmxfYU9iTE1MN2lNcmlmSzBCOEF0NjNuR0UtZXNHc1NOTmpiRjdsUnRhM1l3QlFnblNDREhCU1FUNElmaDBkTjRDZG1hUFp4cEk2SF9qcEZxLW15R0s5MDluVEJCN0NycFF6UjlaMnZESE5ucVNKWnlwbUo2U3VjSWw2eGNWM3ZqUnYzUVpHWU1lZngydU11cERnQ1VyMzZRXzdkTzREUWlwZUJNRk5qdw?oc=5",
+          "source": "HK MoneyClub",
+          "published_hkt": "10/05 20:49",
           "related": [
             "^HSI"
           ]
@@ -147,35 +149,34 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-05 22:11 HKT",
+      "updated_at": "2026-10-05 23:21 HKT",
       "news": [
         {
           "title": "台積電創新高市值達 66.77 兆元，貢獻加權指數 594 點",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRZ2dkdDB4OW5qUmpGRVhBalpYUUp1Vmo5aVpIWERsU0JWYmtkb2Y5Q2dndlBTTm9Ya25ueWtNUnNwcUZ1VWt3aThvS2NEdHlSeXRDZEVSVkJqRmp0bFI4cWs5MWk4SVN6SWZqdi1WXy12WXh3dmc?oc=5",
           "source": "TechNews 科技新報",
-          "published_hkt": "10/05 22:03",
+          "published_hkt": "10/05 22:51",
           "related": [
             "TSM",
             "^TWII"
           ]
         },
         {
-          "title": "TWA00 加權指數- Q3跌深Q4反攻！00991A重回主動式ETF漲幅王AI強勢行情再啟動- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sODNSVnlDcXlnY2FDbUVLZ0U4UFlZekFIUGJVUHNhRlFqeWsxVkJwR2F6aFYwNXo2RmNTMHc4cEMyWFY5bGlzejZXWGxaX0g2RlRpTUtrRTc?oc=5",
+          "title": "TWA00 加權指數- 10／5盤後閒聊及本週行情走勢。 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hdGRfX2RKYnpBa2xxMnU1b1E1Ml84Z3g2MTFPdUJ4LWRybDU1Y3dUa3ZQNjhoUTFna1RaZmdNVGRuYlRfRy1zd1h3LWcxb2pMODhwOFJHU0w?oc=5",
           "source": "cmoney.tw",
-          "published_hkt": "10/05 20:56",
+          "published_hkt": "10/05 22:22",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "預期台積電與特斯拉 Terafab 有兩種合作方案，成 15 日線上法說會關注焦點",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSWlScWpPRGM2VzBULW4tUWxpbTF4dnFaN1hoc3FMWjR3Z2ZkTXpUYWRGNTJMbFJSallGRXMwX0xyX0JaS2psWlByVk5OQTJuQ2RVaEhSWHQzRHVRV0ZlS2FIU1hISFUwYjVkMURNZ0lJc2M0cU1PdXBwTHV0TFFBNUtFUk5VZDhtNW1FdDhUNDRQOF9oYzYycF9oNmM?oc=5",
-          "source": "TechNews 科技新報",
-          "published_hkt": "10/05 19:54",
+          "title": "TWA00 加權指數- 川普發動金錢攻勢！美國中期選舉在即，川普宣布將再次向選民發錢- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CdnVHT2VNREUwNFlvM0JPRHJYSE9FZ0E4bnk0TEFpV0JfM1RDMHp5eG96VjVVblVnZzJYeTlKVTFNMDFjTFA2SXR6YU1OUGZtTEw1Q0FSZm8?oc=5",
+          "source": "cmoney.tw",
+          "published_hkt": "10/05 21:56",
           "related": [
-            "TSLA",
-            "TSM"
+            "^TWII"
           ]
         }
       ]
@@ -211,8 +212,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-05 22:11 HKT",
+      "updated_at": "2026-10-05 23:21 HKT",
       "news": [
+        {
+          "title": "台股衝歷史新高 接近5萬點",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PeV9NQ3ZUaW5adkV1c01FNTljLWQ4ekt2a19RSmFvV2hJYWktcWRCYUZ6dGVGZ3F2aGFPMjM5RWk2ODRWc2ZTSkJBV2FtZ05OSG1xV3ZnUFFDdE9Ha1VCWNIBZkFVX3lxTE9CaWxmbHJQbE15U1ptN1dndHktRmRRZHdJU3BjTkVUeThSTldya2V3NnlkdVJpcGhXdkxia0otYnBmRlZDUEdJQmljT1dCSFU2RWZCYUV1SlNRZWxoOTJEZGhvci1wdw?oc=5",
+          "source": "大紀元",
+          "published_hkt": "10/05 21:39",
+          "related": []
+        },
         {
           "title": "日股漲逾1500點 澳股靠穩 韓股休市",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZzliaGpQOXVQMjR4XzVvTlFlSzRGRlN3WEI0VXRtZ3RISllnWWpyYUNNV1d5NnotbTFfbkxXU3dJRXFweWFodXpfRm9mQmNRQWtBNTJCVGgzbUtoSjZuTVRCOWpxOUNrbzRVOUdBYm5PNzAyUURja1JqbVE1WWp0RV9zLTZjSnZGZW1KMHBQYw?oc=5",
@@ -228,19 +236,12 @@
           "related": [
             "^N225"
           ]
-        },
-        {
-          "title": "美非農「爆冷」僅增2.9萬人！Fed升息機率大降 台股勁揚1236點",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VcVpwYjc0UlE0OWctMzFJX0NkWHZQbGRTNExjOTd3NV9ETzVYaWhIVEJ0ZEtXb3h4MHVPN1BnX1ZQaFp2MjlzRDVnY1c4QQ?oc=5",
-          "source": "TVBS新聞網",
-          "published_hkt": "10/05 18:38",
-          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-10-05 22:11 HKT",
+    "updated_at": "2026-10-05 23:21 HKT",
     "news": [
       {
         "title": "Bitmine Immersion Technologies（BMNR）宣佈持有 602 萬枚以太幣， 加密資產加上現金與可出售證券合計達 174 億美元",
@@ -250,21 +251,22 @@
         "related": []
       },
       {
-        "title": "主要加密貨幣行情，比特幣跌0.61% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbDFRdTBiTGxZRXc1YTVfVVB2clE4TTB1eVdjTjdqaVFtYkZkdmhONzA5MS1xZ0pBcW1vcGdkN00ySHpuYWw3VGN0TUs5VlpacWtKeHY4V2swdktfcHlRLWdpU2xjY2ZFQmJlV1NnWEQ3bDJuSHBpTmdLekdhU3FFMmRzRUh2b1BLTjVQSGxsRDZxSjNQTk1HNU0wT0hwWjJj?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "10/05 20:31",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
         "title": "加密貨幣價格預測：比特幣、FET與加密貨幣——歐洲收盤綜述 10月5日",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTzRrdF8xdFpZUkd5aDlsdmhhOEpYeTFOOHdPNEx2QXVyNWF6c3N3RkdKclB1RFJTZzFZQ3VqTFRWdkdpTnluczItZVU5NmRPb3RzckU3dk9uNS1SYWtKTkI4T2hoRHc2SUZkRlUxU3ZtRktrLWp1ZjV5XzFoMzF5RURPWUV1VV9yeno3dGowMlFfN2E5WC1oeGdJSE5aRUw2Tm9XeWRESWtLeWQ0UEJ1UVR5SDBuQlBIMGlvTXNmRkl1WE9NTExNXzAtcDVkeTE2b1Vob01mREpBU0NIaW5fQll1UlTSAeoBQVVfeXFMTlE4bVpaU09LUmxqY3ktRk9OdXYzUlUtN0c2U29RUC0wS2E4TUl2OGZaNUZDR2k3aGo1MnhiZ08waXpRU0hLOEFlUzFLaTdzVXZoOGxlUUUxLXRQYnd4Y1JSQjFCNmtxNDY3cnhPTXBxRzRaMkptNHE5RTQwMTBVSHFxZUtfbWdTVVlWUFBOWWs1M3dYVzBlY2N6ZXZlajVXbmxlcmg3RV9EU3JqUkU3Y3Zuc1gxVVh0VllqVHBWWDgzeERqb3AybEVSZWkwMEpWZ25hUWhLdlc5LUhxZnZxTzhlVHVfTE5qQ0d3?oc=5",
         "source": "FXStreet",
         "published_hkt": "10/05 20:18",
         "related": [
           "BTC"
+        ]
+      },
+      {
+        "title": "麗盈聊幣：10.5比特幣（BTC)和以太坊（ETH）最新行情分析及操作建議解析",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CaFRtZ0g2eUJLcWJZZENNVWtXdnVtMkN4RW5vSmxkNXhWTW1Za1RCS2ZfWVZhYktoeU9OVTQxalJ0MjBsRjBUZWI0bw?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "10/05 19:30",
+        "related": [
+          "BTC",
+          "ETH"
         ]
       }
     ]

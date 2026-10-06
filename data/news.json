@@ -93,8 +93,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-06 21:43 HKT",
+      "updated_at": "2026-10-06 23:20 HKT",
       "news": [
+        {
+          "title": "港股收評：尾盤突現拉昇！恒指升1%，生物科技股強勢",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE02SFhETjJtaWs5R0Z0Sm03MS11ajJMZVUtWE9DanV4QUNHam9BR1B3WTJIZ08yUzFrR1g2RS1WeVdocDNvVmUw?oc=5",
+          "source": "SL886 財經網",
+          "published_hkt": "10/06 22:03",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "恒生指數 「兩連升」累漲308點：2個關鍵決定港股能否再向上突破",
           "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxObTN1SnhIZWx5b3RFQm00N2sxM2VfQTJJc3FicG5kdWRyWXNQLU94cWxBUC01ZjlfSnV1OVB3RnRvZkZ3c3RRZVNPcEJqXy1vRU9VNlV0OUpCeTVlU3FJMVFZSG5UZWpfRDF0eklXMDRjNVRfeGZqZGVkN1NWRjZ1bUpmTnZ2WldzaFVOUFc4ZnNVZ0VEajZ6MWY5R3JwTWdyc18zRjdVaWRhZ09WTkRJTFFqWUFOQW9sQkc1N055UkNSdE1WQXlpeGFtZDg5TGotTk50M3FBRkVldHBmbUxKZ2lRZ0RUODdXT3lUWW0xRGFEVVlDejhOUnNDTmtBU3F0MEo1Y3dVUnNxOWlHb282SDVpOWF1dDAtdU1RVkdaR21FNE5nb2JpNC13Y3IyYXFZWVNVNEF4eEhlUktvS2RpdmNrNzhLRmRWVEJwX0pTYng1YWJjV1RUMnUwYk9NZkZhSDVkVw?oc=5",
@@ -105,19 +114,10 @@
           ]
         },
         {
-          "title": "恒指半日升188點 成交金額540億 北水續休 (12:08) - 20261006 - 即時財經新聞",
-          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQdkdleDhiM2k5aXptOEpRaENycjYwazJyRFV2TVlSRmJRNll4c013WjJrRjhUNmxMRlM1YXphaVpqV3YxbDIxX0pHeVVtQkFGNElDekgzSHczbENKYjhOUjRTajA5ZnhNVEF4WFpmZmx5MC04ZmNqWm9jZ2FkWkNwR0hpNmdnMXlUcjNFdHFvRlc1Zzc0Z1QwMV9QMDh6emtBZmdSam5vamVwVmZlaHBHZXFUNHBud0xYc1Brc2c5bFJ6M1pYZTl5Y0tiTDlHVGV0enNkaG1fQ0ljX1lwNmI0bjhJSmRHU0JoNmJOMUJSLVY1YldjRVlQSXh0S2ZENzNtQXVqOVhWMnhpb21mNG0xbWxaYkxUY1FoVTBpUE1UbDBPYThFUkxNd0hVd1lIU1d0?oc=5",
-          "source": "finance.mingpao.com",
-          "published_hkt": "10/06 17:55",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "【港股收市】恒指乾升240點 極兔速遞炒回購升5% 智譜再飆7%",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vOVM0cFpELWRXazNaWWRCVDJZOEFpdjI1eThpaHlBYlVKVVlPLTZvYnRLX3VOc2pDRUgta2ZkUjBfWXhfVE1waVR0LXRvTHhtcXk4VDhvU05lUnlhMDRHalRCWGpmbkNNSHpCVUh3?oc=5",
-          "source": "Now 新聞",
-          "published_hkt": "10/06 17:12",
+          "title": "恒指走勢丨曾升逾300點 生科股醫藥股走強",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6MXJvSHlyOHBNcW1vZ2g2WHlwTEk0X2M2ekhLRU1qaHB0S2JJOUUxZmNPRzJKS29FQy02THE3UDUxZHduSTItd19mTlo4UUctUkFnZ1pKYlQzOTNwVkdXSA?oc=5",
+          "source": "信報網站",
+          "published_hkt": "10/06 18:33",
           "related": [
             "^HSI"
           ]
@@ -155,30 +155,32 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-06 21:43 HKT",
+      "updated_at": "2026-10-06 23:20 HKT",
       "news": [
+        {
+          "title": "TWA00 加權指數 - 明天開高賣🐔🎫🐀💰囉～ - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4Z1MxYW5DcDE5X1h1dmIzMVI0UGIyY3F5aGg4WkwyUlZFTjU4THF6cktzdVZQY3RSY3V2MTJ3aHhqV184d1Z3WG9UWWlSQUE4c0thdUF6dU8?oc=5",
+          "source": "CMoney",
+          "published_hkt": "10/06 22:05",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
+          "title": "TWA00 加權指數- 🎯台股五連紅逼近5萬！外資轉賣，AI仍撐多頭🚀 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kdkRuaUgzMEYtQ01oOHQtcVdfRVR6UDVhRnIyY1JYN1lUSWRwNlpjTW13UTI1SE1xVWFJUEtkWjU0UzJINUZhTHVCRVFwcE5GRTBDMk0wRGQ?oc=5",
+          "source": "CMoney",
+          "published_hkt": "10/06 21:39",
+          "related": [
+            "^TWII"
+          ]
+        },
         {
           "title": "科技股漲這麼多了，還要追嗎？專家建議別只盯著半導體，這類股可望接棒AI行情 | 林彥呈 | 財經",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MZ2FXRkVfSG9KZDFaczBSSVlXQzU0VHdXc0h5ZDhVdXpRYTFldUpjdkNLR09Kck4wNW96SnR0VzI2V0ZCS3VRV1dZTGI0dw?oc=5",
           "source": "Storm.mg",
           "published_hkt": "10/06 19:52",
           "related": []
-        },
-        {
-          "title": "台股五萬點關前震盪！三大法人最新調節207億，外資賣面板轉進傳產ETF-財經焦點情報站",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYThQdmtoYmx0bl84cTBWZEVlaGIwdkg1dndxSS0yYndpSVZXck9TbUdtZW1kcmdZYzhLYkVjUk5sUnRmMWRDSzA2X0dGNkg3eEpSMEluZ21WZEZGUkVtUThra3F0ZHpJWmthdWpHeXZrZVlfSjBHOG0za1c3OVdfNXJn?oc=5",
-          "source": "CMoney投資網誌",
-          "published_hkt": "10/06 19:45",
-          "related": []
-        },
-        {
-          "title": "TWA00 加權指數- 電子權值股營收締新猷，半導體板塊現資金分化- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kRGo3d2p1SmdyR1NKSzhhRFlxRWE4LUZOWjYwM21UUUI3dUEwQkl2YWVDVS0xQVdlckotWGl6ZnNZMXZpamt5blZtT2Z4TlYzcnFLcXpuMFo?oc=5",
-          "source": "CMoney",
-          "published_hkt": "10/06 19:32",
-          "related": [
-            "^TWII"
-          ]
         }
       ]
     }
@@ -213,7 +215,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-06 21:43 HKT",
+      "updated_at": "2026-10-06 23:20 HKT",
       "news": [
         {
           "title": "《日股》AI與半導體領漲 日經重返7萬點",
@@ -227,7 +229,7 @@
         {
           "title": "今日日股牛熊榜 | 太陽誘電上升6.15%，領升日經成分股，愛德萬測試成交額佔據榜首。",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVVhPd0JCSkt2Z2JiSGVkRFhQdmRnVU1ORGxhTlA5WWJucms2N0RYMWcwT2pUNEJhcjlvSW5TNkpsNWZxdldwNFpRSjZjaGNWaDROWlFRS0NjSXZJZmhBUkhWUWtyUXk2dVM2R1BoN0dJaUc4VzJwQXFoS3R1akFxMDlicE9mdTdNVEo3TGFxaWljc3NJSm9JWA?oc=5",
-          "source": "news.futunn.com",
+          "source": "富途牛牛",
           "published_hkt": "10/06 16:14",
           "related": [
             "^N225"
@@ -244,33 +246,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-06 21:43 HKT",
+    "updated_at": "2026-10-06 23:20 HKT",
     "news": [
+      {
+        "title": "為什麼XRP在第三季度實現43%的回報後有望在第四季度看漲？",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUWFJRDVPY3FDQ3N6WG0wOGJhOXhVbTd0WUozWUg2LVFzdDhIelZlTFpSRHV2bzlhV0FTeG9JS2FCOEJLYklzVkdUUll4TURGbVJxal82bU1yRVMxSlVWVF9Kb1BQNmhldGxYRmIwNmZ6U09kNXlHelBzNi0tOEpGM19wRThFaGFNNTBZU2N5RnVFeUpBcnJQVXprSlNGdzRuZmJCRWtNSXBKRzZtRm5IVnFBcExXdVNTX3FjWjdCWUhWOWV5bTZkS3Bsdks5UG9fS0RSaldTTWluMG0ta2Q5bXpaYXVBNzF5SzE5emwyS203eUnSAfMBQVVfeXFMTVFhSUQ1T2NxQ0NzelhtMDhiYTl4VW03dFlKM1lINi1Rc3Q4SHpWZUxaUkR1dm85YVdBU3hvSUthQjhCS2JJc1ZHVFJZeE1ERm1ScWpfNm1NckVTMUpVVlRfSm9QUDZoZXRsWEZiMDZmelNPZDV5R3pQczYtLThKRjNfcEU4RWhhTTUwWVNjeUZ1RXlKQXJyUFV6a0pTRnc0bmZiQkVrTUlwSkc2bUZuSFZxQXBMV3VTU19xY1o3QllIVjlleW02ZEtwbHZLOVBvX0tEUmpXU01pbjBtLWtkOW16WmF1QTcxeUsxOXpsMkttN3lJ?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "10/06 20:31",
+        "related": []
+      },
+      {
+        "title": "加密貨幣價格預測：比特幣、Pi Network和門羅幣——歐洲收盤綜述 10月6日",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRk5Lc3dWcFZGTXdlRFg0dm95LUNaV2hEOHFxWmlaRmR4V0RfNzRfVF90S1M2MEg1cjlYZ2h6WENLUmVhSDQwRUxQY2cxdkk3ajVwV1JvZHNHWHRIOW1LbDBuQTVXTlVVb1RGUkVySWFHM1RoOGxHT3lUS3hBVHZVUFluckNsVkFtQXNmZldBNnZFZ3dndXJOWThCVWpwUlZHTF9uRjZyTEhWNTkyZUVzNWVxcnBpNXNNV1VUQUxFTEY4UVNzemNPWkZ2Ykdzci1mWHdNbkZNMnYzTjY1M1p1c1VCVlFLUVU2NzFEWF9mSdIB7wFBVV95cUxPRk5Lc3dWcFZGTXdlRFg0dm95LUNaV2hEOHFxWmlaRmR4V0RfNzRfVF90S1M2MEg1cjlYZ2h6WENLUmVhSDQwRUxQY2cxdkk3ajVwV1JvZHNHWHRIOW1LbDBuQTVXTlVVb1RGUkVySWFHM1RoOGxHT3lUS3hBVHZVUFluckNsVkFtQXNmZldBNnZFZ3dndXJOWThCVWpwUlZHTF9uRjZyTEhWNTkyZUVzNWVxcnBpNXNNV1VUQUxFTEY4UVNzemNPWkZ2Ykdzci1mWHdNbkZNMnYzTjY1M1p1c1VCVlFLUVU2NzFEWF9mSQ?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "10/06 19:30",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "瑞波幣、卡爾達諾和索拉納價格將走向何方？",
         "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPa3BtajRzN2VNT3YtaUNHQWQzVU50amV0NzVoYzRSa3ZFclVSTThiOFFxR19wM2Nmbk9hSlE3eDFnOFZfc3FMZWF4R0FKLVZRSzFQWlU4TVpjMzBPdkM2YmNmTnE3THoxdGplM1JXYzJrREtoVF92a1RqeG9qXzQ4cVF1dUlzNkR3cEJEUW9mbURJVGVLUDB0TUttTkZQX2NwNEZoWVV4Sm1iemREdmJieWdvYTRnNnJxOVN4VWpiczZ3aEZ0Qjhqa0dGWHlXbER2S3IzWlRJemd2d2dXcC1nbnNfbmk2VjZGRzV3dnpkMV9NSjNleUlNT2xWOEI5aU9iTkUzUmJabDJvU3diNE5zRjNKR3NsQVdia0o4ZVIyTzRqb3U4T3FoaGlR0gGqAkFVX3lxTE9rcG1qNHM3ZU1Pdi1pQ0dBZDNVTnRqZXQ3NWhjNFJrdkVyVVJNOGI4UXFHX3AzY2ZuT2FKUTd4MWc4Vl9zcUxlYXhHQUotVlFLMVBaVThNWmMzME92QzZiY2ZOcTdMejF0amUzUldjMmtES2hUX3ZrVGp4b2pfNDhxUXV1SXM2RHdwQkRRb2ZtRElUZUtQMHRNS21ORlBfY3A0RmhZVXhKbWJ6ZER2YmJ5Z29hNGc2cnE5U3hVamJzNndoRnRCOGprR0ZYeVdsRHZLcjNaVEl6Z3Z3Z1dwLWduc19uaTZWNkZHNXd2emQxX01KM2V5SU1PbFY4QjlpT2JORTNSYlpsMm9Td2I0TnNGM0pHc2xBV2JrSjhlUjJPNGpvdThPcWhoaVE?oc=5",
         "source": "FXStreet",
         "published_hkt": "10/06 19:01",
         "related": []
-      },
-      {
-        "title": "為什麼比特幣、以太坊和XRP難以延續反彈？",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQdklqUS1pU3Uyc0JYb3kzaVcyTFY4M0ZIXzIxbGxxZXhaSl83ekE5eExfQXNUcWYxWWR1UE92MnhYXzdJR1JQYU1QdFdnMTRCajZpVlhqM2Uya25UOHZNN2tmZ1VBR0Z0dnJpOXR0UFJhbW1rSEhzMElFU2gzWklXRTYwd2hiTTQxNmlPZHFaM3JpeTdWUlloME41QTVLQjktY0Vya20tU3cwVmtNTzJOSzBpSFVwdUFYcExfN3lrbHlWSVZ2VEZJb3BrVVB0MG1la0tpTi10R2E0SXYwOUFfcFhWb2VIc2xVeWczZGxGS0M1eDhIdnl2QTdUTUJuZy1oRklkWFd30gGLAkFVX3lxTFB3NUlnaWJpMG5lZE12elhIVnloSldUTU81bTJJdkEwMllCY2Q3N2U2YmZiNmNydk9SQ3g0SGN3allIcHdjUzFqT2ttak9MWlRSeVN4UXJrcWFTZXRMUGZCZ0dsX2dlVWI5Wm1CcHFpaUF2WnIyelFjUVZsSFdqNUY0T3BwNFdQUkNhNDVycWRJTkRncXpaajJ0eDdxdDZZTnBkSTZKSmFxd3FaS2ZYWVBkUDEtcVRnTUVhV0RPOHNVN0ZldFRxMVJjeDlTUDdfNklJNmNUUkZnNFlOanNVRUotUllqcFpscnZiZ0Q0UUwwb05DVnFoVzJUWE8xYlJXMzZaZHQwS2lRekZNRQ?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/06 18:35",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
-      },
-      {
-        "title": "比特幣價格預測：為什麼BTC在近期高點附近盤整？",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQ19fcW1QRkZodDg2Q3N4VXgxd05pMXJUc0NqNkdoZlNrT2o5N0Y2M3NlbmVHZllmT1AzRFRqbHo2TTNDWkZVakQxdGJBOHh6Q3kzSHREUWc1LWswMG40Q1lHbHZSVlBmNF9kODJSZU5wYjFudkIwa2xXTG1pTGlpRTVNWkxHSVRveHhLa1FZYUx2MkcxYnBKWDg5RUhZTXNmNFdFOHp4UnlYQXZWUlo4LVRaZUJRM3R4LWV6YzRuUUpiQjZOckpZSjl0TmhhVmx1ZnRhOVQ5cVpOVmdYRlIzQlRILU9xQmRFYTVOb1hjWk7SAfABQVVfeXFMTUNfX3FtUEZGaHQ4NkNzeFV4MXdOaTFyVHNDajZHaGZTa09qOTdGNjNzZW5lR2ZZZk9QM0RUamx6Nk0zQ1pGVWpEMXRiQTh4ekN5M0h0RFFnNS1rMDBuNENZR2x2UlZQZjRfZDgyUmVOcGIxbnZCMGtsV0xtaUxpaUU1TVpMR0lUb3h4S2tRWWFMdjJHMWJwSlg4OUVIWU1zZjRXRTh6eFJ5WEF2VlJaOC1UWmVCUTN0eC1lemM0blFKYkI2TnJKWUo5dE5oYVZsdWZ0YTlUOXFaTlZnWEZSM0JUSC1PcUJkRWE1Tm9YY1pO?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/06 18:01",
-        "related": [
-          "BTC"
-        ]
       }
     ]
   }

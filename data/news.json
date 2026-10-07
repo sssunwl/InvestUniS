@@ -155,7 +155,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-07 14:20 HKT",
+      "updated_at": "2026-10-07 14:47 HKT",
       "news": [
         {
           "title": "台股叩關5萬點僅差34點 高檔賣壓出籠翻黑",
@@ -244,15 +244,8 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-07 14:20 HKT",
+    "updated_at": "2026-10-07 14:47 HKT",
     "news": [
-      {
-        "title": "狗狗幣價格預測：DOGE是否將迎來更深的回調？",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcW9CV3hmZFplQkxBR2ktZ2VBb0xnUXFwYV90YVNDaDRja3NiOThYeEZEMnFyRWpyUDhHYmdpMWlJVGdHOUFESGNYanUyTDVIcm00dHR2TjJSbTQyLTZ4TXJZOEVoTTNNSk8tRTlYMjduVG00UG54d0tmbUl3cDNtaFoxUklYcE9QNmVEaEgwa1hWN3ZIQzQxWnhuOUEwb2RWRllaNmluRWNLbVFhM1B0OWd0aTZwLUV3UXpsdnBwdFlnZ19FSURVT3NpNTVPTEdjLWg4ekVEU1dUNUpGbExJandidTFJUDVxWnZkZEZ4M2JiRlnSAfMBQVVfeXFMUHFvQld4ZmRaZUJMQUdpLWdlQW9MZ1FxcGFfdGFTQ2g0Y2tzYjk4WHhGRDJxckVqclA4R2JnaTFpSVRnRzlBREhjWGp1Mkw1SHJtNHR0dk4yUm00Mi02eE1yWThFaE0zTUpPLUU5WDI3blRtNFBueHdLZm1Jd3AzbWhaMVJJWHBPUDZlRGhIMGtYVjd2SEM0MVp4bjlBMG9kVkZZWjZpbkVjS21RYTNQdDlndGk2cC1Fd1F6bHZwcHRZZ2dfRUlEVU9zaTU1T0xHYy1oOHpFRFNXVDVKRmxMSWp3YnUxSVA1cVp2ZGRGeDNiYkZZ?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/07 12:52",
-        "related": []
-      },
       {
         "title": "主要加密貨幣行情，比特幣跌1.42% | 即時新聞 - 新聞",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeFdsM0pyVjdocGxkV0tnMXJrNTV0NEpNWHdFQTVhMG5TXy1qY2pIQ2pxVHhRVUUySWpjdDd6LTNDZGdlSnhKVzQzaElMUTB3eVJhV3dXRWxFMlNDNlRoRllOcDB2UXJ0alBhN0E0V0pHdUhnUm90b2VZYW5fa2JWYnBFUFcyaHZOTkpwWVdKUXFwb1JNb21WN2VVNTBia0pM?oc=5",
@@ -271,6 +264,13 @@
           "BTC",
           "ETH"
         ]
+      },
+      {
+        "title": "Token2049 | Tom Lee：加密牛市 8 月已啟動，將會是前所未見的牛市！",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rMW45eEZvYzJyWjdZLS14Vl9XR2tjNFBkdVZCYlAyY2R4OW44cVlRMTg1Z19Dbl92WjBoLVhKTDl2Y1prcnV1YU5uMmRMM3E4a3Nnd2NWLUUtYU0?oc=5",
+        "source": "鏈新聞 ABMedia",
+        "published_hkt": "10/07 11:34",
+        "related": []
       }
     ]
   }

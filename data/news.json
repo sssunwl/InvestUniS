@@ -29,30 +29,30 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-06 11:08 HKT",
+      "updated_at": "2026-10-07 10:29 HKT",
       "news": [
         {
-          "title": "美債殖利率飆升美股仍創新高 財經名嘴揭背後原因",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84Vl9KeEQ2RGNyam5NNjhkMU9IcE9qUHRQMUxJV29vQlVYYVdQV05hZnlyWHo0dWFPRWZfOTl5YUY0THBmSzE1Ul9wV1JCN0k?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "10/06 09:30",
+          "title": "Kalshi 推美股指數永續期貨 挑戰傳統金融市場",
+          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNT3NpOXBldVpCdDRGeElBLVFUOGh4Zm5Lcl9Uc1JMZGtmRkVIbXNiRzNVamU4bm5nVHhlVndnRkNPQ2V1ZFpic1ozNThqTkFMNjl4TGN0Wk1ucWVzNDNjOGpvWERLUnAweUdwNzFiSWIyaldlV1VBRFQzdktZZW9raG1KaWE4UEYyb3dpUmlGUzE5NkRCbWI3VGR4cWtBUWIyT01aZ1E1MkVVRElQbFNsZWNYRkdfMFg3ZW5oY2dlMUplOG12RG40NnF2Mlg2V1EyUjVOQW9EZ012d1hjbF9sMmU1dlB1Y0E2cUU1Q2M4NXltaEdvanVSd2lHdkxQRTBIdkNMVS03UFdnRWRWU0xMV2pQazFXdFFYNl9sNHp6VDI1ajVJS3podDNWRFowUi1hejZR?oc=5",
+          "source": "商傳媒",
+          "published_hkt": "10/07 08:37",
           "related": []
         },
         {
-          "title": "〈美股盤後〉無視美債賣壓 AI概念股狂歡 那指締歷史新高紀錄",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xOWdHRWd4T2ZVOWRJOXRUVXQ1eFlTbk1VbWpfYXFaU245Y3Jhb0JoT2VRYkVyMVNsdHNETlRhcjJHRDNGcDF2UDJuUC0zcVk?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "10/06 08:56",
-          "related": []
-        },
-        {
-          "title": "美股「10月魔咒」真的存在嗎？百年數據揭密：標普500平均仍漲0.5%",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UemhMOWVQLVQxVTd5Y05OZmpwV1N2LTZpOHEyN1VkXzI3M1F0T0Y1SXRtZjBTWmxQUXpJUjA5RzBUbUcybjN1NjRodzJlMG8?oc=5",
-          "source": "news.cnyes.com",
-          "published_hkt": "10/06 08:41",
+          "title": "日經225開盤小漲站穩70,700點、隔夜美股創高提供支撐",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tMHpXaml6REd5b2F2eWY3WUh1cGJlV05PV1hjVUNjd2ptdk1COEhPdmZwOTVTZ214MldYVENIbHdkM19yRVRnN3RIYm9tQkE?oc=5",
+          "source": "鉅亨網",
+          "published_hkt": "10/07 08:30",
           "related": [
-            "SPY"
+            "^N225"
           ]
+        },
+        {
+          "title": "諾基亞 (NOK)討論區- 股票評論- 股吧交流社區",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yQ3QtVUh3N2pibEV2VHZoMjRLaWVIZ1VCalJWTUYwNGF0Zk9QX0JSMU5xbXpkUTFHbGdqRWN3V0VSR2hidU1pX1BGb2JObVZfaWZpNnd4MzhrLXNHYWdN?oc=5",
+          "source": "Moomoo",
+          "published_hkt": "10/07 08:00",
+          "related": []
         }
       ]
     }
@@ -246,30 +246,34 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-07 02:50 HKT",
+    "updated_at": "2026-10-07 10:29 HKT",
     "news": [
       {
-        "title": "Bitmine Immersion Technologies（BMNR）宣佈 ETH 持倉達 602 萬枚，加密資產、現金及可變現證券總值達 174 億美元",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwNXRsaGlqb1Z3VG9LYUxWMGtVcHdRQUZ6R3RXRDJ0ekkzdlNWQklYNWVsNDRfM2dLME94NmtUaXh2MTBxX2dST2tVWlJEcE11c2p6N3NkMVB5UmFR0gFiQVVfeXFMUHdYenJZYUlxb0g3TlFnV1A0UGY2RzduVGtIYnZoVkpyX2k5TTdNTzgxd1BpLS01ejRZLXpLN3ZXZHBEbFJpVnN6Z2NLcE1LaDk4MUY5d0JFWTZzZVZkUldXU2c?oc=5",
-        "source": "經濟日報",
-        "published_hkt": "10/07 02:00",
-        "related": []
-      },
-      {
-        "title": "主要加密貨幣行情，比特幣跌0.02% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTjFWbDVrSFVoWV9nLXBMM2tPdnVFYzRVdDI0NG5UWDIyNks2TDNhaW5hY1Y3VU56QmxaaFZRanJtclVTbU9uVE5yVTMybUtlQlNpak50cGZwdVFZOXRqN2dNbmFuS3p5QTdLTWZ5bnp0UTZySm1qLWVvYk42Y1hQRWpRZEVCTmJMWVpGZzJKMkRQSGRFMEhOMl9XRWZyY1Jm?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "10/07 00:01",
+        "title": "SEC 首開 3 倍槓桿加密 ETF！比特幣以太坊上陣，但專家警告：只適合短線交易",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUnJEUmh5U2RINVFWUzNXaTc1QnRvb0VqOHNZZEJuSFY4TURqZko4ZDN2bmNvLVFOV1J2cjVwdXlxWi1pZDJrazE0d0V1U2pxRGp4U2VHbnhTT0tXTG9yZE91Um9aOVJRSm1CaTZFSG1uM015NzFSRDN2LVZOUHlCX3NnSERMQ3FJa3FnSFpNN1VZcy1VQnlXREFRNWZ4YWx4VGZ3?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "10/07 09:30",
         "related": [
-          "BTC"
+          "BTC",
+          "ETH"
         ]
       },
       {
-        "title": "為何在 Ether.Fi USD 穩定幣推出後，Ethena 仍在下跌？",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObU9qNWs3YTVIMTJvYzRGZWs5Z0tGNm1FYVU5TGgtVEMxZjBPZlhjbTNzZlE1T1hEQV9VOU1qZHVpWjRqNXdPWHh6a3U4RVBqeEUwUXlKOFBmdjdTRk4tVktNVDNid210V195am5jM2xmQ0FDUDhreFl1ZXFXUVViZ2h4VzNMU2Q3cWRValJlamJyM1hDdTJHZ0o0RFJvVGZBQ1M2OFhyQW1pT19mbUhLcDhmRXFFbV81TVJCVHZlbUFaendBYjJ2MHpPMjNQdUpJWmxkbmZQSUtDZmFUcFZQRlNoQdIB4wFBVV95cUxObU9qNWs3YTVIMTJvYzRGZWs5Z0tGNm1FYVU5TGgtVEMxZjBPZlhjbTNzZlE1T1hEQV9VOU1qZHVpWjRqNXdPWHh6a3U4RVBqeEUwUXlKOFBmdjdTRk4tVktNVDNid210V195am5jM2xmQ0FDUDhreFl1ZXFXUVViZ2h4VzNMU2Q3cWRValJlamJyM1hDdTJHZ0o0RFJvVGZBQ1M2OFhyQW1pT19mbUhLcDhmRXFFbV81TVJCVHZlbUFaendBYjJ2MHpPMjNQdUpJWmxkbmZQSUtDZmFUcFZQRlNoQQ?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/06 23:39",
+        "title": "中國加密市場若重啟 Joseph Chee 預言超級週期將至",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3clhWZWFJQy1LTDB5Vm5WdExoSGpKSGo2RXhSWlZZUUNWdGkxcndYSTVuU2JBdzQ4Q3FGb0oyWTJ5WUxrWjBHNXFneTBZcUE5YlE?oc=5",
+        "source": "蕃新聞",
+        "published_hkt": "10/07 09:27",
         "related": []
+      },
+      {
+        "title": "比特幣微跌85,540鎂、以太坊回落2,696鎂，全網爆倉1.39億鎂、貪婪指數回落",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUG1EVFZ2QnFPbERZS2JSUzIwRnB0aTdUbDNwODJsaTRSTDBuS0pBeTJpM3l1U1l0OGhwbEVGMWJFV1pJejUzY3N1VUt2WnVOTDhPb2VCR0F6RURJMGxuVXNaUEpjYVQzVWNUXy1CMHpoeldxMzZnbG5ZTldfTzZSNQ?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "10/07 09:23",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
       }
     ]
   }

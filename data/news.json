@@ -244,32 +244,29 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-07 23:39 HKT",
+    "updated_at": "2026-10-08 03:15 HKT",
     "news": [
       {
-        "title": "比特幣跌破8.3 萬鎂、以太坊失守$2600！全網爆倉近7 億美元| 動區動趨-最具影響力的區塊鏈新聞媒體",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMnR3UEROa2x4Y1MxTVU4aGZMb2VNS3B0bUk5YUtZb094aVpXbGtILXE3dlZuajJrRFdyQmY2WWxiLXFZYlhNelFtcHdBblRKaExVQW9oSFdFVXUzN1FCZ1MzclZ4QUJuelZWWGJRV2p2a1RycmN0bDhSS0pVVURfVkpuUG1jMGZMUWc?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "10/07 21:54",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
+        "title": "BTC和XAU在宏觀和地緣政治逆風下下跌，但Ray Dalio仍偏好黃金",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPS3hQcnFTamxtWmEtVjFuZlQyNkE3Qks4RGVPREN5MUNnUFJub1ZpMFpRNXkzbkJPREIxTXp3NEZGa2NRR3ZZWFRHSVM3bjBXU1BNR2gydnFQTkZYYk10N1JpWlpPX3FfNkVYc2psSFZ2RTJSQ0d5VEk4bHRYdkZrYzZYVVpKdTFMUHhUZmRIeXdmYktOd1pVZGpwZzVQQzhOQ3Rlci1GWFlweFhvQUV1MjhZV0NEX25CdnIya2hib0pQQngwaTF1Qm1IQ3N1YU9fT2JXQ0JaXzdWNFd1OGNGSmM0d3Rab20xV2NocGlEUnFNZ0hnelJjemVaN3FPUdIB_gFBVV95cUxPS3hQcnFTamxtWmEtVjFuZlQyNkE3Qks4RGVPREN5MUNnUFJub1ZpMFpRNXkzbkJPREIxTXp3NEZGa2NRR3ZZWFRHSVM3bjBXU1BNR2gydnFQTkZYYk10N1JpWlpPX3FfNkVYc2psSFZ2RTJSQ0d5VEk4bHRYdkZrYzZYVVpKdTFMUHhUZmRIeXdmYktOd1pVZGpwZzVQQzhOQ3Rlci1GWFlweFhvQUV1MjhZV0NEX25CdnIya2hib0pQQngwaTF1Qm1IQ3N1YU9fT2JXQ0JaXzdWNFd1OGNGSmM0d3Rab20xV2NocGlEUnFNZ0hnelJjemVaN3FPUQ?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "10/08 00:49",
+        "related": []
       },
       {
-        "title": "Glassnode 示警：比特幣衝8.5 萬鎂遇壓，短期持有者狂倒貨、8.1 萬成防守關鍵| 動區動趨-最具影響力的區塊鏈新聞媒體",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR2hfNXd0aDJyX3JVbjZYbzVoWW1Hb2xVVHY5WEZvRkUwRmhPMURiRktEeDFHNmZoOGlTNzlEV0lCSERNaWNKU2RLLUVVMXgyb240U2dVZHVUUmJ1a0c3WVdsLTVDUlQ4REpRSHFyOVNOaVllRTJXa1pNWXY5R25SaUhCNVFNeUdpVW80eUEySQ?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "10/07 20:49",
+        "title": "主要加密貨幣行情，比特幣跌2.46% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVGpuZkluUmhZUWJrQkJ3NDlLZjZjSmJSUG1fV2RaZDhSWEgyYjVVMXk0dlM4d3c1RVdZZWxMbkZfSGN5MXN5dVNoUGl6NHNpc3Q1eHhoUWxkRkVxaUQyTWlPUTEtU29MWkVEcGFIa3hLQkppZ1UtWlc5YzVCMjNySWZtVW5zc3BrWHR5REdubGpTV3J6WnoyeF9WUXhuZVE?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "10/08 00:23",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "比特幣市值達1.7萬億，長期潛力驅動估值",
-        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPcklNeTFESS13QUJFdFdvejE1UXlOOWxLS3VXX0dma2dCRTVOVGxfWWxxeHRzbnJWWVhuWVFfbXhIRjR1SnJaT1FMRkN5WXZxb0VLQ3RqQ0hnaGVkVXZrazN4a3U5Q3hiaWhnd1BlaDl1UDNKTjJEV2s1X3FqdDViZEVqdmFTRjJZQkZKa3BfdkwxV29zWHZTb1ZTTDNpbGNyZkNkd0RHZlcxZldBY1k4UVVVbDRqdTRJcXdNQ0Jwc2R2T2RnVVNIOFA2ZndPY0NlNF9wdURIRjFlQWxMTkU4eGx3UWRESFhsbHRNQmFOVUN1Q0x5SDNsZ0xLTHVLNy15NEJiUFdpYjFSVzM0YzVUaUNtd21kNTdfSGc?oc=5",
-        "source": "NAI500",
-        "published_hkt": "10/07 20:00",
+        "title": "美 10 年期殖利率升至 2002 年來新高，比特幣跌破 8.3 萬美元",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11bTZzcTdtelhLNGhYemZ3ckZTQnprVVg0ZERsY1JjRmxVazR2SUdxNnJyWE1CVGVxQVZQcjVCVFNMMGNJdDJmZWhteEZqNEFvZVBIRDMtWDFrZElPWFBhRVF0MA?oc=5",
+        "source": "鏈新聞 ABMedia",
+        "published_hkt": "10/07 22:46",
         "related": [
           "BTC"
         ]

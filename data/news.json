@@ -1,29 +1,27 @@
 {
   "us": {
     "pre_market": {
-      "updated_at": "2026-10-07 21:01 HKT",
+      "updated_at": "2026-10-08 21:09 HKT",
       "news": [
         {
-          "title": "標普500站上7800點再創新高，AI牛市還能走多遠?",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0djFxaHpYRDdvSkJsZ0taWkxHOHBuM2RtZmZqVncweFJUNUhKbEZtdjNGYjY5U2RDcHRTTFFsU0lMNXJZdEtBMFhReGNGZDI2UUtlaQ?oc=5",
-          "source": "EBC Financial Group",
-          "published_hkt": "10/07 16:36",
-          "related": [
-            "SPY"
-          ]
-        },
-        {
-          "title": "美股恐跌一成 專家點名三檔抗跌股適合長期持有",
-          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQRHRZWXd3TW5NQ0tnR2pwdEVleVRGa2ppVWhPTmV3Z1A2cHVUUERsUHE3S3BsWUdCQVExQWNjdEdSRi15N1dmUmU3YUNkN0ZuYkExWldnTklXUFFzUnN6dDNCWkxNa3U0cnhldXp1VFlhdHpjb29fRjl2cGl4c01KZl83cTZIajFZNjFRaXJSZzdRcVhuRC1PdXZqemZaMWdLODJoMDF3UTB1clgzcVVtWHNjQkk2SWhmQ0hrdkVyLTNaTGllQUdIekc2RTRWaVZUWE5obUFodHN3N2IwZ3RJVzRQWl9yY1VoUjhkdjFwQnN3SjZTZnNCQ21lQlE5R21rLUk2QWh5S0ljMHN6N1lVRmxEbWl3d0lueXgxX1FNZHo5LUVGMzJRRndXRzhLYlgxclZMLXJfaFc3MzR0Um1KYkJJVnY?oc=5",
-          "source": "Life 生活網",
-          "published_hkt": "10/07 15:56",
+          "title": "華爾街不打烊，即將開啟24小時工作制",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WWVVvdUFBWkZzZm84UEEydXRjWUFMb1FZRHkwY1J1dkJhdGM4MmFNeEtkZTRpT3ZXLUtKR2dqdURYQk1yYzdNXw?oc=5",
+          "source": "鉅亨號",
+          "published_hkt": "10/08 19:05",
           "related": []
         },
         {
-          "title": "GUM稱強積金資產投放美股已超越中港市場 下半年部分資金流保守基金",
-          "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxPY0h6STI3QUVwc2YtVkpha2FsbWVsWjdvX0xUM3did2cyVFVWTUVueFpMZm8xQk9xazFFSHRXSGxLN1FjVk1zSm1xbWRYa2dzY3pEanFIeDY3ZGNWNHRpMVNtdkttY3l5TEZiQklHYUFFSmNUUTltZDRJM1NqZ1AxVVVnZ0h5cjdmS2Zrc0NnVjY0bGhDRmx5VG1aMW5lQk5Xcmw0WVl6V2tqWFlIY3k3VjhIN3JMbGZyMlNacmpCYkVSbkpLYXo5UTBoTnpTT2JTWHNQUVdKd1c4aXM3Z1BYXzF3emdmUmJlMkdlbTlfemtSTU92WjE5b1RBbUlsNkV2UGRhSkI3QmpaajdheFZzaERGVVN2RGRzSkFNX0ppUW5KZ3RndnBlSW1IXzZxOFhpdVRtMVJvd2JkQUkyLTV3QnN0anpiZWFkQ2o3cFFMQXE0RFNXMHBvdWVJcGE4UlVuRmN5TDNhX3Z2QlRmbUVLN25HbzREMzBtbWJuanZud1VndXFqMjdDdWM4dnpwZEFzRlJ2dzVBeWFNeDhGMDNjUkNwcGdlQkk3bjVyMFpwQlJqVjdRRzhpbjFPZw?oc=5",
-          "source": "星島頭條",
-          "published_hkt": "10/07 15:16",
+          "title": "【美股盤前1008】創新高無望？期中選舉年給你不一樣的統計｜豐雲學堂 2026 年 10 月",
+          "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQZFp6V21CNmp3c3dtQlZ2ZmEyRkNGWDFWNUNwY1psVVhCTU5oNkh4ZkJNV1JBb3E1R2lINjFyajF2T0NKV3JqUHE5cFRJcmpSQ1hVNE1QcFc4Ny1ORURSeEFvakNTQnpzaWhnLVBic3JwZkFiMjB5a001NVMtX3o5bHpOVXlHY3IxaF96MkdpbFFpOHlwSkcxalVoSDNIdjV1eUxuejN5YUtrQ2JNd2ZiM1RBaE8wTzBSVTB6SnBGb0ZMSl9uLU9kbUo0cTZXdDZKc2hKOHJHLVlNV0RoV19CdlZzMWhaVG9xY3ZVcHNZQ3RvMGpOTnpLRXV1c05rd3NGRnpSOGN0NXlLNFg4TC1DLXBCVERwdzlrRndvelRZNkdndFlfSU5NOHVxa1JSRE5wUExHcGt1NFo4Y2s1TE9HbzVEN01aMXE3S0FWblBRdDQ5OFdUQ2xWeFg3M2hwcF8xNks1NlRPMHdjSC0wOVlQakpaUEx4Tm4wbEpjUGdPLTJJc2hienVzblc2MGNRU2FSOWtaa0ZB?oc=5",
+          "source": "永豐金證券",
+          "published_hkt": "10/08 17:29",
+          "related": []
+        },
+        {
+          "title": "美股期貨下滑，國債收益率與油價齊漲令市場承壓 作者 Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tVUFpY1loTG90Sm9LRXE2a3NhdGVya05nbHBud1NTVDIzRmVaNnoycWlvMUtHb2RsRUg1Yy1GcEd5T3ozUkdZVk1IcURoNm1VN0JhQWRnbWozRmthRDVnZS1fSW5yRUwwbFZfeE5MUU8?oc=5",
+          "source": "Investing.com 香港 - 股市報價& 財經新聞",
+          "published_hkt": "10/08 14:58",
           "related": []
         }
       ]
@@ -93,29 +91,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-07 23:39 HKT",
+      "updated_at": "2026-10-08 21:09 HKT",
       "news": [
         {
-          "title": "【港股夜期+ADR】歐洲風險累金融股 滙豐ADR低港2% 夜期跌（不斷更新）",
-          "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOTVMxXy1PeUNuNWU2RUpzRnQ2LWpFX21LbnZNWlBUSHAxaXFRQjgzaHR1Z3ZKVVNIOE5sOXFZZzF4R1A4Nlp5a3V0RWsycUJhcE9zNTJESkxyd0FPTldDdWVGeU43VGUtUHNoOVN0eWwyWmVuMHlkNGhfZ3Z4ZmVlNDhIWmRBLW9GUnR6Z0thSFRwZXZIYUJYSDNLSUI1cWF1cVl0eVR5bi13dHlfNGZFRnQ1dDQyTHNiNWp3aElBWUhNZDVyVElpRHdTNkktWFZWZ2M3WlIzd0VZazRfbjdqUDAxT04walROZ09aeEg4Q0lRbFFlZXFzT3pWNUY2d1FxblN3ZlM0VUZRR0hmMkhsNlAzeDQ2ekZoRzA3dDVwSHdiYUhaYVBIeTlEWmJ3d2JDVEN5ZlpmeXROaWFacnZObDBkeTZNVTdKbVlFMTB6dWFjQVFqeGk1Nm04Zi1VYUFKZUdfMGNqSE1pUlZIV3JzZ0cxRXYzZjRyZVQ0bUo2dk0tVW42SG9US3U0YlpHZFZSeExrVms4MzJjX2hqdDNQZmxkUC1BQlh5?oc=5",
-          "source": "香港經濟日報HKET",
-          "published_hkt": "10/07 23:20",
+          "title": "立足股壇｜北水未能支持港股 料未見低位｜JK爸爸（陳立展）",
+          "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQdlprVVRfSFo1M3ZGR1FtVHcyc3dVbzdUT21mNDUwWG9IbTR4LWx6czJfLTROY18tTFRYQnVUcm5KLTJyM2wtNWFFTjhXQmxwMUVwOThSOEJQNTRqOEhTdXJGemN0Z0ZWbjFzc0xyNWdvUWZMUHpXVVRwcXFrU3Q1Wk8yS2h5SVZNeVZLSTlnUlI3dk9JLWhBeWo5OExxblFyLVhFX0szcmV3TnNzRFpkSHFhR3VVRVdwc3FESGVuLU1fdE5NTGtBbkpPWVhLdFNrRGtsbm5GZTM3dVBMUDN5cDVFcmxsd1lUbnAxajZtY3VzT0lpMTZpc0w3eWVYQTluTFB0TkEySFBLenByaWNaSjV2dldMQ0dKc21kX09LZy03NjRXSnU3bkdjbUE3N05ZemtIM3JlR0IzYXZyendoT1RaTHg4SDByU1V0ekJWZjlmZE9xWjdfWnJwYzlCQlgxYlBDdEphS3BDZEh5NkE?oc=5",
+          "source": "Yahoo 財經",
+          "published_hkt": "10/08 19:45",
           "related": []
         },
         {
-          "title": "恒指走勢丨午後續跌逾百點 地產股逆市彈",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TS3ZUM01nakNuNGtLRzM4WnhPNFJ4N1N2M1BCZEYxMHBXMEhVZ3dQNElIQ3F3SkhaeGhNOUdqRnp4aHRhVHc1bzRKbDQ5WHFQSkppbzhscHh2QnJsdkNTVw?oc=5",
-          "source": "信報網站",
-          "published_hkt": "10/07 20:12",
+          "title": "恒指半日跌167點 北水流入52億元 大市成交金額1063億 (12:07) - 20261008 - 即時財經新聞",
+          "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQXzVuRldac3RpM3FDUlhKX2NVd0tQY0lzTkJqTy1zMUQ4dU13Q0RWSVNaemV3QjdjZkd6NVY3REVLX0tXQlc2YlUxZFUxUml4Qk5ialBYSE1LMnVpU2RqaGQ4NEEwY2hodEItWjlmUmdLdFN2Z0paU0hvUDhvXzdwaDkwdDU1N1FuOWNJVDZaNVVvdWdsYXFzNE9xd1NpcllPdHZ2NDFGMDNmaENsSGhCUFd5RnZEWTg4aktmb2ZQa1BSbmRzcTM2UVp1a2lIenJJRUd5X1d5YUNCM0lPRFQ4Q0E3bWdSMEY5VEE4RDZzX001bzl6NDdXeTJDZ0poMXY1RlE1WUxQbUt0UldGZ0U2WFFDdkJGV2RzM1pRVU9PeGY1SEM2THRBU3V3S0RWSmh2dFU5MGJKbjQzc2owRjBWYnpEd2ljcDNQMUlObzNvb05FSEJDYTQwZWtjV3hodHV5aEVPdw?oc=5",
+          "source": "明報財經網",
+          "published_hkt": "10/08 17:56",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "恒指走勢丨全日回吐150點 晶片股捱沽",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TMThOOXNYbUR5eXBBUVYzeDVWWTRJYjFvd210WW9MTHBJa2hsNzhMQzdWZ0t4enlkVVZ6NklnQXZCeXREZ2VrUXFCRDFFWmphMUlRTEs3NWFZWEJrSkItNA?oc=5",
-          "source": "信報網站",
-          "published_hkt": "10/07 18:37",
+          "title": "【港股收市】北水「回歸」恒指瀉344點 又失24000關 成交急升至2072億",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fX0MyZE5VRUNTRFVCeWV4VFUwb0Z1T1F5VURrVFRTZy1TTWswLVVYcmEtRi1EYXJ3aWtyM0QtSERQU1AwNnhyc21fMi00RDRZcWNpNnJMVTVOOUFpdi1yaTBoS0F4MDA?oc=5",
+          "source": "Now 新聞",
+          "published_hkt": "10/08 17:23",
           "related": [
             "^HSI"
           ]
@@ -153,33 +151,33 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-08 14:56 HKT",
+      "updated_at": "2026-10-08 21:09 HKT",
       "news": [
         {
-          "title": "台股跌493點失守4萬9500 台積電跌35元",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV05KUjZYbmVaNUdQZ0l2UVRGQk42Rl82aWFqcFhoRXQ5SDNwWU41Y3RzWjF0ZUl3QUlKeEF3TEN3LXFPZVdPdnRkOXctTzRaSzEwaV90UjEzRzNPdFl6aFJ5VVBWeE9XeWZ0T1ZpanJfYlFublhXU0tWd3U5UGFWazNWbkhNZjhTUjhF?oc=5",
-          "source": "PChome Online 新聞",
-          "published_hkt": "10/08 14:22",
-          "related": [
-            "TSM"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數- 🎁 【口袋證券線上開戶指南】給小股民專屬粉絲的快速通道！... - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RY0pyWHVoeEJ5cG1HcmJ4bUFLYnRMcjU4d19uZ2FfdjZ1bVNyQkxVczB3d2RXWGpkcjk0X3htNFRxVGQ5MWl6c1hJSktseG1weGNFdWxEcHE?oc=5",
+          "title": "TWA00 加權指數- 三大法人8日買超前十大8傳產2電子砸百億搶進南亞科- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLUHRYb09kOFd1SFdOWnRUTjdCUDNYVkFoU29jUUh6OFhCX1hqdHEydHFUV3JJWERURTVid296aVNoY1RneU5MdUZEb0tTTHllT0hQcHNENV8?oc=5",
           "source": "CMoney",
-          "published_hkt": "10/08 13:52",
+          "published_hkt": "10/08 19:10",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "快訊／台股收跌493點　台積電跌35元至2550、收今日最低",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DbW9XQ2FLcG52by1iNXJIS1dkUXZKenk2Z1ZsSjI5bjhTTmxjU1RlZHJQbVJOYzR5dGMxMWpPM1RxMnhfSE1SYVdGSmxaS3dKdGfSAVBBVV95cUxOcHJFaUxQTHlNZXp0VWo3LXFZWllGeGJHY2p2VzkzdTFpcGRlR3FRZ09VZTVHdkd4cGY5cnMxS0NpUnYwcXBYVkdkdnZRb2VPNg?oc=5",
-          "source": "ETtoday財經雲",
-          "published_hkt": "10/08 13:35",
+          "title": "TWA00 加權指數- 投信8日買超前十大金傳肉多多？熱捧台塑兄弟、二哥脫魯- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VbDR6ZDhzQ1lhQ0NDSGdQak5MSzNSdzlDOFlQRGVmTVVWMTd1dHQ1eTVMRkhfZjNtTWo0cDlpc1RLY0M5Y0JyQ25wSnlqZEEzbG50Slg2OGM?oc=5",
+          "source": "CMoney",
+          "published_hkt": "10/08 19:09",
           "related": [
-            "TSM"
+            "^TWII"
+          ]
+        },
+        {
+          "title": "TWA00 加權指數- 外資8日買超前十大7傳產受青睞「這檔」漲最凶- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TLW1EdVlkVEFDWndwVGpRMGRJTUh2M2poUHkzdm00azlOZWxkcHpLcURsbnJMQWdVdHp3QWoySXNCcFBkWXNDZ09xQTJ5T2s2SW1hLWw1VjE?oc=5",
+          "source": "CMoney",
+          "published_hkt": "10/08 19:08",
+          "related": [
+            "^TWII"
           ]
         }
       ]
@@ -215,58 +213,61 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-07 23:39 HKT",
+      "updated_at": "2026-10-08 21:09 HKT",
       "news": [
         {
-          "title": "《日股》高檔獲利了結 日經收跌0.92%",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX0xMaHQ2S3hEekhJUnZHMm5JOThReHZEYVdJT2stSjFFNmFqNVBzb2ZwVG1CWV9YUmpnRHAwNlZzX2NTc05CcWhQYTE3TkJuNG9DaGI3WkZmdXcxbWptNV9WVTNvZXpzLVF1b3lpMjU4dTdVdmFWV2tDdWI4VE9zUzd5Tk5hY192S2wzaUJDdkszdw?oc=5",
+          "title": "《日股》油價揚/利率高檔，日經收跌1.42%",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEdBUkNLb0kxMHQ3amxGUFh2ZXRyekJ3b19qNmVfU1ZpM1hFZV9CQ0t0THl5WUNHdUZhR0ROaFItdUVwUFZqTFpMdkhMQl9hSzdBZVFPdkZ0N1hWY3M3UjVQLXVKNHpnZmNRSTVVb1g4UjdrUWppZFRtTkZyWElpcHUxbXV5bF9KX0xPb0xsUkNOUThMaWJ6NGRINjBJY2lheHdfNS1VaDZwUnM?oc=5",
           "source": "台視全球資訊網",
-          "published_hkt": "10/07 18:49",
+          "published_hkt": "10/08 18:15",
           "related": [
             "^N225"
           ]
         },
         {
-          "title": "中國國慶假期全球資產盤點：日股領漲美股創新高，港股獨跌逾2%",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5Ty1TbHB5bG1YbElrZzhLNjZsWHgzbS00M3l5MnlDVDhOZGRScTh4V1ZkSXlXWVhKY1B6OEtVRVZNZnlUeHRfaXVqeTc2RDhyak1ycFBoUm1JSlRId01xRm56OEhnRmFGNDFESjlUM29SOHVYNGZtSGpB?oc=5",
-          "source": "BigGo 財經",
-          "published_hkt": "10/07 18:05",
+          "title": "AI是引擎也是雷！野村、大和CEO：日股牛市有望延續至2027年，最大風險是AI信仰逆轉作者智通財經",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rNEdKLW5lSUZXLUR1Q1oxNHJQM3lmV29IVTFXUVBjRVQ3eF8wb0ZvUC1oNmp4cDFiVXRJOF9xQ1RCOEU0TWpMUFdQZjdqbEp3MEk5VjVUajMyNTBhbnpWN3pzbW81MnBKVXR4bndvNjc?oc=5",
+          "source": "Investing.com 香港 - 股市報價& 財經新聞",
+          "published_hkt": "10/08 17:24",
           "related": []
         },
         {
-          "title": "美股期指持穩，油價與美債殖利率同步走高，漲勢更集中大型科技股",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00NTUwMFlZQ2RNUUJvQmdWNWRIZnZIVXpBQklTRnFSMkFVSnRrODkxUzdMM1E4Y3JKOFpCQUVjUWdvZm5DUUJDSmZKdmQ0UEp4UTFWb05n?oc=5",
-          "source": "優分析UAnalyze",
-          "published_hkt": "10/07 17:27",
-          "related": []
+          "title": "恒指收市跌344點見3個月低科指見兩年低北水流入65億元大市成交2072億 (16:21) - 20261008 - 即時財經新聞",
+          "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxQQ2dlTFNZR0Y0U3FaclBxVHVOeGdJU3RtMkZQQnM4S3dZWVBVSjJiellfSkpQUS1hVGx4R3BvTzVZcldDV1BpRGJ5V1B2YlVQVFpNcHFlQ1hnSUc1YnpoUV9YUi1sWWU3a2xLV0hhS19XRWNhZ0FlbWxrOGFQSk9JWmlaWWpuUnd4a19tSXVxMnFaTGtfQUdHV29yYjV1S3BSTXlORW9tSEJINjl2S3FNZmVUVE9FajlOQXB0MDJFY1BCNTZEV3dQTjBRTTZXcEZfT3hVWWF4QmJXblk4b3QwclpfVnpQSTJmRm1STW1jU2QwbkdMQTVHc0NmSlNueUQzbUxyTnVvZi0xekM2V1lwY1piOG0tNE9JNkEtVzROUXB1aGRBa0FhY3gxcUpWdHRCOFdOQ05yZm0yM2tHa3BDbW5GUlMxNjZneTFrVTJVXzFKckxlMGI2WlZCT2ZFQllGdFhkQVBNR0dhTE5vWUNLM3NTS0prMHA3a1diSGQ1Q2JBR0VhangxNDU4Y2xXSC1EbUlnOTY3a09vSm14aUhQV0pzQWZDVUdDMzdZbVNZTlhxSDNYUXhyUVBUVXdaVXJjZlVveU9tVnI?oc=5",
+          "source": "明報財經網",
+          "published_hkt": "10/08 16:25",
+          "related": [
+            "^HSI"
+          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-10-08 14:56 HKT",
+    "updated_at": "2026-10-08 21:09 HKT",
     "news": [
       {
-        "title": "比特幣跌破8.3萬美元，油價飆升與美債收益率上行壓制風險資產",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15bkJRWDROaHR6TTEwNFJEZFpKN2cxR2JETFlKbVZrVjNPSzZQT05qenl6UFVHbDFvc254TjNlcUVkYW53MFFZVm1kamFvUW9FSHlnaVdITkxxdTMyNUJzUUNrdXE?oc=5",
-        "source": "TradingView",
-        "published_hkt": "10/08 13:40",
+        "title": "加密貨幣今日：比特幣、以太坊、XRP在ETF資金流出之際延續拋售",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc0laZHJKX1ZkS3g2RFdjRUJydEhXN0FEalFBY25sbEYyRHdRTlU4NlhDS05QU1pzS1EzSlZTMFRVM20zbTZDYzc0MXRvYUdVampzNzlYSlU2bXE1R0JaS0ZpV3RyMDV6SDJPZy1vWGRQbzJXYWlmSF9oMTRGZnByRzJ3aW5qM0x6RTdnSmdvbjYxTTVZZXZmd29UYUpMRGNzNXUzQW5keFBEY0VXcjZaQllwV0Qtd2dfcHRmb1dxZkF0VWlLaF9hRzVHajU2Zk9uUXJmbUVDb2lMZlRvaG1Dd2h30gHnAUFVX3lxTE9OTVZmcDRvZzNmb3VZZ3ItclZnLVd5SFFYZXhVZGJpbUVwRGc2dnAzd1EzVFVjbk9zLUgtQjBOY0hkdnVPT29yR3VSLVZUUmE0NnhrSXNGYjhyMUxFNDZiVjBRZEowSmhxNHZxc0R3Tjh5Y2dCYTlKcUNWUkhFN3VXZ2Z3SndSVVk5SHVibkE5alByQklQVTJOQ0lONWRRc21ud3JpUTVxdDRMY2lGclU2a3c0TzNXclpQbHhINTQ2MjhGbU5PbHhHdllnc0hjTGtlNXVmc1c3d3RSZ0E2NGJVZy1VX2d2RQ?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "10/08 19:29",
         "related": [
-          "BTC"
+          "BTC",
+          "ETH"
         ]
       },
       {
-        "title": "XRP和XLM前景：瑞波幣和恆星幣逼近成敗關鍵水平",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSlpSQk5ZRU1sQWdaVmc4M2F2bUxqWWh1bjhXUTlaV0RzNlFsRjRtc2M4UUswN0hPbHp3ZkNaUV9sVDE3WjAxR0IzaXNaM2N4TDVYMEU3WkU4d0xhLVhvRjFsclBjU1dBWGVvOF93UjZHX3RVWkQwWlByTVg1YU5yX0ZyNVk5M3lxVVFCUUNPcW55ZE5hR3lucG1oZk03X056WVlmbXJvNjBxUVc3UXVaQ1k5VXo4Y182S1VOVU52STlzRGhLN2ItZERBbGZGT1diWGpFVk5lM3U0OWExNWFnWHJFZjVUUVdtdTBkR21jZjRQdlltNTBXSFRqeExHOUtxZDN0c0tlMNIBhwJBVV95cUxPSlpSQk5ZRU1sQWdaVmc4M2F2bUxqWWh1bjhXUTlaV0RzNlFsRjRtc2M4UUswN0hPbHp3ZkNaUV9sVDE3WjAxR0IzaXNaM2N4TDVYMEU3WkU4d0xhLVhvRjFsclBjU1dBWGVvOF93UjZHX3RVWkQwWlByTVg1YU5yX0ZyNVk5M3lxVVFCUUNPcW55ZE5hR3lucG1oZk03X056WVlmbXJvNjBxUVc3UXVaQ1k5VXo4Y182S1VOVU52STlzRGhLN2ItZERBbGZGT1diWGpFVk5lM3U0OWExNWFnWHJFZjVUUVdtdTBkR21jZjRQdlltNTBXSFRqeExHOUtxZDN0c0tlMA?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/08 12:01",
+        "title": "維塔利克示警：AI 或加速破解加密技術 反對市場倉促更換錢包",
+        "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNaG5HRnVaZmZsNjYtMlZqc0o0UjlJbnZHZU9OM3NKR2lrMDdWYm9EYXdvQXp6ZkkzQmN0RHpVTUh5NnpGTFVuNHQ4T21HNUpoRDJDcEVTejF5SlJnTE1ULUtvelZrX0xYR0FlR2FhbXFON2wxWlY4MzV4MldhdkxfeE93ZFU4aThadjRyYnQ5bGlvT1RkLWFMalJKbllZdWl2c05YWkpWNGpXOXNvcnJUNFZCZXhRbGZ0a0dvVzlXeHBkYTIyY1JjcEVRODZfeDZRTnk3WnpRM01XcUpaN0cxTVQzSW5nMkpybXRRS0N6NHoyTFhtN2pnQ3NmcHY0OWhyaU5hbjVvVUtZS3l0RnVCa2hHc01VZk5GZ0REeEpxb1g1YVp6WVZKSENyRFJGSnN2Z0tJR0JvUEpRQlFwV2VwWTVHMndBWFVPeFhfMHN6OGU0NDZqWXZ2YUlDNFl0RjdQMW9fMy1KZWxxSTJpWVNpWXFMaWR2MFRUbXZ4T0lXQTQzUQ?oc=5",
+        "source": "Yellow.com",
+        "published_hkt": "10/08 19:14",
         "related": []
       },
       {
-        "title": "三星與Solana合作，將穩定幣整合到美國Galaxy設備中",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ19jak9iYXpmcHZSOVNpMjFzU0xWNVdERzBRWFZlaGc1QVNpR2o4S0psZHAwWVFxYWVNM25oMHprZkNPRVU3N0wzU092UVRpV0FMdGpZeVFhMDVhSG5EZ1NmcldXb21aNzAzTVpqM01ldmlsaEVGRXRZZlhxakVUNlZqUU9YZ2lBU2pzQnJLakFhWWsxZGNGdS1sRTl2VWhaQlNweFc2ang2UHlTZHFKU3h4aGdvb1pDNnlpSWVkRmkxYkp3bUwtMk1DWGpIYWtSbFFCUjlJN1VFOHZ1YklN0gHfAUFVX3lxTFBDX2NqT2JhemZwdlI5U2kyMXNTTFY1V0RHMFFYVmVoZzVBU2lHajhLSmxkcDBZUXFhZU0zbmgwemtmQ09FVTc3TDNTT3ZRVGlXQUx0all5UWEwNWFIbkRnU2ZyV1dvbVo3MDNNWmozTWV2aWxoRUZFdFlmWHFqRVQ2VmpRT1hnaUFTanNCcktqQWFZazFkY0Z1LWxFOXZVaFpCU3B4VzZqeDZQeVNkcUpTeHhoZ29vWkM2eWlJZWRGaTFiSndtTC0yTUNYakhha1JsUUJSOUk3VUU4dnViSU0?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/08 11:38",
+        "title": "南非第一國民銀行（FNB）攜手VALR推出加密貨幣交易平台，擴大銀行主導的數位資產取得管道。",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DLWdVOVhpeHRDc2JyTVpESU94cVJMZmdOZlh6XzlVamFIWjFoZHRrN29rLUJERG05SXcyVXZHNWhodi1QUEE0TzVR?oc=5",
+        "source": "区块周刊BlockWeeks",
+        "published_hkt": "10/08 18:27",
         "related": []
       }
     ]

@@ -153,31 +153,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-07 23:39 HKT",
+      "updated_at": "2026-10-08 14:31 HKT",
       "news": [
         {
-          "title": "台股5萬點還差32點：台積電獨撐近45%指數，扣除後大盤只剩27,000點",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTV6Tno4ZllfMzdfQVF5Qjk5ZEs0a3BETnRidTZ2NVVCUmJmWjFUNnhiWVVUYWVEZnE5aUUzQ0RxWTh5SUR0OWZTNE5aQzFqN0g1cEdaQ1BYdE5kZHltazVBMXNyUk9wOFM3TFFGeHM5ZDJxWUY3S0FIQ2dNSnR2U3BmUWlUb19mLXQ2MHVpRnF1WUpYX2RMM3JoWmVhaGx2N1dLWmZPaDFVYWRCaXNMaW95TXY?oc=5",
-          "source": "股股學院",
-          "published_hkt": "10/07 23:19",
+          "title": "快訊／台股收跌493點　台積電跌35元至2550、收今日最低",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DbW9XQ2FLcG52by1iNXJIS1dkUXZKenk2Z1ZsSjI5bjhTTmxjU1RlZHJQbVJOYzR5dGMxMWpPM1RxMnhfSE1SYVdGSmxaS3dKdGfSAVBBVV95cUxOcHJFaUxQTHlNZXp0VWo3LXFZWllGeGJHY2p2VzkzdTFpcGRlR3FRZ09VZTVHdkd4cGY5cnMxS0NpUnYwcXBYVkdkdnZRb2VPNg?oc=5",
+          "source": "ETtoday財經雲",
+          "published_hkt": "10/08 13:35",
           "related": [
             "TSM"
           ]
         },
         {
-          "title": "TWA00 加權指數- AI市場多空交戰！科技股與台廠供應鏈觀察- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mQ0pUWVNBMGxhVDBta1ZXWXBlYkViNVBHTlBQQlBsY2xQUlZHS2IxdHdrM0Fka0xUNFRKaUlEMVQxLTFRY245QnUzcVpKVnFDSVFfQ0sxREc?oc=5",
-          "source": "CMoney",
-          "published_hkt": "10/07 20:32",
-          "related": [
-            "^TWII"
-          ]
+          "title": "台股開低走低！終場大跌492點 國慶假期後再戰5萬關卡",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGTFNCMjRJSkx6V2JVLWIxbkV2UzVMTGYwb0s1U2ZvRVhWYW5ENUotbmVUeVN4ekluZHlMOFV2eURTZGtvOHFpWXRsSGI2clJra1N1Y2VTSQ?oc=5",
+          "source": "台視新聞網",
+          "published_hkt": "10/08 13:20",
+          "related": []
         },
         {
-          "title": "TWA00 加權指數- 別再當韭菜：十條生存鐵律，我負債四百萬後才看懂- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SSTdQaXQ2NVlsVktyclVJM01VRXE0aTdiaThraGdKMldhVDlZR2xxLVRLUEMzNk9lY2lkTDZhcEg1OWpHcUx5azNhNS14aTAtTGVpNGhNeXo?oc=5",
+          "title": "聯準會前夕加權指數守住三重底，你現在是撿便宜還是被套牢?",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yS0Z4RkJOYXd0Q1ZIS3h0c1lobGV6Mmg2cmFLZnpEZDhWZURiZURrdEVkNnJzSF9rcjNhSjBDVEZ3YzVvNkZNaU9VZ0M3cHJTaGRoWEVBdnNrTEdLVUhRcHFsazBXTXh2a2JreDVCTEp4Um1UQ1FEZ2NYcw?oc=5",
           "source": "CMoney",
-          "published_hkt": "10/07 20:20",
+          "published_hkt": "10/08 13:01",
           "related": [
             "^TWII"
           ]
@@ -244,34 +242,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-08 10:45 HKT",
+    "updated_at": "2026-10-08 14:31 HKT",
     "news": [
       {
-        "title": "比特幣跌破8.4萬美元關卡 聯準會升息預期與油價上漲施壓",
-        "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPTDFRdlloOEJmeUpMOEp6WTBZcW1FNjl6VzlFTjk4dkdEUnZ5Q19aVjcyUV9XaWxYWUJabGJFV0p6UDRsQmtmQmNybml6emNyUmZLTFUyM3pUT0NjMEVmbGZaUjF3RWNXS1pmUmh4bDItOHRNSFF2Qk5HMGtQb1FXSzZTVzFTS09MUzU0R0xuWmtEeVRnc29tdjllMTVlbjRtY1BzcGlFcDE5UkNHOURYM1U0NElBb2lxLUV4Sm9qOUZFVVhmOWVuaWhGaDFnYnAxaWhDMUJ2cThfWGRjRmNvZFlUVkpxSGZjRVJvOFZZc2NCTl9WNzlENGFXSUVveWY0QWtEVEpxRDhlamhPQXVncWNYeEVUMmdycjBaMGJpRTFJNS1sQUg5QlpWVnp5SGlxUWtMR211WGEyTjlqU1NtMzhmN3FwSU0xWXB0S3lZZ19QSFFNLXkxZGwzd2VjYkJWSWx0QktrTkFDRFJmYkZHeDc5RWJ2cVdBVVJRZXBMWXQ?oc=5",
-        "source": "Yahoo股市",
-        "published_hkt": "10/08 10:36",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "美國政府錢包鉅額比特幣移轉至 Coinbase Prime，市場關注後續動向",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84di1aQTF6SlRRM2dzSkQzcnNXelFVUkNEcmJWVTloa1pFX3dqS2N2TDZtY1R0bHZXaGRvQ00yYXhxaW1CSWo2WVNveWExUFRoOWc?oc=5",
-        "source": "蕃新聞",
-        "published_hkt": "10/08 10:34",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "比特幣徘徊8.36萬美元上方，ETF資金迴流或成突破8.7萬美元關鍵",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oY002QzNPbkZ1TGZGVmpCdENxM1Nld2xQMC01Z0JEMHBYbl82dFExa28td2J1WDZEXzZpTGpxdDN0QXA1ZVJ1NnBQMUZlV3hCMTJBX1Z0UVFxVldjUkR4dk01VEo?oc=5",
+        "title": "比特幣跌破8.3萬美元，油價飆升與美債收益率上行壓制風險資產",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15bkJRWDROaHR6TTEwNFJEZFpKN2cxR2JETFlKbVZrVjNPSzZQT05qenl6UFVHbDFvc254TjNlcUVkYW53MFFZVm1kamFvUW9FSHlnaVdITkxxdTMyNUJzUUNrdXE?oc=5",
         "source": "TradingView",
-        "published_hkt": "10/08 09:42",
+        "published_hkt": "10/08 13:40",
         "related": [
           "BTC"
         ]
+      },
+      {
+        "title": "XRP和XLM前景：瑞波幣和恆星幣逼近成敗關鍵水平",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSlpSQk5ZRU1sQWdaVmc4M2F2bUxqWWh1bjhXUTlaV0RzNlFsRjRtc2M4UUswN0hPbHp3ZkNaUV9sVDE3WjAxR0IzaXNaM2N4TDVYMEU3WkU4d0xhLVhvRjFsclBjU1dBWGVvOF93UjZHX3RVWkQwWlByTVg1YU5yX0ZyNVk5M3lxVVFCUUNPcW55ZE5hR3lucG1oZk03X056WVlmbXJvNjBxUVc3UXVaQ1k5VXo4Y182S1VOVU52STlzRGhLN2ItZERBbGZGT1diWGpFVk5lM3U0OWExNWFnWHJFZjVUUVdtdTBkR21jZjRQdlltNTBXSFRqeExHOUtxZDN0c0tlMNIBhwJBVV95cUxPSlpSQk5ZRU1sQWdaVmc4M2F2bUxqWWh1bjhXUTlaV0RzNlFsRjRtc2M4UUswN0hPbHp3ZkNaUV9sVDE3WjAxR0IzaXNaM2N4TDVYMEU3WkU4d0xhLVhvRjFsclBjU1dBWGVvOF93UjZHX3RVWkQwWlByTVg1YU5yX0ZyNVk5M3lxVVFCUUNPcW55ZE5hR3lucG1oZk03X056WVlmbXJvNjBxUVc3UXVaQ1k5VXo4Y182S1VOVU52STlzRGhLN2ItZERBbGZGT1diWGpFVk5lM3U0OWExNWFnWHJFZjVUUVdtdTBkR21jZjRQdlltNTBXSFRqeExHOUtxZDN0c0tlMA?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "10/08 12:01",
+        "related": []
+      },
+      {
+        "title": "三星與Solana合作，將穩定幣整合到美國Galaxy設備中",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ19jak9iYXpmcHZSOVNpMjFzU0xWNVdERzBRWFZlaGc1QVNpR2o4S0psZHAwWVFxYWVNM25oMHprZkNPRVU3N0wzU092UVRpV0FMdGpZeVFhMDVhSG5EZ1NmcldXb21aNzAzTVpqM01ldmlsaEVGRXRZZlhxakVUNlZqUU9YZ2lBU2pzQnJLakFhWWsxZGNGdS1sRTl2VWhaQlNweFc2ang2UHlTZHFKU3h4aGdvb1pDNnlpSWVkRmkxYkp3bUwtMk1DWGpIYWtSbFFCUjlJN1VFOHZ1YklN0gHfAUFVX3lxTFBDX2NqT2JhemZwdlI5U2kyMXNTTFY1V0RHMFFYVmVoZzVBU2lHajhLSmxkcDBZUXFhZU0zbmgwemtmQ09FVTc3TDNTT3ZRVGlXQUx0all5UWEwNWFIbkRnU2ZyV1dvbVo3MDNNWmozTWV2aWxoRUZFdFlmWHFqRVQ2VmpRT1hnaUFTanNCcktqQWFZazFkY0Z1LWxFOXZVaFpCU3B4VzZqeDZQeVNkcUpTeHhoZ29vWkM2eWlJZWRGaTFiSndtTC0yTUNYakhha1JsUUJSOUk3VUU4dnViSU0?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "10/08 11:38",
+        "related": []
       }
     ]
   }

@@ -91,7 +91,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-09 20:55 HKT",
+      "updated_at": "2026-10-09 21:56 HKT",
       "news": [
         {
           "title": "【港股後市】美CPI或影響大市 恒指未必彈得太高",
@@ -151,22 +151,22 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-09 20:55 HKT",
+      "updated_at": "2026-10-09 21:56 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數- 看看南韓，想想台灣。 - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zYzVpbE9VMjJtb25aZzlfYXR4RHc0RDFtTUNPNGMybnlfdWR4ZldEejRaQW95RG5OWUtzMVJkdFp2ckc4eDdzTXJkTkpwbUQtakVxb0tnbWE?oc=5",
+          "title": "TWA00 加權指數- AI與消費電子需求分歧，科技廠9月營收兩極- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBleDBud1pqdnJTajJhQ3dmN2xGWTVrQUI4dzZ4ZGdGUGIwZGdpRTlhbzdjbnpvNEVpbmV3NUZrVk00bTlvX1VRaF9FcVdNTjI0ZWZrSy1ibXY?oc=5",
           "source": "CMoney",
-          "published_hkt": "10/09 18:04",
+          "published_hkt": "10/09 18:31",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "TWA00 加權指數- 澄清：到年底還是會達700億美元- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5ZFVqenBsb0pMaTE1Y1VDNll6bE04NEhXQWxUZGl2Snd4eWtjQlBuTC1YaElsdEZUT3RWUDNsQkJzLW1zOWhMSUtXVWQ5Zmg1SndYMUw2T1E?oc=5",
+          "title": "TWA00 加權指數- 看看南韓，想想台灣。 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zYzVpbE9VMjJtb25aZzlfYXR4RHc0RDFtTUNPNGMybnlfdWR4ZldEejRaQW95RG5OWUtzMVJkdFp2ckc4eDdzTXJkTkpwbUQtakVxb0tnbWE?oc=5",
           "source": "CMoney",
-          "published_hkt": "10/09 17:17",
+          "published_hkt": "10/09 18:04",
           "related": [
             "^TWII"
           ]
@@ -213,7 +213,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-09 20:55 HKT",
+      "updated_at": "2026-10-09 21:56 HKT",
       "news": [
         {
           "title": "日經指數無懼升息重見7萬點，為何日幣卻偏弱震盪",
@@ -242,8 +242,17 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-09 20:55 HKT",
+    "updated_at": "2026-10-09 21:56 HKT",
     "news": [
+      {
+        "title": "泰國監管機構批准加密貨幣ETF，並推出11項新規，比特幣和以太幣是唯一符合資格的資產。",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE84cUZzVkVjZzFFTXdoUkZsalNGaU1xVEtpMTJ6d2c2X1VtTlN2VW5wb3Y2aGJ1dldqTFVWZWNpNHlaNzlqcVZGTG5n?oc=5",
+        "source": "区块周刊BlockWeeks",
+        "published_hkt": "10/09 21:37",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "Bitget要求封禁駭客地址：THORChain有義務配合嗎？",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VOW9vYnpERno3aXF1bC1hM2puY1RMZE5IRjZjRVhYaFZMVUU1NXR6V2xNZHRaZkoyUlJQZ19NYk5KR0FMTllnSGlxbw?oc=5",
@@ -258,15 +267,6 @@
         "published_hkt": "10/09 18:02",
         "related": [
           "BTC",
-          "ETH"
-        ]
-      },
-      {
-        "title": "以太坊在Sepolia測試網上激活Glamsterdam：為何價格仍在下跌",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbndOUUF3cnFDZVlaQllJWjI1WEJYNE5wMG1Vck11R0ZPb3hvV3k1M0pZLU55d3dYanhjNG9uNVhKY211OS1ITDd5cnF5M3ZBV2xXQUxRTGRRdlByZDF3VkY2Mk5lc2xObVdNVlVyUnNadS1BZDZRVENxMURmdW1FT1VpTkZvU1hYbHBiVV95dGlnc2tCbDl6X1QydVdtX0R1ZjBFUV9tM1ZqS3pkX1ZKd2FLbjBrZXFJVmE2emUxbWJibDJrbUNaVktCMFNiV05YaTBPYzFzN3h6aUdnOTZ0VlVEci1ISE9Z0gHoAUFVX3lxTE9ud05RQXdycUNlWVpCWUlaMjVYQlg0TnAwbVVyTXVHRk9veG9XeTUzSlktTnl3d1hqeGM0b241WEpjbXU5LUhMN3lycXkzdkFXbFdBTFFMZFF2UHJkMXdWRjYyTmVzbE5tV01WVXJSc1p1LUFkNlFUQ3ExRGZ1bUVPVWlORm9TWFhscGJVX3l0aWdza0JsOXpfVDJ1V21fRHVmMEVRX20zVmpLemRfVkp3YUtuMGtlcUlWYTZ6ZTFtYmJsMmttQ1pWS0IwU2JXTlhpME9jMXM3eHppR2c5NnRWVURyLUhIT1k?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/09 17:10",
-        "related": [
           "ETH"
         ]
       }

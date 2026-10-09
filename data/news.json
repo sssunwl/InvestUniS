@@ -147,31 +147,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-08 23:44 HKT",
+      "updated_at": "2026-10-09 14:32 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數- 🎯台股跌493點！外資狂賣758億，5萬關卡告急？ - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3dnFCd0g2X0pQUWpvZ1hyNWZsdjJ4d0FnQ3RYUUpXWUt2eUR5SUg1VzFwZlVvVngxbmxFRGZnRGZ5R2ZQOVZfdml4LUw3U1hlVXhWUF8xVFg?oc=5",
+          "title": "TWA00 加權指數- AI伺服器業績爆發，科技股呈冰火兩重天- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QdWp5aTVZVkg5NVZrcXdfd3loSDVodkFPLTVHcXNrVGFZYllfWG9hOW40UGc3Y3FOcTUtMnI1TVhTbkl1V0VFaGVTalBSVUVHNjM5LWdiazA?oc=5",
           "source": "CMoney",
-          "published_hkt": "10/08 21:30",
+          "published_hkt": "10/09 13:32",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "TWA00 加權指數- 三大法人8日買超前十大8傳產2電子砸百億搶進南亞科- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLUHRYb09kOFd1SFdOWnRUTjdCUDNYVkFoU29jUUh6OFhCX1hqdHEydHFUV3JJWERURTVid296aVNoY1RneU5MdUZEb0tTTHllT0hQcHNENV8?oc=5",
+          "title": "TWA00 加權指數- 影片有講到汎銓。致茂、漢測。汎銓市值為最低- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwcjI1Qm0xMXBJdHBiWnN6UEJmeHZXU2E1dVRQSkMzSXVLZ2UyTkJENFZLcWdOMDFwVE90Zkl3MXU2SkNqM3BRN3RfWG9fSG1hMXRaMTdwUnM?oc=5",
           "source": "CMoney",
-          "published_hkt": "10/08 19:10",
+          "published_hkt": "10/09 13:29",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "TWA00 加權指數- 投信8日買超前十大金傳肉多多？熱捧台塑兄弟、二哥脫魯- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VbDR6ZDhzQ1lhQ0NDSGdQak5MSzNSdzlDOFlQRGVmTVVWMTd1dHQ1eTVMRkhfZjNtTWo0cDlpc1RLY0M5Y0JyQ25wSnlqZEEzbG50Slg2OGM?oc=5",
+          "title": "TWA00 加權指數- 台股快5萬點還在賠！苦主曬血淚戰績：買到這幾檔笑不出來- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QUjljNGRPMDVBQU4wNUtwTWZVaUZ0aTBYMElEUWVJUHAwUnpqR3pjN25OeUhISzJ5Vm1GWXAybWtWbzFTbzNuQjIzQmFLU1hveHV1LTBHaU0?oc=5",
           "source": "CMoney",
-          "published_hkt": "10/08 19:09",
+          "published_hkt": "10/09 13:04",
           "related": [
             "^TWII"
           ]
@@ -238,35 +238,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-09 10:59 HKT",
+    "updated_at": "2026-10-09 14:32 HKT",
     "news": [
       {
-        "title": "AI 將提前破解比特幣？以太坊研究員喊進入「地堡模式」，Vitalik 認同風險但勸：勿恐慌搬錢包",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV1FYUDUtR1Zkc2YzTlBjM045YU1uLVJxZmxoNmx2ZmNDNEViYmUwUjdSbE5iUV9EQ1kwUEs1STA3dlota3B5cUhaWUZQd0RDbnRnenFiZ1lFU3hDS21fYjRKek1PUlhlTTM4ZENMUnVvNG9TUU5Bb3RORkIzZjNHbU9sbURGUXdw?oc=5",
+        "title": "加密貨幣集體跳水！比特幣四連陰下探，8萬美元防線拉警報",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb0pYeU1nS0tjWVBKRzIySVZsQmZtcFRkUjdoS05uT01ES1p6ajEtTVBYbTAyU0I0cXVGV1VDZXlfbTBhV0Fsc1c4bi1FODJiMXppX25ta0dGQUFBODNIcEJob1NiRmRLZ1VFLWV2VkpIMDFNLVo0U3A0Y0RVUkNrMk15aHRSd0VzNEx6bWdSZGlXbzl5OWZ3cm9tTGhURmhQa2VYRWdyN01YWUpmUVNQU0V3ZE9kck9nOU1mVUUwOWN1QXlv?oc=5",
+        "source": "TradingKey",
+        "published_hkt": "10/09 14:15",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "比特幣反彈至 8.2 萬！川普喊不打伊朗，加密圈也甩掉「防空洞」恐懼",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNjY4NHIyTW9VLVI1LUNIUnRSTV9mdXlsZGVXdnoyRHZYSDFfUVROenlLMXk0TjNoY0tTRGFTbUNIa0Y4bjdWS0ZNTmVzNnhrVzBpUmt4dFhaa1N2MGJfcUFScThybWp1aHZ6Q0F6NTRqdUJhZmFGZjV5dVUwaXBmc0UwdFI3Z0gyNTdNNHF3?oc=5",
         "source": "動區動趨",
-        "published_hkt": "10/09 10:20",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
-      },
-      {
-        "title": "全球幣圈迎來重磅時刻！TOKEN2049釋放重大信號：華爾街巨頭齊聚、比特幣牛市預期升溫，加密金融迎來歷史性轉折？",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ycUVOU0FyRVdBZUxFWm9UTDg5VGRuVjk2eldkbXNZbG1JcTB0bHY1UW05VXJvc2I5WW5SUXk1RkhEMFVhNmJJN05FRUtkWlc4bkJ3SWRkVHpsRlhpT1ZmWnZsbE0?oc=5",
-        "source": "TradingView",
-        "published_hkt": "10/09 10:19",
+        "published_hkt": "10/09 13:48",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "摩根大通報告：比特幣 ETF 資金回流 數位資產今年吸金 500 億美元",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUdk0xNU5ETzY2R2tsWlF3U2gzMnlsTjV2NXdsbG1BM1ItRmFYZmFVQ00tRk5VbVpPdmlDQzFCY0wtRFgzU0NZRks5eThSdEI4aEE?oc=5",
-        "source": "蕃新聞",
-        "published_hkt": "10/09 09:25",
-        "related": [
-          "BTC"
-        ]
+        "title": "Starknet 價格在 Layer-1 過渡提案下會漲到多高？",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxON2VxM3dVZmVoemtxQjFGZGZ0ajJuNDJVX05KOWt6OGllZ1BCaU80bXZvRGtpSWgwZ3NzSlR2TWZzb0hVTzNnQVpvc3FnU3UzREUtS2tSYmowUDFkUllyTUFiQTZ6NUZoRFYzd0pDbTlCZXlpbDcxNEpOLWtRNWtuMlJPLWxudm1PVzVCUXdtYXZlX0ZKcF9yRHcwSGxycnRDTDFRbWp0VUp1ajZJZ2h3dU9hRjZTNXlKTW5fS1lkeXc2Ti1oQ08tU1VrZ1BSSUVTVmJtQzllazRrUmxzbjd0cnkyaG5fSzNFRjd2MmhLVy1sbG1v0gH0AUFVX3lxTE43ZXEzd1VmZWh6a3FCMUZkZnRqMm40MlVfTko5a3o4aWVnUEJpTzRtdm9Ea2lJaDBnc3NKVHZNZnNvSFVPM2dBWm9zcWdTdTNERS1La1JiajBQMWRSWXJNQWJBNno1RmhEVjN3SkNtOUJleWlsNzE0Sk4ta1E1a24yUk8tbG52bU9XNUJRd21hdmVfRkpwX3JEdzBIbHJydENMMVFtanRVSnVqNklnaHd1T2FGNlM1eUpNbl9LWWR5dzZOLWhDTy1TVWtnUFJJRVNWYm1DOWVrNGtSbHNuN3RyeTJobl9LM0VGN3YyaEtXLWxsbW8?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "10/09 12:03",
+        "related": []
       }
     ]
   }

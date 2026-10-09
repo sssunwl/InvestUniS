@@ -244,29 +244,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-09 23:24 HKT",
+    "updated_at": "2026-10-10 02:42 HKT",
     "news": [
       {
-        "title": "金色Web3.0日報 | Starknet擬轉型為L1 2027年率先抗量子",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93UlN3OGJCWTJIT2taa2toQmw2WWkxcF8yTVY1UkFQS080dC1ubGh6Q0FBT2JPc2RiRjdzVGM3QUJZdWk1WlJ5NVE2QnVodkE?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "10/09 22:30",
-        "related": []
-      },
-      {
-        "title": "泰國監管機構批准加密貨幣ETF，並推出11項新規，比特幣和以太幣是唯一符合資格的資產。",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE84cUZzVkVjZzFFTXdoUkZsalNGaU1xVEtpMTJ6d2c2X1VtTlN2VW5wb3Y2aGJ1dldqTFVWZWNpNHlaNzlqcVZGTG5n?oc=5",
-        "source": "区块周刊BlockWeeks",
-        "published_hkt": "10/09 21:37",
+        "title": "特朗普一句攪動全球市場！黃金衝破4200美元、道指升逾300點、比特幣衝破8.3萬美元作者FX168",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wbkpfNkEtMDFJUlhkUURuWkJSOXBJRlBYMUZsLVU2djVXb2N4aEJSOVFURXdHbFBWWVMzV2dZbE1KUjJsdXpnWUVHRDRhb1E5bzVNYXQ0c1RnaUNqWldLRlhlSDhlT1E?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "10/10 01:20",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "比特幣真的已經擺脫了它本來要對抗的宏觀力量嗎？",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSDNtSW9RblhPdUV4dkRDQWROXzNSVGpEMWdXSGV4Qkp3bGprWmhEYW9tVE1fX3NEQjFMNFZCNmpfbEVQbUZnNmNEWFV2OTZpYzY5UE42VExpamcyamtERUd4NmVTN0pQQ01sQkVEVnlidDdJci13NE9Lc2RtZXpXd3JUMXB5UlBZVExfUE1vM1c2OGk1SUVrMnVNSC1qdWdNQS1rRjFPRWVKV3A2dWozNk9sTlZNUldkZzlFVHNDdHFPRzhiM3dzbTZnSm56UnNUdXRzSlVtMEYzd1JYMnAtWjhVc9IB4wFBVV95cUxNSDNtSW9RblhPdUV4dkRDQWROXzNSVGpEMWdXSGV4Qkp3bGprWmhEYW9tVE1fX3NEQjFMNFZCNmpfbEVQbUZnNmNEWFV2OTZpYzY5UE42VExpamcyamtERUd4NmVTN0pQQ01sQkVEVnlidDdJci13NE9Lc2RtZXpXd3JUMXB5UlBZVExfUE1vM1c2OGk1SUVrMnVNSC1qdWdNQS1rRjFPRWVKV3A2dWozNk9sTlZNUldkZzlFVHNDdHFPRzhiM3dzbTZnSm56UnNUdXRzSlVtMEYzd1JYMnAtWjhVcw?oc=5",
+        "title": "主要加密貨幣行情，比特幣升1.30%",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcTFkdkJyQnFSWjdBRHVEMzN2SWRoal9JTEhNTE1OT1lHa1JkOGtRYm9iNGJRT256Nzc2a05DVXFxcjd2OXMyNF9uR1ozQUo4QTdPc3l1QUN3cDZfMDRxNmYwMl9LNnRpejhoeWVLX0JVNUhUTGFEaW1ZdS16cEEzZkFXWHJkSmVQU0VfZDRBUkdBZ3o4QUtPSm1kamhGcHN4?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "10/10 00:04",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "是什麼推動比特幣和黃金的反彈？",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPY3JjSXlJNEtCQmpBclFkbV9tSjYyTjhkaGJmb01reHNtcUhCRTB4Yzg4WWhqY3J6M3lTZVBWUnlXRkFPdFhUS1RYRklUN0gzN0NZUUZuWFNZaU9EVmM1TEN2YVM3Sm9KX3dFOFF3cERveXQ1MVZ4U2psMVlWcGJxcHdIV3AwMU9peTQ2dGtyNDAyRXBvTDc4YlpkQ2d1QXZfZzJsU19xUmhubFhJMVVQa0tuemJiZnNIRTdhQ1NJN0lZQnlVOEVHTWJUV3A4ZkR3dEFkZnZPYkctZVBjWENXa2FQX1VVdHJFazV6ZGl2Z1Z0UUFRZkNjRnFJcXhiN1NKQWtRRDBvNjZEaXJ1eDNndtIBkAJBVV95cUxPY3JjSXlJNEtCQmpBclFkbV9tSjYyTjhkaGJmb01reHNtcUhCRTB4Yzg4WWhqY3J6M3lTZVBWUnlXRkFPdFhUS1RYRklUN0gzN0NZUUZuWFNZaU9EVmM1TEN2YVM3Sm9KX3dFOFF3cERveXQ1MVZ4U2psMVlWcGJxcHdIV3AwMU9peTQ2dGtyNDAyRXBvTDc4YlpkQ2d1QXZfZzJsU19xUmhubFhJMVVQa0tuemJiZnNIRTdhQ1NJN0lZQnlVOEVHTWJUV3A4ZkR3dEFkZnZPYkctZVBjWENXa2FQX1VVdHJFazV6ZGl2Z1Z0UUFRZkNjRnFJcXhiN1NKQWtRRDBvNjZEaXJ1eDNndg?oc=5",
         "source": "FXStreet",
-        "published_hkt": "10/09 20:55",
+        "published_hkt": "10/09 23:46",
         "related": [
           "BTC"
         ]

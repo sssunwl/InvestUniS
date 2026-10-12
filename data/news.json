@@ -242,29 +242,29 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-12 22:59 HKT",
+    "updated_at": "2026-10-13 00:13 HKT",
     "news": [
+      {
+        "title": "Evernorth Nasdaq 上市首日漲 5%！首檔純 XRP 財庫股",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSC1MV0NPRm1oNk03aXZONDN5SWpDa3NwRU12bF9Ham5XWkdUSEZBZ2xmWVhRZ2FoRTlFaVJGejdhdTJJM3pzTTh2R21RRE1ab3RUQ3dVdUlJU01DcFNrY3hWd01uWHp6YTVWelJpZV8wZTRSQjZaS1FlZUhLaWtLTnVidWNYaVBJcEI3SFFONU1WNU43TGtR?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "10/12 23:16",
+        "related": [
+          "QQQ"
+        ]
+      },
+      {
+        "title": "Bitmine 再買 12,532 枚以太幣，Tom Lee 稱囤幣快結束",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94X2ZLWkZhcmFzd2l4MGxZVWRaMlQyZG8zRGp5OTh0LU9wRXhGZ2Etb2hGdHYxRzEybHVuLWpLYlloUXpBOGxWdDBiWi1XZS1LUDdGdDFMaTJ3amFDVFJqRXMxWE9nMDdEcmc?oc=5",
+        "source": "鏈新聞 ABMedia",
+        "published_hkt": "10/12 22:54",
+        "related": []
+      },
       {
         "title": "便宜中國 AI 橫掃全球，但好到能用嗎？Intel 執行長陳立武這樣看",
         "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxON2JrVnRjNFFrejZRbXpONE1oMTcxc3hyT1RkWlIzUVUwR3ptdDlkY0R3RHo4cDdaaWRrOU85RXJWUjNwMVdRMmFRNDByZllYVFNiSzdhTVk4VXU0Q0ZCVmFlVmx4M1lFRU1KbEV1Wkl4U2lReFRwT19fajBhVWJJV1ZfRi1MYVlxNjZDcnNwQ0V2YzlmMGR0dThyVk9ueTJZTW1zUUZzdHRhbHEzYTlwdmNadzJheWtuYVF2cF9DNnIyQnNULUQtTWhQeWRZZWNBdUJpYlZqYW1zVUt0d0VhaUJYY0ZXWVowQkpzVHVfdmlnNDRCX3R4S1p4RklCZmhLR2VwQjJiZkRFV0hOREo1VDBiaFNaeEJQbzM3ZG9GUDZsTzh2WnVRUDNEYXhjWWlaUTBMVWd2Q1gwNU8xQzRyYU5maFpzN3RIS1FlZ2pweFFlck44V0dBRXducFl4dy1XbUs0WnpzRzN4SE5RaWhGcXVVZUhocXBVREY2SUZn?oc=5",
         "source": "Yellow.com",
         "published_hkt": "10/12 22:47",
-        "related": []
-      },
-      {
-        "title": "主要加密貨幣行情，比特幣跌0.93% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdlZvazE0ajdoR3BHSkZnYW1xMHpyOGt3TlRxdkZRZVdHd0FOZmhlcmFhQ2pMWVRqTm8xbFVQdVpZaUdkcnhhX2JEMGZUY3lKZzBKeExYYWlubmQwMjZCb2N6UFZ0TXlfWkNYT2hya2pZZE8zQTQtdlA5OTg2OVRieERyc3d3Znh5T1VXektXUnBtbUpNWXVELTcyVFU5Wlo4?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "10/12 22:31",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "Bitmine Immersion Technologies（BMNR）ETH 持幣達603 萬枚加密資產連同現金與可售證券合計162 億美元",
-        "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPQUh1aGNDWmVBMlBnalZYb0czNWw3NkVEaXVqWFNUdXM2ZDgwNDFQb2hvVk0xanpnaF9aU2RIV0FOc2RKNllQbGZseXc3OUY1ZVFxTkY1dVVlUGY1RGU4UjZfRjV6azNiZV9yNHluaTZkMnc5MUdiUm5YOEQ5RV9vTldEajFYYmtIVlpHa3dTVEp2bU1yVTUxMy1LZDM2Vml0M05aNkppci1yemZVVDdaWDZOQW5LUlF4dDVJSnF4X0JSWDNLcmhVQXFlQ3lfeUtkT2JoZzdDWkRsXzhMMEUwakt1UTk4X0szZmlXeGFfdXBReGZsOVEyaEVIczN3akkyRTY3amdzYzVGTEpVVVM3LWhUVjdFaXhPcTdyWXhIYS1sdG5hNHRxSk9PUWd0SzJMQmJ6U2lDc2h6UTB5aWRNU0FJNk11LUQ1dS1EanY0NnBWbEtDYkpNa0J6VXNLZk1RY3hJMHNwdVJHYkJza3gxS0dXSTE3bkduNVFJb1lieXlkdUdYWHc0Q1pLQ2J3S0NQbENFV1NiMTNWX0xFcnRzbm1OcjJ2aXBjU21rRmtaR0JLRnlackpFcVp1NjN1cW8?oc=5",
-        "source": "Yellow.com",
-        "published_hkt": "10/12 22:05",
         "related": []
       }
     ]

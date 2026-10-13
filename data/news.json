@@ -249,34 +249,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-13 22:39 HKT",
+    "updated_at": "2026-10-14 00:10 HKT",
     "news": [
       {
-        "title": "俄羅斯最大銀行 Sberbank 獲準提供加密交易！12 月推比特幣、以太幣、USDT",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNGNsN3VWNzZWS3NSOVc2VGZHemtDdUt1UnV1cVRfQVQ3Sjh0Wlc1cFRJMHhyVjctS1FGb3k4NU0yNnd2SVpES3lzbjJSVXJ2Q3Q4a19HSHJSTzRQWUw2TG1pYXg5MGQ3eHQzQVE1YjhaVTAtRDhmWXpubmtjaXlxaU9oTlhSQ2IxeURyQWZ5WFFVZmsycXBkUk5JSkk?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "10/13 21:03",
-        "related": [
-          "BTC"
-        ]
+        "title": "Bitmine Immersion Technologies（BMNR）宣佈 ETH 持倉增至 603 萬枚，加密貨幣、現金及有價證券持倉總值達 162 億美元",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VUWtSckJkcWtWa2REMHYyYXNzdUc1c3A1RVYxS1RGWVlwaHRPRXREakR3eW0tRzhLZ2R2RGtLVmdKa045TmMxRWpmVnVjTmVsbGNjNGV3djRlYWV00gFiQVVfeXFMTTFhMXl1UEVpd0xnZGtqZHFfLW1aWGhBTDNlNG5STU5HMFBKWXlRQksyVDJuRGdxY0taeVFpVEpfYUFUcnM4ME45aFlqWGdfdlphNGJtTWZlcTBUSXAwaXc4RlE?oc=5",
+        "source": "經濟日報",
+        "published_hkt": "10/14 00:02",
+        "related": []
       },
       {
-        "title": "主要加密貨幣行情，比特幣升1.94% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2E2T0dIMm5tSms1c2d5LXY1bnd2ODVvSm5RTVBUbW92alpCVTRkWVpCclJyVmtCcV9EU0dROWNIOVdQX3VjUUFldTBjOGliSTltV0FUcVVic3oxWUZFMXZyMjNQUkYwT0lfUnVVQUlUWFUyMkVKaUwyTWJyRnF0WDhzODdvdG9SY2pjWkFCQjkwWXEzX2JoOE9sbldNM0xQ?oc=5",
+        "title": "主要加密貨幣行情，比特幣升2.05% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdGJ2ajdadGlOZ1RCMlh6dXNkSG9OX0k1dTMyamFheWFEYTBCa01OUVJNRjZoOVh6WWdoZmVNQzR0OTh6NXcteVB4cGtPbGFVeG8yUmhXNzBOX19heDdFRnpyRW1UdnBfTkdlVUNVT1pSdjlzN2tnVVhJODRkd3lzMDlwcHBhOV9LUjd1bkNBbndYTElSajByTGtPMVozWG81?oc=5",
         "source": "etnet 經濟通",
-        "published_hkt": "10/13 20:36",
+        "published_hkt": "10/14 00:01",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "以太坊、瑞波幣和Hyperliquid是否正在隱藏牛市陷阱？",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPSzRwYndDYzdBU3dGMDlLVEZHdHo5WFdVRzAxakk5ZFlBRk1mNlh3MDMtZUFWbDJJRTQ1YnFyQm1seUFWLV8tVXhtSkI3dDl0MDBOcEtkeVZ5c0FhendQTXBjelM1bXhLc0RZblEtOElDektuNjR6Y0lXWmVRXzZVSXhGZ3d6QmpsbXNjNUNXLU1XbmxTLTJNektOVWVtNG5mYUlYd0c3YW5CT1R4MV9IVS1xeUhkaG5jYVRuZ1hxUUVGMjhDNWZueXBJVGxKSnVkNXhLb29Cczhxc2lOU0FkOGs5d0lPUGtSS3MwU2k0UHBHU0V2N1FsQnY2UDhYaFdOV3FxYkU0c3ljU3h2SHZoZFhuLUxMT1Vm0gGYAkFVX3lxTE9LNHBid0NjN0FTd0YwOUtURkd0ejlYV1VHMDFqSTlkWUFGTWY2WHcwMy1lQVZsMklFNDVicXJCbWx5QVYtXy1VeG1KQjd0OXQwME5wS2R5VnlzQWF6d1BNcGN6UzVteEtzRFluUS04SUN6S242NHpjSVdaZVFfNlVJeEZnd3pCamxtc2M1Q1ctTVdubFMtMk16S05VZW00bmZhSVh3RzdhbkJPVHgxX0hVLXF5SGRobmNhVG5nWHFRRUYyOEM1Zm55cElUbEpKdWQ1eEtvb0JzOHFzaU5TQWQ4azl3SU9Qa1JLczBTaTRQcEdTRXY3UWxCdjZQOFhoV05XcXFiRTRzeWNTeHZIdmhkWG4tTExPVWY?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/13 19:17",
-        "related": [
-          "ETH"
-        ]
+        "title": "俄最大銀行 Sberbank 列入加密交易商名冊，12 月起開放客戶交易",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ka3BaUFY0MlVYOGRqVHVGUGI2NS0yUVc0VHp0MFhFVFVrU1FVQVI5VWlFRGhjbk83emIxOGFSS2NLVUFGWF9uOGZOMC1DNDhYeWNYOEtfZ3Y3TnNZQXBJNWtRNTNPWTRsWnk0?oc=5",
+        "source": "鏈新聞 ABMedia",
+        "published_hkt": "10/13 23:47",
+        "related": []
       }
     ]
   }

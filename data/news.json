@@ -154,7 +154,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-13 15:00 HKT",
+      "updated_at": "2026-10-13 15:17 HKT",
       "news": [
         {
           "title": "台股一口氣重摔960點！電子股淪陷「台積電失守2500大關」 這些族群逆風撐盤 | 張大任 | 新聞",
@@ -173,10 +173,10 @@
           "related": []
         },
         {
-          "title": "TWA00 加權指數- 台股、美股都有買，卻不知道自己總共賺多少？ - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hV1o1YjhYQWNyY0JwY2pQb3BVTUNiVl91ZmlpWXFIZXJoVm1DTHRIbjJvYnIyQm1YOXQ0SFNrLWtVdkhJU3ZjemJ2eVVZSFhUQUZvV3Qta2I?oc=5",
+          "title": "TWA00 加權指數- 金融撐盤要角！2檔金控股刷史上新高類股指數衝高- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNUkhkbHBXNmJOS0oyOXVZUmdRUnpZMkVsd29oNUJ6cXdhcUt1ZmxLUm9aNnFMRk9HWWZITWVWZGZuS2tOZkhuQkRNS3lBamZnQ09CYnNmZFo?oc=5",
           "source": "CMoney",
-          "published_hkt": "10/13 14:09",
+          "published_hkt": "10/13 14:14",
           "related": [
             "^TWII"
           ]
@@ -214,11 +214,11 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-13 15:00 HKT",
+      "updated_at": "2026-10-13 15:17 HKT",
       "news": [
         {
           "title": "晶片股走低與油價上漲拖累　日經指數收跌",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XdGdSU1BRU1hiVU1FRVViYVhwYzg0cUhqNFpwRnlkbk5xamtKbHMxNUNjZkVOQ0hDU2FzNUFOcF9TWjNDMk1NeDIzWEpnOWtKRm9vWE5HOURUWDk1dlhNaWs2NkNrWFlVVlhQSXM0Wlo0WTV0MERQajBYd9IBX0FVX3lxTE9CSHBnRjFlM1ZBZ3dPTXNyTWN0dGNXYnIyUzhhV29ob0E4UGlBOFJxdUowcEtJUkNCQ09zRzZlWE03WmxSMUNwYnBsaG16QlFKNlJ6ZDRuSWs4RjA5RWNz?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16TUFjNGZLNzRaSXVqX3FIZUowbVpqcE9xckV3dWZfQl9ZRFlIZDBrcldXNk1xYkxZV2l5X0VmcXdnd25Ed1JsTkRoS1dFOGlQNzZfRnNZb0d0UdIBX0FVX3lxTE9CSHBnRjFlM1ZBZ3dPTXNyTWN0dGNXYnIyUzhhV29ob0E4UGlBOFJxdUowcEtJUkNCQ09zRzZlWE03WmxSMUNwYnBsaG16QlFKNlJ6ZDRuSWs4RjA5RWNz?oc=5",
           "source": "經濟日報",
           "published_hkt": "10/13 14:46",
           "related": [
@@ -243,7 +243,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-13 15:00 HKT",
+    "updated_at": "2026-10-13 15:17 HKT",
     "news": [
       {
         "title": "主要加密貨幣行情，比特幣升2.21%",

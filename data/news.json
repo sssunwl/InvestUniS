@@ -29,33 +29,28 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-13 11:39 HKT",
+      "updated_at": "2026-10-14 10:00 HKT",
       "news": [
         {
-          "title": "美股新冠後已連漲4年，牛市何時止？",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdGJvWHpGdTZ6enRJX2dKdTZsUUktRlBkdW9jU090bFdmbnFPQWRZNTlYdEl5ZDN1UlJuTXZqNV83SGE5bkU4aXpMbkloQlIybGdqaUN2V094SUNYRFExUTVWSlhTa2NWc25WbE1WUG5ON0I1cnB4VmRKNUFyUUdjSFhFUGVyZVY3T2k4?oc=5",
-          "source": "日經中文網",
-          "published_hkt": "10/13 10:26",
+          "title": "韓股暴跌引爆市場震盪！美國半導體股創去年「解放日」來最長跌勢",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZWGtRRGMtZExWNjhBbHBJNTlpb0ZGWUxwdDhuQk9mWVVvSmRNbkhUREJnUVd4VGZfbE1RLW1VeU1PLWN0VVRheEI2SXZ4TVE?oc=5",
+          "source": "鉅亨網",
+          "published_hkt": "10/14 09:40",
           "related": []
         },
         {
-          "title": "美光重挫拖累費半急殺、大盤退守 4.85 萬防線，市場等待台積電法說會指引",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQzlIc0dmUEZua3FWTWpBNjFKZ2tnYnVEaUpqV0NyTG43RWVGd3h5cVNQU1p5cUZyRlZzSV9GQnVsRnpZR051REVuVFlNRjBqN2dvTEZlQlpram05Y2FHZkNRYzZGcGh6VUdoZUgwZ1ZCZ3dqdUVuRGt4dHlnN0pBb1g3WUxlUU5tZE9CdGxiUGM3ZjZLNTFIM3hwYWhOdjQtblZzMzctVGhHNzZYZXdPbV9fQmJ0eEJqMU9CM2dLNnNmYVY1dVg2U2dna2lyUFVlVjFtTDdjMEszT0E?oc=5",
-          "source": "TechNews 科技新報",
-          "published_hkt": "10/13 10:10",
-          "related": [
-            "MU",
-            "TSM"
-          ]
+          "title": "TradingKey 每日市場簡報：美股微幅收低；Anthropic 於 IPO 前向投資人推介第三季業績，AI 硬體股走勢分化",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRFdpYjVpRFdtT1d3WTI3b1RLdTZ1MmM0Tnlnd1RmdDFJS2RRUUdpVjBIYnNJTFVDZ3JsMlV3dldEQkNhTmNXeHFmNW1oY0o1VGJON1NFNWoxYk5VR1VXUURMUjNNa1V2b0s4U3pkLURoX0RKanlveHpiR2g4U1pTdjQwdTZsclhYMEtfOVNfOGFnYl9JVGhZMm9DeER0MTVGQVY4X2hKd3Y?oc=5",
+          "source": "TradingKey",
+          "published_hkt": "10/14 09:08",
+          "related": []
         },
         {
-          "title": "費半重挫2.7%！沙國機場遇襲油價飆 台積電ADR連5天下跌",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BdE1DamNoLU9tUWFXS1Mtd2RVWFdqRkdsRlJMX2ZQRkxFQi1idTVaTThZS0xpVjBMLTdvQkxhS0lWQy1yYU1PblB3QS1SZUk?oc=5",
-          "source": "TVBS新聞網",
-          "published_hkt": "10/13 10:06",
-          "related": [
-            "TSM"
-          ]
+          "title": "凌晨，聯準會密集發聲，態度大變",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE00U3ZoSUg5R3pjZ2tFNElJTmxxQ0lvS25yTU82SThKX0U5VkJZQlhPc293QWtTc1UzMlQtWkxwUkZDSTVoSUMwcQ?oc=5",
+          "source": "鉅亨號",
+          "published_hkt": "10/14 08:18",
+          "related": []
         }
       ]
     }
@@ -249,30 +244,35 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-14 03:47 HKT",
+    "updated_at": "2026-10-14 10:00 HKT",
     "news": [
       {
-        "title": "AI泡沫吹不下去了？韓股狂跌38%，加密市場一夜擠爆8億槓桿",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SSHVVYTIxdWhHUVBnOEJPcGdUVTV3cVdfYlVKakFfQTFqSm9zdmM4YTRLYUhWalAyVnRpc1FCU2VLTzktTG1oZUxPcndmNTgtLXlSN255dDhkWnBaZjVhVDdCTXE?oc=5",
-        "source": "TradingView",
-        "published_hkt": "10/14 00:12",
-        "related": []
+        "title": "比特幣反彈8.3萬鎂、以太坊站回2500！全網爆倉2.16億鎂，貪婪指數回升至62點",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVzk4MHJfY2NzZHdSNmZnbU1CZjhQTG8xQXdWU2tDbEUtNTRHYnJJcTViMDNPTnc2dlMtMkd4aTJYZHNCMHo2aGVIdDdqZzYxNjdocHFHS0JjWHZPSjlGY1g4OVlVQndtT1lyRXA4UkwwTTBoX2VabmljLWpfVDdmMkgyZ1llM00?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "10/14 09:43",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
       },
       {
-        "title": "比特幣目標價84,000美元，Strive向財庫增持3,311枚BTC",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMXlXcHBnaWhUN1lDRGkwaDZvZldOYnZWSU1kYjFfWTJJTzVtZC1aVG9LR0ZYT3c5dElPU2h3TGdxX3ZyQ2pyYy1oX2U2UE13djlaZkd3TWNBaWs5RklqQmQ3VXIyRWlqc1I3RGdMUi10TkN2YTdxMHdLZnkyemtTQUVLQmI0YzZmZWx5dUlySjgwbGFMamExMWlzT3dfM0o1TzBnUkJqNmxJVjRLcjRub0pReUh2cmRuUTduLUN6WmxUWGpXaExDWmhTajMzSHB5YzFFZ0tR0gHWAUFVX3lxTE0xeVdwcGdpaFQ3WUNEaTBoNm9mV05idlZJTWRiMV9ZMklPNW1kLVpUb0tHRlhPdzl0SU9TaHdMZ3FfdnJDanJjLWhfZTZQTXd2OVpmR3dNY0FpazlGSWpCZDdVcjJFaWpzUjdEZ0xSLXROQ3ZhN3Ewd0tmeTJ6a1NBRUtCYjRjNmZlbHl1SXJKODBsYUxqYTExaXNPd18zSjVPMGdSQmo2bElWNEtyNG5vSlF5SHZyZG5RN24tQ3pabFRYaldoTENaaFNqMzNIcHljMUVnS1E?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/14 00:07",
+        "title": "主要加密貨幣行情，比特幣升0.31% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGJJQ2RVUTlfNjF6X1EzR2ZwVGV4eC1oaDF6ZWxJZk41NkFGYVM4U2dYVUdaV29jWjZTOENPUWNRNFdDUVpGUVRGMWdsVzlBdG9jbF9TMjY0bVhzRnBDVTlRWDdlLWdESGpqRkhyUkZjaF9YWUdjWUlvZE1wM0w3QUVfY0ZvYVcyTmU5Qk00MzlJLW1Dc1FGWnVzUUpiY0I1?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "10/14 09:01",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "Bitmine Immersion Technologies（BMNR）宣佈 ETH 持倉增至 603 萬枚，加密貨幣、現金及有價證券持倉總值達 162 億美元",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xYTF5dVBFaXdMZ2RramRxXy1tWlhoQUwzZTRuUk1ORzBQSll5UUJLMlQybkRncWNLWnlRaVRKX2FBVHJzODBOOWhZalhnX3ZaYTRibU1mZXEwVElwMGl3OEZR0gFiQVVfeXFMTTFhMXl1UEVpd0xnZGtqZHFfLW1aWGhBTDNlNG5STU5HMFBKWXlRQksyVDJuRGdxY0taeVFpVEpfYUFUcnM4ME45aFlqWGdfdlphNGJtTWZlcTBUSXAwaXc4RlE?oc=5",
-        "source": "經濟日報",
-        "published_hkt": "10/14 00:02",
-        "related": []
+        "title": "代幣化股票交易逾七成發生美盤外 Solana、幣安鏈成新熱點",
+        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPU0lRa0pzZjliUXIycmhJTi1hOHRjUHRBVFQxcTZHNUloM2JpSWlEcGJHZE0xcnJwaGxYbGduTWZ4dFpEcFVIcmxFX053dVVUZzlnR2duVFc3Rm5GaXpBOUlEb2FBUWY2V0VmSEZqN1hMSmtwZnFtb2FyVFRlckZOUmc3Q0dNS1YtSkh5YnREUlRwM01zSVo2d3g4VTdsQk5aMExTY2tIbXV3MXNOaDg0Y2VBN2dmTTdTUGxUM0NZc3VsNnc0b0I0czJiRm4wX2hKdWgtZHVSVmxHLWhEUUxUck5Ec3FIZ1hRaV85TWs4VS1Uc2pIUVM0WGpVNkNGTlRhTUt5X3BKSUc5Y0o4SXpEdm5oTjZ5V0F3VzFjN05DZFREeE52X0FPVmFkaFJweS1pT2xvNEw2VExwNDRxRFVXM3l2RUdfSlZZek52bm5EUGhncnlUeGE0V3lKTGhDVGhBZEhGVEhKbE9WdnNvY2huaWozdi0yTFU?oc=5",
+        "source": "商傳媒",
+        "published_hkt": "10/14 07:35",
+        "related": [
+          "BNB"
+        ]
       }
     ]
   }

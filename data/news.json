@@ -244,8 +244,15 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-14 13:15 HKT",
+    "updated_at": "2026-10-14 13:43 HKT",
     "news": [
+      {
+        "title": "Ledger 要求東南亞六國、香港經銷通路全面下架！間諜晶片疑不只CryptoBilis，損失估1.02 億美元",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qYWhIQjVVQ0otTkROUWJSTW5TVkRWZWNmV3lEMGpydkhOczc5VUk5RXh2dU9TQ2hOYnJKOWZxR1k2Q1hyUkpqRWN1Ny1FR28?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "10/14 13:30",
+        "related": []
+      },
       {
         "title": "比特幣以太坊關鍵位劇烈洗盤❗️CPI重磅公布在即❗️破局關鍵預警❗️不過繼續空❗️2026.10.14加密货币行情分析，#btc#eth#比特币#加密货币#数字货币#hype#以太坊#不过暴跌",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ycl96RWhVSTVjQXZBRHdNNXh3SU1LY0Z1allLUWdycEhLVkdXVndtcVp3MTZ2WF9Nb0pKRW1oZFlwX0oxenNOWGdvUGpnYXpVN0JWNkVmYTVXbzNC?oc=5",
@@ -262,16 +269,6 @@
         "source": "蕃新聞",
         "published_hkt": "10/14 10:33",
         "related": [
-          "ETH"
-        ]
-      },
-      {
-        "title": "比特幣反彈8.3萬鎂、以太坊站回2500！全網爆倉2.16億鎂，貪婪指數回升至62點",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVzk4MHJfY2NzZHdSNmZnbU1CZjhQTG8xQXdWU2tDbEUtNTRHYnJJcTViMDNPTnc2dlMtMkd4aTJYZHNCMHo2aGVIdDdqZzYxNjdocHFHS0JjWHZPSjlGY1g4OVlVQndtT1lyRXA4UkwwTTBoX2VabmljLWpfVDdmMkgyZ1llM00?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "10/14 09:43",
-        "related": [
-          "BTC",
           "ETH"
         ]
       }

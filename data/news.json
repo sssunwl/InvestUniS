@@ -91,7 +91,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-14 20:31 HKT",
+      "updated_at": "2026-10-14 21:53 HKT",
       "news": [
         {
           "title": "有圖有勢｜HSI阿里美團急彈 外賣補貼戰降溫成催化劑？ （持續更新）|香港經濟日報",
@@ -149,29 +149,33 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-14 20:31 HKT",
+      "updated_at": "2026-10-14 21:53 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數- 台股殺尾盤！這一檔卻漲停鎖死！ - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jMFN5OC1MOExzOXlvRjRwQUF4c3NIb0FlamlaNF8zQ2ptTTkyOTRpdlltcVFWNjhQUmRaQ2gwSGlKNTNad1RPTnNJczF2Z3Vtclg1RzZJX0U?oc=5",
+          "title": "TWA00 加權指數- 🎯台股反彈284點！外資續賣200億，台積電法說成關鍵🔎 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wcTZnbU5rcDIyTDNIb3RaYjhGQ1BUUFRGZEtJUWdfV0JHQTdkMHcxV0UtelMtc0xNekdhNkNuT1FCVFRyei1Zb0otcHZYcGo2eXdCVXQ5VEY?oc=5",
           "source": "CMoney",
-          "published_hkt": "10/14 19:29",
+          "published_hkt": "10/14 21:17",
           "related": [
+            "TSM",
             "^TWII"
           ]
         },
         {
-          "title": "外資砍、官股買，誰在騙散戶？江國中揭背後真相：快卡位3大AI潛力族群",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qckNvVGt2b183ZHRUaXQ3M0NVT1NEZVVlMVpDSUtGSk5uSjFIMm0wVEthdjBlc2o2ajl4YUZIMGhUNFFmNkVaMldYQQ?oc=5",
-          "source": "三立新聞",
-          "published_hkt": "10/14 19:28",
-          "related": []
+          "title": "TWA00 加權指數- 台積電法說前夕外資賣超，記憶體遇紅鏈遭倒貨- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pQUxGcHZUZkNOZHItQjJRRnBsV3dkY3Q0dkFXVk5STndKMWlaM0dDRHJEamFMVmFfbDFqRGF4LVgwR1pQNmVTV3F2cWJSd0VpanhwSHpySzA?oc=5",
+          "source": "CMoney",
+          "published_hkt": "10/14 21:04",
+          "related": [
+            "TSM",
+            "^TWII"
+          ]
         },
         {
-          "title": "TWA00 加權指數- 今日最夯ETF／成分股聯茂、華新科、旭隼助攻00733大漲2.65% - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwcU9Cbk04SENWY1Q0My1DeVdQZjZOYmw4Ym1SSmtyMllsNUNHQUU0aE1kM29qcnRiWlROVEdFcHdWcHFKZ185dktadTlrVE40bjZQdExiRDM?oc=5",
+          "title": "TWA00 加權指數- CPI高於預期!!外資撿到槍了- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BVHAyZi1oaGdkVVFZUVBPZUJuYjN5M0RxRVd4NXJ2SU51b1p0cFY3TFE3aUF0TjFrYW1CSGdNVE9ZNHhWcXc5M2FTUk1xS3lsOUU2WXIxU1k?oc=5",
           "source": "CMoney",
-          "published_hkt": "10/14 19:24",
+          "published_hkt": "10/14 20:41",
           "related": [
             "^TWII"
           ]
@@ -209,7 +213,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-14 20:31 HKT",
+      "updated_at": "2026-10-14 21:53 HKT",
       "news": [
         {
           "title": "《日股》半導體震盪承壓 日經收跌0.05%",
@@ -240,7 +244,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-14 20:31 HKT",
+    "updated_at": "2026-10-14 21:53 HKT",
     "news": [
       {
         "title": "加密貨幣需要新規則而非又一個賭場",
@@ -250,23 +254,20 @@
         "related": []
       },
       {
-        "title": "渣打在阿聯酋開放財富客戶買賣比特幣、以太坊，幣不能轉出銀行",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR2d1bklod1FzcDNkSkMzN1Q5Nk5ZUHZPUmhnMVVybEdwa1JNUlF2UnNXZ1RwNXQ4aWJGUVg5X1JwNkZrMW5Vb25XM0pWS25GV3Y3WHZMX0FWNVVLVzExWk1YUWhxcFl4U2ZXWkRJeE52MjJ0b1dmNjlHY3dSVGtBSXNSVHZhS3FnNkxDVTR4T291al9NY1ZUYTJIQkpSVkVEZ0E?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "10/14 16:28",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
-      },
-      {
-        "title": "主要加密貨幣行情，比特幣升0.37%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNVZjR1NhY2JnN1JLeVJYT0hncUx5WHJHdXdHaDZiTjc4Uk05Q1poRG01UG9Eb2N3WExBbHBSVW1ldHM2Vl9CWUdDMGxGdnQ0YVlMQms5OUczVnhZanNJR0dSb2YzNTR1TjRGUnJMV2tIZ3NxcEZTaXJaOFMzaHFYRnlyQk5uRmZGMS1fdUNUQm8tbmRUbFZXZkxXcEQ5MEdo?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "10/14 16:15",
+        "title": "比特幣價格預測：為何9月美國通脹數據可能影響BTC的短期前景",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNa2I0Vm1hSDdhSE55NFYwTnJicGx0QV9DZGdkMUUzUjdjNnRRVEpoMUh1d1BjNzRJaERTalU3WkNKZTEwMEM1NU9jSDNVV3FQQjJIUDROejBpanlEUGl3NUJTcnd1V1dHekM2WHVfaVRkWkVxNEt2N25xdzJhTUQ3N1FmLWR2NUhCX2x0a1lNVDNTVU5kQ1lobGt4YnJZVU5pcTFmOEpnaDRaY1BZWU1PRmJTMGl0dVE5VmNGNkhkaXhqOUJReldUUElZdHhsTHNmcHRHUVFKTGJjaTl6WDZMRVFPU1ROQ01YajJhX1FweFM4T1VXbmJqZmZIeEdjX2_SAf8BQVVfeXFMTWtiNFZtYUg3YUhOeTRWME5yYnBsdEFfQ2RnZDFFM1I3YzZ0UVRKaDFIdXdQYzc0SWhEU2pVN1pDSmUxMDBDNTVPY0gzVVdxUEIySFA0TnowaWp5RFBpdzVCU3J3dVdXR3pDNlh1X2lUZFpFcTRLdjducXcyYU1ENzdRZi1kdjVIQl9sdGtZTVQzU1VOZENZaGxreGJyWVVOaXExZjhKZ2g0WmNQWVlNT0ZiUzBpdHVROVZjRjZIZGl4ajlCUXpXVFBJWXR4bExzZnB0R1FRSkxiY2k5elg2TEVRT1NUTkNNWGoyYV9RcHhTOE9VV25iamZmSHhHY19v?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "10/14 19:08",
         "related": [
           "BTC"
         ]
+      },
+      {
+        "title": "為什麼XRP的反彈正在失去動能？",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNckgyRFVxcWhYT0JaZ0dqSEozMEN3RGNnR3pYMC1iSVpjVUpkRmM3TDV6aHNMTG9iTGQ4TVpUeXB2SjV5T3BLNmlNMllrajRiTkUyOTc2RU5MajR4VU0yTDZMS0tSUXZRM0tfb3NubUV6UXIzR093NUg5UmdpeE85cDlqTlZHOFg4WUpJTEx6a2YzYUt3RjhGemx6akxCMDU2cWJmeWR5aHQ3Zk55bWFncTdFbEFDV1RBcjBoR0MwTEN4UEgzUnRfUURLUS1GbVRwbWNOTldXUjhKNDBWWnMybmYwcmM3cXRTNDZ2THNtWdIB7wFBVV95cUxNckgyRFVxcWhYT0JaZ0dqSEozMEN3RGNnR3pYMC1iSVpjVUpkRmM3TDV6aHNMTG9iTGQ4TVpUeXB2SjV5T3BLNmlNMllrajRiTkUyOTc2RU5MajR4VU0yTDZMS0tSUXZRM0tfb3NubUV6UXIzR093NUg5UmdpeE85cDlqTlZHOFg4WUpJTEx6a2YzYUt3RjhGemx6akxCMDU2cWJmeWR5aHQ3Zk55bWFncTdFbEFDV1RBcjBoR0MwTEN4UEgzUnRfUURLUS1GbVRwbWNOTldXUjhKNDBWWnMybmYwcmM3cXRTNDZ2THNtWQ?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "10/14 19:01",
+        "related": []
       }
     ]
   }

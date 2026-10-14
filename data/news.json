@@ -91,8 +91,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-14 19:32 HKT",
+      "updated_at": "2026-10-14 20:31 HKT",
       "news": [
+        {
+          "title": "有圖有勢｜HSI阿里美團急彈 外賣補貼戰降溫成催化劑？ （持續更新）|香港經濟日報",
+          "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxORFk2RE9Kd0NDcUl2TDZMRUx0Q0tKajl2bjBLaTlDOWlaWE83WEFaamt4X2o1bkotRjZfRjhpdkxjMktxMXhrcnJhZzQ0d3hWOHU0cmlyYVduTmVnTjFYMVFNZ1AycC1DOE0yWjhvMzNrZ1ROUnJxVS02anJvVExYZk8zTjRIVmRGUmpqd1FpczN1RF9KUjBPN3JHV040OFdNQmZ0bDkzN2lpVUFwUjB2TlhQMVRHSWJvZDZCdldtTTZmSy1aS0pPTVA5WGV6bnZqaVhoQnQwQVF1LUtDaUd3N3FlZmozenZfVW9GYjd6cXlZUTlJaFhNM0d0cnVmZG9YeWZ5Y3RfUHR6ZkJBXzNCQ0lJNmNZNUpORzJmaEVIWmFRb1ZXUXk2UDdHREhNVlJfenB1dUNfcEhjRFZ0Vk5EZHVaT25hdGFDUmhqcDZBeHVjM0F1NE5iZ3o2bnk5N2ZxakpacXN0cDZMRGxoVlB2V01iWEhTR0ZaNE1aT3RmSmY3OExrdm5hSTZZZnFoSTJVTThqbGUtRDJSZGFqOGZFYVNrdVgxbExEczZMZTQzdFZwSl9hTFhSbGVn?oc=5",
+          "source": "香港經濟日報HKET",
+          "published_hkt": "10/14 18:00",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "【港股市況】港股黑期跌30點藍田站月台設備冒煙、觀塘線列車不停藍田站",
           "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxOLWQ1SFdJd25QbTdwdi1MV21hSno4U0EzNjQ1a3pidzdXQ3ZMWlJSMERsdWhtd1JsVDg0MWt1b3hNbTRMNWlrVUV3QThzckQxQllCUllzWEd1WGMxSTl4ZUhSRlVqc2xMSnZlTjgzUmtkdmYzVGNCWWMyNjA2SkZYU3p4Y0V4QjZTVXRVdmxrZzhvdkpuaHZLODk0dmMtM21aZ0N3WUQxdU8yREJsc2V0NlNSTWtLeUdLdld0eVlKcFRuTE1qMWNCWjRYeURYTmE4SjV0TUxuV0Ixa3c4UnNXYW9xRG5GNkhHN2JKRWdkUUdrVkFBS0w3Q2RXenlaUGtYU2d6dUJTa0x4NnRmakJ2NUhjUm9kTHp1dWNqSWlSZ19MRjYyTV9UcmZMaXpZbEFodmQ4ZjFiZ0JOV2thbFZZc0FkYUtGTk4tY0Qybk1NLUhmS1VwWF84TEYteGlzS0FrOEkxdHJWalBKY2VHZWVTYm80RWhkMzQyc1dzTkxjdEJLdndDRmNPVmFHd0hLbkVVMVRmd0ZYLWViV2tjazd4MERqd3FIVzhHUlcyNzhIeUlnN2sxOEt2VmMwU2hTR0gxVDlqdkx3Q1VfU2l1aXd5ZjdBNldkUEZ3R2pRY2ZwUQ?oc=5",
@@ -106,15 +115,6 @@
           "source": "香港經濟日報HKET",
           "published_hkt": "10/14 17:31",
           "related": []
-        },
-        {
-          "title": "【港股收市】恒指跌31點 3連升斷纜 美團飆6% AI股續捱打",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54Z3hhbTFOa3FPRExwNU5nQjRNVlp0MHhmUXVUcmE1a0JSb3Z5amt6a2FuVHhjRzRsOVJqcjNiR21vZm1CX28xR3l3SjJleC1Zc1AyUnQ2MHhrWXRJYTJyemFDcVM?oc=5",
-          "source": "Now 新聞",
-          "published_hkt": "10/14 17:27",
-          "related": [
-            "^HSI"
-          ]
         }
       ]
     }
@@ -149,13 +149,22 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-14 19:32 HKT",
+      "updated_at": "2026-10-14 20:31 HKT",
       "news": [
+        {
+          "title": "TWA00 加權指數- 台股殺尾盤！這一檔卻漲停鎖死！ - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jMFN5OC1MOExzOXlvRjRwQUF4c3NIb0FlamlaNF8zQ2ptTTkyOTRpdlltcVFWNjhQUmRaQ2gwSGlKNTNad1RPTnNJczF2Z3Vtclg1RzZJX0U?oc=5",
+          "source": "CMoney",
+          "published_hkt": "10/14 19:29",
+          "related": [
+            "^TWII"
+          ]
+        },
         {
           "title": "外資砍、官股買，誰在騙散戶？江國中揭背後真相：快卡位3大AI潛力族群",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qckNvVGt2b183ZHRUaXQ3M0NVT1NEZVVlMVpDSUtGSk5uSjFIMm0wVEthdjBlc2o2ajl4YUZIMGhUNFFmNkVaMldYQQ?oc=5",
           "source": "三立新聞",
-          "published_hkt": "10/14 19:27",
+          "published_hkt": "10/14 19:28",
           "related": []
         },
         {
@@ -163,15 +172,6 @@
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwcU9Cbk04SENWY1Q0My1DeVdQZjZOYmw4Ym1SSmtyMllsNUNHQUU0aE1kM29qcnRiWlROVEdFcHdWcHFKZ185dktadTlrVE40bjZQdExiRDM?oc=5",
           "source": "CMoney",
           "published_hkt": "10/14 19:24",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數- 🍔今日熱門：台塑、南亞、台化策略覆盤+台指期盤前規劃🍀 - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fb0hXT2ZRWHFKS2tyVGFJMFA2TjFWUGRiTTMyMjVVY0F3LVh3MHNaQUN6aWpsLVp0blZzNnByMkYyRW1VS1lQdjdOTzZkdkFfVzh1LWlwcDk?oc=5",
-          "source": "CMoney",
-          "published_hkt": "10/14 18:44",
           "related": [
             "^TWII"
           ]
@@ -209,7 +209,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-14 19:32 HKT",
+      "updated_at": "2026-10-14 20:31 HKT",
       "news": [
         {
           "title": "《日股》半導體震盪承壓 日經收跌0.05%",
@@ -240,8 +240,15 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-14 19:32 HKT",
+    "updated_at": "2026-10-14 20:31 HKT",
     "news": [
+      {
+        "title": "加密貨幣需要新規則而非又一個賭場",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45aElmYUowUlFzYk04aXhGS3J6THllSnpFOHcyYkhvS0RTOVpUTHV2QWZPUnE5T19mTHRLenJXRzE1OEswbkE1VHNyQ1JCd2M?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "10/14 20:00",
+        "related": []
+      },
       {
         "title": "渣打在阿聯酋開放財富客戶買賣比特幣、以太坊，幣不能轉出銀行",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR2d1bklod1FzcDNkSkMzN1Q5Nk5ZUHZPUmhnMVVybEdwa1JNUlF2UnNXZ1RwNXQ4aWJGUVg5X1JwNkZrMW5Vb25XM0pWS25GV3Y3WHZMX0FWNVVLVzExWk1YUWhxcFl4U2ZXWkRJeE52MjJ0b1dmNjlHY3dSVGtBSXNSVHZhS3FnNkxDVTR4T291al9NY1ZUYTJIQkpSVkVEZ0E?oc=5",
@@ -260,13 +267,6 @@
         "related": [
           "BTC"
         ]
-      },
-      {
-        "title": "盈透證券攜手 Zerohash 開放以太幣質押 投資人實際可這樣操作",
-        "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPMDVRY2U0TUpQUkJlQmI5alNhS296UHZHZDRBMndldlhfSllQY3ZVZmV3bmJoTC05UTVBX0V6dEdnTmxfZDhKbVdIcTVwVjdrLXA1LW8zalh3ZkNWZXRaeVV5NU1sMXAxMXVBaUhNa2Flc1M0cEszUHFYYkZuSnkwMjlBTV9RUnFwcmo3emQxRnVZQjRaX25Fdkx4S2F6ZndtM2tXQ2lVWDJLa1BLTjN4clZ1eldidjhKczYxWG9fSHg0d0Q0UHVMa3IyX1E0WjFwdGxndmFVMXpaMHAwRERoU3FlVDhFSjhHRkxINXRxc0lNTXlqYWVtbkxoVWFsNVExb3d4TDNSSnNrZlpJR1BwTVIxdWVuVWF4alJTdGtOVEE0NEMtVTNVZktmT1NKWWxXdERTdU90ZjVBUWhFZ1VDSy1iUDYzMlpOLVFNWVpxSmVtaTBmaVdvbGVvazBOV29iZktFSDFNQQ?oc=5",
-        "source": "Yellow.com",
-        "published_hkt": "10/14 16:07",
-        "related": []
       }
     ]
   }

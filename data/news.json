@@ -29,27 +29,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-14 10:00 HKT",
+      "updated_at": "2026-10-15 09:34 HKT",
       "news": [
         {
-          "title": "韓股暴跌引爆市場震盪！美國半導體股創去年「解放日」來最長跌勢",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZWGtRRGMtZExWNjhBbHBJNTlpb0ZGWUxwdDhuQk9mWVVvSmRNbkhUREJnUVd4VGZfbE1RLW1VeU1PLWN0VVRheEI2SXZ4TVE?oc=5",
+          "title": "【即時新聞】通膨降溫受挫，摩根士丹利(MS)與艾司摩爾(ASML)財報報喜卻跳水！美股還能追嗎",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQzhTdW9KNldaVEtZM0Fqd2FkTFYtRTFacXg1bEVBeTVqcW5BcTJ2YmF0dEZMdEJuZWdXa3o2YU9YcTZZN0NoVlcxSGVMZ1E2NFlhR2VOLXYtZkhrMlJyTmRXVkJlU1VPc3otbHl0dlliYU9mX1JwSmI2dHJQU1dkeTR3NjJOdXQ0QjlnT1ZqTFo?oc=5",
+          "source": "CMoney投資網誌",
+          "published_hkt": "10/15 08:21",
+          "related": []
+        },
+        {
+          "title": "美公債殖利率攀高 費半等四大指數收黑 台積電ADR下跌3.4％ | 信傳媒",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FMFljMkxYMUVGcXgwTnVQZ3l6REZhU0EzWUJqblJtcDM3YTVsMC11OG90dEVUQlRJemlZNXhJbWZUTFBBZkZhb3A1ZlBGQTlXcWZxdWtR?oc=5",
+          "source": "LINE TODAY",
+          "published_hkt": "10/15 08:10",
+          "related": [
+            "TSM"
+          ]
+        },
+        {
+          "title": "美股重點新聞摘要2026年10月15日",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jT1JEM19xQkFxbWxkdlRqTGRHb1ZxSzlUQTJpb3VUYm9OSl83TTQ0S3Rxbm1CUjcyVExOZENyT3ZBbEtneHJrVTBQTQ?oc=5",
           "source": "鉅亨網",
-          "published_hkt": "10/14 09:40",
-          "related": []
-        },
-        {
-          "title": "TradingKey 每日市場簡報：美股微幅收低；Anthropic 於 IPO 前向投資人推介第三季業績，AI 硬體股走勢分化",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRFdpYjVpRFdtT1d3WTI3b1RLdTZ1MmM0Tnlnd1RmdDFJS2RRUUdpVjBIYnNJTFVDZ3JsMlV3dldEQkNhTmNXeHFmNW1oY0o1VGJON1NFNWoxYk5VR1VXUURMUjNNa1V2b0s4U3pkLURoX0RKanlveHpiR2g4U1pTdjQwdTZsclhYMEtfOVNfOGFnYl9JVGhZMm9DeER0MTVGQVY4X2hKd3Y?oc=5",
-          "source": "TradingKey",
-          "published_hkt": "10/14 09:08",
-          "related": []
-        },
-        {
-          "title": "凌晨，聯準會密集發聲，態度大變",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE00U3ZoSUg5R3pjZ2tFNElJTmxxQ0lvS25yTU82SThKX0U5VkJZQlhPc293QWtTc1UzMlQtWkxwUkZDSTVoSUMwcQ?oc=5",
-          "source": "鉅亨號",
-          "published_hkt": "10/14 08:18",
+          "published_hkt": "10/15 08:10",
           "related": []
         }
       ]
@@ -244,29 +246,29 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-15 01:51 HKT",
+    "updated_at": "2026-10-15 09:34 HKT",
     "news": [
       {
-        "title": "加密多空策略：爲何黃金和比特幣應納入同一投資組合",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcVd6NFY4YWV6YTlkUUxBOTl0c00xRXVHT1JwR0R2N21FcGEtLUdZNVV6RWVNQzE0ZFlQdDJTRFVhODhoZ2d1SVNEZ2huUkk1bHlUOGVHUXloczJWNERiQTM5QjRoZmkzNmtKNVY1My1NTW9WMWJVOHdFbWVHbUZzaElKQnFlSG9nVU5VUFNWUmxaeWxQOHd5UU1jUQ?oc=5",
-        "source": "富途牛牛",
-        "published_hkt": "10/14 23:23",
+        "title": "幣圈院士：10.15比特幣（BTC）從八萬七到八萬二 市場沒跌多少 卻把大多數人的心態跌崩了",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CcERDWVlJOXdFQUNNbkxNTDZoZFZjcTUtTnNwSWxvNHBHNGJnZWJsQ0VjanNWaWJ3Y19ucmpPRTRVN2JDVVVkUlowa3RDWWs?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "10/15 09:00",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "更高的通脹會引發BTC和黃金轉向看跌嗎？",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdGdIRzRjX3gwU2Q1enVYNkk4OVVWWEZ4ckx4dVFYaWtHSm5rem9VRGY5b0dlRVVpbDFTOUpEYkdBTFlwZ2hacERoUkpKQVVqN2EtY2hCSEJsa1BTWE0zanVZRE51NjFXeFpFOGJ2R0NNdFZnWE4tZVZIdjQ0ZTAwdUVjZFoxbWRKTUlucERHdVlsX20ybGFMcHZiQ0w1TXU2NkZNVXBobEQwVlJ6Z0doc1NvZGxGb1BjRVBpSC1BRG95TG1faDlGRtIByAFBVV95cUxQdGdIRzRjX3gwU2Q1enVYNkk4OVVWWEZ4ckx4dVFYaWtHSm5rem9VRGY5b0dlRVVpbDFTOUpEYkdBTFlwZ2hacERoUkpKQVVqN2EtY2hCSEJsa1BTWE0zanVZRE51NjFXeFpFOGJ2R0NNdFZnWE4tZVZIdjQ0ZTAwdUVjZFoxbWRKTUlucERHdVlsX20ybGFMcHZiQ0w1TXU2NkZNVXBobEQwVlJ6Z0doc1NvZGxGb1BjRVBpSC1BRG95TG1faDlGRg?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/14 23:00",
+        "title": "美國紐約聯邦與聯邦調查局聯手 破獲千萬美元加密詐騙集團",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qc2owN1BkSTA0RW1sdjNlSDZJZkR1RklBTzlFemJsdDVYbnJuQTRqdjJJYzhWczdydzcyVWdZVWNCVzVpUWd0cWJZVDdZQnlwbGc?oc=5",
+        "source": "蕃新聞",
+        "published_hkt": "10/15 08:58",
         "related": []
       },
       {
-        "title": "渣打銀行在阿聯酋推出加密貨幣買賣服務- 數字經濟",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wNE91Z0JWMmkycUgzWkhLeUN0RDAzc0x3TkFSbktWZHpEY21Zb3BRbTl2c1dfc19zczQ2OXNyYUotcjVqbENXQ3JRN3Q5RGItTWczV3ZyNHpwNzA3ZmJoZkhRcnhzWmcycG5aUjQ5Y2VFUzhOVUN3?oc=5",
-        "source": "香港文匯報",
-        "published_hkt": "10/14 22:47",
+        "title": "Real Vision 創辦人：為何大多數公鏈難逃消亡？",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYWFfMFVfMTh6MElSWFFyWkJ3NjRVbUlzRmxuSFA5RzhLNjU5TmtlSTdDN3NNSXlOX0ZrSllJV2pVRlJ1WkJSblZqX1RUMlpOR0t4U0MtV0lmRkFzT2pJYUVNS2M1ZWVMekVPaWtaa2p3TXhxWXpwWGxjc3VwOUFFX3YtaExkdw?oc=5",
+        "source": "PANews",
+        "published_hkt": "10/15 08:41",
         "related": []
       }
     ]

@@ -93,8 +93,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-15 20:13 HKT",
+      "updated_at": "2026-10-15 21:34 HKT",
       "news": [
+        {
+          "title": "港股收評：恒指跌1.03% 科指跌2.72% 科網股、存儲概念股大跌 聯想跌超14%",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QOWdhRWhjdlFIamhXM21oajJFU3hlQ0lBbUkxNU1IWVJ0V0t1ZXhMd2x1d2FJRFhFNTlUQnZTR0RESjYzUjB5Mi15TEtEczZrZG4xTnVqOHpHakgzRXFORWdkMDJpbVNIajVHdUtIcHNycU02?oc=5",
+          "source": "風火輪傳媒有限公司",
+          "published_hkt": "10/15 20:53",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "港股後市料維持弱勢震盪：恒生指數兩萬四關口爭奪戰將更趨白熱化｜張智威專欄",
           "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNWDE5YnZDbXJMWldOQlVwUlV0VkZRamhmV1g0WXhVWllvbk9FeW41WEtBWi0xaE1vN2VVRXJDelp3N3B4RmM4M2FobHZHQ0FkaXl6U0JRVW1neGJ5ZEZjeVB5ZDF3YTZBQnRBR0taeFpWQmZCaHBnWXo3RmljcVgxTDdoR1paSUtVS0NGTGdKczRyV29ZMTV2ajJabUhVU3NhN0FfUTB0U2pwNmNvQkFTRFIzZkRtdExkMjFsVUYyZ21hdENyUUFDcVdqTmczUXExTTE1a1VKc0I2ejdQRDFpanE5NlJKQ2x0VHFrb1R6Y19lSlV4OGt5U0J0b2NaMmVNTkdmbG85b1JXa0Z3V2dGU1F4MVBWa3prOVZpSnV4RXB1RG50WDBlcHF0d0JRdUFMd1hjUXU4Szc5alR1VWNtcl9kNkUyYS1QQkVxSGF6U29SN3M?oc=5",
@@ -105,17 +114,10 @@
           ]
         },
         {
-          "title": "港股二萬四掙扎 A股嚴重超賣|香港經濟日報",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMXBaMXVOTTJ2ZHhqakdmbm02bjRZUkh0MjYyMi1BSW9aeWE4ZXY3OXVSTWpodERsU2h4Tl9mZmF0RzI3MUlKcWNBT1NSc2dRR0NaYXh3c0pCOE9OR2M5ZUtvd0ljUW9OWXExaUpicTl4TGd4eTZoQS1iTEJ1V3U1Q0s2aWNqSkhpY0FPODVZdjJqMDF3MEJLR1pld1RscTk1QkI2bGdqMGFfVkdBb1dhUlFJV1VIaWRRUi1IbjhFa2ZXQkVkamg5d2pXY2xJcGFtUEp0dzFvM2k3OGZud1FXUzd3MUw2VU0?oc=5",
+          "title": "【港股收市】恒指跌251點二萬四又失而復得聯想重挫14% XL二南方海力士跌逾24%、XL二南三星跌兩成（不斷更新）",
+          "url": "https://news.google.com/rss/articles/CBMiigVBVV95cUxNeDZyRFZFczd6TXJCZ3dwbTk1QjN6WGw1WGhlQm02Z010NnAyT2gyU1h4MEpNb0N0OHNVZ2toX2JpSFYwakFwS1ZkSl9VU1lncHJsNnZqNkloSHhvVnlCTnZpa0VOb0tGbnB1UDg1ajdZOWg1MnZaOEdzYXBhVkE3OUtYSGJBb2docEFmM095Nnp1TjkyRjE5LVpwNEc4VVM0LWJpbXF5RVlHc3liQ0owUWRCOG9aNzRabTVUMGJTQjJFMURUUVRudjY5MGFib0E4MjZyUDBPdmpOcXdObFlPSjM3WldjdFZZbnhONDM5LV9kWElESk90SEU2cUt6VUI2MzdwTUd0a29YX3NRRnpmWEw5WmE4M2lyTGxmeEtvM3FMNjNvX2QyM0Y1MUJUUE5KVmpMUlRTYnNqQnhIa0VpVS1WdWJyZGpzUXk1N1VlQUMtTU42RUlLUHN6QVItbkJ3LXYzdUxxMW9pM296Qk5CNjVIaXJjeGp0R2REM01xWXd4TzlkM1NOV1QwRUpvaDZoWGtCU0oxQjRRZ1VMSTBfZ0tqTjlkREV0ZHl1dW9mbFJ0MnE4MGlTSE5MbENSVHZvQ243R2ZkdktBUzZRLXg2eWs3ZzVYUDF4XzRBWUxoUXlKSDN2Z2g4LXBkdG0tazBOcVVYYnhMRGFFYURoSHM3V185NnB0UjYwWXVfMFN6ZXduQTB1NVM0M09TYXE0dVdwYU9YVEVHY2ZMOW5PSGI4MzYwR1EzZl9LYVdaVWFTN1R3YjJ0Vi1OTDRRMU5MS0xEUm5iaFN2ajFHQXdvcVAyUWt6d1lIcnVaTTBTcllEYWhDQUgwZXNMY0pVdUJtUUo3R0Q5STl3UHBMdw?oc=5",
           "source": "香港經濟日報HKET",
-          "published_hkt": "10/15 17:43",
-          "related": []
-        },
-        {
-          "title": "【港股收市】恒指跌251點 曾失24000關 DeepSeek大死機拖冧AI股",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96bld6V1VRVkNzZ1BtNDlGQ0lTMjNvRTRSS1VOcS1QQ3FrUWU0aVZaRkVhbWZ1RjZHaWxXWUFZTnZfQVQ0Y1d3b0d3Mk95cXdHR1NfWm9BQWVEQndYTnBYOG5TLUY?oc=5",
-          "source": "Now 新聞",
-          "published_hkt": "10/15 17:12",
+          "published_hkt": "10/15 19:05",
           "related": [
             "^HSI"
           ]
@@ -153,31 +155,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-15 20:13 HKT",
+      "updated_at": "2026-10-15 21:34 HKT",
       "news": [
         {
-          "title": "台股最新籌碼動向！外資狂賣3025億創紀錄轉進金融，台積電遭調節-財經焦點情報站",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQanFncXhsS1NmbFk2TEV3RG5mZ3lrZERWQjRudjlrMTJMZ2ZreGVneVZkVG9hSVhNWnIxZkdmeGJyNE9DZ1k0UmdOdGo1a3h2U2d1S2lkd1pqRUZZckd0YVBHV0pJRUxOMWZUWnZ0NEFhWlhjMXhQRjFqNlp1bi1vWWlB?oc=5",
-          "source": "CMoney投資網誌",
-          "published_hkt": "10/15 19:46",
-          "related": [
-            "TSM"
-          ]
+          "title": "外資狂賣台股3025億元 卻買爆「這1檔」",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoWXlYMjZSaThWLS1td3dOZTQtZVNVSUMza3VDOTZ3ckJHbVFrbUQ0RHRhMnJEZ1R1WjJqd1FWNTByYUFHc1phU1hCd0VhVGFDbjVwajNoemgweXlTaDlB?oc=5",
+          "source": "自由財經",
+          "published_hkt": "10/15 21:26",
+          "related": []
         },
         {
-          "title": "TWA00 加權指數- ## 📝 標題產出： 游庭皓直播2026/10/15(四) - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwY0QwNndrd0RjNXRlUngyUXJSdkRwcnpNY25PX1Q1VU5DWnFrM3ZaNmNTek5uV2Ztb3k5ei1XcmRXcE56T1pwd25pOVZBREV4UGQ0TmdSWTQ?oc=5",
+          "title": "TWA00 加權指數- 10/15【南山人壽。10/14。美國9月CPI】 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pQ3dIVDR1bFE4eHZnTzRqRkxscWNVOVhzeFlweGN1N2J3YnhwSW52cG5Uc2VPNTBUSkNYaWJwOVlReFdZc2ZPMjV3WTB3U0F5akVNSFRmWkU?oc=5",
           "source": "CMoney",
-          "published_hkt": "10/15 18:30",
+          "published_hkt": "10/15 20:46",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "TWA00 加權指數- 三大法人15日買超前十大金傳先加碼掃貨王兆豐金連7敲 - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05UFc0Z1p1bEtKQjBEb0w4QU9pc2pvQ2J2WTV0N1J4UHFJdXhRcDlnaDdfTmhaaFBkSW9OZDYzX0h0ZTVZY1ZsWVhJQmR2N1RjWkgtXzloUDg?oc=5",
+          "title": "TWA00 加權指數- 通膨壓力持續升溫美國9月PPI數據大幅走高:( - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmbzl0VDd6bVZnNkdPbUJBUVVJcGNrSnhicWJ1dHI5VHJQQ25MOHhWNWxvSzZyeGhzY19nczFIcmFaZ09TSmVlRVRFSF93NFZyOW1rZzRLTWI?oc=5",
           "source": "CMoney",
-          "published_hkt": "10/15 18:12",
+          "published_hkt": "10/15 20:43",
           "related": [
             "^TWII"
           ]
@@ -215,7 +215,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-15 20:13 HKT",
+      "updated_at": "2026-10-15 21:34 HKT",
       "news": [
         {
           "title": "這家日本連鎖餐飲漲價6% 股價反而猛爆飆漲近8% | 太報",
@@ -246,13 +246,22 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-15 20:13 HKT",
+    "updated_at": "2026-10-15 21:34 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣跌0.78% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUzUwdm1qOEhzNUwtaG8tX1NCTUw1WlRySmkxV1poNXRSblR5Sy1tOE1BN3dMZHphNGhvMVlncFpfR21jYUdvN3JtNmxoRjZiS2NPQ1lQaTZ5M1RoWjNhWmstaDZUX3dybVJxRmY1TW1MRzNuRG8xREsxNm13d3VRRUZjV1ZucllkOGw5US1rYnpvVFNqOVRHSUtEeWlxcUty?oc=5",
+        "title": "主要加密貨幣行情，比特幣跌1.17% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaDQyUk1HQk1CS2JJbEZLczBqSmRJRnhzdDFsQmxyNllGTGZWOHNzUzh3WHJ6NHAzYVJrMV9Yd0JKU09FQUJRZl9RVHpuVm54WnM4SV9TejRMdVdpbk53ZVFZMXVtS1FkVHpLM2lZS3FmTkhqSGx6N2gyVWFIXzNhSVMwTVo3azU4N2kxNTRySi1DWEowVGxULV9tMUNRd29B?oc=5",
         "source": "etnet 經濟通",
-        "published_hkt": "10/15 19:31",
+        "published_hkt": "10/15 20:36",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "比特幣價格預測：為什麼BTC下跌？",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQ21GV1ljaFdxbDRuTVJkeUZQLTBUbXZJQ1dyQ09kN0ZGQVBRaTRXZ0x2bTRhSzlqR01HRjZVc0UxUFYwS2V4WHAzX2RYQ1JrX1BuVENfU1RHTEgxYzdiODM3Y0tPaVpHTzJjczFVVkRQWTk0ZGVGMWlIUXhsQnBMNlgxQWhpbl9uMlBzSVc1ZDZXaFNodERVd19CTXQ4VUhuTXhCa1VGaVgzVmtBSHBTaU40WExlTHhZS3hrbDN1bk51Q2NiWmp5akw1Y1IydGVwSGdQRHUtbEhZZnROTGJMUmt3R0xBZ2JtYnJQUEhsTFbSAfABQVVfeXFMUENtRldZY2hXcWw0bk1SZHlGUC0wVG12SUNXckNPZDdGRkFQUWk0V2dMdm00YUs5akdNR0Y2VXNFMVBWMEtleFhwM19kWENSa19QblRDX1NUR0xIMWM3YjgzN2NLT2laR08yY3MxVVZEUFk5NGRlRjFpSFF4bEJwTDZYMUFoaW5fbjJQc0lXNWQ2V2hTaHREVXdfQk10OFVIbk14QmtVRmlYM1ZrQUhwU2lONFhMZUx4WUt4a2wzdW5OdUNjYlpqeWpMNWNSMnRlcEhnUER1LWxIWWZ0TkxiTFJrd0dMQWdibWJyUFBIbExW?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "10/15 17:55",
         "related": [
           "BTC"
         ]
@@ -262,13 +271,6 @@
         "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOTDJ2cDdOOWVsd3B1WVlYSVhEWDRNOFF2LUJWNFZyYThQMVJ2cG1NbnRoRkVXRnJXT3RPNk9pMXE5aUQtUnJ4SXlWc3AzTjVJZjMtMm13Zy04UGNqTWJieGM0V3lreFVwb0thMEVGaDF5Wm4yTTlNa3lfQWtrdGlqbC05ZGlZQ2ppT2g0SDItamRWRUZGZDAzZGxuNTBZRGZWS0lYN2pxbFRsQ1ZIMDBvQ2Nfem9RQXVhWHBpcFhhem5JRXZIemh3OERZVWRUcnRUclB0RWVyejZiaGhFUHk1NWVMbXU5RHhjZ1Q4QkhIX0ZyOGpkWUtyTTMyYnhGeVFvZVctc21yczlIZW42ZnZqQk1udXVnZ0tfa0hxYmpnengtUdIBogJBVV95cUxOTDJ2cDdOOWVsd3B1WVlYSVhEWDRNOFF2LUJWNFZyYThQMVJ2cG1NbnRoRkVXRnJXT3RPNk9pMXE5aUQtUnJ4SXlWc3AzTjVJZjMtMm13Zy04UGNqTWJieGM0V3lreFVwb0thMEVGaDF5Wm4yTTlNa3lfQWtrdGlqbC05ZGlZQ2ppT2g0SDItamRWRUZGZDAzZGxuNTBZRGZWS0lYN2pxbFRsQ1ZIMDBvQ2Nfem9RQXVhWHBpcFhhem5JRXZIemh3OERZVWRUcnRUclB0RWVyejZiaGhFUHk1NWVMbXU5RHhjZ1Q4QkhIX0ZyOGpkWUtyTTMyYnhGeVFvZVctc21yczlIZW42ZnZqQk1udXVnZ0tfa0hxYmpnengtUQ?oc=5",
         "source": "FXStreet",
         "published_hkt": "10/15 17:28",
-        "related": []
-      },
-      {
-        "title": "隨著ETF資金流出增加，Solana會跌破100美元嗎？",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdk5DMFE3VHpCTVhzNnk4NVYwd1Y1M0U5dnJpMFFCbkxrZTVqVVVvS3h5eHA3YlI4WEo4cWgyUHR0VXpZd2cxc3Q5SmxZTkVEX3ZzZk9CSEVfckhwVHdYZTdlTldlWUVFSkk0N01tdGxNRzVUbGJDaGtabWpYbjNibFc0V09fb0dOOGVZVGNwMU9PbENpQWM1VGlOMzIweFRLSUNzTVpFV2V5RUtMNnlhbWxrNmc5TlZmelhLdklzWlQ2UEktYnRfLVpfWmZPbVpldlNZaDE2WllDMk1fc2x0WnpmRXpCNVpPVm53eHQ4WUtNZ9IB8gFBVV95cUxOdk5DMFE3VHpCTVhzNnk4NVYwd1Y1M0U5dnJpMFFCbkxrZTVqVVVvS3h5eHA3YlI4WEo4cWgyUHR0VXpZd2cxc3Q5SmxZTkVEX3ZzZk9CSEVfckhwVHdYZTdlTldlWUVFSkk0N01tdGxNRzVUbGJDaGtabWpYbjNibFc0V09fb0dOOGVZVGNwMU9PbENpQWM1VGlOMzIweFRLSUNzTVpFV2V5RUtMNnlhbWxrNmc5TlZmelhLdklzWlQ2UEktYnRfLVpfWmZPbVpldlNZaDE2WllDMk1fc2x0WnpmRXpCNVpPVm53eHQ4WUtNZw?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/15 14:08",
         "related": []
       }
     ]

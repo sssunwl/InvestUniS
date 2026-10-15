@@ -246,33 +246,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-15 13:02 HKT",
+    "updated_at": "2026-10-15 13:28 HKT",
     "news": [
       {
-        "title": "美聯儲加息不確定性驟升 比特幣跌破8.2萬美元、韓股暴跌8% 作者 FX168",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wdWRWVFhmb2Z5VXUzWEpIZDlRa1BoTzNySkFPQVpodzgxdmJHSW9xYTl1TC1ITGJWYmFzaVpfNldvblZTa0d4cU1oRnN2dGR5Nk9jc3QyczhfMmxxNzRCU2x4OFdPcFJPUHZldnpVSmk?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "10/15 12:46",
+        "title": "美聯儲加息不確定性驟升 比特幣跌破8.2萬美元、韓股暴跌8%",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZUVN4bEhCb3NoODAwakhsQ3J5cnp2UTI3Q2ludXFXbFFQR0h6cG45VjN2YmczaXFYb3hWeUNOd0VtVVlZa3FRaFVQbnA0NGhHeXJjTFFsM3plRXk0SFJsYlQwbm0?oc=5",
+        "source": "TradingView",
+        "published_hkt": "10/15 13:03",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "XRP和XLM前景：瑞波幣和恆星幣能跌到多低？",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNU1pVb3Z3dnB6MEdmcm50ZHEwOHFZS1c4Uk9qNVI2NXREV0U0QjFqbVlWeE05VnBYRmJDWEV0NGJ3YkFkTXhuemNOMEdweDJBNWxRNWlxYVEwNEZydXBTcHNCS1ZPOGJLbGc3aS1QNTdzWEZoM2hySy1EVF8zLW9XYnpMRlEyOGIwbjZYYndWTmRaa0pIbmtsYlk1bi1HQTRjSW5RSkwyb3RtbElFd040cHRwb1lqZTN3WnFtaDVkdVZaUmRfVVhoX3UyeWlVNDdzVzRpSmwzaXZvNzBFR3pXR3ZVR0h0Rkw5UUgw0gHrAUFVX3lxTE1TWlVvdnd2cHowR2ZybnRkcTA4cVlLVzhST2o1UjY1dERXRTRCMWptWVZ4TTlWcFhGYkNYRXQ0YndiQWRNeG56Y04wR3B4MkE1bFE1aXFhUTA0RnJ1cFNwc0JLVk84YktsZzdpLVA1N3NYRmgzaHJLLURUXzMtb1diekxGUTI4YjBuNlhid1ZOZFprSkhua2xiWTVuLUdBNGNJblFKTDJvdG1sSUV3TjRwdHBvWWplM3dacW1oNWR1VlpSZF9VWGhfdTJ5aVU0N3NXNGlKbDNpdm83MEVHeldHdlVHSHRGTDlRSDA?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/15 12:09",
+        "title": "美聯儲利率不確定性衝擊加密市場：近10億美元槓桿倉位被清算",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PM2VPV1NkNE9NNG5rYTlWYURPVUNNUXoxLVRqMTE3dXhxcmduNEdFcEVDbFRRWktRbnRqQzJIU0pvN2hHYTFnc3ljVWd0WDVsLVVlOHlROFRsaGZybTVqcHBzaTI?oc=5",
+        "source": "TradingView",
+        "published_hkt": "10/15 12:44",
         "related": []
       },
       {
-        "title": "比特幣跌8.16萬鎂、以太坊失守2,420！CPI爆熱爆倉4.5億鎂，貪婪指數轉中性",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZzh2UkJsNWZHb0pWS1otdUpZd0lSc2N3ejFsSDY3U3RROXBSQm5fTFFKQWRKVHVzeTd4b3FXN0Q3MWVPajA5eThLZ19GMjU2RHZIM0F2QlN0UERTdV82REw3OWFWTm9RTl9MbEk2RzZiTmJMRWlhYmxUQlByal9XXzNQdjBkUTZuMWNJUmRqbGtrQ2hFWjNyQ1RB?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "10/15 10:09",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
+        "title": "美國通脹意外抵消新的ETF資金流入，Zcash價格會跌破1,000美元嗎？",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOS1F1TC1BQWptUllJdURHT1k5eDVFRHZmSURldVFqSll2dnJjWk13LV9xS3NXUlhOcWFXY0xCeXR0ZWNXbE5rczNrcEJLOVc1S1BmeHpFcldCZnUtcTNjVTFtVEd1a192Y3U4OWRoZ1ZCNGRUZklzTnAya3BoakFRVVF2UjdCVnA3eG55dmhNS2pPWGVhaGh5bjR5TUM0U0d6aVNxZkdqVFZQNzNSNG15VjViZ2IwR0JVV0lEUHBFOVRsRlo4N280WTlXdWQzakVlSHEyMk5hQV9XTGwtX2VqdDVlb9IB4wFBVV95cUxOS1F1TC1BQWptUllJdURHT1k5eDVFRHZmSURldVFqSll2dnJjWk13LV9xS3NXUlhOcWFXY0xCeXR0ZWNXbE5rczNrcEJLOVc1S1BmeHpFcldCZnUtcTNjVTFtVEd1a192Y3U4OWRoZ1ZCNGRUZklzTnAya3BoakFRVVF2UjdCVnA3eG55dmhNS2pPWGVhaGh5bjR5TUM0U0d6aVNxZkdqVFZQNzNSNG15VjViZ2IwR0JVV0lEUHBFOVRsRlo4N280WTlXdWQzakVlSHEyMk5hQV9XTGwtX2VqdDVlbw?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "10/15 12:32",
+        "related": []
       }
     ]
   }

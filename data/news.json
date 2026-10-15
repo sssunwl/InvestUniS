@@ -93,8 +93,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-15 19:10 HKT",
+      "updated_at": "2026-10-15 20:13 HKT",
       "news": [
+        {
+          "title": "港股後市料維持弱勢震盪：恒生指數兩萬四關口爭奪戰將更趨白熱化｜張智威專欄",
+          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNWDE5YnZDbXJMWldOQlVwUlV0VkZRamhmV1g0WXhVWllvbk9FeW41WEtBWi0xaE1vN2VVRXJDelp3N3B4RmM4M2FobHZHQ0FkaXl6U0JRVW1neGJ5ZEZjeVB5ZDF3YTZBQnRBR0taeFpWQmZCaHBnWXo3RmljcVgxTDdoR1paSUtVS0NGTGdKczRyV29ZMTV2ajJabUhVU3NhN0FfUTB0U2pwNmNvQkFTRFIzZkRtdExkMjFsVUYyZ21hdENyUUFDcVdqTmczUXExTTE1a1VKc0I2ejdQRDFpanE5NlJKQ2x0VHFrb1R6Y19lSlV4OGt5U0J0b2NaMmVNTkdmbG85b1JXa0Z3V2dGU1F4MVBWa3prOVZpSnV4RXB1RG50WDBlcHF0d0JRdUFMd1hjUXU4Szc5alR1VWNtcl9kNkUyYS1QQkVxSGF6U29SN3M?oc=5",
+          "source": "香港財經時報HKBT",
+          "published_hkt": "10/15 19:18",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "港股二萬四掙扎 A股嚴重超賣|香港經濟日報",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMXBaMXVOTTJ2ZHhqakdmbm02bjRZUkh0MjYyMi1BSW9aeWE4ZXY3OXVSTWpodERsU2h4Tl9mZmF0RzI3MUlKcWNBT1NSc2dRR0NaYXh3c0pCOE9OR2M5ZUtvd0ljUW9OWXExaUpicTl4TGd4eTZoQS1iTEJ1V3U1Q0s2aWNqSkhpY0FPODVZdjJqMDF3MEJLR1pld1RscTk1QkI2bGdqMGFfVkdBb1dhUlFJV1VIaWRRUi1IbjhFa2ZXQkVkamg5d2pXY2xJcGFtUEp0dzFvM2k3OGZud1FXUzd3MUw2VU0?oc=5",
@@ -107,15 +116,6 @@
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96bld6V1VRVkNzZ1BtNDlGQ0lTMjNvRTRSS1VOcS1QQ3FrUWU0aVZaRkVhbWZ1RjZHaWxXWUFZTnZfQVQ0Y1d3b0d3Mk95cXdHR1NfWm9BQWVEQndYTnBYOG5TLUY?oc=5",
           "source": "Now 新聞",
           "published_hkt": "10/15 17:12",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "【港股收市】恒指跌251點 曾失24000關 DeepSeek大死機拖冧AI股",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYejdUaUNaRkt2ZE8tbnd2bmREVUY0ZkUtRHhQVUhvQzhuYWhQakM0RGVDOGpBQjFoNmo3LVhmRTQ0OHF3VXlnMHNTS05BODBVRFVFS2FVVGtLM3VsbDBkblB0TzRLU29ScFZ5Q1dmd0lGLU9CSUI0am9n?oc=5",
-          "source": "Now 財經",
-          "published_hkt": "10/15 17:06",
           "related": [
             "^HSI"
           ]
@@ -153,14 +153,16 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-15 19:10 HKT",
+      "updated_at": "2026-10-15 20:13 HKT",
       "news": [
         {
-          "title": "台股重挫台幣重貶1.92角、爆70億美元天量| MoneyDJ理財網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wbUV6S2xXbnZQSTM3Zm5JTVUxRVcyS3Rhb0YwbFBxM1hCT2I3a3hXUy1CNVY4cGtuR2t4cnUtRjFvVHhVOUdYdi1BQXJnSzhOdXN3a1B3?oc=5",
-          "source": "LINE TODAY",
-          "published_hkt": "10/15 19:04",
-          "related": []
+          "title": "台股最新籌碼動向！外資狂賣3025億創紀錄轉進金融，台積電遭調節-財經焦點情報站",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQanFncXhsS1NmbFk2TEV3RG5mZ3lrZERWQjRudjlrMTJMZ2ZreGVneVZkVG9hSVhNWnIxZkdmeGJyNE9DZ1k0UmdOdGo1a3h2U2d1S2lkd1pqRUZZckd0YVBHV0pJRUxOMWZUWnZ0NEFhWlhjMXhQRjFqNlp1bi1vWWlB?oc=5",
+          "source": "CMoney投資網誌",
+          "published_hkt": "10/15 19:46",
+          "related": [
+            "TSM"
+          ]
         },
         {
           "title": "TWA00 加權指數- ## 📝 標題產出： 游庭皓直播2026/10/15(四) - 股市爆料同學會",
@@ -213,8 +215,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-15 19:10 HKT",
+      "updated_at": "2026-10-15 20:13 HKT",
       "news": [
+        {
+          "title": "這家日本連鎖餐飲漲價6% 股價反而猛爆飆漲近8% | 太報",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xajhkc3JwYTZjUFloRnZVV29lTko1anVNX2NLTEhrUGdZN0VpakxaNHNWNWNSTFZkT1RVdHA0UUJIZGpmNzJXNWtoV3J4S0xnY21KNXNn?oc=5",
+          "source": "LINE TODAY",
+          "published_hkt": "10/15 19:09",
+          "related": []
+        },
         {
           "title": "《日股》半導體與AI領跌 日經重挫4.9%",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLS1lUWE3NE4wZjJaYkswcFdHOXJQVS0yOTJKTUk1QXVwUzlqX3BiV2JCeTFndFVCM25FUlV3Zl9uM2hKYy0yOWpOTlVMRmFySTg2dm9GZVBrbExkR2VWbW1RbnZfdXp3NGl2eUNLSGcxNDd4a203WS1uSWFDLVhDMUtqSUFuOFNZdk9WQWo3dWdQZw?oc=5",
@@ -232,37 +241,28 @@
           "related": [
             "^N225"
           ]
-        },
-        {
-          "title": "受晶片股拋售潮拖累 日經收跌近5%、韓股狂瀉近8%",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0aTFuZ05WQk1WRTlROVhBZkVVVUcybE5qdHo4X3NIU0FwVzZqaUE0cHVxQ0l6Yl8zNDF2eUVFdFRUZmRnWDF4SkVISGlERFVLSUNKeURZZjM5MG9DZkhmYWpIRV9zZ0xUZUpIWDh6VWVsc2FDRnJoejlpaG0?oc=5",
-          "source": "UDN",
-          "published_hkt": "10/15 15:50",
-          "related": [
-            "^N225"
-          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-10-15 19:10 HKT",
+    "updated_at": "2026-10-15 20:13 HKT",
     "news": [
+      {
+        "title": "主要加密貨幣行情，比特幣跌0.78% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUzUwdm1qOEhzNUwtaG8tX1NCTUw1WlRySmkxV1poNXRSblR5Sy1tOE1BN3dMZHphNGhvMVlncFpfR21jYUdvN3JtNmxoRjZiS2NPQ1lQaTZ5M1RoWjNhWmstaDZUX3dybVJxRmY1TW1MRzNuRG8xREsxNm13d3VRRUZjV1ZucllkOGw5US1rYnpvVFNqOVRHSUtEeWlxcUty?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "10/15 19:31",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "為什麼瑞波幣、卡爾達諾和狗狗幣價格下跌？",
         "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOTDJ2cDdOOWVsd3B1WVlYSVhEWDRNOFF2LUJWNFZyYThQMVJ2cG1NbnRoRkVXRnJXT3RPNk9pMXE5aUQtUnJ4SXlWc3AzTjVJZjMtMm13Zy04UGNqTWJieGM0V3lreFVwb0thMEVGaDF5Wm4yTTlNa3lfQWtrdGlqbC05ZGlZQ2ppT2g0SDItamRWRUZGZDAzZGxuNTBZRGZWS0lYN2pxbFRsQ1ZIMDBvQ2Nfem9RQXVhWHBpcFhhem5JRXZIemh3OERZVWRUcnRUclB0RWVyejZiaGhFUHk1NWVMbXU5RHhjZ1Q4QkhIX0ZyOGpkWUtyTTMyYnhGeVFvZVctc21yczlIZW42ZnZqQk1udXVnZ0tfa0hxYmpnengtUdIBogJBVV95cUxOTDJ2cDdOOWVsd3B1WVlYSVhEWDRNOFF2LUJWNFZyYThQMVJ2cG1NbnRoRkVXRnJXT3RPNk9pMXE5aUQtUnJ4SXlWc3AzTjVJZjMtMm13Zy04UGNqTWJieGM0V3lreFVwb0thMEVGaDF5Wm4yTTlNa3lfQWtrdGlqbC05ZGlZQ2ppT2g0SDItamRWRUZGZDAzZGxuNTBZRGZWS0lYN2pxbFRsQ1ZIMDBvQ2Nfem9RQXVhWHBpcFhhem5JRXZIemh3OERZVWRUcnRUclB0RWVyejZiaGhFUHk1NWVMbXU5RHhjZ1Q4QkhIX0ZyOGpkWUtyTTMyYnhGeVFvZVctc21yczlIZW42ZnZqQk1udXVnZ0tfa0hxYmpnengtUQ?oc=5",
         "source": "FXStreet",
         "published_hkt": "10/15 17:28",
         "related": []
-      },
-      {
-        "title": "主要加密貨幣行情，比特幣跌0.15% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR3R6ZC03dHpkdVhsbHNVNUpmX2V5b0FIS1JMMy1Fc1F5b1ZGMTlDZGhkNVpBSDdvSF9KRVpJVy16X2RyVXRPNy1kYVhiV1Zyb3UyRUpDY2JFOVRlOGY0ZzNTelhKeHpvSG15Q2VrMnF4eHhDT0lHdm1wekw5cUdzenNiMDBEYjlvVlEyZnFxWGR1ZG5KckdSUHU5Q0tNT2Yt?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "10/15 16:01",
-        "related": [
-          "BTC"
-        ]
       },
       {
         "title": "隨著ETF資金流出增加，Solana會跌破100美元嗎？",

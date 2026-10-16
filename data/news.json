@@ -244,14 +244,24 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-16 12:51 HKT",
+    "updated_at": "2026-10-16 13:20 HKT",
     "news": [
       {
-        "title": "Mastercard 推出穩定幣平臺：從鏈上資產到刷卡消費與銀行提現全解析| MEXC 幣圈脈動",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMll5U2tjQThCREJJTDNGQ1RQa3lDcjk1S3BYNUhjeXByOEVHUVdncU9JU19xdEtEUWhrRlQ1S3cxRHQybzhVTXlZQ3ZmQUpOOVl3Z0t5eE5RcUlKMGlzQnZRRUlzNzdoc0o0NWFuNFk2TlhTcG1Va0VTWjZ3b0x2bTh6T3BleENuZnhBczlBdl9kQ3lZSFZEeTNn?oc=5",
-        "source": "MEXC",
-        "published_hkt": "10/16 12:48",
+        "title": "Injective 的上揚能否在先進代幣化推動下突破 10 美元？",
+        "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPTnFfcHBkVGkxT3M2QWEzeVZWM0dzTW85TEdWeE96UkVCaFR4WmJ0RTFhNnFzMTJUSHVObTRNV2VwdXd6NE40bDJYNndMeTRYVl9teWJPdVFVRXFkVjVULTFlQ0I5RDJweHl2MFk2Z1dCYjE3THFQVVdNeW9mY3hjcjdBVk1Pa0Rwc2VzbnRnZDYtcGdIWlVMMU11cUpHekRhalpMbDY2TEx2VGtWN3hlZ1ZodVQ3LUh2d2hPT0tjUGFPVGctWGdZeGR1ZUFrdnlRckVDNkx4STh6SHhnWEpwVDloZjk0YzJ3VnNNRWg3MTdKVmowV3Z3S3dCOU9jNGVYdWctNHJKWXFvTC1kZlRERlV3NjF5QS1OdXVKanlhSVExUDhwdEHSAaYCQVVfeXFMT05xX3BwZFRpMU9zNkFhM3lWVjNHc01vOUxHVnhPelJFQmhUeFpidEUxYTZxczEyVEh1Tm00TVdlcHV3ejRONGwyWDZ3THk0WFZfbXliT3VRVUVxZFY1VC0xZUNCOUQycHh5djBZNmdXQmIxN0xxUFVXTXlvZmN4Y3I3QVZNT2tEcHNlc250Z2Q2LXBnSFpVTDFNdXFKR3pEYWpaTGw2NkxMdlRrVjd4ZWdWaHVUNy1IdndoT09LY1BhT1RnLVhnWXhkdWVBa3Z5UXJFQzZMeEk4ekh4Z1hKcFQ5aGY5NGMyd1ZzTUVoNzE3SlZqMFd2d0t3QjlPYzRlWHVnLTRySllxb0wtZGZUREZVdzYxeUEtTnV1Smp5YUlRMVA4cHRB?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "10/16 12:22",
         "related": []
+      },
+      {
+        "title": "前三大價格預測：比特幣、以太坊、瑞波幣 – BTC守住80,500美元，ETH從關鍵支撐反彈，XRP走弱",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPRXNSWlhVVHFBYU9kSWQ0UUs4Uy1ibnY4ejdPc19MSGZndElkaVdwUE1JYjYzLV9OZWRjTW9GT0dhS1k3UkZDME5Td2ZWM3BvdGpMOEFDNkFEbXB6UnkxOW5WNWVlejBGU2Vyazc3cGdCNTRoRGRkaEltcTFVNzA1R2pIZ1VSZ0IwRzNxOThKZDhzY2tEM1BFM3VnWVdCNlFDYjdmV1V0T2Z6S3JkX3hFM2YzLTJjY01QY2FBZHROX0Nmek9zVFNxTEZqZTU4bmQybFFxeEcteG82R1dvTXRXMFktcURybmh2dmpUVU8yd013NnlZUXVEQ2R3X2U2dXB2akRWaFFtaDJvRkxMWVVoZVJqVzhITVnSAZwCQVVfeXFMTWZXNV9zRXRzZGdWUXBpdWxrVjZ2M1RsX0F0T3hFbXVGMFNvVmJGbDkxdUtJTkd0M01IUGdpOXNQODlXSXlvSnVJV3R6a3MzVUU2SWRWWG5HTjhqM3Z4U2w3NHliWVVpaGhNM1Bxbl92VFk2NmhjbndlTEhfM2xaWGNyNm8tTndCbzRSbUdwZGpkVk1uZ0E2eEoyRUkySGFFWEJMSDBKYWhTV3hkSkhFVGp6VXlybDZ1M1c1N3BmVTh6XzJ2U0JNUkVpa3llYlFrQlBOVS1uZy1jRU5YZHhScURycmFrY0JaYkhnamNUamtqS2dmNVc4VHVLLUtzUFZyeHR3RVNvR1VNZnhxVzFLUHhpRDdNS0g4b2N1X1A?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "10/16 11:34",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
       },
       {
         "title": "a16z：錢包與支付入口的爭奪戰",
@@ -259,15 +269,6 @@
         "source": "鉅亨網",
         "published_hkt": "10/16 10:30",
         "related": []
-      },
-      {
-        "title": "Solana Alpenglow 將升級 Remittix 擬上市 微策略再購比特幣",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uLVlZSVNKUmFuN2ZZYjQ5VTNtLW1hbVQ0d3JxMVR6RHgtSXVlZmNUam5lUUNzT1A2RC1jcHdablFYNWpBX2hqa201MWRzS1VBR2c?oc=5",
-        "source": "蕃新聞",
-        "published_hkt": "10/16 10:06",
-        "related": [
-          "BTC"
-        ]
       }
     ]
   }

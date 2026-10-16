@@ -91,7 +91,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-16 19:05 HKT",
+      "updated_at": "2026-10-16 19:58 HKT",
       "news": [
         {
           "title": "恒指走勢丨全日升124點險守10天線 全周累跌24點",
@@ -153,31 +153,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-16 19:05 HKT",
+      "updated_at": "2026-10-16 19:58 HKT",
       "news": [
+        {
+          "title": "TWA00 加權指數- 俄後方接連遭襲！蘇-34戰機傳出受損，數百架無人機逼近莫斯科... - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaRlZZU0tNQ3Baa3Ftd3RwZnBacm02VXJaOERlLWtiUUljMXB3Q2VTUV92TUdFN1lBWVYxVVJSZmhrelZVSVRHVnRtcU1BQnRfbXBiM0szNDA?oc=5",
+          "source": "CMoney",
+          "published_hkt": "10/16 19:16",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
+          "title": "TWA00 加權指數- 三大法人16日買超前十大中鋼追4萬張居首百元股僅兩檔- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fdmlDM1d1czdwNXZleXd1TWdjTGJQU2U1WGN6ZjRLR1g0T0J6ejAtUjQ5N0xIUEtvbHFpbDZ4ZzVZeE9XV193cmRoR2M5NGU3NlhTQ2Vqc1U?oc=5",
+          "source": "CMoney",
+          "published_hkt": "10/16 18:45",
+          "related": [
+            "^TWII"
+          ]
+        },
         {
           "title": "TWA00 加權指數- 外資16日買超前十大銅板股受青睞鴻海翻多最吸金- 股市爆料同學會",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44d1o5QXp0dDNKVFVYMGc3WHhlSnZCbFRPSnJiQ21FLWc1YUVybUV0elVqbVlNMXhZMzk5Mmp4VTNxbFA4VXh2TWNQbEIwaHVjY2xZeWZtVzM?oc=5",
           "source": "CMoney",
           "published_hkt": "10/16 18:43",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數- 0050、009816黃金買點在這邊🔥 - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iWi1pSzB4UjFyaXRjQVhHZHJhaVBlb2EwTjdwclM0ZXFzZTdTZ0lkOWxUVks5Qk1nYTVHTDU1eVZZaUdqZGNEQTdOVFFSVDhpcHVpYzdoVDE?oc=5",
-          "source": "CMoney",
-          "published_hkt": "10/16 17:59",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數- 1016股市全威盤後選股- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yaDdfelh1OUdONnVRemZFMXpsQTVSd3dMaWw1cnJKR3RMMDlKYzJPUnU5UU9kUzVVMVU5LVN5WHMwV3NVYmZCMDg4SXhXLVlrYkNnMUhZRmM?oc=5",
-          "source": "CMoney",
-          "published_hkt": "10/16 17:58",
           "related": [
             "^TWII"
           ]
@@ -215,7 +215,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-16 19:05 HKT",
+      "updated_at": "2026-10-16 19:58 HKT",
       "news": [
         {
           "title": "《日股》AI帶動反彈，日經收漲1.39%",
@@ -246,29 +246,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-16 19:05 HKT",
+    "updated_at": "2026-10-16 19:58 HKT",
     "news": [
       {
-        "title": "觀點：為何大多數公鏈難逃消亡命運？",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zLS00LWVsV3FzTDNRcVhFZDZUb3lidG84RF93a1lwamJQQjJwejNtX3Job3VYeTNkVEhUQzg3YzdNWjRKeUhoNlI0NFhySk0?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "10/16 19:00",
-        "related": []
+        "title": "新興加密貨幣 Pepeto 募資破千萬美元 分析師看好比特幣衝上 17.5 萬美元",
+        "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxQRkQ2TThSd1hlMDJMV1lkVGZES1RPRE91RDQ5TlczWVVnMVJJVXdjNERvSGF2RGRDRXV3cGxLcXJLVWwzbXdjeWJvQnF0VDBSNmdEVFFuX1hzWHFOX0pxWko2TEZnSXVscHpFOWlady1BckltUnByRkpCMV9pWlZVWWF0TmNpYUZwZEtJTmFSU2dWOXhoYkhqWnR3UjlabVF5amZOd3h6SWt1N3N4WmY4ckFyLS1vUmMwNnY1Z1NGZm9vajh3SGdGcGJoREdIaHVtSUN6aXJIVWVNU25UdmpBYmtYMkpzVTMzSGw5aWRHanJJeXU3RW9IQ3FYTFp2Rnl3WmdmckZkekJXRVZtaEdfR213eUFycVJIVHZRbDNmckhCZjViVF9FMG95MmU5UDB0UWRxNnVmc24tSjVfOVgzRnp1OWVWVWtmVlI0TC14MWpFank2VmNHelItUkhKUkJYQXljdTVyVW5Vdmd5RU52SnVOMFFLSk85eDBjdVE5OFVFdFZqdG15SnpEYWVZUEI4bUxlQjBBeEkzUWdDNDNOdDA4ME5LNU4taGxkY2MtVlc?oc=5",
+        "source": "商傳媒",
+        "published_hkt": "10/16 19:20",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "主要加密貨幣行情，比特幣升0.70% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR0RtY0lrLVNCTDRERVpUTHd1OFpWdUdsYnJYS1lzZUx4RGNGWmFPUENoRHpZM3EyOWRMSWtaeGxpb1U0MnVYZUdKZml6VUl1Q0RjOEY5R29xV2NuVk9VMU1pUDVSUUVLand1YTZ0MV9sa3o5WVZmelBidFBIWjlXcWsyVmQyR3BYSjc3WHRJMm9VbzBWUnVCMXF5dXVMZnFl?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "10/16 17:59",
+        "related": [
+          "BTC"
+        ]
       },
       {
         "title": "比特幣重返 8.2 萬美元，ETH 卻漲得更猛！單日反彈近 4% 、漲幅逾 BTC 三倍",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPak1sRjczNHloZ2FwMGVicXd2MkFNOE9DZVBsWWdNVVhadWNLRHQ1TmItQi03VDRNbG9RTVRGcGlmdWhPZ3lLbkF5bTIwTmZ3bFdTb1ZJWnM0cVhyZnJiSWJ6ZHA1SlAtNkdEUTFJei02R2NjcEswY2E5eXpfMUpRT3pkUHZHNjF1YTBqb2FR?oc=5",
         "source": "區塊客",
         "published_hkt": "10/16 16:07",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "主要加密貨幣行情，比特幣升0.09% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGpJRklJeXZyamtNbmlvYjk3Vjg4ZUh1N3cxc1pMYnNPeFlGNEQ2azM0NzIyQW0zcmZ0cnVBaVZlVUtzSWgzVzItSFF1c3IxaUtVWWJISWx1N3lNUDlUS25ueUxqeEIzbF9lVGJkQTRVU0h2WXpxY3g4NXlRb2dCRXB4N1MtRXd0WlFPdW5zQV91cXAxakstLS1BOEpLcWZ5?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "10/16 16:01",
         "related": [
           "BTC"
         ]

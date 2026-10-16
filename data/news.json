@@ -29,29 +29,27 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-16 09:31 HKT",
+      "updated_at": "2026-10-16 12:51 HKT",
       "news": [
         {
-          "title": "市場資金棄AI轉零售 美股翻紅",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoWDFuTllDVmlETmRHS3M0Umc1TnZ1eHFyendiMVFJVUtNTFNpYWtRZEJWSkRLMF9PZFc5TDMzV2s2MDV4b3hOQVpNN3hPT0Y1ZGZ6T3NEMXJqbURsMmlfVHNPOEgyUUVVTDlhNDR5dUktZ2lxS1JV?oc=5",
-          "source": "VOCO News",
-          "published_hkt": "10/16 09:27",
+          "title": "專訪Bitget謝家印：UEX佈局與八年成長背後的擔當與野心",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUGFWcnB3dm02VERHb1ZWcVJFZFpHNUhXREphaXcwMkV2ZDI3RDduYzc1RFpkV0c0d2wwbjF0WkVwUV8zV3JzWEZoSmdZcFNGMGt2bkNyUFB1MGtjcG9TSS14WmtxTU40cG5GLS1YOGgwSnd2bjhDbkx1aUF6c2JwRjYzWXE3QQ?oc=5",
+          "source": "PANews",
+          "published_hkt": "10/16 12:20",
           "related": []
         },
         {
-          "title": "TradingKey 每日市場簡報：美股反彈，道瓊大漲逾 1%，美光上漲 1.87%，CoreWeave 勁揚近 6%",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRzQzZHZHbm9mT3FOZDB0am9TZjFlWVFtclQ3SFlSczRLeDZpeVN1d2lmNEpXaVpueWU0RVR4TmVnNG9nNFRtRHNHNHZNOWExaVBORms0WGJoXzlxN1lpSE1PZ3dWZlNQLVhSRmowemQ5eWIyeDcxSnk4OUs3dllJRktmYktQUDJ6SUpCZ0dBMEROZHNfS05KdWduYmRRYzRqNU1ERHU0NFdzeTVlLTJqcnQ1Q3k4UDNaMnVKaExsRzdBWnVCWEJBWmhRNjRoMEdLdXJiSUZKeHZWazYtcVF4TjExd1pTamdOY19VdE0zRQ?oc=5",
-          "source": "TradingKey",
-          "published_hkt": "10/16 09:02",
-          "related": [
-            "MU"
-          ]
+          "title": "美股定期定額人數增逾4成 凱基證券觀察「追AI也存大盤」成投資新趨勢",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rTnQ5SkJMcHVxTjdJQ2hnN1l1MllDMjNLSTctc2JuemtUWURxc2s4d190Z0szcVRrV3N6bWdwZkNNZUU5ZEd6d3JFT2tiaHRXV1JETXJBSFd5OWF1dExGbFZ0UWVWUQ?oc=5",
+          "source": "民視財經網",
+          "published_hkt": "10/16 12:18",
+          "related": []
         },
         {
-          "title": "美股大逆轉！科技股觸底反彈，納斯達克部分交易一度中斷，可口可樂創歷史新高",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2VnFtMWM5TWdVbEZmYnQwUlR2QzVtUElMclNNM2ZKTXZMU3RDME83dWtub212R3VUcGRHTEVRY3VRMzlHblROdA?oc=5",
-          "source": "鉅亨號",
-          "published_hkt": "10/16 08:36",
+          "title": "Ripple 把 Hyperliquid 接進華爾街！逾 100 種美股、黃金、能源 Perps 變機構 RWA Swap",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUTJ0QmlTdjItTmFoanNaNUl4XzhMVHJQU1M5dmg4eEhfSGtjTGNYbWZoeVNpcUd4MVFFV1NRc1kxMWhUSG5jeTl6SERFWlh6R3F1ek9VdWxEZVlSMktMdU9STWZSa0ZUSEwtNnd3SXJrREZwb2w1UmxXeWxISHNnejJYaDNOWnB4cFAtMWpWZHBXaHVOZmJhM2huZ2N6dDA3eTE4M0dXNUh6eUkxU1EybGtQbGVBTVk?oc=5",
+          "source": "區塊客",
+          "published_hkt": "10/16 11:50",
           "related": []
         }
       ]
@@ -246,30 +244,27 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-16 09:31 HKT",
+    "updated_at": "2026-10-16 12:51 HKT",
     "news": [
       {
-        "title": "比特幣強彈回8.26萬鎂、以太坊收復2,467鎂！爆倉8.4億鎂、貪婪指數回升至63點",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeWRDM0YwaC1ROWJPVWV1aVpVM0h0ZS1INkRtTjNQdTZBcHZBLXpqVWlzdmFJVF9Cbldnbndmdm9KVWx6aTRkU3BDN3o3VC1Hb2JIVENDbE9ESnI1TGNVcW1BOE9ydzdDOENmMDkyb3UxZ3Btc205TmZWQncxNXQ0V1phYWlKSUJ3d3UtVHpFRkM?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "10/16 09:27",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
-      },
-      {
-        "title": "PPI 飆升 6.3% 引爆加息恐慌，BTC 8.2 萬美元關口岌岌可危 作者 智通財經",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWb3U1UF9DRDNJbWwzMDlHeG9iejJROGE2OEtmM1JKMHBYeWpxWlpGRGpMSV95T1R4amhhdEMzVnZMUWRIY2EyQXJwUDVRQmgwNklLQXdkTTlYNGF4THl1TlM4X0d2ejZTQXhYY0UwSmg?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "10/16 09:18",
+        "title": "Mastercard 推出穩定幣平臺：從鏈上資產到刷卡消費與銀行提現全解析| MEXC 幣圈脈動",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMll5U2tjQThCREJJTDNGQ1RQa3lDcjk1S3BYNUhjeXByOEVHUVdncU9JU19xdEtEUWhrRlQ1S3cxRHQybzhVTXlZQ3ZmQUpOOVl3Z0t5eE5RcUlKMGlzQnZRRUlzNzdoc0o0NWFuNFk2TlhTcG1Va0VTWjZ3b0x2bTh6T3BleENuZnhBczlBdl9kQ3lZSFZEeTNn?oc=5",
+        "source": "MEXC",
+        "published_hkt": "10/16 12:48",
         "related": []
       },
       {
-        "title": "主要加密貨幣行情，比特幣升0.11% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTllXa01UZ2FWM2gzSl9zV1NKbXVadFZjQmU5TnVXNWNGbDlMb0NkNmsyd2dhckx2MFhhZFhVdS1YZ2pnM0xPY1k3cGt1WW9ydlBjTE1ITDNib1VFSHk2OTh3WEFkaFdaX1NFUmVSVS10TlVxSVdkaWNaTUtZUVVVa2l6ckxlaEtpVzFJcW0yc1dRXzcyUnAzMlBqRkl3ckxo?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "10/16 09:01",
+        "title": "a16z：錢包與支付入口的爭奪戰",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GSm5pYzdjUjBIUkZTN0QwMFltdHRJSm9YVExEUHZSY1dJajBsamVwbldtWVhzX2taZVdsX0JPcm9NLVRJU1hZbVFvdw?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "10/16 10:30",
+        "related": []
+      },
+      {
+        "title": "Solana Alpenglow 將升級 Remittix 擬上市 微策略再購比特幣",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uLVlZSVNKUmFuN2ZZYjQ5VTNtLW1hbVQ0d3JxMVR6RHgtSXVlZmNUam5lUUNzT1A2RC1jcHdablFYNWpBX2hqa201MWRzS1VBR2c?oc=5",
+        "source": "蕃新聞",
+        "published_hkt": "10/16 10:06",
         "related": [
           "BTC"
         ]

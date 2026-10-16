@@ -244,8 +244,17 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-16 21:22 HKT",
+    "updated_at": "2026-10-17 01:14 HKT",
     "news": [
+      {
+        "title": "比特幣在創下新高之前可能會先收復20個月的趨勢線",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UUGlHMmRHMzNCWDFraHV6VFgyc1dTbW5PM3BzMEtoRDU0MlVqVTNRbnkzSlZsVlpIcldIVzFGM3Z0Xy1hZFpWNWRaYw?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "10/16 21:30",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "嘉信理財 Schwab Crypto 全面開放比特幣、以太幣交易！加密轉帳分階段上線",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wOHE2TUFNSmZTSnNscVltcm9oa29ZMVFEUnNNYmVjWHVfcUJTY2ZYTjBMb3F6Q0tfajZqeXdYNnFwU1B4VEQ1ZUxKcnpxNGZzS1RkTUx4dFJSMFRMN2JoUmFoUWZvNDA4YjFNY19n?oc=5",
@@ -256,19 +265,10 @@
         ]
       },
       {
-        "title": "比特幣若漲至 29.5 萬美元 XRP 有望飆升 573% 達 8.95 美元",
-        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPVjkyMVctTGZsLVdqaTFoYjVzdUxhQl8xT1pic2hvOGhMYktPLXdwU1MzMUF0TW1CeHRja0FGT0Vsal9xd1hEN21FODdOQXlfS2VGRjFyb2ZLLW1OSnVucXVtRWlWUVBTSlVvczJxdTZXbkZzN2RYQkppS0hEQXRFLXRJYWJZOG9pYlZGT3lwMEI3WTEycVpEU3llMVh4M3Jwb3ZwNVBOb3dudzVLNkJ3TFZocTVxTEVvbWc0QlBEZU1wQkxLWFREXzJ5RUxQSHlzdWp1QTJlbndnUGE4WUFDY0l1ZG9LajllbFI1ODhVVlpUZENLcjhfY25YN1UyNGUzM19MWlU5V0F5SHNTdGRaVEVOdGo0aXlZcVRiOWdvUkFBd0ZlOXFsc1hzQkR0Qk5yVkE?oc=5",
-        "source": "商傳媒",
-        "published_hkt": "10/16 20:00",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "新興加密貨幣 Pepeto 募資破千萬美元 分析師看好比特幣衝上 17.5 萬美元",
-        "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxQRkQ2TThSd1hlMDJMV1lkVGZES1RPRE91RDQ5TlczWVVnMVJJVXdjNERvSGF2RGRDRXV3cGxLcXJLVWwzbXdjeWJvQnF0VDBSNmdEVFFuX1hzWHFOX0pxWko2TEZnSXVscHpFOWlady1BckltUnByRkpCMV9pWlZVWWF0TmNpYUZwZEtJTmFSU2dWOXhoYkhqWnR3UjlabVF5amZOd3h6SWt1N3N4WmY4ckFyLS1vUmMwNnY1Z1NGZm9vajh3SGdGcGJoREdIaHVtSUN6aXJIVWVNU25UdmpBYmtYMkpzVTMzSGw5aWRHanJJeXU3RW9IQ3FYTFp2Rnl3WmdmckZkekJXRVZtaEdfR213eUFycVJIVHZRbDNmckhCZjViVF9FMG95MmU5UDB0UWRxNnVmc24tSjVfOVgzRnp1OWVWVWtmVlI0TC14MWpFank2VmNHelItUkhKUkJYQXljdTVyVW5Vdmd5RU52SnVOMFFLSk85eDBjdVE5OFVFdFZqdG15SnpEYWVZUEI4bUxlQjBBeEkzUWdDNDNOdDA4ME5LNU4taGxkY2MtVlc?oc=5",
-        "source": "商傳媒",
-        "published_hkt": "10/16 19:20",
+        "title": "加密業組量子聯盟：三成比特幣公鑰已曝光，該凍結中本聰幣嗎",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zSzh0NlE3aDkwcUc5X2hWMXFyd0lfc05weXdNZ0RuVXpuZDNGNEFTNlFocjdDSlNCUzZBbkFBeHVpMFNNbVpULTJkeTNVWkkzRFU1VUxZQWVRckxDQXFpaWZITGUxMEQ3Skk2bVZDU2J4eTQ?oc=5",
+        "source": "鏈新聞 ABMedia",
+        "published_hkt": "10/16 20:46",
         "related": [
           "BTC"
         ]

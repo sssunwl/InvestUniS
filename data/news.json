@@ -238,8 +238,15 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-20 13:08 HKT",
+    "updated_at": "2026-10-20 13:37 HKT",
     "news": [
+      {
+        "title": "加密貨幣市場逆勢！Hyperliquid、Venice Token等漲幅驚人",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPV3RLNEV5WVpIRjJPVUtOQmttRGNJNmgxM0tad2wxUGNDRE1MR3d3am1oWWJPVkJSTHJsNHoyRlIzRjhyeF9jNEQxQXk5NHVEczBKRFA4emthTlJOWVZKRldWc19zM3VucFV3WVI2LWlVSWwwTUh0MmRtVEZoa3dMSllSeGd5azdoamdSdEVCVEYzUnFsMHJZS0NTcUtSS0lBcm5sb2hxQnRCTG9SWFVRSU1aYzFjT1NlMGExNDFST0RRczZmSlNDZ3dVSVpTMGp0UEFVNUZHV1Y5dS14SVdzNlhHZklVY21vUGVCN3JtOWVpZzJwNU9ueUpieTVLS1NTSFRHcVk0VHk1RHowY1B1YkNrdU1TcXVsZEh2dzIzMndabjZubWVCV3I4Mkk?oc=5",
+        "source": "商傳媒 - SUN MEDIA",
+        "published_hkt": "10/20 13:08",
+        "related": []
+      },
       {
         "title": "瑞波幣、卡爾達諾和索拉納價格將走向何方？",
         "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQT2NLLW1XTzJ2RkZ2SElHRGNNWXFHemQ4ZUlLWHVpMzRQclVmS1kxNTkwQ0pvaDAxZXVUd3h5a3M1R2JVNl82MFBZTG5KYzRocUhlZm5JMTdNYmJPMmlRSGY3WEg4YmNlby1vXzNvREttdHFBVTlybjVtLWFraU5NVnBXSHcyd2tKb19XdUFvdFdWMTFoV3lwN0dwOEY5SU1sMDhTcExySUpZanNUajdFOEgzckZxUldXcUY3Z1hQMWJmanZ6VXppYlc2eWlxY1NqU09vWWFlZmFuU29mNVBicDRQOFY5VkVaa3FRaUZQY3JucV9XYWY3dEt5Z1dJZU1kODREQlRTcG4zWFVNYVHSAY4CQVVfeXFMUE9jSy1tV08ydkZGdkhJR0RjTVlxR3pkOGVJS1h1aTM0UHJVZktZMTU5MENKb2gwMWV1VHd4eWtzNUdiVTZfNjBQWUxuSmM0aHFIZWZuSTE3TWJiTzJpUUhmN1hIOGJjZW8tb18zb0RLbXRxQVU5cm41bS1ha2lOTVZwV0h3MndrSm9fV3VBb3RXVjExaFd5cDdHcDhGOUlNbDA4U3BMcklKWWpzVGo3RThIM3JGcVJXV3FGN2dYUDFiZmp2elV6aWJXNnlpcWNTalNPb1lhZWZhblNvZjVQYnA0UDhWOVZFWmtxUWlGUGNybnFfV2FmN3RLeWdXSWVNZDg0REJUU3BuM1hVTWFR?oc=5",
@@ -253,16 +260,6 @@
         "source": "Life 生活網",
         "published_hkt": "10/20 11:32",
         "related": [
-          "ETH"
-        ]
-      },
-      {
-        "title": "以太坊兌比特幣匯率連五週走弱 凸顯ETH相對BTC弱勢",
-        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOQk5IMDQwNmxXcl9XUzJMY2Zwek80YUNfaHN5UEM1Vjlybm0tRFFsd1p0Nm1BUU5TUFdUdjZVeElNWWs2Q2VUcl81S3RYaVNUMUR5azRLQjVTX1BMa2lVMWc0SEp1Y0NFaWxzLWRvSjlNTE44YnR0ZjhPTUNsOXg2OFVJeEYxTnVQWW9ZZnFFV0tHbG80XzJvSWh0OTloVV9USW81YWQxN3ZSRWs1NGhuZlpSeTRqNEtsQnFGWENURFo2dWJ1WTA4QXV6dF9mblFFckMyODFPV3lEWloxSXp1OE1aSmozanNhZTRjWnlqTmtvcVhZR2hvRmlfdzBsLVRjVHZNeFBsMS1qTUZoY0xVZ00zUzJPZ3FZREU2MUFqNlBTSVczazJWckFVUUJtMDh3Z0RLMndJNVhvVEh2cUItS181VWVwOHFXME5nV0JldG1qUzA?oc=5",
-        "source": "商傳媒 - SUN MEDIA",
-        "published_hkt": "10/20 11:01",
-        "related": [
-          "BTC",
           "ETH"
         ]
       }

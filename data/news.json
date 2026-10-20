@@ -244,33 +244,28 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-20 21:42 HKT",
+    "updated_at": "2026-10-21 01:50 HKT",
     "news": [
       {
-        "title": "StakerX AI代理躍上 Solana 三個月 質押資產突破 4,000 萬美元",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtWVdjV0ZiYWRIU3o4TUhYYl90aldoT09HWU1yM2JsSExKaVFFdDVoZ0NxTG8yZmpXakdQcGxnZ3VSdmVTLW12ZTE3UjVtYjFFdXc?oc=5",
-        "source": "蕃新聞",
-        "published_hkt": "10/20 21:12",
+        "title": "Blockchain.com啟用選擇權交易 特定用戶可搶先體驗",
+        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQU1E2TFYybFgzM0JELXJQMXdRV1NlM1VaUlpRUERtMk9QaURRVEc0elJsT1ZxUnVJSEI0bElHYWEtOGZoRHptRzJwWlNMdGdSREFaaTVqTVl2bG1ucG9qS29ZWGtsWTV1UlRBdi16bUVnbVpuQ3puUk9ObmI1NFdyLUUyM1lpMW5kVlV4Vnh6MXhkSmJueHk2MkpZYnpEWjloZlRFRHNHQXdfZExWNlc2ZkFyVEN1cnhuWWtISXZrdGtSQjlfVE5DQ1pTbHNVNGs4YXNBeEVhT1JqV1AwR2V3TThBdHYwbkVNVG12akFWaFIwVlZWbXlPXzVRa2tUakt1Q1JMSnlPd0w5bEVPaDRpMGFZUUEyVGJKRkRmQzRodmxnLTRw?oc=5",
+        "source": "Yellow.com",
+        "published_hkt": "10/21 01:37",
         "related": []
       },
       {
-        "title": "Claude 用 53 小時逼着比特幣和銀行提速",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85MUVxeEsyQndrNk5QX256dEdubEY5bEJrek1JMGI2S19NTWVBM19wdThYRC1menY0ckk5Rml3Q1ZTbzhGUUhfOFBucVRDMG8?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "10/20 20:00",
-        "related": [
-          "BTC"
-        ]
+        "title": "狗狗幣在關鍵移動平均線簇下方掙扎",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNck13MTNKaFEyVEcwZnRNV1NON09NVUI1dWtrY2VvUjN6eGx4YTlsLUNzazVzdGNMY0pmTVhRMG8zRXhSQjdDQ3QzWlE0TVlmeFFseFlNMzFWSTRaUzd2WjFhbHlZSGtPSzFTd0NFaGIzMlVoem44RWJEckQ0UHpCUnFZbEtRM0YxMzJSSGozVFJhczJ2TVpjaWpCa1p2SFh0TmxvLVpVcEI4QWxYLUlaZlNaZ21XWWY1dVdVZklJeDBza3NsMGpjQUtsUTQycG1SdXhQY25waDVfbTdQN2x2MWZDbnd0UdIB6wFBVV95cUxQTVpsb0F0YmpoSXpvSFhsQlUyOGFvbHcwUkdvTVpQQktyR3NkQkMxaGRTTi0zczZ1VWRnNWZNVnlJQmNuS3BaZ3NVa05GN2licXlONE1YcnczdnhPOHV5WktOVFpJMFZQYnNrOFd0eW44eEU2cWVJQ2w4dzN1WlpGQ0FvVE9tVjZORHc5NDN4VmQxNjR4Wm9OdHctNUk2WmNwdC1jRUcwdXd1YU1CejhWOXRvZkZscUxBQzhDaDRiWHBaZEk0M2N1QUxYc2c2SndZV25yN1I3WnRZVmVCc2hRelc5STJ5OGVCTGY4?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "10/21 00:34",
+        "related": []
       },
       {
-        "title": "加密貨幣今日：比特幣、以太坊、XRP在ETF資金流向喜憂參半之際小幅走低",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPN3ZzVmFubU9EeHMyeUdNdjRqS2FJWEVFcEU5ajJsSHhpZFlaZlVpQjRlZkRoeGROdHBlRklDc1BJY2YyQ3c3SXhsa1NENFZieFhGUWJhT3NzMllQM2FTX1dMaHR1T05FbFNKU1hMcTUtVjBPckJvZUFsakpZVGpaZU03SVhKa2dxdWFYSU1YTlo3X0J5NkJkdXZrUEN5R2hTeC1JcUplY1JrMm1kN1RSM3B4Nk85NTZEdFZBTTg2TUo4MjJ2Nzh0aW1uSVpSZDFwdjEzX3Uya2EtSnk1SU9OS09CMVdpTEw3dmN6bHo2UUVCemdZSEwtRlZiVC3SAfwBQVVfeXFMTzd2c1Zhbm1PRHhzMnlHTXY0akthSVhFRXBFOWoybEh4aWRZWmZVaUI0ZWZEaHhkTnRwZUZJQ3NQSWNmMkN3N0l4bGtTRDRWYnhYRlFiYU9zczJZUDNhU19XTGh0dU9ORWxTSlNYTHE1LVYwT3JCb2VBbGpKWVRqWmVNN0lYSmtncXVhWElNWE5aN19CeTZCZHV2a1BDeUdoU3gtSXFKZWNSazJtZDdUUjNweDZPOTU2RHRWQU04Nk1KODIydjc4dGltbklaUmQxcHYxM191MmthLUp5NUlPTktPQjFXaUxMN3Zjemx6NlFFQnpnWUhMLUZWYlQt?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/20 18:30",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
+        "title": "NEAR推出保密多签金库平台NEAR Business，支持35条以上链",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lRko4NTB4dlEydU16dVdJakJaekRlME5NWllZNjdtN2FLXzc3UXZGVTZNWlo1eFk4TVJEQ1lrUTBUUkZFTHVreDdLakZzb2Fick5ybUJ0QmNNa2FuZVdZaXpaaTgxUQ?oc=5",
+        "source": "TradingView",
+        "published_hkt": "10/21 00:33",
+        "related": []
       }
     ]
   }

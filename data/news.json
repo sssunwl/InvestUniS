@@ -242,8 +242,15 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-21 13:11 HKT",
+    "updated_at": "2026-10-21 13:39 HKT",
     "news": [
+      {
+        "title": "永續合約改變一切：「要區塊鏈不要BTC」也有道理？",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VcHkzdFdQaF9JSDJTby11MF81LTgxMFd0ZE9lODhzdzB3bTNTQTRaRXIyb2NqcFAzTmdRbDNlNkJENHUxWHN3Ukxycw?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "10/21 13:30",
+        "related": []
+      },
       {
         "title": "比特幣、以太坊和瑞波幣能否延續反彈？",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQmJWUXRhMnZ1OVZib3hWU0kzdXZWMGdJdGZrZWNoUHNubVlYQTZaZldfVXZRbVJaRi12QWg5ekhUSHVOc3MxZFloRlBNZ3VjTHpJeUpNVW9FNVdvV19LZ0ZzaXhxbUw2amtNNTF3REdTTFJQZHhIMXNfbjJFcFRtdHk0UkxZUHFlRkllLW9HSkt0SXBBbmZCLVczQ2l6NC00S2s3TGIwUmVBWm9jNmNaenZZOU40QzVfbnRJcVJEQUFLRWdVcWYxNGw1T3pOeThNc24tTUpTM0NLc1g0dWJaVVZCYXlDaHgzT1ZTckhkcnoxTVnSAfgBQVVfeXFMUDc4d3dpaFYtOEYxNUJWdTZhd2pvaEdHSnQ0VjlkYnFmS2JGWUJMS04yM2lpX2gxRjFOWDlENzJpSzNiSk9DYmpLMmFlYlBLRDNrYXUtVWQ3Qnc4MkNncm1ZMFdXN1BpX09JZFdCOWl6WjdDNlZGbVdQQUZXRTRMNG9ibGliYUVydGsyVnJUUGE4U25RRnl0SmtnNUEydi1wVXkwRWJFYXRYWmhiNXQ4OVh2UEl2Q2MwcTVMWFpBYXRpVi0yWmo0TUFtN3N6WDZYWW5oaGZEV0MzUXF1Q0xXREF1RG5TcUg4OUk5Z2FKeThlSHNQbGJveWU?oc=5",
@@ -261,15 +268,6 @@
         "published_hkt": "10/21 11:45",
         "related": [
           "BTC"
-        ]
-      },
-      {
-        "title": "以太坊質押量創下4380萬ETH紀錄，收益率降至2.63%",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdUZIZURhLWlOYkNlSUFRODlvS3JjTGxNd0dwTjFEcGJ2V296ckFVN3J4Q1V2WGdyZ3FWM1I1amdGMDQySGd4YzRSdnF5TDI4U0Nuc3RESU9VdlBJLTUwdlFMdmxyUU4wc1lNRkc0ZUgtc2RfUHdBM1h6aUdKZzZfV0s5Y05XOFhCNklVZDBZTmVILXRVNkNOTWMza1hUOUkwX2dSeDVFRnFzMUpKMDQ0bFMyNnJLTEpOVDFWWktJTk5LSlRGUF84RTUxNHZJN2RrXy1SV3RDVGlRWFljekHSAd4BQVVfeXFMTXVGSGVEYS1pTmJDZUlBUTg5b0tyY0xsTXdHcE4xRHBidldvenJBVTdyeENVdlhncmdxVjNSNWpnRjA0MkhneGM0UnZxeUwyOFNDbnN0RElPVXZQSS01MHZRTHZsclFOMHNZTUZHNGVILXNkX1B3QTNYemlHSmc2X1dLOWNOVzhYQjZJVWQwWU5lSC10VTZDTk1jM2tYVDlJMF9nUng1RUZxczFKSjA0NGxTMjZyS0xKTlQxVlpLSU5OS0pURlBfOEU1MTR2STdka18tUld0Q1RpUVhZY3pB?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/21 10:26",
-        "related": [
-          "ETH"
         ]
       }
     ]

@@ -242,30 +242,35 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-21 09:43 HKT",
+    "updated_at": "2026-10-21 13:11 HKT",
     "news": [
       {
-        "title": "油價跌促 BTC 破 8.3 萬，空頭平倉推升但現貨疲軟隱憂仍存 作者 智通財經",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BNzNGcnhkcmJXWEdJNDExaVVJZ0FBSnY5S1JQX0twVVZKbTJ3Y2phM0ZseE1PYWZJSnJDLWpMTy1VVzBkX2pnWkM2M0l3SGpyZ1VVYUN4bHRZTUJTMWtTMkUxc2RnbXR6U0xmLWNnczY?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "10/21 08:46",
-        "related": []
+        "title": "比特幣、以太坊和瑞波幣能否延續反彈？",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQmJWUXRhMnZ1OVZib3hWU0kzdXZWMGdJdGZrZWNoUHNubVlYQTZaZldfVXZRbVJaRi12QWg5ekhUSHVOc3MxZFloRlBNZ3VjTHpJeUpNVW9FNVdvV19LZ0ZzaXhxbUw2amtNNTF3REdTTFJQZHhIMXNfbjJFcFRtdHk0UkxZUHFlRkllLW9HSkt0SXBBbmZCLVczQ2l6NC00S2s3TGIwUmVBWm9jNmNaenZZOU40QzVfbnRJcVJEQUFLRWdVcWYxNGw1T3pOeThNc24tTUpTM0NLc1g0dWJaVVZCYXlDaHgzT1ZTckhkcnoxTVnSAfgBQVVfeXFMUDc4d3dpaFYtOEYxNUJWdTZhd2pvaEdHSnQ0VjlkYnFmS2JGWUJMS04yM2lpX2gxRjFOWDlENzJpSzNiSk9DYmpLMmFlYlBLRDNrYXUtVWQ3Qnc4MkNncm1ZMFdXN1BpX09JZFdCOWl6WjdDNlZGbVdQQUZXRTRMNG9ibGliYUVydGsyVnJUUGE4U25RRnl0SmtnNUEydi1wVXkwRWJFYXRYWmhiNXQ4OVh2UEl2Q2MwcTVMWFpBYXRpVi0yWmo0TUFtN3N6WDZYWW5oaGZEV0MzUXF1Q0xXREF1RG5TcUg4OUk5Z2FKeThlSHNQbGJveWU?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "10/21 11:51",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
       },
       {
-        "title": "比特幣回升激勵美股加密貨幣股 微策略漲逾 5% 釋股購幣引關注",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9majJEbDUxZVVWUkJzVWN4OVlOUlBDbVZuQ2FUYXMzZ2hqZ2VKVWgwaGJmOTlFZzFGQmFvVG0xa1pxS1htUl8xUjF6RHk5YXlra1E?oc=5",
+        "title": "瑞士核准首檔比特幣ETF開放散戶 金融監管影響受關注",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HRTQ4aVMxU29Ic3ZsdWNxeXBkejhVMDV5RGFOdVFKVXB5OEtKVjV2U1dCTjhuc0VUSmk2SHBXcnFRSjY3WVg4bHZoc0NZbGJLc2c?oc=5",
         "source": "蕃新聞",
-        "published_hkt": "10/21 07:37",
+        "published_hkt": "10/21 11:45",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "Drift Protocol 駭客將 6100 萬美元以太幣轉入 Tornado Cash",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01bV8tSV9CYWt4NTZvU2hnMkdIc085Vk5CUzFFNmVGQ2otUW02bG1pS29oeE5ZUzRBSHhqWVIweFhPMWYtYTdiaW0xQ2d4N2pqZXc?oc=5",
-        "source": "蕃新聞",
-        "published_hkt": "10/21 07:14",
-        "related": []
+        "title": "以太坊質押量創下4380萬ETH紀錄，收益率降至2.63%",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdUZIZURhLWlOYkNlSUFRODlvS3JjTGxNd0dwTjFEcGJ2V296ckFVN3J4Q1V2WGdyZ3FWM1I1amdGMDQySGd4YzRSdnF5TDI4U0Nuc3RESU9VdlBJLTUwdlFMdmxyUU4wc1lNRkc0ZUgtc2RfUHdBM1h6aUdKZzZfV0s5Y05XOFhCNklVZDBZTmVILXRVNkNOTWMza1hUOUkwX2dSeDVFRnFzMUpKMDQ0bFMyNnJLTEpOVDFWWktJTk5LSlRGUF84RTUxNHZJN2RrXy1SV3RDVGlRWFljekHSAd4BQVVfeXFMTXVGSGVEYS1pTmJDZUlBUTg5b0tyY0xsTXdHcE4xRHBidldvenJBVTdyeENVdlhncmdxVjNSNWpnRjA0MkhneGM0UnZxeUwyOFNDbnN0RElPVXZQSS01MHZRTHZsclFOMHNZTUZHNGVILXNkX1B3QTNYemlHSmc2X1dLOWNOVzhYQjZJVWQwWU5lSC10VTZDTk1jM2tYVDlJMF9nUng1RUZxczFKSjA0NGxTMjZyS0xKTlQxVlpLSU5OS0pURlBfOEU1MTR2STdka18tUld0Q1RpUVhZY3pB?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "10/21 10:26",
+        "related": [
+          "ETH"
+        ]
       }
     ]
   }

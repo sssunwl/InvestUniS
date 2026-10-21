@@ -244,27 +244,29 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-21 21:59 HKT",
+    "updated_at": "2026-10-22 01:56 HKT",
     "news": [
       {
-        "title": "不用先賣幣！Grayscale 讓合資格投資人直接以幣換股，涵蓋 BTC、ETH、SOL、XRP 等 10 檔",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WVk85dXN3cjFpUVRrTTVoaDNldjNHSlZaUDZSVlFBSmdGbmIxLTIxVGpTNmN3RjdRM3pQbDVqTTBWWXJ0MnJMZzIwMkpnQ3IxbXN3RldtTEtNNkFRbk9wMjRnSzBjUXV1MG05dFV1aWx2bmFhcFE?oc=5",
+        "title": "AI 模型 Claude AI 預測：比特幣 2027 年前恐飆破 25 萬美元",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yNjdaMUJlR1J1NHRVOElfRGVzNjZ4eF9DRUgtcDVGN01XNlMxVVFpdGFWSDAzMEYzMkppSGk3TW9oWDlLcmlBOEdhTWlScVNUN0E?oc=5",
+        "source": "蕃新聞",
+        "published_hkt": "10/22 00:32",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "Bybit 進軍美國不自己拿牌！Ben Zhou 點名找盈透級券商合作，正面挑戰 Robinhood",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJWnhTb2prdWpuSHQxMlRqMUprZC1RY1h4dXJTQ0hBY0ZHVlBuUEZxN1ZWU1NWNmJ1dUJuazBZM0NTbHpuVGV4dXpBYXRKMDdDVEdBLTdMR0RTQkVqNGJSMndxUGV3NUJITVdOZ3ZZYnN1Q2c?oc=5",
         "source": "動區動趨",
-        "published_hkt": "10/21 21:41",
+        "published_hkt": "10/22 00:10",
         "related": []
       },
       {
-        "title": "渣打正式收購 Zodia Custody！五大合規託管子公司全入懷，數位資產基礎設施獨立運作",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQjlPeG5vdUU1dk5wSFVPaG5Sek9vTHNtX0JGS2d0Mm1RWjhrN19Kc2lPVWRUZ3AzMEZrQUJ3V0FHSVlNVjJaQnRTeUlBX0huV1B3b2g3M1g2bEhDMXd4ZVp1X21IYzA4QkZrSVF3ZnEwMnF2OE00YWNYdjVlaG1NQUozNjBpeXdDdTlmdGJ3?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "10/21 21:32",
-        "related": []
-      },
-      {
-        "title": "加密貨幣價格預測：PI、比特幣和加密貨幣——歐洲收盤綜述 10月21日",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNV2dEZS1lQUxQQlVBWE9tUGZ5clB0NEFZWW1tX2VXMHlkTmV1amNobWpnOU5zdkRrUEkxSUpNdkFqUnU1M3pHcWlxNzVGMjRKcUdwVnhiUHNkWDNPVDBPSGk5TG4zeThVcW8tMjRzNkJpTjJJNV9DS2ZTRGxlSWdMTHlMb3dYdjYxWUhKaGRJNnFMekhtbXRJUUYzcXFYcTVVZG1SWl90eVJxU2JFQXdkOEFEdFIybms5TENBcXNpWXdvWURROXFHSzJwRHFCYmZDcURuU1Y2UGlaTFJwT00tbktJNnV2UdIB6wFBVV95cUxPTjhZaUVCZHgzWlJMdDQ5aVFpcGpzcmFvUS1wU1FJYVh1RkFZZ1ZWMm91WlNuMkxvcWpLVVkwQTR3S3Bmb0FBNTh1TFdSSFpvY2p3QndzODlnNXhTWUVKUmpxZFduVWdQN0Voa1g1akhIZV9TT3NrQ0UzTDE5d2thbXA4ZlFZQ1BxbWJaTk1mSGJERnFjLWllcVVaMzc0MzR5eFpRazkybkYyTmVTeHhyNUNTanZFcDVZdDk3cjFXMDhjYWpTR0swcEZYakVvVFVRcnB2S1p5ZVUwSmJwZFhvVmtYbklkNktBclJv?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/21 20:19",
+        "title": "主要加密貨幣行情，比特幣升1.79% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUIyT1BBQTAzdTdNZUVITEpEYy1iclgyZVREQVpUcFZ4R01RcS1pWVJCTFhfTkVQcXo5MnhvaTE1QjBWWnRHTHRySDVjdEdNWkJHNDVRVXdSVU5VNnZpWFkxbExwckEzSXV1bXpUYWwyOGQ0UU95dGdyNE15c3ZGbmJvUW5HY3NUc3lOdjlHTlNXNHM5NTdaSU9HSk92bE5X?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "10/22 00:02",
         "related": [
           "BTC"
         ]

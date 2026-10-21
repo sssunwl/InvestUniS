@@ -87,8 +87,18 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-21 20:30 HKT",
+      "updated_at": "2026-10-21 21:59 HKT",
       "news": [
+        {
+          "title": "【港股收市】恒指跌215點寧德時代績後挫逾11% 騰訊跌4%失守400關 聯想反彈近3%（不斷更新）",
+          "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxNbEFxcXlTOW5YUlhXMEw4UjQ5RS0xc0NyYWl5LVZQN0FhbGtCS1gwUzFxemFHeVlaeDEtSTdOQmEzcm1KYXJNRTZyLVNqcjRCOU5NNjZfRVAycDZPVG9fMjkwZmVpUFIxWk95d2wyYXJtMVdVZ3F3NkVwMEZBcVM3XzRmYkZpYjZOaks1aVhyLWJYN1RsYjViSmVPYk9pdUhsRHNpUE14S2pydWxsRGZvekFtUVJ6NDItd1JRM1pET3lvTEozV3FIQWRCU3VUR3ZvUFlPQjdTNy1rVGhXeTAwZ3VsaDE2MHZIRXlKaFJ2UlJ3NEZpOUZzdUt2cHhMM3M0aHlyRk9yay0yQkhsQnpvc2JldjY1WTZDd2VxVmZBWU5tQXB4WjNpbjg0SXdDSkpBVktvTWlzSkZXS3VLQmxHX3VkaXpSa0VMV1dUNXhLVGhuaktOVV9meWpOeExCU1JGVnZoajllWTdqWm5nSUhXY24waU0tWmhtRU9GbkZ0Qi12RDRacG15NWlXRjAtNmpVaHFla0xTOVp0NEtSWDFQXzlIWVBaSFVFN0VXbWJrQ3NPNGJwOWxpYmFJdUswRjFxTnEzNEtNb09sV0tQR1d3djc5clBBU2QydzREWENkbU5XdUlVT1drbjJBZVZBMl9jTjBpS0VNaGcyalpMVmVqekR4TjVPZ0NSbElkSDFnQ19QMVJnWUMtZ0xZXzFWak51WF94a2QwMnZRQQ?oc=5",
+          "source": "香港經濟日報HKET",
+          "published_hkt": "10/21 19:36",
+          "related": [
+            "^HSI",
+            "0700.HK"
+          ]
+        },
         {
           "title": "【港股收市】恒指跌215點 騰訊插穿400元 「寧王」再瀉11%",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TcjUtVEJ6aWJ3RGFPdUdpMDIxZ1BNa2lpRHdGVFZTazgwN3VYRWd4aUhZMlhsTGtKQWRjM2NkdDVtenZKRWc2VzdtOUM2eFNVUThEVGE5cTlXWEVpRlZBcXlNdGw2OUxzSThCNndR?oc=5",
@@ -101,18 +111,9 @@
         },
         {
           "title": "北水操作｜HSI持續下跌 北水6日流出154億|香港經濟日報",
-          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOTlpORmNwZlhZN3N5cHhXMWFXSEZfY29UeUZWUmltQUlFNmZXakV3eGFJWUh2c3FhVmRTM25VcFlOSDlMYnRvcGtIR2NxOGZObUtKWWhFU1d2blk4aVRCaUN6SVRfWVJpR0V4WGVKaHBHdUxrelhISDgtYkVEY1BzOTdoa0ladng4RnlaZVdzd05ZcF9WUmN6aTUwbU5DdFg1OS1yb1puUXUydTRsajA1Qkp1YWNMTlpfRENMV3FxQUNRN1dvZUVTMkxRTHNzQS1QczBVS1JjTVUyWU01MXdObjdUVzJWS2NKVHVJSWZVcHVSbGtQN2duRkhUSG9LUUJQS01QX0tjNjlydldtZHdzSDlIUTNaS1NxSTM4OU0ySXR2R0lj?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQZ0ZnRFUtWE53ZnlwMXJ3RVVNelp5R2xXaXRuNHNpb0owMkxyMTBrcjRadDdacjlKYjlndUlBdnJLWjVTUDFFOHNxSnhKQUhXZ01pOGFpa2I3Tl85YWtwb0dfQ0UwMGZtRU1WS1dmZE9oZXBrMnBqejJ6Z1FMY1BWWGJvakw1OTNnLTNWbm0xcUptVkpxU0xDMlNNcmxBTmpYNndSQ2w2WFdYREtpa2RMcUJYSk1xOTN6TGFxQVBUNTJaejJKQzZIQ182azNSMTd6bEVQMmU2eDlUU1libEpQSjNLZUtZaUJ0LWdZRF85aGVxb1dSc0FORjhVdEVrOTAzcWdVYzRSS2VqNkFBQTJqcFU4bkxOZTA?oc=5",
           "source": "香港經濟日報HKET",
           "published_hkt": "10/21 17:02",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "恒指走勢丨兩連跌再跌215點 寧德時代插11%",
-          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPVV9qMERCQ0dxMDFsLWFPbDV0UzlKeS1JZGNwSTFNd0s3bnBSZl8xb2ttWEVjSGpIYU5JU3E2cnVQbjgyTWhRTTFWWDdPczNSMTlCWExkbDR3dkJOZUsyNzNBTENJa2Q0RE1NU0JobFlkTTlVdTlEeDRxTHhKTURzcWVSQjRQRVZwRkNWYVU0b2lhVU5jeGtaMDNlRVJHa3pRZWxLc2FxVFpmTHRDbXhaNkpXNjB0bTV6RkU1QTI5YTdvemUtMEQzNC1lNzh2bWJTWG9KLUJqN0dUbUkxbE5RaHEzWXh2MWstTHR4UHRZeUxCWWJIY1hucExWSnRfQ3VGRndyT2h0UjktSTJ0cDFtNTVRUmNhaWlUNkg2ZGotSkFMTlQ4ZTE5T204dUl6OXhIVUVF?oc=5",
-          "source": "信報網站",
-          "published_hkt": "10/21 16:43",
           "related": [
             "^HSI"
           ]
@@ -150,31 +151,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-21 20:30 HKT",
+      "updated_at": "2026-10-21 21:59 HKT",
       "news": [
+        {
+          "title": "TWA00 加權指數- 🔥 台股狂飆594點！重返5日線📈，多頭反攻了？🤔 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3TTZRRkwtQkVQZ003empWOExfMEF2bk00ZjVpX09fVU9mRHlDWlU4ZEZtLTNNWDdORXlzXzBhVURaNVhzMkxycFQ0VW05QUVYQXYtNnZTRzM?oc=5",
+          "source": "CMoney",
+          "published_hkt": "10/21 20:59",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
+          "title": "TWA00 加權指數- 1021股市全威盤後選股- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wZExoVlVJaUxRU2IyYnVEWmFZaDloa1dFV1N4SGFXblBPZlo1bUt5c3Q4TzlONVBaZ0x2UEdUUWNTczFJZnVnNEFGVDd1dFRlMWF4SGx6ZGE?oc=5",
+          "source": "CMoney",
+          "published_hkt": "10/21 19:59",
+          "related": [
+            "^TWII"
+          ]
+        },
         {
           "title": "TWA00 加權指數- 噴到月底50000 - 股市爆料同學會",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RWjB2YlhHbVFGWmNYbzNsNnBBSDhGSlBUendIUnIzVktjaDV6OU02ZWNkMWRfcC1xRUxZY0NKLW01dUNGT1BVWWxvV05HQlh5YnlUcXdMR2M?oc=5",
           "source": "CMoney",
           "published_hkt": "10/21 19:25",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數- 外資21日買超前十大7電子笑嘻嘻金融獨寵中信金- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1NkNwSm1CS1pObTRmVGkzSVVyeE1fVzg4SERyamVZNXNoUkJUVmdHSkxvbWhkWl9IV0hCcmNUYWY2NmduakJqY3gwWVZ2anJXeXN4R2FnRms?oc=5",
-          "source": "CMoney",
-          "published_hkt": "10/21 18:59",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數- 現股當沖的制度課——資格、稅費與你少算的那一塊很多短線交... - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Rb2FZQV9BTV8zR1FJb184cnloWDJOdVRrNnNqSWtoUTN0MWo4bV82WjQ5UUdlVHN3dmswc1I4aEdfNXk2cWlUV0M4cFA0TV9maWl4cnhsek4?oc=5",
-          "source": "CMoney",
-          "published_hkt": "10/21 18:58",
           "related": [
             "^TWII"
           ]
@@ -212,13 +213,22 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-21 20:30 HKT",
+      "updated_at": "2026-10-21 21:59 HKT",
       "news": [
+        {
+          "title": "美股期貨走強帶動日股開高 日經大漲逾800點、AI半導體股領漲",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YS0gwdV9UTkNqV2lpX1JQS2pPQ2lCQlhraG1XWXV6T2t5SDlaclY0QWwwZzIyUGtsZTZDT2p5WmR1NVdBMVVKRXl0Y21hMnNUeUh6akNB?oc=5",
+          "source": "優分析UAnalyze",
+          "published_hkt": "10/21 20:42",
+          "related": [
+            "^N225"
+          ]
+        },
         {
           "title": "《日股》AI題材助反彈 日經收漲0.85%",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb293aU9EY0hCdG5nOHBfS190Rk04NEU0UWZZc0dDZkZiNDVVR1J1alVMY2NkM21qUzlrQW1IM2UxWWpiSU5pR1FkVUc4bTZ6NkRMWmFQRVVyZ2dhTzk5aXI2M05YWDAtVUhGYnF6OWVVbjJ1bE9SLWdoNlFyTEJZWGpjSzhrajhfOGQ2UXRwckczZw?oc=5",
           "source": "台視全球資訊網",
-          "published_hkt": "10/21 18:36",
+          "published_hkt": "10/21 18:37",
           "related": [
             "^N225"
           ]
@@ -229,42 +239,32 @@
           "source": "MoneyDJ理財網",
           "published_hkt": "10/21 15:58",
           "related": []
-        },
-        {
-          "title": "日韓股市集體收漲，KOSPI漲超3%，三星、SK海力士漲超5%，鎧俠漲近3%",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNEVzMHRfXzdJV3dOYzN0UFZHZ2ZPRV9BSTRPcUMwVnpoNXBGdEZTNWZTZWlwTFM0Z1BadGNrd2QzQzhWQ181bDhMU3hNMXhWSFlyV1BVMEtDeHFQV0FOMDlNeC16UzRzaXhEN0k1cDlvZ19lZUE1alRycF9jTzB2aERpQXdGVHpMTS0zMFhpQ2JuSWtzMkZVY1I2YXQzOEJpb0t6UXlhSlBMV3pNbG5ySjV6RTdlWTFGemFOR1pnS091REVXQVNONzBSbDg5YUV1aWt6eGl4UkluVkdZT09lQg?oc=5",
-          "source": "TradingKey",
-          "published_hkt": "10/21 15:24",
-          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-10-21 20:30 HKT",
+    "updated_at": "2026-10-21 21:59 HKT",
     "news": [
       {
-        "title": "加密貨幣隨亞洲科技股上漲，Zcash在確定升級日期後延續漲勢",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeFg2ZUtvQ28tUXpMMXNSd1dXRVVPUW53VnpHcHU2UExkc0h1d1VHbTlTVjBrOXQ1YjJ0Q1RvZjNQVDZ2Qkh6RzdjSWRHNFdGRVdrREZHTlN6R1pXTnExbElMQkdSc3VmaWZ1NWItd1U1aTFjR2dZcXJ5VmtsanlVQXZfeVNocm1qaE41SDdWekIyVmRRMl8talFPUnRMNmNZb28xVzJB?oc=5",
-        "source": "富途牛牛",
-        "published_hkt": "10/21 18:34",
+        "title": "不用先賣幣！Grayscale 讓合資格投資人直接以幣換股，涵蓋 BTC、ETH、SOL、XRP 等 10 檔",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WVk85dXN3cjFpUVRrTTVoaDNldjNHSlZaUDZSVlFBSmdGbmIxLTIxVGpTNmN3RjdRM3pQbDVqTTBWWXJ0MnJMZzIwMkpnQ3IxbXN3RldtTEtNNkFRbk9wMjRnSzBjUXV1MG05dFV1aWx2bmFhcFE?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "10/21 21:41",
         "related": []
       },
       {
-        "title": "比特幣、以太坊和XRP的拋售終於結束了嗎？",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSzVZSjJ3Um1kWUZHOG0xc3B3cHhCTFhjYUNtRnNJbEtsZHd1WU51QVhPak9kZXpiN2NFMmg5clEzU1lkYm1wZ2J3M1N5a1p6ekZlaUFrLUhtSnItNHMwbU4tOUpXRkp1NThjdTZLSWVERGkwVDlzdDIyUnhiYjBCNnJWcWVGWGRlS1NnbEJwUVd4NzJsMlZHZ2ZqZjQyVGw0MUlQTENFOFdXbGdOVUo1Y2lUTUdDOGNZcUw1UDUtUjI1ZnR1NWZwaEV4VjN5b1dLSnVuWVl3VTFTdW5BVTdZ0gHkAUFVX3lxTE8tZG5zU1d0Z3o3c3R1TFg2THBiTGJlLXFkSHdWREFHa1E5REtGdDd0SEFZbThReXJDVjlwTWNQNW4tR1JQdFU2a2s0bFp4YVk4MHhOMy02VlFKUlg2TzZVdDc1SEs5ZUFXaThBYklrNGg5dF81czh5UmxyeW1fZkNMLVV2TDNnNHVPVVNRc0FLd003b0FUOHEtYjBWTk1IbjZka00yUkc2RjRsZ0Z1aWRMc1had0xCSWlDS1l1b0lFLUZSZ25Vd0FjaV9iaFd5bW1lTm1LdEZ4LW5oRmdGVDhueWJ6Yg?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/21 18:25",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
+        "title": "渣打正式收購 Zodia Custody！五大合規託管子公司全入懷，數位資產基礎設施獨立運作",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQjlPeG5vdUU1dk5wSFVPaG5Sek9vTHNtX0JGS2d0Mm1RWjhrN19Kc2lPVWRUZ3AzMEZrQUJ3V0FHSVlNVjJaQnRTeUlBX0huV1B3b2g3M1g2bEhDMXd4ZVp1X21IYzA4QkZrSVF3ZnEwMnF2OE00YWNYdjVlaG1NQUozNjBpeXdDdTlmdGJ3?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "10/21 21:32",
+        "related": []
       },
       {
-        "title": "主要加密貨幣行情，比特幣升0.16% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXlrS1N4c25SN05BeGxpUnRHdGlDb0ZGc1l3LU1RZnVXV21ORk93c1hzb3Y4bEZjMWdHVWFhVElQUllXeFc1ZUJuYUFwalhmUG9sbDdZck92dE5zby1WVzVhWlFzMTUwQ2pqalF6TEtKVmYyclhlalp1RW9mVmNSSkZEZUVVMW1ZekxTbU1FUGVZa1Q5X0RZX25qalJtVmU3?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "10/21 16:02",
+        "title": "加密貨幣價格預測：PI、比特幣和加密貨幣——歐洲收盤綜述 10月21日",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNV2dEZS1lQUxQQlVBWE9tUGZ5clB0NEFZWW1tX2VXMHlkTmV1amNobWpnOU5zdkRrUEkxSUpNdkFqUnU1M3pHcWlxNzVGMjRKcUdwVnhiUHNkWDNPVDBPSGk5TG4zeThVcW8tMjRzNkJpTjJJNV9DS2ZTRGxlSWdMTHlMb3dYdjYxWUhKaGRJNnFMekhtbXRJUUYzcXFYcTVVZG1SWl90eVJxU2JFQXdkOEFEdFIybms5TENBcXNpWXdvWURROXFHSzJwRHFCYmZDcURuU1Y2UGlaTFJwT00tbktJNnV2UdIB6wFBVV95cUxPTjhZaUVCZHgzWlJMdDQ5aVFpcGpzcmFvUS1wU1FJYVh1RkFZZ1ZWMm91WlNuMkxvcWpLVVkwQTR3S3Bmb0FBNTh1TFdSSFpvY2p3QndzODlnNXhTWUVKUmpxZFduVWdQN0Voa1g1akhIZV9TT3NrQ0UzTDE5d2thbXA4ZlFZQ1BxbWJaTk1mSGJERnFjLWllcVVaMzc0MzR5eFpRazkybkYyTmVTeHhyNUNTanZFcDVZdDk3cjFXMDhjYWpTR0swcEZYakVvVFVRcnB2S1p5ZVUwSmJwZFhvVmtYbklkNktBclJv?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "10/21 20:19",
         "related": [
           "BTC"
         ]

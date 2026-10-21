@@ -87,7 +87,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-21 19:30 HKT",
+      "updated_at": "2026-10-21 20:30 HKT",
       "news": [
         {
           "title": "【港股收市】恒指跌215點 騰訊插穿400元 「寧王」再瀉11%",
@@ -101,7 +101,7 @@
         },
         {
           "title": "北水操作｜HSI持續下跌 北水6日流出154億|香港經濟日報",
-          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQZ0ZnRFUtWE53ZnlwMXJ3RVVNelp5R2xXaXRuNHNpb0owMkxyMTBrcjRadDdacjlKYjlndUlBdnJLWjVTUDFFOHNxSnhKQUhXZ01pOGFpa2I3Tl85YWtwb0dfQ0UwMGZtRU1WS1dmZE9oZXBrMnBqejJ6Z1FMY1BWWGJvakw1OTNnLTNWbm0xcUptVkpxU0xDMlNNcmxBTmpYNndSQ2w2WFdYREtpa2RMcUJYSk1xOTN6TGFxQVBUNTJaejJKQzZIQ182azNSMTd6bEVQMmU2eDlUU1libEpQSjNLZUtZaUJ0LWdZRF85aGVxb1dSc0FORjhVdEVrOTAzcWdVYzRSS2VqNkFBQTJqcFU4bkxOZTA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOTlpORmNwZlhZN3N5cHhXMWFXSEZfY29UeUZWUmltQUlFNmZXakV3eGFJWUh2c3FhVmRTM25VcFlOSDlMYnRvcGtIR2NxOGZObUtKWWhFU1d2blk4aVRCaUN6SVRfWVJpR0V4WGVKaHBHdUxrelhISDgtYkVEY1BzOTdoa0ladng4RnlaZVdzd05ZcF9WUmN6aTUwbU5DdFg1OS1yb1puUXUydTRsajA1Qkp1YWNMTlpfRENMV3FxQUNRN1dvZUVTMkxRTHNzQS1QczBVS1JjTVUyWU01MXdObjdUVzJWS2NKVHVJSWZVcHVSbGtQN2duRkhUSG9LUUJQS01QX0tjNjlydldtZHdzSDlIUTNaS1NxSTM4OU0ySXR2R0lj?oc=5",
           "source": "香港經濟日報HKET",
           "published_hkt": "10/21 17:02",
           "related": [
@@ -150,29 +150,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-21 19:30 HKT",
+      "updated_at": "2026-10-21 20:30 HKT",
       "news": [
         {
-          "title": "台股大漲594點！外資卻砍「這6檔主動ETF」破8.4萬張 「瑤池金母」慘遭提款10億連9賣",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41Vl9HcE9uSXJYNGYxZjByOEdxLXF2aHVzX3dSX1dyZWp6S042akFfOENNOTVQY1BDQTZ4MmoxbDdYakJEY2U3QUxmOA?oc=5",
-          "source": "FTNN 新聞網",
-          "published_hkt": "10/21 18:30",
-          "related": []
-        },
-        {
-          "title": "TWA00 加權指數- 發哥！！上調目標價5922 - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YYVd5RjU2bzEyOFJtSXhTVkJrSHdsdHNic3A2LUtpVmhyUkxiOXNlcWpYYUNQLXNhbU9kaldHLWFfZFd5RVBnY3hsdlNoX01feFNnY1gyalg?oc=5",
+          "title": "TWA00 加權指數- 噴到月底50000 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RWjB2YlhHbVFGWmNYbzNsNnBBSDhGSlBUendIUnIzVktjaDV6OU02ZWNkMWRfcC1xRUxZY0NKLW01dUNGT1BVWWxvV05HQlh5YnlUcXdMR2M?oc=5",
           "source": "CMoney",
-          "published_hkt": "10/21 18:08",
+          "published_hkt": "10/21 19:25",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "TWA00 加權指數- MACD與RSI——用慢指標過濾快指標的雜訊- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MNDBuU083TzEwdUtnZHVEX0JjZ2lUOWVHNzVfUjRNQldBR0ZENlNhbFFVbmluOWJyQ2xDWFJJNVhZYkFWOVZ6S0pjN2QtTERweWIxY0pxUTY?oc=5",
+          "title": "TWA00 加權指數- 外資21日買超前十大7電子笑嘻嘻金融獨寵中信金- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1NkNwSm1CS1pObTRmVGkzSVVyeE1fVzg4SERyamVZNXNoUkJUVmdHSkxvbWhkWl9IV0hCcmNUYWY2NmduakJqY3gwWVZ2anJXeXN4R2FnRms?oc=5",
           "source": "CMoney",
-          "published_hkt": "10/21 18:02",
+          "published_hkt": "10/21 18:59",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
+          "title": "TWA00 加權指數- 現股當沖的制度課——資格、稅費與你少算的那一塊很多短線交... - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Rb2FZQV9BTV8zR1FJb184cnloWDJOdVRrNnNqSWtoUTN0MWo4bV82WjQ5UUdlVHN3dmswc1I4aEdfNXk2cWlUV0M4cFA0TV9maWl4cnhsek4?oc=5",
+          "source": "CMoney",
+          "published_hkt": "10/21 18:58",
           "related": [
             "^TWII"
           ]
@@ -210,7 +212,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-21 19:30 HKT",
+      "updated_at": "2026-10-21 20:30 HKT",
       "news": [
         {
           "title": "《日股》AI題材助反彈 日經收漲0.85%",
@@ -239,7 +241,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-21 19:30 HKT",
+    "updated_at": "2026-10-21 20:30 HKT",
     "news": [
       {
         "title": "加密貨幣隨亞洲科技股上漲，Zcash在確定升級日期後延續漲勢",
@@ -259,11 +261,13 @@
         ]
       },
       {
-        "title": "Brevis 指標優先考慮速度而非歷史確認",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaDhoejEwMkFjb2VFSlhTLVFxZnUyREVTX1VxMk1EVzBQbXltaHlWZE00ZEp5WUpzanMxV2NsY1JVT1FGbTJ1WmRwR2RXOUpCbWhyQ1c0X1oxYk5rY29nTTNJTkZHc0M4ZE1aYWYxRmpJOGwxZWlQMFZ1T0pOQ3lMdXR1RW5kMmpSaU90blJxRzVLMDZjdUFr?oc=5",
-        "source": "OneBullEx",
-        "published_hkt": "10/21 14:43",
-        "related": []
+        "title": "主要加密貨幣行情，比特幣升0.16% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXlrS1N4c25SN05BeGxpUnRHdGlDb0ZGc1l3LU1RZnVXV21ORk93c1hzb3Y4bEZjMWdHVWFhVElQUllXeFc1ZUJuYUFwalhmUG9sbDdZck92dE5zby1WVzVhWlFzMTUwQ2pqalF6TEtKVmYyclhlalp1RW9mVmNSSkZEZUVVMW1ZekxTbU1FUGVZa1Q5X0RZX25qalJtVmU3?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "10/21 16:02",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

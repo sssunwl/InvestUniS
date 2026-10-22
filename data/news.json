@@ -246,32 +246,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-22 21:57 HKT",
+    "updated_at": "2026-10-23 01:53 HKT",
     "news": [
       {
-        "title": "加密貨幣價格預測：比特幣、瑞波幣和加密貨幣 – 歐洲收盤綜述 22日10月",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVmJxejYxd1FCM2piQ1M4UW5GaV9hSTN2NW44c3hJdVF5bVZ6TjBkVklZOFJFbFhGZ1ZaY2hWQUJsajNhSHhiWEp5UmxLazQ0TlE3MjFHaHJFTDFUbFV4eG5OSUdUNVIzQzZKMDF2MUUtTk9uZkpnOWdGaDVWY2hKZ0doTVA4U3BNY2Ywd01STVFZY0NRUmhaamdSWjJLYkpnbEM5MlRHOGFzR0pRaS1Rd0NGUVhNTmpCQ2h4MmFjLXA3NHhWYTVfYlBtLW5oZmxOMURycGpFeXpabW9XMWtYM1ZPNGJ1VWlLT3ZGNGppONIB9AFBVV95cUxORVNPcXl3UFNpaXdWQkFyT1UxM19lUTBCYll6Qk5QZlRTVVBtZGtrdGRRTEQ0d3ZOV0dnaFBWYzVlLW9odE9rNThKS2NhX29iS2p1WTEzT3FIZXUwRWU1WDZFS3YwVlJNa05STnBldzNWbjB4ZzBlcGVkSkJKNFVTYlFBMU11RDA1U01FQVZnamF2V0VOSWVvaW9lY0dzSDNVcEtvT3N6QnRudkxNVHFQbXRYdk5JWFV0TnpGNVZNdTNtSWJRNTluSGNUZE1jU3I3bGVTaHZwYzZ4Qkt2WjlmcnhPcXo4V0dSRWhfQmZabklmR2xq?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/22 20:35",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "為什麼比特幣、以太坊和XRP在ETF資金流入的情況下仍在下跌？",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY3ZjNTdiTTc3LUYwYzhyaXdrd1dvS2ZWaU5QVWRCcHlMY2ZnT3VIZnZ4QjdWWlZkQmNMVmJka3N0ZFgzLTd3Yi1PTUVCSExhZVdtOVNmaVVMNlNNUjhZQU0yM1RXcmtBc0hydDdpSEFuLXFxSGlsdnNQU09ucDNaUzN1U2g5UXRQaUQ2STNxd2x2SUlaUi1CYjNLY3BlcjhGWUgyZWJvMU9CVl8yTmdOZ2xwUmdzdDV4S0JjZG56SXJEZi0zb1RsZmZ0OFFnVTNLVmRzUlhoWdIB3AFBVV95cUxPVUEzQ0l2Mnd5aG1UdFB0cnAySnpCY1FMckJnTlJEVF9Uc3hsdk9xSndNYThLallrRzFFbUt0NHl3QThPamFZaXNMRF9QMml5WjEwUlpCRTNDYU9Cb0xna3FvbkltaHBNbC1URHhsbmdtTkszMWN4ellHVzd3MUFpaGZ1cVl0bUxjeHRHZUxrVnRCdFdxYk1jYmE1aFZMOWRoNG8wWHA3bno2OGNYb3FUT1VPR2hWMjhMbURrV2lJN3hVekV6Vnc5YUNDT0ZTZFBpaDFkaXFLVTFwVTU3?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/22 18:56",
+        "title": "比特幣下探 8.1 萬美元、以太坊失守 $2,400！多單爆倉佔逾 9 成，一日回吐 3,400 美元",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tQmlRNkZNTERkb3hicUpuRWJpMl94QlUyaGtMR3VOR3FiNVY4RE9MaHcxNjhpd3NSQzZPR1VxMzAzN1llRTJFOGhRQnREVXRQUzFxWm9BLVpPdEJPVDJfaXB0UVJWZDQ5TVR5ZFNoTnludVk?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "10/23 01:05",
         "related": [
           "BTC",
           "ETH"
         ]
       },
       {
-        "title": "比特幣價格預測：BTC下一步將走向何方？",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWm9xSlliMVQ5by03Z1JhSUllN1RDT3RLR0k2UXNFbVRWMTV2SFdQLUM2RnBIdUwzeEJRWUFfcG5jY0VGZ1JJd2w0NzNYSW1TXzJORUp4N1lBTGRBNGlkdFd4djh2RFZ6S3Q1WmJCak1EdXBPTGJkNk55WkRQc3BiYnNoTGc4Ry01WUhoalpiYW81ZVl0MmhBRnpuV0FvUmhmSDRwbVJXYXYzb2FqamN3UWRQLTY1bm5VUlcxaTF3cm9TNWRMRWFpVnp5V2pld01fQjNBR3hpTWZqRjVTMG4xNWZDNHBySXpJVzBj0gHrAUFVX3lxTE5ab3FKWWIxVDlvLTdnUmFJSWU3VENPdEtHSTZRc0VtVFYxNXZIV1AtQzZGcEh1TDN4QlFZQV9wbmNjRUZnUkl3bDQ3M1hJbVNfMk5FSng3WUFMZEE0aWR0V3h2OHZEVnpLdDVaYkJqTUR1cE9MYmQ2TnlaRFBzcGJic2hMZzhHLTVZSGhqWmJhbzVlWXQyaEFGem5XQW9SaGZINHBtUldhdjNvYWpqY3dRZFAtNjVublVSVzFpMXdyb1M1ZExFYWlWenlXamV3TV9CM0FHeGlNZmpGNVMwbjE1ZkM0cHJJeklXMGM?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/22 17:42",
+        "title": "金色Web3.0日報 | Visa擬25億美元收購Fireblocks",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPQlhDNU1sVUJPaDhSV2ZTc1hNUTU4Y015NXM5QWNXSTJjOE9IY2VuMS1fRnk0TFRlbjV0YXMxTUw0aVhiTnRDX2FKZEJ4aW8?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "10/22 22:30",
+        "related": []
+      },
+      {
+        "title": "10月22日更新： #比特幣ETFs: 1日淨流入：+5,766 $比特幣(BTC.CC)$(+$4.7015億)...",
+        "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOV3dEdTlxbnMweTdkN3FsbG82N3BRRExTY3FFREp0VFB2VG56clZXS1hZYkNkdHU4elVYbnoweGw4akxvZUk5bXZ0M3NUQTNnVXVCZHZZbFltcFJiaUlLQWl1bjNEbXRfb0xuY2tPOFZLN050SFNuMFNWMUFEWlNZQXI3MkM1T0hkN1M3ejFJYlBtMnpFRWtKYjJwcVFKbmg4cDNzVWxnWTJRdmJCcEdkaEdPZ0ZoMWVvUy1iMkN4eUlvdWZZRV9VVzFPbnhsUy1ZSzdzSUlPWVBwcjhqRVV2QW9KaHpwQkN0RXVYV0pIZ2lBakRvQktDaGZ4QkNUbk1yaTlPbTg3TEFyR0NESFRzbFpFU1ZDbjFfTzJfNy1GeVRBX0ZLR3dfaDB1b3lPTERaLUg5NWkzcHBJSU5rVnVXTTdLSlhtVDQtRVlickpZbHByMnBCWFJUd3ZTbUhIZmxLLXNCSG1Fa0hvMDhBbWJISDcwLWVMdE5BbTdBNjVCTDlTak52bWdfaGtLNA?oc=5",
+        "source": "Moomoo",
+        "published_hkt": "10/22 22:21",
         "related": [
           "BTC"
         ]

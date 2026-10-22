@@ -89,8 +89,28 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-22 19:30 HKT",
+      "updated_at": "2026-10-22 20:35 HKT",
       "news": [
+        {
+          "title": "【港股收市】恒指跌717點失二萬三、科指跌5% 阿里巴巴跌6%失守100關騰訊再跌近3%破底聯想挫近11%（不斷更新）",
+          "url": "https://news.google.com/rss/articles/CBMijAVBVV95cUxOS295SGN3S3RRQTh2NkkyMWFtNXdDZlk1SlpMbzlncXIyOGduQm5UTm5Ia3dxNkdkaDBZTjBIUHpmYzRlY1hwMWNHbWZneUxGMnlvSEdiUzB0WjNQVGR0SlVMXzVkTWxuTC1QVWg5MTFfT29XVjJQRkZzMjVGTDdTMlhHN2tTMFBvSDZBZVVPNU9Tc1FkNHZKVHhkTlpxMUhOc01kWVY3aW1oYldYeWxaWTN0by1oOWlGcHlSa193Ymp4V3lqdTIweUpZV1BxMFlSQ0V4T1ZhY0M1cWtNcUN4cVFyTTJqbHk4ZFZvT1lRMl9NeW5uRG5HalM3YkVFRDRzMm9NZTdLc0lIYkszZ3lZU0VPUS1wNTBFNzNVd09CWnZBNGlnekF6dHpQOEZVUExoR0xHaGhwWHFUMFhTTDJOMlAzNlZORTdJWGd1NDB2aE1IX1laOGF3SmhVTXU3S3prUGZ2MUhYdlpGWmpzd184MmRYZG5GNjFtc1BGSVJwZGFkSFRDQ0o4NkpJOWNkOHBvMXRxSDNxSW5zVy1WQUtIbnVOREdhYkdydHBrT1puV3hMeDVoNFhRWFVZcVl3Ql9CX1JoQWlyM0kzMHNuRW55d2tBdFc2NFZHVzVZZUFQTXpQeHNZazZjRmZsS2NhUFZnNUg5RW9EUjVabnJOckZwU1BBdlY0SVYyZTE4NUM3OXBLY053S1VNeldFWThWYjhRV2lOeWVOUEpXSnlRcDFZOHRTOHpuWHVOVDBlX3dQQ2RJQmZ1ejJZM01pSGZkNGg2RWx3QUZYNzJ0REVDSmdhRW5fNzk5WVQzcjNKa2t4R3E5TVVVR25SZk5tSVNsWFoyU2FyQmJyRHZ1ZFU3?oc=5",
+          "source": "香港經濟日報HKET",
+          "published_hkt": "10/22 19:46",
+          "related": [
+            "^HSI",
+            "0700.HK",
+            "9988.HK"
+          ]
+        },
+        {
+          "title": "【港股後市】聶Sir:恒指要重上23800點才可脫險",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMc1dVZElRUkY2clBNdXlKSHlpZVVNZmRxRlBmM19rQjhIYXlVQnhaSFU1RldheGNvYTJjdHczREhrQ3lXbkNlbnhvTzBfQW9GUkRjWGI0SWs2NmxkbFJZSC1meUJaTkU?oc=5",
+          "source": "Now 新聞",
+          "published_hkt": "10/22 19:22",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "恒指失兩萬三 分析：22518點不容有失",
           "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxORTJDR1BZZEtqOU5RVC01YXd0QXYyYkgyZDUyeEpMRWRBZl9ORjFPeGxuRUM4ZU5vdkc5NldBM0x1Yk5velRYZGlCdkwxMXIxVU5IbllNZlFHcW9GbE1RRERPTmt4Y082TF84b1lHRkNGd2pPaWgxRDhEN2NIcDAySmRjREdyWkQ5LXo4cXpWY0V6UzZiWjZSeXo3SmNiaTcwdC1zbE5zeUdGV09QMFZOUS1MVmdUSzJlYmRiUzdlNFowQXpSUXRjOG43U3Y0SC11QlFOQjJZMERrYXo1aUtjbUZ3QTZDd2ZaNzlvOFdwUE5JREhlUFhuVDZvSHdNREhiUkprNGxPUTdBdXZRaHgwSDZ5MXFrNnhaQjZnTQ?oc=5",
@@ -99,22 +119,6 @@
           "related": [
             "^HSI"
           ]
-        },
-        {
-          "title": "【港股「黑色星期四」】恒指瀉717點 23000關淪陷 阿里失「紅底」",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zWk1QcDlYUEF0MEVvX1dIbk5HMHphTmc4RW9nS19oeF84WWVtemU3RXVZaHBHcG9qczR3dGpiSEF1MVFUV2x6SjYxNHMtOUQtUWNYbHJjVWx5WUFyaVJIWmdQaTZLMVU?oc=5",
-          "source": "Now 新聞",
-          "published_hkt": "10/22 17:24",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "港股3日跌1200點 技術超賣|香港經濟日報",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTUU2S1hNMUR0UE1wUU9PVkpIVVBsUkdvVm4xaS1kZDF6Q3JGSGF0ckdHaks3Z2V0bzh4NFhJYnpiaF9JVVp3cTNUSHVtX0hnbkZVaEF0VnIwRlU0MHdsY1FQUktwdnplUFRxajFoMFQybHlJOWJFZUpJMHViRGoxYi1fSVdnVmNPRlA1SnVtNG9NX3JhdG5mOEVCNGt2UTBLLTRQODlaVFhGRnlWN09nTDFvRkFCWjlpOFdpR0xPc0gzZjJpRHBFd0hhOVl4bjRhVEt3b0pn?oc=5",
-          "source": "香港經濟日報HKET",
-          "published_hkt": "10/22 17:11",
-          "related": []
         }
       ]
     }
@@ -149,29 +153,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-22 19:30 HKT",
+      "updated_at": "2026-10-22 20:35 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數- 游庭皓直播2026/10/22(四) - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaNE1kdVNuaW5yY1pwTnpXdWdZMEtRYmplUXUwVnRlSDBXbjRiRlh6aXI4T3hXMWdnWGdfaGNTazQ4WTlpUXNTcDczSHc4SXc5ZkdnaVhLRWc?oc=5",
+          "title": "TWA00 加權指數- 神盾結盟法國處理器大廠，搶攻AI運算商機- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53OU04eUFoMWFoTUZhUHVMSjdVRGhnT2tGNGZCcjdtczVqUHNKUlBzaEN3aUc4dXNQSlVwclZsR0NYb3NoMS1iQzM4NE0zWmZ4WFl0U253MFA?oc=5",
           "source": "CMoney",
-          "published_hkt": "10/22 18:30",
+          "published_hkt": "10/22 20:03",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "外資颱風前夕捲款816億！「瑤池金母」連10賣遭砍5.6萬張 0050慘被提款49億",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5c2JJbG5wcW1yN3pVRGZ5bnAxM1hXTmV3Y0ZjdXI0aGdUVnEyaE03Rnpra3J2WHZQNlhEWXp3eVVabFFFdnkwUGJ3TQ?oc=5",
-          "source": "FTNN 新聞網",
-          "published_hkt": "10/22 18:30",
-          "related": []
+          "title": "TWA00 加權指數- 持續分析- Day 166 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3d2x2WkpXSkdlbzBRMUlOT0VGLTZTd3JUQ1pXR0x4X1kyWklBbXdaUVFDakhaQ0hEWVlWbEM3VEJxQXowN3RuSTF2cnNhX2RETkszLU9sRnU?oc=5",
+          "source": "CMoney",
+          "published_hkt": "10/22 19:13",
+          "related": [
+            "^TWII"
+          ]
         },
         {
-          "title": "TWA00 加權指數- 外資揮大刀！法人賣超1,001億元台股重挫846點失守季線- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FQVhXT0lNaUpHcC1XSG9VWXNpWTF6eEFycHBOM1lZaFVyX2NaX1JqelpKT09FcTBicG8yTnVWVWlnM204UWdaWXp5NHJiaThaR3ZsYmhwNkw?oc=5",
+          "title": "TWA00 加權指數- 為何開高走低? - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52M2dUUHR2bWlDb0hsbC1JVGJob2VOak1WRWxnVHpKTkpNcEpRdmFGODF6TzdsdkdibmpYYjJkZDdTN24tVlBaZFotV2syMGVzX0h2Wnc1UGY?oc=5",
           "source": "CMoney",
-          "published_hkt": "10/22 18:23",
+          "published_hkt": "10/22 18:49",
           "related": [
             "^TWII"
           ]
@@ -209,11 +215,11 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-22 19:30 HKT",
+      "updated_at": "2026-10-22 20:35 HKT",
       "news": [
         {
           "title": "《日股》AI、半導體走弱，日經收跌2.65%",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMUZTd2ZCUVc2V0tRNl9fY0g5bkJrMElrV3hFbkx0YWI1ck1MMk14bTg5RUxrNmMxOFpoZEE2Q1REOVZPaHo2VzNiaVJ2b0lhdVJtMnRtWThXMF80VGZYYjBvN1BTeUo3X0c4N3BrX3FSMWpMS1lxWGM2S25FOXlURDJUMndfNnZXZjd2UzhBN0ZwUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNnhYZGZ5eTVJVXZ4dlBhV2k2Y1RZQkdvUHliQVA3S09NU2lvRDAxOXM1QU1YOWpHVEtfa0FzSVJ4NXBDZnFtM1ZacDN3V1dYY1pzamJjYXBpQWt0SUdNRTJodnRRblZsN3ZCMTJaeGJWaTVGcmp5anVMZ3p4ZURVVlRENXhvOElEeFpPek56WktFMzZxU3ZiZlpqY1ZZWEhNdFUyd1VXRjBhMzg?oc=5",
           "source": "台視全球資訊網",
           "published_hkt": "10/22 18:38",
           "related": [
@@ -242,11 +248,11 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-22 19:30 HKT",
+    "updated_at": "2026-10-22 20:35 HKT",
     "news": [
       {
         "title": "為什麼比特幣、以太坊和XRP在ETF資金流入的情況下仍在下跌？",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY3ZjNTdiTTc3LUYwYzhyaXdrd1dvS2ZWaU5QVWRCcHlMY2ZnT3VIZnZ4QjdWWlZkQmNMVmJka3N0ZFgzLTd3Yi1PTUVCSExhZVdtOVNmaVVMNlNNUjhZQU0yM1RXcmtBc0hydDdpSEFuLXFxSGlsdnNQU09ucDNaUzN1U2g5UXRQaUQ2STNxd2x2SUlaUi1CYjNLY3BlcjhGWUgyZWJvMU9CVl8yTmdOZ2xwUmdzdDV4S0JjZG56SXJEZi0zb1RsZmZ0OFFnVTNLVmRzUlhoWdIB3AFBVV95cUxPVUEzQ0l2Mnd5aG1UdFB0cnAySnpCY1FMckJnTlJEVF9Uc3hsdk9xSndNYThLallrRzFFbUt0NHl3QThPamFZaXNMRF9QMml5WjEwUlpCRTNDYU9Cb0xna3FvbkltaHBNbC1URHhsbmdtTkszMWN4ellHVzd3MUFpaGZ1cVl0bUxjeHRHZUxrVnRCdFdxYk1jYmE1aFZMOWRoNG8wWHA3bno2OGNYb3FUT1VPR2hWMjhMbURrV2lJN3hVekV6Vnc5YUNDT0ZTZFBpaDFkaXFLVTFwVTU3?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVUEzQ0l2Mnd5aG1UdFB0cnAySnpCY1FMckJnTlJEVF9Uc3hsdk9xSndNYThLallrRzFFbUt0NHl3QThPamFZaXNMRF9QMml5WjEwUlpCRTNDYU9Cb0xna3FvbkltaHBNbC1URHhsbmdtTkszMWN4ellHVzd3MUFpaGZ1cVl0bUxjeHRHZUxrVnRCdFdxYk1jYmE1aFZMOWRoNG8wWHA3bno2OGNYb3FUT1VPR2hWMjhMbURrV2lJN3hVekV6Vnc5YUNDT0ZTZFBpaDFkaXFLVTFwVTU30gHcAUFVX3lxTE9VQTNDSXYyd3lobVR0UHRycDJKekJjUUxyQmdOUkRUX1RzeGx2T3FKd01hOEtqWWtHMUVtS3Q0eXdBOE9qYVlpc0xEX1AyaXlaMTBSWkJFM0NhT0JvTGdrcW9uSW1ocE1sLVREeGxuZ21OSzMxY3h6WUdXN3cxQWloZnVxWXRtTGN4dEdlTGtWdEJ0V3FiTWNiYTVoVkw5ZGg0bzBYcDduejY4Y1hvcVRPVU9HaFYyOExtRGtXaUk3eFV6RXpWdzlhQ0NPRlNkUGloMWRpcUtVMXBVNTc?oc=5",
         "source": "FXStreet",
         "published_hkt": "10/22 18:56",
         "related": [
@@ -264,10 +270,10 @@
         ]
       },
       {
-        "title": "主要加密貨幣行情，比特幣跌2.24%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbnRFY09lZmR2S2ZJaDY5eEdvS0Ryb1otMWlMdG80VUZKemJtZEJCU3NOWHdtdnNVMllFMlkyVmRnUElRc2JLTXZqQTVQaURWMlpZa00takU4NFRhekZtMVM2REpfUkpCTl9XdWFNS0RCVmtZVkZhQ241X09zUGJCbDJwdXNtUm1BbXF3UVlfMjRZZFpBUGhLUjVSMVpvbWRF?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "10/22 17:00",
+        "title": "比特幣橫盤兩個月 這些 DeFi 代幣卻跑贏大盤",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VZjZKZUpsWk5RVlZsOWxVMjVPdFFKempXU3Z1SjU5WlYyb0hlNWNwOVJqZmowY3JpVFc4d1ZYTVZPUlAyQWlKeGU1SzdraVk?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "10/22 16:30",
         "related": [
           "BTC"
         ]

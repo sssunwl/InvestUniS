@@ -246,15 +246,16 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-22 09:38 HKT",
+    "updated_at": "2026-10-22 13:14 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣升0.11%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEJMWldTRDVqYmRnbzFjLVA1WHJfcGxqOHhJb3FDRHh1NmdwWFFLY3B2QUhndnNncTNzX0pJZTVzT1FXc3dBTlM1SzJDNTdtOVdVMVp0ZnF3YXFVZ3ZtSW5PYmVzMkFuSW5XbzVCTHI5MFZ6RUdmclEtbEQ2MW12YjM5NHRYYWEtbWtUTmgzOGdFS3F3dDRGa0JhT1FtRjdE?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "10/22 09:01",
+        "title": "比特幣守穩8.4萬美元、以太坊收復2,470！貪婪指數回升至68續走高",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQYTVteGlHck0xeFhoNDJQNzNOS0RMYnBKNWRWS0U0cXVkbExZcjk2N2hJOFlleEtmZDBHTGRNSThGMnVJVHNnVHZjUnNMWmpDVFJFMFVCZlFENXloUDF6by05cGhhYmtxMnNKUHBsd001NlVKVXFtdkxwNnN1OFk?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "10/22 09:33",
         "related": [
-          "BTC"
+          "BTC",
+          "ETH"
         ]
       },
       {

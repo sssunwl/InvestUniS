@@ -27,29 +27,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-21 09:43 HKT",
+      "updated_at": "2026-10-22 09:38 HKT",
       "news": [
         {
-          "title": "AI代理當臥底 引誘詐騙分子上鉤 新創公司獲近1,000萬美元融資",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0RkZkb3F4bzExWFY1VDByWGVibVdNOVk4WGt1QVFpQm5UTzNPVG5fVEt5NGZkdUd5dGF3UVR6V3dZd2tHOGNBbTkxNA?oc=5",
-          "source": "鉅亨網",
-          "published_hkt": "10/21 08:58",
+          "title": "諾基亞 (NOK)討論區- 股票評論- 股吧交流社區",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yQ3QtVUh3N2pibEV2VHZoMjRLaWVIZ1VCalJWTUYwNGF0Zk9QX0JSMU5xbXpkUTFHbGdqRWN3V0VSR2hidU1pX1BGb2JObVZfaWZpNnd4MzhrLXNHYWdN?oc=5",
+          "source": "Moomoo",
+          "published_hkt": "10/22 08:40",
           "related": []
         },
         {
-          "title": "美股重點新聞摘要2026年10月21日",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04U2VTb1hoekFrUnJtOEtBY3A4RWRuYU9QNG00d21wQ1BCR2ExVFdfaDVaQkFjT3RnTmpYb2ZsUVRnbTF1STlrQkpjYw?oc=5",
-          "source": "鉅亨網",
-          "published_hkt": "10/21 08:00",
-          "related": []
-        },
-        {
-          "title": "日經指數下跌 ADR仍獲買盤青睞 武田與索尼集團領漲",
-          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOMTRpSmRtTFFxNEFjZHJzaGRLZi1Xa0o2Ym9WRlJ6N2NaSFdQMEptMWRXTW5feGtMcHNWTGk0MWRqc3NlcjZqNTc2QzRpY2FKX3psOXNiemNwN0Uxb3pEbXZSbUpnaWFRdHZlN1lTZ1FsRU8zTkUtTjc4dW8tREVDVzgzSHFGWWhxY2t6cXV4LWtoUFJWOW5rcTRLZ1RpTWMwY1k5bVpQMHpZXzkxeFJodWl2ZjVJRFFZNEM3cHlxREptalBOaEpZT1FiOS1HU1oyQ1BQbE1ja1ZfNlBTc3NMY19fbGl3YmpDV29Vc0NxV2lCYkY1QmlQQWQxd0ppSF9PZU5VWWt0OEF6ZFctbWR3YWlrbC1yWjBNVnpzeUUxMTN5TXYwTGVzNmhPMklqalNKOGt3TDZuNE43UUYwR2IwTS1WTEczMFR2b3c?oc=5",
-          "source": "Life 生活網",
-          "published_hkt": "10/21 07:52",
+          "title": "《美股》AI買氣改善 那斯達克指數漲逾1%",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSUJlRTdLZWt4TEo5dmNrdUk2RHZfYzlxRlRzeGRiLXF3OWp0NmMwLU5Ya09IMEZveXVhdE5NVHNkanl1X051SlZ2RGhBNElpVDJCSzZKTFlKVmtndktrSUNjRmV3SjFGUU4weWtjMHdmMXJjZXVIQUtIY2pmSWRxX2J4aXZuSnM1T1VFOXRORnRFdzlSREpNVXZLODM?oc=5",
+          "source": "台視全球資訊網",
+          "published_hkt": "10/22 08:02",
           "related": [
-            "^N225"
+            "QQQ"
+          ]
+        },
+        {
+          "title": "SpaceX財報驚豔美股全噴 台積電ADR上揚、台指夜盤狂飆469點",
+          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQQmQ4UndQWEh4Yi13ZlZYZzIxTUt2VnFJUHoycnpWNkJDN21mOG83MUF6OVpzZWJMUW9YY2gyaWlob2FTdFl1WmoweG5fZ0dlOFVTVDM0LUxIaG5CSVNqYW1URFNXczJtamVCS0plVkhKRUJGVTNqRHc2dkU4b3JaSkxtSjFEMHJtRFY0Y0lTMFdGTlBxaFp2ZzB0MWlWNXREd1V0SE14ME9ZTDRIMUlaamlITUdpeVpRZGY1dVFfZHhYSDIxWXFyQXVNR2J1cXVnamZZeUwxWUVsZ1BfNWh0YV9lNjZTSzl4NUYtaTJLZ0Y4ZElGd1hPakZ1YVZHSlJwNVA4ZUJlTU1kV3hOSks2UUFsN0g3dks2T1h0dk1SNUI0UDdzWXdvTDN4VzR4MkVPczJVZkVEN3J3UQ?oc=5",
+          "source": "Life 生活網",
+          "published_hkt": "10/22 07:59",
+          "related": [
+            "TSM"
           ]
         }
       ]
@@ -244,31 +246,35 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-22 01:56 HKT",
+    "updated_at": "2026-10-22 09:38 HKT",
     "news": [
       {
-        "title": "AI 模型 Claude AI 預測：比特幣 2027 年前恐飆破 25 萬美元",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yNjdaMUJlR1J1NHRVOElfRGVzNjZ4eF9DRUgtcDVGN01XNlMxVVFpdGFWSDAzMEYzMkppSGk3TW9oWDlLcmlBOEdhTWlScVNUN0E?oc=5",
-        "source": "蕃新聞",
-        "published_hkt": "10/22 00:32",
+        "title": "主要加密貨幣行情，比特幣升0.11%",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEJMWldTRDVqYmRnbzFjLVA1WHJfcGxqOHhJb3FDRHh1NmdwWFFLY3B2QUhndnNncTNzX0pJZTVzT1FXc3dBTlM1SzJDNTdtOVdVMVp0ZnF3YXFVZ3ZtSW5PYmVzMkFuSW5XbzVCTHI5MFZ6RUdmclEtbEQ2MW12YjM5NHRYYWEtbWtUTmgzOGdFS3F3dDRGa0JhT1FtRjdE?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "10/22 09:01",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "Bybit 進軍美國不自己拿牌！Ben Zhou 點名找盈透級券商合作，正面挑戰 Robinhood",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJWnhTb2prdWpuSHQxMlRqMUprZC1RY1h4dXJTQ0hBY0ZHVlBuUEZxN1ZWU1NWNmJ1dUJuazBZM0NTbHpuVGV4dXpBYXRKMDdDVEdBLTdMR0RTQkVqNGJSMndxUGV3NUJITVdOZ3ZZYnN1Q2c?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "10/22 00:10",
-        "related": []
+        "title": "討論牆 | XRP 領漲加密貨幣市場 比特幣以太坊齊揚",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BRjBEX2VEeDNVMy1jZlVfWHR5OWxqMFh4SGxKcXlkdEY0N3d5ZU84MXlxeEZyekN4NnhmVFdJcW5VRjRmS2xyY1M5QXlZc0tEaUlRSG5Tb3V3aWhUem1ja3dlN24?oc=5",
+        "source": "LINE TODAY",
+        "published_hkt": "10/22 08:27",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
       },
       {
-        "title": "主要加密貨幣行情，比特幣升1.79% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUIyT1BBQTAzdTdNZUVITEpEYy1iclgyZVREQVpUcFZ4R01RcS1pWVJCTFhfTkVQcXo5MnhvaTE1QjBWWnRHTHRySDVjdEdNWkJHNDVRVXdSVU5VNnZpWFkxbExwckEzSXV1bXpUYWwyOGQ0UU95dGdyNE15c3ZGbmJvUW5HY3NUc3lOdjlHTlNXNHM5NTdaSU9HSk92bE5X?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "10/22 00:02",
+        "title": "XRP 領漲加密貨幣市場 比特幣以太坊齊揚",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPSXptTzJpVm5ZOGlwbk5JOUdtYkVFWDRSQjk0LVlXM0tmRGNBSjdxZzBwcHRad1dCczZCMXhzWFZkdlNuRllFS1BsMm43S3NlVS1MV2hSRjFDSlg2Qm9weTlOV0ViZUM1UU9RUl9pd1dfUXBmY3BDN3FrYkgtYnRtTS1Eazd6Zi1aWjlJVVp2QkFrMDBJVmEwenhOZVMxX2pzZGRRS1oxb0V3SjRibl9jc0NkSEJHMjJIVTBnbU1UU3F4Ni1GOEZiQXBLY3puUjZtYkl2S2pVSUFBVE5ENXVsd3N6akpoeFpzQ3R3ZXRyNkRQcGxtdjNaX0xVZHJWYXY5N2xJdjRWakZ0WG00Ry0wbnd6TERPM282NlpTa0luZU0wMEU?oc=5",
+        "source": "商傳媒",
+        "published_hkt": "10/22 06:55",
         "related": [
-          "BTC"
+          "BTC",
+          "ETH"
         ]
       }
     ]

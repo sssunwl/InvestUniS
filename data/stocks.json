@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-10-23 22:00 HKT",
+  "updated_at": "2026-10-24 02:05 HKT",
   "us": {
     "stocks": [
       {
         "symbol": "MU",
-        "price": "$885.1",
-        "pct": "+3.34%",
+        "price": "$882.9",
+        "pct": "+3.09%",
         "dir": "up"
       },
       {
         "symbol": "NVDA",
-        "price": "$212.8",
-        "pct": "+0.29%",
-        "dir": "up"
+        "price": "$211.7",
+        "pct": "-0.22%",
+        "dir": "dn"
       },
       {
         "symbol": "AAPL",
-        "price": "$348.4",
-        "pct": "+0.05%",
-        "dir": "up"
+        "price": "$346.4",
+        "pct": "-0.51%",
+        "dir": "dn"
       },
       {
         "symbol": "TSLA",
-        "price": "$367.3",
-        "pct": "-1.93%",
+        "price": "$372.0",
+        "pct": "-0.69%",
         "dir": "dn"
       },
       {
         "symbol": "SPY",
-        "price": "$760.5",
-        "pct": "-0.46%",
+        "price": "$760.6",
+        "pct": "-0.45%",
         "dir": "dn"
       }
     ]
@@ -38,33 +38,33 @@
     "stocks": [
       {
         "symbol": "0700.HK",
-        "price": "HK$386.0",
-        "pct": "+0.94%",
-        "dir": "up"
+        "price": "HK$382.4",
+        "pct": "+0.00%",
+        "dir": "flat"
       },
       {
         "symbol": "1024.HK",
-        "price": "HK$27.90",
-        "pct": "+4.18%",
-        "dir": "up"
+        "price": "HK$26.78",
+        "pct": "+0.00%",
+        "dir": "flat"
       },
       {
         "symbol": "9988.HK",
-        "price": "HK$97.80",
-        "pct": "+0.46%",
-        "dir": "up"
+        "price": "HK$97.35",
+        "pct": "+0.00%",
+        "dir": "flat"
       },
       {
         "symbol": "3690.HK",
-        "price": "HK$71.65",
-        "pct": "+0.49%",
-        "dir": "up"
+        "price": "HK$71.30",
+        "pct": "+0.00%",
+        "dir": "flat"
       },
       {
         "symbol": "1299.HK",
-        "price": "HK$71.05",
-        "pct": "-0.14%",
-        "dir": "dn"
+        "price": "HK$71.15",
+        "pct": "+0.00%",
+        "dir": "flat"
       }
     ]
   },
@@ -106,33 +106,33 @@
     "stocks": [
       {
         "symbol": "6758.T",
-        "price": "¥4,137.0",
-        "pct": "+1.37%",
-        "dir": "up"
+        "price": "¥4,081.0",
+        "pct": "+0.00%",
+        "dir": "flat"
       },
       {
         "symbol": "7203.T",
-        "price": "¥3,105.0",
-        "pct": "+0.68%",
-        "dir": "up"
+        "price": "¥3,084.0",
+        "pct": "+0.00%",
+        "dir": "flat"
       },
       {
         "symbol": "9984.T",
-        "price": "¥4,276.0",
-        "pct": "-0.67%",
-        "dir": "dn"
+        "price": "¥4,305.0",
+        "pct": "+0.00%",
+        "dir": "flat"
       },
       {
         "symbol": "7974.T",
-        "price": "¥8,539.0",
-        "pct": "-1.84%",
-        "dir": "dn"
+        "price": "¥8,699.0",
+        "pct": "+0.00%",
+        "dir": "flat"
       },
       {
         "symbol": "6501.T",
-        "price": "¥5,562.0",
-        "pct": "-4.37%",
-        "dir": "dn"
+        "price": "¥5,816.0",
+        "pct": "+0.00%",
+        "dir": "flat"
       }
     ]
   },
@@ -140,33 +140,33 @@
     "stocks": [
       {
         "symbol": "BTC",
-        "price": "$81,852",
-        "pct": "+0.22%",
+        "price": "$81,519",
+        "pct": "+0.65%",
         "dir": "up"
       },
       {
         "symbol": "ETH",
-        "price": "$2,408.6",
-        "pct": "-0.03%",
-        "dir": "dn"
+        "price": "$2,405.8",
+        "pct": "+1.33%",
+        "dir": "up"
       },
       {
         "symbol": "BNB",
-        "price": "$747.0",
-        "pct": "+1.87%",
+        "price": "$744.2",
+        "pct": "+2.37%",
         "dir": "up"
       },
       {
         "symbol": "SOL",
-        "price": "$104.8",
-        "pct": "-0.21%",
-        "dir": "dn"
+        "price": "$104.3",
+        "pct": "+0.88%",
+        "dir": "up"
       },
       {
         "symbol": "XRP",
-        "price": "$1.32",
-        "pct": "-0.54%",
-        "dir": "dn"
+        "price": "$1.31",
+        "pct": "+0.28%",
+        "dir": "up"
       }
     ]
   }

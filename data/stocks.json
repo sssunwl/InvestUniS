@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26 14:50 HKT",
+  "updated_at": "2026-10-26 18:47 HKT",
   "us": {
     "stocks": [
       {
@@ -38,33 +38,33 @@
     "stocks": [
       {
         "symbol": "0700.HK",
-        "price": "HK$387.8",
-        "pct": "+0.47%",
+        "price": "HK$386.4",
+        "pct": "+0.10%",
         "dir": "up"
       },
       {
         "symbol": "1024.HK",
-        "price": "HK$27.76",
-        "pct": "-0.50%",
+        "price": "HK$27.60",
+        "pct": "-1.08%",
         "dir": "dn"
       },
       {
         "symbol": "9988.HK",
-        "price": "HK$98.15",
-        "pct": "+0.36%",
+        "price": "HK$97.95",
+        "pct": "+0.15%",
         "dir": "up"
       },
       {
         "symbol": "3690.HK",
-        "price": "HK$74.75",
-        "pct": "+4.33%",
+        "price": "HK$74.05",
+        "pct": "+3.35%",
         "dir": "up"
       },
       {
         "symbol": "1299.HK",
-        "price": "HK$71.05",
-        "pct": "+0.00%",
-        "dir": "flat"
+        "price": "HK$70.85",
+        "pct": "-0.28%",
+        "dir": "dn"
       }
     ]
   },
@@ -140,32 +140,32 @@
     "stocks": [
       {
         "symbol": "BTC",
-        "price": "$79,944",
-        "pct": "-0.66%",
-        "dir": "dn"
+        "price": "$80,345",
+        "pct": "+0.18%",
+        "dir": "up"
       },
       {
         "symbol": "ETH",
-        "price": "$2,314.1",
-        "pct": "-1.23%",
-        "dir": "dn"
+        "price": "$2,328.2",
+        "pct": "+0.22%",
+        "dir": "up"
       },
       {
         "symbol": "BNB",
-        "price": "$737.5",
-        "pct": "-0.65%",
-        "dir": "dn"
+        "price": "$738.9",
+        "pct": "+0.19%",
+        "dir": "up"
       },
       {
         "symbol": "SOL",
-        "price": "$100.7",
-        "pct": "-0.72%",
-        "dir": "dn"
+        "price": "$101.5",
+        "pct": "+0.88%",
+        "dir": "up"
       },
       {
         "symbol": "XRP",
-        "price": "$1.28",
-        "pct": "-0.92%",
+        "price": "$1.29",
+        "pct": "-0.15%",
         "dir": "dn"
       }
     ]

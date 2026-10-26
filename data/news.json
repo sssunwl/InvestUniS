@@ -27,27 +27,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-23 09:40 HKT",
+      "updated_at": "2026-10-26 09:22 HKT",
       "news": [
         {
-          "title": "市場投資人難以被滿足，科技大廠資本支出變化引發美股科技股重挫",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX2FyRk9NN3dMdG1PakFoVklGa1ZVeWhBWG5XZ29pTVl0TFVJX0NmYzZFSHF1TlZmcmRXSXZ4MnI2ZGFmMTlVOTNkYnU3WGVRWFJrUDZzOWRtSVVrUThESmt6YU1YTFNveU1USVpNbWs1dFFVTzhLUGhJRW1SM0FWM2F4Vk1QOFozMHJBWXVJT0RqUVhWOFZKbUdpQjQzN3pId3ltNjhmemZDVXhGTmtWU0d4b0Fzb1hlcWJUUFVQUDZ0dS12eVA5Qk84X0FBUUVqMFE?oc=5",
-          "source": "TechNews 科技新報",
-          "published_hkt": "10/23 09:01",
-          "related": []
+          "title": "馬斯克稱SpaceX敲定400億美元債務協議！用於採購輝達AI晶片",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE95OFFIcjI3VWN4VlRiUE82RUpBZGlzc0xHNjlqcEJValNBaWpLMUZEWGpTUzR0SjdHaWVPeVNGRTllcDZ1M2I3cW03Yw?oc=5",
+          "source": "鉅亨網",
+          "published_hkt": "10/26 09:20",
+          "related": [
+            "NVDA"
+          ]
         },
         {
-          "title": "看好2027年美股！避險基金大亨艾克曼：若戰爭與通膨降溫 市場將迎來強勁一年",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LNjM2OGRsUkVxbnJkamJHMmNET3BHWHM2RHYtbkJOZnBiV1B3RUZuYmJDY1ZMOF9RRS1ETWFlUTg5T1ZyZjB0aktCMnpFOEE?oc=5",
-          "source": "鉅亨網",
-          "published_hkt": "10/23 08:50",
-          "related": []
+          "title": "美股超級財報週最新登場！雲端巨頭千億資本支出將牽動AI供應鏈與台積電-財經焦點情報站",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ1hEMk5IMnJjSDVQTE5rNDhJdDBCT0lGaC14TWpSY0RNUU42czJxRnIwSjNwbm5ldGlMaUVFWEFMWFRsZ1JadTBuMWlUcC1tazBCQUc3dU9KUU5XZ0hsb3YzUnRyNFktWk9udmhDeGpKeE1PNGRhQ2VNS2dsNGp3cEpR?oc=5",
+          "source": "CMoney投資網誌",
+          "published_hkt": "10/26 09:09",
+          "related": [
+            "TSM"
+          ]
         },
         {
-          "title": "美股重點新聞摘要2026年10月23日",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKdG9PeDVTdzU5a2dwMXBXdGpHN3NNbDVtYWRJdjJnZTB5d1JGUWdHY2xBeUo0ZF9Sb0hBUTB3YWlMNEFXOW93VWw3S09ITGc?oc=5",
-          "source": "鉅亨網",
-          "published_hkt": "10/23 08:03",
+          "title": "TradingKey 每日市場簡報：金價跌破4000美元，油價回落，馬斯克稱SpaceX融資400億美元",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOElzeHNuOEp4eDNlR0hlN2QxX1ZBc2dkVnNGLUNWYWhNRURzZTV3NTBfM2ZHUHoybzZuUXpSLWFRSjI3UXg2eE1rZnZ6UHhWWGtMZTM0Mkc3OEMzVkNvTldoc1BXc0pWeHBKSWpSMUdBcE1jVGc4bGFzRy1qUW9rNnNjRG5BUFBaMVdvYWh6SG5VNnN1SjFzQmhhVVlBdkhDcUl2WVZSRDNFam5CYlYydXVyN0p2amdmd1IycG9aQ0dmZmNjenVyQlpMeU8?oc=5",
+          "source": "TradingKey",
+          "published_hkt": "10/26 09:07",
           "related": []
         }
       ]
@@ -55,32 +59,30 @@
   },
   "hk": {
     "pre_market": {
-      "updated_at": "2026-10-19 09:25 HKT",
+      "updated_at": "2026-10-26 09:22 HKT",
       "news": [
         {
-          "title": "搏拳實錄丨恒指喘定 市寬尋底",
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVmFIS25WRFcwbTcyVmxTak1DcWwtTkl2T0pzQklUVm1nSjhYbHBBMVFaS0h0UnNCVGhQQjV4aXJDREJVMmduXzZUbjlLeVk4M1M1SkNsSmc4S2xTN2w4X0tNWEtOZGZEcVdXay1kQm9Ra1VXcjdXQlNiLXpIdE1feUd3ZmVnVHR1X1I4SW51Um4yMS0yY1RsbFpxTnBPaEhINHJ5SkxhcHVtbzBhVm5jUHBibnViR1A2WE5ZSEhycV9IRDBxUi1idUd3emJ2LWJOMkIwcGJYYkNGR3FjSmdwSGlzM0xSNHAwbzJKS0Y3WDVXSWZwdVJIWlVkdzQ2R2VUdVNN?oc=5",
-          "source": "信報網站",
-          "published_hkt": "10/19 09:08",
+          "title": "【港股市況】恒指黑期跌14點 網易ADR高港股2%（不斷更新）",
+          "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQLXFXMnR0RUExcEZqWFZZeVdWdW5mT1Z0T1hIWTNzYnowTmYzVlN4bUJiVlFucGZZTzZNZmpUQWJjSGlTdVNMSmNTSlJLbHdNLXFfMjVIRW5MZ1RZdDQzbUY0VnhuWVdZaUlHc0dpRldxNGVaYVgwN0NyRHVsUGwxc3NLdk12am1RclpfTDBhbDRvMXlHZjFOMk9BTU1CN2JUSHY2YkhWb0hXalRzUk5NR1ZabFhIZzg0M3I0Ulh6LWZseTBoejlNR2ZOYm8xOUowQ24zbWl2dGdGb3NLaXEweDdxS0dueWZqUkZCSUQwWFcyYjJ3clFnRTlxbTYtZkhDX0xQdkVVa0JvT3pnMnhWM1VEOVVINEhIc0JWMHc4MDdETXRkM1l3aFlnUHhWdzFNVGU0N2s5VzNDdWtOYlMzUEJ2V2tPXy1qN2NxSnFHWTRETTZqTFV4VDlONGpQeXVQOUdWQXJNaWphRDZzZmV5d1lHbDQ0cXZqdGY5VW5tQk0tTUZaV19z?oc=5",
+          "source": "香港經濟日報HKET",
+          "published_hkt": "10/26 08:52",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "美股｜美股上周創6月來最大單周跌幅 本周焦點聚焦科技股業績",
-          "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOYmJwTDNJV3lWNnVMcHhreElKc3F1QmVXTm5FQUY5NzdvQjN4WXRvWUdGMWNqamcweGUzUDR1YTItcGxxOUpndFRuanZqTTN2a3VyTEUwdHM4VU9RNGlKdFR5bjdsTlJpcFYtRWFSWjVsbVdFSGtpdnAwQjVWclFUd0ViczIxakk2R0FqVlZ6UkNFSWtWMlcxcmVfeXNrQW8ySEZvTF9OOF9SOHpsY1BwdmFCWjI0cU1XUFhmMU94enctYkUza09Hc1pndjFBdFhOWFJQY0FQV2E0M0pJSGh3RnJtVVREWEVWU0lVc3hrYzR2RG5GNjFCY1N3Mzd1ZWkyWlVuQkdOaHlQOEd4VDhDTGxGcWNWN1J0RG5NN3c2ZUtSZ3UwZUxBZ1R1VFZpOURiWHdVTmNHUFg1akpJQWk1bEktcl93RGhMTlhQYThKb1NjVk1KS1pZZE5aVEVYbDNpUFIwRWlOWW1rZjVrcXRoU3ZJT3NwQ2MzQ2VRelhwVEpEUGYxNFZuclYycGFnMW5sckNXYTBJdUJndw?oc=5",
-          "source": "Yahoo 財經",
-          "published_hkt": "10/19 06:00",
+          "title": "夜期高水17點 美期升亞股個別發展 中信証券等業績 (08:34) - 20261026 - 即時財經新聞",
+          "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOdEctN1E3aDRUREdNVVhCX09lXzZpOHdsaFl6bTZzRjQ5T2FVWUlvNkltZ3gzYUM1Wnh2VVEzc1VEY05lMVQ1R216cmVwNjVCZ1NHdkdtSXh0MGFwR2o4R1g4YzFBcUN5bW9TMkZ6T3BwNDFWVFFFLWJKeUlrYWxDUklzYXo5Z3U4N2MteHpNdDVDanVmR08yclZmZmJybkpIM3VXR296aVU2dmFzVDBROUx2LWt0Q0dPNERGM1QwOE5fMkVQLVZIc05aUU0ySnQ4Z1hDN01jNlcxRzFxbWpvMjQ1V0t5OVdSVlI3elRYcldxOWt4T3ZsOXY2TVhBNWZWM3k0UXlybVBCcG5sazBLelJtaUtvdlBJTUNUajVWemhYcDA0QzVNNWtzSE9iN3JHY2ZQd0xRbWVVcThBVUEzNzJYcmdKaDdfd2xvNUFMemY3cjJUeGlPcVV5MktFTjlSZzNJOW5uWDR0WWg1MlhDOUhwbw?oc=5",
+          "source": "明報財經網",
+          "published_hkt": "10/26 08:42",
           "related": []
         },
         {
-          "title": "美聯儲下周議息 恒指或下探23700點",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KZzdJMk1wdklubTkzNVlsYnY4eVJzRWZKMTlxM0VkS0RMU3cyMk9zRWlucU8zV1VldjVMT25fOC1YV1BqcFJYcU4wVklfYllKSm1Pa2cyeGZINHBpUm9WTDRXYmdoWkhIQm1wLUJnQ19HTnVYVnBF?oc=5",
-          "source": "香港文匯報",
-          "published_hkt": "10/19 04:06",
-          "related": [
-            "^HSI"
-          ]
+          "title": "中信建投：趨勢性修復仍需等待確認 預計港股以震盪築底爲主",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNHoxdFNIT3otOENlcW4yLWVCN3BKRVhQUl9TblVJd2FsSTdvbElfNUZlZEpHVXpWMjNrX2F6Y3BlR2ktbU9FMks2U0xCc3ZoMXFRd2NRZTR5a0V4TUZmQVdqdEM3ZU5HNUVCZkxaMy1GbTIxbzdNMlhRR1BrYzFtV25hZGV5ZUNFOU50aEJKaEdfU0FmTExoRjgxMktLeXlNbXg3Rkg1bmZJUlhfclNDT29RRQ?oc=5",
+          "source": "富途牛牛",
+          "published_hkt": "10/26 07:52",
+          "related": []
         }
       ]
     },
@@ -234,32 +236,28 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-24 01:47 HKT",
+    "updated_at": "2026-10-26 09:22 HKT",
     "news": [
       {
-        "title": "午後交易所交易基金走低，美股漲跌互現",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZENtSENsZ3VfRnViTUlsTk1vNXFEQjUySUVVbDhzblpkeUlfLVJsbzVSRmJ1S0Q2QTJOYmV4cXhpd2x0OU9oUGFUVElsWkZ2S1NGTXZxaURMZzhNREphM01Cc0w3ZWtwYWFOQXdBY2VkMHJQSU9QaE0zVUVNMUJBUmN5VDE3TmJVRHBuWkxsS0VEd2hLX2s5cUd2UV9iMlFKdDcw?oc=5",
-        "source": "富途牛牛",
-        "published_hkt": "10/24 01:26",
+        "title": "以太幣(ETHUSD)10月26日突然下跌1.03%：市場行情在交易什麼？",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGQ4Nmw2YzB3ZGM3eWxjRW9QWTZUa2RXWEJSMlVYZS1JVjRCWDNhbGE3bk5QM2RGbDJxVnVFTENONXc1Z25NbEJMX21YdWZER2JKajdUdnhhMTFfRmxhLVZiR0E3R0daRmQ3dVF5RTg4S0hBeXVJNjNyNXR1M09Md3ROUlpyMDNJQXJ1YU0wZzJKd3UtUllVMA?oc=5",
+        "source": "TradingKey",
+        "published_hkt": "10/26 08:50",
         "related": []
       },
       {
-        "title": "主要加密貨幣行情，比特幣升0.27% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR25XNGoyaXhvRXQxS0pKZFZhUTAwVmtaOFZfSzlDYThlZnczY293ZHZjS0c3Uy1GSHJ2bEU1aXBka3RsdzlyLUxESldVdTdxWTRGVHdweG84V1VTWmZ2UWhjSF9nM0xFLXV2eGpJZVFkR01lZVlQR2xHMElZdTJacUI4c0pEbGhGLXpDSlUxdVJ1dmdHMXhYNFQxVjFNQW5j?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "10/24 00:06",
-        "related": [
-          "BTC"
-        ]
+        "title": "BTC 守住 7.5 萬防線，60% 市佔率下的市場分化 作者 智通財經",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HcVB3bHdMT085TGtpcjNtNWRwQmdMM2Z4MzdfTWE3aUYzRlFSZ0k3Y3BQcDhtbFJvbTdfTnJnTjg2aG9JYlRnc2hucXBMY3hnTV9WZ19SSUtpcUNYbHpGQ2lHX3ZrVEZ1Z3BjbFBwNkw?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "10/26 08:48",
+        "related": []
       },
       {
-        "title": "比特幣 vs 黃金：隨著美國S&P服務業PMI放緩，BTC在82,000美元附近小幅上漲，XAU測試4,000美元",
-        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQaWNtendXY2Y4dWNWdnUxcUtaNDRoTEdZaV9NYjhiRW41aDRUZTJDME4tTHhscnIxeVN1eklWZ1I1WmxoMjVLQ3dzbk4wdEVDUXgxbGFnZ0o2Y3VydmJIekdTdVdhODctVnFIY3JZVmh4V0FZMTc0dy1WV1VxZjk2UFItWi0xU3hITm5ZRmJTLXpGc2N6WW1aNldtLVZPVUxOVVQxdWFMa1BiRS1nYWhjVkpCcXpVd2NsWEFfa3lTX2ZjRmhwV3oxUTlnanpad1dwcWJScldmb0lEcmEyd3BRemstYVRxVVZKa3laMEhwZE9nY1dRZzh4YnBGRjhKZnZCZy03ZEhSenI1akQ0M2NqTkpCd2JqTFpTXzQwQmVKeUp4QdIBpwJBVV95cUxNTGJBdFpHa05aYkpudUVOeGdnbkZLOEJvRm1yM2hjcldRSE5qX1J6eXpMNlRxSi0xekpQdjJ0ZWxHZVF4MmZvenI0OTVvV2NVUnJSMlhsaEhWRjV4dm5hU185M2NSZHNzU1JQV3dyN0EtN3g3ZmxEV09DUmVtb29FbV9FNUI0cHpMSkdhekpVMjhqTjZKaUxrSHV3ZWxjUEhKUV9IVUZIcnBqSmI4VS1lY1V1NTl6SllvWmo4UVpCTk5iRmNvdzU1aHd1d3R2dEl4X21vVHFNQ3JOa2ZiOXVzbmJDYjFTSzU5b0lDYmdTaHBmeURYSG01YmlSbjRsdzF5T3pMY1FhVnJoZHc2R3l6d3ZYZHpPSTdwYkhYOTVVNWVZaUFIX3lB?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/23 23:25",
-        "related": [
-          "BTC"
-        ]
+        "title": "BTC 跌 8% 引爆 MSTR 財報季，Coinbase(COIN.US) 獲機構上調目標價 作者 智通財經",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UOVgyNi04TlNVTkp2a19tUEx2dmxmNjR1Qlo4TGpmR3ZHb0JNZ2pHS1VBT2FjZUpOR2I0YlFPempITmtxZXo1Wll1UFNSV0dIcmJtYVUtLW5Jak9oNVZ2M0JWRFozbm1sRW0wOHdscGs?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "10/26 08:48",
+        "related": []
       }
     ]
   }

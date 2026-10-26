@@ -236,8 +236,17 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-26 13:10 HKT",
+    "updated_at": "2026-10-26 13:41 HKT",
     "news": [
+      {
+        "title": "主要加密貨幣行情，比特幣升0.03% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcVpueU9QQTZPenlQQkd5ZHVkblBPaXFfYmRZOFctY1pScDBaLWF6eDIybmVndDAtSW5PUVVqWExWSUdUTWVuSmhmUk9mSXhpOE1iNW5mRXpVT2wwZkQxOTJ3WVhSSVVjb0x4S0VJV1cwalR5Y1FNMFg5RUNldVdFU1lqbUpLUXh6VDV5ZEtMclZJTHBpRmVqOVdydzZTd2JO?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "10/26 11:23",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "前3名價格預測：比特幣、以太坊、瑞波幣 – BTC跌破80,000美元，ETH和XRP空頭占據主導",
         "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPbE9kQmp2Qm44UXhyeWJVa0dWb19hWDJkMGU2Z21na0lUcjF2dFFDY3pJOTBOTVJNWjJPbG9CMzJtMVRhTGpXVWlWZVpJU0lhaktnaC1SQTQyM2tFaFAtYk5IUWVtZnU3OWlCZEFTZkFyRnQwXzJfNTM0ZU9tRXRlZl9hM3p6YjlwYk1pQWFxWmIzanlBWmtJb0swZF9Wd2RUY2hjQ0hzRHV6ZmJpYUR3LUphLXBwNzBMbWl1UHF1VnhnX0dvcEZzWGptRFBNSV9SemRjLURYVHBwM2FXYnRrSUVzSHRwTWdkN1pfUDBPakRydFdMQTZzM0h4a1BRRV9NWWfSAYcCQVVfeXFMTXd0TmxVUGxFdUIxZURyQ2tBNmVER0hSb3R5c2IxMDFIR1FUSjlYUjRGU3Rqd0ZnU0xfNTZaQ1VORkJYSlBmWEZoNzNyLTFpZ01QdDZIRlhDeW1BTWgxZ0FYZWtJMmQ5REwwY0pwUnFRTzA2LTg1RGZLcXFjdlV6cndSSnZNcExqYnplTWlDNGlEQ3B2OTZsM0RlLW11anlJTGRkWEVGOHc0MjlNUTh5Z1N1Sy1tQl9fWHFhaW5qOXdjaFRYWFZ5WjNQbGhWY05RcnlYbVpZb2MyX2hlRVFad2tveV9nWGJ5ZkpVQy0yclFTUktWemVRbEtsV1BNMGQzUjNCcmtyX00?oc=5",
@@ -253,13 +262,6 @@
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdzFVSF9jZl93WlBFNXpXZ1hPUHM3ZUdmZExHX1FTUjBPbVYtRzJzNmlCVjRCWEpoNHRJaGhEdXQzVTd3eDdaQmstSGx2MmZJai1VYmpNT1ZYdEFzOGpwTHR6MktYcUhqMkJROVk4WVdNM2tWZ2w2YzBmTGpBNW9Tb2NzMVpSdzV6cHNVdlEybkp2UWRMdGVnbzBfNTQwcDlwUHR2LTFaY3NnUEpZb0lybkhaalJmZHRwM0dydHJyZk5QWDhOc3ZOSm5RUnJIMlhiRVEzNnVuZEhnb0d6TlpJeDdzSjVwcUlla3dvdG9Ma9IB7wFBVV95cUxOdzFVSF9jZl93WlBFNXpXZ1hPUHM3ZUdmZExHX1FTUjBPbVYtRzJzNmlCVjRCWEpoNHRJaGhEdXQzVTd3eDdaQmstSGx2MmZJai1VYmpNT1ZYdEFzOGpwTHR6MktYcUhqMkJROVk4WVdNM2tWZ2w2YzBmTGpBNW9Tb2NzMVpSdzV6cHNVdlEybkp2UWRMdGVnbzBfNTQwcDlwUHR2LTFaY3NnUEpZb0lybkhaalJmZHRwM0dydHJyZk5QWDhOc3ZOSm5RUnJIMlhiRVEzNnVuZEhnb0d6TlpJeDdzSjVwcUlla3dvdG9Maw?oc=5",
         "source": "FXStreet",
         "published_hkt": "10/26 10:58",
-        "related": []
-      },
-      {
-        "title": "融資週報| Mural完成1500萬美元A輪融資，Tether領投；AI晶片初創公司Tenstorrent完成15億美元E輪融資",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc2RjMEhwY3RRc01zY2tuQlR1ZXJTbXhRdHVDSzFUQ3I2cDB3cW4tNFhaQXl3UkdqQkcteFp1eUU1R0ZRa3BveHpVaUstMlpXTnBxQXBnR25oNEFLb0pfWjRpdUxCZDZTd2t6ZlJkOXI4TldmajB1QkxHWWg5QUFpUU9qeVZKZw?oc=5",
-        "source": "PANews",
-        "published_hkt": "10/26 10:52",
         "related": []
       }
     ]

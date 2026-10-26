@@ -236,27 +236,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-26 09:22 HKT",
+    "updated_at": "2026-10-26 13:10 HKT",
     "news": [
       {
-        "title": "以太幣(ETHUSD)10月26日突然下跌1.03%：市場行情在交易什麼？",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGQ4Nmw2YzB3ZGM3eWxjRW9QWTZUa2RXWEJSMlVYZS1JVjRCWDNhbGE3bk5QM2RGbDJxVnVFTENONXc1Z25NbEJMX21YdWZER2JKajdUdnhhMTFfRmxhLVZiR0E3R0daRmQ3dVF5RTg4S0hBeXVJNjNyNXR1M09Md3ROUlpyMDNJQXJ1YU0wZzJKd3UtUllVMA?oc=5",
-        "source": "TradingKey",
-        "published_hkt": "10/26 08:50",
+        "title": "前3名價格預測：比特幣、以太坊、瑞波幣 – BTC跌破80,000美元，ETH和XRP空頭占據主導",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPbE9kQmp2Qm44UXhyeWJVa0dWb19hWDJkMGU2Z21na0lUcjF2dFFDY3pJOTBOTVJNWjJPbG9CMzJtMVRhTGpXVWlWZVpJU0lhaktnaC1SQTQyM2tFaFAtYk5IUWVtZnU3OWlCZEFTZkFyRnQwXzJfNTM0ZU9tRXRlZl9hM3p6YjlwYk1pQWFxWmIzanlBWmtJb0swZF9Wd2RUY2hjQ0hzRHV6ZmJpYUR3LUphLXBwNzBMbWl1UHF1VnhnX0dvcEZzWGptRFBNSV9SemRjLURYVHBwM2FXYnRrSUVzSHRwTWdkN1pfUDBPakRydFdMQTZzM0h4a1BRRV9NWWfSAYcCQVVfeXFMTXd0TmxVUGxFdUIxZURyQ2tBNmVER0hSb3R5c2IxMDFIR1FUSjlYUjRGU3Rqd0ZnU0xfNTZaQ1VORkJYSlBmWEZoNzNyLTFpZ01QdDZIRlhDeW1BTWgxZ0FYZWtJMmQ5REwwY0pwUnFRTzA2LTg1RGZLcXFjdlV6cndSSnZNcExqYnplTWlDNGlEQ3B2OTZsM0RlLW11anlJTGRkWEVGOHc0MjlNUTh5Z1N1Sy1tQl9fWHFhaW5qOXdjaFRYWFZ5WjNQbGhWY05RcnlYbVpZb2MyX2hlRVFad2tveV9nWGJ5ZkpVQy0yclFTUktWemVRbEtsV1BNMGQzUjNCcmtyX00?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "10/26 11:09",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
+      {
+        "title": "ETF 資金重新流入，Zcash 能否上揚？",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdzFVSF9jZl93WlBFNXpXZ1hPUHM3ZUdmZExHX1FTUjBPbVYtRzJzNmlCVjRCWEpoNHRJaGhEdXQzVTd3eDdaQmstSGx2MmZJai1VYmpNT1ZYdEFzOGpwTHR6MktYcUhqMkJROVk4WVdNM2tWZ2w2YzBmTGpBNW9Tb2NzMVpSdzV6cHNVdlEybkp2UWRMdGVnbzBfNTQwcDlwUHR2LTFaY3NnUEpZb0lybkhaalJmZHRwM0dydHJyZk5QWDhOc3ZOSm5RUnJIMlhiRVEzNnVuZEhnb0d6TlpJeDdzSjVwcUlla3dvdG9Ma9IB7wFBVV95cUxOdzFVSF9jZl93WlBFNXpXZ1hPUHM3ZUdmZExHX1FTUjBPbVYtRzJzNmlCVjRCWEpoNHRJaGhEdXQzVTd3eDdaQmstSGx2MmZJai1VYmpNT1ZYdEFzOGpwTHR6MktYcUhqMkJROVk4WVdNM2tWZ2w2YzBmTGpBNW9Tb2NzMVpSdzV6cHNVdlEybkp2UWRMdGVnbzBfNTQwcDlwUHR2LTFaY3NnUEpZb0lybkhaalJmZHRwM0dydHJyZk5QWDhOc3ZOSm5RUnJIMlhiRVEzNnVuZEhnb0d6TlpJeDdzSjVwcUlla3dvdG9Maw?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "10/26 10:58",
         "related": []
       },
       {
-        "title": "BTC 守住 7.5 萬防線，60% 市佔率下的市場分化 作者 智通財經",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HcVB3bHdMT085TGtpcjNtNWRwQmdMM2Z4MzdfTWE3aUYzRlFSZ0k3Y3BQcDhtbFJvbTdfTnJnTjg2aG9JYlRnc2hucXBMY3hnTV9WZ19SSUtpcUNYbHpGQ2lHX3ZrVEZ1Z3BjbFBwNkw?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "10/26 08:48",
-        "related": []
-      },
-      {
-        "title": "BTC 跌 8% 引爆 MSTR 財報季，Coinbase(COIN.US) 獲機構上調目標價 作者 智通財經",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UOVgyNi04TlNVTkp2a19tUEx2dmxmNjR1Qlo4TGpmR3ZHb0JNZ2pHS1VBT2FjZUpOR2I0YlFPempITmtxZXo1Wll1UFNSV0dIcmJtYVUtLW5Jak9oNVZ2M0JWRFozbm1sRW0wOHdscGs?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "10/26 08:48",
+        "title": "融資週報| Mural完成1500萬美元A輪融資，Tether領投；AI晶片初創公司Tenstorrent完成15億美元E輪融資",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc2RjMEhwY3RRc01zY2tuQlR1ZXJTbXhRdHVDSzFUQ3I2cDB3cW4tNFhaQXl3UkdqQkcteFp1eUU1R0ZRa3BveHpVaUstMlpXTnBxQXBnR25oNEFLb0pfWjRpdUxCZDZTd2t6ZlJkOXI4TldmajB1QkxHWWg5QUFpUU9qeVZKZw?oc=5",
+        "source": "PANews",
+        "published_hkt": "10/26 10:52",
         "related": []
       }
     ]

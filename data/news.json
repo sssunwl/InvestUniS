@@ -87,7 +87,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-26 21:40 HKT",
+      "updated_at": "2026-10-26 23:19 HKT",
       "news": [
         {
           "title": "恒生指數 守兩萬三地產股撐市 料將在23,000點至23,800點進行區間震盪與底部整固｜張智威專欄",
@@ -145,8 +145,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-26 21:40 HKT",
+      "updated_at": "2026-10-26 23:19 HKT",
       "news": [
+        {
+          "title": "TWA00 加權指數- 要講幾次？川普又點名台灣偷晶片：他們的價格極其荒謬- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3VHhzWGJBcmR2SDNzaklELXI5a0JYRFJ5M1Jyc2JGOWs2RlZGdmVZZVV1ZE5udURhRnNlb21HNmM2X1V0MWZlXzRObXhKT2hhSXcxanNQUGY?oc=5",
+          "source": "CMoney",
+          "published_hkt": "10/26 21:29",
+          "related": [
+            "^TWII"
+          ]
+        },
         {
           "title": "TWA00 加權指數- 臉書Meta 獲得穩定大金主注資- 股市爆料同學會",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SazJWRUI1TV9sajUwSk9mWEloRGxGcC15N21EOHAzNmg1eHhCdGVvYXJwcU0wN21kWXZQbXQ0OGdPUEJZdmFMaDZVSWNQaF9Nc2JnX2hKWWc?oc=5",
@@ -162,15 +171,6 @@
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzc0tYZUFrSzYyTW1Zc3BBWGRCUVVoSXFUVzNPQU8zbGRBNmVaaUd0VDlGbFQ3MTdaVkNkWmQwUTNFSmxLUzh4MEx5QTBDMnRDWHBMTXJMbVE?oc=5",
           "source": "CMoney",
           "published_hkt": "10/26 20:11",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數- 上曜全台最慘集團股- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpbWR3aEdYeXJQUFd3NllyMk1SMEJ2MFRiMHNIQ1hHVUZzTHNHcjJORGE2VlBrMmxtZlJCeHFYSW5xdXA2bDkxeUN1OF95SW1kUVpEX242bU4?oc=5",
-          "source": "CMoney",
-          "published_hkt": "10/26 19:31",
           "related": [
             "^TWII"
           ]
@@ -208,7 +208,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-26 21:40 HKT",
+      "updated_at": "2026-10-26 23:19 HKT",
       "news": [
         {
           "title": "亞股周一震盪尾盤下殺! 日韓股同步跌破季線| 金融",
@@ -235,34 +235,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-26 21:40 HKT",
+    "updated_at": "2026-10-26 23:19 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣升0.39%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRi1LMWI4Z3NUb0RfWERUUjZ4WE1sOENNV1ZDS2UydEQ5R1duRjJ6YnR0ZmdwaWFHRkVaYWRIZG1aZ2xSSjZKY0F2WkhfcG50eDhkZng4Z1JnXzJkX0ZQczNDUi1BOWxZSG1mZzJIZ1JpYmx2c28wb0hlNEVxcjNiMmMwOVViWk5ySGt1NXdtUVE4ODBnMVJtMHVSNDk0NThs?oc=5",
+        "title": "主要加密貨幣行情，比特幣跌0.41%",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNTVDOEFDSnUzMGRnczlzSFl0NUwtTUhnUTZYR0tzZ1NyRUJVLWRrMV9Pd2o5azdKMm9zS3lnQUR3bGpCYlhpWmwtekJkTmEzQ2RSeFNhMTRXc1F6eG9oLTRyeUl2T3hPV3NPak1kQThPR3RDYmVIcDVXM3FEd2U2aGxQTTgwcGhqLVc1ZlhNeEI4VjhBRmFtRm80ZGpHRThI?oc=5",
         "source": "etnet 經濟通",
-        "published_hkt": "10/26 20:36",
+        "published_hkt": "10/26 22:31",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "比特幣在油價回落、聯儲局決議臨近之際持穩於$80,000附近",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONGR6WXJ0ZnhhWkdsQ3BBZXBydGJ1SE1oT091REZBRTFUcTdWR19NU05ibmEzd09hUGNDM0tlWDhzSjMtZW5IQnNjQ19lalljNXlkVEhUMGZlRk95cUtzTXRRczFDaDluYzduQ0hremp0SXFTdUlQYzI3ank4UldzeEIwR3AxODNvQWZDbHE3a3lpNkNQQVNxdG9UX25WemlZWVRZ?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "10/26 19:50",
-        "related": [
-          "BTC"
-        ]
+        "title": "PEARL 狂熱背後的四大致命隱患",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObXJPSHhyU2NpN29OejEtVUlfaC15Ry1peHJaVDRKS2F0MHQ2Skw3UGMtY1Bid3NoYmJXZ1hhLW9oZmdqcXFmQzlzOWc0QTkyd2FrT29DRHFsVGxmS2VPdGQ3UWsweDNvd3VQUElFcVcydkdSM0c1eWQxT0lWX05NbmtFZ0psdw?oc=5",
+        "source": "PANews",
+        "published_hkt": "10/26 22:15",
+        "related": []
       },
       {
-        "title": "比特幣、以太坊和XRP有延續看跌連跌的風險嗎？",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONjFEZUFxeDdxX2JPeUstbEttMEJ1alo4cjliZ3ZJVmZRUldjbFdvUUl0cUFaQzhsRlV4V09zbFFtVkZmNmtDLUVXU1EtSjlQamlJWWwtRUVtV1Q3cl85dFVaLUNhdF9GV21lckd5VVRkdE9GVEtpLUJLYS1LbjVTdzNPQkZHMEw0V2ZjaHJmYWZRcWd3RUQzd1FqLWpaR08yWnNmTUVHY0daQi1wQkkyNjRqQ3IyakhIWXRJeTVkSThMbFZPSW1wMzlDenkyN0pSa2VKNVV0OEJnb3Y4VGhmRm1yQ2lTOEJRM3hsLXluaVJiQTVLUmfSAfYBQVVfeXFMTjYxRGVBcXg3cV9iT3lLLWxLbTBCdWpaOHI5Ymd2SVZmUVJXY2xXb1FJdHFBWkM4bEZVeFdPc2xRbVZGZjZrQy1FV1NRLUo5UGppSVlsLUVFbVdUN3JfOXRVWi1DYXRfRldtZXJHeVVUZHRPRlRLaS1CS2EtS241U3czT0JGRzBMNFdmY2hyZmFmUXFnd0VEM3dRai1qWkdPMlpzZk1FR2NHWkItcEJJMjY0akNyMmpISFl0SXk1ZEk4TGxWT0ltcDM5Q3p5MjdKUmtlSjVVdDhCZ292OFRoZkZtckNpUzhCUTN4bC15bmlSYkE1S1Jn?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/26 18:48",
+        "title": "本週定調後市行情！8萬美元關口承壓，比特幣走勢面臨艱難週考 作者 智通財經",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIbVdsakQ0alJHUGVzTUZWbTFzVWpOaE5MMkxsWnFyOVJudWFxWVBiMlRocHJTZ050SUpqZGhSd2F0TWd4QUFVaXltZDZHX1dERFFQSElpcUY3Zjgxd3QtTGprZUtncXJUNGNzZjRrVDk?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "10/26 21:42",
         "related": [
-          "BTC",
-          "ETH"
+          "BTC"
         ]
       }
     ]

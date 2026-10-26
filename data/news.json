@@ -235,32 +235,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-26 23:19 HKT",
+    "updated_at": "2026-10-27 03:04 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣跌0.41%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNTVDOEFDSnUzMGRnczlzSFl0NUwtTUhnUTZYR0tzZ1NyRUJVLWRrMV9Pd2o5azdKMm9zS3lnQUR3bGpCYlhpWmwtekJkTmEzQ2RSeFNhMTRXc1F6eG9oLTRyeUl2T3hPV3NPak1kQThPR3RDYmVIcDVXM3FEd2U2aGxQTTgwcGhqLVc1ZlhNeEI4VjhBRmFtRm80ZGpHRThI?oc=5",
+        "title": "主要加密貨幣行情，比特幣升0.28%",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd1FGQkI3TURyZTU2QjQ2dmszWlBVTi1jeTRVeWNoZHdkTWhDcUlCUEFmNHI4Z0pSc1BUcnhWcl9PUUtYa1FyYUlIb2Q1akduTkl4OHIxbjBhUVgyT21xV29FRzF1UURYRzVZZzEtRFBQYnR3V2VmUlhGOUJxNXU0TmFKYWp5cktlMUFtQ1FXRi1jMF8wRDNLRWNqLVRKeXFz?oc=5",
         "source": "etnet 經濟通",
-        "published_hkt": "10/26 22:31",
+        "published_hkt": "10/27 00:01",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "PEARL 狂熱背後的四大致命隱患",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObXJPSHhyU2NpN29OejEtVUlfaC15Ry1peHJaVDRKS2F0MHQ2Skw3UGMtY1Bid3NoYmJXZ1hhLW9oZmdqcXFmQzlzOWc0QTkyd2FrT29DRHFsVGxmS2VPdGQ3UWsweDNvd3VQUElFcVcydkdSM0c1eWQxT0lWX05NbmtFZ0psdw?oc=5",
-        "source": "PANews",
-        "published_hkt": "10/26 22:15",
+        "title": "10月26日更新： #比特幣ETFs: 1日淨流入：-2,123 $比特幣(BTC.CC)$(-$1.6947億)...",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTlc1Q0lJWXZCVkt1OHBPUzYycGF2QmROb0JheDJHYjQ2SVpGR0VMa0dFZU9IbDhGNTctZW9OY1QxSUtmWGNhOTdvTkNJczBxYnJNMlY3VDJ5SVJEV3hCN1ItQ1kwWWE1WDJlWFh3Q08zZ05zdzVqbUhSTHBDa0xpSTBaSEtSZ3MwblY1UEp5bTF6TU1oRUVKNGRSSFVWNjhRcjU1dm5yM2JBQXJFRkpB?oc=5",
+        "source": "Moomoo",
+        "published_hkt": "10/26 23:32",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "Solana 的架構設計優先考慮吞吐量而非驗證者數量",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOemZ5NFdMUm1FaElLRjhrTV93ZHhSeFYwVXhZOTZ4OWsyaEtzaUpIbG5KLVF4bUI0WDNfUEI2X2UyX2RoVVJhOVFxZEEwTU9hdzl4M2Q2NFJ4ZUEzbzJTYlZjb3pHZTliQ2UtZHF1dm9KbDVMdzBkaXhLRFZlWTVlZ3NPcHd4U21iaXU4YlE3UEM?oc=5",
+        "source": "OneBullEx",
+        "published_hkt": "10/26 22:37",
         "related": []
-      },
-      {
-        "title": "本週定調後市行情！8萬美元關口承壓，比特幣走勢面臨艱難週考 作者 智通財經",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIbVdsakQ0alJHUGVzTUZWbTFzVWpOaE5MMkxsWnFyOVJudWFxWVBiMlRocHJTZ050SUpqZGhSd2F0TWd4QUFVaXltZDZHX1dERFFQSElpcUY3Zjgxd3QtTGprZUtncXJUNGNzZjRrVDk?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "10/26 21:42",
-        "related": [
-          "BTC"
-        ]
       }
     ]
   }

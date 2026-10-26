@@ -87,8 +87,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-26 20:36 HKT",
+      "updated_at": "2026-10-26 21:40 HKT",
       "news": [
+        {
+          "title": "恒生指數 守兩萬三地產股撐市 料將在23,000點至23,800點進行區間震盪與底部整固｜張智威專欄",
+          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNVmpjZng3ei1hTlF4Y1J4X3dBMW0tenREWGY3aEdkWFMwYV9DLURnTVhKZGFmajRXb0syNGJqOWVtZXN0SzZidXQtUVJ5SjRZNEZySnFqZlBNeWJjbHFrVXZwZDJRcTFxVmFadjZqaWNjSEVDZExGTF9ZN1NDVXlsRVljaUlqTnQ0UnFUUmNZOF9NM0M2aTZVWThRUU5iR0x0UVBBbWRlM0Q0aDA1ZHQ2Tnl0ZXVxWmdyd200bWxNaEMwTXpFMVZmS3dqUEJJSkFpaVl6MzA2TGZxU0R2LUdfVm03V3NLMklzQk9pUE5DODhiMUZQbWxuN2t4eTJUOE1sb2JwMklPdlhPR3NXUGY4eS00MDViU1luOXd1MDVTaXFyS2NoOEVSOVk1VUlzQU1VbEZMX05zNVNSQ1l4bkc5WUNLaHFMS2hq?oc=5",
+          "source": "香港財經時報HKBT",
+          "published_hkt": "10/26 20:49",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "【港股夜期+北水】夜期升44點北水走資20.8億、連續9日淨流出資金追智譜百度優必選、走資阿里中海油中芯（不斷更新）",
           "url": "https://news.google.com/rss/articles/CBMiywVBVV95cUxQU2ozVVhtZGdnVlkxMW5OVC1scDRCZ281N0lWMFFxSE9RR2FwYTBtUFN1UGc4VnpvZ0d4b0I3RnNBejBld0ktdll3NDM4QVdNM0hUVXl2dTlqSy1MOVVvTmtINklWd1JERG1jcnhHdkdWSkVTckN2MU41RlZfRTFWeTUzWWpqbXY0YXZFVXF1eFFpQjdkbEtsZnVYWjNwMm5jMXVDSzVFWWNTUlNRSVhWTnNuVEI2RHNFRmlub2tsYmZWcXF4ME00VzQ3X19CUFJSNmJDZkNHa3dLd1NRdlhxSmtlcFNFLXZPMW5yRkZEd1lQREJtNi1LclhBMWlOTDB6SU1XU2VuM1JMN2NyZlZWME9DYUM5Q1JRWWU1WTVZWGV3YW1GZGRYVGZOZUJEZ1A3al9YcGxyRlNPb1E5TE8xb1BXT1V3ZXNRTS1lZTd1U2FlRUY4dnBCMFdNQWpiV2RoUTlOa2VVeEFiZ1R6MUJmZWVzbG9BMW1xWE1wYVRZZFhPTXJfRkNEVDZjdU9YTjFxdlZ1alBPb09oU0dKNmFTcGh1UUFLaGVmZWVWOEJqZ2Y5YWJrSlBHRzUxdlNFTjEwQVdGeTl6clhPU2VyLXFFNzVlTXVOSk9lY21rS080c0U1OURwaE1XRERMYi1tbVJvaXNRZEp1YU9QUnpLbVE1SzRRdUVXdmFNemJSNEUzSmpoS2czNTZ5aW5kSFo4NGJHVnZKVVN5eWFfV2c5YTh0MHEyc3o3SDFvYlZwcVFSd3JpLUJPS2dBV3Y4RXEtVlNrYVJ5TG1EU0Y1dGROZU1rckFZYTQwSU1yNjhqV2VJUnNKX3JKS0VhRXF4QTc3dEN3RHZMUGJ4RldVLWlwbm5tbV9KbmoxRTJRYmdQX2Q4ZkdCb0h6RC13UkxYMDQ0MEkza0pmNGRLM25XNFVaRy1EbjZfQVI1d1Y4STl3?oc=5",
@@ -102,15 +111,6 @@
           "source": "Now 新聞",
           "published_hkt": "10/26 19:23",
           "related": []
-        },
-        {
-          "title": "恒指走勢丨埋單反彈118點北水走資 紫金礦業逆市插6%",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OUE9BOHlHdDJRZ3NHWGI5VGVRYVJZR0phSk1oQWx0ZFZkbURqNjl1VTVDbTZaM0MwaS1ILWJBYi1ObHJrSXk3VWVCYnBTQXNPakp2d0NzX19adkN5VDQ5Yg?oc=5",
-          "source": "信報網站",
-          "published_hkt": "10/26 17:12",
-          "related": [
-            "^HSI"
-          ]
         }
       ]
     }
@@ -145,7 +145,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-26 20:36 HKT",
+      "updated_at": "2026-10-26 21:40 HKT",
       "news": [
         {
           "title": "TWA00 加權指數- 臉書Meta 獲得穩定大金主注資- 股市爆料同學會",
@@ -167,10 +167,10 @@
           ]
         },
         {
-          "title": "TWA00 加權指數- 外資狂殺台股3,000 億將補跌千點？法人歷史數據揭「大賣後必有大行情」 - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EYU55d0tGT3NPUHd5MTRmZUsxV1MwNWZodzliY0xyRHVZUUdTSmJLUkRJX0xtU290Q1cxUDE1Rm5Uci1DRzIwV3hVRnAwQjdMRGJIUWh1TXo?oc=5",
+          "title": "TWA00 加權指數- 上曜全台最慘集團股- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpbWR3aEdYeXJQUFd3NllyMk1SMEJ2MFRiMHNIQ1hHVUZzTHNHcjJORGE2VlBrMmxtZlJCeHFYSW5xdXA2bDkxeUN1OF95SW1kUVpEX242bU4?oc=5",
           "source": "CMoney",
-          "published_hkt": "10/26 18:31",
+          "published_hkt": "10/26 19:31",
           "related": [
             "^TWII"
           ]
@@ -208,8 +208,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-26 20:36 HKT",
+      "updated_at": "2026-10-26 21:40 HKT",
       "news": [
+        {
+          "title": "亞股周一震盪尾盤下殺! 日韓股同步跌破季線| 金融",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tN29JeF9VZFdia0QtbWh1UHlUTWZNMUdlaE45RWhXNGhSc1llZENJLVE5dlZOcVJhelJTMkNTQnJBUGpDWHREMF9LME5KRUxCRUJtNFc5YXJMZHkz?oc=5",
+          "source": "非凡新聞台",
+          "published_hkt": "10/26 20:24",
+          "related": []
+        },
         {
           "title": "科技股遭血洗！南韓KOSPI「今年第10次熔斷」日股也殺逾3300點 晶片雙雄領跌",
           "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPdlNGRnc0ZzM5bF9hYV9aeWIzTDAzSjlldmdVSVZqSkhVMW1UY0VfMGJPdzBEak11SXFZZnJGVHg0WEVvT3dmWFNlcVp3RzhvTHhDaC1MT0luTFpTam44T05KUGwzaEdUejNUMW5GZkI0NmY2cU52Q01GNVg4blFxdG1SMTlleDBTRHpPUWhxbWl1NF94NWNxOUdvem40Nlg5UjdEbGZteWxQTnJmQkV0bTcta3BRcDlwLUI1TnB2RU55ZWhDbnJ2WFAwOGlfTTJNSHd2dTVYM0hrT1dyYmx6T0I3VlhxWV9tVVBNamZkaE1IMXJDdFI2eVRYRmNmRGpKWTUyZ0RNRE5Iem9tRXh4b252cVJfZVVkdUQzUnktdlpfZDd6aUYxTkhNaVZNTlR4UXFhQUJKbUU0WVFtOHRGQ2xXN3htaXNBYmxEUHVnZ1hCYlJyQUIteWR0RWRRSEJ2NEhfekc1WmZ0ZjNWLXItdmdaVFdqZF9BRzlGTTJIQmk3c2d3MkVtWHJacmZIc3JTOVRJYThMRTdPdmM1MC0tSE9GYVBVVWc?oc=5",
@@ -223,43 +230,40 @@
           "source": "PANews",
           "published_hkt": "10/26 19:06",
           "related": []
-        },
-        {
-          "title": "台股明天免驚？美股盤前止跌翻紅了",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FZ0pBRHBwU0IzU09KWEN2dzRtb3JTQVU3emxQbHFGX2NkS01kMjdnTEFFV3lUWktwRkQ5S0tzelpTT0xaTGhJcHh4RWV0SVJ4N1V0U2EzZ3NoaU1DckxZ0gFkQVVfeXFMTURlTEt1QlJ3S3JlandSTTg3T0VYaGI3Z0VjRTFlYU9wRU9LaDFJdDJtYU9LcGZrMGZJbzZKRTVmT1pLVUVVSnRvbkhyckNobGV4QWlDQW9Nb0t5dlBjQnJ5NTFtdw?oc=5",
-          "source": "自由財經",
-          "published_hkt": "10/26 18:08",
-          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-10-26 20:36 HKT",
+    "updated_at": "2026-10-26 21:40 HKT",
     "news": [
       {
+        "title": "主要加密貨幣行情，比特幣升0.39%",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRi1LMWI4Z3NUb0RfWERUUjZ4WE1sOENNV1ZDS2UydEQ5R1duRjJ6YnR0ZmdwaWFHRkVaYWRIZG1aZ2xSSjZKY0F2WkhfcG50eDhkZng4Z1JnXzJkX0ZQczNDUi1BOWxZSG1mZzJIZ1JpYmx2c28wb0hlNEVxcjNiMmMwOVViWk5ySGt1NXdtUVE4ODBnMVJtMHVSNDk0NThs?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "10/26 20:36",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "比特幣在油價回落、聯儲局決議臨近之際持穩於$80,000附近",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONGR6WXJ0ZnhhWkdsQ3BBZXBydGJ1SE1oT091REZBRTFUcTdWR19NU05ibmEzd09hUGNDM0tlWDhzSjMtZW5IQnNjQ19lalljNXlkVEhUMGZlRk95cUtzTXRRczFDaDluYzduQ0hremp0SXFTdUlQYzI3ank4UldzeEIwR3AxODNvQWZDbHE3a3lpNkNQQVNxdG9UX25WemlZWVRZ?oc=5",
+        "source": "Moomoo",
+        "published_hkt": "10/26 19:50",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
         "title": "比特幣、以太坊和XRP有延續看跌連跌的風險嗎？",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWnMyQjZLMnp4V0EtdlN5dms2UWVSazBIdU05V05aS09YTTlYSkNUTHRodXYtcW9fd1RwQm9YaTJ5Yk45aW1ja1ItUl96ZG9GdTNlU3ZGYWw5LWdIS2dHNV84SldhUDlHSXFqMUhoUjlMVXZQZFdEdmZlc0k4RUdqaHpPYTZVRzZkMm5NVjRQUUtkdVhSZFowR3RXcVBWdGZuMTZZUmZtUS1MYl9MSXNPeTdKZFF0dFh0UHZoRVdKT0hPRnVBZ2dNTVdqX3NqZDVnNUE2SVFVYmRsQlFpZTBpSFRUWUVuZXNfYWt1RnlqREjSAfYBQVVfeXFMTjYxRGVBcXg3cV9iT3lLLWxLbTBCdWpaOHI5Ymd2SVZmUVJXY2xXb1FJdHFBWkM4bEZVeFdPc2xRbVZGZjZrQy1FV1NRLUo5UGppSVlsLUVFbVdUN3JfOXRVWi1DYXRfRldtZXJHeVVUZHRPRlRLaS1CS2EtS241U3czT0JGRzBMNFdmY2hyZmFmUXFnd0VEM3dRai1qWkdPMlpzZk1FR2NHWkItcEJJMjY0akNyMmpISFl0SXk1ZEk4TGxWT0ltcDM5Q3p5MjdKUmtlSjVVdDhCZ292OFRoZkZtckNpUzhCUTN4bC15bmlSYkE1S1Jn?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONjFEZUFxeDdxX2JPeUstbEttMEJ1alo4cjliZ3ZJVmZRUldjbFdvUUl0cUFaQzhsRlV4V09zbFFtVkZmNmtDLUVXU1EtSjlQamlJWWwtRUVtV1Q3cl85dFVaLUNhdF9GV21lckd5VVRkdE9GVEtpLUJLYS1LbjVTdzNPQkZHMEw0V2ZjaHJmYWZRcWd3RUQzd1FqLWpaR08yWnNmTUVHY0daQi1wQkkyNjRqQ3IyakhIWXRJeTVkSThMbFZPSW1wMzlDenkyN0pSa2VKNVV0OEJnb3Y4VGhmRm1yQ2lTOEJRM3hsLXluaVJiQTVLUmfSAfYBQVVfeXFMTjYxRGVBcXg3cV9iT3lLLWxLbTBCdWpaOHI5Ymd2SVZmUVJXY2xXb1FJdHFBWkM4bEZVeFdPc2xRbVZGZjZrQy1FV1NRLUo5UGppSVlsLUVFbVdUN3JfOXRVWi1DYXRfRldtZXJHeVVUZHRPRlRLaS1CS2EtS241U3czT0JGRzBMNFdmY2hyZmFmUXFnd0VEM3dRai1qWkdPMlpzZk1FR2NHWkItcEJJMjY0akNyMmpISFl0SXk1ZEk4TGxWT0ltcDM5Q3p5MjdKUmtlSjVVdDhCZ292OFRoZkZtckNpUzhCUTN4bC15bmlSYkE1S1Jn?oc=5",
         "source": "FXStreet",
         "published_hkt": "10/26 18:48",
         "related": [
           "BTC",
           "ETH"
         ]
-      },
-      {
-        "title": "Pi Network會在持續的看跌壓力下觸及歷史新低嗎？",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZzY3NVY5Mi1nZGt3ZW5xTmgtZmk4eExlUkxrU0dRYnZad0FZcUt0U0IybXRESFlvSlpsVkZEb2w1bGFnTHF3dFB4RVlzenlkTzVJSG55LU4za2ktNGVkdnpfeW83THpxeFE3TlRfTjR0UnlYLUtFNktxdnB2NGwzN20zSm9KZWxZQk0tWnl6WlQxRkUwczk4bnNWaHdVcGpMbVp1U1lLbkZxeHJSeEJwNkxzQUtXcHI3aEpBUDdyZU94U2dWS0RlXzRGRzU1aEcwOTBTN2VaT2NmR2xKUzhFUnZnVjdlMmhkWGc2LWZSdExQclJQRVJR0gH3AUFVX3lxTFBnNjc1VjkyLWdka3dlbnFOaC1maTh4TGVSTGtTR1Fidlp3QVlxS3RTQjJtdERIWW9KWmxWRkRvbDVsYWdMcXd0UHhFWXN6eWRPNUlIbnktTjNraS00ZWR2el95bzdMenF4UTdOVF9ONHRSeVgtS0U2S3F2cHY0bDM3bTNKb0plbFlCTS1aeXpaVDFGRTBzOThuc1Zod1VwakxtWnVTWUtuRnF4clJ4QnA2THNBS1dwcjdoSkFQN3JlT3hTZ1ZLRGVfNEZHNTVoRzA5MFM3ZVpPY2ZHbEpTOEVSdmdWN2UyaGRYZzYtZlJ0TFByUlBFUlE?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/26 17:47",
-        "related": []
-      },
-      {
-        "title": "PEARL 狂熱背後的四大致命隱患",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObXJPSHhyU2NpN29OejEtVUlfaC15Ry1peHJaVDRKS2F0MHQ2Skw3UGMtY1Bid3NoYmJXZ1hhLW9oZmdqcXFmQzlzOWc0QTkyd2FrT29DRHFsVGxmS2VPdGQ3UWsweDNvd3VQUElFcVcydkdSM0c1eWQxT0lWX05NbmtFZ0psdw?oc=5",
-        "source": "PANews",
-        "published_hkt": "10/26 17:03",
-        "related": []
       }
     ]
   }

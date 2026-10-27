@@ -91,7 +91,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-27 20:49 HKT",
+      "updated_at": "2026-10-27 22:45 HKT",
       "news": [
         {
           "title": "「獅王」滙豐00005暴跌近6%！4.9厘息輸美債 恒指恐插穿22000？|香港經濟日報",
@@ -151,32 +151,32 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-27 20:49 HKT",
+      "updated_at": "2026-10-27 22:45 HKT",
       "news": [
         {
+          "title": "TWA00 加權指數- 欣興vs宜鼎（盾與矛對決） - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04SVRIbXdqWnRWVW5TM0pGYTRyQ0JaMFFodTI2UE9ZRzVQeE9sM2FiNzVPT0lXUU02ZUhLU3VURnlUd2NhYkhDZkVaZURYazJtRlZRMVY0VWk?oc=5",
+          "source": "CMoney",
+          "published_hkt": "10/27 21:22",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
+          "title": "TWA00 加權指數 - 今天融資減少105億 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mVmZDSzVkMndRd2k0bmNVaW1JSU8yV2RNdlhCenNob0RadUVMRzFkSGVXamE1MHlROG5Hb2o0b1lMdkFqQlBOQXJmY0RLZXU1Mk9WTlNrNHI?oc=5",
+          "source": "CMoney",
+          "published_hkt": "10/27 20:51",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
           "title": "瞄準高資產！兆豐銀行獲財富管理結構型商品期貨鑽石獎 奪百萬獎金",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VOWhwUmdWanhxMkhpaUh4UGFrOUdGUl9MQnlPVXR0YnFRRVZDaE9Zb1J6Y2E3NzdKUHVhVktNUmxNYW02MDczV3Fkcw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82dmt0N1dEVWRuZlVzQzBZaFMzZWNuWlpEUm9tTUF4TDhSelJhcTAzWHRQbDV2Y3pXQi1UZFZCU0lMVVk2VnExTEQ5M1JkY3M?oc=5",
           "source": "鉅亨網",
           "published_hkt": "10/27 20:28",
           "related": []
-        },
-        {
-          "title": "TWA00 加權指數- 今天盤面偏向「傳產龍頭穩中透弱、半導體代工轉強但追價要小心、... - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05c1EtM1ZlQUJmLWtFODN2TS1MSTllRTZvUlFQVm5pU0FEUS0zV1VWWFlzVFNmV2tveUlFNmttRjdFMWxnbEdlZE1kMVpZOUpBQzB1Z0FQZXY?oc=5",
-          "source": "CMoney",
-          "published_hkt": "10/27 20:15",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數- 夜盤又開始動起來！加油！ - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBVWdUY0U2YlNGb0p2Y1g0S3dxMXB3ZGJpTG1LM3JRMEl1X2VLZWdmcE5jaUdaelFwY1hfeXFJQ0tWOC1PQ0J6VjltaWI4Y2VkUUlCcXFmR08?oc=5",
-          "source": "CMoney",
-          "published_hkt": "10/27 20:00",
-          "related": [
-            "^TWII"
-          ]
         }
       ]
     }
@@ -211,23 +211,16 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-27 20:49 HKT",
+      "updated_at": "2026-10-27 22:45 HKT",
       "news": [
         {
           "title": "《日股》AI與半導體撐盤 日經收漲1.73%",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdzVmTmhiSklOLTk2aDJMdDZjNzZ1eEw0Z1o1Tm1HVlljOThIN3l6c1VVcVhlbG9OT0ZCc1EyNFQ0RU1raEJhMlZrb2JfVFljS0t6cm4zVmJQeElMdzlaaXlha1RoUFEzYUh6SGUyMVotMjg5V2stOUxLTGd2OEd5Ql9IMFU2N2lSV3gwc3BOOURDdWNad1EyY28zUjY?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdWh0bTJrSHVzRXhpWGtBcnVGOWNNOVNWTU5wZHFjQnduVUtqbGk3c0w3VzhvVEM4RkFiekF6NDBzMXljcTBnZkVMdzdmcDRqdE9BLVQ2M053d0paajdEeVFuQm9jWGpyOF92QmgzNnFteDFtN0Fra2x2dE1pbXg3azJ2ZUotczVZd29rN2hYSFNrdw?oc=5",
           "source": "台視全球資訊網",
           "published_hkt": "10/27 18:17",
           "related": [
             "^N225"
           ]
-        },
-        {
-          "title": "日股2週重摔逾一成！巴菲特續押5大商社，學他先留意3大風險- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqeTlJU2piVjRsVWpjQzBHTlVZNDdTanJKV243TE4wQTlzWDhaSmpDWXNrRm5ZWmR1UGpESFhmNzRzQTlJYVZmcmxSN3R4UUJXZEszdmhaLTU?oc=5",
-          "source": "CMoney",
-          "published_hkt": "10/27 17:54",
-          "related": []
         },
         {
           "title": "《日股》Anthropic上市申請提振 日經揚升1.73%",
@@ -237,36 +230,43 @@
           "related": [
             "^N225"
           ]
+        },
+        {
+          "title": "科技股買氣回溫日經指數收漲逾千點| 全球財經| 全球",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPZTJGWjN6MkJDQll4OWtYUXNya0s1R2VOQ0VkLThPa3hfMVFma0RsTXdrZEp2Yjl2V1QxM2JyRFQyYi1NRS1KUTNLV2FVbC1L?oc=5",
+          "source": "UDN",
+          "published_hkt": "10/27 15:25",
+          "related": [
+            "^N225"
+          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-10-27 20:49 HKT",
+    "updated_at": "2026-10-27 22:45 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣升0.08%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTGVLeUVCTzVRQ2lUb0xZX1hGWm1HVjYwM1hUSmFHVU1hNXJLdVJ2RUtzY1RmaWhKMUVEUlI0LWFXVEFyMlU5TmZvVHN2Zm5YbFJYUzVDeGhyMF83aldzTnR5M2I0NFhlY1p6YXFrU25qN29RUVdwak13U2ZhNVhtVE5jZ2pYVjB3NHEtWlVZeGpXRVdoem9WY01nWVF1Q0tw?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "10/27 20:36",
+        "title": "加密貨幣價格預測：瑞波幣、比特幣與加密貨幣——歐洲收盤綜述 27日10月",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTlZGTHRrb3JVc0lyelpTT3lRWUNtUnVyZUNYYklHRnRqcDB2b2pha25ELV80NndLcUV5bzgtbTZJOUJEZEtVajU4UmZTelVXTDMyMEJxcTAwS09qdUk1aEFRUjlhblQwSUJWdVdiby10ZXMtUjQ0YjJCQUdKUE50clVnRU9rRnRQMVF4VFgza1N2cWVNbmxXcUZjZldiN3d0bGFkNDBKUDMwcFJwSk9sbFg4U3NYSUQtTkZJcWVxMHJwaU9BcGNIclJxUmphU2toWDNvdTAtOTVLY0FiYVFCbzhSaEVhVDRBalBkMVNTM1BTcHQ00gH0AUFVX3lxTE9OVkZMdGtvclVzSXJ6WlNPeVFZQ21SdXJlQ1hiSUdGdGpwMHZvamFrbkQtXzQ2d0txRXlvOC1tNkk5QkRkS1VqNThSZlN6VVdMMzIwQnFxMDBLT2p1STVoQVFSOWFuVDBJQlZ1V2JvLXRlcy1SNDRiMkJBR0pQTnRyVWdFT2tGdFAxUXhUWDNrU3ZxZU1ubFdxRmNmV2I3d3RsYWQ0MEpQMzBwUnBKT2xsWDhTc1hJRC1ORklxZXEwcnBpT0FwY0hyUnFSamFTa2hYM291MC05NUtjQWJhUUJvOFJoRWFUNEFqUGQxU1MzUFNwdDQ?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "10/27 20:28",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "比特幣跌破$80,000，加密貨幣未受亞洲科技股反彈影響，聯儲局會議拉開帷幕",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb2RFdjJNdS1GR0EzLTZTYW5PcWVKeGozdWJ3MnpIUkFfNTlRUVZxMUxVXzktZG1TbGhrYTZmXzhEMmlWcGdiQmpOTFZFb3NzZlZsMGRrLVdZNmFJaGdTQkNrSlBxV3VvdjVoX0pOdHB4Z0VDMXA2V2xueTJOdklnY0owbnd4SzBmS080VWxfT3REN1hLVmRjMmtlMURXazJRNzhCQTZn?oc=5",
-        "source": "富途牛牛",
-        "published_hkt": "10/27 19:36",
-        "related": [
-          "BTC"
-        ]
+        "title": "瑞波幣價格預測：為什麼XRP持續走低？",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV0Z3UDVvb3F4QXRqUVNJVGZCbXNDUDZEanpEN0xDUnFhQTJDYmZxUDUxZXNfQmZDUWJ2cUgwYm9EUFQ2MkRaNmpYNHQ1STBvY0NzQzBaZzhjZjAtYUM0aEZZUmNVVzJkWHZMYndCSGVLVVdSMjJmRDdKMDRheGdubXhPVlZzRkxzTUd3czVtTG5uOGdLLUx4TGxGSFhGQXZPUWZ0YU1pZjYwQUE3RlpvNmVMWDVfR1ZvSlJUU2ZTbzNVb2F3SlF3VmdQaWZDZ2Y2dUdFbFAzVDR1UDZfcFZsYnRWTzFVQnBLX0HSAeoBQVVfeXFMT1dGd1A1b29xeEF0alFTSVRmQm1zQ1A2RGp6RDdMQ1JxYUEyQ2JmcVA1MWVzX0JmQ1FidnFIMGJvRFBUNjJEWjZqWDR0NUkwb2NDc0MwWmc4Y2YwLWFDNGhGWVJjVVcyZFh2TGJ3QkhlS1VXUjIyZkQ3SjA0YXhnbm14T1ZWc0ZMc01Hd3M1bUxubjhnSy1MeExsRkhYRkF2T1FmdGFNaWY2MEFBN0ZabzZlTFg1X0dWb0pSVFNmU28zVW9hd0pRd1ZnUGlmQ2dmNnVHRWxQM1Q0dVA2X3BWbGJ0Vk8xVUJwS19B?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "10/27 20:04",
+        "related": []
       },
       {
-        "title": "專家：比特幣可取代房產儲值功能 單枚上看百萬美元",
-        "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOLTZVMnJ4b2N0cVd6UVV0eHVCOXNsdTU3V01kYnl6NU8xUTN0WjhtQUlEd0tDM1VFSmVIcmk1WmFUaVVWbUY1cVVpbzZmelN4RDRzLWJoTl9LMVNBVzI1a2F2VjVKNkhoWmZmNU4zX2RJUkg4blgyQnNRMEVfYWhPc05NdG5jSXF5S0h3VGdEWUFNLXNYekJKODJkV3oxT1podlhIWGpiNzM1b2F0UUMwMDYwTEhQeF9kSHBrZlYtYmVkU1E4VWhVTmdETEZlcjYxbDZjSUhsclJxN2VJODdnaHI5SGJSRVRmX0VrdlRibTRJeGxlUU1lSHVqUUtwSllBN1pKT21kNHRPZXQzUE4xR0hYa0hGNUJiaW9ZNk1YeU5naW5yaW1pczA0VHExbkhvU3dXeFVZdmhvNVY1OVA4clFOY0h1cEljbElFNnpjRUlfdw?oc=5",
-        "source": "Life 生活網",
-        "published_hkt": "10/27 18:59",
+        "title": "比特幣跌破$80,000，加密貨幣無視亞洲科技股漲勢，聯儲局會議開始",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVlJZaVFqbk1WcFNORDgwWFhPNVhBVnBFdmlWVGZxbnFPUzFIQVZfUXotbFdYWEFJSkVIM25ra0hFM3FmUElXRl9yQzNTajFkMXVYYklMY3RkNi1oMjF3ZnZ6OTY3N0I5U09mZVdMS1JsMVlvOG1wZFc0eDJjamNXemtSbUdvdV9aaVRvQXYzQjNmOG5MaW5scnJWWW1wbWlqaTdNQUFHLUdaUWV6eVE?oc=5",
+        "source": "Moomoo",
+        "published_hkt": "10/27 19:40",
         "related": [
           "BTC"
         ]

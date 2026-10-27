@@ -27,31 +27,32 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-26 09:22 HKT",
+      "updated_at": "2026-10-27 10:10 HKT",
       "news": [
         {
-          "title": "馬斯克稱SpaceX敲定400億美元債務協議！用於採購輝達AI晶片",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE95OFFIcjI3VWN4VlRiUE82RUpBZGlzc0xHNjlqcEJValNBaWpLMUZEWGpTUzR0SjdHaWVPeVNGRTllcDZ1M2I3cW03Yw?oc=5",
-          "source": "鉅亨網",
-          "published_hkt": "10/26 09:20",
-          "related": [
-            "NVDA"
-          ]
-        },
-        {
-          "title": "美股超級財報週最新登場！雲端巨頭千億資本支出將牽動AI供應鏈與台積電-財經焦點情報站",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ1hEMk5IMnJjSDVQTE5rNDhJdDBCT0lGaC14TWpSY0RNUU42czJxRnIwSjNwbm5ldGlMaUVFWEFMWFRsZ1JadTBuMWlUcC1tazBCQUc3dU9KUU5XZ0hsb3YzUnRyNFktWk9udmhDeGpKeE1PNGRhQ2VNS2dsNGp3cEpR?oc=5",
-          "source": "CMoney投資網誌",
-          "published_hkt": "10/26 09:09",
-          "related": [
-            "TSM"
-          ]
-        },
-        {
-          "title": "TradingKey 每日市場簡報：金價跌破4000美元，油價回落，馬斯克稱SpaceX融資400億美元",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOElzeHNuOEp4eDNlR0hlN2QxX1ZBc2dkVnNGLUNWYWhNRURzZTV3NTBfM2ZHUHoybzZuUXpSLWFRSjI3UXg2eE1rZnZ6UHhWWGtMZTM0Mkc3OEMzVkNvTldoc1BXc0pWeHBKSWpSMUdBcE1jVGc4bGFzRy1qUW9rNnNjRG5BUFBaMVdvYWh6SG5VNnN1SjFzQmhhVVlBdkhDcUl2WVZSRDNFam5CYlYydXVyN0p2amdmd1IycG9aQ0dmZmNjenVyQlpMeU8?oc=5",
+          "title": "TradingKey 每日市場簡報：美股齊漲，Anthropic衝刺IPO，Meta擬融資950億美元加碼AI",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaUlBRG9TOC01a1EzdlhCdVhBTmhnRU5NMFc1RC1GcHpXTFJfYXN2MkdndWdMTGpoV2dUcGxzdnhXQzdlS2VzR0tnN0phQjJudEhJV1RNQ0JJS1UwSzFkT2V1bzAxYmVLWEE5TlN1WWNVUHdIVzNYbVFQNjlRQ0RoeDBaUnZMMm54a3duNWpZbENXQ1loRjg4a0RhOEZaOXoycjRyMXd4OUJzWHl3cGg5MEhnTzBOakRIYUdTdEhlb1ZFMnNE?oc=5",
           "source": "TradingKey",
-          "published_hkt": "10/26 09:07",
+          "published_hkt": "10/27 08:54",
+          "related": [
+            "META"
+          ]
+        },
+        {
+          "title": "【即時新聞】Meta(META)等巨頭掀籌資潮！今年狂吸千億美元恐榨乾美股，威脅標普500漲勢",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWtfNkhKN2NTX0ZxUXZ6QTBlNlZsN3dIeEwtWU1hUDRVSHJZZG05WnpEZUdQLUV5WU5hWlFUajJnb3ZIeDRpS1BqbklfWUFvSEZHYnZLYk5IRTZsazh6RWtRVVFwNnVXWk5YSTJQUHoxMlJhNzYxTXdIUm1BM2xhdkVoQ3NtY3AybjJGT2tzYTNjTFBvaTVVUHUta3l6VWNlVHRYMGRPZS1QN3JTbjQydUpzcUp5WVdDbjktZGJiNXhfdjV5SEhGMXZFMkhaNjE3MlE?oc=5",
+          "source": "CMoney投資網誌",
+          "published_hkt": "10/27 08:42",
+          "related": [
+            "META",
+            "SPY"
+          ]
+        },
+        {
+          "title": "AI熱潮推動出口擴張！韓Q3經濟成長1% 優於市場預期0.7%",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QblJIb2hWYnM2VVczTUVkb1VhR2VoTXQ0S29kbzE3YnpQdlBaQVYxTVIwb0NERENKSXcteEpHZk1SWVR6dDFGMkpkZV9sRTA?oc=5",
+          "source": "鉅亨網",
+          "published_hkt": "10/27 07:39",
           "related": []
         }
       ]
@@ -235,32 +236,36 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-27 03:04 HKT",
+    "updated_at": "2026-10-27 10:10 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣升0.28%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd1FGQkI3TURyZTU2QjQ2dmszWlBVTi1jeTRVeWNoZHdkTWhDcUlCUEFmNHI4Z0pSc1BUcnhWcl9PUUtYa1FyYUlIb2Q1akduTkl4OHIxbjBhUVgyT21xV29FRzF1UURYRzVZZzEtRFBQYnR3V2VmUlhGOUJxNXU0TmFKYWp5cktlMUFtQ1FXRi1jMF8wRDNLRWNqLVRKeXFz?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "10/27 00:01",
+        "title": "比特幣持平8萬鎂、以太坊失守2,330、爆倉1.74億鎂，恐慌指數續回落",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc003NkF5UjVLelhjNHlIOV9ab3R3enpiZU9CVTEtNnoyNkJLNTA2a3ZCbV9FZHExekhIV0NSRE04c3JEelo1dHdITzd2LU44Z3hyU3RCdjBGbTZvd1FoVVBLbFlKYkZua3gtV0hzb1pqLW83U1ZNc0tMRm9oUUJncjA0U1FHdnZwQk1oVlp0eWNLRkVLNlRPTEdzMEM?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "10/27 09:27",
         "related": [
-          "BTC"
+          "BTC",
+          "ETH"
         ]
       },
       {
-        "title": "10月26日更新： #比特幣ETFs: 1日淨流入：-2,123 $比特幣(BTC.CC)$(-$1.6947億)...",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTlc1Q0lJWXZCVkt1OHBPUzYycGF2QmROb0JheDJHYjQ2SVpGR0VMa0dFZU9IbDhGNTctZW9OY1QxSUtmWGNhOTdvTkNJczBxYnJNMlY3VDJ5SVJEV3hCN1ItQ1kwWWE1WDJlWFh3Q08zZ05zdzVqbUhSTHBDa0xpSTBaSEtSZ3MwblY1UEp5bTF6TU1oRUVKNGRSSFVWNjhRcjU1dm5yM2JBQXJFRkpB?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "10/26 23:32",
+        "title": "加密幣五年績效比一比：千元投資比特幣、以太坊回報大公開",
+        "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPYlM4OVhWSi15NXJyWXVLS1JVYXlvOXNzdmQ0VUwtWkRfWUR1bmY5bUdNb0hnOGhsWFBoZFZBR2w0X1lDNE9mdE9ESFdDcUk0MDFGb3dMSW1uVlpkNVJSRkljLWhMTXBoTEVRNUp5ZHhnQVY3Y0IyT1dMQ1JDUW1lemE0em41TTlnTDFDUENONy1FUmNCa1M5UVhEVER4LVJ1bTZtN1JQT0NnbzFKT2FWUmMzSWFLUk45SWNuOEp3TFVQU0FEOV9JekJrRjQxQVZ6cXhtT0hKTHpNdXpZMzNRSk5sVkZOQ3FlRERUN1A0S083dUtCa3haeEFDd0hHekJjN3lQUUhpNzdvM1pETkpRN1pORmRyTkJ5cER5S295d0U3NHNnZUlyUWV2WDVfZ3ZRS0xCZHY3eXgzdnhXZGZXTzFjX2ppcnotMnA5NjhFa2Z6aUU0WXZrb0xCYmNzOHJQblE4UU1pVmNxV3k0TldWSWxCMUxKdnc1S09pMHJqQWJqdC13R3RoZjNXYTVSLWFKcXo0ZG5sZl9PejQ?oc=5",
+        "source": "商傳媒",
+        "published_hkt": "10/27 09:24",
         "related": [
-          "BTC"
+          "BTC",
+          "ETH"
         ]
       },
       {
-        "title": "Solana 的架構設計優先考慮吞吐量而非驗證者數量",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOemZ5NFdMUm1FaElLRjhrTV93ZHhSeFYwVXhZOTZ4OWsyaEtzaUpIbG5KLVF4bUI0WDNfUEI2X2UyX2RoVVJhOVFxZEEwTU9hdzl4M2Q2NFJ4ZUEzbzJTYlZjb3pHZTliQ2UtZHF1dm9KbDVMdzBkaXhLRFZlWTVlZ3NPcHd4U21iaXU4YlE3UEM?oc=5",
-        "source": "OneBullEx",
-        "published_hkt": "10/26 22:37",
-        "related": []
+        "title": "以太坊價格預測：隨著ETH跌破2,355美元，BitMine繼續買入",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMWR4blZ4QVh3N3Zjclk1c0dlUDBmWWpQd0JuMHBiTHN5b0dUejFLUGdFSGQ0QUNqdHJObHltRm5oZzVKTjhOd1BLNEFKWEt3UzJGOG5LNnRMVFllblZ6SmltRy14V3dUUFMyR3RqQVJ4Z1AwenhMVFdMaVl5SmN6R3F6a25jbHQyTVVsX0R4d1hCRm9kT1YwUzNnd2NfQlJTR0M3QmtoVTdISzFlcVdLMzQzVmJiX2RtWDk5dmdmNERCd2Q5ZDFDdmJLYnpicUh6QzBIdVNn0gHWAUFVX3lxTFAxZHhuVnhBWHc3dmNyWTVzR2VQMGZZalB3Qm4wcGJMc3lvR1R6MUtQZ0VIZDRBQ2p0ck5seW1GbmhnNUpOOE53UEs0QUpYS3dTMkY4bks2dExUWWVuVnpKaW1HLXhXd1RQUzJHdGpBUnhnUDB6eExUV0xpWXlKY3pHcXprbmNsdDJNVWxfRHh3WEJGb2RPVjBTM2d3Y19CUlNHQzdCa2hVN0hLMWVxV0szNDNWYmJfZG1YOTl2Z2Y0REJ3ZDlkMUN2YktiemJxSHpDMEh1U2c?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "10/27 08:01",
+        "related": [
+          "ETH"
+        ]
       }
     ]
   }

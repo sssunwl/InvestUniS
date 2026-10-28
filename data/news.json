@@ -146,13 +146,13 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-28 14:07 HKT",
+      "updated_at": "2026-10-28 14:31 HKT",
       "news": [
         {
-          "title": "台股收盤／台股狂漲939點！櫃買暴衝逾4% AI股多頭全面噴發",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KMmtaVE5aQ08tUlNpX01teHBNdXpTc3RNdHp2VVY4dHpQQ1RFQ0FRZ3BHRU5DbExpdkhyREZFYzAzQlJBMmhpZ3l3Yw?oc=5",
-          "source": "三立新聞",
-          "published_hkt": "10/28 13:45",
+          "title": "收盤／台股狂漲939點　AI股多頭全面噴發",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wQldKcXVmdGJvUk1vMno0NXlQWlFyVldBN0daZFRfTXlnVl9INnFKY0xudUxtb2czSGFwR1BxUkV6T2dlR2UtVVowbFVjMG44emlkSjRRcGlNMVZf0gFiQVVfeXFMT2FMalI2b0RWVUE4a3lHMmVzUmdVVDltNGROLWsxcWFfN1k0Y3RidXNlWVg0X2ttTnJzR1daZWkzemRYNXd0MWNGTmlhcDJjWjY1OHd4SFJwQkVlM084TWUzWUE?oc=5",
+          "source": "鏡週刊Mirror Media",
+          "published_hkt": "10/28 13:44",
           "related": []
         },
         {
@@ -239,8 +239,17 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-28 14:07 HKT",
+    "updated_at": "2026-10-28 14:31 HKT",
     "news": [
+      {
+        "title": "本周重點加密貨幣動態：比特幣接近8萬美元，聯準會決議、DeFi借貸風險與全球監管成為焦點",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCUEgzczRTRXIyZWhZM3lvWjFtRUh1dVpTQmJ2SE9fOUFOdnFJRk1FV3J4MDF5ZGZTSmtCclk4dC1TVmU4Yl9tZA?oc=5",
+        "source": "鉅亨號",
+        "published_hkt": "10/28 14:11",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "主要加密貨幣行情，比特幣跌0.23%",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaWVubHl0enFhRXFTNEtSUmxmZ19UeEZRYXVwRnNWRlVTdW40UUtfUXJNUTJKRnVzRWtkUHc0QkxmNmI5MldpZzctOWM4THl1cVFPNzEtTThUNXBlSF93TE5ET280V3dsZWpEZ1ByTzltSUhQMlQ1ZjBYOThzM3NQLVdZTGxKR090Y21kNWJXUTJJNUw5OEs2OV91SFFpMHhQ?oc=5",
@@ -259,13 +268,6 @@
           "BTC",
           "ETH"
         ]
-      },
-      {
-        "title": "加密貨幣挖礦商Luxor募資1600萬美元 加速拓展AI業務",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xc19JbG1YWDhlQXJwOWhkR0ZDLU1TQkJaUjMtZlpqMGh6RlpPd282Q2FpUlRRMHc4UVU2ZTBlQk5CclUyYlFsNURMTG9iRDhtcVE?oc=5",
-        "source": "蕃新聞",
-        "published_hkt": "10/28 09:37",
-        "related": []
       }
     ]
   }

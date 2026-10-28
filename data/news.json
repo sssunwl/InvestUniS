@@ -86,32 +86,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-28 20:29 HKT",
+      "updated_at": "2026-10-28 21:38 HKT",
       "news": [
+        {
+          "title": "聯儲局議息全球觀望：恒生指數連續兩日在兩萬三關口拉鋸！此乃心理防線",
+          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQMWx0N2steEo4anI4NlZ4Y2tXNldoYzI4LVJIS2ZlVzQ3dnJMTGpHVDZ1b2lGZ20yTjFJY0RianR4SE5sLXF0bmxNUFlZY19MU1FpQTVsLW9sQVM2VWw3bnZPaUN0SHZ3VFNNVHgwa2tRMnNxSW9yWUVpYkVMaG5xeTFfb0ZKYVRGLVJ4X1AySlpIMFhQZWFrTWh0dEFoY0JxN0hVZ1pXUlVTUlpNODVuRUlIVTEydnJKaW1CakpKeU12QW9jWlFGazlUczFBc0NUWVp3d2ExLUwzS2wyQjdaTGlyMk9uc1JSbklDQVJGTWpUOVZoVzBzTFdLTFN5WWNYdE81Mk00ZDNPcG9xcVQyMnhqX1J0SURURVluWHUtNnhERmc4cy1wZnIyYnUwSDllS05tb2FEOVpEbm1YcDkyVXJ0cWtDdW1objNpZFM3dWRIUU0?oc=5",
+          "source": "香港財經時報HKBT",
+          "published_hkt": "10/28 19:10",
+          "related": [
+            "^HSI"
+          ]
+        },
+        {
+          "title": "恒指走勢丨埋單升53點北水走資 華虹宏力飆8%",
+          "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQUjJnczZYN0NXdi1ibFM0cWx4SjVONkVQemNEYzdSUmZGS290RTM2cEo3aGJ0U2dOdGNqNmVORWlYWEVmOTNhRG5HWTd2WGp5UkVCdDFpTlI4WXUzRjJVb3pyUkxVVzhEaDIta2RVbXlDaDJFYUZUOHVEa3J3TVRkQ21VTGNvSXVfSEgzREI0aDlZeVMyd1JDMm1BMWZXLWVyX0VvbnBzSlMwVTFnVFBsbW9NNUhiSzM3RW51MDRnZGkxdXlZYktyMldaS2ZlN3ZGN0VvcEVDQUctT2lKVjBlVUc1OXZFMmtZb2pCUmplMmNiNXNaQWdCdXh2XzhZclhJa2hZTTNFVVRJdTFEcGhucUJPUzVqd2YzUWhtLTM5ODNsVjNjYk1PbTZIajRCWlhWTGw1Y19sTWEzU2xxV25FNQ?oc=5",
+          "source": "信報網站",
+          "published_hkt": "10/28 18:43",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "〈港股盤後〉存儲概念與光通信爆發 恒指微升0.23% 科指走高1.4%",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81ZUlfRWI3TDRZaHVQaElVc2FfOG5DNk9ISTJYSXVkTFRZQ0UtN0pWdEV6dnh3WGViRVplR1M5dmp2SG1uX21TSkFtN3ljWld6MmdzWXpUaEU?oc=5",
           "source": "CMoney",
           "published_hkt": "10/28 17:15",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "【港股收市】恒指升53點 Apple帶挈瑞聲飆10% AI股買盤勁",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MVm9wV2ZpXzFXblFkZ21KWDIya2JEZG9iYWltaHR2Q0t3QWc5eWU5d2hYT0lQaWxsdmZ6Ym1OT19weGUxNUExb0M4UTRaVHAzRmZKbDBwQkRCQTNac296bDhBenpfMWNhOV92bVhR?oc=5",
-          "source": "Now 新聞",
-          "published_hkt": "10/28 17:09",
-          "related": [
-            "AAPL",
-            "^HSI"
-          ]
-        },
-        {
-          "title": "港股收評：恒指升0.23%險守兩萬三關口物理AI、存儲芯片表現強勢華虹宏力升超8%領升成分股作者格隆匯",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00M2VfX2JVS1FHYWkzRmlwUVVQTzRuaVhaR2QwTkk4dEFCNVNjZS1MZlltWlZFRE5MbVVvYmlNT0M0MnVsTG1VSl9wMXNZSXJkM1lQMU5YTDR2Y180NndxRGtkcDU4WXdtQlZqR01XdDQ?oc=5",
-          "source": "Investing.com 香港 - 股市報價& 財經新聞",
-          "published_hkt": "10/28 16:53",
           "related": [
             "^HSI"
           ]
@@ -149,14 +148,24 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-28 20:29 HKT",
+      "updated_at": "2026-10-28 21:38 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數- 放空嘉尾老師在今日節目中說“台股明天（29日）繼續破底”🤔... - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NRHdjcXQyMTZnVjZZZE5ua0p4XzdXMnVybndHZUJjU3lnMWFtcUc3MXhadU1ReE1aem9vYm85ZWZFY252cXlxY04tNHhHa0tuWWZUM0NwMFU?oc=5",
+          "title": "TWA00 加權指數- 加入Fanbar將會有語音直播！10/29 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WSDRiRUNxdVVKNldsX2lOU1IzdjZkWlhBb2hHNGJxSUlpMkZzOEpQZkx2M3BHNzdmbnhrMUxiNDA5NHJuNkd3eHhSWUZIclNjRzJXWFc0dVA?oc=5",
           "source": "CMoney",
-          "published_hkt": "10/28 18:53",
+          "published_hkt": "10/28 19:58",
           "related": [
+            "^TWII"
+          ]
+        },
+        {
+          "title": "TWA00 加權指數- 叩叩叩～台積電、聯發科來敲門！🚪 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiMXl6YVlEY2VIcy1jODFlM25zZWlXdV85NTBOd1liM3ByR1B1dDVnaENCR3hxVkNmU2gxQXNTWGQxQXF3cHBtYWtEMXY1WnRDYUUwa1hrWDg?oc=5",
+          "source": "CMoney",
+          "published_hkt": "10/28 18:48",
+          "related": [
+            "TSM",
             "^TWII"
           ]
         },
@@ -166,15 +175,6 @@
           "source": "鏡週刊Mirror Media",
           "published_hkt": "10/28 18:21",
           "related": []
-        },
-        {
-          "title": "TWA00 加權指數- 三大法人28日買超前十大面板記憶體一把抓掃貨王友達- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NQVlwQjY5azBTemtvdzExaXZfbEZnTFJuUVZFOElJeC1fQ24ySFpMZ2VlbDFjSW5YbDFyUnNidXR4RG5hOUhOOVRRWUx6X1FfMzRqTnpPYXg?oc=5",
-          "source": "CMoney",
-          "published_hkt": "10/28 18:14",
-          "related": [
-            "^TWII"
-          ]
         }
       ]
     }
@@ -209,8 +209,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-28 20:29 HKT",
+      "updated_at": "2026-10-28 21:38 HKT",
       "news": [
+        {
+          "title": "AI疑慮消退! 韓股飆6%觸熔斷 日股再漲685點",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KejVxeF8xRF9Uc0RJRllzdEIyZ0FsNDdyc2RtVDFXRW03VGh3eUlaZVZxNGcybTBIMVJiRWFIdUJNbjg2VmdxOUpZM2hYRWlxbm5zclN3bnlsdlQ0?oc=5",
+          "source": "非凡新聞台",
+          "published_hkt": "10/28 18:12",
+          "related": []
+        },
         {
           "title": "《日股》AI/半導體權值撐盤 日經收漲1.08%",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcEE1Mmc0MW9aWGQ3TElEcWpEOFhuOW5IQy1wVGVXaFdkWlhqSVNWa1VZbUw3RzNJVXNrbjhyOWNFNXJKWnRSNkMzNXB5ZWNXUEMyWGtzQ0ZxdlNkbTF6bldJMU9va1FjNE83SEdOcWFpTV9GUFAtY2h4UVN2TE1QSG0ySU9jTEhtVWpWZThpMERsUQ?oc=5",
@@ -221,29 +228,27 @@
           ]
         },
         {
-          "title": "《日股》財報提振AI信心 日經收漲685點",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTFhMbjBJQk9vV1VRczlBS0ZVckRMYXp4RDlXMmNrWlY2OXJaY3FjZVdBdk1aZmUxMnd3Q21zTWF2cUkzWGdKUTh5dmJmTmFKNUZncHR5UDhzTXpkZkhPX3BWVUdMV3VxTks3RzlUUU9oX09Tb3lPTC1wczhZd212QkNCaFgySWlS?oc=5",
-          "source": "富聯網",
-          "published_hkt": "10/28 15:48",
-          "related": [
-            "^N225"
-          ]
-        },
-        {
-          "title": "日經指數攀升逾1%！鎧俠股價飆漲超過10% 晶片股表現強勁| 全球財經| 全球",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sdmppbnNjVmVhSUJQT1pkSFhVY2Nwa3pPcVBIYktFSXdvcWMxUUVDZ3RLcUcwNHh6UkxNYUx2YXRxX2syMmUtVjRTblctczN6?oc=5",
-          "source": "UDN",
-          "published_hkt": "10/28 15:18",
-          "related": [
-            "^N225"
-          ]
+          "title": "SK海力士財報利多提振市場信心　科技股飆漲亞股多收高",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yVTdGcHRseGkxSkptdTlDZV9jTnpLOHI3RUR5WkxJcnBDanROZWJZbFdwNHBud01oRkhPUG5KVDhLYU1MUzRScXgzVFF0OFMwQjgtNFRLTlFHQdIBX0FVX3lxTE4tbm5DS3JCbG4yaWphbDNmd0wwNzR3OElSZExZR1pNbmR5NFAzcjliZDh6Q205NXdfeXJvWHdpVEh4YnJoRnVhelFmcHhFYmg4bndsWWxKUVZJTDhZM2FB?oc=5",
+          "source": "經濟日報",
+          "published_hkt": "10/28 17:55",
+          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-10-28 20:29 HKT",
+    "updated_at": "2026-10-28 21:38 HKT",
     "news": [
+      {
+        "title": "泰國最高法院認定比特幣為「財產」！蘇梅島搶劫案 2.48 BTC 須返還",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82blRfQ0ZKVVdMa3diZEVmVlhqdTBVWi1hSmNON2ltekQ1OVhaSEZwR2ZPQUJlQjY0Q2N0aE1wRHhGa1BObEtnOENWN2FlTlpJNVZ1T2VkeVVGUXBna1Z4WXNuU0lQbnpCN2xvR1JIcmRDX1dRbWc?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "10/28 21:03",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "比特幣、以太坊和XRP是否有望在美聯儲決議後上漲？",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN1ZKZkVQTkdiYllpY2JTR2xhbE9lV2k3ZjlDbGJ3WjVXZVJMX1NoRU11d0FBTnNOUkJyTHZJbFEtVXBxSVpPblBYV3Q4d1VoNUoyOTNfN3NJOFJMbnBYd2lIeFZDUWhYN0J0eDlCQ0NGUUdQWHhVdklLUjRJd3FCRk84ajRlcjJiZlVoU0psLU5IeWRUd01kNkQ5VERrdmJWMi1NUzVDaE1aNzNLUWt2RHktU3FvWUprNkhreTJLMnhRNF9mOEZNSWtmcXlvSDFMRmpKenNCS2NrSUFXdzN30gHfAUFVX3lxTFA3VkpmRVBOR2JiWWljYlNHbGFsT2VXaTdmOUNsYndaNVdlUkxfU2hFTXV3QUFOc05SQnJMdklsUS1VcHFJWk9uUFhXdDh3VWg1SjI5M183c0k4UkxucFh3aUh4VkNRaFg3QnR4OUJDQ0ZRR1BYeFV2SUtSNEl3cUJGTzhqNGVyMmJmVWhTSmwtTkh5ZFR3TWQ2RDlURGt2YlYyLU1TNUNoTVo3M0tRa3ZEeS1TcW9ZSms2SGt5MksyeFE0X2Y4Rk1Ja2ZxeW9IMUxGakp6c0JLY2tJQVd3M3c?oc=5",
@@ -260,16 +265,6 @@
         "source": "TradingView",
         "published_hkt": "10/28 16:21",
         "related": [
-          "ETH"
-        ]
-      },
-      {
-        "title": "昨日美國比特幣現貨ETF淨流入1.76億美元，以太坊ETF淨流出6020萬美元",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16OHpRRmJFV2pDcnpKaHRtYnFaSUhlcm9zY2VDN2gtOEpqXzJ6M0RLRkVXdFhGWWFaNkhTLUlERF9OMEU3OE5GcUExWUlzYWs?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "10/28 16:05",
-        "related": [
-          "BTC",
           "ETH"
         ]
       }

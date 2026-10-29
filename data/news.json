@@ -86,8 +86,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-29 21:47 HKT",
+      "updated_at": "2026-10-29 23:20 HKT",
       "news": [
+        {
+          "title": "【港股夜期+ADR+夜期】京東美股高港2% 夜期升142點（不斷更新）",
+          "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOcjQ3NmlrSVhqUFBKdGs5c1NydklzWjdsb1Fjdldhb1QxaUk3MDRnRDBhYUtKQnI5S0RDeXNYM2lpcG96dFo5WTRCUGVqVTRWZkh6QzJDeksyNFBSbUdkSnBYaGZzYnhCVzh0WG1lZFI1VVZGWnluREdiNWFmRHEtOVlSZVBiSEVTZWo0anVZWEVtaTRjbEY1SUlEa3Zra0QwV0RxanBKQnpmb0lITi1aZHI5aDBOZXR0UkUwNWVwbWp5OWljMi1TV1ZBVXYtTnVsSmtrcDIxR2k4VW15NmJVOVAzekNvS045NkRCTUdtamM2WWlvUjhTdFBhbzdwdG5lckVpX2xnV2pxOHY4QU9ZZ2c5LWJWRDl5ajFyb0paaGtXakw2X0Jmcmx5dC1LTGhBREN2ZXZqa29iTE1QWTJBcHhVWFBZVUVvM0ZIc3BrU0pqUWxHWk52bTFpTGFsRHhhVnlKdFZBU0FtWlFra25laUJKaExFWWlBR3NIXzI5Q2l1YXIxY3VKaTJ1SGwxS193UFVJY1JTVQ?oc=5",
+          "source": "香港經濟日報HKET",
+          "published_hkt": "10/29 23:10",
+          "related": []
+        },
         {
           "title": "北水連走12日！千億IPO前夕，外資恐再沽阿里09988套現|香港經濟日報",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTmlQTGk5Q0xFbFdvMDlTa0gweXZjX3ROaHhndWEzd0tWUFg0SXl1YVQ0aVhRUDhXXzl3ODZ1aWw1R0RQNi1yZDRzTjZudEs3ZlpMeWY1VFFaWC12THRyNjF0ZV9sSFJMNURmdTlmQXlxSE9QejBlUjV5a3JwVWx2dUJBbUVoRXpqM0Noa1R6emc?oc=5",
@@ -96,20 +103,13 @@
           "related": []
         },
         {
-          "title": "【港股收市】恒指跌136點 又失23000關 科指挫2.8% 逾2年低",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81QWEtMUwwNzBHSHEwUFprZTViSE1hNDZMN1VhNl9LRGQzOGdkanRIWUZtLU4xMUNXRjZMVnhRb05iZEg5a2RYa0tOTXRmenZPQWw3TnhaNmlJSmpEOHBHWVNpbjU?oc=5",
-          "source": "Now 新聞",
-          "published_hkt": "10/29 19:51",
+          "title": "港股收評：恒指跌0.59%失守兩萬三關口 光通信概念重挫 工建農三行齊創歷史新高 作者 格隆匯",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PZVBLVUZQa2ROYmZNbFJ3Q0hmQXA1dzFkaU5URkVfdXNzZEpBbFpPdGFNanNKVExKM3hvbHdpcWctdHBINTZCcnBrd29XQ3F6REhLdG9yN2NMUUc3U2t0NmdURGFXSUpHMVJyaHM2RlM?oc=5",
+          "source": "Investing.com 香港 - 股市報價& 財經新聞",
+          "published_hkt": "10/29 17:47",
           "related": [
             "^HSI"
           ]
-        },
-        {
-          "title": "【北水+夜期】北水單日走資33.6億急增3.2倍連續12日淨流出資金掃平保智譜、續沽中芯阿里中海油夜期微升5點（不斷更新）",
-          "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxPWjNmN09XMmV0Z3J3bDVjNlE1RlFjUk1KOE94MTdLR2Q2Z2xJRzEzdDl0WkNuaHhYVElpRDRwOXUxNFFsWnlJMzREYW4zZ01CUzIzOW1wWjlSZDYtOHFQRXBSb1pGTXJBTlVnbVp5SE1OdFJlMzlVN1pZSEV0VEp3NXR5WXJRLThGUXBWOUtJUThpMndxU0RLLWUxa3NuUENVTGtvdFB5eGJPVjA2NjBJb0YzUkhVZVBYcGZwLUhNRld4WjlWbzNmQ05Mb0ZVaENEY0RJZGxlWnFtY1VVS1NaOVNlMWdIRVd2amE1VFdvQ1N5QzhRaE5XZ0NHZDNJRkhrQUFQTktsT2gzSExiS21zdTZYNEdzaTY4SEJRc1FLMDJFVjdoRTYtY05WSmZQajN2Q0VPYXRza0JHSmZjMWJrWktEOVBhT0pDT1NpRy14UkN1aF9fNVRPVi1EZ2tRSS1jSzFicDQyNXJneHNkT1gwWkRaR29ad0FmT1dLaDNpb1ZkcEgxTzhkSnItRjVaelotSEl2U2t4bXE3aElmRkhNVnA2WjhId3ptSEdQNG53a0puWjBOc05ZMHBYQi04REk4dGNYQUtvczBKV2hQd09Hczk4UEhMTFpobWVYMkZ2Rk5NNlBOTVpsN3c0U0lDT0RyUUxNS194Zw?oc=5",
-          "source": "香港經濟日報HKET",
-          "published_hkt": "10/29 18:33",
-          "related": []
         }
       ]
     }
@@ -144,13 +144,13 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-29 21:47 HKT",
+      "updated_at": "2026-10-29 23:20 HKT",
       "news": [
         {
           "title": "當台股只剩台積電、美股只剩七雄 大盤ETF還能買嗎？權重指數是什麼？",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16SVJWbXRMcWZob1J4cWxrZWVTXzg1WTBFaDc3OXV5N1hfbjhVSzdyT01jYzRJX1RfaE5DbmxrN1Y1clgyQVl1WDRHT2doQQ?oc=5",
           "source": "天下雜誌",
-          "published_hkt": "10/29 21:22",
+          "published_hkt": "10/29 19:22",
           "related": [
             "TSM"
           ]
@@ -206,7 +206,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-29 21:47 HKT",
+      "updated_at": "2026-10-29 23:20 HKT",
       "news": [
         {
           "title": "【亞洲股市收市】A股創業板指重挫4.45%！天孚通信績後瀉19%，日股逆市造好",
@@ -235,17 +235,8 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-29 21:47 HKT",
+    "updated_at": "2026-10-29 23:20 HKT",
     "news": [
-      {
-        "title": "加密貨幣價格預測：山寨幣、比特幣與ARK——歐洲收盤綜述 10月29日",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOWV6bkdEQXVXU3d1T2Qwb0FtQVdKWDdWYV8za3pEcXhld0FITzhlbHVmN0Y1NG9QcVNfVEVGYU1WWXR6QkV0UURjdGxCRGRfcjI3aUpaNzFucTVhNW5Md3QtazhjLU5ycm9HbklEQ2NUTE1yQ1RtOTM3WC1TUDdGSV9WSWU1WEMyZUJqNFdwWV9xUTc1X09DQVRsWTZVQUVxYkd0dEUxbnBVcDJMNG1kX3BibFk1c2x3cXVmbS02Snd6SEp5R1ViTkdOSUw1cnljVk50RFN1NFNHRDM1b3I3MjY4RjVMcDdMNGFv0gHrAUFVX3lxTFA5ZXpuR0RBdVdTd3VPZDBvQW1BV0pYN1ZhXzNrekRxeGV3QUhPOGVsdWY3RjU0b1BxU19URUZhTVZZdHpCRXRRRGN0bEJEZF9yMjdpSlo3MW5xNWE1bkx3dC1rOGMtTnJyb0duSURDY1RMTXJDVG05MzdYLVNQN0ZJX1ZJZTVYQzJlQmo0V3BZX3FRNzVfT0NBVGxZNlVBRXFiR3R0RTFucFVwMkw0bWRfcGJsWTVzbHdxdWZtLTZKd3pISnlHVWJOR05JTDVyeWNWTnREU3U0U0dEMzVvcjcyNjhGNUxwN0w0YW8?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/29 20:48",
-        "related": [
-          "BTC"
-        ]
-      },
       {
         "title": "美聯儲按兵不動，科技財報成加密市場新變量",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51VGNoWTNTdlJTSlB2OU5BMkY1QUJRWkExak0zck0ySTVYRjRpUVBiU1NUSURBQTJJYl9kaTFLM2RmWmlWVW9aME93S1ZMOGRlbjZUZjczRm9rR2RoeS1FQmNIeDRWUEE0SzRQbk1ZUTdPT3Jh?oc=5",
@@ -254,12 +245,22 @@
         "related": []
       },
       {
-        "title": "隨着價值100億美元的比特幣期權臨近到期，答案就藏在價格之中：加密貨幣日報",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORUVsOFdVb3B2N3d0NFVPa0Vzc3Z1ak9OU2E5T2dabHJGU09BSF91OTVSSnA4dVZhczBCRkN2RkVwNWhIRDF1QzdVSk5JOVZ5THVUVUhHM2hfU040ZEF2TzdUdWxYX1ZyV0NYTTNNUjM0RGliaVotdEVkS3JVanUtbEFTcnlzS01qUEo4QWs1TDJ6ZmV3RTkyei1OWFBIYm8za1Rscw?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "10/29 20:04",
+        "title": "泰國大理院裁定比特幣為財產非貨幣 釐清數位資產法律地位",
+        "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNdHRQb1FNdEdiSWg1QVhTT0lqQ0RrYzJnTkd1QTNSbEpTZ0NYQmRySngwcktWTG5tOTZFLXlZOE1NMzZGY3VrTG5PdkktVFg2MlNULWplaEMwQWp2NllUWjFOdUdkai1iNmtMNDBhZ0d1RWhsaEpZMy1vTG9NU1hnemV3WjIydVpLOHJKY1dsRGVfUDg1MVlmeHdhRlB5eFh2ZWVmeUF6SHowMFJUSjF2d3Flc1lZNHFvYkludXplb3FEdGMwNGhPc2ozNnZlUFRGeUxTazJrb01nQzFSMThOZDRQM3NZQ0NQM3liY0FZbzV3UmZWQjZrMnpTR2JZajYwS3NoblM2ejNBQ2ttYkk4aVJIUmpobVUyUzVMT3hTWkxfaVc3eUJ6QXVHZXlneFBtWlBUZWlNZkU1RUdscFBVcXZmV19CMm9WVzVKS3cwb2dxSGM4UnJaRFJEdDNpLVNLbS1OVGZDN0VfNG8wVDBGN09NT1NYekVhWkhWMUprSkE5OEszTm0tcU92RElVbzZSeEI4?oc=5",
+        "source": "商傳媒",
+        "published_hkt": "10/29 19:00",
         "related": [
           "BTC"
+        ]
+      },
+      {
+        "title": "比特幣、以太坊、XRP 在聯準會維持利率不變後下跌",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkhFTXpZMkc1TXlPX0RfdDM3a3dlajFMd1QwV2N1YllCbnZBWTN1UzZWZWpyNnZTTkhyZmFPdUFFd3E4RENieDV3c3ItR1MwQmtESVp4Q0UycDdsYmZXNGxKYnViTC1ibkVHQmVMLU1kejROUjZYMFFsdnRJS3UxQk9TRlRjb3ZiVGJDMl9IY01FRGkxNldJYTVtYWJfRGVvT2JyeXdieWV3dw?oc=5",
+        "source": "KuCoin",
+        "published_hkt": "10/29 14:37",
+        "related": [
+          "BTC",
+          "ETH"
         ]
       }
     ]

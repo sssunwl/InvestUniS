@@ -30,27 +30,27 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-28 10:25 HKT",
+      "updated_at": "2026-10-29 10:33 HKT",
       "news": [
         {
-          "title": "華許今夜還能嚇到市場嗎？",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9UZHBUdVFnR3pqSl9UR05RdTh0MUtvVDZiSDFvXzBzOWtLM3hwTnFWT2g5U2hsWkhnLWQ3ZnBxcGhGWnRRQTEzRw?oc=5",
+          "title": "美股盤後｜FOMC 按兵不動，Oracle 帶動半導體類股領漲，美股收紅1029｜豐雲學堂2026 年 10 月",
+          "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOaEFWZ0JFdjVPMFNnZGFiRlJlel9tQUt0VTN0My10eDVGUDU0ajRQS0VGX2VBZ0xOYnMzWWZHUkNTdTZsU0FZbWhPaDVlTEoyUm5ub2twRGoxWFJrNHVZQW92WWxZZjhZQTJ0YUwzRHktN3cxOTJudExJdFNlc0RwYy1FV0l3VkFsN3pNandDdGExcGhyMzRXSTBGaHkyRDEwU3RtdlMxczcyZUZ4YUZGUUhvX0xyWXE5cGQ3QkU0ZVNlMVNvUjVQWmIwb2lRX2RGLV9TcHp5U1lvSjhPcl9IS25GeU1fUF81LTBXX3gtYl9YUlFZLU1tRml2X1p2a1MtX2ZLbllPSE8zQzBlNGhJS2tFUDlqSkE0LS1Yem5mRFd2V3dpSjVqRHpuVHJnV3dRRWtkMHBNSTlBc3hyUnJmSGFRTVJtaTN6ZFR3X3N5eElDSEFfT0Jwc2ZHb2xMTm5JTmE0MmpJNGFmNGpDeTB4bFdiRjdNbzI0dTk4VU4xRURfVkg0TG1ScllPS2ZYd2JkaEhvNE53NXctc28?oc=5",
+          "source": "永豐金證券",
+          "published_hkt": "10/29 08:29",
+          "related": []
+        },
+        {
+          "title": "〈美股盤後〉Fed按兵不動 三大指數連三紅 SK海力士ADR、甲骨文狂飆超10%",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DX1VDbG5TSVJlR1FUZGpLNXIyaGZYQ1hNd2xEeXpxVXFoRDlPWGtjYVFOckVVNE1WbEpudl9JOWpTMm1UT2FoTU5fMEs1WTg?oc=5",
+          "source": "鉅亨網",
+          "published_hkt": "10/29 08:14",
+          "related": []
+        },
+        {
+          "title": "剛剛，升息25個基點！這國央行，突然宣佈",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zOElYQlc0dnVCTnk0VldScGsyaUJ1NjlyVlFld29IYkFxc1ItUmRzZEFkS2tndlBrZDZrdGdoM1p3LWlFN0J4Rg?oc=5",
           "source": "鉅亨號",
-          "published_hkt": "10/28 09:39",
-          "related": []
-        },
-        {
-          "title": "〈美股盤後〉Anthropic IPO熱潮延燒 費半漲3.6% 波音崩逾10%壓抑道瓊",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rc2RrTkJTTTNYZkd6cmZubTZGaGdyOXN5c29ia3FXRWU5a0xyMTF5SndPWE5tWHhDOENEVUZ0RWlmaGNQbmdWQnB5NkVyRm8?oc=5",
-          "source": "鉅亨網",
-          "published_hkt": "10/28 08:44",
-          "related": []
-        },
-        {
-          "title": "全球經濟指標 | 鉅亨網",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MWDczb0VIbE5YVlR6aDRlcDBqNlhFWUNZVndjczlpX2xNUmt3WTVsQXhEbmFEUGVGVUR4YjNLUTdlUUl4a3ZmTnNRWk1hSjFf?oc=5",
-          "source": "鉅亨網",
-          "published_hkt": "10/28 08:01",
+          "published_hkt": "10/29 07:59",
           "related": []
         }
       ]
@@ -235,31 +235,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-29 02:42 HKT",
+    "updated_at": "2026-10-29 10:33 HKT",
     "news": [
       {
-        "title": "比特幣和黃金預測：BTC多頭守住8萬美元，XAU在美聯儲前守住4000美元",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPaVdNTVFEc2NqTGc0RlVmY2lvVzJiN1ppRjJ0NUJsekdCSWthZHUtdlZvRVVtc3kyUUhBWnF3cE43a3RYMUVEQmJ6ODVVNFE4RUpZZzZHcmJ2bUpKeE5KN2g2U2wtSWh5d0pJZTFhX2JJQVRkZ3FEV25SbkZDa09sdEpvdW96aGlnNjhQTENnb3BXYXpOM3JYOWNSclhsU2lyWFR5X3hZRDJid2hSbzNyclE3aXBvenB6bmlzcjRiQzZmRkIwNldScy1OeTJ2NXpwYkNMRWd2VlltLWhlUFU3dVU4Z1BQZWNDT2ZKOTV5NXAtdjVXSWQwUDc2Vi1SYi160gGAAkFVX3lxTE9pV01NUURzY2pMZzRGVWZjaW9XMmI3WmlGMnQ1Qmx6R0JJa2FkdS12Vm9FVW1zeTJRSEFacXdwTjdrdFgxRURCYno4NVU0UThFSllnNkdyYnZtSkp4Tko3aDZTbC1JaHl3SkllMWFfYklBVGRncURXblJuRkNrT2x0Sm91b3poaWc2OFBMQ2dvcFdhek4zclg5Y1JyWGxTaXJYVHlfeFlEMmJ3aFJvM3JyUTdpcG96cHpuaXNyNGJDNmZGQjA2V1JzLU55MnY1enBiQ0xFZ3ZWWW0taGVQVTd1VThnUFBlY0NPZko5NXk1cC12NVdJZDBQNzZWLVJiLXo?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "10/28 23:53",
+        "title": "微策略特別股創五個月新高 Saylor 設 100 美元門檻續購比特幣",
+        "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxQaWNKNUZET1BjWEVtRXNWbS0zcGwzQlcwdmlMTF80MHIway02OWwtV1h5V1B4eFVnYVBwdVVuTXRjczk3SF9zZExQekVMVFFsU1RqSmRLUW55Y2pFaS1xUXFrdndNel9TZlhjU0M0WnBGcUlaU1ZCNFZVME9nRTZmTHdNNFBXWEpVTF84eHluUkRsWldRSi1pR21QWFVmYnF6djgwdEcyc3pWYWdoaVplY0FCSHdkZGpnZ0Y0VlZpeFBzcVR4dUdxYTl6Wnl6Q3BJZHZQZEFXOGpHdHoxUm9uR2NSR1Z6RkU5THFPTmQwMVRzRUZTM0pmZmNVd2twbXhjekxpVFh3cmItYzQ5em1xY0p4Q01lNExqMnJRbXA1NzBZcVJNRU9MT0pjcDRMZ3YyZDVJSDBXLTh2bHVBRlVtM1NHR2VkMmgtS2d1WThOLVFZMlVQWVVsOFZ1M2VkVE9oTE1xV3o3UEdOU1ZuSHB0ZDdld3M2YzB5SjBn?oc=5",
+        "source": "商傳媒",
+        "published_hkt": "10/29 10:11",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "Google 預覽機構加密託管資安系統！MPC 私鑰分片上線，Alphabet 已護自家 ETH／SOL",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YNXZncUVxR0JqYklEZlNUTjRWb1BmaHBTb1A2c2VDUlo3RTRaMXppTXBYYjdCamJ3YUx3WlVlclhYVk1BOHZTbTB6T0RWSDZrSlVqRXZMemhYc0t4NnJfQmhoenFWTXg0Nm0tWnNR?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "10/28 22:36",
+        "title": "沉寂3年後甦醒，以太坊OG錢包向Coinbase存入2119枚ETH",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82bTFvU3pvQ1pGWTh2TG41MUpRN0RiVG91ZTdsaktmX3ZTYk1raTZPcGV2Y3llRWtOck1sS0NXa3NNdU5WV3hhdklsTUF0QW8?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "10/29 10:05",
         "related": [
-          "GOOGL"
+          "ETH"
         ]
       },
       {
-        "title": "10月28日更新： #比特幣ETFs: 1D NetFlow：+2,189$比特幣(BTC.CC)$（+1.764...",
-        "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQNmQ3bHdkdFNldFlMMkZxb2t6aERZeUlyWWdMRFk1MEptRUNQbTdja045Y3NaaVQ1bF9iWFlXdHFSSURURDB3M19CVXpJS0JBWERUVGlCbDRSb0hyZjBUb0UyZGRpcjNsVDBvY3QtMGw5ZGt3eGcweTRmalBSNmJISzVnb21sc2JMSG1XVWd2NkdtY0F6cjhoOUdjNE9yY1hTd1BReHFscnZUYzFFcFozT3dyWmEzT0FuSTVvWXgyaEdGRXJxYVJ2alAtSU5VOUJxRnlBTmtXb2pCSDFpUGcyZUxOd05NUDJXWTdCQU11dnJLZkM1bXFjOVpXck5Fa3RCRkloNmpTdFludTJGRkItcjVpMlZiWUZEWHBaZm9VQkZ4WFRYNEhubF9jTWs2cVBmZUtNOG9PZmw4OUduWEZtbjRLWV9RSTZMb1dWTVM3NjFxemM3dnFFNEpyN2VmUDlpWWdRY3JrM2lFVHQ0S1haT2o4RGZxdUtmMUwtZ05ZU2o3VVhsR0ZGQkhqZw?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "10/28 21:52",
+        "title": "不賣 BTC 也能買房：加拿大 APX 推出比特幣「抵押房貸」",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPek56cW5pX0Q4X1RMb0dhWlZGaFVsS0ppaUNlaHI0Rk01YlpsVnMwRTBwTkJjNXVlVFFLTjBJeVUwcG51UHg2VWhqUnFfMVBGem50V2NJU1F3UThJOHd4Nmx0M2lqVi1tYXpRYXlpUTZDZHhSbm5MSlZvWXRiM3dSdFpmOUgzMDhUZUE?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "10/29 09:46",
         "related": [
           "BTC"
         ]

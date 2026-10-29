@@ -235,32 +235,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-29 23:20 HKT",
+    "updated_at": "2026-10-30 02:52 HKT",
     "news": [
       {
-        "title": "美聯儲按兵不動，科技財報成加密市場新變量",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51VGNoWTNTdlJTSlB2OU5BMkY1QUJRWkExak0zck0ySTVYRjRpUVBiU1NUSURBQTJJYl9kaTFLM2RmWmlWVW9aME93S1ZMOGRlbjZUZjczRm9rR2RoeS1FQmNIeDRWUEE0SzRQbk1ZUTdPT3Jh?oc=5",
-        "source": "風火輪傳媒有限公司",
-        "published_hkt": "10/29 20:45",
+        "title": "Coinbase財報即將公布：穩定幣業務成長能否抵消交易量壓力？ 作者 Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBadG9TU3kyYm8zbkdqdjFhdmVFNnZvZDRLZ3dXOUNRSGVoVWlOaVlqQzNCQjJGTXkybm5NLTNsTlpEbFZPZ3ZfWGZEUzI5aUNLNmh1UDZDMFU2WG1VNVdtamhLdGZWMWhtdzBj?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "10/30 00:21",
         "related": []
       },
       {
-        "title": "泰國大理院裁定比特幣為財產非貨幣 釐清數位資產法律地位",
-        "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNdHRQb1FNdEdiSWg1QVhTT0lqQ0RrYzJnTkd1QTNSbEpTZ0NYQmRySngwcktWTG5tOTZFLXlZOE1NMzZGY3VrTG5PdkktVFg2MlNULWplaEMwQWp2NllUWjFOdUdkai1iNmtMNDBhZ0d1RWhsaEpZMy1vTG9NU1hnemV3WjIydVpLOHJKY1dsRGVfUDg1MVlmeHdhRlB5eFh2ZWVmeUF6SHowMFJUSjF2d3Flc1lZNHFvYkludXplb3FEdGMwNGhPc2ozNnZlUFRGeUxTazJrb01nQzFSMThOZDRQM3NZQ0NQM3liY0FZbzV3UmZWQjZrMnpTR2JZajYwS3NoblM2ejNBQ2ttYkk4aVJIUmpobVUyUzVMT3hTWkxfaVc3eUJ6QXVHZXlneFBtWlBUZWlNZkU1RUdscFBVcXZmV19CMm9WVzVKS3cwb2dxSGM4UnJaRFJEdDNpLVNLbS1OVGZDN0VfNG8wVDBGN09NT1NYekVhWkhWMUprSkE5OEszTm0tcU92RElVbzZSeEI4?oc=5",
-        "source": "商傳媒",
-        "published_hkt": "10/29 19:00",
+        "title": "主要加密貨幣行情，比特幣升0.55%",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkhTSnd6QV8yeFFSR1FaMUEwR0k2eHVEMzVoNGMycExyYU8yQ1hMUTJkVGxtSXRWMFgxN3gtakt1eVZ0Z2ppMEdOOE5yTDlObHYtSGpfUGVrUUQ2cFRRMkR1eFpjY1d4YXlBX2lyazR3UzUyMlkyc0JhYlJteVBhZ3NkcjBEWldPZVRGYWl2RGc0c3Z3LWc2dWZ3a0VzV3NP?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "10/30 00:01",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "比特幣、以太坊、XRP 在聯準會維持利率不變後下跌",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkhFTXpZMkc1TXlPX0RfdDM3a3dlajFMd1QwV2N1YllCbnZBWTN1UzZWZWpyNnZTTkhyZmFPdUFFd3E4RENieDV3c3ItR1MwQmtESVp4Q0UycDdsYmZXNGxKYnViTC1ibkVHQmVMLU1kejROUjZYMFFsdnRJS3UxQk9TRlRjb3ZiVGJDMl9IY01FRGkxNldJYTVtYWJfRGVvT2JyeXdieWV3dw?oc=5",
-        "source": "KuCoin",
-        "published_hkt": "10/29 14:37",
+        "title": "比特幣徘徊於8萬美元關口，鷹派聯準會與通膨數據施壓 作者 Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80Tm9JWkhIdEY1bXdDV0NzbWZHSWJzZEVCek82VC1MYXdUZGgyOG0tMzh1NjFlR3k1NjZja2hIOUViZ0hRUGtZWERfaEw5T2tISzlnZ0V0alUwck1kOWFIUERMYlVtZGJpdEJsTWp6TEItWGc?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "10/29 23:58",
         "related": [
-          "BTC",
-          "ETH"
+          "BTC"
         ]
       }
     ]

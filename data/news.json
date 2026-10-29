@@ -146,7 +146,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-29 14:17 HKT",
+      "updated_at": "2026-10-29 14:41 HKT",
       "news": [
         {
           "title": "兩大陰影壟罩華爾街！？加權指數上沖下洗！現在是該恐懼還是貪婪？",
@@ -235,7 +235,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-29 14:17 HKT",
+    "updated_at": "2026-10-29 14:41 HKT",
     "news": [
       {
         "title": "主要加密貨幣行情，比特幣跌1.37% | 即時新聞 - 新聞",
@@ -256,11 +256,13 @@
         ]
       },
       {
-        "title": "LU2170387828基金價格，報價，新聞，基金投資",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sVlF6bVNQVlZnS2tZUHhUcktkdk1SdEVrNXpqamtEdmJBNGNFeGQ2dVdiZTkwejd1OU5pU1hGdGxJa2daZFZ6ajNQSHJFbmxMeVlzR096M3hUb2JLMmlSOU4zYklMZw?oc=5",
-        "source": "Markets.com",
-        "published_hkt": "10/29 11:22",
-        "related": []
+        "title": "微策略特別股創五個月新高 Saylor 設 100 美元門檻續購比特幣",
+        "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxQaWNKNUZET1BjWEVtRXNWbS0zcGwzQlcwdmlMTF80MHIway02OWwtV1h5V1B4eFVnYVBwdVVuTXRjczk3SF9zZExQekVMVFFsU1RqSmRLUW55Y2pFaS1xUXFrdndNel9TZlhjU0M0WnBGcUlaU1ZCNFZVME9nRTZmTHdNNFBXWEpVTF84eHluUkRsWldRSi1pR21QWFVmYnF6djgwdEcyc3pWYWdoaVplY0FCSHdkZGpnZ0Y0VlZpeFBzcVR4dUdxYTl6Wnl6Q3BJZHZQZEFXOGpHdHoxUm9uR2NSR1Z6RkU5THFPTmQwMVRzRUZTM0pmZmNVd2twbXhjekxpVFh3cmItYzQ5em1xY0p4Q01lNExqMnJRbXA1NzBZcVJNRU9MT0pjcDRMZ3YyZDVJSDBXLTh2bHVBRlVtM1NHR2VkMmgtS2d1WThOLVFZMlVQWVVsOFZ1M2VkVE9oTE1xV3o3UEdOU1ZuSHB0ZDdld3M2YzB5SjBn?oc=5",
+        "source": "商傳媒",
+        "published_hkt": "10/29 10:11",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

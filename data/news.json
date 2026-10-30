@@ -30,28 +30,32 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-10-29 10:33 HKT",
+      "updated_at": "2026-10-30 10:42 HKT",
       "news": [
         {
-          "title": "美股盤後｜FOMC 按兵不動，Oracle 帶動半導體類股領漲，美股收紅1029｜豐雲學堂2026 年 10 月",
-          "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOaEFWZ0JFdjVPMFNnZGFiRlJlel9tQUt0VTN0My10eDVGUDU0ajRQS0VGX2VBZ0xOYnMzWWZHUkNTdTZsU0FZbWhPaDVlTEoyUm5ub2twRGoxWFJrNHVZQW92WWxZZjhZQTJ0YUwzRHktN3cxOTJudExJdFNlc0RwYy1FV0l3VkFsN3pNandDdGExcGhyMzRXSTBGaHkyRDEwU3RtdlMxczcyZUZ4YUZGUUhvX0xyWXE5cGQ3QkU0ZVNlMVNvUjVQWmIwb2lRX2RGLV9TcHp5U1lvSjhPcl9IS25GeU1fUF81LTBXX3gtYl9YUlFZLU1tRml2X1p2a1MtX2ZLbllPSE8zQzBlNGhJS2tFUDlqSkE0LS1Yem5mRFd2V3dpSjVqRHpuVHJnV3dRRWtkMHBNSTlBc3hyUnJmSGFRTVJtaTN6ZFR3X3N5eElDSEFfT0Jwc2ZHb2xMTm5JTmE0MmpJNGFmNGpDeTB4bFdiRjdNbzI0dTk4VU4xRURfVkg0TG1ScllPS2ZYd2JkaEhvNE53NXctc28?oc=5",
-          "source": "永豐金證券",
-          "published_hkt": "10/29 08:29",
+          "title": "美科技股財報失色、AI支出疑慮再起 台股大跌逾1500點失守45K、台積電跌55元",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDTXFnV0xUb21FSjBOUzlsbHNuZmZoMmszZ2lPaEpPWGVsSDZWX3d5T1FEYzFiOTRyWVg2a2V0TEJ5eGVFQlBVdmhnU2FMb3labEdmSG0wVk5MQXlvakdXTHJpdUFRTTh1TWw2Vk5Lc3VDWHg1?oc=5",
+          "source": "LINE TODAY",
+          "published_hkt": "10/30 09:27",
+          "related": [
+            "TSM"
+          ]
+        },
+        {
+          "title": "美股財報／PC市場放緩衝擊！英特爾財測遜 盤後暴跌22%",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54RElHOEtIc0VqUWNWYVFuZTU0dk5Wb0JwVUZUa1Y0OWtudkpRaVE0d3kzSjVHb2pZY1pyNkdzc0VhMUlVV1JMc1JLOV9kVVFTSzF4QmRuQURCcG9qU0pj?oc=5",
+          "source": "非凡新聞台",
+          "published_hkt": "10/30 08:09",
           "related": []
         },
         {
-          "title": "〈美股盤後〉Fed按兵不動 三大指數連三紅 SK海力士ADR、甲骨文狂飆超10%",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DX1VDbG5TSVJlR1FUZGpLNXIyaGZYQ1hNd2xEeXpxVXFoRDlPWGtjYVFOckVVNE1WbEpudl9JOWpTMm1UT2FoTU5fMEs1WTg?oc=5",
-          "source": "鉅亨網",
-          "published_hkt": "10/29 08:14",
-          "related": []
-        },
-        {
-          "title": "剛剛，升息25個基點！這國央行，突然宣佈",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zOElYQlc0dnVCTnk0VldScGsyaUJ1NjlyVlFld29IYkFxc1ItUmRzZEFkS2tndlBrZDZrdGdoM1p3LWlFN0J4Rg?oc=5",
-          "source": "鉅亨號",
-          "published_hkt": "10/29 07:59",
-          "related": []
+          "title": "山雨欲來？美股科技股重挫Alphabet暴跌12％ 台指期夜盤狂跌643點",
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQU2VqbzJWVG5Rdm4zUHNJTVpqRXpKdDdERW4xckY5c25fM2xMVzhNaC03am9RaU1MNDBXNFhSQnJYMHptZzhIOEJsUXNaN2dJSG90REtReXVLTFIyMzdJdldqYVYtdy1oZ2R6eVR0bDhLNnNfR0IwQmQ0SE9PNmQ0MUlMRDJZZlZMRFppSi1TVU04cXpKSkJEanhyVXJoRXh3ZUNtZDZwVVV1V1JZZW5RRzVNTHBKRWU2RDlCZlpBSUMxVEJzS1l0YVpWWTdhRXgtU19fejU1VWc4X3l6V01SVGw3NDBpLTZROHJmT0drNERHdVlwWUlfX1g2dWhCSlQzUng0aEw0WHJTSGszekJnckFQTldVRlNtcS1NaDR3WG5RN2ZMZjZnT2Zqck1udm8?oc=5",
+          "source": "Life 生活網",
+          "published_hkt": "10/30 08:04",
+          "related": [
+            "GOOGL"
+          ]
         }
       ]
     }
@@ -235,32 +239,34 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-30 02:52 HKT",
+    "updated_at": "2026-10-30 10:42 HKT",
     "news": [
       {
-        "title": "Coinbase財報即將公布：穩定幣業務成長能否抵消交易量壓力？ 作者 Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBadG9TU3kyYm8zbkdqdjFhdmVFNnZvZDRLZ3dXOUNRSGVoVWlOaVlqQzNCQjJGTXkybm5NLTNsTlpEbFZPZ3ZfWGZEUzI5aUNLNmh1UDZDMFU2WG1VNVdtamhLdGZWMWhtdzBj?oc=5",
+        "title": "幣圈遭遇安全黑天鵝，近24萬人遭「血洗」！ 比特幣跌穿7.7萬美元、以太坊重挫4% 作者 Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDYkgtNkxQV1k2c3RZcGUtbGFaNjk5MUpOVTgxWXRUSTNwVlA4cUthUE9EYlNwMGxzMl9zVWFRYVhtalluRC1mbERYaG5ScHNLTkdoaTRKMXRjanpWdEdsOXZjUV9QMzhfaU8zUXVKNy1pOTA?oc=5",
         "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "10/30 00:21",
+        "published_hkt": "10/30 10:37",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
+      {
+        "title": "【幣安+比特幣】幣安遭黑客攻擊遭盜走客戶資產或逾50億美元幣安稱悉數承擔客戶損失另暫停出金入金",
+        "url": "https://news.google.com/rss/articles/CBMilgVBVV95cUxPSGxvaVN0NUdtLWM5SDdBTEpVeGgyaHRyNy1oWFotZW1GVFpLSXdVU3VCQXlMMllUQmVETlJ6MDhhV1hhTzNCbnZLWnFORm0ycmtnaXZ5S3p1WVFlZkhFT0gwcVlIbnVfZ0w5LXVSV1lXemNELXJyV2UxaVVBalAtM25Edllnc3ZNTk84UWIwRXBtUF9kZkgxaDc4YWhESE9OcjNNQ19vQ0czUmxEZVNmaU1hSFY1eXFKQ29oclBsQW1fOUlhMnJjRHMyQmxORE5XLUFnWk9LVHh2cEhXTlN0X1pkYmJCMl9tSWR4Y0luU2pHY1lJOEJaVjRnY0JzZWpsUFJZWGt0TzN1UkloYzdCN3VFZ2UxdFo3Xy03Ny1DUDFPUlUwNWw2QUpSSTd2LTNsXzM0M0IyWjhrNXFRNlhxYWNDZVdua2lFZXFldHdzRXRvLVJKUUd2dVJEZEhUell6alVaMHdNUE1abGR2akdaMXZKT1ZuOTk3d2o1Ylk3VkdJanBGc244dlAwWG5Gbk5qeHVGZmRzdkV4WVI4OGF4OUdPdkRoeERTTUUwUVBKTnNwODNkczVzcThpbVd1WVd6bW9UYjRtVHFRY2kxNVNCZ1VJVl9aaU5zSzk3S1JQTWpGZUcwTGxLMDNfNEpNWG9PVXpxQ216RkRkOFJEb2x0OWdjNFZSMUxLaUw1RWllR0RJUGk4YS1pZUpoek1KdVV2TmNNNDAtMmZQRU0yNGxaanlJZUxsOWdvbHJhaXI5bEl2cFl6MS1NQXQ3ekJtVk9SNk1uQzRKSy1NYjd2OWpSZ1NhdEtDdzhLSHFDSFJxUEZ0cGZWS1dud3NDM19UYjNBUmFRZ2FSa3FMeVF4aHZpRnlJaWcwZw?oc=5",
+        "source": "香港經濟日報HKET",
+        "published_hkt": "10/30 10:32",
+        "related": [
+          "BTC",
+          "BNB"
+        ]
+      },
+      {
+        "title": "區塊鏈重點動態2026年10月30日早參考",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1faTlmYzhEc1FCR1g4dC0tcWM1TFVobEs0WkhYWDVxVWstOVdCSzc4QnI4dDY4Wm5ZdWxSQWxsQnhCamJqZklPdXdONA?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "10/30 10:30",
         "related": []
-      },
-      {
-        "title": "主要加密貨幣行情，比特幣升0.55%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkhTSnd6QV8yeFFSR1FaMUEwR0k2eHVEMzVoNGMycExyYU8yQ1hMUTJkVGxtSXRWMFgxN3gtakt1eVZ0Z2ppMEdOOE5yTDlObHYtSGpfUGVrUUQ2cFRRMkR1eFpjY1d4YXlBX2lyazR3UzUyMlkyc0JhYlJteVBhZ3NkcjBEWldPZVRGYWl2RGc0c3Z3LWc2dWZ3a0VzV3NP?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "10/30 00:01",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "比特幣徘徊於8萬美元關口，鷹派聯準會與通膨數據施壓 作者 Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80Tm9JWkhIdEY1bXdDV0NzbWZHSWJzZEVCek82VC1MYXdUZGgyOG0tMzh1NjFlR3k1NjZja2hIOUViZ0hRUGtZWERfaEw5T2tISzlnZ0V0alUwck1kOWFIUERMYlVtZGJpdEJsTWp6TEItWGc?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "10/29 23:58",
-        "related": [
-          "BTC"
-        ]
       }
     ]
   }

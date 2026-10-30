@@ -245,33 +245,29 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-10-30 23:08 HKT",
+    "updated_at": "2026-10-31 02:28 HKT",
     "news": [
       {
-        "title": "比特幣再跌破 7.7 萬美元、以太坊同步下探 $2200！分析師：下一關鍵支撐看 75,000",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lZnduaURUYzQ4UTgtd2tvLWJ4VGgtdVhCc1hzZnZPOWVYaVphdjc0UEFIMjBwRm1yZExxM1EyaUxGdWZiQlgxb1VPSUZMX2xTaVRwVWV1Tk5oX2lrY1BSUmVRT2N6YV9vQmtZSUZWVWlhMVlVeUNIeXNYTXRsQjA?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "10/30 22:41",
+        "title": "南韓加密貨幣課稅恐第4度延後 執政黨約見交易所 1至2週內拍板",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNdmluMi1IZnEzMHJveTFzY1hGS0V2RXNGVnJoeV9hR3pzQzRaUXVkaldoc1NZbVljOGgyYUd0UVd3c0F6Y2VGeS10QkxzWXpoNUE?oc=5",
+        "source": "蕃新聞",
+        "published_hkt": "10/31 00:53",
+        "related": []
+      },
+      {
+        "title": "幣安駭客拋售1.58億美元山寨幣 逾33億美元贓款無法凍結成追查難題",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pVFVGMlZmSGEwa1ZDbEJwcDE1clR2dk9XQ3BTZkNnLWRPRXN5YU1XaFAxYk8zdEEwekxyZnh3T2FIYU1FNnZFQ3hpSWdaSWhZcEE?oc=5",
+        "source": "蕃新聞",
+        "published_hkt": "10/31 00:52",
         "related": [
-          "BTC",
-          "ETH"
+          "BNB"
         ]
       },
       {
-        "title": "幣圈遭遇安全黑天鵝，近24萬人遭「血洗」！ 比特幣跌穿7.7萬美元、以太坊重挫4% 作者 Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDYkgtNkxQV1k2c3RZcGUtbGFaNjk5MUpOVTgxWXRUSTNwVlA4cUthUE9EYlNwMGxzMl9zVWFRYVhtalluRC1mbERYaG5ScHNLTkdoaTRKMXRjanpWdEdsOXZjUV9QMzhfaU8zUXVKNy1pOTA?oc=5",
+        "title": "美股異動 | 加密貨幣概念股走弱 Strategy(MSTR.US)跌超6% 作者 智通財經",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45cnE0NklDaUJHTnZYWFNBMUtjdWlmU1dPdHRDYjcyY2ZkMHNRVV92WFhybTR4MFR6Yk9pYTJsTlF5NUNCQUJyTUR4V3Bmd2UwV1pIVjdoRGx3bUtuUGJpNDduSkhDcWlQUE0tSW1kd24?oc=5",
         "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "10/30 22:32",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
-      },
-      {
-        "title": "2026年11月加密貨幣投資指南 五大幣種受專家看好",
-        "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQOEJSSXJSTlJmN3NvMGxoRUstZzM2NXVscGFNaTJvMDZKblRraF9hSnhQM2w1Y1A1LWFqTWJKLU9nZFBPUHRJY2FkenhubDhWTlZJY3ZkYVpjZFdOUVI1V3M2UUJkVHFkZ0FiQ3QwMWE3cjlvSHU2UXZIQWZNUG1MQXpjR0RpWHNNcjZDZXlJejI5dEI1OE8zQjA5MmtuT0NMbEhZb0dEb1VVM2pFaW9pLWJYWTMxNlFnUk90ZFloWFRBeTdmS2tUQlFjV3hUZEZpZVJsQjg4V2E0T2x0SlR3RUVFTk1Ec1BLeWF2QzUxN2xCSTRlanJxSnJwekkyWVBrYjZ2TW5QTlM2M1FaY215YzdoSEozVW9tSVdFWHVPd1JGZEZWdGtNZm5MMWNYZUhKRWhQN1NjMDFHNzNMWHVqMnV2VDFLR3ZuSzJVbHZpSQ?oc=5",
-        "source": "商傳媒",
-        "published_hkt": "10/30 21:29",
+        "published_hkt": "10/31 00:03",
         "related": []
       }
     ]

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 15:40 HKT",
+  "updated_at": "2026-10-30 19:11 HKT",
   "us": {
     "stocks": [
       {
@@ -28,9 +28,9 @@
       },
       {
         "symbol": "SPY",
-        "price": "--",
-        "pct": "--",
-        "dir": "flat"
+        "price": "$769.4",
+        "pct": "-0.38%",
+        "dir": "dn"
       }
     ]
   },
@@ -38,20 +38,20 @@
     "stocks": [
       {
         "symbol": "0700.HK",
-        "price": "HK$384.6",
-        "pct": "+1.85%",
+        "price": "HK$383.6",
+        "pct": "+1.59%",
         "dir": "up"
       },
       {
         "symbol": "1024.HK",
-        "price": "HK$26.48",
-        "pct": "+0.99%",
+        "price": "HK$26.52",
+        "pct": "+1.14%",
         "dir": "up"
       },
       {
         "symbol": "9988.HK",
-        "price": "HK$97.20",
-        "pct": "+1.14%",
+        "price": "HK$97.05",
+        "pct": "+0.99%",
         "dir": "up"
       },
       {
@@ -62,8 +62,8 @@
       },
       {
         "symbol": "1299.HK",
-        "price": "HK$75.25",
-        "pct": "+5.02%",
+        "price": "HK$75.40",
+        "pct": "+5.23%",
         "dir": "up"
       }
     ]
@@ -140,32 +140,32 @@
     "stocks": [
       {
         "symbol": "BTC",
-        "price": "$78,254",
-        "pct": "-1.95%",
+        "price": "$77,665",
+        "pct": "-3.11%",
         "dir": "dn"
       },
       {
         "symbol": "ETH",
-        "price": "$2,239.2",
-        "pct": "-2.89%",
+        "price": "$2,244.4",
+        "pct": "-3.45%",
         "dir": "dn"
       },
       {
         "symbol": "BNB",
-        "price": "$709.4",
-        "pct": "-5.29%",
+        "price": "$700.8",
+        "pct": "-5.39%",
         "dir": "dn"
       },
       {
         "symbol": "SOL",
-        "price": "$97.67",
-        "pct": "-2.08%",
+        "price": "$96.87",
+        "pct": "-3.63%",
         "dir": "dn"
       },
       {
         "symbol": "XRP",
         "price": "$1.25",
-        "pct": "-2.76%",
+        "pct": "-3.02%",
         "dir": "dn"
       }
     ]

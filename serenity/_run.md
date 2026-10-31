@@ -72,11 +72,11 @@
 
 ---
 
-## 收尾:commit & push
+## 收尾:只存檔,不要自己跑 git
 
-- `git add index.html research-log/serenity-log.md`（若有新增區塊也一併 add）。
-- `git commit`,message 簡述本週三鏈重點,例:`研究週更:AI算力CoWoS瓶頸持續/電力散熱GEV積壓/加密穩定幣軌道`。
-- `git push` 到當前分支（workflow 跑在 `main`,直接推 `origin main`）。**SS 已授權此範圍自動推送,不需再問確認。**
+- 你的工作到「把檔案改好存檔」為止:`index.html`（三鏈內容 / 新增加密頁籤）、`research-log/serenity-log.md`（追加一列）、`research-log/.last-summary.txt`（Discord 摘要,見下節）。
+- **不要執行任何 git 指令**（add / commit / push 都由 workflow 的後續步驟確定性處理)。你沒有 git 工具權限,別浪費 turn 去試。
+- 新檔用 **Write**,改既有檔用 **Edit**。
 
 ## Discord 週報摘要（本次新增,務必做）
 

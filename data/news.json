@@ -237,31 +237,29 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-03 00:39 HKT",
+    "updated_at": "2026-11-03 02:37 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣跌0.58% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObExZNVZJVDBPMTNUaUtXa01BX2puQWliNWRiUS1KM2ZCblpHNk9PdE1fcGgxYTlhcHVRSTFrSk5FdTdGODRqdjFxTjlXTHVGc0E1WjZsMkpkcXFjRzZjQno3VFFCTThLY09XM3JWa0hvanlmcG5vZ2JzTnV2cW5UYnZrX3RnZEo4YXRmcVhyb1VKWHNHOXhOUlh0VkFoQ2ht?oc=5",
+        "title": "以太幣現貨ETF 10月淨流出16.1億美元創紀錄 貝萊德ETHA占近9成",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91cG56LUlLMGdoS0haUmxUT0x6dlZEVXVLTFpzUkN3MUkyT1QyUWV4aWxEVDhXd3lLUFRqNG5qOVBNY01ERWlIZ0tHYTdTbFo1dUE?oc=5",
+        "source": "蕃新聞",
+        "published_hkt": "11/03 01:29",
+        "related": []
+      },
+      {
+        "title": "快訊｜巴西交易所Mercado Bitcoin爆資安事件暫停存提 疑逾4千萬美元遭轉出",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CbGhBajlPdHlUVksybGoxM1U0LS0wbDloQWFfSnl1aF9FMTQ1bjZzaFVDQzlSUEdnZklRSXZURjJMci1wRWhWN3FuVml5by1Fb0E?oc=5",
+        "source": "蕃新聞",
+        "published_hkt": "11/03 01:27",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "主要加密貨幣行情，比特幣跌1.05% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRkJ6TDFaY0E2QXVJRUJfSzFMWkZ3OGpEYjZjV0h4c1ZVNUswNmNyRkJhVVNuc3ZNeEJkS0NPQkRlVzJKX2xya2RtdmJjUlRyMDVHSVRTQWwzcEtNWmUyenBtT2UwOVNWYzdNdHctZWZlTDhleXlOM3o1ZnhfdVFUZ25RdWxzcG8wa2RaYVBpZG1SejROMHRZNUxPSEhMNW5X?oc=5",
         "source": "etnet 經濟通",
-        "published_hkt": "11/02 23:31",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "巴西最大加密貨幣交易所 Mercado Bitcoin 遭駭！官方暫停出入金，逾 4,000 萬美元恐被盜",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3NXd2tQSGp1X1ZmQU4xMGMzY19ucTdncTBzbzU1SG9jSW8wLTh2UTNDMkN4Q0ZjXzgwemE3M2huczBxZFhTTTd0Y2J1aGpmT2lzM0pTR0NRVl9ZaGt5QUU1aUJxLVh2S0VUbDRLQmItVElCMVltME93ZGd5NXJGU296OTROeWZ3Nm1naXF6Ukd0dw?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "11/02 22:26",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "比特幣為美國中期選舉做準備，歷史性拋售重燃下行擔憂",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd0FoOTV3QlFWclRNLXE0RThzZUQxcmFyQXo1WWNvamNSZ1ltOVAyQXViMjNSaWUyZnRtQVAwOWxkSy1rY291MWgxWUktTUd3VnJmamVpY0RBYUtWSGM0MUF2bUN1ZjIzX0NnY2Nkbm42cFJNNEtHaVV1T2VDMFN3SWg5OFVodkJUWVhRZEdsMVR2VV9CdkFRZ2poOUlWWVNPbjk1R0wxdlZGMVJNcVVCSGdPSGRJczJlNUtXOEdBTmN0NHItaEthSFc3VkpQNzhlMlV4VkRMTXZWSFBhV0owYnJHc1NZaTg1cFRONDh1VEpidWPSAfMBQVVfeXFMUHdBaDk1d0JRVnJUTS1xNEU4c2VEMXJhckF6NVljb2pjUmdZbTlQMkF1YjIzUmllMmZ0bUFQMDlsZEsta2NvdTFoMVlJLU1Hd1ZyZmplaWNEQWFLVkhjNDFBdm1DdWYyM19DZ2NjZG5uNnBSTTRLR2lVdU9lQzBTd0loOThVaHZCVFlYUWRHbDFUdlVfQnZBUWdqaDlJVllTT245NUdMMXZWRjFSTXFVQkhnT0hkSXMyZTVLVzhHQU5jdDRyLWhLYUhXN1ZKUDc4ZTJVeFZETE12VkhQYVdKMGJyR3NTWWk4NXBUTjQ4dVRKYnVj?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/02 21:09",
+        "published_hkt": "11/03 01:02",
         "related": [
           "BTC"
         ]

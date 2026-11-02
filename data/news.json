@@ -237,8 +237,17 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-02 23:18 HKT",
+    "updated_at": "2026-11-03 00:39 HKT",
     "news": [
+      {
+        "title": "主要加密貨幣行情，比特幣跌0.58% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObExZNVZJVDBPMTNUaUtXa01BX2puQWliNWRiUS1KM2ZCblpHNk9PdE1fcGgxYTlhcHVRSTFrSk5FdTdGODRqdjFxTjlXTHVGc0E1WjZsMkpkcXFjRzZjQno3VFFCTThLY09XM3JWa0hvanlmcG5vZ2JzTnV2cW5UYnZrX3RnZEo4YXRmcVhyb1VKWHNHOXhOUlh0VkFoQ2ht?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "11/02 23:31",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "巴西最大加密貨幣交易所 Mercado Bitcoin 遭駭！官方暫停出入金，逾 4,000 萬美元恐被盜",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3NXd2tQSGp1X1ZmQU4xMGMzY19ucTdncTBzbzU1SG9jSW8wLTh2UTNDMkN4Q0ZjXzgwemE3M2huczBxZFhTTTd0Y2J1aGpmT2lzM0pTR0NRVl9ZaGt5QUU1aUJxLVh2S0VUbDRLQmItVElCMVltME93ZGd5NXJGU296OTROeWZ3Nm1naXF6Ukd0dw?oc=5",
@@ -253,15 +262,6 @@
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd0FoOTV3QlFWclRNLXE0RThzZUQxcmFyQXo1WWNvamNSZ1ltOVAyQXViMjNSaWUyZnRtQVAwOWxkSy1rY291MWgxWUktTUd3VnJmamVpY0RBYUtWSGM0MUF2bUN1ZjIzX0NnY2Nkbm42cFJNNEtHaVV1T2VDMFN3SWg5OFVodkJUWVhRZEdsMVR2VV9CdkFRZ2poOUlWWVNPbjk1R0wxdlZGMVJNcVVCSGdPSGRJczJlNUtXOEdBTmN0NHItaEthSFc3VkpQNzhlMlV4VkRMTXZWSFBhV0owYnJHc1NZaTg1cFRONDh1VEpidWPSAfMBQVVfeXFMUHdBaDk1d0JRVnJUTS1xNEU4c2VEMXJhckF6NVljb2pjUmdZbTlQMkF1YjIzUmllMmZ0bUFQMDlsZEsta2NvdTFoMVlJLU1Hd1ZyZmplaWNEQWFLVkhjNDFBdm1DdWYyM19DZ2NjZG5uNnBSTTRLR2lVdU9lQzBTd0loOThVaHZCVFlYUWRHbDFUdlVfQnZBUWdqaDlJVllTT245NUdMMXZWRjFSTXFVQkhnT0hkSXMyZTVLVzhHQU5jdDRyLWhLYUhXN1ZKUDc4ZTJVeFZETE12VkhQYVdKMGJyR3NTWWk4NXBUTjQ4dVRKYnVj?oc=5",
         "source": "FXStreet",
         "published_hkt": "11/02 21:09",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "加密貨幣價格預測：PI、比特幣與加密貨幣——歐洲收盤綜述 11月2日",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQmpaNGdnNXQ2UkltbFk4SUk2bkFKZHdveXV5Z0V1OEhOeF9oUVRLc1VLVnpyc01EN2pTbVVRaHBzdFAxek1nRXlSZGpnUW9aVzYxeGVjQjdmOFpianlCN2c4S3J0OTZxWmgxTm1CdDNCMTQ1U1pyaWpMOW9fQTBSbF9OV0h3d2daQjh3aWxHdjhSUGFNcmxQN2ZxS2R4YXo5cHdZREd1RHFCUFpNWklGdFNaclVPa3pSOVJ2VTdDSkFINm5jVTRTaExkUHVlNWlsNVJZNXVUVVVDblhkLWdDeVRMQmzSAeoBQVVfeXFMUEhJLU5iTG5GUWpOcnkydTFKVVFIMFQteURsRk5sc2NOb05kWVI1YTdhX1k0dWxKc2IzSjZwQzFaWjBCZmdzNGlvX2JWNDhsSWZQMkhTcE5wZlkyUlZNaXllUjhUekgtSzJBQm9vaF9qZjVSSnRCMWItMzdMNTdYUEs0eEl0NjVUa183blZvM3VUYnpMVTluYVhPZFVBMUFvNm40YlViTGl0LTc1OE1lZ1pKNXgwQzZkTVRHQTF2YlRhdERUaHVXRnh3Z3lacGJBeUlzNE82YkphMWFCZWVnYUtRT3NkQk1tbjBR?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/02 20:07",
         "related": [
           "BTC"
         ]

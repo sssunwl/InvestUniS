@@ -237,29 +237,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-03 02:37 HKT",
+    "updated_at": "2026-11-03 06:13 HKT",
     "news": [
       {
-        "title": "以太幣現貨ETF 10月淨流出16.1億美元創紀錄 貝萊德ETHA占近9成",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91cG56LUlLMGdoS0haUmxUT0x6dlZEVXVLTFpzUkN3MUkyT1QyUWV4aWxEVDhXd3lLUFRqNG5qOVBNY01ERWlIZ0tHYTdTbFo1dUE?oc=5",
-        "source": "蕃新聞",
-        "published_hkt": "11/03 01:29",
-        "related": []
-      },
-      {
-        "title": "快訊｜巴西交易所Mercado Bitcoin爆資安事件暫停存提 疑逾4千萬美元遭轉出",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CbGhBajlPdHlUVksybGoxM1U0LS0wbDloQWFfSnl1aF9FMTQ1bjZzaFVDQzlSUEdnZklRSXZURjJMci1wRWhWN3FuVml5by1Fb0E?oc=5",
-        "source": "蕃新聞",
-        "published_hkt": "11/03 01:27",
+        "title": "主要加密貨幣行情，比特幣跌2.02% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcUMyc0VwQXhtbmtZMXNxS3k3RzJPaGtQNEtJTjluRVJybXJFNDNBWlBkQVBocEZsUm43Xy1tMlRZQ2hxLXIxOTJLaU1tR091dTVseDFTMHJmWllod2FjVC1IRE5FTHY4bFlhM1Uza2hzNXY2YXFCbW00bk8ydW1qUmtNaFBmQm5zNklLcUg5cU9fbS0zeUJGcEhpdk9uNjNs?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "11/03 05:02",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "主要加密貨幣行情，比特幣跌1.05% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRkJ6TDFaY0E2QXVJRUJfSzFMWkZ3OGpEYjZjV0h4c1ZVNUswNmNyRkJhVVNuc3ZNeEJkS0NPQkRlVzJKX2xya2RtdmJjUlRyMDVHSVRTQWwzcEtNWmUyenBtT2UwOVNWYzdNdHctZWZlTDhleXlOM3o1ZnhfdVFUZ25RdWxzcG8wa2RaYVBpZG1SejROMHRZNUxPSEhMNW5X?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "11/03 01:02",
+        "title": "以太坊價格預測：ETH ETF在10月流出創紀錄的16.1億美元",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQU1NmRl9kNmlmUm5faExJOUI1dmpGY05ONF90c2FIME1xcGoyMDBvV1ZfUHJQTWdNdGQyR2s3dVA2T053dkE0TExaa0tXZ3RhdjdXcnpDMEY3amN3YjZIS1p1OGxXWDhvWms0ZUdXMWRmRUNLR3FsWVB0ZnIyVHJKblZnbVpTY0w0Vi1SU2JWR1ZFc2UxUFVTOENvS0toeVRzVGdqN1JNejZwdWhrTzZaSzk2UjdIUXVkREpNcnNQY0tXNXhuSUxsZUJtVDRJVkRQV2RYTkdzbzBNQdIB2gFBVV95cUxQU1NmRl9kNmlmUm5faExJOUI1dmpGY05ONF90c2FIME1xcGoyMDBvV1ZfUHJQTWdNdGQyR2s3dVA2T053dkE0TExaa0tXZ3RhdjdXcnpDMEY3amN3YjZIS1p1OGxXWDhvWms0ZUdXMWRmRUNLR3FsWVB0ZnIyVHJKblZnbVpTY0w0Vi1SU2JWR1ZFc2UxUFVTOENvS0toeVRzVGdqN1JNejZwdWhrTzZaSzk2UjdIUXVkREpNcnNQY0tXNXhuSUxsZUJtVDRJVkRQV2RYTkdzbzBNQQ?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "11/03 04:53",
+        "related": [
+          "ETH"
+        ]
+      },
+      {
+        "title": "Strategy在短暫暫停後恢復比特幣購買，斥資6550萬美元收購",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTnZVaHQ2R0s2Nm9UeVluYmN0REhWRkU0REtoSFk5X3B0VjdrcmxGdGRvLTliMWI3NVoxZ3ktVjQyQmNMMHFtREJESUhXVV8xdGVtTkVqaGFzSUpkdS0xQjNsbklDZWZnV25ubGo2SjNfMHlrS3lsVk1DZkg1SXhhM1JicG9HaGZrNE8zNVROSkpSd1E3R0ZyQ0xXVVNzUlVpU0k1dk1Cekd1MzhoY0hjZmZqZ3dnbHFnMDNWc1NwVFowU1Z4UHNFOVd3TFkyc09tOWdsYS05dlczb05PM2ZKdU84X1UtSVXSAecBQVVfeXFMTk52VWh0NkdLNjZvVHlZbmJjdERIVkZFNERLaEhZOV9wdFY3a3JsRnRkby05YjFiNzVaMWd5LVY0MkJjTDBxbURCRElIV1VfMXRlbU5Famhhc0lKZHUtMUIzbG5JQ2VmZ1dubmxqNkozXzB5a0t5bFZNQ2ZINUl4YTNSYnBvR2hmazRPMzVUTkpKUndRN0dGckNMV1VTc1JVaVNJNXZNQnpHdTM4aGNIY2Zmamd3Z2xxZzAzVnNTcFRaMFNWeFBzRTlXd0xZMnNPbTlnbGEtOXZXM29OTzNmSnVPOF9VLUlV?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "11/03 03:29",
         "related": [
           "BTC"
         ]

@@ -234,8 +234,24 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-04 00:22 HKT",
+    "updated_at": "2026-11-04 03:59 HKT",
     "news": [
+      {
+        "title": "Bitmine Immersion Technologies (BMNR) 宣佈乙太幣 (ETH) 持倉量達 606 萬枚，加密貨幣以及現金與有價證券總持倉價值達 145 億美元",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jR25WSWR1QVNKV1hXU1FRcVhncW85clFza2UxRk1aVnlVZDlodjVORlRheGZEZE1Jdl90aGRvR25qYzB1Z00wb0FtTk5wMmdPODdMbUluSWtQcFJ20gFiQVVfeXFMTXl4Nm84WjZXWmliTWFVY3BPQnZkN3Y1UTM5NHJwZ0huWDd1c0ktS2VuVko5ekVIUGxJYmZBaEtUSXV6eHFTZkhLN1VoNXF6bTJHRk44NWZibnBzVmJMS25LOWc?oc=5",
+        "source": "經濟日報",
+        "published_hkt": "11/04 02:01",
+        "related": []
+      },
+      {
+        "title": "BNB拋售終於結束了嗎？",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTmJhSDBzRHJ6bHBGSzdibXhBUnBOdnpDYU1fb25DTDJqYW1WNi1GMjZNUUJ6RWFhNkZBVUVsZjJ3aWNsZTNINXZSNUp2RWg3SUhqWkw0WnVBOGpyb3lpSTJTMnpGem50clJtcklQU1FHdVBlbkR6cnpIYWt5dkpUeVIxM1c3bE5uak5wdUktc29qSXVOQ205MThOZ0RMcUVWRDY3djJQWjlxemNUMUVaWnhqYkNjN2drb3R2OEFEQmJzeGdyOTFuc3J2OU5rQUxwXzhPNDFnSjc1djF4cm9QcldPcU5JREdyeXpTbGR1NVVDaE5jSTAyV1l3MNIB-wFBVV95cUxPTmJhSDBzRHJ6bHBGSzdibXhBUnBOdnpDYU1fb25DTDJqYW1WNi1GMjZNUUJ6RWFhNkZBVUVsZjJ3aWNsZTNINXZSNUp2RWg3SUhqWkw0WnVBOGpyb3lpSTJTMnpGem50clJtcklQU1FHdVBlbkR6cnpIYWt5dkpUeVIxM1c3bE5uak5wdUktc29qSXVOQ205MThOZ0RMcUVWRDY3djJQWjlxemNUMUVaWnhqYkNjN2drb3R2OEFEQmJzeGdyOTFuc3J2OU5rQUxwXzhPNDFnSjc1djF4cm9QcldPcU5JREdyeXpTbGR1NVVDaE5jSTAyV1l3MA?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "11/03 23:06",
+        "related": [
+          "BNB"
+        ]
+      },
       {
         "title": "比特幣恐連五週收黑！期中選舉、蘋果警訊夾殺風險資產| 動區動趨-最具影響力的區塊鏈新聞媒體",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTVdQcy1wMVlZeTYzSENwTzNBeExFQm1iTW1sM2hEVk9DMVIxOVBPUEgzYndJY0t4cklObkI1MlhacDBKbDg4Znk5MldHWHlZNno2TjdvUnZ4NzRUNXFxbVVkdmdOVzUtdDhsclNEN3VGQ1N1QVE3U3BRUks2aEhFNDA5elZkMDhxZEl2bkNETU4wR01L?oc=5",
@@ -245,22 +261,6 @@
           "AAPL",
           "BTC"
         ]
-      },
-      {
-        "title": "金色Web3.0日報 | Tether比特幣持倉達15萬枚 一月增持5萬枚",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42aUtOVV9oXy0xa3VVYmI2bGJ1c3hvT1I5UTcwcElOT2pDQ21aWE9CNkw5UEtlR25VVjVPYkhsY3k5MUduNHdNZnYwQQ?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "11/03 22:31",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "数据：贝莱德相关地址向Coinbase Prime转入约7.02亿美元BTC和ETH",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lSG5Hd1BrWlp1NXVCZlNrZUNaZVJNT3JuT2xqLW1aNWNqS0ZBTU1nZGtiYjVPaFF2YW1Va0F4VVpmQWtqVjI0NVFNZ2hwWW1GbTlBaFk2dDhLUmVmNG9ua0ZrTjhUUQ?oc=5",
-        "source": "TradingView",
-        "published_hkt": "11/03 21:32",
-        "related": []
       }
     ]
   }

@@ -234,30 +234,33 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-03 22:43 HKT",
+    "updated_at": "2026-11-04 00:22 HKT",
     "news": [
+      {
+        "title": "比特幣恐連五週收黑！期中選舉、蘋果警訊夾殺風險資產| 動區動趨-最具影響力的區塊鏈新聞媒體",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTVdQcy1wMVlZeTYzSENwTzNBeExFQm1iTW1sM2hEVk9DMVIxOVBPUEgzYndJY0t4cklObkI1MlhacDBKbDg4Znk5MldHWHlZNno2TjdvUnZ4NzRUNXFxbVVkdmdOVzUtdDhsclNEN3VGQ1N1QVE3U3BRUks2aEhFNDA5elZkMDhxZEl2bkNETU4wR01L?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "11/03 22:53",
+        "related": [
+          "AAPL",
+          "BTC"
+        ]
+      },
+      {
+        "title": "金色Web3.0日報 | Tether比特幣持倉達15萬枚 一月增持5萬枚",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42aUtOVV9oXy0xa3VVYmI2bGJ1c3hvT1I5UTcwcElOT2pDQ21aWE9CNkw5UEtlR25VVjVPYkhsY3k5MUduNHdNZnYwQQ?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "11/03 22:31",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "数据：贝莱德相关地址向Coinbase Prime转入约7.02亿美元BTC和ETH",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lSG5Hd1BrWlp1NXVCZlNrZUNaZVJNT3JuT2xqLW1aNWNqS0ZBTU1nZGtiYjVPaFF2YW1Va0F4VVpmQWtqVjI0NVFNZ2hwWW1GbTlBaFk2dDhLUmVmNG9ua0ZrTjhUUQ?oc=5",
         "source": "TradingView",
         "published_hkt": "11/03 21:32",
         "related": []
-      },
-      {
-        "title": "貝萊德大倒貨？一小時內轉逾 7 億美元 BTC、ETH 進 Coinbase Prime",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ORU12RU53QmpDUXBKbVdrejJDRmp6VXZzWlFrZ2c3YU1LMy1KREItYXNzLTR6UUVzZ1dyTG1QbWlhQzdGRW9CZk9vQlFfZm5uUHJyWk9jRVRqT2NadWQ0ZFdvMzRlTjFvTzRJQW1yUVRfT0JQQ0xCVkdwMG5Ob28?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "11/03 21:17",
-        "related": []
-      },
-      {
-        "title": "加密貨幣價格預測：比特幣、瑞波幣與加密貨幣——歐洲收盤綜述 11月3日",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZ3V4RWh3andZTTQ3ZXFTdl9fNWlFOHVWUG1qejFHSDlUaVdMN2RBb0g3aXRPZHNUQlVVck8weDNSbTdMelRDTGJOaDh2a3lxQWllT3UzcTc1WVVOWVd0X2ljSkR0TWVPMjlzY25QVEJyT0NqZVJJWW1ybFAtZ285Y3Fnd21qUVloN0pQRFFDTWEwa0pfNXFLTlZzbDNoNUhMaDZORkZWUDRhV0JZQW1RMm1IVDI3R0ZYS0xLNlRwRllxdHE0UXBoWlE4Nlo0Wlo5S0FoSnNMS3lTSld4SWllNnVBWDhmeF9OakpoQnh2cHZYUnfSAfMBQVVfeXFMTWd1eEVod2p3WU00N2VxU3ZfXzVpRTh1VlBtanoxR0g5VGlXTDdkQW9IN2l0T2RzVEJVVXJPMHgzUm03THpUQ0xiTmg4dmt5cUFpZU91M3E3NVlVTllXdF9pY0pEdE1lTzI5c2NuUFRCck9DamVSSVltcmxQLWdvOWNxZ3dtalFZaDdKUERRQ01hMGtKXzVxS05Wc2wzaDVITGg2TkZGVlA0YVdCWUFtUTJtSFQyN0dGWEtMSzZUcEZZcXRxNFFwaFpRODZaNFpaOUtBaEpzTEt5U0pXeElpZTZ1QVg4ZnhfTmpKaEJ4dnB2WFJ3?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/03 20:29",
-        "related": [
-          "BTC"
-        ]
       }
     ]
   }

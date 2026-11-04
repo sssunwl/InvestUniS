@@ -236,34 +236,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-05 00:26 HKT",
+    "updated_at": "2026-11-05 04:19 HKT",
     "news": [
       {
-        "title": "比特幣重返8萬美元，以太坊上破2400美元；加密貨幣概念股走強，Strategy漲超6%，BMNR漲超7%，Coinbase漲4%。",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHFGMUc3ZE50NGxBUU5qRC1LSUttYUgtYXdZaTVHMnYyVWVZUE5sUU03UlMyX1ExQ19pRmlHd1F1RlNrSDBpQlFONDdzcS1aZXVlY0JGVzhUaFo4b2tNLVRaaWhDeGpmd1hpemx2YnctbkJOUUZJNHV1cG92UVJiTmNOdkdpLThBZHRoVnY4UTE4LVdoajJpYkx6WVNvVnJrVldFNkhaaGVadw?oc=5",
-        "source": "富途牛牛",
-        "published_hkt": "11/04 23:40",
+        "title": "幣安駭客已轉出8成遭竊 SOL 經THORChain換成比特幣規避凍結",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LWEpTYklOd01PcnZXOENiMm5jdEpYc29rZldsS0ZmRnpZNDdHWWNCQUhhTTduUEluRkpNcm9iMUd2aEdaZFFPLXkwM19tYzVTT3c?oc=5",
+        "source": "蕃新聞",
+        "published_hkt": "11/05 02:54",
         "related": [
           "BTC",
-          "ETH"
+          "BNB"
         ]
       },
       {
-        "title": "遭美制裁的莫斯科交易所 12 月上架比特幣與 USDT，散戶須考試",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92X2NWN0dqSGN6MjhjdDU5a2dyczVOSzN1YVZ1a1V5Skk5ZGxfX01YQWtVLTFyd29icVpRSFBBRmR6RjJMTWxhbHF1Wk54NVgwc05vandtSHNQeGV6cnVnZjJxVjVPaW8?oc=5",
-        "source": "鏈新聞 ABMedia",
-        "published_hkt": "11/04 23:19",
-        "related": [
-          "BTC"
-        ]
+        "title": "约2.32亿美元比特币在未知钱包间转移",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SMHpCV3V5XzBNN1diY3Q4VjJKNHB6N193OHFEYUIyRHlyM1FXM08tZ1EtZjZIdTRsekdNX3NCTG5ZeWJMOXBKa1c2cF8wMDgwZlFKUHdZdXR4THlZZVV1b3FtSmppQQ?oc=5",
+        "source": "TradingView",
+        "published_hkt": "11/05 02:45",
+        "related": []
       },
       {
-        "title": "比特幣突破 8 萬美元、以太坊站上 $2400！美股開盤後三大指數同步上揚",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbUZoWmtCdExHUGdEOUlfUWRwMmdBa3JzV0c3QTBsdk9UaWc3b21TUjFIQ2U2dVdpOTdobmZLUDdhYTBXcHh0bG11NnJEeFdJbUdOVjJDbFRBTTNQZHV5c3NkZlgxUGVOSXNUUHpwQktCaFBndlZLaGpfTk5Sd2FpMWpnN1U?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "11/04 23:17",
+        "title": "以太坊價格在 236M 強制平倉下上漲 7%",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcENMSVBwSi1reG82Wkx3N21BZDd3V0VBNTF0QkxOTktURkFmQXRsMTA5MWpuNGxFMmlZeFJ2WkVaVTBwX3JwblNFVk84dVh6bmRYOTYtS0dMdDJWaVY0eFYxcG05eWdNaWRvRDdkM1dYamF6eXhLc25uNXJTd1YtQWhaTl9ocUVfaXdfdEdKeGxadw?oc=5",
+        "source": "KuCoin",
+        "published_hkt": "11/05 01:04",
         "related": [
-          "BTC",
           "ETH"
         ]
       }

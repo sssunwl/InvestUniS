@@ -236,31 +236,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-04 22:55 HKT",
+    "updated_at": "2026-11-05 00:26 HKT",
     "news": [
       {
-        "title": "比特幣從7.56萬美元低點反彈，「DeFi」代幣領漲加密市場",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wNVE5RTc0a0JzdmxDUnI0MjBWcm5lc0xxSDZFY2l0ZjdVWlh2NEpaWkcyWU10V2lNTERuUW1XQlBRUkVMbEtlbzdWc1JWYnc?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "11/04 20:05",
+        "title": "比特幣重返8萬美元，以太坊上破2400美元；加密貨幣概念股走強，Strategy漲超6%，BMNR漲超7%，Coinbase漲4%。",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHFGMUc3ZE50NGxBUU5qRC1LSUttYUgtYXdZaTVHMnYyVWVZUE5sUU03UlMyX1ExQ19pRmlHd1F1RlNrSDBpQlFONDdzcS1aZXVlY0JGVzhUaFo4b2tNLVRaaWhDeGpmd1hpemx2YnctbkJOUUZJNHV1cG92UVJiTmNOdkdpLThBZHRoVnY4UTE4LVdoajJpYkx6WVNvVnJrVldFNkhaaGVadw?oc=5",
+        "source": "富途牛牛",
+        "published_hkt": "11/04 23:40",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
+      {
+        "title": "遭美制裁的莫斯科交易所 12 月上架比特幣與 USDT，散戶須考試",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92X2NWN0dqSGN6MjhjdDU5a2dyczVOSzN1YVZ1a1V5Skk5ZGxfX01YQWtVLTFyd29icVpRSFBBRmR6RjJMTWxhbHF1Wk54NVgwc05vandtSHNQeGV6cnVnZjJxVjVPaW8?oc=5",
+        "source": "鏈新聞 ABMedia",
+        "published_hkt": "11/04 23:19",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "加密貨幣價格預測：比特幣、PI與加密貨幣——歐洲收盤綜述 11月4日",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQWxVOWlsQlZEVjFHQWxGMml3MDNLSnhTUDgzOW10UE9jblhueXZoZWZac2ZJb3hNRHZ5RlZGMTlmVUx2SUFIMnVWZWx6VENjTUI5OXZ3QVhGa1FSaWZJaV9ucXlMTm9CYTdSZk9KNzhONGRwUVVVSmJELVZqbU93UFFxZjA3S2tRVmtSMzFnNVYxdkRfa1Z6RGFMVmZ0anB0b0xiRXlUVmhyZzRlU0ZjMXh5REdvRDNycXNYemNhTjNJSDVQUWpLNVBHeERpdktVdXBpVGRmY2wzNHNCODNRd1pESdIB6AFBVV95cUxPOHFzaU9mNko0Sm9MT1RmblItd3JBNlUxVEFhNGJrbWoxS0RYR3ZZbVhid3VTOGhzZWxvMHpZME1UbDZTdHd3OHBnYk4zd0lZbTdBQmJIRl9Jd09GZFVIQXh5aUt4TTFIRFVUV0NwNHhIQnZkQXg5ZzlXeDZ0bjdhb25waGVtUGkxcHlNem9qdE1JbUI1RTdxYV9WZWtTX09aYl9FSzVaX0xHNGtDNnBuRmt4SEhwY2F1Rm5KdWNYclJRZ2JuTHlDd1UwdTRoLUN2d1FRWjY5MUVhMDFNLTYxT0haRDVBYUgx?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/04 19:42",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "是什麼推動比特幣、以太坊和XRP反彈？",
-        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNSjE1SFVoOEVWVG5od1FQbVg4MlFqaEVCZ2R4b0dwc0Jab3Y3N1NSazhwWEZmU2duMTJDQy1KZkVNV1c4a3dZb0ZZVDZKbkJObUpMQ1Q3ZGxnRkhwaDFKeG9pSzRJcldRQ2tmbXB5WTFVN1ZDN19NLUJiRmxnbFZmWmUyVFY4aDlVR092SEpnLUJaclk4OVF0MmdSaVByZzlrdk52cmtKdDNOWlVEOWZDX3lFcXFxM3VNWlE1X3dJRkx6aFlyMlN4ck5DRFk0QmhGSjQ2TXRKMGdwX3Y3TGtzMmNEbVhGc042OVhrNHc0ak9vM3dJWnc2TFl1Q1Y1NGc0U0hIeFVidkNGYTNRSldRZVZSMDNvdGFicnJtcHdpcVZzR09ac3RKNVpNeHduTmRYSnplb1JyLUptZ9IBugJBVV95cUxNSjE1SFVoOEVWVG5od1FQbVg4MlFqaEVCZ2R4b0dwc0Jab3Y3N1NSazhwWEZmU2duMTJDQy1KZkVNV1c4a3dZb0ZZVDZKbkJObUpMQ1Q3ZGxnRkhwaDFKeG9pSzRJcldRQ2tmbXB5WTFVN1ZDN19NLUJiRmxnbFZmWmUyVFY4aDlVR092SEpnLUJaclk4OVF0MmdSaVByZzlrdk52cmtKdDNOWlVEOWZDX3lFcXFxM3VNWlE1X3dJRkx6aFlyMlN4ck5DRFk0QmhGSjQ2TXRKMGdwX3Y3TGtzMmNEbVhGc042OVhrNHc0ak9vM3dJWnc2TFl1Q1Y1NGc0U0hIeFVidkNGYTNRSldRZVZSMDNvdGFicnJtcHdpcVZzR09ac3RKNVpNeHduTmRYSnplb1JyLUptZw?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/04 18:59",
+        "title": "比特幣突破 8 萬美元、以太坊站上 $2400！美股開盤後三大指數同步上揚",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbUZoWmtCdExHUGdEOUlfUWRwMmdBa3JzV0c3QTBsdk9UaWc3b21TUjFIQ2U2dVdpOTdobmZLUDdhYTBXcHh0bG11NnJEeFdJbUdOVjJDbFRBTTNQZHV5c3NkZlgxUGVOSXNUUHpwQktCaFBndlZLaGpfTk5Sd2FpMWpnN1U?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "11/04 23:17",
         "related": [
           "BTC",
           "ETH"

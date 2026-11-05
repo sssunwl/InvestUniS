@@ -27,29 +27,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-04 11:03 HKT",
+      "updated_at": "2026-11-05 11:34 HKT",
       "news": [
         {
-          "title": "亞股洗三溫暖！韓股開紅又翻黑震盪逾4％ 日經一度狂瀉2000點",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96YWJCeFlQVVJNMTU0R1VzWlV6REo3Y2NYQmlxejhZTlQwU01qN19uLUhYb2c0Yl9HTXhlaEJJSE45VEJtVEZWeFkzcDZBSXc?oc=5",
-          "source": "TVBS新聞網",
-          "published_hkt": "11/04 10:54",
+          "title": "比特幣選後隨美股收復8萬美元 市場聚焦週五非農與ETF資金回流",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RZmhVUkNSdDllSW1WbG9abVlCdmxHV1JyNTBBVllobGNjVlVzaWdYMWlIb0Z1U3VpN1JUa3o2UUdnMV9IbWt2MmFqOV9OM3I3MFE?oc=5",
+          "source": "蕃新聞",
+          "published_hkt": "11/05 10:46",
           "related": [
-            "^N225"
+            "BTC"
           ]
         },
         {
-          "title": "民主黨「藍潮」席捲參眾兩院？預測市場押注升溫美股期指翻黑| 全球財經| 全球",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uLThHaFUxNDVhNWR4a0g5eG1QYTdqMExQVTd5X2xUX0wzMHRPWG1VazBjUXFsQ3ZxTUtyZ1A5SzdjbzNadDliR1ZBRUpUOEZh?oc=5",
-          "source": "UDN",
-          "published_hkt": "11/04 08:42",
+          "title": "美股選後反彈、半導體卻重挫！施俊吉示警：民主黨勝選恐卡住AI資料中心",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BLW1ucnYtalFaSGxZTUF0eFZBNzU5aGdLVnZkWk5veGJIQXMtMEVSTGt2V0dBWWNJQkg2Tmg0LUUxOWdnR1ZrUm10R1JmWlhWdlcyY0VNbGM?oc=5",
+          "source": "梅花新聞網",
+          "published_hkt": "11/05 10:30",
           "related": []
         },
         {
-          "title": "美股盤後｜資金重回科技擁抱、油價持續下跌，四大指數漲跌互見1104｜豐雲學堂2026 年 11 月",
-          "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQVDBVX180S05faEVKdXdhX1k2SlpSYUJhaGFBTkpURTJJR1pLS3hQc3RhdE5YbWFqZUdBcFR4ak4xWGhsTHBjbkdQaEp2d2dDbzlCc3VhV2UwWWVhbVJhY1Vld1BFdmUwbF8taGI2b0RpWlhyT3c5LXB5SkQ4YjNUNUxZMGVpS1NrV1BXVlc5V1dEUlhqR3VfWlZGT1lEVGxIc3FTVW1vc2FEV0ZYQktRbDU0eUV1MldRNjdoVHJ2WjJtNlJScDNHOW1DN1QxZ2hHQzJ0empCblV2NFhBaU1rMkI5WF9Ja0cweWJNdlNOLXhsaTd5QTRFN09pNjhCVVYxc2pDdkY3QVpfTUJtQXVmZGRzMnk2T0lFY0pOc0F3SVVDSi1lclBqNXpMakM5d0NjR3FKWlR2ZnY1SWktYklnTllvRTE1LU9wNkE0OEJzdlFjV3ZYM3lPcVB4RTVGR25mQXRPOVM5akpubFYxTGNPTi11bFNkY0VfV2N3R2pwd0ZEbEJHdTJEa2dZTzhfQTRUQmZacXVPUmFpMnBQSTMxM2tWNlVWc1ZpR2tPdkNnZ05wS0R3MDZSdGVRUXBVWk5lUUNiM1VYZw?oc=5",
-          "source": "永豐金證券",
-          "published_hkt": "11/04 08:36",
+          "title": "A股異動丨光伏股集體爆發，陽光電源升超8%，通威股份升超5%，美中選強化綠色補貼信心，資金入場抄底",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGWjd6b0dCcXdpakpmajhxbzUyNmJsUWg0cGZTZUVFa2E4X1ZmdjZLOTA2cVFYZTJJRGRVOXhabDZPUVNtY0ZaT3ZOZThvWDlLUkpENFItS3pmU1FHUkNZQWpiYXJZRktzOEE?oc=5",
+          "source": "TradingView",
+          "published_hkt": "11/05 10:11",
           "related": []
         }
       ]
@@ -236,32 +236,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-05 04:19 HKT",
+    "updated_at": "2026-11-05 11:34 HKT",
     "news": [
       {
-        "title": "幣安駭客已轉出8成遭竊 SOL 經THORChain換成比特幣規避凍結",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LWEpTYklOd01PcnZXOENiMm5jdEpYc29rZldsS0ZmRnpZNDdHWWNCQUhhTTduUEluRkpNcm9iMUd2aEdaZFFPLXkwM19tYzVTT3c?oc=5",
-        "source": "蕃新聞",
-        "published_hkt": "11/05 02:54",
+        "title": "全球資產大漲，國際油價拉升，黃金單日暴漲超90美元，比特幣漲破7.8萬美元，川普承認伊朗戰事對共和黨中期選舉表現有影響",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHMEZ2LVBsMTV4QWU4Wk9oMnZtOFNsUkZobGRhblI4eXQ0Z19sMkxZd0lWdW9OcVNjVFllbWE0ZkJ4OE4yTkt5eQ?oc=5",
+        "source": "鉅亨號",
+        "published_hkt": "11/05 08:55",
         "related": [
-          "BTC",
-          "BNB"
+          "BTC"
         ]
       },
       {
-        "title": "约2.32亿美元比特币在未知钱包间转移",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SMHpCV3V5XzBNN1diY3Q4VjJKNHB6N193OHFEYUIyRHlyM1FXM08tZ1EtZjZIdTRsekdNX3NCTG5ZeWJMOXBKa1c2cF8wMDgwZlFKUHdZdXR4THlZZVV1b3FtSmppQQ?oc=5",
-        "source": "TradingView",
-        "published_hkt": "11/05 02:45",
+        "title": "Circle儲備收入下降8%，ARC預售推動第三季度收入增長",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOHU5TzhTdzdJakdqVjNBTGsyOV9OQThlUWo3RHp3VlNXaWlTc1BPNG5fZ3NXSkpybDVvVXJEWE5MdXJkTjZpQndyVkdDMUozaEdZQ0RrMW5lM0hKT1hmZ1RxdTZiRkJHd0hHN0lmWEIwdC1PdTB1azJacGkyelc0eW1hZkhUZDhIYzF1MW9lNFNuT3FabjdaekNhWXBRNTlKcFRvRzVjVk9oa2EyVGpUWUNJRDN6S0hIRWVBb3pGdG41X3dOTE1rZnBwQ3FHa29GeWRUaFBlZEtVbVktcHMwV0l30gHiAUFVX3lxTE04dTlPOFN3N0lqR2pWM0FMazI5X05BOGVRajdEendWU1dpaVNzUE80bl9nc1dKSnJsNW9VckRYTkx1cmRONmlCd3JWR0MxSjNoR1lDRGsxbmUzSEpPWGZnVHF1NmJGQkd3SEc3SWZYQjB0LU91MHVrMlpwaTJ6VzR5bWFmSFRkOEhjMXUxb2U0U25PcVpuN1p6Q2FZcFE1OUpwVG9HNWNWT2hrYTJUalRZQ0lEM3pLSEhFZUFvekZ0bjVfd05MTWtmcHBDcUdrb0Z5ZFRoUGVkS1VtWS1wczBXSXc?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "11/05 05:05",
         "related": []
       },
       {
-        "title": "以太坊價格在 236M 強制平倉下上漲 7%",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcENMSVBwSi1reG82Wkx3N21BZDd3V0VBNTF0QkxOTktURkFmQXRsMTA5MWpuNGxFMmlZeFJ2WkVaVTBwX3JwblNFVk84dVh6bmRYOTYtS0dMdDJWaVY0eFYxcG05eWdNaWRvRDdkM1dYamF6eXhLc25uNXJTd1YtQWhaTl9ocUVfaXdfdEdKeGxadw?oc=5",
-        "source": "KuCoin",
-        "published_hkt": "11/05 01:04",
+        "title": "主要加密貨幣行情，比特幣升3.51% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWTlDVWJQRTAzZERVcTR3UTV4WGpwWXlvczY5YWQtM2lDYW1qZUtSWjR5OUNrWWl4VVRMVlV3Uzd0UDQ0dnZuS3lldjdleXZCTkNNa3hTaXV6eXpyTzhJaFRHdTRvSXY1anNueWRaZUxjMThtbmtETTBnLVVySDloZzRnMEhEejgtM1NSZUlXNDc2U2dOOHhaQkZGdWNlRHJk?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "11/05 05:01",
         "related": [
-          "ETH"
+          "BTC"
         ]
       }
     ]

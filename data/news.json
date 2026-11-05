@@ -147,30 +147,32 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-04 22:55 HKT",
+      "updated_at": "2026-11-05 15:12 HKT",
       "news": [
         {
-          "title": "逾4.3萬張排隊買不到！這「AI顯卡廠」9月獲利暴增344% 攜華擎、永擎入列20檔漲停股",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CcmFGWE5IMWVEaUJrLVZCbWpwN1hSLXNCMER2M1oyb2tjd0hrVFpaVUFYUURDNGJQOUZJYkpmR2pRXzN1ZVhVZ3U2Zw?oc=5",
-          "source": "FTNN 新聞網",
-          "published_hkt": "11/04 22:30",
-          "related": []
-        },
-        {
-          "title": "盤中暴跌1400點！陳嘉偉曝「台股最慘結局」：恐一路下修至26,825點",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFByaHh2cG5UODhxR0k3M3RPS3IwcWZYOFFRaGJoal91V0VaSkJLcWoxWGZCc05hQ1dzaU5QcmZ3ajdTTXhTcm4tTUJzaw?oc=5",
-          "source": "三立新聞",
-          "published_hkt": "11/04 22:12",
-          "related": []
-        },
-        {
-          "title": "TWA00 加權指數- 今天減的其實不多欸難不成尾盤融回去了🤣 不管了8zz反一... - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WRC1xWjVMdEJKT0swbGllXzdwSnlIV1NHSXdyOHBXbnFvR3k0WUtjV0E1X2R4YUtWMTN0S2xONV90ZDBFdXFGVWl0T3VjdThEZnNmWGhHQ1c?oc=5",
+          "title": "TWA00 加權指數- 11/05權證市場資金異動日報(篇一) - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Qc0Nhekt0ckN2OFowbmg4SmtrMFl3bmdpSURQN09URGNoN0pNZ2hwRHZIaVcta2VIUExJOWU2ZEdyLUhFUU1MQmJqeF9fTXRxZzZqVjVsd3E?oc=5",
           "source": "CMoney",
-          "published_hkt": "11/04 22:11",
+          "published_hkt": "11/05 14:00",
           "related": [
             "^TWII"
           ]
+        },
+        {
+          "title": "台股收盤／台積電小跌20元撐住！台股慘崩1374點 AI股慘綠櫃買殺6.4%",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHdWFXOFZUNlZwT3plVHR1ZUNzbUh2UWxtZl9CN19nUTdqLXdrelh2OGZGeWRoMnZkTnc4YjFHRkRRSjBITm12NFJOaw?oc=5",
+          "source": "三立新聞網SETN.com",
+          "published_hkt": "11/05 13:58",
+          "related": [
+            "TSM"
+          ]
+        },
+        {
+          "title": "台股終場跌幅近期低檔！盤中最低探41513點",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZEdacUZTbGh1LUxZSHhjZTRsenY5allYTGg0dVNNQlpWUkVlY0wwdG1Yc21MZEFaZlVxdXpvZTlJZWhEWUdwa1RwOTBpWDVZOXZUQXcyam41UlZaQmJkdXZTdUM4Ul9FMzhqazZYcG9IREFZcVdqUEJCOVpfVDllZEFwTnUxZTBXUWdB?oc=5",
+          "source": "PChome Online 新聞",
+          "published_hkt": "11/05 13:53",
+          "related": []
         }
       ]
     }
@@ -205,29 +207,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-04 22:55 HKT",
+      "updated_at": "2026-11-05 15:12 HKT",
       "news": [
         {
-          "title": "《日股》憂監管趨嚴/AI股回檔 日經收跌1.42%",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYXhkSzhsT0daUjgtSlRPaERCNU5VaWo1bEhZMVNfSmViek96MkZ0V2l6UzJreXFUT3Nwbmx6cExodkkzUWxzS3pJbVZ3SVJJalB5T1NvN2hVYTJ1UVJhOHpNYWtpMkRXLUFEYzZNcHc5Ymp1RVF0cnJLM3dBVW1COEJvRXJLNTNOcTN1NkVMUVhQZw?oc=5",
-          "source": "台視全球資訊網",
-          "published_hkt": "11/04 18:52",
+          "title": "日股：日經週四重挫1,110.73點或1.79%，鎧俠慘跌13％、豐田逆勢狂飆16％",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTWdqRXZRa08xek1MZUd3QUxLYTdyVWJpOHFOUm9NbWhmbHNCcWdEenM5djRGT2MwZElOeXQ3TEtCYkpwbS1ST3RXWDU5QzVjRWtXc2pNMmRQSm9KM0lNbFQ1VzRybmNKR3pXVHV0OXloQmx6cG01ZFNhRkN0ZmxaZDBkbGxlWGto?oc=5",
+          "source": "富聯網",
+          "published_hkt": "11/05 14:55",
           "related": [
             "^N225"
           ]
         },
         {
-          "title": "日股下挫…美國期中選舉結果衝擊科技股AI類股承壓| 全球財經| 全球",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1cXo5STc4Nm1UYjBEdXQtUGRHeGpfeTdVLXQzcWVBX3NZNVp6STJsRUR2TldmLUVPQmZxRzh6Nl9IU055cFRvS3dIQWhsWTJB?oc=5",
-          "source": "UDN",
-          "published_hkt": "11/04 15:45",
-          "related": []
+          "title": "《日股》東證大漲 AI晶片股崩跌 拖累日經早盤收黑",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0pmWkdVWllXTWliSE1kVHVWU0VUZEc1eE9PNms3MWNwNng0OWZIVkpZUTZXVHdQaFhEMGRabXo0dDdPQ2xFMXlfdjJRYVJVSnREN1o3RVJ4eXRwUVhoeGh4MmYyaGJRREVlSUhCcWIxQ1REMFJKYkl5c3BkeWFhS0FMTzR6Nm51?oc=5",
+          "source": "富聯網",
+          "published_hkt": "11/05 11:29",
+          "related": [
+            "^N225"
+          ]
         },
         {
-          "title": "《日股早盤》關注美國選舉 日經指數下跌3.56%",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUlVEMy1oZHUzOFdaeUxTS2ZvcE5USGJvTm9SQjBpcTV1QXk4aE9qTm9kVnVta0N5VWViVFA0WmxkQm5ULVdGTjFqU0tlWGp6YXllVlhyZXBOdXhhRW1SX0YxYWltamd0dUNGQm9uMUVibmJZYzFrX1dmSml5cm5MalJIWHlLQ0tHRlpCdG9zWmR4cVFxYzlqNTJ4Mmc?oc=5",
-          "source": "台視全球資訊網",
-          "published_hkt": "11/04 12:18",
+          "title": "《日股早盤》半導體慘、日經跌275點；商社嗨- 新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd2JpX2dDLXFKTTdpOFVjOHJtSDl4SkhBbTM1aElyclhEVGdLdTBycjZtUjNuNWJMRVNZZU9LZk50QVpMWXRBWVdGUG4tV05XQ2hpTHdrb2tIMGwzN2NBWjlaVEZnS3lYS0FQYWEwanR1NmVXSVdrTWJWbHRyN3NDcmJ0TzhldG1ZOWNxYTNvZGFFdw?oc=5",
+          "source": "MoneyDJ",
+          "published_hkt": "11/05 10:42",
           "related": [
             "^N225"
           ]
@@ -236,31 +240,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-05 11:34 HKT",
+    "updated_at": "2026-11-05 15:12 HKT",
     "news": [
       {
-        "title": "全球資產大漲，國際油價拉升，黃金單日暴漲超90美元，比特幣漲破7.8萬美元，川普承認伊朗戰事對共和黨中期選舉表現有影響",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHMEZ2LVBsMTV4QWU4Wk9oMnZtOFNsUkZobGRhblI4eXQ0Z19sMkxZd0lWdW9OcVNjVFllbWE0ZkJ4OE4yTkt5eQ?oc=5",
+        "title": "如何將加密貨幣提現至新加坡銀行帳戶：2026完整指南",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9EdHpJRVRRbU84ZEg5dHBkalBXZTVaeVJQTHpFc3YwMHJZb2hSeUZVMGo1MFRUclYxVnJWLUZaQ1kxSzBqOTJwMQ?oc=5",
         "source": "鉅亨號",
-        "published_hkt": "11/05 08:55",
+        "published_hkt": "11/05 14:24",
+        "related": []
+      },
+      {
+        "title": "ChatGPT預測加密貨幣新高：比特幣2027年上看15萬美元",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNTVEzNEx1UFBJY0RvTGRLTU1TZzhERlc5NE1GTjJ5REtHY1hMVmJDLXZsTDZ4TWgxR1c1alNFZlhzVmJEcXlJMnlVRUhzN2FCc3NRNzc1TnAwZnRqMVIyallLc0pycFVVSUtXREVoSV9vVkQ4Zy1yWEhFV1FoUlhOb2dwajgzSWxaSTVSZzVFeHF1Vk1vQUxSVjdBVThVOXplbGF4Nm0wMEVoM3ctRkRETVpkWjVGN1hlM2t1ZnJHXzFzbm95WmotS1ZLNzY0QjF1TmtqcGtPV0ZxREtqZHNIV29yalQwNjFTY3FaTXNXUzR4ZENnSDZBQXdHOE5ZVUdzaVdKay1yWGRTVG1xOFR5dnFwSXVJY082Rzl5U2ZFaHlWcDNjdF94UFE0UjhjVk9FWHlUWlZuY1dEYl9VN1N1dw?oc=5",
+        "source": "商傳媒",
+        "published_hkt": "11/05 12:03",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "Circle儲備收入下降8%，ARC預售推動第三季度收入增長",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOHU5TzhTdzdJakdqVjNBTGsyOV9OQThlUWo3RHp3VlNXaWlTc1BPNG5fZ3NXSkpybDVvVXJEWE5MdXJkTjZpQndyVkdDMUozaEdZQ0RrMW5lM0hKT1hmZ1RxdTZiRkJHd0hHN0lmWEIwdC1PdTB1azJacGkyelc0eW1hZkhUZDhIYzF1MW9lNFNuT3FabjdaekNhWXBRNTlKcFRvRzVjVk9oa2EyVGpUWUNJRDN6S0hIRWVBb3pGdG41X3dOTE1rZnBwQ3FHa29GeWRUaFBlZEtVbVktcHMwV0l30gHiAUFVX3lxTE04dTlPOFN3N0lqR2pWM0FMazI5X05BOGVRajdEendWU1dpaVNzUE80bl9nc1dKSnJsNW9VckRYTkx1cmRONmlCd3JWR0MxSjNoR1lDRGsxbmUzSEpPWGZnVHF1NmJGQkd3SEc3SWZYQjB0LU91MHVrMlpwaTJ6VzR5bWFmSFRkOEhjMXUxb2U0U25PcVpuN1p6Q2FZcFE1OUpwVG9HNWNWT2hrYTJUalRZQ0lEM3pLSEhFZUFvekZ0bjVfd05MTWtmcHBDcUdrb0Z5ZFRoUGVkS1VtWS1wczBXSXc?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/05 05:05",
-        "related": []
-      },
-      {
-        "title": "主要加密貨幣行情，比特幣升3.51% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWTlDVWJQRTAzZERVcTR3UTV4WGpwWXlvczY5YWQtM2lDYW1qZUtSWjR5OUNrWWl4VVRMVlV3Uzd0UDQ0dnZuS3lldjdleXZCTkNNa3hTaXV6eXpyTzhJaFRHdTRvSXY1anNueWRaZUxjMThtbmtETTBnLVVySDloZzRnMEhEejgtM1NSZUlXNDc2U2dOOHhaQkZGdWNlRHJk?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "11/05 05:01",
+        "title": "美國期中選舉落幕後數位資產板塊回暖，比特幣升破8萬美元整數大關、以太坊站上2,400美元！加密多頭行情又回來了？",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZk1jdTJXbXZvekJQQVY4N3IzdE5BZUpwWHB0UzBVNzN3SHduanE2dWtvcXRMcHR1UEZ5Q2k5Vm1rbDFDSmphVnRtNUdvYVBLTC1HWDFGTV9uR29GSzNCSk5SSFlua2EyRWw3bmxycklyNi10cm12eU9ac25JajFOMDZDWE1WM3lkYm12YW1hVFJpNWJsTE4xdzJKdTcwOFdNSllfTmVtdm93XzUyaThFNk1TazFMUTQ?oc=5",
+        "source": "TOP1markets",
+        "published_hkt": "11/05 10:03",
         "related": [
-          "BTC"
+          "BTC",
+          "ETH"
         ]
       }
     ]

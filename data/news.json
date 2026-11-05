@@ -240,36 +240,33 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-06 00:36 HKT",
+    "updated_at": "2026-11-06 04:30 HKT",
     "news": [
       {
-        "title": "比特幣深夜失守 7.6 萬、以太坊下探 2200 美元！全網近 4 小時爆倉 8.8 億美元",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONk4xWWVrc2x0bnJKSTNDRWlQX3MyNlFCZHpITGR0UEFUX3ZDUldOOGhoeENleXZxWURRampyMmVPOUhpeVprN2gtN3Y4aUdtYTFrVjdIMVRORXRoUGlWamtkb0g5Y04tcm5mSEp0TkVCSzhib1FtT2ZNc0FvLTY5Sg?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "11/06 00:20",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
-      },
-      {
-        "title": "主要加密貨幣行情，比特幣跌5.19% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdWFyMXl6aHlRMGQ2Z0lMcXoyMzI2NjNYaXQySGtDbDhFbENDRGM2cEtvUlNKTTh6NmluaVZ4ZGJsbVdiaVdTSWFoV2k0NWg2Yk4yb2VkeGxKRlJ0dHFyOF9EN1ZJeDNNWi0zMTlqOXR6bm8tNXpmbXYxU0JBM2Vwcm9HQ3E1ckxQXzAtNDBFMWxEV2ZfelU1MWxxOGNXYzY2?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "11/05 23:32",
+        "title": "為什麼加密貨幣今天下跌？比特幣跌破76,000美元",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWTJmYk9xMlI2UjVUUllUMHVMZjhPRVVnVFVUQWtnUnVXUjFsdVgzYXN6ZGtjLTY0M2tyUkRpU2dIRkJFUy04ZkdsSkhRZzBCclRPRDRsV1V0MWdFeTZrUERlMmJDQnEtMkV6WmkzbllodzBiNHJ3QjQzUHZUcG5XREFrNkdXbWxMaDZ5T1JkT1RzeWZ4RUVqZU5aVGZHa0ZreU10WVl4cU42QTRGWHRHeXhTeWVWbHJ3N2VDUDFTVUJnYmJQdVRta3dFRjZKMS12S2xsbFRnSUFWd9IB3wFBVV95cUxQMS1xUVVTM2w5aThMdm5FdEt1cGdlWnhNQ0loNl96a3NxM0JkV2pUajc1VnBfanR0djFpTU01X1hNdVM1aDBKcXJacEdjZW8zQjctZGhFdXdpYUFhS1RqTWFXY1ZOXzVlYm9TM0ktemZFVjZObkJhX1dEMEpqMHdTdXNtUnRpNVhPaFV5bDAyajBjVHNfeTBQWUFYTTE5cFVscnZCUVgxbjFzbjhkdXdaUkdyTFR4dzFPXzBhaGRJX1NpQ0RadnNYUDU0Vm9Cb3BrNjR4VXlZNzJIdnJfZ0VR?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "11/06 02:12",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "比特幣跌破 7.8 萬美元、以太坊下探 $2300！美股盤中全黑、科技與加密概念股齊挫",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55YzZodVBiQ2FnaUxhNTBPQTlENENxTDk0Ti12ZVZnd1B2OGRqbUN2Sl9fRG1Wa2JIUTFTd0NqWUE2OGhsNDlpLVZJMjZPTjdvaW02S2w3S2hhaERld0Y4YS1udWstSzRJUjZUbjMzZmpfUmp5SFpiNi0tZ1c?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "11/05 23:16",
+        "title": "華爾街突遭「黑色星期四」！「恐慌指數」大爆表，納指暴跌超5%、比特幣跌破7.6萬，黃金衝上4146美元、原油漲3%",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0T3p0TWRtZVEtZlRucVFzN2xnZHlYcTZLTTN6emJGck5HbFVMSGhEOGZDTjVfUWNXenktaFJWTUZhN21GZU9ZaDBaZXJJTFFBRS14RlFpZEtuNk1LX1VXRmJjWXY3TWtkQU5tbDRwUQ?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "11/06 01:47",
         "related": [
-          "BTC",
-          "ETH"
+          "QQQ",
+          "BTC"
         ]
+      },
+      {
+        "title": "分析：部分币安被盗资金已流入中国洗钱网络",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPZl94WG9JanBGRkhFanVoSFJnRVBMVXF6Ui1Td2lFT3FCU2QxUWdITnI3NmxMa3hoRjhzZjQwYUZqTUxvTTBQTHFuSXdudXNUQ1pqelBuQTltTW03dUNPRDFIX3B6UQ?oc=5",
+        "source": "TradingView",
+        "published_hkt": "11/06 01:21",
+        "related": []
       }
     ]
   }

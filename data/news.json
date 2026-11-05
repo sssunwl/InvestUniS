@@ -240,35 +240,35 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-05 22:59 HKT",
+    "updated_at": "2026-11-06 00:36 HKT",
     "news": [
       {
-        "title": "比特幣跌破 8 萬美元、以太坊失守 $2400！全網 24 小時爆倉 7.23 億美元、逾 10 萬人被清算",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0VDJjMnU1cEtfRXRFZGtsZzhqOWdET2syWEdySlhULVVBT0VjM0oxSF9zSUdCSnRYaFYya245Umk0S2Jzb2ZBaUdiQ25fdG1HaDRrekVmNlJvTzUzWnh5RTdGT01xYXVpR0lpZjVNbHI4RTJEWV9j?oc=5",
+        "title": "比特幣深夜失守 7.6 萬、以太坊下探 2200 美元！全網近 4 小時爆倉 8.8 億美元",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONk4xWWVrc2x0bnJKSTNDRWlQX3MyNlFCZHpITGR0UEFUX3ZDUldOOGhoeENleXZxWURRampyMmVPOUhpeVprN2gtN3Y4aUdtYTFrVjdIMVRORXRoUGlWamtkb0g5Y04tcm5mSEp0TkVCSzhib1FtT2ZNc0FvLTY5Sg?oc=5",
         "source": "動區動趨",
-        "published_hkt": "11/05 20:59",
+        "published_hkt": "11/06 00:20",
         "related": [
           "BTC",
           "ETH"
         ]
       },
       {
-        "title": "比特幣、以太坊和 XRP 在加密貨幣市場上漲期間大幅上揚",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa3VORDh5dGNDbEl3OU5nWXBJRERqanFFRVhscm8wRlhoUWZmcllHbUxHVWVtbERZeXhlTDFwcERsem96WGdXcDl4Xy1qNlBJczd2eXlIM1Q4ZElyYi1yUjRPbDQ2NGtjQkZUR1Y4dllKZ1lPZGoxSjQzQ1I4eXo3RWpzUGJtTjl0UzA5OWxqWExNZ3I5SGhLbkdJNjRtdw?oc=5",
-        "source": "KuCoin",
-        "published_hkt": "11/05 15:18",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
-      },
-      {
-        "title": "ChatGPT預測加密貨幣新高：比特幣2027年上看15萬美元",
-        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNTVEzNEx1UFBJY0RvTGRLTU1TZzhERlc5NE1GTjJ5REtHY1hMVmJDLXZsTDZ4TWgxR1c1alNFZlhzVmJEcXlJMnlVRUhzN2FCc3NRNzc1TnAwZnRqMVIyallLc0pycFVVSUtXREVoSV9vVkQ4Zy1yWEhFV1FoUlhOb2dwajgzSWxaSTVSZzVFeHF1Vk1vQUxSVjdBVThVOXplbGF4Nm0wMEVoM3ctRkRETVpkWjVGN1hlM2t1ZnJHXzFzbm95WmotS1ZLNzY0QjF1TmtqcGtPV0ZxREtqZHNIV29yalQwNjFTY3FaTXNXUzR4ZENnSDZBQXdHOE5ZVUdzaVdKay1yWGRTVG1xOFR5dnFwSXVJY082Rzl5U2ZFaHlWcDNjdF94UFE0UjhjVk9FWHlUWlZuY1dEYl9VN1N1dw?oc=5",
-        "source": "商傳媒",
-        "published_hkt": "11/05 12:03",
+        "title": "主要加密貨幣行情，比特幣跌5.19% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdWFyMXl6aHlRMGQ2Z0lMcXoyMzI2NjNYaXQySGtDbDhFbENDRGM2cEtvUlNKTTh6NmluaVZ4ZGJsbVdiaVdTSWFoV2k0NWg2Yk4yb2VkeGxKRlJ0dHFyOF9EN1ZJeDNNWi0zMTlqOXR6bm8tNXpmbXYxU0JBM2Vwcm9HQ3E1ckxQXzAtNDBFMWxEV2ZfelU1MWxxOGNXYzY2?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "11/05 23:32",
         "related": [
           "BTC"
+        ]
+      },
+      {
+        "title": "比特幣跌破 7.8 萬美元、以太坊下探 $2300！美股盤中全黑、科技與加密概念股齊挫",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55YzZodVBiQ2FnaUxhNTBPQTlENENxTDk0Ti12ZVZnd1B2OGRqbUN2Sl9fRG1Wa2JIUTFTd0NqWUE2OGhsNDlpLVZJMjZPTjdvaW02S2w3S2hhaERld0Y4YS1udWstSzRJUjZUbjMzZmpfUmp5SFpiNi0tZ1c?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "11/05 23:16",
+        "related": [
+          "BTC",
+          "ETH"
         ]
       }
     ]

@@ -149,7 +149,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-06 15:13 HKT",
+      "updated_at": "2026-11-06 15:33 HKT",
       "news": [
         {
           "title": "台股60年發展史！曾因「萬二」卡關30年，如今一度衝破4.9萬點，網嘆：當年的天花板變地板",
@@ -207,15 +207,8 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-06 15:13 HKT",
+      "updated_at": "2026-11-06 15:33 HKT",
       "news": [
-        {
-          "title": "不只台灣！日網也崩潰股市一片慘綠 台灣人留言超有共鳴",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55ZGprVFNqcVVWRVkwZTZHdng2M1VyUzQxdUlVU3JMVVpFcURXVEJjai1GZWxINlpoUy1yYXFIQkFna2l4LXdPaWxKMS1yVVRFRWFVSGF6UVQ?oc=5",
-          "source": "自由時報",
-          "published_hkt": "11/06 14:38",
-          "related": []
-        },
         {
           "title": "亞股血洗崩盤 韓股跌逾8%觸發熔斷、日股暴跌",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16WGt5S1g3cnoyUTUwVlR5Y1Byc2ZTbUwzTVdELTRUWkR2SldxbnlwM0U4ZnhJckpTam9qWWhmRlNfQUtQNnpvZndzQ1dfMHJ3MUt4YnoxTQ?oc=5",
@@ -231,12 +224,21 @@
           "related": [
             "^N225"
           ]
+        },
+        {
+          "title": "韓國、日本股市重挫！KOSPI 暴跌 5%、日經大跌千點，半導體股賣壓與台股影響整理",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93QmFPdWJTbkd5eTNWVWxDcEZqY1RsUDgwbllVdTR2LTEzWG9jTmc5dVAtdlZpOVlMM3VBMGpIeGdpNExKVzRZMHB6MjFFcWpCaGhN?oc=5",
+          "source": "果仁家",
+          "published_hkt": "11/06 10:59",
+          "related": [
+            "^N225"
+          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-11-06 15:13 HKT",
+    "updated_at": "2026-11-06 15:33 HKT",
     "news": [
       {
         "title": "加密貨幣市場遭遇劇烈震盪，比特幣擊穿關鍵支撐位",

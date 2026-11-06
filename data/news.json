@@ -239,30 +239,34 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-07 00:03 HKT",
+    "updated_at": "2026-11-07 03:53 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣跌0.66% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGdZWERTaWg5TXhDSDR2cEVRZDZjVVE0eTRQbTVYemlya1ZIcER1UFRTWEJFeGpPN1p0RkNMbldqamcwd3AzYlhFUnZqSHhpQjlfZjQ0T2JQUzNGa0hpbXVHV215ZndnZzRVYmRZVE1RUm1XUUQyWjZUR2stZUl5OWg4ZzY5ZlNoZnZEZW9GeE5LclE1TkZic3N1NzA3WklM?oc=5",
+        "title": "主要加密貨幣行情，比特幣跌0.12%",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUXRRZTJ0bUVPY09MUVZ0RFFnWFI2QVlsM0IycW0ybWlGREFEYjMyUjF2enM2QjV4eURpQWZsX3RYV0UxbjlzZ29mckctOXFQNHVNMEVoRlhUWTg2MHd5NFNXWTlJX0pFTnk0U0F6bUtlaHU3UWIxLUJmSlVIYlRFNHFTN0VwME5uZXNvbEdlQUpYM2w2RGp6YXBHY2lFZmRZ?oc=5",
         "source": "etnet 經濟通",
-        "published_hkt": "11/06 23:32",
+        "published_hkt": "11/07 01:03",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "科技股打個噴嚏,加密市場進ICU——為什麼跌得這麼慘？",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tcWdDbW9Ccl9Dc3IxaVhsR0lKZEFrUm5ISHN2SzIwc2cyM2RrRDlRaDlaN0tSTVNFQ3BpUTFacTdwS1BFZTZQN1ZsUQ?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "11/06 22:30",
-        "related": []
+        "title": "為什麼以太坊今天下跌？",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdnQydmdKbWxOTG0wNTNqMWFRTTFwN2NMc3RGajViY3FsMmMwb1lGb3pCRzBXelV1aFE1dmRRU1BTcklaNExfZ1Y5Uk1aM3BjM3ZrODdETXJETlVUTXE3Q3ZxdDFNS2wzc1dvSXNwaGVZeXRLcndFMzJ3MktYQW9ZdnRUOFFFUDd1a3Q4YUtpYjA1WjRJWTUwWEVwYTB1ak5CREN5NGp2bWlkSHNpS1ptTzRtOHR3cDFxNWJXNkFiUnJpd9IBwgFBVV95cUxPdnQydmdKbWxOTG0wNTNqMWFRTTFwN2NMc3RGajViY3FsMmMwb1lGb3pCRzBXelV1aFE1dmRRU1BTcklaNExfZ1Y5Uk1aM3BjM3ZrODdETXJETlVUTXE3Q3ZxdDFNS2wzc1dvSXNwaGVZeXRLcndFMzJ3MktYQW9ZdnRUOFFFUDd1a3Q4YUtpYjA1WjRJWTUwWEVwYTB1ak5CREN5NGp2bWlkSHNpS1ptTzRtOHR3cDFxNWJXNkFiUnJpdw?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "11/07 00:18",
+        "related": [
+          "ETH"
+        ]
       },
       {
-        "title": "美國現貨加密貨幣 ETF 在市場拋售中錄得 5.4 億美元淨流出",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOanJiQkZXN0p5Z21BMUdKWkVMODdPQ3NKMkFZV1Z6c3lUZzVlUXctWkwwdWZ5OGFxcDBkaTZEelFjZEdiX0J6dXdoVl9XSHR1Q2x3RWNiaHcwN29wZ05sLW5vNnB3bXN6dVJuTVpUREQxa1dheWZHNjNPWGZBRzFMVmNNNDdTbnlMcTFTWGNkZUh3VkJNT0s2bWxlNXQ1LUZ3S3YwYmJtMDdGQkJvTTBV?oc=5",
-        "source": "KuCoin",
-        "published_hkt": "11/06 22:19",
-        "related": []
+        "title": "比特幣測試7.5萬美元，黃金下跌，因美國10月非農就業人數上升",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPLU5GR0M3dHZ3Nm9NRmJha2E5TzNTa3JPM1JMdTVpVTVYZG8yekdDUzBabDc3NUwtVWJBbVYySEprSDFEWjhGUGpxdVYzcmRZYVlUaVI5VFFXR3FwVVU4OVFkU2ljV1NLZEVmNkZjVndyQ0VFSnRjdEt2cm9FOFZnalZJcmVuSk1oTnUwOFd6TXUyanRqVlozajRHM0JDMmFVU0gwaHFPdnRMM3I4X1Y0VkNYRHY2cUIzbUtCbjFOUXY2RW5GblZIRFZCaWdpUHhBLWtzb2NhWmJDYUhNRy12eFE2RFZ1c1JtN3hUcGhUOHg2RXp3NnlJSXMyMlB2bjRwZDJIRTFMX2NUcVJJTExqeTB30gGSAkFVX3lxTE8tTkZHQzd0dnc2b01GYmFrYTlPM1Nrck8zUkx1NWlVNVhkbzJ6R0NTMFpsNzc1TC1VYkFtVjJISmtIMURaOEZQanF1VjNyZFlhWVRpUjlUUVdHcXBVVTg5UWRTaWNXU0tkRWY2RmNWd3JDRUVKdGN0S3Zyb0U4VmdqVklyZW5KTWhOdTA4V3pNdTJqdGpWWjNqNEczQkMyYVVTSDBocU92dEwzcjhfVjRWQ1hEdjZxQjNtS0JuMU5RdjZFbkZuVkhEVkJpZ2lQeEEta3NvY2FaYkNhSE1HLXZ4UTZEVnVzUm03eFRwaFQ4eDZFenc2eUlJczIyUHZuNHBkMkhFMUxfY1RxUklMTGp5MHc?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "11/06 23:23",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

@@ -242,36 +242,28 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-09 23:46 HKT",
+    "updated_at": "2026-11-10 00:56 HKT",
     "news": [
       {
-        "title": "V神新敘事：以太坊價值儲存與比特幣有何不同",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xZElUR0JmTFlEbElXSVI1ekhnelVPUllVYWJMTzRJUkNBbHFsSFhpSm1TcTN5SVM3MVY0dXlkaloyTVM1ZC10cUFVM2FtcGM?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "11/09 22:00",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
+        "title": "交易時刻：時隔兩月再下50週均線，BTC死守7.3萬等待CPI審判",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNlA4eEppNGdoajlxZkNEMndLZEs2ZGsyN3NPeENyakxnLUgwVmJlVVQ2Zmo2bXo4WFVFcW0xVGEtRGprQVNGa18yVHgxd0t1Y201Vi1ZbWh2eE9PVEdpaTlVOEdYWjBqM2diTVpoWEJjejM5TkMzWHhwbklYdkpreHYyd2pCQQ?oc=5",
+        "source": "PANews",
+        "published_hkt": "11/09 23:31",
+        "related": []
       },
       {
-        "title": "主要加密貨幣行情，比特幣跌0.12% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd3VrRHQzWGRLSzJINERydm1RdnVwVTNlRmpKR0ctQ1BfY0VmTF90ZWFOY2I5NTdBQWtaTmtvRHEzSTM5QzRxdUhvempFWENSLV9GZ2xRYUNLa3ZiWVhBMWlPRXRmS0R3MDVZNURpOW9ZcUhNSExhMkFubEdSNE1DUDEtOFN6cHZTYVhYNWRlc3dYbTBhSHFCaEZlRVVwWkZP?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "11/09 21:37",
-        "related": [
-          "BTC"
-        ]
+        "title": "週一開盤前，在全球市場復甦的背景下，交易所交易基金和股指期貨走高",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVdtWHhsU0x6cTI3dHBSakdhT01mNFpFYWczb2liNHNlckhpb3RBSkFmaHBPX0V1UzJqMzdFeEpHaXRzZ1BoMnlidjJzWkd1RkVhSUlDOU5CTHlJdHZvX3JOWVhobS00RDVUX1E0ODQxSi1oVGE0eDEweDlCc2JfdGFOa2gzbVhPeUUzVXlFTGhwN25XX0ZTYnZwejNBc01aNXNXRjR6a1RqS3FrLXcwODZtQQ?oc=5",
+        "source": "Moomoo",
+        "published_hkt": "11/09 22:26",
+        "related": []
       },
       {
-        "title": "為什麼比特幣、以太坊和XRP今天在下跌？",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZmNVN1o0Z1JMM21kcnNYTUZjTzkzV2RhOVRXWVg0bkppSE5Xeng0Z0FzdDdOYTI3ZENZUmYzeE5nbXUwMmRhNnYwdjlRalhXUi14VWthOXAyUktmbERnVzNWU09PTndyMkl5V3JfeGk3UTM1UnBkNGxEWl8yYW05bF91UDU0czk1bmczQlN1MXJEV1JFMWt3ZVR6UGswc0hzeHFoZjZwUGpHSm9HOW84ajU0QjBqYU12VkIzRjBOazVlRFZFekprWnN2S1BQYjQ0Z2ZSdEx2ZlJmYmxEYWtWMDQzV29YVVpybC1SVUprVdIB9AFBVV95cUxQTGF5M1RVZWprdFhqMmMxYnlsVVpsYVRpcmNwT3E3al83Z2hYZ2VIZko4a0JfUEwxZXRPcXVZNWh6cXJlOXVaYmdXYWVZb21zcEx6UW01aE9LdTJ2S19QWUlOVmhUMWxLYUpaRDdZSGVac1ZhdGZDU1lIbGxHY0gyTGtNZXJkWlJWNnk0ZFBWZ3NxclFsRnVnby1xSE1XNW5zTDdpMmtzc0FrdXhFY3B0UFdESEJLeE1iNTFpMG9hMl9vU3VYNGljUGdsTFlfa2NVbjBZcTRZY290YzFNblo1aHIzT1FuR3o4THQ0ZV9vTzFrRU5w?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/09 18:37",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
+        "title": "嘉信理財加密平台新增Solana、Avalanche和Chainlink 作者 Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iZXJwMmhKVktpNjZ5SUFXb2F3VG93RkV2MnB2b2FrNXlUMHJLbTRXVFFESTVDdzY4bWVtdFhXSmJJRU9GbDBRUGV0a1l2Ulhtc0g3OU16OEtWMUFySUV4djZPazE5cnhYOEc4eFUzZGE?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "11/09 22:13",
+        "related": []
       }
     ]
   }

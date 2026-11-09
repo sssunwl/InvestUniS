@@ -27,30 +27,32 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-06 11:29 HKT",
+      "updated_at": "2026-11-09 10:46 HKT",
       "news": [
         {
-          "title": "美股急跌，是危機來了， 還是市場太恐慌？",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQnVCQXgwUWR3QnYtTkhFeU5XYzJXUlBUN1RWa3YtOEhTQ1U4RWpxWkdxS1hZSzBhV1NZamxaaVZkS1BVMzkwcXhqTTd0MkVBbDFpWlFsR3dzMmxyaDVOQ1JpVzZJWWNqZEdVb29WMThuOUpWVXFiYmNyeFFNQUxzdWEzNm14V2N3U2JDRElCZ3kxckpQTnF3bDBR?oc=5",
-          "source": "鉅亨買基金",
-          "published_hkt": "11/06 10:51",
-          "related": []
-        },
-        {
-          "title": "市場快訊》期中選舉失利，川普、AI與美股下一步怎麼走？",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjVHNZcFB3eFY1XzNaUTlOOGZBSG5kMGNYYnZLU0JDYmRLaUJtWVM1R0FQSUFYZE52X24wUE1lVmgwU1hGUlZDZ1p2X3VIMEk?oc=5",
-          "source": "鉅亨網",
-          "published_hkt": "11/06 10:04",
-          "related": []
-        },
-        {
-          "title": "美股科技板塊重挫拖累 日本日經指數週五早盤暴跌逾5% | 民視新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04dGZfS2o1aVZQeThNcmF2YVJQeHg4TTJTalB3ZWRIMG9sb3I5V0tfaWtOa1ZmNEVndFpfSmc0SjdkSl9ibnhvbWJvTkh0WTZJbHZwYlNR?oc=5",
-          "source": "LINE TODAY",
-          "published_hkt": "11/06 09:00",
+          "title": "市場無懼輝達間諜疑雲？美股科技期貨早盤承壓 台日股逆勢大漲",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xNEthcHQ1aFRuYkhkR2FnU0FtUlJoNGpEZnJaZFY3UDZEeDFjc0ZvdzFJQzk2dHdfN2k5M2hjZTNNc1k4eTB0Q3Bpdjg?oc=5",
+          "source": "聚財網",
+          "published_hkt": "11/09 10:06",
           "related": [
-            "^N225"
+            "NVDA"
           ]
+        },
+        {
+          "title": "市場無懼輝達間諜疑雲？美股科技期貨早盤承壓台日股逆勢大漲| 財經",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZYllsWUpDOEJYaXhkbEJoYkNRb3RDNkJuRkhxZ19GN0sybkRqb0hYZWtrd0VGSnRZdlY1RTBIN2NrRkRCb0REbmlWUFk2U0U3OF9rcDVYaFNJQlE?oc=5",
+          "source": "Newtalk新聞",
+          "published_hkt": "11/09 09:59",
+          "related": [
+            "NVDA"
+          ]
+        },
+        {
+          "title": "美股週五反彈只是「死貓跳」？AI股賣壓未消、升息疑慮升溫",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tYTdqa29ZUWJPLWh3dVhFcjE5UzJkN1NFM0RmaDM3VGVkdExEdzFtZmxIOGFJUjZhN25KY0xOajh5WGVrU01PZjFGUkZDZ2c?oc=5",
+          "source": "鉅亨網",
+          "published_hkt": "11/09 07:41",
+          "related": []
         }
       ]
     }
@@ -239,33 +241,34 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-07 03:53 HKT",
+    "updated_at": "2026-11-09 10:46 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣跌0.12%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUXRRZTJ0bUVPY09MUVZ0RFFnWFI2QVlsM0IycW0ybWlGREFEYjMyUjF2enM2QjV4eURpQWZsX3RYV0UxbjlzZ29mckctOXFQNHVNMEVoRlhUWTg2MHd5NFNXWTlJX0pFTnk0U0F6bUtlaHU3UWIxLUJmSlVIYlRFNHFTN0VwME5uZXNvbEdlQUpYM2w2RGp6YXBHY2lFZmRZ?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "11/07 01:03",
+        "title": "黃仁勳突認婚外情！比特幣清晨急殺7.3萬鎂、以太坊跌破2,060美元，恐慌指數29",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbUVZTkt5eWc2cElxRzNGX3RiQVY2Sk9uZ1BhVmRzemdrbUFlNkpIcXFFYldNS3pBVHh1bjBfbzVjeTdxZngzd1hwRWlWNXB6YlBDbWZULXl5ZGE2NENPOUZWbXo1cUptTkFuRW14d083U0xfN3MtZTAwQzBYVk5LaGZWTEFvS2puY0ItRmJwV3cxd2JZQ0J3S0paMnRJREdu?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "11/09 09:19",
         "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "為什麼以太坊今天下跌？",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdnQydmdKbWxOTG0wNTNqMWFRTTFwN2NMc3RGajViY3FsMmMwb1lGb3pCRzBXelV1aFE1dmRRU1BTcklaNExfZ1Y5Uk1aM3BjM3ZrODdETXJETlVUTXE3Q3ZxdDFNS2wzc1dvSXNwaGVZeXRLcndFMzJ3MktYQW9ZdnRUOFFFUDd1a3Q4YUtpYjA1WjRJWTUwWEVwYTB1ak5CREN5NGp2bWlkSHNpS1ptTzRtOHR3cDFxNWJXNkFiUnJpd9IBwgFBVV95cUxPdnQydmdKbWxOTG0wNTNqMWFRTTFwN2NMc3RGajViY3FsMmMwb1lGb3pCRzBXelV1aFE1dmRRU1BTcklaNExfZ1Y5Uk1aM3BjM3ZrODdETXJETlVUTXE3Q3ZxdDFNS2wzc1dvSXNwaGVZeXRLcndFMzJ3MktYQW9ZdnRUOFFFUDd1a3Q4YUtpYjA1WjRJWTUwWEVwYTB1ak5CREN5NGp2bWlkSHNpS1ptTzRtOHR3cDFxNWJXNkFiUnJpdw?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/07 00:18",
-        "related": [
+          "BTC",
           "ETH"
         ]
       },
       {
-        "title": "比特幣測試7.5萬美元，黃金下跌，因美國10月非農就業人數上升",
-        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPLU5GR0M3dHZ3Nm9NRmJha2E5TzNTa3JPM1JMdTVpVTVYZG8yekdDUzBabDc3NUwtVWJBbVYySEprSDFEWjhGUGpxdVYzcmRZYVlUaVI5VFFXR3FwVVU4OVFkU2ljV1NLZEVmNkZjVndyQ0VFSnRjdEt2cm9FOFZnalZJcmVuSk1oTnUwOFd6TXUyanRqVlozajRHM0JDMmFVU0gwaHFPdnRMM3I4X1Y0VkNYRHY2cUIzbUtCbjFOUXY2RW5GblZIRFZCaWdpUHhBLWtzb2NhWmJDYUhNRy12eFE2RFZ1c1JtN3hUcGhUOHg2RXp3NnlJSXMyMlB2bjRwZDJIRTFMX2NUcVJJTExqeTB30gGSAkFVX3lxTE8tTkZHQzd0dnc2b01GYmFrYTlPM1Nrck8zUkx1NWlVNVhkbzJ6R0NTMFpsNzc1TC1VYkFtVjJISmtIMURaOEZQanF1VjNyZFlhWVRpUjlUUVdHcXBVVTg5UWRTaWNXU0tkRWY2RmNWd3JDRUVKdGN0S3Zyb0U4VmdqVklyZW5KTWhOdTA4V3pNdTJqdGpWWjNqNEczQkMyYVVTSDBocU92dEwzcjhfVjRWQ1hEdjZxQjNtS0JuMU5RdjZFbkZuVkhEVkJpZ2lQeEEta3NvY2FaYkNhSE1HLXZ4UTZEVnVzUm03eFRwaFQ4eDZFenc2eUlJczIyUHZuNHBkMkhFMUxfY1RxUklMTGp5MHc?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/06 23:23",
+        "title": "黃仁勳認婚外情輝達啟動調查，國安基金進場首日台股開高！",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vNmdIRVdjVS1vQWN4ejA4WGVSWlotZjktUnZOY0ZiaUktWXVDalZOVmU3c0o5bDZFZFVBRU9mQXJqV3dFYllJUlFwYTZLSGk4V0J5dUFiWQ?oc=5",
+        "source": "鏈新聞 ABMedia",
+        "published_hkt": "11/09 09:18",
         "related": [
-          "BTC"
+          "NVDA"
+        ]
+      },
+      {
+        "title": "Grayscale：以太坊——代幣化金融的基建基石",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwQ29WaUtJbEVkekJZZ0tCMmJoeUh1NkY5U2VOUWdKYVNKQ3RpWHdhenY1Nlh2WHFSb0xhcno3MzBOMDJsZkdURHVNSjBSN1k?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "11/09 09:00",
+        "related": [
+          "ETH"
         ]
       }
     ]

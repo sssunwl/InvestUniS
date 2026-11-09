@@ -150,30 +150,32 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-06 22:40 HKT",
+      "updated_at": "2026-11-09 15:02 HKT",
       "news": [
         {
-          "title": "洗籌碼尚未結束、後續將加速沉澱 投顧看好明年登5萬點",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zMUctM0Q0SU5CNjV3cDFseHF2UTR6MkoxQ0F3eXRxQVdoaVBYX1VBeU1CZGNITUpCdk5LbFJPWmxMdFd3SHBZUlNJMmMzUDI1b1YyLVdBd2M?oc=5",
-          "source": "自由時報",
-          "published_hkt": "11/06 22:28",
+          "title": "【台股11/10日盤前分析】",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1URDBLTnY3RVBIMXl1V19QY3VIdmRoeUE3M0RMaUJBRUtUSmVkTV9pU3AzSHU4SUZENEQ5RlQzYlZsalhTMTlrS0RvSlNQakQ4RjJtQkJDbUx3Q1pTd2hwYVcyZmJzYmotM091TFpLcw?oc=5",
+          "source": "理財周刊",
+          "published_hkt": "11/09 14:50",
           "related": []
         },
         {
-          "title": "TWA00 加權指數- 國基啓動第10次護盤了，主要是穩定市場信心，並非幫助誰獲利。 - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MMHJCUW9ZUnZraF9zWXg5a281aWpUenQxRWpTeUtkSndZTG5wR0RKbzBmbWcycTNhaXFNYTlXU0tDd29qdzdlckJVZmlmeXgxaXZZS1hkZFk?oc=5",
-          "source": "CMoney",
-          "published_hkt": "11/06 21:57",
+          "title": "台股強彈！收盤大漲1960點 台積電漲75元 | NOWNEWS今日新聞",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96Q0RlMnZxVDRNOXRFWnh5eV9kbkxpTm5ybWhERzN1ejNKWEl5SUtGbWVGUFBmRFV0b3JHbDhqcDdJUUtSVTdpYVNKWlRBdF9Hd3F4ZFB3?oc=5",
+          "source": "LINE TODAY",
+          "published_hkt": "11/09 13:57",
           "related": [
-            "^TWII"
+            "TSM"
           ]
         },
         {
-          "title": "曾崩8成！2分鐘看完台股60年關鍵起落回顧驚心動魄10大轉折| 股市要聞| 股市",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sS0JLN24tVEJTZUZPZXlqWTZPam9uRHF0c3ZBU0V5OHIteUpDcXBSVVBpdnZUXy1mZC1qZmFtWjJSaW5zcnpNci1YZVJzQnFP?oc=5",
-          "source": "UDN",
-          "published_hkt": "11/06 21:55",
-          "related": []
+          "title": "聯發科、台達電、奇鋐、華邦電齊漲停！台積電飆漲100元 台股暴漲1960點創「史上第2大漲點」",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9MQTlrMTI0WWxnREtTY1AxWTRrVm1YSGU3Z0Z6LU9lRVB6VnNQSGdKUjBseFpTbmlDazhOYndWdXBxU2tnbno3c0kwQQ?oc=5",
+          "source": "FTNN 新聞網",
+          "published_hkt": "11/09 13:52",
+          "related": [
+            "TSM"
+          ]
         }
       ]
     }
@@ -208,31 +210,31 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-06 22:40 HKT",
+      "updated_at": "2026-11-09 15:02 HKT",
       "news": [
         {
-          "title": "AI股跌勢加劇…日韓股收盤各挫約6% 日經雪崩逾3600點",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VUFVnZ05hV25GeWNjaUJLOFJQTzZFLWdxd0NUX1hLZlhZbFIxU1BsaWp5bDRyU19GUFNnY2ZjX3M1Z3M0X1NQaDhvQThrVm9G?oc=5",
-          "source": "UDN",
-          "published_hkt": "11/06 16:03",
+          "title": "《日股早盤》半導體飆 日經彈1,976點；TOWA漲停",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYmw1YTdqSl96bDVid19va2UzUExvQmNqWnBzU3JKZHpOVmVYR1YxNWFIVk9BZUxFQ2ZOeTlVWWtkSXhyVGJ5SjFvSkM5MzVYQ3B1WGQ5eXFtN05JWnkzYXNSalE2bkFwZDR0RTRvMUE1LVdDTnhEYUk2OFpNSDIySnF3Q2tkN3l0aXZGT0pnUkhtRnJ1R25XbFctLXM?oc=5",
+          "source": "台視全球資訊網",
+          "published_hkt": "11/09 12:33",
           "related": [
             "^N225"
           ]
         },
         {
-          "title": "AI股跌勢加劇　日韓股收盤各挫約6%日經下殺逾3600點",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJdUphaDBubGk4NUxnemk1dW1tQWJmS2Jub1Z6UHR6dlgtMEZwRDkyTWc2ZHdYdkJKbk11bXF6eUhNenhKQXc5NXhqRGVHZmZlRWxJVG9fcDdEa3lEY1dn0gFfQVVfeXFMUEl1SmFoMG5saTg1TGd6aTV1bW1BYmZLYm5vVnpQdHp2WC0wRnBEOTJNZzZkd1h2QkpuTXVtcXp5SE16eEpBdzk1eGpEZUdmZmVFbElUb19wN0RreURjV2c?oc=5",
-          "source": "經濟日報",
-          "published_hkt": "11/06 15:54",
+          "title": "美科技股拋盤與鎧俠前景不佳，日經指數週線重挫9.25%",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNi1xVVR3Tzh0cDR2WXdnRlFaQmQzMFNrb0RVSFFqWnZvRmFJQ2owNGJEenBhQ2hWa3RWNXdxR2VCV2xMX2tpdDR4ZW1pN0t6NHpqOVh6RFRVdUVSUmlrcXY3T1Bja2hpbmhFODdHeEdqRm9rd1NTMElyZ3d4dGktbXBPd2xtQQ?oc=5",
+          "source": "富聯網",
+          "published_hkt": "11/09 11:44",
           "related": [
             "^N225"
           ]
         },
         {
-          "title": "AI股跌勢加劇 日經收盤瀉逾3600點、韓股重挫6%",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwS3JOV2ZvdjlTYk1PYm0wRXl3VERiOGFEa0IyMnRFWE00NmU3cktmdnpNRlVEdXUzb3Y1X1BDUTRxRndBUEE1Xzc0RVgxejRJWk52Z1lfME1ibEtaWEE?oc=5",
-          "source": "中央社 CNA",
-          "published_hkt": "11/06 15:43",
+          "title": "日股：美股上揚帶動＋晶片股估值催化買盤，日經指數上半場大漲3.44%",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMGtvcHEwSG1yc05fWkxlUUdMOWI1bWVmVFR1a0xTc1lOUnp3MkxzeVJINjg3TVRmNUVmakREdV9VUDY0OXRZdzVnM3o5ZGZVWXZIR3A5cDVlcVRIRFJFaWN5QXRvSlJVQXBsR1dpSFM3S2RNZmFaYVBRSlUtc3hFbFZKWVhtUFpk?oc=5",
+          "source": "富聯網",
+          "published_hkt": "11/09 11:03",
           "related": [
             "^N225"
           ]
@@ -241,34 +243,33 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-09 10:46 HKT",
+    "updated_at": "2026-11-09 15:02 HKT",
     "news": [
       {
-        "title": "黃仁勳突認婚外情！比特幣清晨急殺7.3萬鎂、以太坊跌破2,060美元，恐慌指數29",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbUVZTkt5eWc2cElxRzNGX3RiQVY2Sk9uZ1BhVmRzemdrbUFlNkpIcXFFYldNS3pBVHh1bjBfbzVjeTdxZngzd1hwRWlWNXB6YlBDbWZULXl5ZGE2NENPOUZWbXo1cUptTkFuRW14d083U0xfN3MtZTAwQzBYVk5LaGZWTEFvS2puY0ItRmJwV3cxd2JZQ0J3S0paMnRJREdu?oc=5",
+        "title": "币安Alpha已恢复BSC、以太坊、Base和Arbitrum四条网络提现",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhU0ZBdkxPLWNJVDVNbGVLUlJHZnM2SFpWX01IU0M3dXVuODZPT1NEYmlGMzBOc01iQjVZU1RNTGRpeEZjS3U0WHpBbnB6MFVfSVZlMThhVEFpN2xWVHN3NFdSRFc5dw?oc=5",
+        "source": "TradingView",
+        "published_hkt": "11/09 14:04",
+        "related": [
+          "ETH"
+        ]
+      },
+      {
+        "title": "加密貨幣價格預測：Cardano、Zcash和比特幣 – 亞洲盤 11月09日",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNHZ3UzVEN1NleUN5WlJNNjZOUTRneDRLOUY5YUVsamE4bnVoT01mNkpSdWZ2T0JuXzJSV3JvQkdpWHpXX3dFWFozSmpOcmc5eXcxV1A3NDVfcVFIUC1DbXZjdng0cnZCeVkxYUxNS0VvZTBzOThaeGt3WnFfUlhuQ0V6NWNXX2M4VEYxME5qRlhSRHBNYXRrU2h0MTJud3NuMFFQRlg0OVpzWlNzQlEwbjc4dUlRUGc4Rmt5WDZqNlgyZ1MwS0hSZkZpemVjd9IB0wFBVV95cUxPYXVLYVJyOGtoeHF2aGlXRUVhU0IwNE42T0tHYUR6YmxpamJvYVdYejBFSzhPaGRqRDNJY2V3R0xyTUhDS29LQllOX3dZVEtwMUg3V2l0V1I2RWlfWk03dFRDNmEzYTFfMWlPb2dINDRCTjY0MldvektnMGNvc3VLSkItVzB1NFFTeDJwX3p2bW1fODY3S1JudGdrSlR2Y0FBRVZaOTVvLWN1SjhRZVJTclJXa18xbzlCUHNlSGIxVURmMFlrU2V6bWVDZ1NhSEZReVM4?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "11/09 13:33",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "比特幣跨鏈橋 tBTC 停擺 9 天部分重啟！Aave 1.2 億鎂部位仍凍結",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQclZaWnF1WEVlOVdKZjBnWTRkd1A1LUl5X0VvajREa0NOcUhHUjZjd085aTQ1YjczdlZ5VGw0OEVFNGF0UkRSUFBZTmg1TGd1X2JZV2NzTjJKa2h5QzlkTVczcDgxZmdldjE4YkRzbC1lRTZDUF8tQ1daWERueXd6bHJCaDc2YWRxZ1cw?oc=5",
         "source": "動區動趨",
-        "published_hkt": "11/09 09:19",
+        "published_hkt": "11/09 13:21",
         "related": [
-          "BTC",
-          "ETH"
-        ]
-      },
-      {
-        "title": "黃仁勳認婚外情輝達啟動調查，國安基金進場首日台股開高！",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vNmdIRVdjVS1vQWN4ejA4WGVSWlotZjktUnZOY0ZiaUktWXVDalZOVmU3c0o5bDZFZFVBRU9mQXJqV3dFYllJUlFwYTZLSGk4V0J5dUFiWQ?oc=5",
-        "source": "鏈新聞 ABMedia",
-        "published_hkt": "11/09 09:18",
-        "related": [
-          "NVDA"
-        ]
-      },
-      {
-        "title": "Grayscale：以太坊——代幣化金融的基建基石",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwQ29WaUtJbEVkekJZZ0tCMmJoeUh1NkY5U2VOUWdKYVNKQ3RpWHdhenY1Nlh2WHFSb0xhcno3MzBOMDJsZkdURHVNSjBSN1k?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "11/09 09:00",
-        "related": [
-          "ETH"
+          "BTC"
         ]
       }
     ]

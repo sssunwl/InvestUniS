@@ -242,8 +242,15 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-10 00:56 HKT",
+    "updated_at": "2026-11-10 02:57 HKT",
     "news": [
+      {
+        "title": "Bitmine Immersion Technologies (BMNR) 宣佈乙太幣(ETH) 持倉量達607 萬枚，加密貨幣以及現金與有價證券總持倉價值達143 億美元",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpeXpJOElQWmtvM2U4SjVhd1B0Z05LemNhejlORjBVU0tnVFZNZFFub21QUWNscDVTMnBabmdscVdlSnRmeGdHT0JrTjlNUzlBejEtamdNQnlScHNiRXdOWXI0NGZpTTFmSG44?oc=5",
+        "source": "TradingView",
+        "published_hkt": "11/10 01:11",
+        "related": []
+      },
       {
         "title": "交易時刻：時隔兩月再下50週均線，BTC死守7.3萬等待CPI審判",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNlA4eEppNGdoajlxZkNEMndLZEs2ZGsyN3NPeENyakxnLUgwVmJlVVQ2Zmo2bXo4WFVFcW0xVGEtRGprQVNGa18yVHgxd0t1Y201Vi1ZbWh2eE9PVEdpaTlVOEdYWjBqM2diTVpoWEJjejM5TkMzWHhwbklYdkpreHYyd2pCQQ?oc=5",
@@ -252,18 +259,13 @@
         "related": []
       },
       {
-        "title": "週一開盤前，在全球市場復甦的背景下，交易所交易基金和股指期貨走高",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVdtWHhsU0x6cTI3dHBSakdhT01mNFpFYWczb2liNHNlckhpb3RBSkFmaHBPX0V1UzJqMzdFeEpHaXRzZ1BoMnlidjJzWkd1RkVhSUlDOU5CTHlJdHZvX3JOWVhobS00RDVUX1E0ODQxSi1oVGE0eDEweDlCc2JfdGFOa2gzbVhPeUUzVXlFTGhwN25XX0ZTYnZwejNBc01aNXNXRjR6a1RqS3FrLXcwODZtQQ?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "11/09 22:26",
-        "related": []
-      },
-      {
-        "title": "嘉信理財加密平台新增Solana、Avalanche和Chainlink 作者 Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iZXJwMmhKVktpNjZ5SUFXb2F3VG93RkV2MnB2b2FrNXlUMHJLbTRXVFFESTVDdzY4bWVtdFhXSmJJRU9GbDBRUGV0a1l2Ulhtc0g3OU16OEtWMUFySUV4djZPazE5cnhYOEc4eFUzZGE?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "11/09 22:13",
-        "related": []
+        "title": "為什麼比特幣下跌而黃金上漲？",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOUENPYzZSdnEtQ1pwQTVKdF9IZlVycDBfYnR0U05ZWG1mZHNfZ2JQZEhjejhOa0ZjN2o2TFQ4RFQtdWJZbjZKMWZtdl9DVXpfZFdNNks5N1A5U3ppYUtxRFN0d1NuZzBaaWIzazdObHlkZW1TbGVLa2pWU1hnNjN3Y3Myb3BWM3BSREsxVklibkpTb3B2UVdGeE4xSEZ5bENwZDczUXlDZm5lejFaOTlIYWM5S0RhYXZ5TVgzUkNNSGg4RDR1M3JBVzVkSVY3YkZmc1I4UkY5MHhkUzNONXU5bHphZ21KVjNQRnUwNFRxeXloVkhRYlRRQUpIMWRjSzFMWENoWXE2cjBqQ3FrWFpObl9UT201TWVEUXl1WdIBnAJBVV95cUxOUENPYzZSdnEtQ1pwQTVKdF9IZlVycDBfYnR0U05ZWG1mZHNfZ2JQZEhjejhOa0ZjN2o2TFQ4RFQtdWJZbjZKMWZtdl9DVXpfZFdNNks5N1A5U3ppYUtxRFN0d1NuZzBaaWIzazdObHlkZW1TbGVLa2pWU1hnNjN3Y3Myb3BWM3BSREsxVklibkpTb3B2UVdGeE4xSEZ5bENwZDczUXlDZm5lejFaOTlIYWM5S0RhYXZ5TVgzUkNNSGg4RDR1M3JBVzVkSVY3YkZmc1I4UkY5MHhkUzNONXU5bHphZ21KVjNQRnUwNFRxeXloVkhRYlRRQUpIMWRjSzFMWENoWXE2cjBqQ3FrWFpObl9UT201TWVEUXl1WQ?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "11/09 21:42",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

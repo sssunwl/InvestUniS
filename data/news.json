@@ -150,29 +150,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-09 15:02 HKT",
+      "updated_at": "2026-11-09 15:32 HKT",
       "news": [
         {
           "title": "【台股11/10日盤前分析】",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1URDBLTnY3RVBIMXl1V19QY3VIdmRoeUE3M0RMaUJBRUtUSmVkTV9pU3AzSHU4SUZENEQ5RlQzYlZsalhTMTlrS0RvSlNQakQ4RjJtQkJDbUx3Q1pTd2hwYVcyZmJzYmotM091TFpLcw?oc=5",
-          "source": "理財周刊",
-          "published_hkt": "11/09 14:50",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSWtpWmRKMG9vajdtU1FKMURyNnF1dWRCMnU0ZERsV04xNlR5Q2xDTVBYWk1ucnh4VGJjOEJrYktTbEw5c3gtV2ZFXzhyY2pfbDZobW1KaUFsNTNBMFlOSTNBc19GandHWkdpVTV4U3VRYmJqSTZWMnFranNSUkx3SU5ILVJJTm5selFGOHljZm4wM0tXelgwUXpzSlZuOXdhbnVaZkFyRHUwaDhJUHZ3M0xScWcyTnRDSGNjUV83cmxHNHc?oc=5",
+          "source": "台灣好新聞",
+          "published_hkt": "11/09 15:04",
           "related": []
-        },
-        {
-          "title": "台股強彈！收盤大漲1960點 台積電漲75元 | NOWNEWS今日新聞",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96Q0RlMnZxVDRNOXRFWnh5eV9kbkxpTm5ybWhERzN1ejNKWEl5SUtGbWVGUFBmRFV0b3JHbDhqcDdJUUtSVTdpYVNKWlRBdF9Hd3F4ZFB3?oc=5",
-          "source": "LINE TODAY",
-          "published_hkt": "11/09 13:57",
-          "related": [
-            "TSM"
-          ]
         },
         {
           "title": "聯發科、台達電、奇鋐、華邦電齊漲停！台積電飆漲100元 台股暴漲1960點創「史上第2大漲點」",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9MQTlrMTI0WWxnREtTY1AxWTRrVm1YSGU3Z0Z6LU9lRVB6VnNQSGdKUjBseFpTbmlDazhOYndWdXBxU2tnbno3c0kwQQ?oc=5",
           "source": "FTNN 新聞網",
           "published_hkt": "11/09 13:52",
+          "related": [
+            "TSM"
+          ]
+        },
+        {
+          "title": "國安基金告捷！台股收漲1960點史上第2大　台積電漲100元至2235",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53em1mNUpqUVdjMXZVOWpSazJvYV9ySkdsRmpkcFpLQ3VnRXRHeW1pNXIxN0E0N1dzR0NDMDJBMmZpYXZPT0ZCTDQxOUZjSkFYWFHSAVBBVV95cUxNeGk3cFNHLUdOVUtnQTlnNUg0TG5TMlZ4akJNSDFsam9BV1Q2UjRoekI4bk1uV25QOVNJNHBxMkpMWHByWlh3bk5oenc0OFJCVg?oc=5",
+          "source": "ETtoday財經雲",
+          "published_hkt": "11/09 13:48",
           "related": [
             "TSM"
           ]
@@ -210,13 +210,22 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-09 15:02 HKT",
+      "updated_at": "2026-11-09 15:32 HKT",
       "news": [
         {
-          "title": "《日股早盤》半導體飆 日經彈1,976點；TOWA漲停",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYmw1YTdqSl96bDVid19va2UzUExvQmNqWnBzU3JKZHpOVmVYR1YxNWFIVk9BZUxFQ2ZOeTlVWWtkSXhyVGJ5SjFvSkM5MzVYQ3B1WGQ5eXFtN05JWnkzYXNSalE2bkFwZDR0RTRvMUE1LVdDTnhEYUk2OFpNSDIySnF3Q2tkN3l0aXZGT0pnUkhtRnJ1R25XbFctLXM?oc=5",
-          "source": "台視全球資訊網",
-          "published_hkt": "11/09 12:33",
+          "title": "科技股反攻 日經指數收漲逾千點",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPMmU3bGV6VUxzWnlFLXZaLUZEcU1UT2RLRk9aV2NkQ3UyOFBCdjZZYklKYU1qZ0NJalFfZUtOQ2lNNy1KTUg5eHA4SUpMNEwxTHlOXzUzVXBNWHhMYkhzakhWcG9uR0dMbHV0TXo5NzFwb1R3dFJyLWJZeTBESVlIeGlOeDVPSTRfVzJNV1QzUkQyWk5OREF4WE4xc19RQkt3RXNJWEtyWV9DekFhZ2xSOXkzZi1jQ2x4bE9fQzhidElCTDlXaTRGWHBic1RFRWt5czR5cUpreVkwZ0VBZ21CSFNueFE4bXhja2M5RWZxRkRta0E5d0x6RFplUGNDd0FBS3B4dQ?oc=5",
+          "source": "Yahoo股市",
+          "published_hkt": "11/09 15:07",
+          "related": [
+            "^N225"
+          ]
+        },
+        {
+          "title": "日股：豐田汽車領軍，日經週一大漲1,340.73點或2.33%，軟銀、Ibiden逆勢重挫",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWm5wRU5EUmk1b0U3RFAzOFNTRTU3Q3ZxMzRlckJkUng3VnVGeUVOeW1UZUFaWjBVWE8tX0VFTWU2VjRzaEp6ejc1elJCNlpjSnhvNjVlbzBGdmxXdVRMRGlUc1BKazVkdDVqRTgxT3JrRzVROHdZWVRJOWtYdDU4MDZHeVV2Y0h1VTFaUm5xZw?oc=5",
+          "source": "富聯網",
+          "published_hkt": "11/09 14:58",
           "related": [
             "^N225"
           ]
@@ -229,21 +238,12 @@
           "related": [
             "^N225"
           ]
-        },
-        {
-          "title": "日股：美股上揚帶動＋晶片股估值催化買盤，日經指數上半場大漲3.44%",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMGtvcHEwSG1yc05fWkxlUUdMOWI1bWVmVFR1a0xTc1lOUnp3MkxzeVJINjg3TVRmNUVmakREdV9VUDY0OXRZdzVnM3o5ZGZVWXZIR3A5cDVlcVRIRFJFaWN5QXRvSlJVQXBsR1dpSFM3S2RNZmFaYVBRSlUtc3hFbFZKWVhtUFpk?oc=5",
-          "source": "富聯網",
-          "published_hkt": "11/09 11:03",
-          "related": [
-            "^N225"
-          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-11-09 15:02 HKT",
+    "updated_at": "2026-11-09 15:32 HKT",
     "news": [
       {
         "title": "币安Alpha已恢复BSC、以太坊、Base和Arbitrum四条网络提现",

@@ -242,30 +242,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-10 02:57 HKT",
+    "updated_at": "2026-11-10 06:55 HKT",
     "news": [
+      {
+        "title": "ETH/USD(ETHUSD)股票股價, 市值, 即時行情, 走勢圖, 財報",
+        "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQMjVaQk1LVTcxQ2xCcnVlWnpwSDN0NkNNN2d5Ym9UcWFlZmNlZVVwT0t6Q1lOYnlFNFNUdzBSa2VLSWRqcHhqQjFyM0NPQ3BLcGNXcHZRSmtQWEdmNlZGNUVBTS1iZHlVbGh6UXoyZlFUSTJEd0lUQlZua3FveE52QlM4ZFVHamNLMGw2YU5TczlNMzJCZ1lVb0U0ZHlrRUxuUG5xYU8xOWdNZlJiSVpGNzVQVDM0TWlzMm51V2tvVi1kZzVsMk5nd3dhaGlJeE1Wd0FXd0xkQlVSTTkyU1lvNGJUd0lZeTdzZFBDRlpaRHdNWW9NZ2NJeU1KQkp6aHhDa0gwTVhDZFJaaEZjczN3YWExbWdQWURPellJZGQ5UXA3NnhwRS1vMUluMGFNbmRpWXI3WmFwU1BEVE1QckRuWFByWEdoQlJLSWZWeDR2NmMzQUs2amRlX09OU0VJUWpTMEZQTEpQMlBwNzlVZS0zNVBlQV9mQUlPaWIzUlJrdw?oc=5",
+        "source": "Moomoo",
+        "published_hkt": "11/10 04:01",
+        "related": []
+      },
+      {
+        "title": "以太坊價格預測：ETH跌至2,100美元，社區就Vitalik Buterin的SoV主張展開辯論",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOenBHTm9uczE1a2R5RURya2lSdVhfejNveURpUTBCMnZmZTN1NkFmOVBmM2dSSmxMOHR1Q0lqSE9HcjNHLVBnVUczaC1YRzNtdnh3OXhxcktQdmpEWl9WS0R6bzlVUHc1amJVeGk3aDlUZmMtTjk0NVU2bDFENnpYTWV2R0NwSGN0dm1fRi00YVJfYTViUVFGa1ZRdXJBWW5GSW4tT2p5Zm1wMlhPRlhadnpLUklkczVyX2xLVEVmZFhyckhYYXZvemE0aXVheXFLUlNZeWNMRWdwcHUzLVYtZXdCcjZIZllyODdwb0pBMlpfVlI1MHlKc3BXdXHSAfwBQVVfeXFMTnpwR05vbnMxNWtkeUVEcmtpUnVYX3ozb3lEaVEwQjJ2ZmUzdTZBZjlQZjNnUkpsTDh0dUNJakhPR3IzRy1QZ1VHM2gtWEczbXZ4dzl4cXJLUHZqRFpfVktEem85VVB3NWpiVXhpN2g5VGZjLU45NDVVNmwxRDZ6WE1ldkdDcEhjdHZtX0YtNGFSX2E1YlFRRmtWUXVyQVluRkluLU9qeWZtcDJYT0ZYWnZ6S1JJZHM1cl9sS1RFZmRYcnJIWGF2b3phNGl1YXlxS1JTWXljTEVncHB1My1WLWV3QnI2SGZZcjg3cG9KQTJaX1ZSNTB5SnNwV3Vx?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "11/10 02:30",
+        "related": [
+          "ETH"
+        ]
+      },
       {
         "title": "Bitmine Immersion Technologies (BMNR) 宣佈乙太幣(ETH) 持倉量達607 萬枚，加密貨幣以及現金與有價證券總持倉價值達143 億美元",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpeXpJOElQWmtvM2U4SjVhd1B0Z05LemNhejlORjBVU0tnVFZNZFFub21QUWNscDVTMnBabmdscVdlSnRmeGdHT0JrTjlNUzlBejEtamdNQnlScHNiRXdOWXI0NGZpTTFmSG44?oc=5",
         "source": "TradingView",
         "published_hkt": "11/10 01:11",
         "related": []
-      },
-      {
-        "title": "交易時刻：時隔兩月再下50週均線，BTC死守7.3萬等待CPI審判",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNlA4eEppNGdoajlxZkNEMndLZEs2ZGsyN3NPeENyakxnLUgwVmJlVVQ2Zmo2bXo4WFVFcW0xVGEtRGprQVNGa18yVHgxd0t1Y201Vi1ZbWh2eE9PVEdpaTlVOEdYWjBqM2diTVpoWEJjejM5TkMzWHhwbklYdkpreHYyd2pCQQ?oc=5",
-        "source": "PANews",
-        "published_hkt": "11/09 23:31",
-        "related": []
-      },
-      {
-        "title": "為什麼比特幣下跌而黃金上漲？",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOUENPYzZSdnEtQ1pwQTVKdF9IZlVycDBfYnR0U05ZWG1mZHNfZ2JQZEhjejhOa0ZjN2o2TFQ4RFQtdWJZbjZKMWZtdl9DVXpfZFdNNks5N1A5U3ppYUtxRFN0d1NuZzBaaWIzazdObHlkZW1TbGVLa2pWU1hnNjN3Y3Myb3BWM3BSREsxVklibkpTb3B2UVdGeE4xSEZ5bENwZDczUXlDZm5lejFaOTlIYWM5S0RhYXZ5TVgzUkNNSGg4RDR1M3JBVzVkSVY3YkZmc1I4UkY5MHhkUzNONXU5bHphZ21KVjNQRnUwNFRxeXloVkhRYlRRQUpIMWRjSzFMWENoWXE2cjBqQ3FrWFpObl9UT201TWVEUXl1WdIBnAJBVV95cUxOUENPYzZSdnEtQ1pwQTVKdF9IZlVycDBfYnR0U05ZWG1mZHNfZ2JQZEhjejhOa0ZjN2o2TFQ4RFQtdWJZbjZKMWZtdl9DVXpfZFdNNks5N1A5U3ppYUtxRFN0d1NuZzBaaWIzazdObHlkZW1TbGVLa2pWU1hnNjN3Y3Myb3BWM3BSREsxVklibkpTb3B2UVdGeE4xSEZ5bENwZDczUXlDZm5lejFaOTlIYWM5S0RhYXZ5TVgzUkNNSGg4RDR1M3JBVzVkSVY3YkZmc1I4UkY5MHhkUzNONXU5bHphZ21KVjNQRnUwNFRxeXloVkhRYlRRQUpIMWRjSzFMWENoWXE2cjBqQ3FrWFpObl9UT201TWVEUXl1WQ?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/09 21:42",
-        "related": [
-          "BTC"
-        ]
       }
     ]
   }

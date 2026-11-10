@@ -27,31 +27,27 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-09 10:46 HKT",
+      "updated_at": "2026-11-10 12:41 HKT",
       "news": [
         {
-          "title": "市場無懼輝達間諜疑雲？美股科技期貨早盤承壓 台日股逆勢大漲",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xNEthcHQ1aFRuYkhkR2FnU0FtUlJoNGpEZnJaZFY3UDZEeDFjc0ZvdzFJQzk2dHdfN2k5M2hjZTNNc1k4eTB0Q3Bpdjg?oc=5",
-          "source": "聚財網",
-          "published_hkt": "11/09 10:06",
-          "related": [
-            "NVDA"
-          ]
+          "title": "2026/11/10(二)市場大反攻！油價重挫、美股強漲！危機解除？市場聚焦CPI【群益早安】財經大小事",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUDVUSTU4M1A4Mlp0TWtRd0RLeFloVWV0aXhna3BHZGlLbTlXbHA5ZHg4b1pUdS1DU1RBd1FSVWo2S0NNV2htZDl3LUlkMUJCdE9sV1Joa1VCVjZRaG13R1U4OHEwUWx6cjBJMTQ5SUJRRVRqdV9fTE5veWNTaGFybF93NlBrQmpEcnNBb01jOA?oc=5",
+          "source": "群益期貨",
+          "published_hkt": "11/10 11:20",
+          "related": []
         },
         {
-          "title": "市場無懼輝達間諜疑雲？美股科技期貨早盤承壓台日股逆勢大漲| 財經",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZYllsWUpDOEJYaXhkbEJoYkNRb3RDNkJuRkhxZ19GN0sybkRqb0hYZWtrd0VGSnRZdlY1RTBIN2NrRkRCb0REbmlWUFk2U0U3OF9rcDVYaFNJQlE?oc=5",
-          "source": "Newtalk新聞",
-          "published_hkt": "11/09 09:59",
-          "related": [
-            "NVDA"
-          ]
+          "title": "先鋒、富達警示：美股未來報酬恐減半 退休儲蓄面臨新挑戰",
+          "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNREViWVBtMHlpOUNMRjhKbl82dWY1cmFJNjdVeWMyOHBXWmdqSGtqenNGWVZ2NUJGcmpMS1NBY3BBWFdjQlBmemVNazVKZWRrejhKQnRRcnE5d1FKMVN6V3Boc04xQ3kySGJ2R3RhWW1kdGh1YW9rMGVsTEFET25MZWRqVUtkdmxWZi1GT0xyQlIza0YxVUV5MmJDWnFBQlNfUW9PVGlxUG1kZkU0NDd2VXdRbjVvNUZHZTJONUpRUmJvdk9adkpmdVRkcWZMajRlOHZwei1ONGVOZjFOUzMwR19pc0hUVlVvSU5VbHZ0ajJMWFg0UkJtTEZqZEJUazFvTUktdERhVG1lMHBfSmR5YXJkTGpJUTcyMll1RmZIZnptNzJ5UEZEU1JWamVnUEZ1U3VtRFQxb3VCRHRxZS10RGJXc2YyRllvSnRUSE1kOXdzUTRFeGk5RWFuZThnMXFNb0hqeE5RWmlyTHM?oc=5",
+          "source": "Life 生活網",
+          "published_hkt": "11/10 11:10",
+          "related": []
         },
         {
-          "title": "美股週五反彈只是「死貓跳」？AI股賣壓未消、升息疑慮升溫",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tYTdqa29ZUWJPLWh3dVhFcjE5UzJkN1NFM0RmaDM3VGVkdExEdzFtZmxIOGFJUjZhN25KY0xOajh5WGVrU01PZjFGUkZDZ2c?oc=5",
-          "source": "鉅亨網",
-          "published_hkt": "11/09 07:41",
+          "title": "美股科技股重挫後 高盛稱AI債務供給壓力正在信用市場累積",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5RzZSNEwzZlE4dlVMU0dGOS10Q3JSVkhXeFgwT1V3QW1nWkxXU0d4b3hYZkRKSHZqUkhsNzQ5VEUwV20xNUVCQg?oc=5",
+          "source": "鉅亨號",
+          "published_hkt": "11/10 10:01",
           "related": []
         }
       ]
@@ -242,29 +238,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-10 06:55 HKT",
+    "updated_at": "2026-11-10 12:41 HKT",
     "news": [
       {
-        "title": "ETH/USD(ETHUSD)股票股價, 市值, 即時行情, 走勢圖, 財報",
-        "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQMjVaQk1LVTcxQ2xCcnVlWnpwSDN0NkNNN2d5Ym9UcWFlZmNlZVVwT0t6Q1lOYnlFNFNUdzBSa2VLSWRqcHhqQjFyM0NPQ3BLcGNXcHZRSmtQWEdmNlZGNUVBTS1iZHlVbGh6UXoyZlFUSTJEd0lUQlZua3FveE52QlM4ZFVHamNLMGw2YU5TczlNMzJCZ1lVb0U0ZHlrRUxuUG5xYU8xOWdNZlJiSVpGNzVQVDM0TWlzMm51V2tvVi1kZzVsMk5nd3dhaGlJeE1Wd0FXd0xkQlVSTTkyU1lvNGJUd0lZeTdzZFBDRlpaRHdNWW9NZ2NJeU1KQkp6aHhDa0gwTVhDZFJaaEZjczN3YWExbWdQWURPellJZGQ5UXA3NnhwRS1vMUluMGFNbmRpWXI3WmFwU1BEVE1QckRuWFByWEdoQlJLSWZWeDR2NmMzQUs2amRlX09OU0VJUWpTMEZQTEpQMlBwNzlVZS0zNVBlQV9mQUlPaWIzUlJrdw?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "11/10 04:01",
-        "related": []
-      },
-      {
-        "title": "以太坊價格預測：ETH跌至2,100美元，社區就Vitalik Buterin的SoV主張展開辯論",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOenBHTm9uczE1a2R5RURya2lSdVhfejNveURpUTBCMnZmZTN1NkFmOVBmM2dSSmxMOHR1Q0lqSE9HcjNHLVBnVUczaC1YRzNtdnh3OXhxcktQdmpEWl9WS0R6bzlVUHc1amJVeGk3aDlUZmMtTjk0NVU2bDFENnpYTWV2R0NwSGN0dm1fRi00YVJfYTViUVFGa1ZRdXJBWW5GSW4tT2p5Zm1wMlhPRlhadnpLUklkczVyX2xLVEVmZFhyckhYYXZvemE0aXVheXFLUlNZeWNMRWdwcHUzLVYtZXdCcjZIZllyODdwb0pBMlpfVlI1MHlKc3BXdXHSAfwBQVVfeXFMTnpwR05vbnMxNWtkeUVEcmtpUnVYX3ozb3lEaVEwQjJ2ZmUzdTZBZjlQZjNnUkpsTDh0dUNJakhPR3IzRy1QZ1VHM2gtWEczbXZ4dzl4cXJLUHZqRFpfVktEem85VVB3NWpiVXhpN2g5VGZjLU45NDVVNmwxRDZ6WE1ldkdDcEhjdHZtX0YtNGFSX2E1YlFRRmtWUXVyQVluRkluLU9qeWZtcDJYT0ZYWnZ6S1JJZHM1cl9sS1RFZmRYcnJIWGF2b3phNGl1YXlxS1JTWXljTEVncHB1My1WLWV3QnI2SGZZcjg3cG9KQTJaX1ZSNTB5SnNwV3Vx?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/10 02:30",
+        "title": "比特幣守7.5萬鎂、以太坊撐2,128美元，美股AI股全面反彈、恐慌指數續回升",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRUtrVVRaMXoxOUREX3VaUTl0TWowN1FQVzBSVmpLV3hvczlnQXl0NFNuMk9mUWtIX29jVXctbXhxdks2WDhlaFh0X2tUUnJMeUlZUmJEbWVlZzNJZGF6WGM0bUhib21tTi15YU9ST3k3b3hfMjl2TGdsdEt0aDJLSEFnR0d0b3E2aGtTV3RpdTViTFY5X0ZLZndsbw?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "11/10 09:40",
         "related": [
+          "BTC",
           "ETH"
         ]
       },
       {
-        "title": "Bitmine Immersion Technologies (BMNR) 宣佈乙太幣(ETH) 持倉量達607 萬枚，加密貨幣以及現金與有價證券總持倉價值達143 億美元",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpeXpJOElQWmtvM2U4SjVhd1B0Z05LemNhejlORjBVU0tnVFZNZFFub21QUWNscDVTMnBabmdscVdlSnRmeGdHT0JrTjlNUzlBejEtamdNQnlScHNiRXdOWXI0NGZpTTFmSG44?oc=5",
-        "source": "TradingView",
-        "published_hkt": "11/10 01:11",
+        "title": "主要加密貨幣行情，比特幣升0.22% | 即時新聞 - 新聞",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeFhfdXd0enlXNlM0M0FTalVTZU5uaGlJeWJHNlB4cWI1YUhNaGNOeFg0UWdnc0x0UHdIU3V2VERUTmN5VEh1RG9JWXM2Z0lSWGZJYl9kQnBMdl9jeVRLMkFQSUhJR3RPVEtBYk5CVW5ZTWt5eTFYdkVOZHRMOEN2NXZfSExMMEVlSDlHTk9tR0dLeWFBUmhybFB6VWhSaC12?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "11/10 06:02",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "交易時刻：時隔兩月再下50週均線，BTC死守7.3萬等待CPI審判",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNlA4eEppNGdoajlxZkNEMndLZEs2ZGsyN3NPeENyakxnLUgwVmJlVVQ2Zmo2bXo4WFVFcW0xVGEtRGprQVNGa18yVHgxd0t1Y201Vi1ZbWh2eE9PVEdpaTlVOEdYWjBqM2diTVpoWEJjejM5TkMzWHhwbklYdkpreHYyd2pCQQ?oc=5",
+        "source": "PANews",
+        "published_hkt": "11/10 05:24",
         "related": []
       }
     ]

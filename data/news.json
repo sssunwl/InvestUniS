@@ -241,35 +241,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-10 23:16 HKT",
+    "updated_at": "2026-11-11 00:29 HKT",
     "news": [
       {
-        "title": "通膨頑固！美國 10 月 CPI 月增 0.4% 超預期，比特幣插針跌破 7.4 萬美元、以太坊下探 $2200",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcXlEU213dG9IVmQ2TF9GYk51LWlkYWZXdVFsdTExOXlWb2pfTW5GYTFybWN2di1qelNwbDhPRjBnRTRld1BvQzhvY284NlRqam55OHdETUVQblkwZWhWdTNRVmxMWWd2WXZjSHlCYVpvdjRkclpLV1FWbERiNlhLN1RzeGNmNmR4VEcw?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "11/10 21:42",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
+        "title": "BTC跌破73000美元，日内下跌 3.34%",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5dVRTWlhUUnR1eHRBMEE2SzZqUnVtVDllSWllNlRQQXBMQlFKdVFrdVlFX2NSaE5nTFJWeDBZS0kzdi1hbUFZQVhyZ2c3cDlqTWpEcGF6UlNpWVlDMkp3TURTaXVNUQ?oc=5",
+        "source": "TradingView",
+        "published_hkt": "11/10 23:44",
+        "related": []
       },
       {
-        "title": "主要加密貨幣行情，比特幣跌1.94%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUFlsUGQ5OGg2ZjZIYURXcUZHSnVtWlJMSmN3MzlyQzBLZmluYzBhNGZYbVhJdWVRQzcweDZvVTZzOWN1VFFGSHZKOG1oWGZVQ3RBX0FGVkhudE5NSEZGRWIyVi0tVFc0U05rRDZOcXhIQncxdTFfV2drMzdqMmVIVjc5TmFHWjIzQ0hWRTctSkVQaExjUUcwUm5WVG9WTnNZ?oc=5",
+        "title": "主要加密貨幣行情，比特幣跌1.75%",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR0RRUThaUm8tUHREa01VbGt2N3A0djhNUHhWNEU4cjhCQlZFdkxCVjJ6ejlYVlRKck1FcV9Ua1V2Z21mb0hDY1Z3X1RrMk9TS1hyd1QwQjc2a0NCUGtMcGFWdXVSa3oxdmlVSzFqN1FKamNiOHFhSTFHMEQ3aGxMbzdnNUdHXzVxR21oMHJ1ZmJQWXNVdVlVc2Z3SnFZLUla?oc=5",
         "source": "etnet 經濟通",
-        "published_hkt": "11/10 21:36",
+        "published_hkt": "11/10 23:31",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "以太坊Glamsterdam升級卡關 Ethlabs建議等外部審計再定Hoodi分叉日",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjVllDVm9hSWlzTVZvcWxYazJlSEhNRUk2T2p4ZHdPM3ktMllkTEFFNXI3OHhuNFB2NjVQU3ZjMmZhQ1J5aEphVS11a2I4djU0cEE?oc=5",
-        "source": "蕃新聞",
-        "published_hkt": "11/10 21:23",
-        "related": [
-          "ETH"
-        ]
+        "title": "火幣HTX發布10月成績單：現貨深度整體提升，賺幣加息陪伴用戶「暖冬同行」",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc1gxNTZiaDdSTVV4N190bDFxYVJXVy1kWFlYMzV5eWtLam40N2VYMWRVbHp1eklqaWJoYTZHS0lGdm5JZ213QUJSX2UyOTkxWFEtamt0T1pXeGZNVlNxUGRZSUR1dUVocXg1TUp3cTNJNzVMRzVSLWFoeGIwaU53QW0yMko3QQ?oc=5",
+        "source": "PANews",
+        "published_hkt": "11/10 22:56",
+        "related": []
       }
     ]
   }

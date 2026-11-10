@@ -143,34 +143,30 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-09 23:46 HKT",
+      "updated_at": "2026-11-10 15:39 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數- 2026年11月最新選股- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zTnduaTlSTnhhR2kybkxwNUpkWFVnSVl5RHZYM291NDhINnkxVTgzYTBmOHFFNGxLS1pIQUdpRVdtSWRrUkowVFQ0SWhjY2ZMdDBkT3kwaEY?oc=5",
+          "title": "外資大賣341億！台股卻大漲2.5% 「這幾檔」上揚成盤面救世主",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VanF4WDlFRl9TV1phOEl4bTc2a3FFOV83MHQ5cThjTjRXbzIxSkJ3OV80SkJ1T0M1ZTNnMUtUQlE0eEtrVE1rX3JwNA?oc=5",
+          "source": "三立新聞網SETN.com",
+          "published_hkt": "11/10 15:36",
+          "related": []
+        },
+        {
+          "title": "TWA00 加權指數- 台股反彈逾千點！5 訊號分辨起漲或逃命！ - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04SzlaWWU2SUp5OXY1RGp1TjdDX0s3Sl9pVlRLV3E1LTNEbU1EbGRzZ252TTJhUURDS3U4czJIeVFJcTA5bWV0QTdIdW1acEJLS1o2ckVqd0E?oc=5",
           "source": "CMoney",
-          "published_hkt": "11/09 22:44",
+          "published_hkt": "11/10 15:18",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "TWA00 加權指數- 開盤兩分鐘就120e的爆量去挑戰四月低點我就不信出軌會... - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WNHdhSU9SMzU0bFVYSzdTZmZxRG9nVFk1OURwNTNtT3dpOVZkYlpVTDZwR3NZbThVZzhiYTF6VFAzdkUwemlJTWdRellKa2R0bjR2SXFTcVE?oc=5",
-          "source": "CMoney",
-          "published_hkt": "11/09 22:38",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數- CCL四雄營收無懈可擊- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByMWpCTnJDNnREUEVDZjI5a1lQTEpleW9vRUdadE1OZEtvRlE2NGxFRHdQaFV3cENQTG13NnNiMUZtYlNBekVlNEQ3aHZGV3hvOFpqM3ptX3A?oc=5",
-          "source": "CMoney",
-          "published_hkt": "11/09 22:37",
-          "related": [
-            "^TWII"
-          ]
+          "title": "三大法人》台股漲1050點法人仍賣148億！外資連9賣累計提款8298億、投信連21買加碼368億 | 下班經濟學 | 財經",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YZVZNWXg0QXV3VV9oMmpaQW45aUVHNkdtUVpUcWlFTjNNcUY5T1dieGVmeHAzU3ZYSDdUSUdOMmw5d1N2TFlRbHhRcW1FQQ?oc=5",
+          "source": "風傳媒",
+          "published_hkt": "11/10 15:08",
+          "related": []
         }
       ]
     }
@@ -205,31 +201,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-09 23:46 HKT",
+      "updated_at": "2026-11-10 15:39 HKT",
       "news": [
         {
-          "title": "《日股》買盤回流助強彈 日經收漲2.33%",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmdTVTByRDE3X0RRNlUwbHpqZkNqRW11eFVjZHFoQVVDa1NhaXpxbWpWX2d6QVFEc0s0ZTJsNE5ISExUUlQ0SVk1Z0UzX2E1M1NUbnBWbWxCM1hHalM2ZEZKVTRWR0dUVmt2TTBGT05PRUM1QjZ5d1lzZGhjSU5ib3F0ckVoNF9ETGhUWXlLS3Fsdw?oc=5",
-          "source": "台視全球資訊網",
-          "published_hkt": "11/09 18:20",
-          "related": [
-            "^N225"
-          ]
-        },
-        {
-          "title": "《日股》日經大漲1341點 AI股驚現殺尾盤",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUndESG1BQWRaQl9nZGN2LTZhUlBOb3BVU2hkNDZUSXlzU2d2S2V1ZGhiSEE4UEJNM3M4RVF4cU1hb3BEaTUxX0MyRjZnUGpVR3NYREF1Z3I0U25RS2c3VW4xQ1gtM1pVR1BhRm13M1hfb0JaMVNkQk5JNHJsRkJSRG11dkE1VFZZ?oc=5",
+          "title": "日股：日經指數週二彈升2.87%，收復6萬點大關，軟銀大漲近14%",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTHhEVFFuLTF1TUo1WEpWZWgyN1U3V2lIcHF2OWY5aDlqMk1oRTUtWk9fS19Tc3FoWXc0c0xScjg1TTF2VXZOQ1hQXzNOWWhIeWl3MkQyZlM0X3RPWnlnWm5fbGpPN2xDMWwtV29XeUhack1zZHpDN25lcm5Jc0lZNHZxNHZkU3NE?oc=5",
           "source": "富聯網",
-          "published_hkt": "11/09 15:54",
+          "published_hkt": "11/10 14:55",
           "related": [
             "^N225"
           ]
         },
         {
-          "title": "日股收盤／日經反彈2.33% 科技股回穩，日本菸草連兩日跌停",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BT2hzaFFqZkk1bjQyYUlLcUlmWkdxR2JGV0Q2TkpNMkxXTlNnZlREQ3lYenpYYkRyeWhBTDlDMWpYNko2STNCc0hMWGtZYVB1S1N4TDBn?oc=5",
-          "source": "優分析UAnalyze",
-          "published_hkt": "11/09 15:50",
+          "title": "AI晶片股回神！韓日領軍反彈、台股祭限空令終結連七跌 市場緊盯CPI",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uSm9WV0tkMGVPNVo4OEt4eThyWFBYME9kbTl5LVpTUldLNWxrS1Q1YnMtVlQwZnNMTFlaaEVOUVhVQzEwRmZPS29yWjhDRVU?oc=5",
+          "source": "鉅亨網",
+          "published_hkt": "11/10 13:53",
+          "related": []
+        },
+        {
+          "title": "《日股早盤》AI/半導體飆 日經衝1,700點；MLCC嗨",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbGduNjVvRXZ1MkJrOTBrY1BlNW1UU1R1STJRSEFEaFhZU3daUm5RVUd6YUJwTWZmVEhoQW1GVm03TEZGUU9sYUVIMWEwNFNfUFFxTldJbE14dVZMVTFmOHR2dk15NGNRSlRxRkxHZmVkUXpKakJnR2htMUNuZzh0WHNRbVFrOVB6d0ZDUFJFdlp1UQ?oc=5",
+          "source": "MoneyDJ",
+          "published_hkt": "11/10 10:37",
           "related": [
             "^N225"
           ]
@@ -238,33 +232,34 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-10 12:41 HKT",
+    "updated_at": "2026-11-10 15:39 HKT",
     "news": [
       {
-        "title": "比特幣守7.5萬鎂、以太坊撐2,128美元，美股AI股全面反彈、恐慌指數續回升",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRUtrVVRaMXoxOUREX3VaUTl0TWowN1FQVzBSVmpLV3hvczlnQXl0NFNuMk9mUWtIX29jVXctbXhxdks2WDhlaFh0X2tUUnJMeUlZUmJEbWVlZzNJZGF6WGM0bUhib21tTi15YU9ST3k3b3hfMjl2TGdsdEt0aDJLSEFnR0d0b3E2aGtTV3RpdTViTFY5X0ZLZndsbw?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "11/10 09:40",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
-      },
-      {
-        "title": "主要加密貨幣行情，比特幣升0.22% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeFhfdXd0enlXNlM0M0FTalVTZU5uaGlJeWJHNlB4cWI1YUhNaGNOeFg0UWdnc0x0UHdIU3V2VERUTmN5VEh1RG9JWXM2Z0lSWGZJYl9kQnBMdl9jeVRLMkFQSUhJR3RPVEtBYk5CVW5ZTWt5eTFYdkVOZHRMOEN2NXZfSExMMEVlSDlHTk9tR0dLeWFBUmhybFB6VWhSaC12?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "11/10 06:02",
+        "title": "比特幣價格預測：美國CPI能否重振BTC多頭，還是引發進一步下跌？",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOV3hGYVZYdlp6ZkxGQjR1SVhMa0JhbWtxSV9zbVFkYnlkSl9vbmI0R1ktZWtDOHIyTHBlLXdWWHB2cG1zcGRiWFE0OUpiS1BzTnJncWlaNzBzbXJDZ0syQ2JxVEoyeVN1eHd5a09aQjc0S0VTakNlemlDVkViX0xKRDEtQ3dwdVhobXNINHFxMUVpWkIxMmItMl8zVXJOS0w3Y3dEU3pfTVVySWgzMUdaa2doWDBueEJVVHZUZFdiNnlfV1VCenc4R29neFExX2tYZS1aVDRUM25rOHVH0gHcAUFVX3lxTE5XeEZhVlh2WnpmTEZCNHVJWExrQmFta3FJX3NtUWRieWRKX29uYjRHWS1la0M4cjJMcGUtd1ZYcHZwbXNwZGJYUTQ5SmJLUHNOcmdxaVo3MHNtckNnSzJDYnFUSjJ5U3V4d3lrT1pCNzRLRVNqQ2V6aUNWRWJfTEpEMS1Dd3B1WGhtc0g0cXExRWlaQjEyYi0yXzNVck5LTDdjd0RTel9NVXJJaDMxR1prZ2hYMG54QlVUdlRkV2I2eV9XVUJ6dzhHb2d4UTFfa1hlLVpUNFQzbms4dUc?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "11/10 14:10",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "交易時刻：時隔兩月再下50週均線，BTC死守7.3萬等待CPI審判",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNlA4eEppNGdoajlxZkNEMndLZEs2ZGsyN3NPeENyakxnLUgwVmJlVVQ2Zmo2bXo4WFVFcW0xVGEtRGprQVNGa18yVHgxd0t1Y201Vi1ZbWh2eE9PVEdpaTlVOEdYWjBqM2diTVpoWEJjejM5TkMzWHhwbklYdkpreHYyd2pCQQ?oc=5",
-        "source": "PANews",
-        "published_hkt": "11/10 05:24",
-        "related": []
+        "title": "加密貨幣價格預測：比特幣、NEAR和瑞波幣 – 亞洲盤綜述 11月10日",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcTVjOWFrZU9JMTUwRUNaZGFWVjZEMFY0eFRMeDVvTVRZNGhNTFEtRWc4RGpIdjgzWHBNN3ZobmxaZzBiaFJsNkZ6WnpPRkFub3BlU1M4dkFLQlA0aXFwS3VNaUpCM1ZfSmlKR1lhdVFYSGk0U0Jyb3pHbnRQNVRTZWI0cmdRQVMtSjZUYzgtaDVqWmZmTFhEa0NpaWszdHpQaThuajNJeHAtTWhwLTVYUE5XVlRHVGVHZWpvREhDYW1xLUJEV0ZIN1lWd1diTG5zamdGU9IB1AFBVV95cUxQcTVjOWFrZU9JMTUwRUNaZGFWVjZEMFY0eFRMeDVvTVRZNGhNTFEtRWc4RGpIdjgzWHBNN3ZobmxaZzBiaFJsNkZ6WnpPRkFub3BlU1M4dkFLQlA0aXFwS3VNaUpCM1ZfSmlKR1lhdVFYSGk0U0Jyb3pHbnRQNVRTZWI0cmdRQVMtSjZUYzgtaDVqWmZmTFhEa0NpaWszdHpQaThuajNJeHAtTWhwLTVYUE5XVlRHVGVHZWpvREhDYW1xLUJEV0ZIN1lWd1diTG5zamdGUw?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "11/10 13:57",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "比特幣創下自8月以來最低週收盤價，短期持有者陷入虧損",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObzk2dnQ2d2Z2WVp6MTBoOGRlWWFaRUJMcy1ZMG9zOHdxT2V1d0tkbEZiZWk5Z0d5eU5pTmd6X3ROc3pQZ3dOQkpmQ3ZjU2dzUlVQbGlZbkhUMEtlMzlOcFhFUkVMZ1IyeGNrSUJVeG1meE1GRWFBNzNtVE1BcmpQM1dWM1hJWGxLVXR2anB0VVlBYy1NSzNEeHRQNkhCMTQyM2pCbFZpa2EwNW5aWXViTmpqdzVqcEJublMzbkRnNDhSa3VEdWlrSmZkT1FzZWo2ZzUxQ2VSNU5GX3d2dDF3NkVtLV9DdmQ1c01DUnZKY9IB7wFBVV95cUxObzk2dnQ2d2Z2WVp6MTBoOGRlWWFaRUJMcy1ZMG9zOHdxT2V1d0tkbEZiZWk5Z0d5eU5pTmd6X3ROc3pQZ3dOQkpmQ3ZjU2dzUlVQbGlZbkhUMEtlMzlOcFhFUkVMZ1IyeGNrSUJVeG1meE1GRWFBNzNtVE1BcmpQM1dWM1hJWGxLVXR2anB0VVlBYy1NSzNEeHRQNkhCMTQyM2pCbFZpa2EwNW5aWXViTmpqdzVqcEJublMzbkRnNDhSa3VEdWlrSmZkT1FzZWo2ZzUxQ2VSNU5GX3d2dDF3NkVtLV9DdmQ1c01DUnZKYw?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "11/10 13:33",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

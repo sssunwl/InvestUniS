@@ -241,29 +241,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-11 00:29 HKT",
+    "updated_at": "2026-11-11 04:20 HKT",
     "news": [
       {
-        "title": "BTC跌破73000美元，日内下跌 3.34%",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5dVRTWlhUUnR1eHRBMEE2SzZqUnVtVDllSWllNlRQQXBMQlFKdVFrdVlFX2NSaE5nTFJWeDBZS0kzdi1hbUFZQVhyZ2c3cDlqTWpEcGF6UlNpWVlDMkp3TURTaXVNUQ?oc=5",
-        "source": "TradingView",
-        "published_hkt": "11/10 23:44",
+        "title": "彭博社：民主黨重掌國會，加密行業在華盛頓的好日子到頭了？",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS0ZVVWhMd3hrUmRDNGxmLTJkZzhhUUFOejhwbFQ1MzF5QW9NR2tGd2FZaGpQWTJFb1NSNlNaakZteEV4SEFoQ3lYZ1dwZzR4N29MRTJZM3IyOWdsUFlLWWNSaUtSUU84ZEg0UDRSeWhoT3VVOGd5TUI1emw4TXNCcHhBdEF2UQ?oc=5",
+        "source": "PANews",
+        "published_hkt": "11/11 02:05",
         "related": []
       },
       {
-        "title": "主要加密貨幣行情，比特幣跌1.75%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR0RRUThaUm8tUHREa01VbGt2N3A0djhNUHhWNEU4cjhCQlZFdkxCVjJ6ejlYVlRKck1FcV9Ua1V2Z21mb0hDY1Z3X1RrMk9TS1hyd1QwQjc2a0NCUGtMcGFWdXVSa3oxdmlVSzFqN1FKamNiOHFhSTFHMEQ3aGxMbzdnNUdHXzVxR21oMHJ1ZmJQWXNVdVlVc2Z3SnFZLUla?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "11/10 23:31",
+        "title": "比特幣跌破 7.3 萬、以太坊逼近 2,000 美元！全網 24 小時爆倉 7.05 億美元",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaTlFNTDZmVFhVTm1YVU1hb0g1TlJ2akxMcHFVSW5CbUFYVmtSclQ0bnhza1ZQSGUtcFh6UzF3TFdnQ0otZ2NodGljMTNvWVFLV3RhQ0RIQ1lhaEJNdFMyZnZObzJaa09ITlJ2OGZhVGY0TmV1S0s2cnNUenY?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "11/11 01:12",
         "related": [
-          "BTC"
+          "BTC",
+          "ETH"
         ]
       },
       {
-        "title": "火幣HTX發布10月成績單：現貨深度整體提升，賺幣加息陪伴用戶「暖冬同行」",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc1gxNTZiaDdSTVV4N190bDFxYVJXVy1kWFlYMzV5eWtLam40N2VYMWRVbHp1eklqaWJoYTZHS0lGdm5JZ213QUJSX2UyOTkxWFEtamt0T1pXeGZNVlNxUGRZSUR1dUVocXg1TUp3cTNJNzVMRzVSLWFoeGIwaU53QW0yMko3QQ?oc=5",
+        "title": "Chainalysis 報告：全球加密市場遇冷，為什麼西歐能扛住？",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOenJVVjZ5TC1CZWZSdmc1a090NVBsQ1VLNTRSZmh2ZGo5XzFFUjBfaEs1cFZnYll5R0EtQjRCOFRuR3JTeHNHcThrVXd1V29fcWVpaXZhOF9Ycm9sbVFZWkYzYzNuVWRSckxLRWRUdHB1YzZsZ3dralRQOTBzQ0VIU2wtLWJ4QQ?oc=5",
         "source": "PANews",
-        "published_hkt": "11/10 22:56",
+        "published_hkt": "11/11 00:14",
         "related": []
       }
     ]

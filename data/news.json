@@ -143,13 +143,20 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-10 15:39 HKT",
+      "updated_at": "2026-11-10 15:57 HKT",
       "news": [
         {
           "title": "外資大賣341億！台股卻大漲2.5% 「這幾檔」上揚成盤面救世主",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VanF4WDlFRl9TV1phOEl4bTc2a3FFOV83MHQ5cThjTjRXbzIxSkJ3OV80SkJ1T0M1ZTNnMUtUQlE0eEtrVE1rX3JwNA?oc=5",
           "source": "三立新聞網SETN.com",
           "published_hkt": "11/10 15:36",
+          "related": []
+        },
+        {
+          "title": "外資大賣341億　這幾檔上揚成盤面救世主",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yM2xvYWVKOEpZU25JYmZIVm9zcmZKclU0a2pSbzNsZ2pYUVZXbXVhWWFXRWRENEVhTlhPX1c2UW1pNjEwMGJmN3RUSHlEOTZySXUybEk2V1M2Tlc2TEHSAWJBVV95cUxORFp0ak13aVZYb3AybHpKaGVzWUFCMzNuOUxlYUxpTmZUalNnMV9LWnJIXzJLZkZZdU1ubkhUMnpHSWlzN3Rja1NuVHc1NVFrUkdid0RhVUsyNW1KYTVtX3JuQQ?oc=5",
+          "source": "鏡週刊Mirror Media",
+          "published_hkt": "11/10 15:33",
           "related": []
         },
         {
@@ -160,13 +167,6 @@
           "related": [
             "^TWII"
           ]
-        },
-        {
-          "title": "三大法人》台股漲1050點法人仍賣148億！外資連9賣累計提款8298億、投信連21買加碼368億 | 下班經濟學 | 財經",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YZVZNWXg0QXV3VV9oMmpaQW45aUVHNkdtUVpUcWlFTjNNcUY5T1dieGVmeHAzU3ZYSDdUSUdOMmw5d1N2TFlRbHhRcW1FQQ?oc=5",
-          "source": "風傳媒",
-          "published_hkt": "11/10 15:08",
-          "related": []
         }
       ]
     }
@@ -201,7 +201,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-10 15:39 HKT",
+      "updated_at": "2026-11-10 15:57 HKT",
       "news": [
         {
           "title": "日股：日經指數週二彈升2.87%，收復6萬點大關，軟銀大漲近14%",
@@ -232,7 +232,7 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-10 15:39 HKT",
+    "updated_at": "2026-11-10 15:57 HKT",
     "news": [
       {
         "title": "比特幣價格預測：美國CPI能否重振BTC多頭，還是引發進一步下跌？",
@@ -244,22 +244,21 @@
         ]
       },
       {
-        "title": "加密貨幣價格預測：比特幣、NEAR和瑞波幣 – 亞洲盤綜述 11月10日",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcTVjOWFrZU9JMTUwRUNaZGFWVjZEMFY0eFRMeDVvTVRZNGhNTFEtRWc4RGpIdjgzWHBNN3ZobmxaZzBiaFJsNkZ6WnpPRkFub3BlU1M4dkFLQlA0aXFwS3VNaUpCM1ZfSmlKR1lhdVFYSGk0U0Jyb3pHbnRQNVRTZWI0cmdRQVMtSjZUYzgtaDVqWmZmTFhEa0NpaWszdHpQaThuajNJeHAtTWhwLTVYUE5XVlRHVGVHZWpvREhDYW1xLUJEV0ZIN1lWd1diTG5zamdGU9IB1AFBVV95cUxQcTVjOWFrZU9JMTUwRUNaZGFWVjZEMFY0eFRMeDVvTVRZNGhNTFEtRWc4RGpIdjgzWHBNN3ZobmxaZzBiaFJsNkZ6WnpPRkFub3BlU1M4dkFLQlA0aXFwS3VNaUpCM1ZfSmlKR1lhdVFYSGk0U0Jyb3pHbnRQNVRTZWI0cmdRQVMtSjZUYzgtaDVqWmZmTFhEa0NpaWszdHpQaThuajNJeHAtTWhwLTVYUE5XVlRHVGVHZWpvREhDYW1xLUJEV0ZIN1lWd1diTG5zamdGUw?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/10 13:57",
+        "title": "比特幣守7.5萬鎂、以太坊撐2,128美元，美股AI股全面反彈、恐慌指數續回升",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRUtrVVRaMXoxOUREX3VaUTl0TWowN1FQVzBSVmpLV3hvczlnQXl0NFNuMk9mUWtIX29jVXctbXhxdks2WDhlaFh0X2tUUnJMeUlZUmJEbWVlZzNJZGF6WGM0bUhib21tTi15YU9ST3k3b3hfMjl2TGdsdEt0aDJLSEFnR0d0b3E2aGtTV3RpdTViTFY5X0ZLZndsbw?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "11/10 09:40",
         "related": [
-          "BTC"
+          "BTC",
+          "ETH"
         ]
       },
       {
-        "title": "比特幣創下自8月以來最低週收盤價，短期持有者陷入虧損",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObzk2dnQ2d2Z2WVp6MTBoOGRlWWFaRUJMcy1ZMG9zOHdxT2V1d0tkbEZiZWk5Z0d5eU5pTmd6X3ROc3pQZ3dOQkpmQ3ZjU2dzUlVQbGlZbkhUMEtlMzlOcFhFUkVMZ1IyeGNrSUJVeG1meE1GRWFBNzNtVE1BcmpQM1dWM1hJWGxLVXR2anB0VVlBYy1NSzNEeHRQNkhCMTQyM2pCbFZpa2EwNW5aWXViTmpqdzVqcEJublMzbkRnNDhSa3VEdWlrSmZkT1FzZWo2ZzUxQ2VSNU5GX3d2dDF3NkVtLV9DdmQ1c01DUnZKY9IB7wFBVV95cUxObzk2dnQ2d2Z2WVp6MTBoOGRlWWFaRUJMcy1ZMG9zOHdxT2V1d0tkbEZiZWk5Z0d5eU5pTmd6X3ROc3pQZ3dOQkpmQ3ZjU2dzUlVQbGlZbkhUMEtlMzlOcFhFUkVMZ1IyeGNrSUJVeG1meE1GRWFBNzNtVE1BcmpQM1dWM1hJWGxLVXR2anB0VVlBYy1NSzNEeHRQNkhCMTQyM2pCbFZpa2EwNW5aWXViTmpqdzVqcEJublMzbkRnNDhSa3VEdWlrSmZkT1FzZWo2ZzUxQ2VSNU5GX3d2dDF3NkVtLV9DdmQ1c01DUnZKYw?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/10 13:33",
-        "related": [
-          "BTC"
-        ]
+        "title": "交易時刻：時隔兩月再下50週均線，BTC死守7.3萬等待CPI審判",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNlA4eEppNGdoajlxZkNEMndLZEs2ZGsyN3NPeENyakxnLUgwVmJlVVQ2Zmo2bXo4WFVFcW0xVGEtRGprQVNGa18yVHgxd0t1Y201Vi1ZbWh2eE9PVEdpaTlVOEdYWjBqM2diTVpoWEJjejM5TkMzWHhwbklYdkpreHYyd2pCQQ?oc=5",
+        "source": "PANews",
+        "published_hkt": "11/10 05:24",
+        "related": []
       }
     ]
   }

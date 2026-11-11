@@ -85,8 +85,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-11 21:54 HKT",
+      "updated_at": "2026-11-11 22:46 HKT",
       "news": [
+        {
+          "title": "【港股收市】恒指跌241點智譜、MINIMAX「過山車」走勢、轉升逾3%及4%（不斷更新）",
+          "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOdWJQT3VsbVI1ckQ0cE1EUzRTeHRnV1ZGZEtIRUpCS0ltYXRTMDVIbjlmWXFyNi1HUEh3YjIxNncxS2puOGZJcWp6QW5fQXZYazVFUUx1VU5OTFdTNTFRM1BDR3czeG5JSWJuXy10WEROeUtMc3o5TXU2dDhrZ3BGNk9seGFVT0cteXdBNllqd1pFUEREckJxdFZCaGdVS0RYWEhpYTd2dzFLTEtNMGJhcHh3MWZ6WDU5eTVpQXN1SnViQ0tPbFZDa3ZxX21BaEJSNXlXNGN1QjhfOW1DNGNxYjhmSjhJY2xpTnlBZFd6VDFtdjVYZXRIWWJBc2IxcTY1ZFJUM0dyRGp4ek5mLWUtWkwxbFJEcHR6YlNqZUpfdTR2WUZkRHEzYV82UVZMV2M3YzBuOXRZSzB6U0tOZ3JBSEhIaEZiU1d4NGt0RlppcHdoQ2tBRkV1SkN5RlgyUjFMc05pZjFPTHFXV3FNeG1DSTVrV0NUWVhtRHpZRGcwUmNZV1JNQlJ3b1ZPSWdJbFNZSXVQVmhOUVNwa3VLakVVWUJLdE54Y1BEelBmS1JmZXdpSVNOOGNpN01xbFhwb19CdE5qYlNoM3pWb2VxNGRwM0Q5eGRFWjBobTExVGNZMldDSTA?oc=5",
+          "source": "香港經濟日報HKET",
+          "published_hkt": "11/11 19:53",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "【港股收市】恒指跌288點 滙控回套1% 中芯逆市升3%最好藍籌",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKVW5XQXl2bWlkUTBRcC1qS1hVY3BobWlnQ2JFbE1JT21sLU5OTHhCa0hCUjRFX2pfcXhzMTZrOXpCSXZVTUdKRG14REwtNFFDTFd6RG5aRlVuc0lHNWhsbjN6Z1hwcjZzOEtHNFFR?oc=5",
@@ -101,15 +110,6 @@
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0b0N6UE5xT0N1MU14QmVpVl80ZjVTRW50aWI2SFdfM1hPTVJmWHVISDRtWWRtTnFZSlhjejhrVVY4b3N2dXZERS13RDRWZVF6UHU5Y1lsWkd1SkFvampHUjZLWmROV1NPbG05a21MaVA?oc=5",
           "source": "Investing.com 香港 - 股市報價& 財經新聞",
           "published_hkt": "11/11 16:51",
-          "related": [
-            "^HSI"
-          ]
-        },
-        {
-          "title": "恒指走勢丨低收241點再失50天線 中芯逆市彈近4%",
-          "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQd05fTXFaSXloZXltYzh1S3JRNFRIU2QzVFh3SFUyU2k5WUJxU0lJRmpTVXI5eGFlNURaQmtMY0hOd29aZ2U1Z0k4bzZJalBiSVpfOFdqR1JZcUVjUGdvU2RlWG51TkhzcGRLVVNJczZNRVdFQWR5ZTR4aExxdzMzb0hCYkNabEd3al8wTnhSR0NqMFhRUW4xUWJ0OGJGaDBDeUY4UDN6bWxwdkt3eGgycVBJUmxWcGVKbzAxTTloQkZzUDlIbnVBbFlwRWZmVWxvNnZzZDZBYUlOcmxxMW5ZMGNYVDg0dDVoVHRBcXliNXFDV2VHdktpbE1uN3BtVVRSS2lsdG02dllsd1hhNTZ2ZXZ0Nk1RM0dCaTN3Y1U0X0NGZGtURzNqMU1vczlnaEsyb1dtSkNKNUZpUTdpR19fVE04YThOaHdpVk5R?oc=5",
-          "source": "信報網站",
-          "published_hkt": "11/11 16:49",
           "related": [
             "^HSI"
           ]
@@ -147,33 +147,33 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-11 21:54 HKT",
+      "updated_at": "2026-11-11 22:46 HKT",
       "news": [
+        {
+          "title": "TWA00 加權指數- 台積電先進製程領軍，半導體供應鏈營運報喜- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14UnFyS0Q1UktJTXgxWndUQWw1MmtrLWY1SXF3czZnWHc2MURIanJKQ3RpRFZ5aVdhYmRkRmFObzY5aERvS09uWGdIYUNkRzdna2NmcldIQkk?oc=5",
+          "source": "CMoney",
+          "published_hkt": "11/11 22:32",
+          "related": [
+            "TSM",
+            "^TWII"
+          ]
+        },
+        {
+          "title": "TWA00 加權指數- ✨️短線跟著趨勢衝🚀 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBENzFIRTE0SlpYRmE2RGMwdG01Z1gyS3ZORFRtVGYyT2QwbmgtQmZPSXZvSlhSZXpYc0JXUmJCUGdfeWpWRjRCOHJNVWQxa2RrakJ0NllyeDQ?oc=5",
+          "source": "CMoney",
+          "published_hkt": "11/11 21:58",
+          "related": [
+            "^TWII"
+          ]
+        },
         {
           "title": "TWA00 加權指數- 🔥台股再飆1,545點！三大法人轉買，半年線挑戰正式展開？ - 股市爆料同學會",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80UnpzUWpLempVX0tZYXVNb1o5ZHhjUm9leGhyaFhTeFFhUkpQRzd1OGQwRVJRV3NPZmdlY2tiYzAwU1EyWEhKN2llVmRzbWh2dTRaNFpiTTk?oc=5",
           "source": "CMoney",
           "published_hkt": "11/11 20:58",
           "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數- 投顧、自營商、第四法人、國安基金打的過外資嗎？市場共識形成？ - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hdVdUdGdNbmVjNUxubklCNkpucE5oM2NORzMwMHg5dVRXSjlyb2JkT3RhVmFhSC0wU3RZNk9RXzZCWFExZ2ZQNUVhMlRQTTRDcFVkSFVkZGs?oc=5",
-          "source": "CMoney",
-          "published_hkt": "11/11 20:40",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數- 台積電點出半導體優勢：高鐵3小時串聯生態系- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kLUluMlRMTHdBeUxWQkFyMmMxTThSSEZjZ3BoeFoyTl9hRVlpTDBINENaNXhtcUdueUd3S3hPdUtnUzZ0NGttempqdkpIZ08xamdkUWtkUTI?oc=5",
-          "source": "CMoney",
-          "published_hkt": "11/11 20:10",
-          "related": [
-            "TSM",
             "^TWII"
           ]
         }
@@ -210,7 +210,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-11 21:54 HKT",
+      "updated_at": "2026-11-11 22:46 HKT",
       "news": [
         {
           "title": "《日股》AI、半導體撐盤，日經收漲1.31%",
@@ -231,20 +231,27 @@
           ]
         },
         {
-          "title": "日股：金融股領漲，日經指數上半場走升482.90點或0.80%",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVnhuYlh3S0FCX0RSMUkxS0JNOE54VFRveFB0dFNWRU1GODgyczcxaXMtcGlpRGJsSlBra2g3WmV4bDcwNWpPbDRkLUFSQVNBVW1MbWRNNVhQV3RkQWxjUVNydXlmLXc0b0NncXZOR3lKdnZnMk1BTGFxdUR0ZGZkeTFGRlFfUGt5?oc=5",
-          "source": "富聯網",
-          "published_hkt": "11/11 10:55",
-          "related": [
-            "^N225"
-          ]
+          "title": "國安基金第10度出手！何時退場？財政部長莊翠雲回應了",
+          "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPZDFZMnV5MVlQcm1uT1c5cGg2Nl9Cd1NSRVN3NUU3TVRwWWFBX2RxbHRzRDhSTDFvRzIwYjBTbGVldFVNd3hkbGg2ZU8ycF9nZDlGVWNEbllUS1BaZzkybk9kbUZMVEp2b3h4cE1nQkJMYzVOa2lPOGJ2SnZFV1dLNHZac2dNWm16cFduZk00WHRVem5VbW16dkVtZGVDRnJfeGowMG1SUWM0YUhZY1lpZTJ2QWttSUUwOWppYW5xbnNwU1J2OUh1bWNSbm5CaG5WYjB3eTJfdkVZX0staE1Wbnp0RXFsTWdjRFh4VElvT29KNXVCdEQ1bVNuclpvWlV2a2wwc2tNWC05ZzdPaGpULVE3c2JYN3BYd19lYkVuR1Z0RGlQMHBPRDNUWG1XSENwVXBfVHVnUmhyTWJNXzU4TUtKTWhfUnhEdEZjS2dXZFJiMFlw?oc=5",
+          "source": "Life 生活網",
+          "published_hkt": "11/11 11:06",
+          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-11-11 21:54 HKT",
+    "updated_at": "2026-11-11 22:46 HKT",
     "news": [
+      {
+        "title": "加密貨幣價格預測：比特幣、瑞波幣與加密貨幣——歐洲收盤綜述 11月11日",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQamRBZkx5SlZoX2VqaE83ZHFnMjgzWDlhSVRWa3gyU1lFd0IyQXVqblBRVlRrYWM5QU4tWmJoTDFFM2ZaQ2FKTDhmS3FNWmI1elAwYWo3Y3MxOTROVjIxb1NuYXNCaTZhNkRUbVV3TXBTanhBbTFpckNQamVSYlFnQVVwd0ZLNmZPcThIdDVleGswUGVIT0h2bUdwM0xaVlBkRkljcnEwQWxmZEZmbkQ4cDRheXVsOFF5RUViQl9FOWFfVUdsVzhTQmlVRExXNWVQeDA0UXFvMHo1SG5DYVZJLTFrTzZ5LW1CQUJEeENQRQ?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "11/11 21:11",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "今日比特幣：跌破7.4萬美元創三個月新低，美國通脹超預期推高美聯儲加息預期",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zTnpFYnpDclhfUURjX0hsQnAtcGlUU2dycTNqV1JKQU1wZkZPYi00Z1JHWWVicEtwUWFwUlpKOENYdkdlQThfWVFBejVLSVpNQWg2WUgxb2FKQUpEdEdCbk0zQ3hpZ1A3ZlNkLTh0SGpCNUJv?oc=5",
@@ -263,13 +270,6 @@
           "BTC",
           "ETH"
         ]
-      },
-      {
-        "title": "调查：基金经理数字资产平均配置比例升至1.3%",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMelAtRDI0VHJTOGgxTXFCUFRBV0dTTW1wd0ZZRkQ5SGUwOHhxNVdaaVY5cEpyVk92LWUybDVNZGlRQ2xaRTFJWFYzRWQ4dDRZODJ3SHBlVkhaVnhwUGNRS3dnSzJzQQ?oc=5",
-        "source": "TradingView",
-        "published_hkt": "11/11 19:46",
-        "related": []
       }
     ]
   }

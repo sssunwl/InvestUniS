@@ -27,27 +27,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-10 12:41 HKT",
+      "updated_at": "2026-11-11 10:51 HKT",
       "news": [
         {
-          "title": "2026/11/10(二)市場大反攻！油價重挫、美股強漲！危機解除？市場聚焦CPI【群益早安】財經大小事",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUDVUSTU4M1A4Mlp0TWtRd0RLeFloVWV0aXhna3BHZGlLbTlXbHA5ZHg4b1pUdS1DU1RBd1FSVWo2S0NNV2htZDl3LUlkMUJCdE9sV1Joa1VCVjZRaG13R1U4OHEwUWx6cjBJMTQ5SUJRRVRqdV9fTE5veWNTaGFybF93NlBrQmpEcnNBb01jOA?oc=5",
-          "source": "群益期貨",
-          "published_hkt": "11/10 11:20",
+          "title": "TradingKey 每日市場簡報：CPI超預期！美股回落，輝達跌超5%，AMD、博通逆勢上漲",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaF9hU1p0Y05waEJDZzMtX2E3dU55eFpkU2Rob2ZIRy1WQ0trY0ZjX2tPQWFRR2tkOUdueXlNVHBRZktrdTB5aV9QMjBuek56bzhZT2RRSS1lVUZySWNtUGFmWVMwRkM2ZmhfZzZ6X0p1Qm03c1lMVXhMdlpmMUZoOE81cmkxYktJNTdIV1VxZi0wRm1YcURjSy10UWpoMFo2WnYzUkZ2MkljNmtBYldHcnYzRzBSLWd1eUFUZlc5RFZrS0h4QVRnNVJRSHFDRldGa3l1YVV1dWhhT0tnQnc?oc=5",
+          "source": "TradingKey",
+          "published_hkt": "11/11 09:02",
+          "related": [
+            "NVDA"
+          ]
+        },
+        {
+          "title": "市場靜待期中選舉結果 美股早盤漲跌互見",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XWl90QzZjZXhwZ2Q4TzBNM2tlMlJNVXoyU0tSQzVrWVRQUTlVNUNiTW1rODAwT0pYcVYxMzZCcGMtTGRNLTlUWGswbktPUkk2ODNrNWQxWW9HcTRE0gFiQVVfeXFMTXJuemh6MmhuVUpmOVl5NlBIejRMWFBueDFoWkJ3M05kNGExT2pXQTF6WHBrMU0tU3RaODlac3kzV1RhZjFKMmxmMW92eTdPS2hVWFd0SUpuUnhybVUxeVBEaEE?oc=5",
+          "source": "經濟日報",
+          "published_hkt": "11/11 08:53",
           "related": []
         },
         {
-          "title": "先鋒、富達警示：美股未來報酬恐減半 退休儲蓄面臨新挑戰",
-          "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNREViWVBtMHlpOUNMRjhKbl82dWY1cmFJNjdVeWMyOHBXWmdqSGtqenNGWVZ2NUJGcmpMS1NBY3BBWFdjQlBmemVNazVKZWRrejhKQnRRcnE5d1FKMVN6V3Boc04xQ3kySGJ2R3RhWW1kdGh1YW9rMGVsTEFET25MZWRqVUtkdmxWZi1GT0xyQlIza0YxVUV5MmJDWnFBQlNfUW9PVGlxUG1kZkU0NDd2VXdRbjVvNUZHZTJONUpRUmJvdk9adkpmdVRkcWZMajRlOHZwei1ONGVOZjFOUzMwR19pc0hUVlVvSU5VbHZ0ajJMWFg0UkJtTEZqZEJUazFvTUktdERhVG1lMHBfSmR5YXJkTGpJUTcyMll1RmZIZnptNzJ5UEZEU1JWamVnUEZ1U3VtRFQxb3VCRHRxZS10RGJXc2YyRllvSnRUSE1kOXdzUTRFeGk5RWFuZThnMXFNb0hqeE5RWmlyTHM?oc=5",
-          "source": "Life 生活網",
-          "published_hkt": "11/10 11:10",
-          "related": []
-        },
-        {
-          "title": "美股科技股重挫後 高盛稱AI債務供給壓力正在信用市場累積",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5RzZSNEwzZlE4dlVMU0dGOS10Q3JSVkhXeFgwT1V3QW1nWkxXU0d4b3hYZkRKSHZqUkhsNzQ5VEUwV20xNUVCQg?oc=5",
-          "source": "鉅亨號",
-          "published_hkt": "11/10 10:01",
+          "title": "美股重點新聞摘要2026年11月11日",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14dUxCd0IzdHVxbGMtLVAyY2pUX3hPakJFYWlsUGR3emZER1UwZU9BMnExX0lIVFZlOWxRRm9ZVEFNZWxib3BuZjIwaDV2RWM?oc=5",
+          "source": "鉅亨網",
+          "published_hkt": "11/11 08:10",
           "related": []
         }
       ]
@@ -241,31 +243,33 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-11 04:20 HKT",
+    "updated_at": "2026-11-11 10:51 HKT",
     "news": [
       {
-        "title": "彭博社：民主黨重掌國會，加密行業在華盛頓的好日子到頭了？",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS0ZVVWhMd3hrUmRDNGxmLTJkZzhhUUFOejhwbFQ1MzF5QW9NR2tGd2FZaGpQWTJFb1NSNlNaakZteEV4SEFoQ3lYZ1dwZzR4N29MRTJZM3IyOWdsUFlLWWNSaUtSUU84ZEg0UDRSeWhoT3VVOGd5TUI1emw4TXNCcHhBdEF2UQ?oc=5",
-        "source": "PANews",
-        "published_hkt": "11/11 02:05",
+        "title": "Index Industries完成5000萬美元種子輪融資，Lightspeed領投",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zVjdVU1RrdkkzVFV1T29YMmV2ek53Qy1GNS1qdlU5TWNiR2ZUWGczV3p5bVdvc0JpYzlrRmo2T1dtVUI5X0FlckZWczVNczg?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "11/11 10:05",
         "related": []
       },
       {
-        "title": "比特幣跌破 7.3 萬、以太坊逼近 2,000 美元！全網 24 小時爆倉 7.05 億美元",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaTlFNTDZmVFhVTm1YVU1hb0g1TlJ2akxMcHFVSW5CbUFYVmtSclQ0bnhza1ZQSGUtcFh6UzF3TFdnQ0otZ2NodGljMTNvWVFLV3RhQ0RIQ1lhaEJNdFMyZnZObzJaa09ITlJ2OGZhVGY0TmV1S0s2cnNUenY?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "11/11 01:12",
+        "title": "新加密貨幣Pepeto募資逾1100萬美元 分析師看漲以太坊挑戰1.5萬",
+        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNQmlLaDJUZUNTWGRCWnNLeDJFdXRmMlQ3V2VUNzhmTnVOT1BkNGFEcnFCWTRvOVdmd0RLdXg1STBDTWU1Z29rXzA3dDhNN193NU5sZVJLcmYwUGNGaDJJUWw4SFVoUzZsM1hja29zUmg0U3dyd1BHQm8xZ21lbElYa3dZdHpXSENnREJDZjJ4aGc4WlNJSmxhT2pnUGdWNE9uMnhiTzlIZlZJNWRtZ3NQZ09qSE5aQ2hsY09wSHpEbFN0al8yOTFMZFBSaWJuMnFQbERDR1YyRTZlM0xvNG5tU0hnN3FPcGVHSnZFcFVXWTlNcUdaUklPdU9RQVdVbW5zb0hTcU9IZEdiaEVwUVM5eTl3SGhYWm1PMm93SDJab0duQmVjeVJhMWRGa0NDdGpONW9TVW9PYWh1dw?oc=5",
+        "source": "Life 生活網",
+        "published_hkt": "11/11 09:47",
         "related": [
-          "BTC",
           "ETH"
         ]
       },
       {
-        "title": "Chainalysis 報告：全球加密市場遇冷，為什麼西歐能扛住？",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOenJVVjZ5TC1CZWZSdmc1a090NVBsQ1VLNTRSZmh2ZGo5XzFFUjBfaEs1cFZnYll5R0EtQjRCOFRuR3JTeHNHcThrVXd1V29fcWVpaXZhOF9Ycm9sbVFZWkYzYzNuVWRSckxLRWRUdHB1YzZsZ3dralRQOTBzQ0VIU2wtLWJ4QQ?oc=5",
-        "source": "PANews",
-        "published_hkt": "11/11 00:14",
-        "related": []
+        "title": "比特幣跌破7.27萬鎂、以太坊失守2,049美元！CPI超預期美股全黑恐慌指數續走低",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLXBzYTF5R2pwazlZaFNRMC14WXZfRjdnS3FfVktzTjBpSm5NdUlOOTNCLXljZ0o1ZTZsVXNJWmJ4ZHVSdk1UREVTcC1YXzFNNUNGbExmbDRkRzExbWRPSkRjNmtjV3dYTHVISkJjX0ZLZS1vOWE0VVZxYk1rQ2tCUWZjaTNYNkNiTzJz?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "11/11 09:21",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
       }
     ]
   }

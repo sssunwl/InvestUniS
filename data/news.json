@@ -241,35 +241,28 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-11 22:46 HKT",
+    "updated_at": "2026-11-12 00:24 HKT",
     "news": [
       {
-        "title": "加密貨幣價格預測：比特幣、瑞波幣與加密貨幣——歐洲收盤綜述 11月11日",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQamRBZkx5SlZoX2VqaE83ZHFnMjgzWDlhSVRWa3gyU1lFd0IyQXVqblBRVlRrYWM5QU4tWmJoTDFFM2ZaQ2FKTDhmS3FNWmI1elAwYWo3Y3MxOTROVjIxb1NuYXNCaTZhNkRUbVV3TXBTanhBbTFpckNQamVSYlFnQVVwd0ZLNmZPcThIdDVleGswUGVIT0h2bUdwM0xaVlBkRkljcnEwQWxmZEZmbkQ4cDRheXVsOFF5RUViQl9FOWFfVUdsVzhTQmlVRExXNWVQeDA0UXFvMHo1SG5DYVZJLTFrTzZ5LW1CQUJEeENQRQ?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/11 21:11",
-        "related": [
-          "BTC"
-        ]
+        "title": "交易時刻：宏觀壓制BTC死守7.3萬，警惕7萬下方風險；儲存提價與光模組撐起亞太行情",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWV9TcEwtamVHT2p4WExUckw2QXhHeHNYODUxUUFNZm5iTTlDaXkzRGZ3bkRPeXpZNWZaQVI3aWZTbnBBNEhLYm1UU1BENFN1dnJTekQ5bkZ1cFpmd25YckhyOGxLS05JdXNaQ19teXhxT0tFVy10YUd2ZTNyazU0LU1tUk1UUQ?oc=5",
+        "source": "PANews",
+        "published_hkt": "11/11 23:38",
+        "related": []
       },
       {
-        "title": "今日比特幣：跌破7.4萬美元創三個月新低，美國通脹超預期推高美聯儲加息預期",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zTnpFYnpDclhfUURjX0hsQnAtcGlUU2dycTNqV1JKQU1wZkZPYi00Z1JHWWVicEtwUWFwUlpKOENYdkdlQThfWVFBejVLSVpNQWg2WUgxb2FKQUpEdEdCbk0zQ3hpZ1A3ZlNkLTh0SGpCNUJv?oc=5",
-        "source": "風火輪傳媒有限公司",
-        "published_hkt": "11/11 20:44",
-        "related": [
-          "BTC"
-        ]
+        "title": "德意志銀行加密託管服務正式上線！支援 BTC、ETH 等五種資產",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNmtlSVcyN3BzOWhRU0lOMDZJODJuVkpBU09mN2lFRFIzNWNiN0k4MFJESzY5aXd1M3g3TXk0elFDRGVQSzh2Vjc4VWtzdWQ4a3RLX2EtdV82VVphazBzZnJuNXRGWGhKZGZKcWg3UGo2M3BXaFlQLUtScmFPSWR4Zw?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "11/11 23:09",
+        "related": []
       },
       {
-        "title": "CoinShares：數字資產基金加密平均配置升至1.3%，比特幣和以太坊仍是核心倉位",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uNm5BQlpVM2l3aEx1TTVCZ1kzQmlDTW42c3hGTG5PTXNPTXA5VnItX21ZdmdNMkVKR2EzREhlZi0tWEFMWFk5NDkwTkxENGs?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "11/11 20:05",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
+        "title": "巨鯨擁抱ETF背後，加密世界的安全焦慮正在蔓延",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR3dxeEY4eFptYWc4eGVhY3lMTVNOTjJxRzBhSTg0LVd1am5DZ1lQWVhJaWxvcHJKU0h3TE52Tk1Ld2d0eVlKb2VDWUFjaW1jMW1qYTFTbC11TzJzTWdCRWl6ZVpmZ2xVNkQxRUxsQ2p1bGU1aW5oOFFzRGk5N0dfVFdpZzZJdw?oc=5",
+        "source": "PANews",
+        "published_hkt": "11/11 22:44",
+        "related": []
       }
     ]
   }

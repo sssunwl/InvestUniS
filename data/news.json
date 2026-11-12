@@ -244,36 +244,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-12 23:39 HKT",
+    "updated_at": "2026-11-13 00:56 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣跌1.70%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUl9XOG1wc19LTXk5UXd5UUNwclU1cjQ4WFNVNHNqc0tHek81bmpLaTRQQjhab1NMODJkUlFsS1N1U3NLQzBTOW1DOUZkbFpfYXFDSV9RcXczcV93azI4Z21hcE45Uk41cGs5cVZWNlBRZ3VVMjZZdkxEMHgzWUl4RURTMjVwWlpVTUIwcHlSN0J4cjFlWHBFQjZvU25JZG0z?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "11/12 21:37",
+        "title": "比特幣跌至71,600美元；Strategy因遭MSCI剔除而大跌 作者 Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVZVdtcTZsdlJXUXJaUHppM1JsS0NEWUZtazFJUkxoRms3clQxbmFaZk9oYlpUTVh4OEMyc2RTdlA1c193T3ZCQTJ0THIteDBYS2xVUzBnV1prY1pTZnZTZjlnYk9XbFpDMG0zUmlUSHVUM2M?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "11/13 00:12",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "殺！比特幣跌破 7.3 萬、以太坊失守 2000 美元！全網 24 小時爆倉 5.2 億美元",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGpka1F5cEZJdTRmWFlNMHYtcDRPWDRTLWF0TUxWa1VwMnphTkVMSHJYX0o2TmUzUHQxRjMtUTBEMklaVWhxTGh3cjE5TzhTb2pVeHN5cGNBMk5NMi0tS2FWb3BUaHppa0dDWms1V1VnUWFWOVRaNEp5a2g1X1M5Y01WOXc?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "11/12 21:25",
+        "title": "主要加密貨幣行情，比特幣跌3.48%",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNGpUN2N4VWM4V0pxeE5fek92VFJsV0h4a3V0VVNlQ0tFVUNzaFFUZm54RUctdXo2eFFsT1A5b01zNHkta2RFM2hZcmdIRzRtWDJuYVpQdWtySGhlZ2FhdGdwWm5UQmVVUUZzYmctQm5XV2NFWmh3al8tbndaRmNkelpfTUpHMFJZVlRncHlBRDkxY2dtSmNLRDZHMkhNYlRr?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "11/12 23:32",
         "related": [
-          "BTC",
-          "ETH"
+          "BTC"
         ]
       },
       {
-        "title": "為什麼比特幣、以太坊和XRP仍然承壓交易？",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUjQyMVJfRVRtWlJLWlFaVFdyZnpqTzQtQUh4MjhiQU5aRFNBcHdaZkVodXd4dlVxaGZVdDJnaVcxNERRLUlsWkd0S0lGeDZ4OUQxeHRvc01zSnlWUGQwaTNwS2pKN3Z1Z0RVMC1HX1RkaEV4czJEWXNxU0FtVFJEcUY2b2NPYjJGT01nRzBpY1ZiRVRfcjd4NmFDZlY2U1FtU3pOSjRCSVBfcEdPdmhtR1YyUHJ0bDdrUVFfYjJQclhRNFk1NVNEZWd2ZWNuX000bUVBWkhQSEJkVFFSWmtvOVR6akR2QkJCUmZiM1lRcw?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/12 18:03",
-        "related": [
-          "BTC",
-          "ETH"
-        ]
+        "title": "过去24小时全网合约爆仓7.51亿美元，主爆多单",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aQm9TNXRiVXlwb3dOXzI5ZGpHdXVpTFd1TmI0OU53NXd5V3d1SmR3emNWeUF1MjlqRDNrak94NGtKd0V2NEtMNGg5Uk1tdndla2gzWTZtME10WVdTTjBDcnhZckxEZw?oc=5",
+        "source": "TradingView",
+        "published_hkt": "11/12 23:30",
+        "related": []
       }
     ]
   }

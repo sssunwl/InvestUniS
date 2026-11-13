@@ -1,27 +1,32 @@
 {
   "us": {
     "pre_market": {
-      "updated_at": "2026-11-11 21:54 HKT",
+      "updated_at": "2026-11-13 22:21 HKT",
       "news": [
         {
-          "title": "CoreWeave 發威！美股、台指期夜盤活跳跳",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12SEdZamNaSUMtbWV3ZjFmMC1IUy1tOEtHcjVHLXBTdkFjTHpPUnladVBBeEl0YUFxang2UVVDUmRrRGdqZDhoeXpQYkpJSmFobjVQenNWTzRKZUHSAWBBVV95cUxPY3Vqb0tkaTdNVlFKRHlzUjJwV202ZVFkMGhzNEttdGlGMkl4Wkh1YUlHdjVfVm1mdDYzcGx0VHo3WG55RnhEeW54Y2pFb09XYW0yTGJRYjZFNFNKbDlDdjE?oc=5",
-          "source": "經濟日報",
-          "published_hkt": "11/11 21:04",
-          "related": []
-        },
-        {
-          "title": "華爾街24小時不打烊？從「代幣化美股」到AI算力電網 金融市場結構大翻修",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTEN2ODlIU193TEM5ZDNoSWtYU0k4RlRoSlFFRkZSZUlwTExYbTExMVJNYWZScUNKV1RrZWhCaXlNQUU2dzFBM0xVMGJ5RnNzTlAxODNEV1ZRZUZBdm9RTGI4Mkk5UUpXemZ3OU9WVVhzdkxFMHoxVzFfNHlPV3FLUEp5RmdJY0diZ1Vsdy1R?oc=5",
+          "title": "【即時新聞】輝達(NVDA)高層風暴引發AI類股震盪！微軟當機與升息陰霾重擊美股市場",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObWNyMTJXVVZtWDdGNlI0bm1fVXF3Y2F3RGhBNjdjeW5NV3h6U3dUcWRxb2c1ZFo3YXZJb0N5dldNNVNpV3FxazZ4QVBkWGFyZk1NVGhScWR2c0Y5TlAweUVsem9vcTNSd2lGZTkxT2Z1T1Rlc2taeFFjMEVuY3l0LWJrMG5sdnh0Q0M0ZVRjcHk?oc=5",
           "source": "CMoney投資網誌",
-          "published_hkt": "11/11 21:00",
-          "related": []
+          "published_hkt": "11/13 19:55",
+          "related": [
+            "NVDA",
+            "MSFT"
+          ]
         },
         {
-          "title": "美股尚未出現可靠底部？高盛警示：宏觀避險基金仍持高倉位 未來一周或面臨280億美元賣盤",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvWEVQY2FkaFRudl9GSkhKRjF0MjZnelp4SzVpLU90bURLV0RJeE1YVmZfMGhMU0pGQVpXUkVzbzlvUTVyeGx1bg?oc=5",
-          "source": "鉅亨號",
-          "published_hkt": "11/11 19:15",
+          "title": "【美股盤前1113】輝達重挫？靜待今晚PPI數據！｜豐雲學堂 2026 年 11 月",
+          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOcnFNZG1uTERyOFdHekt1SzNNejhTQXM3MzMwTGw0akYyWnFIWW9ZU19aWUc1cGpVV2psRDZQVktzbjRubnM5dWdUajNSY3RMUkhNZ0tVWU12SVBXUl9GVzBMYVpyTllmQmxkaE9CYWcxMU9lejhGNWd0aUtfa0pSOVNVSWo2SWlLdUZ6MW5XU081TV84T1B6Qk8wZl9FbG15cmxPQUNOT1JwcjJyMzh3M19HdnNCWFlJV1EtNDlSYmtpaUVpZjloMmk5Y1JmdnU3T0tjVUdhZ0pOQXVjTXpFYkF6RWhyZFJEU0FIejY5cjNhQkFGV3IzWUxTX1FIODdtRWo2Mi1ab0ZFUUlGSktQSDZTbzBDVGZrLWRCWWc0eFNuUUlYSTJiNVhHTWZMamhzWWVmNWY5anNOMWc?oc=5",
+          "source": "永豐金證券",
+          "published_hkt": "11/13 17:28",
+          "related": [
+            "NVDA"
+          ]
+        },
+        {
+          "title": "黃仁勳風波衝擊市場亞股追隨美股跌勢多收黑| 全球財經| 全球",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qcmh4UEJfUmtxZnBjM2N2ajM5RF9xbHY4WTUzVVMyWm1CV29zcHhibGxORDNnWXdEOFIyUUR3OVpTUGRZSEF1VGlicU5xOFFZTllvNWhEbzFrUk9DVUZ0ZHRvQUMwSGh3UG9WMFpBamtIb3RUc0pRdkFfQ284Rmc?oc=5",
+          "source": "UDN",
+          "published_hkt": "11/13 17:07",
           "related": []
         }
       ]
@@ -85,32 +90,34 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-12 23:39 HKT",
+      "updated_at": "2026-11-13 22:21 HKT",
       "news": [
         {
-          "title": "阿里(09988)急瀉五連跌！揭千億負現金流與平頭哥分拆內幕|香港經濟日報",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQWxpSzdJMzFnZGdBMTY3VWU1YmpvTy0wUzFoaFF4TEZMcGw0Rk5aMl9MdTZ5a0Zrd1E1YmVVWUJoYjl6ZlBDak9EbzFza3Bzd1RQYVZJdW1zRmVkQnl2TkVmMHllRnpObl9fWWNkeWU1UjUwNTBpU3c1ZVBmWkhZaWRIYmJmWkRYWjJOU1RSR2VCSEY2ZGVTMA?oc=5",
+          "title": "【港股收市】恒指「黑色星期五」跌370點失守二萬四ATMX齊跌3% 聯想挫6%（不斷更新）",
+          "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxPdnJVSGFqM0FkaFNpekhTUlgyQlREejNRV1pOb1FIV0lvbWJGd1QzbGxJLVRHbWpqNjEwTkktVnNaMW9kWDNtQm5OYXl5Q2NiaGJEQnh0bzdhRnhRREo1SVRxZVZ2dFRIYlZuMEkzTDF4U3JFbTIwaWhUeDZVOGdMNDJKRHVTZkhnY0FsZkJ4X01JMU1qN3o5NmJETDJqZ1BCX1BaODIwSGUtcUpnYXZuRXJ5VkJ3em1GdlcwSnFEOTJqcFBOLXY1UEp5VnZWYlcydkFtaUZoOXlGcmlpN19UNE5MV050UXY0MDVhTzVONy14eVJFZUh5ZXI0RWx1ZGRPZ1pTdWdNMTBxZkZ0aEVzVlN5RGtOY3R4MFN2ZFFoRXJsVTljVU5XWTRIeDZaT1dwY01wYTBWdTdMYXdkYlhpV2w5SXRnSld2cFdVNVVYZzRnTDkyaGdLQXZNZ1JKYmJjakl2NFhCajBVWGU2RnQyaVVHcWtQVUZfVW8wUl8wLWZoNmczOXZ5bVJlN0NEYm9EbVVxYzdubUdHb2ZGVDI2d0tKZmtwcXZFS2NnRFhIV1VfaWpzOUswVGRKeXBZUmxtSjNaM19qM05XMGFIQXAtdXFiY2QxV1FuZXVYdi1GSmR1bkVUZTZoa0V5MkNUcWdPRWtmajZ4NC1PczB4NHZzcWVCaw?oc=5",
           "source": "香港經濟日報HKET",
-          "published_hkt": "11/12 21:39",
-          "related": []
-        },
-        {
-          "title": "港股收評：恒指跌1.26%險守24000點 科指跌2.36% 科網股、黃金股普跌 阿裏巴巴跌超6%",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUMjk2M1F1VGpYUXhNeVVQbkxKczdWNDVnWlN4dUtFR2t6Z0x2cVMybER1ZU5TWFc2cGlINUZMeElMYjZlNHNqc2FiN2RZSl9xY1VsNUV3ZmpxQklySmhxU0ZRXzh5RzIyMXY1dW5hbzBWdnZn?oc=5",
-          "source": "風火輪傳媒有限公司",
-          "published_hkt": "11/12 20:40",
+          "published_hkt": "11/13 21:29",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "【港股收市】恒指跌307點險守二萬四阿里巴巴挫逾6%再失守100關長和跌近4% 領展績後升3%破頂（不斷更新）",
-          "url": "https://news.google.com/rss/articles/CBMi_ARBVV95cUxQRFlPaFN3cHl4ZnVnenZlSUh4YkptVmhweGVaWGJ5bF9Ub2FHVm5KZk5YdnA1bnJyZTk2TkFIczJUSFhjU0Q3WEh1RC1jakpKWF9qNml0cTFpTmpuNlI4aG81NUp4QnRBalVnX29ZMlpLSlpZLVF6dzAyZE51T05VYU4yM2NfUTRtS2VJM2EzUS0zY2p5NEFCVzl0M0lxT3lpUzN5T1lxMmdwQnVncm9yOEpGZUR3a1F3RFkzazJ1eGZjcGViVVRFZTMtVC1MNVVDQ3dPcGdrdlZSYWpyV1RNaVh1SFM0R2JUbEhjSjZhWTU0ejdMdzNaUTZUblZuZ0ZHazhrYmRhSXBMQVFkSl81MkdPWjFpTmtKeFJmMjFyTmo3RlhDVFFHajRMZU9DTlZpR05xb1N5T3ZzREV6cVpyV25TRjllbW9EdENyYW1sMDBOb213NmRheE54cDh5QlNUelBxbzBIWmVmM1NmNUxZZ25HaXdwblFESFNFdDdXWk9VU3VuWldoUFZRWWI3MXJ0U2tINS1ZUld5RW9WRGdSOG0wcWU4SWIyVEQ2SVdobU5sTzAtbmktNWRCcFd6Q1FxbUFzdmxkSlNIMEkyQzRuaVFLUi1fSTNrdE1fWjBJYlQ2VjJCSTh4Q1FzQ1hDZjhkcWJlaUJ0Z0lKQjZ5UDJNMWo2RXQtZUs1SGhra1cwXzVXNVVDQU9TemdoWnVfVkxfUUtwaHdXcEMzYVM5alhGZjkxYnFHdkJTSVpaalJKNDdfQWVTdS1tbkpTV2lteVBPcGtNanNhRjZ4TkRJLVE3Nm02V1pabVFDbDlRRHJ6cjk1dG4tUy1lWVgwaTI?oc=5",
+          "title": "測風順勢｜HSI恒指失24000 科指插水 下周阿里騰訊放榜救市定散水？（持續更新）|香港經濟日報",
+          "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxORFB3RHFUTmxsUUlva3BXZ2JEN0s4OGRqdFZ0Z05ST29BeVFwamwzc0VMWGZLYXk0cDU4Ny15WFVNR1huYkRjZzl4V2xUN2gyWHlYcGZZTWNYTjcyNG1KYjZDTy1YQ3V0cHZBMDNZOHY1Yk4tb0E5S2dNUjZueUo3TW9iZUtrQnBqelpQVm9kMktsRThnb3hPbTZCX2pnZ3luQVczU3p3Qjh6bUhFMW1VbXdSaUpJa29icDk3U3RaXzlmUmpUNEJ5Znpud3ByOEJBVlhhSmdtakpIT1YxQjhOWEhZSndvd0xnVmo1VTJud2J6cmVtUWF2T1ZNRy1QRmhQZlJKbjZSazhaOHd6Q3I3ZkgtWkRHZDNYQnZGRlNhS010UEZLM3hNSUk4X3oweXp0bWMyblBYOHNvTFJBX19ybFlPWFZ4bWktbm1SVDk5bzFybU15RUJWQ1ViWkFCWHh2RDFTaWVVNUc4YkpaSXNsQk8wTE83VWlXOU5qaTlISXBiTnJUVm85MTVsdnFVbkpZdEZxcllLek41elBzVU0zNHZuNTVaTVhaZzlxVWFQR1d5OVd4MndwZG5ucXVzNEkwQjQwVXdIZmhDYlF0YXUzaENYWnVIa0gtdHFvckl6ZEpYMDF1?oc=5",
           "source": "香港經濟日報HKET",
-          "published_hkt": "11/12 18:57",
+          "published_hkt": "11/13 20:52",
           "related": [
             "^HSI",
-            "9988.HK"
+            "0700.HK"
+          ]
+        },
+        {
+          "title": "港股連跌三日一度再跌400多點 恒指全周跌844點",
+          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPUlJibnRYQkF2MXZsdklTZExMaHNQNVdVOXZHcXBaWl9ZLUkzUTF6QUFRTmkwOUpmV2diQzQzYzNwalNVRVNLbkFRQVNyTnZYT0dYaHpuODJwTGxqT082bEJsZzFlOTFjQXdrOENzQ2JCSVZ1Tk9Wc29ZSmVFQzRLcElELUMtaGt1bEZGTnZHeU1uV0hCdVlBdjZuZ1gzZ1RabGluNUVKTUl2TU9leU1RYm1UY1JSeFhydVZyX3FGTWgzVzRISXpIUnl3X0o2c0g5Mms2OVA1NDVDZHU2QlJWYi1zUFpEOUtxcjYyQ2g1NGNURWpacGlMOUNGWVNWTkxMbURiRHlNVTlXcHFaaEZfeXpkdGhGTm9qTmlsaEd5Zk45Wm1nLWpv?oc=5",
+          "source": "TVB",
+          "published_hkt": "11/13 18:18",
+          "related": [
+            "^HSI"
           ]
         }
       ]
@@ -146,32 +153,35 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-13 15:31 HKT",
+      "updated_at": "2026-11-13 22:21 HKT",
       "news": [
         {
-          "title": "【台股收市】台股造好，台灣加權指數收升1.55%",
-          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQVm5ienRrLVJHSXlVOTcyQ25PYVlua1hpQVlDVjUwLUZFeW9FVGJCbm8zaUFaTHl0cEtfZGphd3FxQUJEM2g4YVNOV3ZpeDdUMWNTbjBPR3k0RDNWNHZEVWhJdGh2Rko4UFpKOU9HNUZaSUo2eVV3aC1NRjF2R0piem5Udm5zeU9PZ1VkUExPWXpsN3F5Ul9icWRkQ3RrVkRTVERWQWo1eFJjLW80eUZHWmhpd0lVenoyVjZjX1lUOXNwUEpFeDNKSDVZT0lYZW82bDNJRGVjTmM2Z2k4QTVGM2xzaFBPdEdyT0R4RzlIREpfVmh5ekc3X1otMlEzVVJjRDJLdXdMUUdjeDFCQ3pTQWV0dTg0YVpzYkJ1YjBzX0d5MXNhVnc?oc=5",
-          "source": "Yahoo 財經",
-          "published_hkt": "11/13 15:17",
-          "related": [
-            "^TWII"
-          ]
-        },
-        {
-          "title": "TWA00 加權指數- 日月光千億建路竹廠，擴大引進智慧電子鼻- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmQ09FRTdOY09kLVg5bW5KNzNvc1NzaXBfWjN1eU8zam14V3JjeXBtMmpKS0lEOGxLU2hQcVBxcmZTcGh1Und4NEtQSF8wZk5yWHpLU25KLWg?oc=5",
+          "title": "TWA00 加權指數- 莎拉的週末持股提問又來囉❤️今晚有選擇權快閃教學記得上線！ - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvZnVuRFVBTmRDU0lHRmFRVVNGb1llV0QxUTVJbjlFNGVqZEJkWXJtc3l2OUVra1ZhSjlGZXZqSTV0aGxhM0N1b3VxblpGM2tuRHJRYi1QYzA?oc=5",
           "source": "CMoney",
-          "published_hkt": "11/13 14:33",
+          "published_hkt": "11/13 20:57",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "台股震盪955點收漲583點 成交量逾9162億",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwVnJoclM2SzI0WTItRnc1eElGdTl4Q0RLTmFWU1dsbXZfMzdOX3BLU3NJX3pvbnFXRFJGWDczVS1JYUlyVFVNVHR5UFY4V0czTEctRQ?oc=5",
-          "source": "美麗島電子報",
-          "published_hkt": "11/13 14:26",
-          "related": []
+          "title": "TWA00 加權指數- 黃辭職快速止血，救輝達和供應鏈及股東，佈局已久的空單還藏嗎？ - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yYkNzcVVxby1rbEF2SzNTS01UZWhydWZ3am54LVdaWW1aNEFiUUh1aVJjZmNGQTIwSXI1bHpkWUlmb0lUSHFMVHhrUVJtTVNnam1YbG5Kcks?oc=5",
+          "source": "CMoney",
+          "published_hkt": "11/13 20:25",
+          "related": [
+            "NVDA",
+            "^TWII"
+          ]
+        },
+        {
+          "title": "TWA00 加權指數- 俄烏戰火首度燒進波羅的海，俄軍最新導彈艦冒濃煙狂奔；美伊最新... - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85UGJhbmVEYXFWX0NJWDhkSndJTHlQeVhsS2d4ZjNfX3pxRF8wMVFLUklFbWNkQUl5Q3lHWU9FU1JJeVZ6OE1yNzdlRjFpTTl1LWtVSVpQcjA?oc=5",
+          "source": "CMoney",
+          "published_hkt": "11/13 20:03",
+          "related": [
+            "^TWII"
+          ]
         }
       ]
     }
@@ -206,64 +216,60 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-13 15:31 HKT",
+      "updated_at": "2026-11-13 22:21 HKT",
       "news": [
         {
-          "title": "黃仁勳辭職…市場觀望輝達風波日股微幅收漲| 全球財經| 全球",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hYk52VlYwX2hDdGJCT1g3cmRhT25VYW1KT1NlTjVWN1RlRFZxZ0k1SV9xMmhBR1VZS0VFRG5RQjdULUtOQWNlTmhVRjhQWEtsYUxWV3ppX3R4VmVxN2dpcG1Oa01RNC1NWUx0eUszN0QwYXRoY0poM2JlYmc?oc=5",
-          "source": "UDN",
-          "published_hkt": "11/13 15:18",
-          "related": [
-            "NVDA"
-          ]
+          "title": "日股單周狂飆6.46% 創5個月最大單周漲幅",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uZmR0Z0RzdVhNcTktN0lGQWFsdkxhUkJhSFBRcnJDak95YzBleGJQUzhONV9aQjBVWTNqXzdiT29oMFE0Qy1wVUlMQ0VMS28?oc=5",
+          "source": "鉅亨網",
+          "published_hkt": "11/13 20:10",
+          "related": []
         },
         {
-          "title": "市場觀望輝達風波　日股微幅收漲",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ILWZURmJmZ1EzelozVVVZR0lzdExrZ2dPZUtfZUxFcm44U01EamlrOUxKX3l2OUdvZVpWSTM0YlVTTENqbjNsb2lkclZENmtoaGhBZVVkUHFad9IBX0FVX3lxTE9VUmhSWTlOWjNDczE4YWRrUWFvWHdWQnlmMmd2anRHLUhuWmZJT0F3Rk1uWElxWk94R2hka25tOTBNczlpQTVFSi1BajUzY2hheXMtUXRxdnpBYi1kaXFB?oc=5",
-          "source": "經濟日報",
-          "published_hkt": "11/13 15:00",
-          "related": [
-            "NVDA"
-          ]
+          "title": "日股單周狂飆6.46% 創5個月最大單周漲幅",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pZWZFSnF5UGV5SVRyQ1QzckRPQ2Mxa1JlUDVrUTRGZDdDRXRpWUlUd28xYWc1NUNYakZ2ZkZibGJrYl9KZ3dmaVNTTQ?oc=5",
+          "source": "鉅亨網",
+          "published_hkt": "11/13 20:10",
+          "related": []
         },
         {
-          "title": "未能守住44K！台股收漲583點 台積電漲10元 | NOWNEWS今日新聞",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84cFc4aVZIX01uWmNyMjZ6SlNzUmUzY1o4bkpfdmV2SlVkdzRxTVl3UkN1b0FTSWUwcWlxdmlqVm1tRnpGRDdhejJTX0g0Y3NCeW1mdllR?oc=5",
-          "source": "LINE TODAY",
-          "published_hkt": "11/13 13:54",
+          "title": "《日股》AI買盤回補帶動 日經收漲0.53%",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYTNjUUFRcUE4ZWN0M20tS0xwSEdPb0JOUWNuenlpN3A0U0pUU0JJMDhncEdaZ2o5YmxnYWhrcjJ5VUZmUVd1ajBNQkdTOGJ2OVk2MEZBMF9MMHZKZjhKNUplWGcxeFlpUzdqUzZvNVktcEVCalNyQWUwOHJwVFg3cGZwTFhpYVM2YlJVRDZJYWxYUQ?oc=5",
+          "source": "台視全球資訊網",
+          "published_hkt": "11/13 18:16",
           "related": [
-            "TSM"
+            "^N225"
           ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-11-13 15:31 HKT",
+    "updated_at": "2026-11-13 22:21 HKT",
     "news": [
       {
-        "title": "以太坊基金会关联地址再次抛售2000枚ETH，约合386.8万美元",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13T3ZPYTRlTm9DQjdVNm9NNDhuaXl1RVQ3SXE2Q05QYkxBLWxBNWkyRUJ2ejJ2MTIxZ0loV2k2WlNRTEEtMDIyeXFkU2N4NXpsN0JwbDV4NWZHUnVVTmkxZzNnUm5Udw?oc=5",
-        "source": "TradingView",
-        "published_hkt": "11/13 15:15",
+        "title": "主要加密貨幣行情，比特幣跌3.03%",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdnBkSWx2aXpyMHhyZFlXV2tnQl9hOXZDMkdlRVpWS1JSMmk0ekhJYk5Qa2tPM1RrNEZtdkx1SXFuVVpDOGlGQ2NQcEJnclVLcTNVOVNYa3Nkb0ZPejJvRlczOGI4ZHRBRUNRZEhnTkRCdjhETXM0VlloRHg0UE9naDRJa3dnLUhlQy1WVlBSczBmSEtobWVBbmJRa2dwZnk4?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "11/13 20:32",
         "related": [
-          "ETH"
+          "BTC"
         ]
       },
       {
-        "title": "某以太坊远古巨鲸单笔抛售1.67万枚ETH，价值超3230万美元",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56R3dQanVVTzI3cUZDRm1POHNVRUJtQXBvelNZeEptV1o0M0h3UWZUajIwQnhqbTdycF9QbEM0VGNpb3c4emhseGJZR2RTOFlRajZFSk45U0NUMXhxYllVRVlhOXcydw?oc=5",
-        "source": "TradingView",
-        "published_hkt": "11/13 15:15",
+        "title": "加密貨幣價格預測：比特幣、瑞波幣與加密貨幣——歐洲收盤綜述 11月13日",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxON3czU0lpZjdpNWIxcmZmSFVPWkpRNGQwS1JIdTIxbHNpQnpQQTB0T1h0d0dSRjdPaVU5aTNRWXNyLXh2Uy1RdzVWbC1ndjlYNnVzQjI1R2h6SmJTYkwwT3R1VUtLems4YUwtVk50eF8yb1NzUTRLT3VxY3V5MHpNdTNiMDcydzlmcUhnZFlWZGIzTEpqeExuUXdXYkRrLXVrYk1rRG5Ha1VGWlA3YnlfOWhEc1BhcUdBbUYwOW1VR1l6b3NtSUM2NkUtWjlWUkpvTUloLXJlLW9aNlhOZHZhNU5sa1c5N1FHY3U2MS10SQ?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "11/13 20:11",
         "related": [
-          "ETH"
+          "BTC"
         ]
       },
       {
-        "title": "俄羅斯合法化加密貨幣交易 Ripple幣獲獨特監管待遇",
-        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOVGtiNDZVOFhvemZhLXl4VEUtdFdLSksycG1YR2FQcGRvdEIzb1VhTFBGZFlNdzVkUVdvUW9FVFN5SE12clktWmRKaElZdGlRanhqWndPMWpHZVRWRjNZS2xxRlVObkJncy1vN3VMUXd3SHliOG5ReGluV2JybWFPbXlfYkExSlBwdGVRR3NxUG1RZHhOTjFXOV94ZUluM2Z1dm5vZjZUaHV4NEZubFB2eEt0c3VST1gyeEN4S0N2MEh6cDBJNThSTGhpX0o4QktrSVc0MDlzUGZzRmNIT1VUR1JONy01ZXNrS2hfSk9oNG1MQThUMWZTWENYM3dVU0RBMWhCWU9rQnZYYTRDOXdWZThfbTFlWFBrV1BHVTZHYUduQ2trakdTekExR292V0NVWjNMTE8ySlR5bkIzQWpoT283OEdwRnFCVWZ6OV9hak5ZZm8?oc=5",
-        "source": "商傳媒",
-        "published_hkt": "11/13 15:09",
+        "title": "Bit Digital 股票在第三季度營收未達預期後，盤前下跌 5%",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GTmQza1pkTGw1LUN6bnhFN0MxNS12UG9SVll6bEx0Tl95UkR3RHBQSERqdjZyNXNrRXNRemVFbmRtcXZuUzA3cExUYlRCQmJGcTU2V1VWN3dVTDB4UkRQTUFmOTJ1MUtDRy1BRXBrOA?oc=5",
+        "source": "TradingView",
+        "published_hkt": "11/13 19:28",
         "related": []
       }
     ]

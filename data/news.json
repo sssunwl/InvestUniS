@@ -245,32 +245,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-13 22:57 HKT",
+    "updated_at": "2026-11-14 00:37 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣跌3.03%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdnBkSWx2aXpyMHhyZFlXV2tnQl9hOXZDMkdlRVpWS1JSMmk0ekhJYk5Qa2tPM1RrNEZtdkx1SXFuVVpDOGlGQ2NQcEJnclVLcTNVOVNYa3Nkb0ZPejJvRlczOGI4ZHRBRUNRZEhnTkRCdjhETXM0VlloRHg0UE9naDRJa3dnLUhlQy1WVlBSczBmSEtobWVBbmJRa2dwZnk4?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "11/13 20:32",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "加密貨幣價格預測：比特幣、瑞波幣與加密貨幣——歐洲收盤綜述 11月13日",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxON3czU0lpZjdpNWIxcmZmSFVPWkpRNGQwS1JIdTIxbHNpQnpQQTB0T1h0d0dSRjdPaVU5aTNRWXNyLXh2Uy1RdzVWbC1ndjlYNnVzQjI1R2h6SmJTYkwwT3R1VUtLems4YUwtVk50eF8yb1NzUTRLT3VxY3V5MHpNdTNiMDcydzlmcUhnZFlWZGIzTEpqeExuUXdXYkRrLXVrYk1rRG5Ha1VGWlA3YnlfOWhEc1BhcUdBbUYwOW1VR1l6b3NtSUM2NkUtWjlWUkpvTUloLXJlLW9aNlhOZHZhNU5sa1c5N1FHY3U2MS10SQ?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/13 20:11",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "Bit Digital 股票在第三季度營收未達預期後，盤前下跌 5%",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GTmQza1pkTGw1LUN6bnhFN0MxNS12UG9SVll6bEx0Tl95UkR3RHBQSERqdjZyNXNrRXNRemVFbmRtcXZuUzA3cExUYlRCQmJGcTU2V1VWN3dVTDB4UkRQTUFmOTJ1MUtDRy1BRXBrOA?oc=5",
-        "source": "TradingView",
-        "published_hkt": "11/13 19:28",
+        "title": "加密市場全線下跌，資金費率顯示BTC、ETH均處於看跌區間",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJY1B6Z1NQcjA4b2R0d0pHRURib2E3SHBTV2JRbnNOZ0NKZWtaYmE1d3oxVVBTRkpPR0lldTdTREpNdnl5QnNBQXJWYlh4MGc?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "11/14 00:07",
         "related": []
+      },
+      {
+        "title": "比特幣跌至6.9萬美元，加密市場情緒惡化，本週累計跌幅近8% 作者 Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xTkFmTVBPMzB3aGdSMkM3WUU2T2I4ak9UU29LQ05WS0M4OF9kV3BEb204MzVGX3pjOHRXY0FlLWJ4bnZ2Sy0tNEpZcjJfRDJxT2tzZkhfOFU1dExsNnpVT1Y0a3lMQUVIa2NYc0RwbE1mTGs?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "11/14 00:07",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "比特幣深夜再跌破 6.9 萬、ETH 下探 1,900 美元！全網 24 小時爆倉 13.1 億鎂",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2x4Q3VsR3EyTmI1amtTd2dqbkpjWGowRzJEa25jYTZkREw2LTBKTUd1T0dubHZwbjlZYUdVallGOVV0bzBlY0piNFJ3YXM0UE9tZXNMWU9GZ1ZhRmtST29peUplQ2dNdGpQT2dZaWkwMXRXSE9NVjBlaVVya3ZhclNxY2U3amlQMXQxb21n?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "11/14 00:03",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

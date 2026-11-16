@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-11-16 21:23 HKT",
+  "updated_at": "2026-11-17 03:10 HKT",
   "us": {
     "stocks": [
       {
         "symbol": "MU",
-        "price": "$778.3",
-        "pct": "-2.52%",
+        "price": "$727.0",
+        "pct": "-6.59%",
         "dir": "dn"
       },
       {
         "symbol": "NVDA",
-        "price": "$162.9",
-        "pct": "-2.01%",
+        "price": "$156.0",
+        "pct": "-4.23%",
         "dir": "dn"
       },
       {
         "symbol": "AAPL",
-        "price": "$356.3",
-        "pct": "+0.39%",
-        "dir": "up"
+        "price": "$352.5",
+        "pct": "-1.05%",
+        "dir": "dn"
       },
       {
         "symbol": "TSLA",
-        "price": "$390.2",
-        "pct": "-1.82%",
+        "price": "$377.8",
+        "pct": "-3.19%",
         "dir": "dn"
       },
       {
         "symbol": "SPY",
-        "price": "$754.4",
-        "pct": "-0.36%",
+        "price": "$740.8",
+        "pct": "-1.80%",
         "dir": "dn"
       }
     ]
@@ -38,33 +38,33 @@
     "stocks": [
       {
         "symbol": "0700.HK",
-        "price": "HK$390.4",
-        "pct": "+0.98%",
-        "dir": "up"
+        "price": "HK$386.6",
+        "pct": "+0.00%",
+        "dir": "flat"
       },
       {
         "symbol": "1024.HK",
-        "price": "HK$25.30",
-        "pct": "-2.39%",
-        "dir": "dn"
+        "price": "HK$25.92",
+        "pct": "+0.00%",
+        "dir": "flat"
       },
       {
         "symbol": "9988.HK",
-        "price": "HK$90.15",
-        "pct": "-0.44%",
-        "dir": "dn"
+        "price": "HK$90.55",
+        "pct": "+0.00%",
+        "dir": "flat"
       },
       {
         "symbol": "3690.HK",
-        "price": "HK$71.55",
-        "pct": "+2.51%",
-        "dir": "up"
+        "price": "HK$69.80",
+        "pct": "+0.00%",
+        "dir": "flat"
       },
       {
         "symbol": "1299.HK",
-        "price": "HK$78.30",
-        "pct": "+0.71%",
-        "dir": "up"
+        "price": "HK$77.75",
+        "pct": "+0.00%",
+        "dir": "flat"
       }
     ]
   },
@@ -72,33 +72,33 @@
     "stocks": [
       {
         "symbol": "2330.TW",
-        "price": "NT$2,215.0",
-        "pct": "-5.74%",
-        "dir": "dn"
+        "price": "NT$2,350.0",
+        "pct": "+0.00%",
+        "dir": "flat"
       },
       {
         "symbol": "2317.TW",
-        "price": "NT$218.5",
-        "pct": "-9.34%",
-        "dir": "dn"
+        "price": "NT$241.0",
+        "pct": "+0.00%",
+        "dir": "flat"
       },
       {
         "symbol": "2454.TW",
-        "price": "NT$3,795.0",
-        "pct": "-7.89%",
-        "dir": "dn"
+        "price": "NT$4,120.0",
+        "pct": "+0.00%",
+        "dir": "flat"
       },
       {
         "symbol": "2382.TW",
-        "price": "NT$264.5",
-        "pct": "-4.34%",
-        "dir": "dn"
+        "price": "NT$276.5",
+        "pct": "+0.00%",
+        "dir": "flat"
       },
       {
         "symbol": "2308.TW",
-        "price": "NT$1,120.0",
-        "pct": "-9.68%",
-        "dir": "dn"
+        "price": "NT$1,240.0",
+        "pct": "+0.00%",
+        "dir": "flat"
       }
     ]
   },
@@ -106,33 +106,33 @@
     "stocks": [
       {
         "symbol": "6758.T",
-        "price": "¥4,320.0",
-        "pct": "-0.76%",
-        "dir": "dn"
+        "price": "¥4,353.0",
+        "pct": "+0.00%",
+        "dir": "flat"
       },
       {
         "symbol": "7203.T",
-        "price": "¥3,428.0",
-        "pct": "+0.29%",
-        "dir": "up"
+        "price": "¥3,418.0",
+        "pct": "+0.00%",
+        "dir": "flat"
       },
       {
         "symbol": "9984.T",
-        "price": "¥3,416.0",
-        "pct": "-3.69%",
-        "dir": "dn"
+        "price": "¥3,547.0",
+        "pct": "+0.00%",
+        "dir": "flat"
       },
       {
         "symbol": "7974.T",
-        "price": "¥8,894.0",
-        "pct": "+1.38%",
-        "dir": "up"
+        "price": "¥8,773.0",
+        "pct": "+0.00%",
+        "dir": "flat"
       },
       {
         "symbol": "6501.T",
-        "price": "¥4,896.0",
-        "pct": "-1.33%",
-        "dir": "dn"
+        "price": "¥4,962.0",
+        "pct": "+0.00%",
+        "dir": "flat"
       }
     ]
   },
@@ -140,33 +140,33 @@
     "stocks": [
       {
         "symbol": "BTC",
-        "price": "$64,159",
-        "pct": "-2.33%",
-        "dir": "dn"
+        "price": "$64,902",
+        "pct": "+0.08%",
+        "dir": "up"
       },
       {
         "symbol": "ETH",
-        "price": "$1,800.3",
-        "pct": "-1.98%",
+        "price": "$1,815.8",
+        "pct": "-0.35%",
         "dir": "dn"
       },
       {
         "symbol": "BNB",
-        "price": "$587.0",
-        "pct": "-1.81%",
+        "price": "$590.0",
+        "pct": "-0.30%",
         "dir": "dn"
       },
       {
         "symbol": "SOL",
-        "price": "$70.94",
-        "pct": "-2.96%",
+        "price": "$71.18",
+        "pct": "-0.34%",
         "dir": "dn"
       },
       {
         "symbol": "XRP",
-        "price": "$0.9490",
-        "pct": "-2.78%",
-        "dir": "dn"
+        "price": "$0.9559",
+        "pct": "+0.07%",
+        "dir": "up"
       }
     ]
   }

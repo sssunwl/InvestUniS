@@ -244,8 +244,17 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-16 23:22 HKT",
+    "updated_at": "2026-11-17 00:33 HKT",
     "news": [
+      {
+        "title": "主要加密貨幣行情，比特幣跌1.57%",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVk9PMlMwQzlhbDhYWUpBVVU5S3hVOHVITHhpbVpyYkVPYzZNMG5GM0VRRTVINGxzWk05ZTliaFBPajlLblNrd2M0UktWUWJ3MTVLYUN3a1NtUWVmQXNHbnpGWHhnRHZON0wyajd4N0pTM0VKcWpDLVRQR1ZJcS1EY1hCanZ6cFdfNF9Ja3Z6eEhISUVnWG9zdHRFMVd6dGJu?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "11/16 23:32",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "美股開盤全黑！那指跌 2%、費半指挫逾 5%，加密概念股齊跌、Strategy 跌逾 7%",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWkJSWGx4SEJMZGNjTGJGaXVwdzYyU1VkWE5CU1FXelFseGNSeVlEc0dLMWc5aHNidU95a19hNU9XT0pfSmNkeVB2Q3NObUEweTk5VEFZU1NEa0NCNUNYZGJsQ25BOE1VTHZmdlNIaUtEMmtzX1F2UjVjU1FyWTFLbmRqVTFMSWJ0OHc?oc=5",
@@ -254,21 +263,12 @@
         "related": []
       },
       {
-        "title": "AI 退潮資金沒輪進幣圈！比特幣 11 月照樣跌 16%",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVGsxRUwyWk1UcHdlUjhHczZtWXhqUXZmWUNmdHp0Vlp0NXZhY2VHWUhQRlNwejBhWkRzaC1GRGJjSWswekh0TVBfWmRiN0dIMVI1dTdLS0g0dTV5M3kyMnRYZHk0SEFSemhubXQzYkZueVFsbDVpdHpZbS1yaEoxVmNJV2dKdm5fNlNKRl93emE0b1E?oc=5",
+        "title": "幣安推出 Pay Later！用加密貨幣抵押先買後付，額度 1,000 USDC",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUjBycnROeVFUUVJjM0p5U3BjSnlqWTV4SHhmVWkzWldjZTcyZVpLc055QV9CaW1mS1JYOWxXX2ZXRDFvV0dRREF4OU9iQ21Ha1hJVXRLUG9sYkQ2SVM0YVZfdTFCZkpuaEtENUxhQUdReVhqalN0Z211NnJjbXRBMXBQTURRX1gxUzVR?oc=5",
         "source": "動區動趨",
-        "published_hkt": "11/16 21:08",
+        "published_hkt": "11/16 22:16",
         "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "加密貨幣價格預測：比特幣、PI與加密貨幣——歐洲收盤綜述 11月16日",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVE1xRk5pZldXNUExSHl2MWc4MXU3Mk9KbmtjN1ZMQXdxSTJGMlNFbk5VREN6ZExTWG0yelB1ckZxVy1DTnFyanpyVG4ydkktMFFkWjlrVTJfdzc3WU5neUd5SldaTVFHdWItckpxRmlmOEJFekhCUXk2V2x0TUpGTzRnRHpQU0IxRU5zZUtJSVVRWWh3S3ZkcXdhOElndkRoazU2Vy04Ni0xck85V3VDVzVUV0hDcktkaG1MdkpwTXJ1UzRnMmc0NVgzU1VjQ3QycG80UzhlX2VGb3R3VHo1RWZza1Q?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/16 19:27",
-        "related": [
-          "BTC"
+          "BNB"
         ]
       }
     ]

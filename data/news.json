@@ -244,16 +244,14 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-17 00:33 HKT",
+    "updated_at": "2026-11-17 02:43 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣跌1.57%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVk9PMlMwQzlhbDhYWUpBVVU5S3hVOHVITHhpbVpyYkVPYzZNMG5GM0VRRTVINGxzWk05ZTliaFBPajlLblNrd2M0UktWUWJ3MTVLYUN3a1NtUWVmQXNHbnpGWHhnRHZON0wyajd4N0pTM0VKcWpDLVRQR1ZJcS1EY1hCanZ6cFdfNF9Ja3Z6eEhISUVnWG9zdHRFMVd6dGJu?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "11/16 23:32",
-        "related": [
-          "BTC"
-        ]
+        "title": "盤中速報 - 數位代幣大漲13.05%，報2.46美元",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83am5WZmpQZmR1QmdkWTZwTWs4NndKSVIzUzg5XzR1UkZTWkgzSmdYU1oxc2F6U0VLVzV1ZzZ4b3VjMWhOVElZQlNkZGpKN2ctSnBWLVB6VmRfVnBHTENhZG9sTk0?oc=5",
+        "source": "TradingView",
+        "published_hkt": "11/17 00:05",
+        "related": []
       },
       {
         "title": "美股開盤全黑！那指跌 2%、費半指挫逾 5%，加密概念股齊跌、Strategy 跌逾 7%",

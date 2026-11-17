@@ -244,30 +244,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-17 06:47 HKT",
+    "updated_at": "2026-11-17 13:07 HKT",
     "news": [
       {
-        "title": "盤中速報 - 數位代幣大漲13.05%，報2.46美元",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83am5WZmpQZmR1QmdkWTZwTWs4NndKSVIzUzg5XzR1UkZTWkgzSmdYU1oxc2F6U0VLVzV1ZzZ4b3VjMWhOVElZQlNkZGpKN2ctSnBWLVB6VmRfVnBHTENhZG9sTk0?oc=5",
-        "source": "TradingView",
-        "published_hkt": "11/17 00:05",
-        "related": []
-      },
-      {
-        "title": "美股開盤全黑！那指跌 2%、費半指挫逾 5%，加密概念股齊跌、Strategy 跌逾 7%",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWkJSWGx4SEJMZGNjTGJGaXVwdzYyU1VkWE5CU1FXelFseGNSeVlEc0dLMWc5aHNidU95a19hNU9XT0pfSmNkeVB2Q3NObUEweTk5VEFZU1NEa0NCNUNYZGJsQ25BOE1VTHZmdlNIaUtEMmtzX1F2UjVjU1FyWTFLbmRqVTFMSWJ0OHc?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "11/16 23:19",
-        "related": []
-      },
-      {
-        "title": "幣安推出 Pay Later！用加密貨幣抵押先買後付，額度 1,000 USDC",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUjBycnROeVFUUVJjM0p5U3BjSnlqWTV4SHhmVWkzWldjZTcyZVpLc055QV9CaW1mS1JYOWxXX2ZXRDFvV0dRREF4OU9iQ21Ha1hJVXRLUG9sYkQ2SVM0YVZfdTFCZkpuaEtENUxhQUdReVhqalN0Z211NnJjbXRBMXBQTURRX1gxUzVR?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "11/16 22:16",
+        "title": "主要加密貨幣行情，比特幣跌0.45%",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPanBfanNzSHE2UUxKNTZnSlY4eUhrV2h4N0FVTWZJM1ZjTVZuWXl3cHRhdFpJTDBCai1KZ01ieUFBM1lzaWVSb0lxWXdpSVBmZkxaaTA1U1E0andsLXNLazhEb1ZtMmxYUEVJZ2Q2X0V6WGI1TlpyUVM1QlBrekhGMmNuT3phTEp0QzZrclVHZzFRXzZiTzhVdG1RcW1IZ1J5?oc=5",
+        "source": "etnet 經濟通",
+        "published_hkt": "11/17 09:35",
         "related": [
-          "BNB"
+          "BTC"
         ]
+      },
+      {
+        "title": "比特幣暴跌後回彈「6.55 萬鎂」！美股全線重挫、極度恐慌指數續回升| 動區動趨-最具影響力的區塊鏈新聞媒體",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWHBYMEhJeWxETFVvZGFzeHNMbFpkY1F4YnhXSHRRREhDbzRCaTBybk0wTklSQ1hNbl9BWl8xRldaVzEtVjRnc19ObUtJTUFjRFpoR1R0bEVXNjQtQzQ5QU5xVFJCU1hDQVJBOFVPQU5lN0VJUy13cmNPUEtxUVg4WTBvV1pRYTJ0?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "11/17 09:11",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "分析：英伟达财报或加剧加密货币抛售，可能推动比特币跌破6万美元",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1TGZjYWlkd0tmRjRHbW04YVFPTFZuUFh6QXJHbEpRdnp4MDN6cnJhcmFnZmxseHNhbWxBV1VFT3FVZC1CLWMzRUZiNXR1cmVDOTBwaDN3VW9TbTEwZVN5NldnLVhVQQ?oc=5",
+        "source": "TradingView",
+        "published_hkt": "11/17 09:01",
+        "related": []
       }
     ]
   }

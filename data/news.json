@@ -92,33 +92,34 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-16 23:22 HKT",
+      "updated_at": "2026-11-17 16:44 HKT",
       "news": [
         {
-          "title": "恒指走勢丨全日反彈116點北水走資 新世界急插四成",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41NXJWZFRWTnJ2TFUwY0FzSWU5eWZBckItaXk2U3Q5TFIzX1pmM19yUUZyY0FnSV9WQmtoU1BWLXJ3Vk5QQjloSHVqZWZQWUJWazJoS3B3NzJRNHZCbjhCbg?oc=5",
+          "title": "恒指走勢丨收跌245點再失20天線 百度阿里挫逾半成",
+          "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOSzBSREl3S0N5ZThCVkFSMEk3QkhPbjFYekZyQUo0S0FlOHlLbkpQOWIxZTBDUEhYYW9yT3JWZG8xOUJRalk0cjhVYW1SVDVjNXltY0VQMjJ6LW9mNkYyZloyNmlCR19YeE9GWC1JSG5iR3VYeHN0MTJ4ancyZ2ZaWHRiN3NXUnBHMEtsS3hyU2Y5ZXBJXy1WOF9FSTdQQUZMR0hIMkZwTVRUMWM1VkhFNWR2SWwzbEdRakJQY0ZKM2dtMjNGOGlPMVl3YldtdXhZSU51dEZ2Wm10VTRmXzRKYW0zOTRCdzNBMkVFX0YxTndwTlNSMW5Xa0JfZWM3TEItMWl2SWJ5Z0lHdk5FbXh0ZVNXOTA1ckNPdDdIWVR6alM0VnFFcTdyU2VMNnFLQ1phM0RkNDNVaG53b2tUUnh0d25IbGZENG9LeE53Ymg4WDRLY3I5Uk96Y3lEd3ByeDg?oc=5",
           "source": "信報網站",
-          "published_hkt": "11/16 18:04",
+          "published_hkt": "11/17 16:40",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "【北水+夜期】北水淨流出42億 資金掃MiniMax騰訊 沽盈富基金、阿里及中銀 夜期升43點（不斷更新）",
-          "url": "https://news.google.com/rss/articles/CBMiywRBVV95cUxOc0pteVVpOHJaZm01VUpyb2IzcHp0M3o4UTZTOU1CbGhpUHJUYTlHcVdFSHNyLUNrTll6NUpfb0JOUmZ0MzJXVUVzdHR4RjVWbnE0LUxpZldOcldyS21WaGFhQjVpUFVPdi1SYzVLa3JwT25XV3NDQkloQVFpZFlhY0lQeFFFcENDU2xnd0VUejNPY1F1dGIweDhiRjZ5MHh4XzFrRzFqRmxhUzgwWmJhYjU4bWdQMnRyblljZzhEZkZpTlhObXhaZXNWelVJdFZtRkRObTllVmllaEtkaUctcElvYnB3R0ZpOTdLbm1veEpRM1JpUFFvWV9faFg3YTcxNmRYRTh0a0FvajRYSFQyVXltUHNJV0EtNjZ5NXJjYVd1amlMNUNOR2RPd2ZoWVhSYkxfcVNPR3U5VEh5UzVQZmFBM3BYNVdoTUpmV05BTzBRN2V3R0tVeUJidDFJdWZCNTBoVFN1Q1FzYXFXVWhNNnR1TmJqdHR6dzVTVWVOUmRVTFdpOUFHa04zTDl3UlFpeE5VTjgxV2ZjOWczQXJWU2d6cTJSSXFQOXZjRmcxM3pqcUZOSTlWTDBsZHBmSDFzTGxsQ3FqQkNQLXVBemZLZVIxMkZGZnNHWG1pSTc4ZHlCdTRlVDc0WUJGbDFYMjhBZGktQkpuSlJsd1FRZ0hzUWdxaU9tdW13RW1xU19Od1Y0R2M3dTNyMVRPWUtiZkFtck93R1I0Y3d0QWUzdV9pSzBnREN5dUF5U1pBZ0QteVVETnZGNV9mdHVydw?oc=5",
-          "source": "香港經濟日報HKET",
-          "published_hkt": "11/16 17:57",
+          "title": "〈港股盤後〉半導體逆勢爆發、科網與AI股受挫 恒指收跌 1.03% 科指跌 1.14%",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Uckk4cFo4b2ppWWJGLTE5M2VWVXNqTWE1cGFLXzgzVHhGaHVzOUhjd1pfbFdFUVJVS2trX3E3b0pSYk13LS1uZ25hTQ?oc=5",
+          "source": "鉅亨網",
+          "published_hkt": "11/17 16:38",
           "related": [
-            "0700.HK"
+            "^HSI"
           ]
         },
         {
-          "title": "港股收評：恒指升0.49%，秋假催化消費股活躍，黃仁勛辭職餘波繼續壓制芯片股 作者 格隆匯",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qSWMyOTdPUjJBUTZQNGlwckhQc1daaUpmMndwVVBHZjEzQnpFaklPYUNWSWZrX0phUXhWOFp3UmdLVVBGYW55bm11OUVwdU01RUdLb0JaLVBDTzBlcUJadnZnMmxfOW5Gd2xiT3lMZHk?oc=5",
-          "source": "Investing.com 香港 - 股市報價& 財經新聞",
-          "published_hkt": "11/16 17:21",
+          "title": "恒指跌245點 阿里巴巴挫半成 華虹、中芯逆市揚",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUFV0d0ZvdEtYQVZ1SUV4Nl9YYTlrb25XZFdnQk91eFF3T3NwcVotUFdqRWg1cXpRaFoybldROV9XS3RQRlVLNWZNWFlUNW52TVRyUVdZZnpDYzU0dU9JbUhZUmdHd1hTdUswY1ZOUVVpUF9MSURvVzFLeEdNRngta1ZnRkU1WUQ3Y1Jv?oc=5",
+          "source": "on.cc東網",
+          "published_hkt": "11/17 16:32",
           "related": [
-            "^HSI"
+            "^HSI",
+            "9988.HK"
           ]
         }
       ]
@@ -154,7 +155,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-17 16:20 HKT",
+      "updated_at": "2026-11-17 16:44 HKT",
       "news": [
         {
           "title": "【台股11/18日盤後分析】",
@@ -210,8 +211,15 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-17 16:20 HKT",
+      "updated_at": "2026-11-17 16:44 HKT",
       "news": [
+        {
+          "title": "科技股下挫日股收黑| 全球財經| 全球",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01c0NZZWhoYk1ubXVzTzdhRUFiVjZiTjVCVWhBVzFzRmVpZ1BGdmN5LUZxY0FfUy1JTnlkdXV3b0lxdEMza1FKV0lCSVNIU2tr?oc=5",
+          "source": "UDN",
+          "published_hkt": "11/17 15:32",
+          "related": []
+        },
         {
           "title": "日股：日經指數週二重跌801.59點或1.34%，帝石、愛德萬、軟銀股價黯淡",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRGZ6UktOS3Y0VXdXMF9NZDkta2FRWUdlM3VpTHBsOUwySnhoX1RTeFEtZFhzRTZFUjNnVVA4VFRKWFlzUUtSaEpmMmdKN3ZCT1VCczR5dFUtMDNKN2hGcVNQYjlGcG81X2psYkZaM3l3MVJ0UUF2bmpFeXZJeWxHdzVUeXdOd29W?oc=5",
@@ -229,46 +237,35 @@
           "related": [
             "^N225"
           ]
-        },
-        {
-          "title": "《日股》日經晨收跌1.18% 晶片設備、載板、記憶體重挫",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVlZUWkhvRHhtTVlwV290YUpWMDdERjB4QXpMUFdZeEhMNUsyWDNReFplRkdWcUZxUVJNRTA3aFlXUzJsQm5QQUxXbVpSVEphOXBtZzBUeldvZmh5YmVBaXJDVWlUbzRLZHBONm52QW5EaUVrZEFab2pSRi1vYldLMmRsZi0tQ0gy?oc=5",
-          "source": "富聯網",
-          "published_hkt": "11/17 11:31",
-          "related": [
-            "^N225"
-          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-11-17 16:20 HKT",
+    "updated_at": "2026-11-17 16:44 HKT",
     "news": [
       {
-        "title": "以太幣單月暴跌26% ETF大撤資 巨鯨逆勢加碼",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQRXZuUGhxZ0Yxb0ZBSGxXSFNKdl9jeWtfQVJuVXRnWVlXMTJpU0kwR0IyQ3l4aGdyMGs0WHdPbFJPeGVVZjNsVFk4dlJmckU?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "11/17 15:20",
+        "title": "意大利联合圣保罗银行Q3大幅减持比特币ETF，增持SOL、XRP及HYPE ETF",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZTkp0TmtRRVkyXzVBcmlNX2h1QVM3Nk1EMTFsRTdZZFB2M202dlNQV0txZ2FnLWV0YzVOY295TnhxTWVJRkFUWUljWUg5QUg5anRmOElZYUVxNlRpdnZaa1k4WW9WUQ?oc=5",
+        "source": "TradingView",
+        "published_hkt": "11/17 15:57",
         "related": []
       },
       {
         "title": "主要加密貨幣行情，比特幣跌0.46%",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRERHbGJoZHQxdUlJV2hvYUIydExiSzhVb2JOZFJ5R2lGNURvT0FDT0R0NHVnblM0QVhldGRfVWFUSWpiMVpMMi1IZ2x0OHp1bkpETlRqMzcwdUtGWjhxV0QyaW9CZU41NWVmQ2RGaXJiRkRqNDNaWGNSVEx5UHNuVHhBT001UGF5eHFxX3cyU3ZfUjdTNXNOTW8yQW9wLVFr?oc=5",
         "source": "etnet 經濟通",
-        "published_hkt": "11/17 09:35",
+        "published_hkt": "11/17 15:50",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "比特幣暴跌後回彈「6.55 萬鎂」！美股全線重挫、極度恐慌指數續回升| 動區動趨-最具影響力的區塊鏈新聞媒體",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWHBYMEhJeWxETFVvZGFzeHNMbFpkY1F4YnhXSHRRREhDbzRCaTBybk0wTklSQ1hNbl9BWl8xRldaVzEtVjRnc19ObUtJTUFjRFpoR1R0bEVXNjQtQzQ5QU5xVFJCU1hDQVJBOFVPQU5lN0VJUy13cmNPUEtxUVg4WTBvV1pRYTJ0?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "11/17 09:11",
-        "related": [
-          "BTC"
-        ]
+        "title": "以太幣單月暴跌26% ETF大撤資 巨鯨逆勢加碼",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55T2Z0dUxCdnVUTGdwSklmNUduc0xubWppME5FUEtfSmxzeUZOT2dFUmdPUENDMy01elFJQzdJWjhkb1ZWT2o4eEcyOA?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "11/17 15:20",
+        "related": []
       }
     ]
   }

@@ -245,8 +245,15 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-18 00:31 HKT",
+    "updated_at": "2026-11-18 01:43 HKT",
     "news": [
+      {
+        "title": "黃金：美聯儲預期可能幫助金價找到底部 – 德國商業銀行",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYkREVTBYX1BYUFIyX1RRYktGYzRZVXd2SnZrM0trZ2E5dWE1UVBrbzlPSzh3cGJVMjNxa2FWY0tZTWNvYktQTE04TlhvdEE0VXoySGpPQ2l6XzlXMHg3dVFvZzNqdjZXV2pYTWtFR3pQRnVRZlJmY0xSVTR3NHhrVlMtM1V6Q3JpeXJTMEQ2RU5ZdUwtcFhJdW1RdVREMnF2NUZUMDhjTlFTUnp1U3IxR0QxeERjZDU3WUtXRDhFTDhiSTJZS0xyWHlpeXpxN2Vn?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "11/18 00:37",
+        "related": []
+      },
       {
         "title": "英鎊在英國央行加息押注升溫之際終結連續五日下跌勢頭",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOektiemVlZks2MGFWTURqVkdOQnpwZ1RVbHFaM0FUTmFaLU54NXFuS3o5UzhZZXJNekxJc0xkcWY2bTlnc0hRSm1SMmFWdmc0TFZNcnRMM2U3My1rdXlOM1ZORFVvSjhENUdxQU1vTkozblNCZjU4ZDRIVm1FVGlTR2JlTlhHSXJHLWF4WVVVcU5KTFJCdWFFNV9VajgwUWs0dmVRRFJ0cW1DOTBFQ3lDcHpLUElFWFdyb1hLbUpFWkxIUVJibDB1M096WHMtU0x2V0dEaUZyQ0U3M2UyaUE?oc=5",
@@ -255,17 +262,10 @@
         "related": []
       },
       {
-        "title": "Bitmine Immersion Technologies (BMNR) 宣佈乙太幣(ETH) 持倉量達608 萬枚，加密貨幣以及現金與有價證券總持倉價值達118 億美元- 國際新聞",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd2xkcXc1M0JZUHZmQjlmRlBBZjU0U1lya3F4VVNQMVpCVzJLaTdVbFktTWh4WF9UckV2VGprRHFsQlUyMTdtYWZZSGJMSEdIcGIzVk9KZ1JlNVBiU2FBeXZKMmREZjlCMktJeWh2bGhlWllEeGdveUNkTm10Vl9nYjVtNnFvVV91Qk5n?oc=5",
-        "source": "PChome Online 新聞",
-        "published_hkt": "11/17 21:27",
-        "related": []
-      },
-      {
-        "title": "石油：國際能源署供應過剩前景令油價承壓 – 德國商業銀行",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSnJsOTFYM2d2dnBDUXFFaUM2a1NhaE1QVklEZENYeVVCYmxyckZsU2s3VkJ2Yk52bmFpV1ZKYlhBVFFJajBsemNaeGsxTmhoMzFtblZnM2VodDd4c0lyS3A0TVIwbF9RZUxZV1B4TlJrSzRscWlxZzBmdFRUSV9kdGljU05fVDdzY240UE12UUQ4OGxqOFdOSWplRldVNHBZX0pEc2VacDVhUXMtVXA0TGd5eFI2a2dKYTZuZHF3WjJkc2o1WXRBVWhGRkhyR0NFZGpCNUVMR0lBZ0Q3cDEwZQ?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/17 21:19",
+        "title": "Bitmine Immersion Technologies (BMNR) 宣佈乙太幣 (ETH) 持倉量達 608 萬枚，加密貨幣以及現金與有價證券總持倉價值達 118 億美元",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03dUZPM1UxMjVQY0hHRjZyU05SVFphQ2FZY3hQLU1zOGdlRkYtWjdFckhLVmNybTA0TENNaW9JZ3R1N0pnaVRyWnBxN2YwRkROdk1RZm9NR0V6ay1BSllIeVRn0gFiQVVfeXFMTTd1Rk8zVTEyNVBjSEdGNnJTTlJUWmFDYVljeFAtTXM4Z2VGRi1aN0VySEtWY3JtMDRMQ01pb0lndHU3SmdpVHJacHE3ZjBGRE52TVFmb01HRXprLUFKWUh5VGc?oc=5",
+        "source": "經濟日報",
+        "published_hkt": "11/17 22:00",
         "related": []
       }
     ]

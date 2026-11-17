@@ -154,33 +154,28 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-16 23:22 HKT",
+      "updated_at": "2026-11-17 16:20 HKT",
       "news": [
         {
-          "title": "不用撐了啦",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3RjRiUjBZQ04xOGxqTlZNOFBXdzQ1NGRMX1pKWF9YVFI3eEZTWldibWhwZUU1UlNkcVUyVXNKc2djTWR5NmFLWktqdzZTd3pMTHBnUlVzZXk?oc=5",
-          "source": "CMoney",
-          "published_hkt": "11/16 22:09",
+          "title": "【台股11/18日盤後分析】",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXg3MTM3V2VINUpoWkdSeEpqbURuZkNUellhNG9xaGNVY3lwb3JpaFRkRXdOd1JWU1VRVDUtbWdSeU56Wk9nOWFZc3NFNVhtbnJsLWJxeHV3dlpXc2FpMHV1U2JFbjh0aDF0TXdYSDNZQXpnVnZzanA5c3ZVMV9aeEs2NlVHd3prTTFBdTRwNDRYODFJQlFJV3d4QkhSU290WnNyZVU5MXZrc3d5TjA0NWJ4NFpaNHF5QXVRMF9iRGpMaVE?oc=5",
+          "source": "台灣好新聞",
+          "published_hkt": "11/17 15:32",
           "related": []
         },
         {
-          "title": "TWA00 加權指數- 大盤大跌2千多點，我們的零股達人依然低買高賣，持續獲利~ - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKMFZsZzAwTHNrTGlPT3BBdkgtcWpMby1zSEk2SkdoLVpfYjhwdUFydi11SDFPaGI5WDhEanVrZVIyUkxlckZldTRIS1VKdDZ2d2p4d0J2ckM?oc=5",
-          "source": "CMoney",
-          "published_hkt": "11/16 22:01",
-          "related": [
-            "^TWII"
-          ]
+          "title": "台股再挫947點守住4萬點 信驊跌破萬元",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wejRTc3RNNGxrYWtXU3hHNmJtTmlGOEZEUmNaWnFhaDlnTWh4c0RMX0U5OUs2Qi00aHd3d2xqRTVDMTFTeVBJOFRBeERCRXhweHg2RXAzdUQ?oc=5",
+          "source": "Rti 中央廣播電臺",
+          "published_hkt": "11/17 15:29",
+          "related": []
         },
         {
-          "title": "TWA00 加權指數- 全球最大投注網站Polymarket關於黃仁勳是否回歸輝達， - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNYmNHWERiTW5NbVF3MF9qVWdQZkFZbm01QkdRTHhHbjZiSm1GS3V5bndMMmhvcHpzNmpWd0FueGwwN3J0LVhzcXJENTRfTWpMdUp0YnVHdkU?oc=5",
-          "source": "CMoney",
-          "published_hkt": "11/16 21:48",
-          "related": [
-            "NVDA",
-            "^TWII"
-          ]
+          "title": "台股臨4萬點保衛戰黃文清揭盤勢3大變數- 財經新聞",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU2tHM3RORFhYOVlieEdLbmtmNy05ZGRPU1RzNENNdTNxdGR4MEJXOTdxSTJESVF1VnlBSkY1ZHo5LWppd3R6aWc0MDR0aDNmV3FKNmdFQkZvR0c3REJmZ1VpLXo0cmQxNTg3cjZ4cFVqZ1dHbFFCUnQwRzUwYTZoQmF5UmQ0UXVCdVJz?oc=5",
+          "source": "PChome Online 新聞",
+          "published_hkt": "11/17 15:21",
+          "related": []
         }
       ]
     }
@@ -215,40 +210,51 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-16 23:22 HKT",
+      "updated_at": "2026-11-17 16:20 HKT",
       "news": [
         {
-          "title": "台股重挫2635點 證交所喊話了：視市場狀況採取必要穩定措施",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pcHpQNm9JNGlDODFGek80dnVaaFA4eDMxeGZibkhtLW13ckNFNzl3UkdUVnVScmEzcVFHckhkRDV4YXc2T001VzVSR2wxSVdRaGU3cldBWnJtaFVuSjl1Z0tPblNRWTluQlVZeGtn?oc=5",
-          "source": "中時新聞網",
-          "published_hkt": "11/16 18:44",
-          "related": []
-        },
-        {
-          "title": "《日股》AI、半導體股領跌，日經失守6萬點",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOXzNtSlNRV0hYMFV6RzRXTzJBZ1dqcmRuVnAxZlltbDcwX2lwcllrdGlWbHYtZDRVVnlONUhjX2tudjhHMEVmaGZ1WXZQaXRKY2txNnlKMEkyejJJZW1kWnN0X1FWSDk4NlpROC1KR01OWGJxSEZJV2JpOVA5dm5YSTEzNkNfS0l2MXZwUzdfSW5wRHJMN1M4YUhMaDQ?oc=5",
-          "source": "台視全球資訊網",
-          "published_hkt": "11/16 18:35",
+          "title": "日股：日經指數週二重跌801.59點或1.34%，帝石、愛德萬、軟銀股價黯淡",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRGZ6UktOS3Y0VXdXMF9NZDkta2FRWUdlM3VpTHBsOUwySnhoX1RTeFEtZFhzRTZFUjNnVVA4VFRKWFlzUUtSaEpmMmdKN3ZCT1VCczR5dFUtMDNKN2hGcVNQYjlGcG81X2psYkZaM3l3MVJ0UUF2bmpFeXZJeWxHdzVUeXdOd29W?oc=5",
+          "source": "富聯網",
+          "published_hkt": "11/17 14:57",
           "related": [
             "^N225"
           ]
         },
         {
-          "title": "科技股拋售潮蔓延 亞股周一承壓 台韓日股重挫 港股抗跌",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41NW5UaUhtVzhySTFENWIzTFJ0Y2k4aTc0cWhZbU1HaWRRbFE3ZDR6SHpBRzdJR0c4WW15QXE0RUhodDRWMUVLQVpoOUhYdDA?oc=5",
-          "source": "鉅亨網",
-          "published_hkt": "11/16 18:30",
-          "related": []
+          "title": "《日股早盤》AI、半導體挫 日經跌705點；鎧俠摔",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSVdrUURGZFJhblQ2cFlnaDN1U1U0Q1lFYTNSUTVmRkpGWVpHTDhEc3dpUWtsSzFEQUlOTFU1XzVTMzh1YXc5Y0hGZVl4MXlmVHlVQkxUZHhpR0Voa1huc2VOVTBrS1Zlb205S01USEIxRXI4ZFBWQzVVeGpBTklsSHNrYlFyeHlJRW1jbklWZzVoLURPUU9pdWx0V2Y?oc=5",
+          "source": "台視全球資訊網",
+          "published_hkt": "11/17 12:46",
+          "related": [
+            "^N225"
+          ]
+        },
+        {
+          "title": "《日股》日經晨收跌1.18% 晶片設備、載板、記憶體重挫",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVlZUWkhvRHhtTVlwV290YUpWMDdERjB4QXpMUFdZeEhMNUsyWDNReFplRkdWcUZxUVJNRTA3aFlXUzJsQm5QQUxXbVpSVEphOXBtZzBUeldvZmh5YmVBaXJDVWlUbzRLZHBONm52QW5EaUVrZEFab2pSRi1vYldLMmRsZi0tQ0gy?oc=5",
+          "source": "富聯網",
+          "published_hkt": "11/17 11:31",
+          "related": [
+            "^N225"
+          ]
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-11-17 13:07 HKT",
+    "updated_at": "2026-11-17 16:20 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣跌0.45%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPanBfanNzSHE2UUxKNTZnSlY4eUhrV2h4N0FVTWZJM1ZjTVZuWXl3cHRhdFpJTDBCai1KZ01ieUFBM1lzaWVSb0lxWXdpSVBmZkxaaTA1U1E0andsLXNLazhEb1ZtMmxYUEVJZ2Q2X0V6WGI1TlpyUVM1QlBrekhGMmNuT3phTEp0QzZrclVHZzFRXzZiTzhVdG1RcW1IZ1J5?oc=5",
+        "title": "以太幣單月暴跌26% ETF大撤資 巨鯨逆勢加碼",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQRXZuUGhxZ0Yxb0ZBSGxXSFNKdl9jeWtfQVJuVXRnWVlXMTJpU0kwR0IyQ3l4aGdyMGs0WHdPbFJPeGVVZjNsVFk4dlJmckU?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "11/17 15:20",
+        "related": []
+      },
+      {
+        "title": "主要加密貨幣行情，比特幣跌0.46%",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRERHbGJoZHQxdUlJV2hvYUIydExiSzhVb2JOZFJ5R2lGNURvT0FDT0R0NHVnblM0QVhldGRfVWFUSWpiMVpMMi1IZ2x0OHp1bkpETlRqMzcwdUtGWjhxV0QyaW9CZU41NWVmQ2RGaXJiRkRqNDNaWGNSVEx5UHNuVHhBT001UGF5eHFxX3cyU3ZfUjdTNXNOTW8yQW9wLVFr?oc=5",
         "source": "etnet 經濟通",
         "published_hkt": "11/17 09:35",
         "related": [
@@ -263,13 +269,6 @@
         "related": [
           "BTC"
         ]
-      },
-      {
-        "title": "分析：英伟达财报或加剧加密货币抛售，可能推动比特币跌破6万美元",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1TGZjYWlkd0tmRjRHbW04YVFPTFZuUFh6QXJHbEpRdnp4MDN6cnJhcmFnZmxseHNhbWxBV1VFT3FVZC1CLWMzRUZiNXR1cmVDOTBwaDN3VW9TbTEwZVN5NldnLVhVQQ?oc=5",
-        "source": "TradingView",
-        "published_hkt": "11/17 09:01",
-        "related": []
       }
     ]
   }

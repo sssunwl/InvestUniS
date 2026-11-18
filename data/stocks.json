@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 16:59 HKT",
+  "updated_at": "2026-11-18 21:40 HKT",
   "us": {
     "stocks": [
       {
@@ -140,32 +140,32 @@
     "stocks": [
       {
         "symbol": "BTC",
-        "price": "$64,587",
-        "pct": "+0.49%",
-        "dir": "up"
+        "price": "$64,051",
+        "pct": "-1.32%",
+        "dir": "dn"
       },
       {
         "symbol": "ETH",
-        "price": "$1,808.3",
-        "pct": "-0.54%",
+        "price": "$1,794.5",
+        "pct": "-1.37%",
         "dir": "dn"
       },
       {
         "symbol": "BNB",
-        "price": "$590.7",
-        "pct": "-0.10%",
+        "price": "$589.5",
+        "pct": "-0.35%",
         "dir": "dn"
       },
       {
         "symbol": "SOL",
-        "price": "$74.60",
-        "pct": "+3.10%",
+        "price": "$74.36",
+        "pct": "+0.97%",
         "dir": "up"
       },
       {
         "symbol": "XRP",
-        "price": "$0.9975",
-        "pct": "+4.19%",
+        "price": "$0.9873",
+        "pct": "+1.59%",
         "dir": "up"
       }
     ]

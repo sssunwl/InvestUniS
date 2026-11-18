@@ -253,29 +253,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-19 01:24 HKT",
+    "updated_at": "2026-11-19 05:11 HKT",
     "news": [
       {
-        "title": "XAUT 透過實體黃金支持錨定投資組合穩定性",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUHp3MnN3NGdpMEFobmc2TGdIWVFncjZLanQwQVFsc2dyOFZ5dDg0VFZSTEItMnVnSGtwcU12QXAzMlNiRjNMS1FIanRRZEJSemdOdDhKZUNJdGo0WWI1dW1YME1uczhraGNXU0ItbHZ2N3lzSzRab2hJWnQxMVYtSWE4c2FUZ2MtWFE?oc=5",
-        "source": "OneBullEx",
-        "published_hkt": "11/18 23:23",
-        "related": []
-      },
-      {
-        "title": "比特幣與黃金預測：為何BTC和XAU擴大跌幅？",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd0ZUM3pReWNzNjdDNVJ3dHNhS3pKRm9odE45YlR6ZXltTDB0Z2E2aEVkRFNKMUFLMWEtZHNROWVSbzFkVGxQdlVkOGcxT21xaGhRQ0h6cVhRbmVTei1LX2tCWjRvWUtNd25xMWN3MWl2VXVXU2M4cVg3eEpoZmhVX3Z1NndOVWhwTHRBQWRzQ2VwajhKNE5McVF1MVdrQm0wZUY2U2pIRElOdVhNVTNmMDdpMjcwS2cwOHFqME50RnBMUkFWYVBwSEx4dk5kMVNaS2tydlBmQWdxUTk2R01FUXE0dw?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/18 23:14",
+        "title": "花旗看淡加密後市！比特幣目標價砍至 99,532 美元、以太幣降至 2,838 美元",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWnBjX2Jpemh5LUxXRzV3Q3h0WkpZeVNCMGhpYVJmd1l4MklQSWhwSzVfdGprWHNYVVpweTJBV0JQVWhDT1A0THl6WkNYVzNJdVg0RFdZQmhWOUk3NWdyTDVkNWhjblhuR1c5TXozc1hNa3l0UnJhdi1PMzF4Z3RZXzNKNzM?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "11/19 02:04",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "11月18日更新： #比特幣ETFs: 1日淨流入：-4,216 $比特幣(BTC.CC)$(-$2.6946億)...",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM0d1VWRJZWx3Q092WS1OT1RTRkdmMWRHdElaRDd1YVNkMVhPbWpDRHRxTTVjVnNIeXRobkhka0NKTUZJMWQ4ejFoeXg0VjBUUEpDV1NQNktrZW1veGlWQTZ1Tm1QTkUyazlCTVRwNHlLbUQzR2duZndTMnVoWTF0R0Z1bVhPTkYtajdTWGZ5OXN2ODBnVnk5XzRnT1ZOT0g4M2dMenM4UnYyaDU4ZkxR?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "11/18 23:06",
+        "title": "花旗下调比特币目标价至99532美元、以太坊至2838美元",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TZE5SREd2S2duUV9RNl9FdmRGTkVQa2hLZDVabjQ5RTJmS1I0cG9tcWEzYWk3eWVHYzVhMXJBc3ZiMzBZUVpLNTgyLUN1SXdiX0pxaFdjV0tyVDJPYlVZYVhKNS1vdw?oc=5",
+        "source": "TradingView",
+        "published_hkt": "11/19 01:56",
+        "related": [
+          "ETH"
+        ]
+      },
+      {
+        "title": "加密貨幣價格預測：XRP、比特幣和黃金——美國盤綜述11月18日",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMl9welN2cnFRRThoNU43YllGcHR5NzBQQWxmTGtzWXNLVU1wUzVaanZCTFU1OGVJTGx6NzY1NV9yRm5jRlZwSnZwTmI3MmJQWmozWTlTdkh3OGVySTVBd2JhM2J1WWNiRGdxQUlpWEFwb3RkbS1LOUg5cVRWVmJjeGlHeDEzdEZKVXdiMHI5dWk3RGx4SXhfOW9YVEwxNGpEOVVTcnl2N1FzM2xEWDB2V3VqTFdUU2FKV2xnSTdrUTdGLVhFb2Rka2Eyd3VvSzBOWFd4UjlGY0t6U3dHX3BXTUVZMA?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "11/19 01:43",
         "related": [
           "BTC"
         ]

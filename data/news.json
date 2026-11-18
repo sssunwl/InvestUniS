@@ -32,32 +32,34 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-16 10:53 HKT",
+      "updated_at": "2026-11-18 12:35 HKT",
       "news": [
         {
-          "title": "美股期貨跳水轉跌，市場聚焦英偉達財報與Anthropic IPO",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tSGhPdzlNbXc0R0tBRnVfMUE2S0gyd0t5QjJxY01aaVdQVFVSN09Gdy11ZVczYjlsemJQQWRyZjI0WTdsT3J4RHUyei1zTGNxa1ZiZ3BvVUQySmhVcVh2dU9kQndvREtWeHc?oc=5",
-          "source": "TradingView",
-          "published_hkt": "11/16 10:03",
+          "title": "美股韌性背後藏隱憂 標普500年底前恐面臨一成修正",
+          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQakdzbkdNdURWX1NodWt5TGdyZFFqLVJGVi0yYmhvNEhwcmRCMkxVaE1LUzd5Vl9iYjlGc0FnN0hkVk5CZ2l1NEZaM2MzQUNnUHhwdE5vLTVnSng3Mm9yVEVDWlgtR053bFo5QW5EN0dwdDYzZmhKc2xFMW5SR3lkZGlvVzBqZ25mQmxOUGNfSWVtYUxoWmdFTFJrUkxHd3RPVGgtZUVmMHZtNlpsY0UxZG1uUHZSSGFzaEZ0MGxzOXUtcDY2eDZxM0QwdHZyTENCaWNpd195R0cxMlNuNWtaZ2hZUFJKRmRKWng2WnFtWmIwd05fYVMwdXo1Q1BrZXpQQTFnVU95V1B0MlVhLXgzc09yWFJZejZPSW9IMzd3TXVya2J3Sl9xc1pYTW1PRXM2R1kyUzdHX2M4bkFGZi1vRkFFenlsYTlo?oc=5",
+          "source": "LIFE 生活網",
+          "published_hkt": "11/18 11:13",
+          "related": [
+            "SPY"
+          ]
+        },
+        {
+          "title": "《美股》分析：網路中斷引發市場擔憂 輝達仍有法律和監管問題",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSDRRLVZOQjRIQ05RNThHOFhaRFpTemtRMm1uMFVWTGdBSHhESE83VHJnUDM4LTFUNkJha1JNYmhpalByc0NSTnpJQ1l1ZkVQOEg0ZHFPUElJajN6TEt1eFNGNF80cnc0c3hTVG5pZm1DTVJlMUFWLW1ESjZ3aC04Z1VDTDNYeUlS?oc=5",
+          "source": "富聯網",
+          "published_hkt": "11/18 10:29",
           "related": [
             "NVDA"
           ]
         },
         {
-          "title": "最新！2026美國期中選舉後市：民主黨掌控國會，輝達執行長辭任與AI晶片出口管制成焦點｜美股觀察",
-          "url": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxPOUIyNmxNaTlpa1NIdUpxcWtsdzU4T1pYYWY4UTJBLUxyNjI2aEpidUdlT09vUHRTYzd4ZElGVHpGaE1uemxhRU95VmxhWDlfcEhSTFJXSTFYaFpEX1MwSnlBMUNKMmNrdHNXbGFGSE54S3VBbDhvOUlnQXJ0ajVIcmVoZ1RVZE5veUhLSjRUT2RHU096TzFFa1J2dE5sc2NlS0VXZ0VPUkxXZ1Atay1oVFZIOUZPZVo4RzltZGZfZGZMbmVQcDhrNTNNMkU4RWdnWnMzVWVfbDFKNTZ3UG1zSFFWRzZxdGFyc0xrQXFPSkdMUlUyc2FTcHhkVjZqaUtWcWQ1TXE3SjFHVy1scE03amQ0MHV4TDYtYjhXeVhCMWRQY2ZkaTE5V0FpT25TMzViY2h5X0tESXM1ZVFSbjJaNC1HaUI0RGRUTEhTa25mUkE4ZlRPVmRteENxU3ZNX2ZidE1lOGl4Q01CcTdIX01hUEladUl3QVhxdzlaZFhUZTc4cjFLOFlTMEN0aUhodnBlc2psMkJFNG15bUp5ZUp2SlJ4TVZMa2d0Nmoxcjd6SzREbk5mdXZYUzF1Nko1Zmh0TktxeU52dFNWNEQwbE5XZnhUdGZ3SjhCamNZOEFZRUU5ekl0a0JtNHZ2bmUzci1ZNnB5WGhKX05vSjZkczBJWHY2MG4tNFNKTnlXaDV6X1MzM0Z6RXItNGN0Ti1UYUxFWGZINE5peVprWjlqTmJfMTNZR2xmSlc1VmQzc2JyZDE1ZmVMV2tCa0NTNG9PbE11b1E?oc=5",
-          "source": "永豐金證券",
-          "published_hkt": "11/16 10:00",
+          "title": "TradingKey 每日市場簡報：美股三大指數跳水，博通與ARM 逆勢走強，輝達財報超預期",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPR3pFQkxhZ0RVUWdqSHp1RDdYRkhoVmg2RTRoWHozR2dkSU8tRGpzYWNzYURVUDFoRmJLS1g4d2RNTnZPV2NpT3BCZ1RQMmN2ZGNNNks0SktWTTFkNHBNRHVRZXpXRVQ4cGNIQXZxYTZJcS14Y2N1eDZQREo0N1AzXzBucmFUZG0xNGJ2X1Y4bkxydzBjNC1RSHZaalNVMzZXTmlTdEdCV2RXbFRncVVIYWNwUm5CZVEwclRjSm9CUHFGWHJlUFlMU1ZpbkdNTTVCM1BBZEpPb3NBRE41WWU4SlF2R1Vldzd5?oc=5",
+          "source": "TradingKey",
+          "published_hkt": "11/18 09:19",
           "related": [
             "NVDA"
           ]
-        },
-        {
-          "title": "美股科技權重衝破35% 創逾六年最大單日跌幅引發隱憂",
-          "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOcU9BUDZkRXlYLVRtMW5vM1JCRGRnM29IY3F5dWU4elZNWC1NaEV5ajNfTl9aVFV6WXZwVnR4dTZ2X0RndVZweThrc2d3LTF2MVBNdDVYdnJWQkl6bk9kYmNfNnVpOUJzMTFkejZGTFJvb3h0SGQ4d2s1R3ZCbkJVMGtES2pCZm5zQzRhMlh5MTZYby1SbWdMVXV6ZkpzSmoxdGVoMnJwRllQZktHZ3NYUDg1bnJmREMxYmJkQllxSEtON19CakVzTkljdDBTbmwxWVdQX0ZwNnR3elVCNkhKU2cwSlBLY3NhWENfdXUycVZ2S2o5M3pYX2QySHFfdU4wdWhfV2lpOUtGcmxScUo0UUFFeGc2NUw1UVN0c2ZVWGJla1hYOFB3ZHg2emlNSnc3UE1iM2hjemtaelJFZGVtUTFwemlsTmJ1bWhqNmxyT09KRWFZTmkzS1JoRzI1SENIam10UDVva3BycVdZTVNLMTlB?oc=5",
-          "source": "商傳媒",
-          "published_hkt": "11/16 07:53",
-          "related": []
         }
       ]
     }
@@ -245,28 +247,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-18 05:36 HKT",
+    "updated_at": "2026-11-18 12:35 HKT",
     "news": [
       {
-        "title": "人民幣：兌美元可能進一步上漲 – 大華銀行",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcXZoTXJXT2dBV0h4eXMtZXhxWnRTX3FGT2ExQjVTWEhIeWRYZjRNODg2WU1rSm42dC1IanF0R2tUSjVYYnR2NjZ5eU8tQk81NGZGSlJjMG5sdFZma2xsSUt0ZUZRWVdPT0M1djh3VThLbGpYdTd0ZXpxS1pmcWp2SmhMM250dzZvd2d4UjlKdlBISG4xQjNMSU9NVE9OTzZ4Y19OZndDMlctN3BI?oc=5",
+        "title": "WTI因供應過剩擔憂走低，關注美國EIA數據",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcGFRT3hLUWl5ek9QNXVxSXJ0TUtxTllDbHR4d1gyd2h1c09jdmFwZnVueGVJUENDck1kNkZ5UmJqeldVWXZoUk1vZ0x1SWNvX1ItRUNGVUVQZEJrT2xURTdOZk8yQ1pxLWZYZ3JmTl9XdWJUVHRoY3NWMEJSakhReWh6OHByZEVoRlZiZmlTdk0wV1MxWmRQWlViTHI4VnZMd2dLUGV4MUIyWlU0eUVadVhXRFNlZURuX2xfeEFjUXFuSlJhekhVUVFadElfdGhVVnMwOWxxT3VVdUM1Z1E1aVp3S05LY3JtZnRjM21TRWlVQms?oc=5",
         "source": "FXStreet",
-        "published_hkt": "11/18 03:53",
+        "published_hkt": "11/18 12:27",
         "related": []
       },
       {
-        "title": "海灣地區襲擊事件提振原油，但週一大部分跌幅仍未收復",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQTN1d1FzQWNIbXZoc2ZHMVVndk12SzA5MmkyUWFjSFZocGpxWDlidEpzUG9aV2MyNWQwa3hhY0NPWnJnYTR6ejMzYTl6aUhRWmlhVUtFcXNJSVZxRTJQYnZRZzUtQ2R3RGJxN1lkVzN0U184ZXl2MTR5N29HVkh1S1Y5N1RuMjVjQzBfTmRnZlFBOUpDMWYwR1BzeE9jRVNzcE9abTNyQ09uYnZWdWh6WmNVcUNKa1ZPZlVqckdNYw?oc=5",
+        "title": "澳元/日元價格預測：走軟至107.00附近，100日均線下方看跌前景佔據主導",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNGJRbTYxZkZrQ0V3QWllZ21reDI5UFNYUzNRbUdkcWRNTHJGZTlHU21jQlhwLVNDQmZrMW5vU2NabVVmSTFuZE5kbjJRbndicThQNEFkZEdKRHBGZ1pndmo4WmhmVWJ4eG9saWNiSnhXRHhlNmVUQ1d4Rlg2cHI1T2ZybHM5NkVwTV9ITGhmT1dfcnpXMW5pRXgtS1I0UFpHNmk1ZjdaWGtQRWRYMC0tQmpLNHBLOGJRRUhfaktWWkZoNC1mRlFoNEdNVGFOWDlxMmtiWVJpUldCbnpQ?oc=5",
         "source": "FXStreet",
-        "published_hkt": "11/18 03:18",
+        "published_hkt": "11/18 12:23",
         "related": []
       },
       {
-        "title": "金價收復零售銷售數據公布後的跌幅，守在週一低點上方",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeGtleXdiQV9mek9OeVJsckxCNG4ycTZDZXF0eC1lSDQ2U1RkRWNJRE5jcXZZNHQ1RWMzMXNKeWF1RDFpVUNfc0wzNEkxN2xTajFha2N4bkphcWhQU1dTQUlwYXZxcEVNTjA3UGpmbTVfYlo0WXpJMC1NMDNsTi1XZ2wwUnd6R2o0Zi1zNWtFd00wbGlYMWdERll4c1hYRXN6X29FcXNhYXNsbUVuTWNHdlNPZTNDeEoxSnJPVXRUVThiczM2N2o3V0J2RDVzUEI0T2tpNGF3N0FNYTdpR0RB?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/18 03:03",
-        "related": []
+        "title": "儘管比特幣、以太坊反彈，加密市場仍承壓",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUDZ6N05iYVRBYUlVYy1vUm1oTG93eUxKbkVyaDhQWFpaN1pRVXdkNVRQTVdTcHdXR284anQ3RzlLNDNVVVhVSndfcjR5cXZldzVLc0hscnpVY3dCeFk2SXYtYXFZcXAwVUxkWjRJQUFTX05IcnRzQmZNRXhTS0lkRUZmWXZmRkhTUkRiQzVSa3RZS2RCcUZFZUJCYjR1bUhYamJxbUVCajRYcEN0bUJUdC1uNnR4MUl6?oc=5",
+        "source": "Moomoo",
+        "published_hkt": "11/18 11:02",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
       }
     ]
   }

@@ -253,31 +253,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-18 23:26 HKT",
+    "updated_at": "2026-11-19 01:24 HKT",
     "news": [
       {
-        "title": "英國經濟數據喜憂參半，英鎊兌日元走弱",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcTZyUGJoU1NYSFFQNmQwVnZGQVlrSmlKV1JUN3RUbUtIOTljbTU5VWFibl9UaG1QaGV5LW9lWEZmWmk4RzRwMjdDdUdnWWxoc19hVFJKY1g0MHVJSi1LU1VhVWgzcDZrc2pZXzdvU29hd3JEaXhkVHluLUJacDZ4Z0h0S0pkTTVtWDlqRUNmVHhwTENORVpXd2ZESVdCaDQwSm1ySVdCTm9VM3RUNVBJ?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/18 22:12",
+        "title": "XAUT 透過實體黃金支持錨定投資組合穩定性",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUHp3MnN3NGdpMEFobmc2TGdIWVFncjZLanQwQVFsc2dyOFZ5dDg0VFZSTEItMnVnSGtwcU12QXAzMlNiRjNMS1FIanRRZEJSemdOdDhKZUNJdGo0WWI1dW1YME1uczhraGNXU0ItbHZ2N3lzSzRab2hJWnQxMVYtSWE4c2FUZ2MtWFE?oc=5",
+        "source": "OneBullEx",
+        "published_hkt": "11/18 23:23",
         "related": []
       },
       {
-        "title": "悅盈：11.18-19比特幣以太坊行情分析 調整階段區間對待 附短線建議",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvNUx5dzhlSlJsQ2pQV0VMS3pfWVlJeDY5R3NfdHd4ZnA2dEdZcGhwV2JxVWZBcjJwQXVRX3Fza1FvbndaQ3lhSExGbw?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "11/18 22:00",
+        "title": "比特幣與黃金預測：為何BTC和XAU擴大跌幅？",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd0ZUM3pReWNzNjdDNVJ3dHNhS3pKRm9odE45YlR6ZXltTDB0Z2E2aEVkRFNKMUFLMWEtZHNROWVSbzFkVGxQdlVkOGcxT21xaGhRQ0h6cVhRbmVTei1LX2tCWjRvWUtNd25xMWN3MWl2VXVXU2M4cVg3eEpoZmhVX3Z1NndOVWhwTHRBQWRzQ2VwajhKNE5McVF1MVdrQm0wZUY2U2pIRElOdVhNVTNmMDdpMjcwS2cwOHFqME50RnBMUkFWYVBwSEx4dk5kMVNaS2tydlBmQWdxUTk2R01FUXE0dw?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "11/18 23:14",
         "related": [
-          "BTC",
-          "ETH"
+          "BTC"
         ]
       },
       {
-        "title": "英鎊：有望進一步走強，兌歐元升值 – 荷蘭國際集團",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ0VuLTM3aW40eG13V2JGZ2FHcmtCNGxSeVNyeVlSLTdual94S1FvLWZxMUxEdnRudEtZakJYY3d5dGl1N3pVNGFOd25NdFppamdHWjRtUVY4TlMyM3k1ckdfdVM2U1NCUnNfVnM5NnVqdEtOSHdwbzJlMkhBNUVUTUJDeDgwVWJNc1dRd0h4VExudkc5MHUxVktpQk50SFlnU2hQeVg5TmZ4UlMwcVkxQkZaZTdIMC11R19BSEp3?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/18 21:14",
-        "related": []
+        "title": "11月18日更新： #比特幣ETFs: 1日淨流入：-4,216 $比特幣(BTC.CC)$(-$2.6946億)...",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM0d1VWRJZWx3Q092WS1OT1RTRkdmMWRHdElaRDd1YVNkMVhPbWpDRHRxTTVjVnNIeXRobkhka0NKTUZJMWQ4ejFoeXg0VjBUUEpDV1NQNktrZW1veGlWQTZ1Tm1QTkUyazlCTVRwNHlLbUQzR2duZndTMnVoWTF0R0Z1bVhPTkYtajdTWGZ5OXN2ODBnVnk5XzRnT1ZOT0g4M2dMenM4UnYyaDU4ZkxR?oc=5",
+        "source": "Moomoo",
+        "published_hkt": "11/18 23:06",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

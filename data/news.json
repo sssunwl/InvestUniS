@@ -32,31 +32,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-18 12:35 HKT",
+      "updated_at": "2026-11-19 12:16 HKT",
       "news": [
         {
-          "title": "美股韌性背後藏隱憂 標普500年底前恐面臨一成修正",
-          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQakdzbkdNdURWX1NodWt5TGdyZFFqLVJGVi0yYmhvNEhwcmRCMkxVaE1LUzd5Vl9iYjlGc0FnN0hkVk5CZ2l1NEZaM2MzQUNnUHhwdE5vLTVnSng3Mm9yVEVDWlgtR053bFo5QW5EN0dwdDYzZmhKc2xFMW5SR3lkZGlvVzBqZ25mQmxOUGNfSWVtYUxoWmdFTFJrUkxHd3RPVGgtZUVmMHZtNlpsY0UxZG1uUHZSSGFzaEZ0MGxzOXUtcDY2eDZxM0QwdHZyTENCaWNpd195R0cxMlNuNWtaZ2hZUFJKRmRKWng2WnFtWmIwd05fYVMwdXo1Q1BrZXpQQTFnVU95V1B0MlVhLXgzc09yWFJZejZPSW9IMzd3TXVya2J3Sl9xc1pYTW1PRXM2R1kyUzdHX2M4bkFGZi1vRkFFenlsYTlo?oc=5",
-          "source": "LIFE 生活網",
-          "published_hkt": "11/18 11:13",
-          "related": [
-            "SPY"
-          ]
+          "title": "凱基證券2027前瞻論壇 聚焦台美股與ETF資金新航道",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95Z3o5U0hQWTJXa25JR2FRY0FDbzRWZjZBSXIwSGIyTDJKOTQ5Z0NnZWtjZ0c3TTRMSDI2WWY4UHVOOUlnNzR5cDgtY215S2FJTEE?oc=5",
+          "source": "蕃新聞",
+          "published_hkt": "11/19 11:02",
+          "related": []
         },
         {
-          "title": "《美股》分析：網路中斷引發市場擔憂 輝達仍有法律和監管問題",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSDRRLVZOQjRIQ05RNThHOFhaRFpTemtRMm1uMFVWTGdBSHhESE83VHJnUDM4LTFUNkJha1JNYmhpalByc0NSTnpJQ1l1ZkVQOEg0ZHFPUElJajN6TEt1eFNGNF80cnc0c3hTVG5pZm1DTVJlMUFWLW1ESjZ3aC04Z1VDTDNYeUlS?oc=5",
-          "source": "富聯網",
-          "published_hkt": "11/18 10:29",
+          "title": "【美股盤前1116】關注輝達財報！聯準會關於持續釋出偏鷹訊號？｜豐雲學堂 2026 年 11 月",
+          "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPaUhQRDlRS1JjNFR0VU1DQTNiR2N1X0ZlQ3ZFcHVPSmxncHZjZjB3Z0huVEJQWVNMTFllVXZRQ25ZSHZtTldNTkc1dkx6U0pWRHEwb3BGc2lWVHJmcENLVWhjeUdpa0xXcVJLbUc5VVRRWklZdkV1RDlzcjR4TTFiWEFLaGl5NFpGSF9oWTQzaDJYUC03QjRMTEhTVGJhODZDSWdSeEtycjFOTWJtYWY0QTQxMi1vbzVjTXR0bFBJTUVDR09PVjJrcDJ1eEJjUTJYWU53MmxDdmpIZHlCZm5uR0dvQXV1WTVOcE5WYmtETFNCdF9BQ1pWX2JOVlZmMDhKQkpkR3dlcHoyV05jeVFKTTd2X2JzbmVQOW4xMTVfcHJYR1FSODJYa2FqcnBHdzhpNHQtTHoyRmk3anZZMk9PUEEwWWpuTjQtZGE4LVpJcDhzeUxzTjR5RHRsNDZFbTcxam9jTFNVSGxkMEJnR01URTJzODdUb2hkMUlVY2ZBcU1aeVlZcUQ5UE94M2JpNW12MDhOLUlXSEdlTV9DTHM5TXA3VQ?oc=5",
+          "source": "永豐金證券",
+          "published_hkt": "11/19 09:49",
           "related": [
             "NVDA"
           ]
         },
         {
-          "title": "TradingKey 每日市場簡報：美股三大指數跳水，博通與ARM 逆勢走強，輝達財報超預期",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPR3pFQkxhZ0RVUWdqSHp1RDdYRkhoVmg2RTRoWHozR2dkSU8tRGpzYWNzYURVUDFoRmJLS1g4d2RNTnZPV2NpT3BCZ1RQMmN2ZGNNNks0SktWTTFkNHBNRHVRZXpXRVQ4cGNIQXZxYTZJcS14Y2N1eDZQREo0N1AzXzBucmFUZG0xNGJ2X1Y4bkxydzBjNC1RSHZaalNVMzZXTmlTdEdCV2RXbFRncVVIYWNwUm5CZVEwclRjSm9CUHFGWHJlUFlMU1ZpbkdNTTVCM1BBZEpPb3NBRE41WWU4SlF2R1Vldzd5?oc=5",
-          "source": "TradingKey",
-          "published_hkt": "11/18 09:19",
+          "title": "揖斐電——大幅回落，英偉達在前一日美股市場先漲後疲",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcFdTUzZwcHZRcEpHTEFONHVZUzI3dEd5MVFKeU0tLXc4ano0NjNHeXFELV80bWhDN0pLUnh0VnZCVHp2Mkd6U0RDbGthekVqeFpvX1ZOcXJDaXI0LTBsVUVUeFZpTnBjV1QtUXoxZzNENDJ5c3BCYmZSemE4LTF0OWFXQ01ObG1XZEVsSGh6cVdFZFUyNEZvdWxTWHFaSHUySDRNX2pjUUIwd19mN3huZEpYR2tMSzA?oc=5",
+          "source": "Moomoo",
+          "published_hkt": "11/19 09:35",
           "related": [
             "NVDA"
           ]
@@ -253,33 +251,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-19 05:11 HKT",
+    "updated_at": "2026-11-19 12:16 HKT",
     "news": [
       {
-        "title": "花旗看淡加密後市！比特幣目標價砍至 99,532 美元、以太幣降至 2,838 美元",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWnBjX2Jpemh5LUxXRzV3Q3h0WkpZeVNCMGhpYVJmd1l4MklQSWhwSzVfdGprWHNYVVpweTJBV0JQVWhDT1A0THl6WkNYVzNJdVg0RFdZQmhWOUk3NWdyTDVkNWhjblhuR1c5TXozc1hNa3l0UnJhdi1PMzF4Z3RZXzNKNzM?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "11/19 02:04",
+        "title": "#韩国拟允许3500家上市公司投资比特币 社群見解與市場情緒 | 幣安廣場",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOQ3NHRnlCSnFXVVdRSjk4MFoyVGh6Wkt4bm1sWWZLNEtEalRaemplMXlNbVhndHZuWGt2ZjZDYnpnd05RNWNzVmZHT0Y2cmNyQk5BZmh6MVBLdXBrOHRzSWFEQUdRMmZNbXdZUzlvQnd3eXBPNEJpUXFiLXBiSzBMSlVad0VGTzVXQXFmX1RWR2pVNjNCbmhwSFp6dDB4UzFzZllLMTFiV2NkaVBKX1NqZ0lqOFlEQmJlMDY1T19GZWM2NjZxVmFYb29NaS1aZkUzUHVoVzc0c3YzVEFpTnZpNkpzSnRsZHFrTThTSWotYmhxRDNLX0FXTnVRcXRiU3lLV3BCMS14OURiTzFIZ1R0emhR?oc=5",
+        "source": "Binance",
+        "published_hkt": "11/19 11:33",
         "related": [
-          "BTC"
+          "BNB"
         ]
       },
       {
-        "title": "花旗下调比特币目标价至99532美元、以太坊至2838美元",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TZE5SREd2S2duUV9RNl9FdmRGTkVQa2hLZDVabjQ5RTJmS1I0cG9tcWEzYWk3eWVHYzVhMXJBc3ZiMzBZUVpLNTgyLUN1SXdiX0pxaFdjV0tyVDJPYlVZYVhKNS1vdw?oc=5",
-        "source": "TradingView",
-        "published_hkt": "11/19 01:56",
-        "related": [
-          "ETH"
-        ]
+        "title": "Grayscale：超越波動率——投資組合管理人的加密風險再思考",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmLUQtZEZPOEZHbWlXNDZzM2JIVWxtZ3JXN2VvVUUzVTh2UGdsc01jb0s2Zlhja2JTaTVkdlZzOC1pbnBJbW83VVRZYm5Lbms?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "11/19 11:00",
+        "related": []
       },
       {
-        "title": "加密貨幣價格預測：XRP、比特幣和黃金——美國盤綜述11月18日",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMl9welN2cnFRRThoNU43YllGcHR5NzBQQWxmTGtzWXNLVU1wUzVaanZCTFU1OGVJTGx6NzY1NV9yRm5jRlZwSnZwTmI3MmJQWmozWTlTdkh3OGVySTVBd2JhM2J1WWNiRGdxQUlpWEFwb3RkbS1LOUg5cVRWVmJjeGlHeDEzdEZKVXdiMHI5dWk3RGx4SXhfOW9YVEwxNGpEOVVTcnl2N1FzM2xEWDB2V3VqTFdUU2FKV2xnSTdrUTdGLVhFb2Rka2Eyd3VvSzBOWFd4UjlGY0t6U3dHX3BXTUVZMA?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/19 01:43",
+        "title": "幣安獲65億美元全球凍結令，擬追回10月被盜加密資產",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pN2pvTXI5cWJyZTZSb19tRG1sTkRaYlZFZU1lSnBpMXN0RFlvclZfZWR2akdka01idHQ0VmhfQkJrQkJBYS1UNVpqZjJ2WWs?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "11/19 10:05",
         "related": [
-          "BTC"
+          "BNB"
         ]
       }
     ]

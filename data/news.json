@@ -248,32 +248,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-19 16:18 HKT",
+    "updated_at": "2026-11-20 00:08 HKT",
     "news": [
       {
-        "title": "昨日美國比特幣現貨ETF淨流出3.065億美元，以太坊現貨ETF淨流出3980萬美元",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMTGZoSXh6Q3RLSVMxRE9xYlJyYVl2ckZtdlZjY3pqWkNOdFJhb1poVmNWWW4xY2kyeEdUSG9XcmRfQ0szVFIyNlJFOUp6Szg?oc=5",
+        "title": "Bitmine Immersion Tech財報即將公布：ETH質押能否帶動獲利？ 作者 Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCdWZsWXpaajlJOGhJY2dXQnY3MDVtOXl2eWdQdHVFVUM4NDBOdFd6M3hHR2M3SXAxQ2hmYVJlUDJ6bWR4bjlHSzc5SXpxc1dXbGxlUm8xOV9DWjRmRU92b01PM2RSNTMzWUI4?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "11/19 23:18",
+        "related": []
+      },
+      {
+        "title": "悅盈：11.19-20比特幣以太坊行情分析 低點未破築底成功？附短線建議",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iYlpuTE5rWkFBX2pUQnB6UHF1ZXIxeVRzTVRJZE1qQ3N2NEx0SW5wWXlWMmdtOWI2ZldpYnRIbDljUmZWcXNWS0JqSQ?oc=5",
         "source": "鉅亨網",
-        "published_hkt": "11/19 14:05",
+        "published_hkt": "11/19 22:30",
         "related": [
           "BTC",
           "ETH"
         ]
       },
       {
-        "title": "花旗調降比特幣與以太幣目標價 直指資金外流與槓桿退場",
-        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQMWJKSjhZSmpDUXV6a2RYdXZ2VEdsM1A3QzVwQXg5emRMYTh6ZEpxUjUxMUFyVVZ3SklyNDVpeHJrdTVPRWhWQmstUklrTDVPSEZ1aGJVWXctek8zNFRqWFJFYUlsejdMdkNIZTVwVmgzNGJLR0JXWUE3Ui1lNnI0N3hadGlsX0hydDFDdVRLa2RYdnU0M0VHbndNTjFPN2ZCZEtGbzNyTEUxb1FKS3BNM0llTWtISHYzTGRkNnpfdWM5WXRBZmZKRV9uOUNqalJEMDJwRGlZR1V3Wm5uNUUxMXhpYnNzYWU0c29mQ3ExVFp6SHBXeEZWbXd4SktneUxoWHhfNGdVREZmSV9GamNfUF9hY0tRYTdpZk5fMHRncUxwWWJtTVBlVGxFalROeExUbGk3ZlZBYVRSZk9LaUZpM1g3NmxwWG00ams0ajRPZDUtSkZtRWpRdGZ0cnRNR1VVNTFMaFZNOG54WEFUZ3Q3TmtkSWpldFV4aklzSTdDZTlPYUZPUlJlNjFmWHd2QWc?oc=5",
-        "source": "商傳媒",
-        "published_hkt": "11/19 12:53",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "隨著美聯儲會議紀要暗示進一步加息，紐元在0.5500附近企穩",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSWJ2WC04RFpGYnJpYm8tTlRQaGFzek5ZYlhLRE4yR2RxcmcwdWktZWlEV3dIMHBoOWFpTWZDNXdPcGJUb2pQMF91LTJSZzFfSmZfZ091OFkybXhtek1wVkZqeUwyTFUwbURnOUxncm1zMS1QU0NIcWdVZVBlOGtsU3V6cGpyWjBIUmtDYlpwaGtFZjlWam1HcFJLYmREZ2UySy1telBfVWhVUmhsbzFhNy1ZYUhKanlDRFRUcmVR?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/19 12:27",
+        "title": "2026年11月18-19日區塊鏈24小時最新資訊鏈共識（鏈新聞）",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54RTVaTWl3RXF0NmVQUHMwOUN2OHVnVHZDTjVCQ3d4NVpYYW80TS1yTFgyMjZ2SEhkSWY4d1Z6Qm1DLVJQSWtfMG1VMmJtTjQ?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "11/19 22:30",
         "related": []
       }
     ]

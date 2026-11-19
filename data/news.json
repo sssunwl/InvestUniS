@@ -248,8 +248,15 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-20 00:08 HKT",
+    "updated_at": "2026-11-20 01:29 HKT",
     "news": [
+      {
+        "title": "Ether.fi 價格預測：ETFFI 多頭推動價格回升至 0.50 美元上方",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcGU1S1Z3SzB4R0piR0F1QkJkRmlPU09EcEM2dFFmM1g0OWhZdWJZanBORnNTcFRVMk45TDVtUXhPTnl6ZG9INEM0YllSTjk3ZUZGZXY0OWNTbVFZV2RQNzlBT1FxYk5xYjF2VERRNV9qWFRsZTFFYk9XNDllSmRtanl3Mm9OczZGSU5tSi1EYTE1c2dMMHAteU9DVEJyeXVDczJCVEZmWmFLNmZ2d2ZLNF9fenhNelI5b01wWkx6NE4wNmxfT1JWMDlB?oc=5",
+        "source": "www.tmgm.com",
+        "published_hkt": "11/20 00:13",
+        "related": []
+      },
       {
         "title": "Bitmine Immersion Tech財報即將公布：ETH質押能否帶動獲利？ 作者 Investing.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCdWZsWXpaajlJOGhJY2dXQnY3MDVtOXl2eWdQdHVFVUM4NDBOdFd6M3hHR2M3SXAxQ2hmYVJlUDJ6bWR4bjlHSzc5SXpxc1dXbGxlUm8xOV9DWjRmRU92b01PM2RSNTMzWUI4?oc=5",
@@ -266,13 +273,6 @@
           "BTC",
           "ETH"
         ]
-      },
-      {
-        "title": "2026年11月18-19日區塊鏈24小時最新資訊鏈共識（鏈新聞）",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54RTVaTWl3RXF0NmVQUHMwOUN2OHVnVHZDTjVCQ3d4NVpYYW80TS1yTFgyMjZ2SEhkSWY4d1Z6Qm1DLVJQSWtfMG1VMmJtTjQ?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "11/19 22:30",
-        "related": []
       }
     ]
   }

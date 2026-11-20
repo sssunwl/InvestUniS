@@ -245,8 +245,17 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-21 01:03 HKT",
+    "updated_at": "2026-11-21 04:58 HKT",
     "news": [
+      {
+        "title": "Anthropic與SpaceX兩大IPO前一個月，比特幣均跌22%，流動性邏輯如何驅動後市行情？",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzRuVWlDZm1xNmE5SmNlVWpIalpPcHBoSDJMOERvb0RKUWRCMzRwaVBkOVZ5UXB0THphdXFjR29TcmlDSFZCMUhoZnlCQUlUaWRnUzJOVVk0QlkyN2haTVhsd1pBRjIxSG9xYWVoNjJMVkNEbUNRVnBoTWQwZS1oQWdKQnNmclN4QnZ6RlhuSmgzQUpWRXB3Tg?oc=5",
+        "source": "富途牛牛",
+        "published_hkt": "11/21 03:45",
+        "related": [
+          "BTC"
+        ]
+      },
       {
         "title": "幣股雙殺！比特幣失守 6 萬美元，AI 與半導體遭血洗、Anthropic 上市第二天跌逾 10%",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaVZ0azRST2tJTkFTejg3R1gxUWFLdHFjLXRHSE55eVJSMVlDZWcwM3lDVVNUZ05UMFpQZ1FVZnVyOEE0NFdzNjhsbTRzN3E3cEpfVHV4WFRTdzhnVzVpSzhLVUJCZVNUS2p6ZHRhdm80X21mRXpXX1Z3SERLeFAwWDRoQjJGWlVCWjNpX1hzS3JuNW54bUFHNWpBNA?oc=5",
@@ -264,15 +273,6 @@
         "related": [
           "BTC",
           "ETH"
-        ]
-      },
-      {
-        "title": "快訊：隨著拋售壓力加劇，比特幣跌破60,000美元",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdERIeUQxWTFoYWE1Uk9rclVxSUJFNFJXZVdxaklEVWtJS2E1WGlVei00MGpOMWg1bnpGamN4bUozRml2b2RneG0xS25xbU1FQ0ZoS1BKNW1BM0N1LS1OZzdTOFRxR0F6M3dqRmhrRWJSOXRLLUl0RHRYMkx0WENiVzI0alplV2cteTNyTzBscTRobHBDQUsxVWtPRTNSOFl2elVvak1RemhvYTlCYjF6S3dmdk5oOXNEdkpycldiY1RuM3dnd2lN?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/20 23:43",
-        "related": [
-          "BTC"
         ]
       }
     ]

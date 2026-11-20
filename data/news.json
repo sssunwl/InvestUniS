@@ -151,7 +151,7 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-20 15:39 HKT",
+      "updated_at": "2026-11-20 15:58 HKT",
       "news": [
         {
           "title": "TWA00 加權指數- 殺到外資的成本快到了嗎？🤔又是散戶多殺多台股暴跌2,3... - 股市爆料同學會",
@@ -211,13 +211,13 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-20 15:39 HKT",
+      "updated_at": "2026-11-20 15:58 HKT",
       "news": [
         {
-          "title": "科技股賣壓未止　日韓股收低日經狂瀉3000點",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM3JmWG15dVl5NFh3YjhEVk5FNmY1Ylg5SFV0d1VmQ1IxWG1yVWNkNjRic1ZqbWtHSGt2cXBuTTBxU0lhVmNoeGUyUVZwT09EbS1DYjU3bXZTLW1HSDlZNjhmTnQwRmtMMDg3WE5uckFoYWJFWVBKbzlJZ1dfeHY4N9IBX0FVX3lxTE4wanpPMEc4SnVTbjY2WU5CTTZkaEllck9ZdUJhcV9NSVd6MUFWM2dOLWdNeVBTcHJQbVppb2xWOWp1WU9iakFLUG45TFZVYTdXZkx0UGpDeEtCWmJPcF8w?oc=5",
-          "source": "經濟日報",
-          "published_hkt": "11/20 15:31",
+          "title": "科技股賣壓未止 日韓股收低日經狂瀉3000點",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJbGZ6dVU5OVRHcVhyTGVWT2hiM0dTbmZRaUh3NFBhQ1B3dW42TUppTzJkVDE5eXFCVWI5cE0xYzlwWmxka2s4Zk5Mc2VQaXli?oc=5",
+          "source": "UDN",
+          "published_hkt": "11/20 15:39",
           "related": [
             "^N225"
           ]
@@ -230,10 +230,10 @@
           "related": []
         },
         {
-          "title": "日股盤中／日經一度跌近5%創七個月新低鎧俠、愛德萬測試跌逾一成",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MMWMtSkdxb24xaUZkaFFULXdjMG5POHRuMmI3cmVCMldxdnd4Y3BDNFVpVmFETjVIUWVjRlBtNDBmem5CbGc1NzBSYWJQU28?oc=5",
-          "source": "鉅亨網",
-          "published_hkt": "11/20 11:30",
+          "title": "日股：AI交易憂心縈繞，日經指數週五大跌5.06%，軟銀、鎧俠股價重挫逾10%",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOEN0STJDcU5VSlQzc1hDVFduTzVnWlVzaWtFdG1CS2dkblJEbkVRay1HYWk4WmdVXzhkNHVSN1VQREVKSnVnWklTTjl0R0laM3FEdjFCMnkya1FPVEt3LW9HWlNKbXlzbkJJRzZTVkZQVThzMWZqenVzZTZGY0xBS0oySUE5RWVK?oc=5",
+          "source": "富聯網",
+          "published_hkt": "11/20 14:58",
           "related": [
             "^N225"
           ]
@@ -242,8 +242,15 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-20 15:39 HKT",
+    "updated_at": "2026-11-20 15:58 HKT",
     "news": [
+      {
+        "title": "嘉信理財調查：6成美國加密幣持有者擬增持 加碼意願超越傳統股票與ETF",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BZEJQUG9pcGFJVFJsX3JQakYwUWFfRVBqNm1kYTBEM1FWM0RqWkl4Nm0zTHQ1a0JZejMzMW5pdVZiTm1wSVdEdmI3b3hocTVUM2c?oc=5",
+        "source": "蕃新聞",
+        "published_hkt": "11/20 15:26",
+        "related": []
+      },
       {
         "title": "昨日美國現貨比特幣ETF淨流出5.823億美元，以太坊ETF淨流出1.312億美元",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Kam1maS1XeGVHRElHUFlzTnk1ZHBxMDQzOE1yQ2l3R0s5ODgteXp3bk9aQUpVZmpKN3ZmRnU5UVlsZ2RtOVhGWDdyUQ?oc=5",
@@ -260,16 +267,6 @@
         "source": "TradingView",
         "published_hkt": "11/20 13:10",
         "related": [
-          "ETH"
-        ]
-      },
-      {
-        "title": "前3名價格預測：比特幣、以太坊、瑞波幣——BTC跌至7月低點，ETH、XRP下滑",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeEotV1FjNHc0OVN1czFPRFZ6V19RdldPYnE1VU12TG41UVktVF9pYzNON3UxMk5ZeDltVjVnZnVpc0hzOTE2M3hyQzE2WU9PR0VpNGhYVkFRV2JUWHRweUpmd3d0eUhPSVlLeEs0ajl3X1ctdS01eElFYlFkblByZXVHcGlIcElZSFZ3X05FbXNXclJkcE9iWDhFVGo0V21VbVlFeUxuNE9uYk1neFIzSmlGdTZzUEVibVVhRlBKLVNEMHNHV0k1SURYWEt1N3oxUmg3dGZYMWpWdXI0eGs1WjFEb0Z3alNiOTQ5QWR6dw?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/20 12:08",
-        "related": [
-          "BTC",
           "ETH"
         ]
       }

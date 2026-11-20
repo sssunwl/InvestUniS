@@ -245,30 +245,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-20 23:48 HKT",
+    "updated_at": "2026-11-21 01:03 HKT",
     "news": [
       {
-        "title": "悅盈：11.20比特幣以太坊行情分析 震盪慢跌空頭還有最後一擊？附短線",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xX0gtOXdsU0M4d0xzWEVQYWFfejhLaDlnckNaeE1tczl4UGh2dEh1WVNsd04wU0RQRW5lX3RXQmZzRnNrWkltQXZ4T0ZXOEE?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "11/20 22:00",
+        "title": "幣股雙殺！比特幣失守 6 萬美元，AI 與半導體遭血洗、Anthropic 上市第二天跌逾 10%",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaVZ0azRST2tJTkFTejg3R1gxUWFLdHFjLXRHSE55eVJSMVlDZWcwM3lDVVNUZ05UMFpQZ1FVZnVyOEE0NFdzNjhsbTRzN3E3cEpfVHV4WFRTdzhnVzVpSzhLVUJCZVNUS2p6ZHRhdm80X21mRXpXX1Z3SERLeFAwWDRoQjJGWlVCWjNpX1hzS3JuNW54bUFHNWpBNA?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "11/21 00:00",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "血洗！比特幣跌破 6 萬美元、以太坊失守 1,700 美元，過去 24 小時全網爆倉 12.51 億美元",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSDRoSnRGckw3Vkd5WXVRb0pTdUEydWtQWGFaVUVST3luS3FiekhQUTVDTmdKZUx1eXFMNHNUME03dUpkTi11QjBnX0dSZS1IQ2U4OHQycVhGZFpaQk9tSXVqTS05Um1tcjdVenE5TjFMRUZWNEZFV0dGRkhYTVRpNWtRVjlBNnc?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "11/20 23:51",
         "related": [
           "BTC",
           "ETH"
         ]
       },
       {
-        "title": "ETH 以太幣價格、走勢、市值和最新消息",
-        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNd0REcU9aV2pRVGhZX1NMaVZnakZWZVlPMFNkTGkxZWlFajNWNkYtRTA2TzRTbnFxYzd2NXN2d2t5Sk5fQ01DUXRJV05ZMXpBUUZHNHQ4MHZLVm82SlFtdU1GNXM5N3F6MEJZMmxzUnhsWkExeFF6UzM5RTh6d09LMktFczdlYVZvYUF2MHV3VHVlQThCZHhmMnpJa0hLRllGR1NBTEFRNWllSF9oZ2ptLTZ0dTVoc0dJWW1TRndJend1Vm9OMC1xc1ljamdocG9xSENWeVpRMHV3QWFDMjRtR1VaeW1TMWVtRk4zMzJfeGdncE55RGtNTm53cFZJbmdUSXd3RUctUUMwTTdxQk1qRTJ3MEFSVXU2N1ZHVWhQY19JNjkydHhpVF9R?oc=5",
-        "source": "Moomoo",
-        "published_hkt": "11/20 21:16",
-        "related": []
-      },
-      {
-        "title": "加密貨幣價格預測：比特幣、瑞波幣和派網絡——11月20日歐洲市場總結",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOek5zWGw3amdLSXJ1V24wUkZHRGkwSm85eDdzaUpxdzNwXzQ0TzI0eGFVZmxGWlN3MFNxRm5sZi1MSHN1V043bzZfN2NwTkNFU3pCX1ZHSnVYcHdhZTJNMklqNGVhZzAtUms2Nmx1ZDljN2xLbkhEOXRDNzZQVGNhenNuVllGal9wUVZqLXlSVXd5Q0pBNm5nQzZkMHd2RnFwVWxQRFZWSjNfVVoweVJMbHEzWXMzai1HaG5jcjVIclhqbHhNMlRPdVFNelF0bGQwOUpNY3NqYWdvVlZsVktSc0VBVjY3T0NXZFl5Zg?oc=5",
+        "title": "快訊：隨著拋售壓力加劇，比特幣跌破60,000美元",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdERIeUQxWTFoYWE1Uk9rclVxSUJFNFJXZVdxaklEVWtJS2E1WGlVei00MGpOMWg1bnpGamN4bUozRml2b2RneG0xS25xbU1FQ0ZoS1BKNW1BM0N1LS1OZzdTOFRxR0F6M3dqRmhrRWJSOXRLLUl0RHRYMkx0WENiVzI0alplV2cteTNyTzBscTRobHBDQUsxVWtPRTNSOFl2elVvak1RemhvYTlCYjF6S3dmdk5oOXNEdkpycldiY1RuM3dnd2lN?oc=5",
         "source": "FXStreet",
-        "published_hkt": "11/20 20:03",
+        "published_hkt": "11/20 23:43",
         "related": [
           "BTC"
         ]

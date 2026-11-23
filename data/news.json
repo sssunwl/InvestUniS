@@ -212,34 +212,30 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-20 23:48 HKT",
+      "updated_at": "2026-11-23 16:01 HKT",
       "news": [
         {
-          "title": "《日股》AI與半導體賣壓重 日經重挫5.06%",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU3gwRWtMSHZuei14WHl6STlNcTViMmlOaGw0M2tnVF9BT0JqcFgzSzJMeGJqWW5vVFBNLUpsdGtISWRBeXc3cVJyeE8yTVhKcW5UeUlGS1R5UkQzcXUybGU4bVA0OUI4OFRfN2dyQm9LSVNPUl9XaTNzRno3TmpqQmZuRVkwU2p2alp3bVc4dTFSZw?oc=5",
-          "source": "台視全球資訊網",
-          "published_hkt": "11/20 18:17",
+          "title": "觸發熔斷，韓國股市上演黑色星期一",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE55WThsT19vWEVzOGk0Q3d6TXk1cW11Z20xc19aSXRkT180TmF4ZElPUURJREdHNEhtYXlSUEk3VnlYX3lQSElLRA?oc=5",
+          "source": "鉅亨號",
+          "published_hkt": "11/23 14:28",
+          "related": []
+        },
+        {
+          "title": "韓國出招救市未止跌 恒指低開242點 阿里挫3% 多隻科指新貴捱沽｜港股開市",
+          "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOdUNELWU5dlZUSUZJQW1NbTl1RjBQSnotUUZueHZJVEtSRlJmMkNyMDctWmxHbUtXMHRXeWdUandMcmk5OUMxczFCRllNNXlGU2pMakFEMlU5X3cwdzRGTGNWWHJ2VUluN241ajZDUjhzdzVtZll6UUxCdkxkYWNDeGh5c2tzNEpuYzVFQTc5VjdxbjRUcU5oYUNqSjBfSGNyUVZmenlfN1NkOUQtOHI4MFpMM0ZwUmYxQUxlbEhrUlNJeU9mZFN4bGFHNjR0Q1RJUWxpQU9HVnR5clYwU3RBTXRhc0I1U0ZWWUJrZ1N2SFdEemRnNlJCUE1qV1l0VU42RXRqTEIwSUFEZ1RTVzZZNzFnOHQ1Qk9ZVWtYWV9mUmozSmlrdmVXZFotRl80clJ1SFhXd3dnUmxVOEVhdTkzbjBsVDNxV25xb3c0NFVMb01KQUlYQzE1S2NTQ3JYbXpna202ay1RalFpY05kSHNqNXo0azd0aWJlNXlCUE10Uk92ejlacDFBVVphVE5qeVBzV0x5LVdfY2hKUGlVbzhWTktGUEVpaXllT1g3S3QwTkdiNzlJNllabVlDRmJ0WjlJQXk4Y1lfQUNabHYyODI3ZWUzZ0pXQTJhZVBaVVpEdmJjZmt2TExpVVJR0gGKAUFVX3lxTE52VHZZYTRPYkpVY2ZseFJkNC1JUXZzYWdiWkJYajU4RzJVVjYxMXJKNXY2akp5OHRIckN3enlocmR4UUgyYkIzMG9TMUxmWndLcFRweXJ3Q3Z2U21vREVWU3RLZVBIc2J4ZW04dERTeTNlUjFtOUJEdXptZUVNcGlNckYwaFluRlNQQQ?oc=5",
+          "source": "Sing Tao Daily 星島日報加拿大",
+          "published_hkt": "11/23 13:25",
           "related": [
-            "^N225"
+            "^HSI"
           ]
         },
         {
-          "title": "科技股賣壓未止 日韓股收低日經狂瀉3000點",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJbGZ6dVU5OVRHcVhyTGVWT2hiM0dTbmZRaUh3NFBhQ1B3dW42TUppTzJkVDE5eXFCVWI5cE0xYzlwWmxka2s4Zk5Mc2VQaXli?oc=5",
+          "title": "中國信託證券投顧：台股低檔多空交戰 靜待 AI 利空鈍化",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zV1VWdzA2TGd4T3l2Qm96WVhSVHo0Qi1KQURPczdHMXNaS0xTdlpBcXZDNjhqTy1mbkxuakZXUDRUUGVKemRYSjYzNktiZk5W0gFWQVVfeXFMTXNZN2VFVWZJV0pUblY1NF9JQjRIN2dwSDNuMk9PWUJvZVI1ckxYUmpmSFJTXzgyWlRna2hScjlQMHF2d1F4TW1DZ1Fad3dabEUzbnRKR1E?oc=5",
           "source": "UDN",
-          "published_hkt": "11/20 15:39",
-          "related": [
-            "^N225"
-          ]
-        },
-        {
-          "title": "科技股賣壓未止　日韓股收低日經狂瀉3000點",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lN2Z0X0hvc3hBNkJVcDdKUFN3dGhFa1pSVWdIZzllRHVqVUJsOTBPRkUxcEhtUXdWaE14eHVRS2xXNTNlNlR3YVMxMzB0R3Z5dXVyWk9FYkFUN2JfTWVXQ2gzWjRSelMzZHIzSThRR2hPZkxm0gFfQVVfeXFMTjBqek8wRzhKdVNuNjZZTkJNNmRoSWVyT1l1QmFxX01JV3oxQVYzZ04tZ015UFNwclBtWmlvbFY5anVZT2JqQUtQbjlMVlVhN1dmTHRQakN4S0JaYk9wXzA?oc=5",
-          "source": "經濟日報",
-          "published_hkt": "11/20 15:31",
-          "related": [
-            "^N225"
-          ]
+          "published_hkt": "11/23 13:21",
+          "related": []
         }
       ]
     }

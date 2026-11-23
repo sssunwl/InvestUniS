@@ -239,30 +239,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-23 16:30 HKT",
+    "updated_at": "2026-11-24 01:47 HKT",
     "news": [
       {
-        "title": "BTC短期持有者轉幣逾70萬枚【MEXC Alpha Trader - 行業日報(2026.11.23)】 | MEXC 幣圈脈動",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOThqbGx0RHRHUkkwUWdycmJhdk9QdFA4c080QVJxeVJkR3J2UWRvY3A3bWZwWHhWaXJfU3RhNEpKN0xNcjhqR3ZTbXBROElRb2p2TmVKT3FrT2p2cDlWcnJOYmlSOEFJNkk4WXVBckZiZnN3SDFJU2ZHV2l2WkJOUTl1TjlGUVZBT004T2doU28xSHFiWlUwWFJzM1FkUXpKWEVfLTB1RUVPZjlseGpPcVhxUHZQa05IdHhBWVYzWVJ6ekZQVFg0TXNsaTVyTG5ra1htbGRfZlhIVXlWSERTRXIyRGVhYW1xTlplRG5R?oc=5",
-        "source": "MEXC",
-        "published_hkt": "11/23 13:13",
-        "related": []
-      },
-      {
-        "title": "Solana價格預測：ETF資金流入緩解拋售壓力，SOL守住70美元上方",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQN3o4cG4wZE1TZFNKWER3RkJzTlI3dXV4MXFfMk5XN2daMS00Z2d3SUVtR1QwRHdTSmJCbFlzU0dZcFo3Z1QzQ2JxbHJzNFdnUnpNbEVNbkk1XzJ1UjNvSGNqLTQybnFVUlJYTTlKQVpBZjV3VnU2c1BwQTZTNzM0Y0RsT0ZmTzR5Tm9iNGNsWGozb1BIbGx3MS1aMGJNNVVEdnFqc1hHRGRiRjdISG9XUktvRkh5Zy1tWkM4RXRuNGlXSkFPSVkwMk1SbVNzUkVDQk9kdS15WFhMOEZoZDRSb09qYzdPMk5nVEwyc2V3?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/23 13:00",
-        "related": []
-      },
-      {
-        "title": "納指暴跌 5.28%：Hayes 預警 BTC 恐重探 5 萬美元 作者 智通財經",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wU0ExZjliREtRczY2aWtYdkNQODl4eHdIdnV0Q2twYnFnYzlUOEJGbDdiaUltbFc0bkxwOWc0Z1FFNlVuUXliY2FtSnVCRjV0TjZZMnFoN3pXLVQ5NzZKU18zM1RrQXVCR1MxbEtXUVM?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "11/23 12:53",
+        "title": "交易時刻：比特幣7週連陰、6萬美元失而復得，市場警告5.5萬不會是底",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcmNndlN5eEZhZlgwS0RXUm5hTDBUOXJiR2xiN2phTVBzLUt4UVBISUNEbTVndUNvQXRhc2Qzc3lBVGtOV0RXNVlOWnZLckJubG5pSS0zRTRHVlFRc19mV3UtYzJOamN6R0FZSmdPYTAxMFZVX1hIVXdLZUxqWlNaREVKZkFHdw?oc=5",
+        "source": "PANews",
+        "published_hkt": "11/24 00:39",
         "related": [
-          "QQQ"
+          "BTC"
         ]
+      },
+      {
+        "title": "美股加密概念股走高，Galaxy Digital涨19%",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjVXE1SXhWbXJkbTYzemNOSzYwT3llb1dHMWswcXpzeHBZX2hZUldwUGExWDBUQWZ1NUx2UFZSZE9raWVhUVZuaE1NcXpXeENmb0IzN0IzQ29MWXdPRHhjLXJuNnFDZw?oc=5",
+        "source": "TradingView",
+        "published_hkt": "11/24 00:39",
+        "related": []
+      },
+      {
+        "title": "过去24小时全网合约爆仓6.38亿美元，主爆空单",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oTVY5Y2EySk5KR2RUcjc5aDZGT1k3dUVwT0pVNzJrYUlnaDN5U0dHZk02cF9TbVJDZkJhRWtka1dRN3JqOElnbk8xVDNHcVdCcDdkVG9kanF3Zk4wZmw0NXVNZkJVdw?oc=5",
+        "source": "TradingView",
+        "published_hkt": "11/23 23:30",
+        "related": []
       }
     ]
   }

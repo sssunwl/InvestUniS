@@ -1,36 +1,36 @@
 {
-  "updated_at": "2026-11-23 17:38 HKT",
+  "updated_at": "2026-11-23 23:42 HKT",
   "us": {
     "stocks": [
       {
         "symbol": "MU",
-        "price": "$594.5",
-        "pct": "-13.89%",
-        "dir": "dn"
+        "price": "$713.5",
+        "pct": "+20.01%",
+        "dir": "up"
       },
       {
         "symbol": "NVDA",
-        "price": "$125.5",
-        "pct": "-14.01%",
-        "dir": "dn"
+        "price": "$168.4",
+        "pct": "+34.15%",
+        "dir": "up"
       },
       {
         "symbol": "AAPL",
-        "price": "--",
-        "pct": "--",
-        "dir": "flat"
+        "price": "$352.1",
+        "pct": "+2.78%",
+        "dir": "up"
       },
       {
         "symbol": "TSLA",
-        "price": "$345.8",
-        "pct": "-7.64%",
-        "dir": "dn"
+        "price": "$392.1",
+        "pct": "+13.39%",
+        "dir": "up"
       },
       {
         "symbol": "SPY",
-        "price": "$689.8",
-        "pct": "-3.64%",
-        "dir": "dn"
+        "price": "$725.5",
+        "pct": "+5.17%",
+        "dir": "up"
       }
     ]
   },
@@ -140,32 +140,32 @@
     "stocks": [
       {
         "symbol": "BTC",
-        "price": "$61,509",
-        "pct": "+2.49%",
+        "price": "$63,134",
+        "pct": "+3.89%",
         "dir": "up"
       },
       {
         "symbol": "ETH",
-        "price": "$1,725.3",
-        "pct": "+2.18%",
+        "price": "$1,780.5",
+        "pct": "+3.80%",
         "dir": "up"
       },
       {
         "symbol": "BNB",
-        "price": "$557.6",
-        "pct": "+1.91%",
+        "price": "$571.4",
+        "pct": "+2.74%",
         "dir": "up"
       },
       {
         "symbol": "SOL",
-        "price": "$72.50",
-        "pct": "+3.83%",
+        "price": "$75.88",
+        "pct": "+7.89%",
         "dir": "up"
       },
       {
         "symbol": "XRP",
-        "price": "$0.9380",
-        "pct": "+1.52%",
+        "price": "$1.00",
+        "pct": "+8.47%",
         "dir": "up"
       }
     ]

@@ -239,8 +239,15 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-24 01:47 HKT",
+    "updated_at": "2026-11-24 02:49 HKT",
     "news": [
+      {
+        "title": "女股神不玩了！ARK Invest 撤回兩檔加密 ETF 申請",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVGlXMUVCU3V1V1Q3RUY3ZURZWjNiekt5VGYxTFdPbmhlenRLa1Y1TGpURUQtV043MnVueVRnOGIyQ0R1M2l4S2ktT1NuVG81YmdzOG5oV09qZ0hURzFWaTRCQnFKWFlXa0ZkY1lwR1czU3l5SmlKWHNpbVBDSk1jdUVuUmN0VDZFRFF4SnctemZudw?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "11/24 01:53",
+        "related": []
+      },
       {
         "title": "交易時刻：比特幣7週連陰、6萬美元失而復得，市場警告5.5萬不會是底",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcmNndlN5eEZhZlgwS0RXUm5hTDBUOXJiR2xiN2phTVBzLUt4UVBISUNEbTVndUNvQXRhc2Qzc3lBVGtOV0RXNVlOWnZLckJubG5pSS0zRTRHVlFRc19mV3UtYzJOamN6R0FZSmdPYTAxMFZVX1hIVXdLZUxqWlNaREVKZkFHdw?oc=5",
@@ -255,13 +262,6 @@
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjVXE1SXhWbXJkbTYzemNOSzYwT3llb1dHMWswcXpzeHBZX2hZUldwUGExWDBUQWZ1NUx2UFZSZE9raWVhUVZuaE1NcXpXeENmb0IzN0IzQ29MWXdPRHhjLXJuNnFDZw?oc=5",
         "source": "TradingView",
         "published_hkt": "11/24 00:39",
-        "related": []
-      },
-      {
-        "title": "过去24小时全网合约爆仓6.38亿美元，主爆空单",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oTVY5Y2EySk5KR2RUcjc5aDZGT1k3dUVwT0pVNzJrYUlnaDN5U0dHZk02cF9TbVJDZkJhRWtka1dRN3JqOElnbk8xVDNHcVdCcDdkVG9kanF3Zk4wZmw0NXVNZkJVdw?oc=5",
-        "source": "TradingView",
-        "published_hkt": "11/23 23:30",
         "related": []
       }
     ]

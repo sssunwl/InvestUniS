@@ -247,29 +247,27 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-25 02:25 HKT",
+    "updated_at": "2026-11-25 03:35 HKT",
     "news": [
       {
-        "title": "比特幣與那指相關性創四年新高！VanEck 主管：近期買家幾乎全被套，空單過度擁擠或讓賣壓隨時耗盡",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeGdiWVFJNFlyTC1HWGdXWUZXODg2Q2lYSlBtTF81Z0FncHlaRVhCTmtGRDZuSkVfVjVwTEpCTXUxZDlnNGtCbmQxYUJ4T21ITkRCdTRXaVhmR19YSndKYm1yNWtPQ09USjlIM1RPdFIxSkcwYTgzcDVhSFZTMnRuOHZTV0lwNXNXdnc?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "11/25 01:55",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "富達開放 AAVE、LINK 與 UNI 交易！Fidelity Crypto 與加密退休帳戶同步上架，支援資產增至 8 種",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iRDhIcHZqQ1JaWFFwWW4wd0tjRE5VaF81SThZUEFjS0ZmSjJMNC1peDY5VVNBeTcxcGhaQUhReVVHZEM4SXhpX2c3Nzl4cjNOOV9nNVR1ck9Tb1ZaSjcyX3RCRkpDajNlQXc1UXB4VE1PbnRYXzBEMg?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "11/25 01:37",
+        "title": "The Juggernaut 今日價格：台灣的 JUGGERNAUT 兌 TWD 實時價格圖表和市場數據",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBET3JFVmI2d3hZSVRLeHRCR2xQUmVOaVBUUWV5UUxwc3hNU2hkNDhpX1pCM2F4QkZhOHVIRnV3akF2b3F5NlZRci0wODRpOC1TM0dJR2RvZTk1QTA?oc=5",
+        "source": "MEXC",
+        "published_hkt": "11/25 03:00",
         "related": []
       },
       {
-        "title": "俄羅斯開放加密貨幣交易，莫斯科交易所12月1日啟動試點；XRP另闢蹊徑卡位",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pR2lCYzBtMERCbWljMFkwNXVhV1NNdEgwal9ieVU5MkhtRllEVjdyemNVZk54ekR5cHkwVFBkN0lfSDU1d2tlQUpaZU94OHlzLURpRzNDc05fWXNnYXBhb3pEbUk3bFd0VjZDU0JOMEhJVzctMm5rYkZB?oc=5",
-        "source": "BigGo 財經",
-        "published_hkt": "11/25 01:35",
+        "title": "XEN Crypto 今日價格：台灣的 XEN 兌 TWD 實時價格圖表和市場數據",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaODdwQk1vMFdodktkZEduTTd4bF9WZkpMa084UldjRjdTY2pUX2c0REZVRUdYQ0Y5LTNGUm9KTFk5dlJ2czU4WHp1eHpVODdCanlrVHV3?oc=5",
+        "source": "MEXC",
+        "published_hkt": "11/25 03:00",
+        "related": []
+      },
+      {
+        "title": "STAMPY 今日價格：台灣的 STAMPY 兌 TWD 實時價格圖表和市場數據",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zQmE3Mks2b3h3c09KRXJqSW9PZUNsYlpZcU1SNzFLUzNCTHVkN3BYUi1LZndHVDBiTjVRdWRSY3JOaG43eTM4b05pWTdUZ3ZI?oc=5",
+        "source": "MEXC",
+        "published_hkt": "11/25 03:00",
         "related": []
       }
     ]

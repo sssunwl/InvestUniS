@@ -94,34 +94,32 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-23 16:30 HKT",
+      "updated_at": "2026-11-24 18:18 HKT",
       "news": [
         {
-          "title": "恒指收市跌27點 北水流出96億元 科指破紀錄連跌9日 (16:10) - 20261123 - 即時財經新聞",
-          "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPRTJONjBINjEzZHpzdVAyUlBxWTJlTm4xWnE1Z2pyVW85eUUwSVoybFpMSXR2Y29UbHVwR1k3dzhJVmdzalA0Z0s2TEVPaEE1NVN0WnJhZEdacGdmeEQzd1NtNmt1dnVXZDJzX3VrNFhvTUJaaTUxajFkYTA2R3B6Uk9jSjN5VGE5WjJmZlhmQ1pFbDJaYUxiSlR3WkI4RE9fRF81WTRFS1hydzVxWEFQYlh2SjQ2R20tNVRFNXVaYXRxcjJtb1hoeS1aUkUxOTY5R2psbWxXMTQyQVR0VkhWU0Z2T2xPaHdyTGVXWnVmVEFZRVVRb0c0ZHJzWUFHZC1pazFzTkE0Z19uNzBBYmZhUFFDTjRsTHhXZ3p6UkNBM0xmLWJ5UmprNmxSUlB3YTJ2bDBEblFOM2t0XzFlN0hOMGh2VEtBNzNiY3pPQkVlcC1Bemw5czgwTFBtLXQ4NmpMZ1g0aGMxbTlCT1U?oc=5",
-          "source": "明報財經網",
-          "published_hkt": "11/23 16:20",
+          "title": "美股大漲港股連6黑！ 恒指收22219點 小米財報前挫3.7%",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDam03cUJRSnFFZmk4Z3pxNXVJNHZza09aMjR3eXVqYTNUQkRONHpuUEJoaW1jWXJiYlYyazNtbnhHQ2YyR1dqZE9qMllhbkpoRDRmWXk3dDRoQXYwVGc1dW5nenRMbXlaTHk2SlJYOXJRVlA4UlA0?oc=5",
+          "source": "VOCO News",
+          "published_hkt": "11/24 17:40",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "【港股收市】恒指拗腰微跌27點 聯想反彈7% 蔚小理跌近4%至逾6%（不斷更新）",
-          "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxQZ2FuZmlSWE1UUXR5Z0k5MzZOQUw3MnU3MUJkNWZZNUhEUTVqeGdBLTBVU0hnUHFFLWozTmY4Z1duM3h0UE5HempPemh4Q3VRX19Da0lHM2poUlhleTd2N0k1NlZ2T1RmUy1QcUFaTWl5dW4tZVJYd0lMZng1QzJMM2dIcHRaZUhkY3RyaU05UWFhUFlIamRPeWZESjFvRUZxWlBmSTJJd3pUSzdwLVFZakRwcW4xc050YW9CNHkwc1p5SkphOTZPZWdhXzJ2NUZwbzFzYUlKVXlnaW9ZTXloRDd1cDBDc2xfZUJ1dnBqUEJDUzBjODFQaE9nOENYQUNBeXBLdkkwTUE2MmFBRVc3SXpzT2dUaF9kajlKVDBYLUNkSGtTb0paSFdGQnRRSHBNQ1picTdCS3FSUDVYTGV4QmpNRW5EcFVHc0ZWX3ZaU0FodWZWRWFMLThwYXlYWE5US2J1ejlkZXJYbDl0TVdMSGhnX1dSNGlTRUtHMDJQUDUzZlBZOUdIOVRsdXdQU3lfNS01YWRjM2tmb2JtZWZqOGJpV2tIeHZlNWc0TkxXY1g4UUpITk1kejFDVmhJN1pEZk9lWUhxbndwcXhZanZwYkNadE1QUjMzU2Rv?oc=5",
-          "source": "香港經濟日報HKET",
-          "published_hkt": "11/23 16:11",
+          "title": "亞太區股市普遍大幅回升 唯獨港股向下恒指連跌六日",
+          "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOYTUxdFV4WDBibVJONWVKVE5WbzBqUkZhRWNmTXZpWjByYldaSkN2dGVvYVZ1UDZONWR6OS1HTTFzM1JfakVNY3VJcC1vSUFJakJPblQtZUJnTEYtTkFQdWJ2NGo3OUJUdGppM3R2dlZkOTA0d3FzS2Q1aXd6TjFuaDdNYlFoN0V2OW0zN05Zc0hLeWlnYnM3Y2RjdHhoSUt6c25JMFhiM0R2VFI5S3I2NzJhNjltdHB0Q1dUOXA3TkVKeG15LU1YQTNOZ2FCTDhhTWdfZ1Q2OWlWNWhZQkhwMVhnalo3WkljN2ZyMzhjcDVKRGhLRk03WGFNQ21TQ01ZbVN5NUtLQkVlZWtmc2hPSlFVVzYzMUZWYXEzcUNHWWNEbmZJSFBLUEhRRzFUZV9EVkZ5eEgyZUVuWkMycmw2eVhPZ1JTbjYwRW5uYkRBbjNRQkNjV3BDVGd4MA?oc=5",
+          "source": "TVB",
+          "published_hkt": "11/24 17:36",
           "related": [
             "^HSI"
           ]
         },
         {
-          "title": "港股午後進一步收復失地 恒指曾倒升逾10點",
-          "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNQmV4TXZMT180NW9NcHpuLURqOEZVa3BKR2hlNTVDWXZ0TkFMcDhpUnlBakt6NzV5M2VOZWtscmZRYl92RXlydlY4QlFDQWpIYlpRb2Y5ZGlGZHFkM2RGM2pHZHl5SHV1SzRsT08xaWtRa2dQZlk4Y1Rsck9HU1IzUk1uV0MxMF9QSmVfVUIyUVk0RFZDMk1WbDVCUGdFQmJUZzFfSVE0aHBzQ2hDRVc4a0dmRm5JRkU1bFJIQ2ZDLWdEQVgyTDVVbkcxSmdLeHA0Yld2ek43WDktc0RVVy1Ybk9LRF83QVNMXzlZR0ZjUVljdTRJYnBhQVZXMkx0REVjM3ZoZmlJdDVYOVpzeVNlVW1BRmxkcU9vY2JwcjNxZ3Rka2JickFzUnBzS0ctUTdwaHB0V3VYNzZ5UFlBaEhhUFFR?oc=5",
-          "source": "巴士的報",
-          "published_hkt": "11/23 14:05",
-          "related": [
-            "^HSI"
-          ]
+          "title": "全球大反彈港股獨憔悴 阿里子公司被美國列入實體清單 小米跌近4%",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPQmRCUDlpVU1DNFd2ZVd4bk5oRGliUTlXMW9ESzBtWlNlbmxkMXYyeGhZRmxGRW1Oa2piTmxBNExTOFRxMDJQVGp3MTNRNUNqZDgzdUppRGlELWhEWlFXUFdPdUpwODdMdDg0OVpnMEl1T3lBak5zZG1tV1lGZ0kwS3Ytc0tMRDdDTlRBcDMxZ1RUTE5ZYlhGYkF5aTZmNHRRc1ZnOEtNZnUwWUdsRHVVQ29ER3pneDI1bGtpamctcjZzcTg4VEVBenZaWWtzSGR3V0tpMEJGWDFZWGoxMlhxUGxGeFdya25FWGhCM1BEV1RCc0tXMDRuTDdjb1ZudFJyVHIxSk1TOVFKcy1lV0U5b3FUd1RxaTVOZzA1eU02WTlyZEJhaXdlaWlTeEVYdw?oc=5",
+          "source": "BusinessFocus",
+          "published_hkt": "11/24 17:00",
+          "related": []
         }
       ]
     }
@@ -160,32 +158,30 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-24 14:58 HKT",
+      "updated_at": "2026-11-24 18:18 HKT",
       "news": [
         {
-          "title": "【11/24台股收盤】輝達大漲31%，台股飆3,310點重返4萬",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aUUI5Y0ctdEFOQjRhV1R2a3pNX0VJaGxycVB2bEk5dDdaWXZDcXlnQWtZTE1BWnhMZ3FSOERoMjVCMW5GU2tOb05MYlQ0bTFaWTNjU2lvcTU4XzRiaUFVb2JrWmo2V0ZUZmxYbEFaMXR4dw?oc=5",
-          "source": "口袋證券",
-          "published_hkt": "11/24 14:50",
-          "related": [
-            "NVDA"
-          ]
-        },
-        {
-          "title": "台股史上最狂一天！暴漲3310點刷新紀錄原冠軍退居第二| 財經",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xRmpNc2JiaWFDM1pMb0I4OU15ZmNYMXRXSFZWYWdmdlJoMWlON3VNRnBPX2JFMEk1U3hQZUEzOGlMZjRRcTd6ejZKb1lRTzhYU2Y4NGc5LVN1NEU?oc=5",
-          "source": "Newtalk新聞",
-          "published_hkt": "11/24 14:42",
+          "title": "黃仁勳回歸！台股狂飆逾600檔漲停ASIC+低軌！下一波主流股出列！",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zVkVYcWNfTTRpd203Q3NMdnJ6SHhQWjNISjdydjdMOTBzSUh0QWpKUTFSajVjYVVGNUstUHZoU3JvM1VadFVNMmh5bmxmVWM?oc=5",
+          "source": "鉅亨網",
+          "published_hkt": "11/24 18:14",
           "related": []
         },
         {
-          "title": "TWA00 加權指數- 黃仁勳引爆台股史詩級反攻！ 政府護盤見效- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DX3pLT3BNbjRwMlFSWFVwVEwwQVNzSUo4bEkxTG9YRWVGYUVMQUVqUndKalY3MlBxbnhSMVhKZlMtS2NLdEllVDVCR1NhNlAwYlZFMm51bDQ?oc=5",
+          "title": "TWA00 加權指數- 盤後紀錄及早盤當沖選股補充！11/24 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pTUo3OFd6UmVhRG1ZUVY4ZUFlWFZySHYzZkhNdGh6RjBiLVZNdnNNaUFWRkdGMHFyQ1EwRUZXTDFQTmROa2xxZW5MYkdWZHJyRDdwUGhCaU0?oc=5",
           "source": "CMoney",
-          "published_hkt": "11/24 14:37",
+          "published_hkt": "11/24 17:26",
           "related": [
             "^TWII"
           ]
+        },
+        {
+          "title": "黃仁勳重返台股噴3310點！載板、被動元件套牢族別急賣　專家：還有2根",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9aQXIyU2QyY1hBUWNGN2lsV0pWZU1OV3JoOEotcUpoMEJOM2NGUlh4X3A4bkVob1prUEs1VlZWalZuRFZNMXhVdtIBTEFVX3lxTE9zT0tjZkd5eGFmZTBFZEJwTGlqaDJRbW9MRUpKeC1SQlh1QkhxRG93dDdMM0ozNzR2YVg5NGlFSnI0ZnR2ZE5IbWxjTHc?oc=5",
+          "source": "三立新聞",
+          "published_hkt": "11/24 17:14",
+          "related": []
         }
       ]
     }
@@ -220,42 +216,47 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-23 16:30 HKT",
+      "updated_at": "2026-11-24 18:18 HKT",
       "news": [
         {
-          "title": "觸發熔斷，韓國股市上演黑色星期一",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE55WThsT19vWEVzOGk0Q3d6TXk1cW11Z20xc19aSXRkT180TmF4ZElPUURJREdHNEhtYXlSUEk3VnlYX3lQSElLRA?oc=5",
-          "source": "鉅亨號",
-          "published_hkt": "11/23 14:28",
+          "title": "亞股收盤／台股大漲近9%、韓股重返5,000點 黃仁勳回任帶動晶片股反彈",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHM1l6VHJ0bkdCQUdPRDBBT2phZWw3T2xvMDZ6LXBBSTUzSDdjalRoRDJpS0tvem5fRlBGNEJqcUh6LWNVbFQ0b29CZm9ZanItZWlrR0NB?oc=5",
+          "source": "優分析 UAnalyze",
+          "published_hkt": "11/24 16:01",
           "related": []
         },
         {
-          "title": "韓國出招救市未止跌 恒指低開242點 阿里挫3% 多隻科指新貴捱沽｜港股開市",
-          "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOdUNELWU5dlZUSUZJQW1NbTl1RjBQSnotUUZueHZJVEtSRlJmMkNyMDctWmxHbUtXMHRXeWdUandMcmk5OUMxczFCRllNNXlGU2pMakFEMlU5X3cwdzRGTGNWWHJ2VUluN241ajZDUjhzdzVtZll6UUxCdkxkYWNDeGh5c2tzNEpuYzVFQTc5VjdxbjRUcU5oYUNqSjBfSGNyUVZmenlfN1NkOUQtOHI4MFpMM0ZwUmYxQUxlbEhrUlNJeU9mZFN4bGFHNjR0Q1RJUWxpQU9HVnR5clYwU3RBTXRhc0I1U0ZWWUJrZ1N2SFdEemRnNlJCUE1qV1l0VU42RXRqTEIwSUFEZ1RTVzZZNzFnOHQ1Qk9ZVWtYWV9mUmozSmlrdmVXZFotRl80clJ1SFhXd3dnUmxVOEVhdTkzbjBsVDNxV25xb3c0NFVMb01KQUlYQzE1S2NTQ3JYbXpna202ay1RalFpY05kSHNqNXo0azd0aWJlNXlCUE10Uk92ejlacDFBVVphVE5qeVBzV0x5LVdfY2hKUGlVbzhWTktGUEVpaXllT1g3S3QwTkdiNzlJNllabVlDRmJ0WjlJQXk4Y1lfQUNabHYyODI3ZWUzZ0pXQTJhZVBaVVpEdmJjZmt2TExpVVJR0gGKAUFVX3lxTE52VHZZYTRPYkpVY2ZseFJkNC1JUXZzYWdiWkJYajU4RzJVVjYxMXJKNXY2akp5OHRIckN3enlocmR4UUgyYkIzMG9TMUxmWndLcFRweXJ3Q3Z2U21vREVWU3RLZVBIc2J4ZW04dERTeTNlUjFtOUJEdXptZUVNcGlNckYwaFluRlNQQQ?oc=5",
-          "source": "Sing Tao Daily 星島日報加拿大",
-          "published_hkt": "11/23 13:25",
-          "related": [
-            "^HSI"
-          ]
+          "title": "黃仁勳回鍋引爆亞股慶祝行情！台股飆9%韓股漲近7% 台灣被點名最大贏家",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HZ01HT3F4dWdMMl9weVRhXzBtdTZrS1hIaHdCQk1sTFJmdWFSS2lkY280RFducWZRdUZGbXJoa1pQeEVvMDZsdW5zVkpKdmM?oc=5",
+          "source": "鉅亨網",
+          "published_hkt": "11/24 15:30",
+          "related": []
         },
         {
-          "title": "中國信託證券投顧：台股低檔多空交戰 靜待 AI 利空鈍化",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zV1VWdzA2TGd4T3l2Qm96WVhSVHo0Qi1KQURPczdHMXNaS0xTdlpBcXZDNjhqTy1mbkxuakZXUDRUUGVKemRYSjYzNktiZk5W0gFWQVVfeXFMTXNZN2VFVWZJV0pUblY1NF9JQjRIN2dwSDNuMk9PWUJvZVI1ckxYUmpmSFJTXzgyWlRna2hScjlQMHF2d1F4TW1DZ1Fad3dabEUzbnRKR1E?oc=5",
+          "title": "黃仁勳重磅回歸！亞股普天同慶 日股飆逾2200點、韓股大漲6%",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtLXdGVEliSFoyZnZGNDZVWUpOaTl5MVJFVEFybTZzS3VTUDU2ZkdlellzdWR2NTNlUnd5ejUtSUNJYmRwTDN2NFZNRC1vZjFv?oc=5",
           "source": "UDN",
-          "published_hkt": "11/23 13:21",
+          "published_hkt": "11/24 15:28",
           "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-11-24 14:58 HKT",
+    "updated_at": "2026-11-24 18:18 HKT",
     "news": [
       {
-        "title": "Bitmine Immersion Technologies (BMNR) 宣佈以太幣(ETH) 持倉量達609 萬枚，加密貨幣以及現金與有價證券總持倉價值達111 億美元",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iSWExZ3llUGczREkxczRPQ1VPLXhaYm1mc1RJWjMxa2xCVXNQemZQeDNhdGEyZjBaMHc3cnpzX0FKUmJQeWxORDJFcTVuUQ?oc=5",
-        "source": "newsdaily.tw",
-        "published_hkt": "11/24 14:06",
+        "title": "「由你駕馭AI」：陳智思與香港思貝禮國際學校座談會講者指出，人的特質將讓孩子脫穎而出",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaV3RmaTVsUXFnYXRTSW1PTjJrXzdLWjJOQmRmekZ4R2ctLU1ZeGVSeTRfQkE1dlZJMkE5YVJJMldCWjBLbDVETzVBT0pCRk1qRktweDI3V2pTZDJMZVE?oc=5",
+        "source": "鉅聞天下",
+        "published_hkt": "11/24 16:00",
+        "related": []
+      },
+      {
+        "title": "Bitmine Immersion Technologies (BMNR) 宣佈以太幣(ETH) 持倉量達609 萬枚，加密貨幣以及現金與有價證券總持倉價值達111 億美元| 全球企業動態| 商情",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80MzE5bEl0RHdidFJjWEZRd2lXRzFxN3RIWUpNdFVpeWZZZFd5TDFQZkh0VFJKRk5kVTJJbkduQVZpbjlzcm5IaDRzQ0pCNG5qam80RGEyNndDV0Y1Z09hVEFvMWMzNWEyZms2S2FQcFM1UG90TzZaMUhB?oc=5",
+        "source": "經濟日報",
+        "published_hkt": "11/24 15:00",
         "related": []
       },
       {
@@ -266,13 +267,6 @@
         "related": [
           "ETH"
         ]
-      },
-      {
-        "title": "知名投資人史蒂夫·埃斯曼批加密貨幣毫無價值 未通過避險測試",
-        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQbTdqMzJvRUw3Qk10RklDcmVCMkROLXRIWEVDVUoyT21NRk45M2tNN3Itbmtpdm42QzRhSE9XQnA2SmlxdVlON01vYTBNUHBkWWQ2T0F1YVZ5TEdGeVI1VDJTWmVKWmFQSGxxdU5kdXNsSWFBblYwZS1ycEl1NWRjNWdLSEZxNE5ybW9ISWpPSnJhc3QtcEZQODliN1lpZzRaSm1haTNGS2RZZWZoYTBkVmJtWm91SWV0S3UwUlpBczFWOHlaZlFoNDlrQjQ2eEpaWlRxdGpoUDQyYUl0LS1GNXlkM0JHckpGZEwtMG1Qd0Y2YnZqUTNwXzJTX3lmYkVjM3RLTmFRODJEZEZMbzBfRGRCdzh6NUFYV3lCV3hZWEJrcm9vcGpNRGx3Q2V0V2kxUGtnYXIxREZNRWxWc0hPMFROV25tZVhTNFhZRGxnQ2RERW5lbmhMemhaRE5yMTlXX1JscDdpc2NUSXNLazA3SDJzVlFmNnlBeHROemVPSW5uZUlWaTRPWEpoOWs?oc=5",
-        "source": "LIFE 生活網",
-        "published_hkt": "11/24 13:19",
-        "related": []
       }
     ]
   }

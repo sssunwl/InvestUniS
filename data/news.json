@@ -247,30 +247,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-24 18:37 HKT",
+    "updated_at": "2026-11-25 01:19 HKT",
     "news": [
       {
-        "title": "Bitmine Immersion Technologies (BMNR) 宣佈以太幣 (ETH) 持倉量達 609 萬枚，加密貨幣以及現金與有價證券總持倉價值達 111 億美元",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2RlloNnN2dTFXUWtmTXZta1dUXzVObUYxRExtTUQxcEZGNF9pdERBOUc0anVscGNiTFlzOVJ5ZGZad0NaSEQ2Mk9YWWttNy1EOWJKVC1Wa2dRX05zbU1MMmF30gFiQVVfeXFMUHZGWWg2c3Z1MVdRa2ZNdm1rV1RfNU5tRjFETG1NRDFwRkY0X2l0REE5RzRqdWxwY2JMWXM5UnlkZlp3Q1pIRDYyT1hZa203LUQ5YkpULVZrZ1FfTnNtTUwyYXc?oc=5",
-        "source": "經濟日報",
-        "published_hkt": "11/24 15:00",
-        "related": []
-      },
-      {
-        "title": "《富爸爸穷爸爸》作者再次力挺直接持有比特币和以太坊，警告经济崩盘或甚于2008年",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LQ0lrOUxXR0VfY2ZJcGhla1Fpcl9nZWcyNXczeHJzOGNzYzYwanVjNFNtZVFBU1ZfdGtWN0pOc0hxX0lZOXpnd2dVcmt2R2NvcXdyUElES0dnWk52NTJOeXhHUWxzZw?oc=5",
-        "source": "TradingView",
-        "published_hkt": "11/24 13:31",
+        "title": "Anthropic 正式破發！美股開盤後 AI 晶片股大跌、加密概念股同步承壓，比特幣險守 6 萬美元",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYVZ5YmtReEc4OEgxa3hKODd5dHhnSlBtaVpLakprTDMwQWNkZktkdDNfNFlvX1B1WG0xNlJQMl9nWGhlZmVvWEZUUWxSeXoxZ3NmWE5HbENqVFZ3dTVQam1fQnNIemhQUXdtWDhzMjN0dXhDelhvV3RGUGZ6MS1Ib0dyU0FnUQ?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "11/24 23:09",
         "related": [
-          "ETH"
+          "BTC"
         ]
       },
       {
-        "title": "黃仁勳回鍋帶飛全球風險資產 「它」卻未蹭到AI狂歡熱潮 何時才能獲市場資金青睞？",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Hbmdla0x6VmJpRFhzdnVDNGllUXctU3JxSHBkT3dNRjZzdmphbnpDcXBHclg4eW56ZXhucW94TFozWElsVkUxYnpETQ?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "11/24 13:00",
+        "title": "莫斯科交易所預定 12/1 開放加密交易！但 USDT 買家要支付 22% 增值稅",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YQWJJbDVZUUhTbDd1TzhkQXZLYmdOdzVaX2p5QXhWZVNjZ2VWRlJJRVlESUNsVWRyMG1OOTNLTDJDdVpZUXlYa3VHWEJMeS1tUk9sUDh0c2NHSHRJVHZYRENaOEVLdw?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "11/24 22:54",
         "related": []
+      },
+      {
+        "title": "美股股利自動轉買比特幣 新型ETF降進場決策門檻",
+        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNNkk4dlotSktIUUdYX2ZJeHlESEdFcHM4LUljN3U4NU5IZ3UzUGZhM24tVVpNbmwtZ29xNlhhSHo0cFJRdzgtT3hSR3k3T005aHRZWlgzaTN6U1U2ZnFTUEl2QzZnZFBWZjZuQlFaSl9velpSUW9TQUx0RGxFNUhpMTJPQlduOVdoTm5oN0dsUVZFQjVwelV4ZTFaX1dPbjRTUmFZMTRrRUNzMVhPd3IxRkdxRDUwXzBNbUNaaHJDZ2VicF9kdk9MdW9TYWxQSEY2X1RBX2o5NTZHR1FyRXdkejIxZVBzRkZoSjUtcnJLNWstTXBocXpiQnlqS19oNzUzTzF1Szhqd1E2d2xTQUlJOVBsSlBIY2ZTQ1Y0VUg4bzQyNy1jUHozWFpab1k3bm1iSFhEWVNQbnRLeGlG?oc=5",
+        "source": "LIFE 生活網",
+        "published_hkt": "11/24 22:52",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

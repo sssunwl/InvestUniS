@@ -160,27 +160,29 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-23 16:30 HKT",
+      "updated_at": "2026-11-24 14:58 HKT",
       "news": [
         {
-          "title": "賣AI現股換正2融資拚五倍？當心！正2斷頭又把AI賣在阿呆谷- 基金",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtRzZqVnNJeERWWWM2UXh1T24taVpMellVRDBma3Utam9vWlBoalZobnFWUUdDbzFfNDNPbnZ2VFR4UGZqVzNZZnhNRWppUWlqeFRtNmFLcDd1YWpHNmdXYmRJSFQ2cUd5SVE?oc=5",
-          "source": "旺得富理財網",
-          "published_hkt": "11/23 16:21",
+          "title": "【11/24台股收盤】輝達大漲31%，台股飆3,310點重返4萬",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aUUI5Y0ctdEFOQjRhV1R2a3pNX0VJaGxycVB2bEk5dDdaWXZDcXlnQWtZTE1BWnhMZ3FSOERoMjVCMW5GU2tOb05MYlQ0bTFaWTNjU2lvcTU4XzRiaUFVb2JrWmo2V0ZUZmxYbEFaMXR4dw?oc=5",
+          "source": "口袋證券",
+          "published_hkt": "11/24 14:50",
+          "related": [
+            "NVDA"
+          ]
+        },
+        {
+          "title": "台股史上最狂一天！暴漲3310點刷新紀錄原冠軍退居第二| 財經",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xRmpNc2JiaWFDM1pMb0I4OU15ZmNYMXRXSFZWYWdmdlJoMWlON3VNRnBPX2JFMEk1U3hQZUEzOGlMZjRRcTd6ejZKb1lRTzhYU2Y4NGc5LVN1NEU?oc=5",
+          "source": "Newtalk新聞",
+          "published_hkt": "11/24 14:42",
           "related": []
         },
         {
-          "title": "外資咬死台股不放！期貨空單大增5569口 現貨賣超289.4億元",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uVzNyUGNNX0lOUmlSdUJRdHhjdlZEOTJDTWJXV3FaNW1qN0ZYVEhvU3pDMnZ2MzRPYmlrZ3lsNVVRM3lNVjFwUGp0WTQwQmVkZGVxNURhcTY?oc=5",
-          "source": "自由時報",
-          "published_hkt": "11/23 16:13",
-          "related": []
-        },
-        {
-          "title": "TWA00 加權指數 - 那指期續漲！ - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5abVl6a3BBLTRUZXdUSDZoeFFIMl9OdWlzYXM0OThxNTVBM2NSUmE0S1I5aHVNaFZZRkxUX3JHWmxXRWpnUmdtZ0lBUnVTaFNsVm03dG5OMDk?oc=5",
+          "title": "TWA00 加權指數- 黃仁勳引爆台股史詩級反攻！ 政府護盤見效- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DX3pLT3BNbjRwMlFSWFVwVEwwQVNzSUo4bEkxTG9YRWVGYUVMQUVqUndKalY3MlBxbnhSMVhKZlMtS2NLdEllVDVCR1NhNlAwYlZFMm51bDQ?oc=5",
           "source": "CMoney",
-          "published_hkt": "11/23 15:41",
+          "published_hkt": "11/24 14:37",
           "related": [
             "^TWII"
           ]
@@ -247,32 +249,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-24 08:38 HKT",
+    "updated_at": "2026-11-24 14:58 HKT",
     "news": [
       {
-        "title": "美CFTC发布指引：衍生品平台可将部分加密资产折价计入运营成本所需财务资源",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ScTVkeGNGY2ZacnhOcEZkNU1nUU5DWVAyQXNfdW84MHRxb19PMkl4eTZ1ZmRpSnpPV0dCUUxfREZjMFl6cV9TN3pYb1IyT1BBUnlyUEhtcEpQLUtCQjI0SDBXdUljQQ?oc=5",
-        "source": "TradingView",
-        "published_hkt": "11/24 08:36",
+        "title": "Bitmine Immersion Technologies (BMNR) 宣佈以太幣(ETH) 持倉量達609 萬枚，加密貨幣以及現金與有價證券總持倉價值達111 億美元",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iSWExZ3llUGczREkxczRPQ1VPLXhaYm1mc1RJWjMxa2xCVXNQemZQeDNhdGEyZjBaMHc3cnpzX0FKUmJQeWxORDJFcTVuUQ?oc=5",
+        "source": "newsdaily.tw",
+        "published_hkt": "11/24 14:06",
         "related": []
       },
       {
-        "title": "快訊｜黃仁勳正式回任 比特幣半小時飆5.7%衝上6.45萬美元",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9leHN4bXFRbnU3a2EwX3dJSEVJRVk2Vm01V3EtOFd6WEFYbFd3MllkSVA4NTNqdDJydzJ3ZEJrdTdSc0F3eW1Ub28tbUVnYVk?oc=5",
-        "source": "天天上新聞",
-        "published_hkt": "11/24 08:15",
+        "title": "《富爸爸穷爸爸》作者再次力挺直接持有比特币和以太坊，警告经济崩盘或甚于2008年",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LQ0lrOUxXR0VfY2ZJcGhla1Fpcl9nZWcyNXczeHJzOGNzYzYwanVjNFNtZVFBU1ZfdGtWN0pOc0hxX0lZOXpnd2dVcmt2R2NvcXdyUElES0dnWk52NTJOeXhHUWxzZw?oc=5",
+        "source": "TradingView",
+        "published_hkt": "11/24 13:31",
         "related": [
-          "BTC"
+          "ETH"
         ]
       },
       {
-        "title": "黃仁勳閃電回鍋輝達執行長，費半飆逾14%，台指期夜盤漲3,170點",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nbUtGWk9Wc1dFRjdIY05ySWRKOEN5UmJNU0pVWkFUZWQzakNHYmZRd3JjaE9QWGwtZmE2QnVRSVQ5UjV6TVh6ZnBucWt4MWVlSGtPMDdoSTVfNFVMeGhpY09R?oc=5",
-        "source": "鏈新聞 ABMedia",
-        "published_hkt": "11/24 08:03",
-        "related": [
-          "NVDA"
-        ]
+        "title": "知名投資人史蒂夫·埃斯曼批加密貨幣毫無價值 未通過避險測試",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQbTdqMzJvRUw3Qk10RklDcmVCMkROLXRIWEVDVUoyT21NRk45M2tNN3Itbmtpdm42QzRhSE9XQnA2SmlxdVlON01vYTBNUHBkWWQ2T0F1YVZ5TEdGeVI1VDJTWmVKWmFQSGxxdU5kdXNsSWFBblYwZS1ycEl1NWRjNWdLSEZxNE5ybW9ISWpPSnJhc3QtcEZQODliN1lpZzRaSm1haTNGS2RZZWZoYTBkVmJtWm91SWV0S3UwUlpBczFWOHlaZlFoNDlrQjQ2eEpaWlRxdGpoUDQyYUl0LS1GNXlkM0JHckpGZEwtMG1Qd0Y2YnZqUTNwXzJTX3lmYkVjM3RLTmFRODJEZEZMbzBfRGRCdzh6NUFYV3lCV3hZWEJrcm9vcGpNRGx3Q2V0V2kxUGtnYXIxREZNRWxWc0hPMFROV25tZVhTNFhZRGxnQ2RERW5lbmhMemhaRE5yMTlXX1JscDdpc2NUSXNLazA3SDJzVlFmNnlBeHROemVPSW5uZUlWaTRPWEpoOWs?oc=5",
+        "source": "LIFE 生活網",
+        "published_hkt": "11/24 13:19",
+        "related": []
       }
     ]
   }

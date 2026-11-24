@@ -32,30 +32,34 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-23 11:49 HKT",
+      "updated_at": "2026-11-24 08:38 HKT",
       "news": [
         {
-          "title": "美股、黃金、比特幣罕見同跌超 3%：上一次還是 2020 年疫情熔斷，槓桿風險仍未出清",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3X3N6dE9YMzAtRGo5OWNFZVdmRlY4QlY3eFk1TzBRM3BmaFJMbENPVGNBcFY4UHIxRkxmRmc1Yy1zRjZVb0c5NjY0YW5WcnFlWkhweVFBZjA5LUE0?oc=5",
-          "source": "深潮TechFlow",
-          "published_hkt": "11/23 11:45",
+          "title": "黃仁勳回歸引爆美股！輝達市值暴增近1兆美元 那指一夜增2兆美元創紀錄",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RdXhmYXVIbXhQUzdrMEh3aTdnWTdYRnkzY3RQc2IyaHhKcHBhTEtSM2VFUFQ5MFp0UVJYQlBLbUV1UFQ3bmk0QXdDZ3k3R21haHpiWnF5VEJGREsyYmVJ0gFkQVVfeXFMUFpBWmVqUkxKTmkzdnJSZGw1OUttaWJ1a0Z5WjFiTlVLMUZtMTBiLXM3RFBaaV9UXzF6OTh2SGZ1V25HZHlqdmFsQmhUR2RrajVUMGIxem5zU3ZhSURIYjF4R3Bidg?oc=5",
+          "source": "自由財經",
+          "published_hkt": "11/24 08:00",
           "related": [
-            "BTC"
+            "NVDA"
           ]
         },
         {
-          "title": "美股恐更震盪！VIX飆近40創2025年4月來最高 選擇權交易員積極備戰",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91MFJEenhWbXJtdjV2YlN2ZzRrSURpRjN5dGJTTF9LRk1tVVpTUTBfSUxuZWdQWERlWThGdnVLaDBRZ0w0LVo3dlYtQnA4b1E?oc=5",
-          "source": "鉅亨網",
-          "published_hkt": "11/23 11:00",
-          "related": []
+          "title": "黃仁勳回鍋輝達掀美股狂潮！輝達暴漲31.48％ 費半飆14％、台指期夜盤衝漲停",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hcnduWHpUV2pocGNyS0dSTlpGSXBCQjdXS2lPbUl4azlWMk50NDlyLThNQ0w3ck9fMU44NXowYW9oWlRZSXFPNzFCNU85Ri1wUGR3RWp1YTk?oc=5",
+          "source": "梅花新聞網",
+          "published_hkt": "11/24 07:40",
+          "related": [
+            "NVDA"
+          ]
         },
         {
-          "title": "AI概念股重挫拖累亞股 美股期貨反彈各國急護盤",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XZHF3dVI5cldiX1pJejRZek1uRE1VLTlHTDg3TG9VeWhmbWx2N1hCRjZrOFVyU1EzREJMd1VkN2ZuN3AtU09qZmhkSDlnTG0zbG5teUk1NHJuS2Q2MWhrTklNd3JaQQ?oc=5",
-          "source": "民視財經網",
-          "published_hkt": "11/23 10:33",
-          "related": []
+          "title": "《美債》黃仁勳重掌輝達美股強彈 殖利率回升-新聞內容-基金",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLVBjMDhzUGJKdTZ2WkttbksyWDdZbE1Kci15XzlWdXp5cG5jbkJLS1lNTlgwOXV5YVJ0N2l6bVUzNEl5VXdkQVN2UnpNa1NhV3FHU1JoNl9aRzZ4UUVjNjBMRl9kc2drRmVzbGEyNEcxU3RuX3F1RmlnbENfNmNFa3NlNTR5cGF4Mm12Wm4zdzQ?oc=5",
+          "source": "MoneyDJ",
+          "published_hkt": "11/24 07:09",
+          "related": [
+            "NVDA"
+          ]
         }
       ]
     }
@@ -124,27 +128,31 @@
   },
   "tw": {
     "pre_market": {
-      "updated_at": "2026-08-05 08:51 HKT",
+      "updated_at": "2026-11-24 08:38 HKT",
       "news": [
         {
-          "title": "朝萬元大關衝刺！「AI伺服器導軌龍頭」股價創高、90狂飆162%被盯上友訊、緯穎、奇鋐同列21檔注意股",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5bWJpRC1DSXdSVzJBUDdWTDJVUEtBMDY0V0RQZlpnR1g3NXFvZ1l1SUR0Z3ZKRVNOSXBTa082UUQyemNJNVZTN2NuUQ?oc=5",
-          "source": "FTNN 新聞網",
-          "published_hkt": "08/05 08:10",
-          "related": []
-        },
-        {
-          "title": "早安！今日產經早報",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHdjlkQzNlNVVBRVRaZldEMHdIcjU2dFVMNEtkSFBKa29IOWRWT3FIOV81eXFuUkt3YUo2aUNkYkdKRjV3dEJtTkN5UTNLMEp2N0E?oc=5",
-          "source": "蕃新聞",
-          "published_hkt": "08/05 07:51",
-          "related": []
-        },
-        {
-          "title": "TWA00 加權指數- 美股大漲，台指期夜盤大漲千點！ - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXeHBsSVhLY2J0THRiVzlsUkJZNW9zSkx3SGpHZFp2OXNPUjB0ckN1NGZST09TOVZJcVhSZi1xM3NfdFpjNlVfUjMwSEhhSmZzOFA1UjMtWXA?oc=5",
+          "title": "TWA00 加權指數- 黃仁勳回歸救世？台指期夜盤「一度漲停」叩關40K - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqdkotMm1iMWhEX0tNUnpweXlQZG9nU3dFQ2UwSWVYcHBLN3NITmVPSHJPRnJXRkxVV1lUWUNpUzdwaTk4SGNtWTlxNXhnTWdmeE95WDFLbXk?oc=5",
           "source": "CMoney",
-          "published_hkt": "08/05 01:54",
+          "published_hkt": "11/24 08:05",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
+          "title": "TWA00 加權指數- 工商時報晨訊- 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xYUJLaFJhSVFaSDJVSm4xYUpiVTRuLXphZ0JqRFFNNFNmM2NOSG01T2NmWDMwLVhHOEpVRkJHYTZaLWtpUEZBTlJBdXVWQ1pwV3dxc3dTaWw?oc=5",
+          "source": "CMoney",
+          "published_hkt": "11/24 07:41",
+          "related": [
+            "^TWII"
+          ]
+        },
+        {
+          "title": "TWA00 加權指數- 夜期飆漲. - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lRzNSTUpXaXNpd0ZkY1B6MGVlT2xqd3ZnS29kb0RSWWNtcTZrZEVzYkdYYVMxQ3FNTTROMWRETE9FMFFoR05wQkpaTllDc2dscDIzT3hzN3k?oc=5",
+          "source": "CMoney",
+          "published_hkt": "11/24 07:27",
           "related": [
             "^TWII"
           ]
@@ -239,30 +247,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-24 04:25 HKT",
+    "updated_at": "2026-11-24 08:38 HKT",
     "news": [
       {
-        "title": "女股神不玩了！ARK Invest 撤回兩檔加密 ETF 申請",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVGlXMUVCU3V1V1Q3RUY3ZURZWjNiekt5VGYxTFdPbmhlenRLa1Y1TGpURUQtV043MnVueVRnOGIyQ0R1M2l4S2ktT1NuVG81YmdzOG5oV09qZ0hURzFWaTRCQnFKWFlXa0ZkY1lwR1czU3l5SmlKWHNpbVBDSk1jdUVuUmN0VDZFRFF4SnctemZudw?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "11/24 01:53",
+        "title": "美CFTC发布指引：衍生品平台可将部分加密资产折价计入运营成本所需财务资源",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ScTVkeGNGY2ZacnhOcEZkNU1nUU5DWVAyQXNfdW84MHRxb19PMkl4eTZ1ZmRpSnpPV0dCUUxfREZjMFl6cV9TN3pYb1IyT1BBUnlyUEhtcEpQLUtCQjI0SDBXdUljQQ?oc=5",
+        "source": "TradingView",
+        "published_hkt": "11/24 08:36",
         "related": []
       },
       {
-        "title": "交易時刻：比特幣7週連陰、6萬美元失而復得，市場警告5.5萬不會是底",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcmNndlN5eEZhZlgwS0RXUm5hTDBUOXJiR2xiN2phTVBzLUt4UVBISUNEbTVndUNvQXRhc2Qzc3lBVGtOV0RXNVlOWnZLckJubG5pSS0zRTRHVlFRc19mV3UtYzJOamN6R0FZSmdPYTAxMFZVX1hIVXdLZUxqWlNaREVKZkFHdw?oc=5",
-        "source": "PANews",
-        "published_hkt": "11/24 00:39",
+        "title": "快訊｜黃仁勳正式回任 比特幣半小時飆5.7%衝上6.45萬美元",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9leHN4bXFRbnU3a2EwX3dJSEVJRVk2Vm01V3EtOFd6WEFYbFd3MllkSVA4NTNqdDJydzJ3ZEJrdTdSc0F3eW1Ub28tbUVnYVk?oc=5",
+        "source": "天天上新聞",
+        "published_hkt": "11/24 08:15",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "美股加密概念股走高，Galaxy Digital涨19%",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjVXE1SXhWbXJkbTYzemNOSzYwT3llb1dHMWswcXpzeHBZX2hZUldwUGExWDBUQWZ1NUx2UFZSZE9raWVhUVZuaE1NcXpXeENmb0IzN0IzQ29MWXdPRHhjLXJuNnFDZw?oc=5",
-        "source": "TradingView",
-        "published_hkt": "11/24 00:39",
-        "related": []
+        "title": "黃仁勳閃電回鍋輝達執行長，費半飆逾14%，台指期夜盤漲3,170點",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nbUtGWk9Wc1dFRjdIY05ySWRKOEN5UmJNU0pVWkFUZWQzakNHYmZRd3JjaE9QWGwtZmE2QnVRSVQ5UjV6TVh6ZnBucWt4MWVlSGtPMDdoSTVfNFVMeGhpY09R?oc=5",
+        "source": "鏈新聞 ABMedia",
+        "published_hkt": "11/24 08:03",
+        "related": [
+          "NVDA"
+        ]
       }
     ]
   }

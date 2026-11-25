@@ -249,30 +249,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-26 02:43 HKT",
+    "updated_at": "2026-11-26 06:13 HKT",
     "news": [
       {
-        "title": "比特幣滑向2022年以來最差月份，ETF資金外流與聯儲局加息預期施壓 作者 Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84ekNKN0xfYzROcEh2ZFpvbVVONUJURC04ZjZtTml6MlFxdlV3ZF9OVWpBTjRPTHhWbGl6eUZWWFdvQWNGVkV5RkJZXzNnaXFYR1VlRzdBNEZlemw2a1g2Zk5rdDZSZUx2UmlnZjg0WDZ3R0U?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "11/26 02:17",
+        "title": "交易時刻：幣股雙「入冬」，市場進入投降時刻，比特幣5.32萬關鍵防線能否挺住？",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM2dBdVZqWDZSbDYxTnNTOWNTQnRyN0g1YXA2dkNkeGxON2JOTWgycG8xYXJFb2FJS0IzRE1ISUxtSHlLRXlzSndNeDEzU2pIUnloU3FhdUpVZmpIME42OC0xNUZ3XzlJWHd2dTRIUHBvd0lmVGhmeURNM3lDSjdRZnRUUmtHUQ?oc=5",
+        "source": "PANews",
+        "published_hkt": "11/26 05:31",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "歐洲刑警組織追蹤 2800 萬美元加密幣金流 瓦解 57 個盜版串流服務",
-        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQMVExcDZxZmRLSDJfX2c0dG1uTG55bkd2clJZTUtnTlVrRWIwLVg4Q1BuejFTckhnRnRPd1NKcEFTTlVwZmdfRnNFNDdhMWQ1MGlxR2k2d0xEUW9TbTVJTHBLcWcwRVowUFNObDdfWGZmQTQ4NnFiVkxxdmd5c3Fwam91OWR3dFdnX29aeE9scVN3bWo3LUxhZFRDNGFkQnhGNkNEYzcxanFyT0lYcVFCek1lZGtwdGIwdFVaajlkcVdPTnRMUkFMZENGbWVkRklBXzl3R2dLNXpmTVZiWDNCTV80ZjJET1VqdkdKVXgwaml2a3FEVHpfQXZraDZTWEhHOXJEREZSZk8zWUNmVTNTN003RkR0bHRhYm0tZTE5b1N1QVhycm5ESFdlVVZHVnVreTNXcnBmVUJjQQ?oc=5",
-        "source": "LIFE 生活網",
-        "published_hkt": "11/26 01:35",
+        "title": "Take-Two Interactive Software (Ondo Tokenized Stock) 價格：TTWOON/USD 價格走勢圖、市值與今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeXcwclZQUEhkaGh6RjJKLUhEOWxIYkVqUzZyNGlYeGMyNUotM3B0YnZNT01VOHA5X3dhLXZONS11d2NOSVVBMVNXeFBKbkNuYTZYRnJ2aURWV1RlbGJaOEZ3d0EwaGh0YklkdTdCb3FrZjdYRGIzRWQ0NkYyTjRtX3ItUXFGc2hoNXBzT1V5YTdNVEE0V0FEdDQyajJ0VGQ4WjRoMDJNckxhenVjdExwNXA2NGRuODFmNGVv?oc=5",
+        "source": "Coingecko",
+        "published_hkt": "11/26 05:26",
         "related": []
       },
       {
-        "title": "BTC這次不一樣？",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSjBsekZDQ0lFQjMxNFZ2U3QxbFVoeDFhZEN2SVhtUVBrY2t4dHd2Q2JRd2JUYlRCWHdZUlpWSUtESmxfQ3pmRjU0ejZjYmhzQWw5bE5RNWxQcmRSemtRN1JYT0g4VjFqaXdqTlBESVBNOEg4VzNCLS1hNG9hM2p0aTZCNVNwUQ?oc=5",
-        "source": "PANews",
-        "published_hkt": "11/26 00:26",
-        "related": []
+        "title": "以太坊上全球最大稳定币据称已在Axelar上线",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qOFlZUEVlYVFlMk5XYnR0dUpEaEZ5Wi1mQzVrRTNjcy05REJ0SktiTy15WVY0U1Mtblp4aDZDVTNsMlpMc2puR2FxcEx5SEU0ekNORk4yOXN0ei1aaUk1MXk2RFhLZw?oc=5",
+        "source": "TradingView",
+        "published_hkt": "11/26 02:41",
+        "related": [
+          "ETH"
+        ]
       }
     ]
   }

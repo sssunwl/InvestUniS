@@ -247,31 +247,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-25 06:56 HKT",
+    "updated_at": "2026-11-25 13:31 HKT",
     "news": [
       {
-        "title": "隔夜美股 | 三大指數漲跌不一 Anthropic(ANT.US)破發 比特幣跌至6萬美元下方 作者 智通財經",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjcTA0cjkyZXVBYndlQWg5Zkd0SFlVVDNkZFpnQXVkcmFoVWhRb2JLTEsyN01oQk5jSzhlNnFIZEItbF9ydVVnTDBxeFNxdFhPMjE4bjl2b3pJMGktcFpVaHZ6WHJFQmd3cXUxdUxlTzQ?oc=5",
-        "source": "Investing.com 香港 - 股市報價& 財經新聞",
-        "published_hkt": "11/25 06:41",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "以太坊價格預測：受關稅擔憂影響，ETH跌破1,700美元",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObWdzamtPWXZPQWhWclMxbXdUZzZ1TWQteTZOYVk5U0FLa3U4RkRyb0llbDFzbHBEdERaYTZaM1ltR0Q2WXBIN28wVFJsN2NvR0h3N2txb05YaVZha2FnQTBOM19JVk5jNWJHZ3ZCM2dZRkYyNl82VHhhN21QUU16VnBLaXcxZ3Y5VmNUcklCMmFpQTd6NWZlUlhCQ2phdjB1VjdCMXZoNnpPWEY4ak9YM0hJdkZMazh0c0hzSVc2Ty1TMS14MEZlVmx3YW9XcE1heVp5YlFRMHBBU1VLOW13?oc=5",
-        "source": "FXStreet",
-        "published_hkt": "11/25 05:02",
+        "title": "以太坊基金會選用 Keccak-256，推進後量子密碼學發展",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVHJOYXZyeU5Bdm5DZVFjX1VxSGxBdC1iYXZfOElBaUEwb0FLaEVfc2stYzdCSDVGNEwzNUVteERwZVAxeENHakpReW9WaHJLSG5WTXI2aXFGMXlxeXVVV1pOdDBpc1Jab1dTX1ZxRGNNOU5SWm1xOWM0aTBHUzdISFVaeW9qYU01VU1GU3FJS29aV2dhX1QxZVZRRHVFeUVLQ2EwNk9JdTh1cmRPZURTelBFOFZ6RTRDTDdqcmFPNEZyOTZQQ0RLTEVhUzRqd3BmbTZlZTVRUQ?oc=5",
+        "source": "www.tmgm.com",
+        "published_hkt": "11/25 13:25",
         "related": [
           "ETH"
         ]
       },
       {
-        "title": "Verasity 今日價格：台灣的 VRA 兌 TWD 實時價格圖表和市場數據",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5UkFMVF9nay1sMkU2bThzc083ZG9UdDZvdzk3Und0SWhKLWxvc1ZyRHNYeHlhMndvcFU5QlFEOFdObXRrX2pWVV9zeTFOYnVja0JZ?oc=5",
-        "source": "MEXC",
-        "published_hkt": "11/25 03:00",
+        "title": "前3名價格預測：比特幣、以太坊、瑞波幣–隨著超賣的加密貨幣市場關注年度低點，BTC、ETH和XRP擴大跌幅",
+        "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQUS1DQlBRNFdPRnExR2RBUlpCdXp5WW1DWjVPV1plc254ZG85S2xRb0M0OHduTEUzZGFjbXJmYzc1MWI3RXltNFR1SEtYVzBvbHB6cGctLVlDUFUzNjNuRi1ydGRsdDBTVmhHUUFrR2U1R3REMTYxRVRHUTBYNXRhaUVUWEVfOVFNLXhiMmNfczJmNWpzMFJMLWFwSWxWTXhiUmZoM25JZ21hb2xvcW5xLWxvb0JCUEZpcmNTaGIwN09veWh3NEpTZW9lNnNVek44aWxKVWd0cG5fV292WXBkLWNva1llLXJUM1hRU05OSjlDYWNCNWFIblkzenBILVNlU0hwQlhIbng4a19VelVsV1hjQnIwak1nMWhUYmY0eWh0TGtlcTZMbA?oc=5",
+        "source": "FXStreet",
+        "published_hkt": "11/25 11:58",
+        "related": [
+          "BTC",
+          "ETH"
+        ]
+      },
+      {
+        "title": "莫斯科交易所12月起将对USDT交易加征22%增值税",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4ZnRsYm8zWVRFZk1ZTDhKSEJBNXdGTlFvVHJsQUtfMjFZTnByam9YN1c5c1h1Tmt6b3JqNnVpUi0wRFNtSWgyaENaaHZiaWktY1dqYWx1c0lZenJYUTNRQkI0czNQUQ?oc=5",
+        "source": "TradingView",
+        "published_hkt": "11/25 10:13",
         "related": []
       }
     ]

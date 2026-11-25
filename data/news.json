@@ -249,29 +249,29 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-26 01:40 HKT",
+    "updated_at": "2026-11-26 02:43 HKT",
     "news": [
+      {
+        "title": "比特幣滑向2022年以來最差月份，ETF資金外流與聯儲局加息預期施壓 作者 Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84ekNKN0xfYzROcEh2ZFpvbVVONUJURC04ZjZtTml6MlFxdlV3ZF9OVWpBTjRPTHhWbGl6eUZWWFdvQWNGVkV5RkJZXzNnaXFYR1VlRzdBNEZlemw2a1g2Zk5rdDZSZUx2UmlnZjg0WDZ3R0U?oc=5",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "published_hkt": "11/26 02:17",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "歐洲刑警組織追蹤 2800 萬美元加密幣金流 瓦解 57 個盜版串流服務",
+        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQMVExcDZxZmRLSDJfX2c0dG1uTG55bkd2clJZTUtnTlVrRWIwLVg4Q1BuejFTckhnRnRPd1NKcEFTTlVwZmdfRnNFNDdhMWQ1MGlxR2k2d0xEUW9TbTVJTHBLcWcwRVowUFNObDdfWGZmQTQ4NnFiVkxxdmd5c3Fwam91OWR3dFdnX29aeE9scVN3bWo3LUxhZFRDNGFkQnhGNkNEYzcxanFyT0lYcVFCek1lZGtwdGIwdFVaajlkcVdPTnRMUkFMZENGbWVkRklBXzl3R2dLNXpmTVZiWDNCTV80ZjJET1VqdkdKVXgwaml2a3FEVHpfQXZraDZTWEhHOXJEREZSZk8zWUNmVTNTN003RkR0bHRhYm0tZTE5b1N1QVhycm5ESFdlVVZHVnVreTNXcnBmVUJjQQ?oc=5",
+        "source": "LIFE 生活網",
+        "published_hkt": "11/26 01:35",
+        "related": []
+      },
       {
         "title": "BTC這次不一樣？",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSjBsekZDQ0lFQjMxNFZ2U3QxbFVoeDFhZEN2SVhtUVBrY2t4dHd2Q2JRd2JUYlRCWHdZUlpWSUtESmxfQ3pmRjU0ejZjYmhzQWw5bE5RNWxQcmRSemtRN1JYT0g4VjFqaXdqTlBESVBNOEg4VzNCLS1hNG9hM2p0aTZCNVNwUQ?oc=5",
         "source": "PANews",
         "published_hkt": "11/26 00:26",
-        "related": []
-      },
-      {
-        "title": "輝達擬以2.9 億美元和解加密貨幣挖礦營收舊案！已向法院申請初步核准| 動區動趨-最具影響力的區塊鏈新聞媒體",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR2w3ZTlQclhPVGJNN0oxeFc1LTdlNjBNU01oY2lRT2VXRVUzXy0zNEVuNW00TGFIZks4UFV1cHRzdlZUXzVLR3pXLVpBNl9mQk9hSldtUzd1NEh4djdxMFJHWGJRMGdmWlZkWi10Y041eVFka0oxYzk5bkFYR3F4S2l4TXZ0aGs?oc=5",
-        "source": "動區動趨",
-        "published_hkt": "11/26 00:18",
-        "related": [
-          "NVDA"
-        ]
-      },
-      {
-        "title": "Franklin Crypto Index ETF将纳入HYPE",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iUWM2ZFctZTJBQXQyMkt3c2JQU3ZOS213LUtjN1B6WDdJQUxjOTg0T3VieV9UVFBvZGo5akRPUi1fWHZiRkpBdzJzWnhPQjR1Q3F1bVU2S0F3aWpfcmtUbE1rdEtEUQ?oc=5",
-        "source": "TradingView",
-        "published_hkt": "11/26 00:12",
         "related": []
       }
     ]

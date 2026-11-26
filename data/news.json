@@ -251,8 +251,26 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-27 01:23 HKT",
+    "updated_at": "2026-11-27 02:31 HKT",
     "news": [
+      {
+        "title": "比特幣休眠供應量上升，呈現歷史熊市築底特徵",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5REUxR0Z2ZGNXY3B3blRCVDNqYWVYSXpHOW84ZXdTeEkxdHh1NkNYcG1aNmtZZlNVb1h2eUlDSmF1bXBiUlNwNzFkTFVWSU0?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "11/27 02:07",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "BNB Chain 公布新L1 設計：目標 200 毫秒出塊，公共測試網尚未上線| 動區動趨-最具影響力的區塊鏈新聞媒體",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaERqaU9COUdJZlJ1T180bEhCaEg2VDBxWkZRNmpqWTRjc0hnNXQtMWVqbXdjRkJQNks1WXMxd3g0cXVTNEtNZXFRejZ4N3VfOWlMdHRKLWJ6SGpUd2NWYktaTkZmU2RhN25fZXpWZ1BNcXFXWmZaRi1VdjdDVFRyeHJZWQ?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "11/27 01:37",
+        "related": [
+          "BNB"
+        ]
+      },
       {
         "title": "摩根大通：Strategy 估值倍數探0.88 新低，視為比特幣投降訊號| 動區動趨-最具影響力的區塊鏈新聞媒體",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMHpfQTh3VHJZZURPMDZLN2c3Q01JM25tWUE4VEpuNXhPWFNfZTQyeE1VMHhVdWk2eEs5aFdPR204Sm5TY0lzbnlLcVd0QURsQTE2cnNjSkd2UWhuRG9KS3VjSjlaaXZaU2xnalVmdnpRVzYxa1dseUZ3R3hlLU1PMC1XU05PblRGbE5pTjBxMXVaYVZjRE9LSjhn?oc=5",
@@ -261,22 +279,6 @@
         "related": [
           "BTC"
         ]
-      },
-      {
-        "title": "Aave Pro在以太坊和Avalanche市场推出杠杆功能",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yYmVWcEoyenhYTjExb2c3UlY3aFFwcjlWUUUtd19xVy04ZzdWdVp3SlF2ZExkSURhcGZLMGkzMFhWU29BaTJ3X3hZR0lZYWZNQ0NLUkxqQ1llQjhFb2t5SF9WVVgtUQ?oc=5",
-        "source": "TradingView",
-        "published_hkt": "11/27 01:03",
-        "related": [
-          "ETH"
-        ]
-      },
-      {
-        "title": "JPMorgan称Strategy NAV倍数创新低预示比特币投降",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DaGJhVXdWcnRBckJPZTJ2ZnRuaUJqUzhtaUhiNnBMX1VfN3hqdUZBcGt3R2lGWGV3YjNvZVc4UElMc1lwT09rXzZWRFB3dUY1Rk4tUWN5cTJHNTNHdjgtc1AyTm1QQQ?oc=5",
-        "source": "TradingView",
-        "published_hkt": "11/27 00:29",
-        "related": []
       }
     ]
   }

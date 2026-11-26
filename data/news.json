@@ -251,34 +251,32 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-26 17:05 HKT",
+    "updated_at": "2026-11-27 00:40 HKT",
     "news": [
       {
-        "title": "主要加密貨幣行情，比特幣升0.16%",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS2lxZEdfc0cwbVNCUWRkUDJORzJLbjVkOGptbjZOc2NNc1dWcW52M093cGw3OUJ3OGRsMU1QRlQwTWlieDVFTUhXNG0tRDBrOWFHNnBGVld4MnNmcTI1c2ZCVDlleDAyOGRfNDQyNERXUzdCS0toam9QdnpmM1Ytb0VOWFVNenVlVWdfb2U5elB5Rm9uWEJ3cGM0X3lwT19q?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "11/26 16:32",
-        "related": [
-          "BTC"
-        ]
-      },
-      {
-        "title": "比特幣軋空反彈快來了？上方 160 億美元空單，可能成為燃料",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMi0zN0RTekhOcEhScG5zekZvWk9yTXc1aHp0cE9MLUgzVm5za1czU3R3UVZWb09PWVcwbXBCNHJ5TEpzOERQaWN2T2c3RDYzZUdaRGdvY0ZaXzdFckEyc2lnZ2ZLLU9wRmRrSlNUUm5WeXkwNHhzYzNNWUZueFhtaVEwbXdQR0c2TmJMVmhoT2xHZlBXVkxiOVUwbzZ6dw?oc=5",
+        "title": "Tom Lee：美股恐慌指數曾觸及40、痛感已夠，現在賣出是錯的且對以太坊信心不變| 動區動趨-最具影響力的區塊鏈新聞媒體",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMFJFQzdQSWdKSGNiQXp3M2YtamZsZ3pjRUJuYktwdHFyT1I1MTNud1RqSHYxejY3bDhGQXJLU0JTT29DMzE3LTBFX0trLUEzSlFZOXRmWHhSdXRmY21OajNtZ3lrNjRneXAtMFlhb1dCT0t3SncxVXNsQlYwRWM3dXpENWxaRkZhUDhvcUVR?oc=5",
         "source": "動區動趨",
-        "published_hkt": "11/26 16:13",
+        "published_hkt": "11/27 00:23",
+        "related": [
+          "ETH"
+        ]
+      },
+      {
+        "title": "比特幣礦企Cango旗下佐治亞州礦場發生火災，一名承包商去世",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Xa01BbXZUaWJMWjVrRnZWamJ4TmpWRV9LTUJOWV9vTFk4dFFlMXNkamNzOEdEOGM4UEUxVTVUdFM0d3pwR2tqc2JxaGJ0bWc?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "11/27 00:06",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "輝達挖礦舊帳爆 2.9 億美元和解！遭控隱瞞 GPU 需求，黃仁勳列被告",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbEkxTzZ6UkZnd0tRb0JiXzBqYVRYUHFwRXdkbG1DTXptZjlMYzRGbGZTdE1JWmhjeFljZnMxQUlLM2twdkpVWWIyVlBNRkRyWEtkeGZseFZGWm9taVo2bmJMRTY5bWQxRlpYenhlbW15eWk1UWlMQ3ptMEVVb2thZGJ1c1RpYkVSRjFIdA?oc=5",
-        "source": "區塊客",
-        "published_hkt": "11/26 15:39",
-        "related": [
-          "NVDA"
-        ]
+        "title": "Extended公布XTEN代幣空投安排，11月30日開放現貨交易",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84eDhBN1M5Q1k2UmNzRnJ0OFhZSWNjRWl1anBrUngwV2RFTjZGeWI3aWR0RDczRTc3WnkycDFIbldHV21TRjBnOWhxRjl4UkU?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "11/27 00:06",
+        "related": []
       }
     ]
   }

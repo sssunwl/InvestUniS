@@ -251,31 +251,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-27 00:40 HKT",
+    "updated_at": "2026-11-27 01:23 HKT",
     "news": [
       {
-        "title": "Tom Lee：美股恐慌指數曾觸及40、痛感已夠，現在賣出是錯的且對以太坊信心不變| 動區動趨-最具影響力的區塊鏈新聞媒體",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMFJFQzdQSWdKSGNiQXp3M2YtamZsZ3pjRUJuYktwdHFyT1I1MTNud1RqSHYxejY3bDhGQXJLU0JTT29DMzE3LTBFX0trLUEzSlFZOXRmWHhSdXRmY21OajNtZ3lrNjRneXAtMFlhb1dCT0t3SncxVXNsQlYwRWM3dXpENWxaRkZhUDhvcUVR?oc=5",
+        "title": "摩根大通：Strategy 估值倍數探0.88 新低，視為比特幣投降訊號| 動區動趨-最具影響力的區塊鏈新聞媒體",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMHpfQTh3VHJZZURPMDZLN2c3Q01JM25tWUE4VEpuNXhPWFNfZTQyeE1VMHhVdWk2eEs5aFdPR204Sm5TY0lzbnlLcVd0QURsQTE2cnNjSkd2UWhuRG9KS3VjSjlaaXZaU2xnalVmdnpRVzYxa1dseUZ3R3hlLU1PMC1XU05PblRGbE5pTjBxMXVaYVZjRE9LSjhn?oc=5",
         "source": "動區動趨",
-        "published_hkt": "11/27 00:23",
-        "related": [
-          "ETH"
-        ]
-      },
-      {
-        "title": "比特幣礦企Cango旗下佐治亞州礦場發生火災，一名承包商去世",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Xa01BbXZUaWJMWjVrRnZWamJ4TmpWRV9LTUJOWV9vTFk4dFFlMXNkamNzOEdEOGM4UEUxVTVUdFM0d3pwR2tqc2JxaGJ0bWc?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "11/27 00:06",
+        "published_hkt": "11/27 01:08",
         "related": [
           "BTC"
         ]
       },
       {
-        "title": "Extended公布XTEN代幣空投安排，11月30日開放現貨交易",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84eDhBN1M5Q1k2UmNzRnJ0OFhZSWNjRWl1anBrUngwV2RFTjZGeWI3aWR0RDczRTc3WnkycDFIbldHV21TRjBnOWhxRjl4UkU?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "11/27 00:06",
+        "title": "Aave Pro在以太坊和Avalanche市场推出杠杆功能",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yYmVWcEoyenhYTjExb2c3UlY3aFFwcjlWUUUtd19xVy04ZzdWdVp3SlF2ZExkSURhcGZLMGkzMFhWU29BaTJ3X3hZR0lZYWZNQ0NLUkxqQ1llQjhFb2t5SF9WVVgtUQ?oc=5",
+        "source": "TradingView",
+        "published_hkt": "11/27 01:03",
+        "related": [
+          "ETH"
+        ]
+      },
+      {
+        "title": "JPMorgan称Strategy NAV倍数创新低预示比特币投降",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DaGJhVXdWcnRBckJPZTJ2ZnRuaUJqUzhtaUhiNnBMX1VfN3hqdUZBcGt3R2lGWGV3YjNvZVc4UElMc1lwT09rXzZWRFB3dUY1Rk4tUWN5cTJHNTNHdjgtc1AyTm1QQQ?oc=5",
+        "source": "TradingView",
+        "published_hkt": "11/27 00:29",
         "related": []
       }
     ]

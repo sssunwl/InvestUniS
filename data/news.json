@@ -94,8 +94,17 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-26 16:46 HKT",
+      "updated_at": "2026-11-26 17:05 HKT",
       "news": [
+        {
+          "title": "港股技術反彈即引213億北水退出，恒指全日升幅收窄至260點報22226",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVzduYkZPSzNiUGwtRjZhTWZIUXQ3Z0lqU3ZGS2NyTGFZV1FlRVM3dGlBeXdUZVdSLUJMOVl3ZkZpRWloRlBxSFNxTEY5NTZIaVRiZUVpa2p6N1FEQnZvQm9qOHZFUWdHZURTWVcwNmdqMExwLUZlWnJBYkI2aWlWQlNUR1JLRkc0T3RRWmF3d21PZ1Q1?oc=5",
+          "source": "etnet 經濟通",
+          "published_hkt": "11/26 16:47",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "恒指走勢丨收升260點止七連跌 北水走資213億",
           "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPSUluQmFYV1lyMWZmcm9lSHlzTW90a1o3dmhxYTVqR0JfcGlKc3J5a2FtQlp1UUpmM2xuYndfb0Ezajg4Q0ZFY3hOZGc3V2dQa2tpQkxMZ2VJZEtkLWJwemt5eE5KRGNmeFBkOFgtTjFrNnNsRlJwRXZld3VZb2JCVXU2VHFJUC1naTluSUxRTm9yNXJtdFBZeTAyTGxOWXFjRVNNSFhnVXlnODJaSmVWTUdkcFdUS0REa1hSdzBCTEN1UGMxdzhLckRxSnlkd1haRlJqd0QzRVhocXE5RmtuUHBDRjRhc2VLR1BhVXNWOURjVjI4bHJzWXpRMVJnYTNkMTZUMkpsOGt4ZTV3VVFPWF9raG9KMFB5UjFUaGVmRGxVSnI0MjMzSk40bnZlemliUUdsNzNydVFrOVU?oc=5",
@@ -113,13 +122,6 @@
           "related": [
             "^HSI"
           ]
-        },
-        {
-          "title": "港股收評：三大指數均升超1.1%，半導體股成反彈先鋒，內銀股再度活躍交行創新高！",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45a25sQ25EMEl4bXhPUXZWbVNrREJuSk9mTVpvNXBLY3dhOEFUd19JanlOV0pscnJQQnpTQ19NRUpidC0tVm5waEo0RXBhdWRyejlCQnpTU2dUcllHS2ZVRVJ1NFdnenVsQWc?oc=5",
-          "source": "TradingView",
-          "published_hkt": "11/26 16:23",
-          "related": []
         }
       ]
     }
@@ -158,31 +160,30 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-26 16:46 HKT",
+      "updated_at": "2026-11-26 17:05 HKT",
       "news": [
         {
-          "title": "TWA00 加權指數- 神山扛得住嗎？😏 - 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IUWVxdHdTNDMwM2Q5WHVJaTFVYVJMNVQ3TUVUc2xSOExRdjd3cEdPTjMzTHlaVjloSk0yaHRtbWI0QUlFbFc1dHdkYjdsU2EycGg0NlhjUnc?oc=5",
-          "source": "CMoney",
-          "published_hkt": "11/26 16:26",
+          "title": "外資投信聯手 狠砍「這檔」9.5萬張！12萬股東臉噴出綠光",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PQmtoV2ltSTI5Zi1QUW9PSkVKOWdVb01mVm1QOXFZY1QtcUFlanJRM19GdEdjeWl1TGs2OHFBQ3lERG5DUmFBWGZiMA?oc=5",
+          "source": "三立新聞",
+          "published_hkt": "11/26 16:47",
+          "related": []
+        },
+        {
+          "title": "《台股重要指標（3-2）》加權指數 9日Ｋ值為35.58，9日Ｄ值為32.27",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMFh4WW13Ym96eTItSTF1UGM0aE11NXN2SUs2MFdqTlgzVVNvdnhIOTFnQkk0OWg4VF9ad2FTTk84VmRSMS1vejRvM3JIN2ZwUnhGbDJVOTlZX3B4Ni1GV3hfS2RmY2wyNktuN3R6WGpNeTlNeXBrQ1RfbmhtUlQ4NHpzSHhWd2xT?oc=5",
+          "source": "富聯網",
+          "published_hkt": "11/26 16:36",
           "related": [
             "^TWII"
           ]
         },
         {
-          "title": "台股選前行情看俏！分析師示警關稅2大風險- 財經新聞",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaHZDVWlWZXlhMm94amdZNjE1cHpfVTMyTGlwR2pwbENLWWNBVlZXT0NVYVIzOTk1UDJNX0dfdlNjT3FKRUt1WEFmNlBicGVmangzcEk4cTRNMkJDVGxDZkFlNlZxcHVTQWFsTmNUMERGVlczenpfTWpGUjdZaG1IbUV4ZjhkVHprQ2lB?oc=5",
-          "source": "PChome Online 新聞",
-          "published_hkt": "11/26 16:15",
-          "related": []
-        },
-        {
-          "title": "TWA00 加權指數- 輝達要求伺服器製造商停止向東南亞發貨- 股市爆料同學會",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BbU5UMG1XR1BPV3hRRFFXdFB1UjlzbG9NaXBIN2V1cG1xV3phNkpBSjNXQXdKRE1HMHFEckVZc3dPOUlNS2VZdU9TcHlBRlJtSEpINDlVVjQ?oc=5",
-          "source": "CMoney",
-          "published_hkt": "11/26 16:06",
+          "title": "《台股重要指標（3-1）》加權指數 6日ＲＳＩ為46.97",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXZORkZyUUdVZ296UmtONm0xMmxodG9ObzJyVEZ1MVlGQmp6VDV0RU0xOHBQZlVNR1Q3eGlIeUpqZDBXdjN6T3daTmhNbnl2VkZ5STdFQUFsM0NoN1hvV3I2cEZIQWhVLS01UEhndTZNNm1PT1NxQlY4YnNWOTc2Q2pGSmFEUnNN?oc=5",
+          "source": "富聯網",
+          "published_hkt": "11/26 16:36",
           "related": [
-            "NVDA",
             "^TWII"
           ]
         }
@@ -219,8 +220,24 @@
       ]
     },
     "post_market": {
-      "updated_at": "2026-11-26 16:46 HKT",
+      "updated_at": "2026-11-26 17:05 HKT",
       "news": [
+        {
+          "title": "亞洲股市收市 | 美股今晚休市，關稅憂慮緩和，股市溫和反彈 作者 Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NZEVtcmQ2S0ZlUXhseXR5cndZbkFydS1QMnR1Nm04QTd2NGlnQnVtdS13OGItSmh2SFpUNHNadTl1cXBGbjdQeU1yajBSQVQ2MG84Tk9CVGlzNHJEQ1BKUXIzV0FEWE14ODhGcnVMSTM?oc=5",
+          "source": "Investing.com 香港 - 股市報價& 財經新聞",
+          "published_hkt": "11/26 17:03",
+          "related": []
+        },
+        {
+          "title": "恒指收市升260點 北水流出214億元 見7個月最多 (16:24) - 20261126 - 即時財經新聞",
+          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQN2tFRlk4S2ZZazl3d2xaOUxDOHUyMFlvajg4VWQ0Ujd0SEVFWEZDeTM5aEtoSFB1TTQ3SmhrT3NuQlN5eVFsWlNNd2RjQTdSdlhjT01PdDRuUzB1VWRIUEx4N1NWZU8wRmhzY0tnQUVWX2dsa1E5c2ZycEs4eFZyMmtfbTJlYUh5dE1sOGVkekFsWmRHMFI3dWF1cU9VRjFhYjd0WDZaMF8zeGlDZDFhVzJWNl8wZUdjS2xtRXBEWkctc2lOalBlZ3d5em9XbzdaS0JoWDZQZ3dEZlhGM3BvZmJVWDJPSzQxQTNnU0Q4RDBHTkw3N1JrYlpoazczakdqMl8zYjFNWl9CemdpSGgxRFZ5QVZJVEJzcngzNnRGM1BfTVVqRm9iMkFpbHpsdWpTQmx5QlR0dTZ5X3ZVRk1Db0xGVUp2NDRRMHc?oc=5",
+          "source": "明報財經網",
+          "published_hkt": "11/26 16:27",
+          "related": [
+            "^HSI"
+          ]
+        },
         {
           "title": "日股收漲！AI、半導體類股強彈，日經指數「勁揚487點」",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPazl4Yk1EdktXcFlyS0lvT3JmdWswdU9yLXNYaXVXOGxZR0NuMXhGUFN4SWtiRFF3Y3QzbVhhX3lkOU5YVnNFbFQ3Q0JuX3I2czYzWk4tSU1LYkRLS3h2eEc5ckk2elV5QmdfdUpsOXAxbnpIODd5N0RJRmNENUtjUWMxSXNGcHh5QjNWZ09oQ2ZGVFVSZlV3UmFZSGJnd0YyZVlxajdhXzRRaFdmN2Q4UFc4RlZtdTBnZHBQVVFRaGJYWWxtYVlhdGp2QmtlaXlNd092YWZVNEc0RVNJWVpyNQ?oc=5",
@@ -229,26 +246,12 @@
           "related": [
             "^N225"
           ]
-        },
-        {
-          "title": "AI、半導體類股強彈日股收漲| 全球財經| 全球",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oeUptTk9kQnZXR2psSDFGUWJFcXkxSTV3bUdzeGRJOVFzSXdkOXNsdlJSZ1ZYajZONFBCSUpXY0ExaHdfVTJROWs2NEJCQWhT?oc=5",
-          "source": "udn",
-          "published_hkt": "11/26 15:28",
-          "related": []
-        },
-        {
-          "title": "AI、半導體類股強彈　日股收漲",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FbnFkaTRydEk1WUtIWTFhd2xyOXlyaEZUeWRrRzNFUmlId0Nfc2FOM096SS1PbXBOQVhYOGE4M3AxSDV2QnlLcjV2bTlxRlk0RGkyTlZrSUZqZ9IBX0FVX3lxTE41TjlYczlBX0tZdUt5NkxhNnR0WmZnVXhOcGtjeVVnWHVnd2hJV19LcDcwTlY1LTVROE1VQm5KOTFzZkt4X3BSSUNsT3BvUWN4SFprYUJIQW52Slhod0Nj?oc=5",
-          "source": "經濟日報",
-          "published_hkt": "11/26 15:07",
-          "related": []
         }
       ]
     }
   },
   "crypto": {
-    "updated_at": "2026-11-26 16:46 HKT",
+    "updated_at": "2026-11-26 17:05 HKT",
     "news": [
       {
         "title": "主要加密貨幣行情，比特幣升0.16%",
@@ -269,11 +272,13 @@
         ]
       },
       {
-        "title": "Vitalik談硬體錢包安全：僅公開晶片代碼不足以保障安全，硬體必須具備物理可驗證性",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rYjRqOHNCVmNUTG1FNnlsWGhCQ2ltdExRSG9KMGhFNjVTc24xSnNBR0JmUC1ZRHE5WDd0WFZQUHNYSlZpVC1LZlFxOU44Mm8?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "11/26 16:05",
-        "related": []
+        "title": "輝達挖礦舊帳爆 2.9 億美元和解！遭控隱瞞 GPU 需求，黃仁勳列被告",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbEkxTzZ6UkZnd0tRb0JiXzBqYVRYUHFwRXdkbG1DTXptZjlMYzRGbGZTdE1JWmhjeFljZnMxQUlLM2twdkpVWWIyVlBNRkRyWEtkeGZseFZGWm9taVo2bmJMRTY5bWQxRlpYenhlbW15eWk1UWlMQ3ptMEVVb2thZGJ1c1RpYkVSRjFIdA?oc=5",
+        "source": "區塊客",
+        "published_hkt": "11/26 15:39",
+        "related": [
+          "NVDA"
+        ]
       }
     ]
   }

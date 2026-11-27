@@ -254,27 +254,31 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-28 02:19 HKT",
+    "updated_at": "2026-11-28 05:51 HKT",
     "news": [
       {
-        "title": "富蘭克林加密指數ETF將納入HYPE，成為該基金第8種加密持倉",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zXzZvMmxrblV6d0NsMVRvMDl4NXdOMEtNQ290VXEwUERBRlotQm5Ma19vOWRtSXZYWlVjYzZBRERsM1lHSkVYZ3BOUkQ0Mms?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "11/28 02:06",
-        "related": []
-      },
-      {
-        "title": "Take-Two Interactive Software (Ondo Tokenized Stock) 價格：TTWOON/USD 價格走勢圖、市值與今日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeXcwclZQUEhkaGh6RjJKLUhEOWxIYkVqUzZyNGlYeGMyNUotM3B0YnZNT01VOHA5X3dhLXZONS11d2NOSVVBMVNXeFBKbkNuYTZYRnJ2aURWV1RlbGJaOEZ3d0EwaGh0YklkdTdCb3FrZjdYRGIzRWQ0NkYyTjRtX3ItUXFGc2hoNXBzT1V5YTdNVEE0V0FEdDQyajJ0VGQ4WjRoMDJNckxhenVjdExwNXA2NGRuODFmNGVv?oc=5",
-        "source": "Coingecko",
-        "published_hkt": "11/28 01:21",
-        "related": []
+        "title": "#俄罗斯vtb银行上线比特币交易 社群見解與市場情緒 | 幣安廣場",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPT2xUdlIwZWRTNUF4TGN3cHBmalVzalM3c3AzRWR6QXVpR0dlRzJJMUZWZUFUdVZPMjlEQ0VJdE16V2g3Y1V5RVhzN3M2XzN5MV9HR04wOU83Q2VlUm9fTVZ3TW9Bakw1NXhOZVA0LTZNbUtua2JReVFhMklrcXF5Y1NEM2FMeEVOR0ZOS01yM0M5dzh1WG03UWotZEtWTkN4bE8tQmJuTGpFV2lTZnJZbHIxRHM3eGpZSkc2c2IwdHgxQmg2ZWEtWHl5NUxvZG9RR3hPWG5oUXl1VGpFOGtKWGR5ZmVuNmtMUjVQcw?oc=5",
+        "source": "Binance",
+        "published_hkt": "11/28 04:59",
+        "related": [
+          "BNB"
+        ]
       },
       {
         "title": "HYPE 擠進富蘭克林坦伯頓的加密指數 ETF！12/1 起與比特幣、以太幣同籃",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0VuU1NObUF0eG1iMXhlSkRvTEx3VjVKMEFhWGx6aWFPcGVoV1cxMmJkRkZHTjBOcTg2a1kyMWpBYUpjZUJUVTREb2JYRk1GdUcwaS1vZU56Uk9XUEQ1Qk5SelZremZjRkphQWFyZDAyazRiRHRlTUp1aUJJdDV4d3pMNVpKS3YteVllUFBiRC1SVWJhTmc?oc=5",
         "source": "動區動趨",
         "published_hkt": "11/28 01:14",
+        "related": [
+          "BTC"
+        ]
+      },
+      {
+        "title": "比特幣跌破 5.9 萬美元！巨鯨 AguilaTrades 2,440 枚比特幣多單一夜出清、血虧 345 萬美元",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb0ZnM3I5M3hXek4tSjFRVU8tbEs1SjBydzBGZkxmMUw0OUFmOTM1alVNMl9VUmNEX2ZTV2lpSEhyUmxEbVBEcDBXa3JwQWZqQlNKZUNxaGlJLXlBVDR3UFprQkFVaWp3cTVDekxiVVFnZ254dmVoemNuNlFLbC1ZNlNzWm82VVoyS3Fv?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "11/28 01:12",
         "related": [
           "BTC"
         ]

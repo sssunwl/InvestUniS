@@ -254,28 +254,30 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-28 01:01 HKT",
+    "updated_at": "2026-11-28 02:19 HKT",
     "news": [
       {
-        "title": "Invesco Q3增持Strive 152366股，持仓升346%",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Dc21aTWxGejVjZjJkcmtvelpnaUR3cmd0bGF6TDJjT0FlM1B1T1I4SE93dEFoSm5BcGdLY182MkUybjBTVDBmQ1hWNzNaNVNyOGVkSE9ua1NLNlhYZHBoTWFCNFVuQQ?oc=5",
-        "source": "TradingView",
-        "published_hkt": "11/28 00:52",
+        "title": "富蘭克林加密指數ETF將納入HYPE，成為該基金第8種加密持倉",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zXzZvMmxrblV6d0NsMVRvMDl4NXdOMEtNQ290VXEwUERBRlotQm5Ma19vOWRtSXZYWlVjYzZBRERsM1lHSkVYZ3BOUkQ0Mms?oc=5",
+        "source": "鉅亨網",
+        "published_hkt": "11/28 02:06",
         "related": []
       },
       {
-        "title": "Zcash 啟動抗量子隱私池 Epoch 計畫，1 月底選定技術路線",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ON1hET001NmlKSHVRb29jeUlNYXBqR0Z4UmRxcnh3V2dRTjFGSVE1WWhSOF8xbXB6YTF0TTFTcHhpdU9iX1pPM1hPclFwVldQSHVqdUtoWlo4ekZBMi1FZnhSOGdmZjky?oc=5",
-        "source": "鏈新聞 ABMedia",
-        "published_hkt": "11/27 23:39",
+        "title": "Take-Two Interactive Software (Ondo Tokenized Stock) 價格：TTWOON/USD 價格走勢圖、市值與今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeXcwclZQUEhkaGh6RjJKLUhEOWxIYkVqUzZyNGlYeGMyNUotM3B0YnZNT01VOHA5X3dhLXZONS11d2NOSVVBMVNXeFBKbkNuYTZYRnJ2aURWV1RlbGJaOEZ3d0EwaGh0YklkdTdCb3FrZjdYRGIzRWQ0NkYyTjRtX3ItUXFGc2hoNXBzT1V5YTdNVEE0V0FEdDQyajJ0VGQ4WjRoMDJNckxhenVjdExwNXA2NGRuODFmNGVv?oc=5",
+        "source": "Coingecko",
+        "published_hkt": "11/28 01:21",
         "related": []
       },
       {
-        "title": "Glassnode：比特币5万至5.8万美元区间形成密集买盘",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ERW4tM0hFZjFacWU4ZGItX2UzTTZsWlZnYWRqNG5lb3NTRzJ4YW1oWTFHNGZ0a29Tb2Z4cllvYndWTFBkemdjMzh0RTJSeFBCZ1JOZFA1dXI3V2NmcWlWc0lSa0lJUQ?oc=5",
-        "source": "TradingView",
-        "published_hkt": "11/27 23:11",
-        "related": []
+        "title": "HYPE 擠進富蘭克林坦伯頓的加密指數 ETF！12/1 起與比特幣、以太幣同籃",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0VuU1NObUF0eG1iMXhlSkRvTEx3VjVKMEFhWGx6aWFPcGVoV1cxMmJkRkZHTjBOcTg2a1kyMWpBYUpjZUJUVTREb2JYRk1GdUcwaS1vZU56Uk9XUEQ1Qk5SelZremZjRkphQWFyZDAyazRiRHRlTUp1aUJJdDV4d3pMNVpKS3YteVllUFBiRC1SVWJhTmc?oc=5",
+        "source": "動區動趨",
+        "published_hkt": "11/28 01:14",
+        "related": [
+          "BTC"
+        ]
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27 06:36 HKT",
+  "updated": "2026-11-27 08:53 HKT",
   "underlying": "QQQ",
   "disclaimer": "以下均為市場當下的『事實』與教學說明，非買賣建議。期權有歸零風險，交易前請自行判斷。",
   "spot": 633.93,
@@ -9,6 +9,15 @@
   "vix_state": "yellow",
   "vix_label": "波動偏大",
   "vix_desc": "市場開始不安，波動放大",
+  "expected_move": 11.33,
+  "em_low": 622.6,
+  "em_high": 645.26,
+  "dte": 0,
+  "dte_label": "0DTE（今日到期）",
+  "atm_strike": 634.0,
+  "straddle": 13.33,
+  "expiry": "2026-11-27",
+  "atm_iv": null,
   "events": [],
   "light": "yellow"
 }

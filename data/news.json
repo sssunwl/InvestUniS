@@ -254,32 +254,28 @@
     }
   },
   "crypto": {
-    "updated_at": "2026-11-27 17:21 HKT",
+    "updated_at": "2026-11-28 00:25 HKT",
     "news": [
       {
-        "title": "分析师：比特币价格较真实市场均价低20%，尚无明确新底部确认信号",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93akJRMXZDRE9QbjJ3ZzU0b3JtYmtKQXZBd2VDdXhPNjluSHg5WDc2enZGa3pVT2ZtcFUyWlA0ZkoyMW8yWExxZlRlaWFsVld0R1U5SHVOMnUxVlpJaTI5R3BYeFZLdw?oc=5",
-        "source": "TradingView",
-        "published_hkt": "11/27 17:00",
+        "title": "Zcash 啟動抗量子隱私池 Epoch 計畫，1 月底選定技術路線",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ON1hET001NmlKSHVRb29jeUlNYXBqR0Z4UmRxcnh3V2dRTjFGSVE1WWhSOF8xbXB6YTF0TTFTcHhpdU9iX1pPM1hPclFwVldQSHVqdUtoWlo4ekZBMi1FZnhSOGdmZjky?oc=5",
+        "source": "鏈新聞 ABMedia",
+        "published_hkt": "11/27 23:39",
         "related": []
       },
       {
-        "title": "主要加密貨幣行情，比特幣升1.76% | 即時新聞 - 新聞",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVWVnSjBRQUM3NlBwVUk4bjItczZSQnQ2dmxlYzVjdk1Nb0tEbmlJSDZ0MDZHN2NZTUxrOHhXV2xpUm4yZzJyMDdJX0tiYS13SkFLYlFidlFIWmwzTHEtV3VydlNsazB6RlF5NnZhNWVfNzJLbE01YnYtV1F0Y2xacERFS1hpbGplWHpHMTBPZXpsbkl6RE1pNmxpaEZxU3lI?oc=5",
-        "source": "etnet 經濟通",
-        "published_hkt": "11/27 16:31",
-        "related": [
-          "BTC"
-        ]
+        "title": "Glassnode：比特币5万至5.8万美元区间形成密集买盘",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ERW4tM0hFZjFacWU4ZGItX2UzTTZsWlZnYWRqNG5lb3NTRzJ4YW1oWTFHNGZ0a29Tb2Z4cllvYndWTFBkemdjMzh0RTJSeFBCZ1JOZFA1dXI3V2NmcWlWc0lSa0lJUQ?oc=5",
+        "source": "TradingView",
+        "published_hkt": "11/27 23:11",
+        "related": []
       },
       {
-        "title": "某以太坊用戶遭遇投毒攻擊，損失約5.15萬枚USDT",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uWDIzWWZ0aWZKQU4xXzRteTYyX3I2c1ppSUNxNUp6dXp1TFVaalpqQWNwaFdlcW9BVFZ5YmRueUxXeWIyc1dlTW03ZjYtUEU?oc=5",
-        "source": "鉅亨網",
-        "published_hkt": "11/27 14:05",
-        "related": [
-          "ETH"
-        ]
+        "title": "Solana突破70美元大關！日內大漲5%，下一個上行目標是多少？",
+        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQUDB0dXBIcGNKSElsa3V6WVd0OEdaenlsWC1rSnc2V0VWc1kzWF80THJmdTJzd0hUZ1BGOVhadml2RXZWRUc1U3lhb2ktSUEyakZybVV0OFRlTUpFbGUwR1htNVo3QS11d18tN2J3QWpKOUFud0MxLUVJR19IYjdBSGJFUkQtejZvY3lLazlZakg0MGdsRnlnVXJncVBldXpYZVFKaG41d2VvcGN5U1gwNGhGbXF5VFBSWk1SeTJvTHFlcHBIdG1LYmkzcWxsVy16OXB4bC1XcFEwWHRPTmpQYVlRbjZBNmZxV3VfRE5nQ2hXR1NoVFhjck5fdVN0YWhyTkxKVTVrM21ZVldGNmlmdDFZVjVEZk5Ud0dXLTA0bXh4Z0U4RkN6NnE5cUtxS1hQVl9NUVNSZ2gtTnFDekFSLXJGVDhMY2U2aVdTMm55bGN4YmM3dm04Q2JuN1A?oc=5",
+        "source": "HK MoneyClub",
+        "published_hkt": "11/27 23:04",
+        "related": []
       }
     ]
   }
